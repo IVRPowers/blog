@@ -2,47 +2,47 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on IVRPowers Blog Test</title>
-    <link>https://blog.test.ivrpowers.com/categories/</link>
+    <link>http://blog.test.ivrpowers.com/categories/</link>
     <description>Recent content in Categories on IVRPowers Blog Test</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="https://blog.test.ivrpowers.com/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://blog.test.ivrpowers.com/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Info</title>
-      <link>https://blog.test.ivrpowers.com/categories/info/</link>
+      <link>http://blog.test.ivrpowers.com/categories/info/</link>
       <pubDate>Thu, 18 May 2017 14:16:55 +0200</pubDate>
       
-      <guid>https://blog.test.ivrpowers.com/categories/info/</guid>
+      <guid>http://blog.test.ivrpowers.com/categories/info/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Literature</title>
-      <link>https://blog.test.ivrpowers.com/categories/literature/</link>
+      <link>http://blog.test.ivrpowers.com/categories/literature/</link>
       <pubDate>Thu, 18 May 2017 14:16:55 +0200</pubDate>
       
-      <guid>https://blog.test.ivrpowers.com/categories/literature/</guid>
+      <guid>http://blog.test.ivrpowers.com/categories/literature/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Markdown</title>
-      <link>https://blog.test.ivrpowers.com/categories/markdown/</link>
+      <link>http://blog.test.ivrpowers.com/categories/markdown/</link>
       <pubDate>Thu, 18 May 2017 11:09:51 +0200</pubDate>
       
-      <guid>https://blog.test.ivrpowers.com/categories/markdown/</guid>
+      <guid>http://blog.test.ivrpowers.com/categories/markdown/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Tutorial</title>
-      <link>https://blog.test.ivrpowers.com/categories/tutorial/</link>
+      <link>http://blog.test.ivrpowers.com/categories/tutorial/</link>
       <pubDate>Thu, 18 May 2017 11:09:51 +0200</pubDate>
       
-      <guid>https://blog.test.ivrpowers.com/categories/tutorial/</guid>
+      <guid>http://blog.test.ivrpowers.com/categories/tutorial/</guid>
       <description></description>
     </item>
     
