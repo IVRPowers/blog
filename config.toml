@@ -1,0 +1,31 @@
+baseURL = "https://blog.test.ivrpowers.com/"
+languageCode = "en-us"
+title = "IVRPowers Blog Test"
+publishDir = "docs"
+
+[params]
+  # Warning Keys are case sensitives
+  Subtitle = "Streamline your business communications"
+  description = "A complete approach for any business. IVRPowers adapts to you"
+  cover = "/images/cover.jpg"
+  logo = "/images/logo.png"
+  favicon = "/images/favicon.png"
+
+  # Google analytics
+  #googleAnalyticsUserID = "UA-xxxxxxxx-x"
+  #domainVerification = "xxxxxxxxxxxxxxxxxxxxx"
+  #disqus = "xxxxxxxxx"
+
+  [params.author]
+    firstName = "IVRPowers"
+    lastName = "Team"
+    #gender = "(fe)?male"
+    #userName = "username"
+    image = "/images/avatar.png"
+    website = "http://www.ivrpowers.com/"
+    twitter = "https://twitter.com/ivrpowers"
+    github = "https://github.com/IVRPowers"
+    facebook = "https://www.facebook.com/ivrpowers"
+    linkedin = "https://www.linkedin.com/company/10060638"
+    #gplus = "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
+    #gravatarHash = "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
