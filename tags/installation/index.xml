@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tutorial on IVRPowers Blog Test</title>
-    <link>http://blog.test.ivrpowers.com/tags/tutorial/</link>
-    <description>Recent content in Tutorial on IVRPowers Blog Test</description>
+    <title>Installation on IVRPowers Blog Test</title>
+    <link>http://blog.test.ivrpowers.com/tags/installation/</link>
+    <description>Recent content in Installation on IVRPowers Blog Test</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 18 May 2017 11:59:32 +0200</lastBuildDate>
     
-	<atom:link href="http://blog.test.ivrpowers.com/tags/tutorial/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://blog.test.ivrpowers.com/tags/installation/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -19,16 +19,6 @@
       <guid>http://blog.test.ivrpowers.com/post/tutorials/setup/</guid>
       <description>Prerrequisitos Antes de empezar a crear contenido en el blog es necesario cumplir los siguientes pasos.
 Tener Git instalado  Windows: https://git-for-windows.github.io/ Linux: desde el gestor de paquetes (apt-get install git | yum install git-core) Mac: desde Homebrew (brew install git)  Tener una cuenta de GitHub  Registrarse en GitHub Formar parte de la organización IVRPowers (hablar con un administrador): IVRPowers en GitHub (Opcional) Configurar Git en nuestro ordenador para usar SSH Configurar nuestro ordenador para utilizar nuestra cuenta de GitHub  $ git config --global user.</description>
-    </item>
-    
-    <item>
-      <title>Markdown</title>
-      <link>http://blog.test.ivrpowers.com/post/markdown/</link>
-      <pubDate>Thu, 18 May 2017 11:09:51 +0200</pubDate>
-      
-      <guid>http://blog.test.ivrpowers.com/post/markdown/</guid>
-      <description> Markdown es un lenguaje de marcado ligero creado por John Gruber que trata de conseguir la máxima legibilidad y facilidad de publicación tanto en su forma de entrada como de salida, inspirándose en muchas convenciones existentes para marcar mensajes de correo electrónico usando texto plano.
-Tutoriales  Referencia Rápida ¿Qué es Markdown? - La Guía definitiva Markdown en GoHugo  Ejemplos  Ejemplo de Post en GoHugo  Herramientas  Editor Online con Preview  </description>
     </item>
     
   </channel>

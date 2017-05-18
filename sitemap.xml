@@ -7,6 +7,11 @@
   </url>
   
   <url>
+    <loc>http://blog.test.ivrpowers.com/post/tutorials/setup/</loc>
+    <lastmod>2017-05-18T11:59:32+02:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://blog.test.ivrpowers.com/post/markdown/</loc>
     <lastmod>2017-05-18T11:09:51+02:00</lastmod>
   </url>
@@ -31,6 +36,12 @@
   <url>
     <loc>http://blog.test.ivrpowers.com/categories/info/</loc>
     <lastmod>2017-05-18T14:16:55+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://blog.test.ivrpowers.com/tags/installation/</loc>
+    <lastmod>2017-05-18T11:59:32+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -72,13 +83,13 @@
   
   <url>
     <loc>http://blog.test.ivrpowers.com/tags/tutorial/</loc>
-    <lastmod>2017-05-18T11:09:51+02:00</lastmod>
+    <lastmod>2017-05-18T11:59:32+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://blog.test.ivrpowers.com/categories/tutorial/</loc>
-    <lastmod>2017-05-18T11:09:51+02:00</lastmod>
+    <lastmod>2017-05-18T11:59:32+02:00</lastmod>
     <priority>0</priority>
   </url>
   
