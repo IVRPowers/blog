@@ -1,3 +1,49 @@
+@font-face {
+    font-family: 'MuseoSansRounded-100';
+    src: url('/fonts/MuseoSans/MuseoSansRounded-100.eot');
+    src: url('/fonts/MuseoSans/MuseoSansRounded-100.eot?#iefix') format('embedded-opentype'),
+    url('/fonts/MuseoSans/MuseoSansRounded-100.woff') format('woff'),
+    url('/fonts/MuseoSans/MuseoSansRounded-100.ttf') format('truetype'),
+    url('/fonts/MuseoSans/MuseoSansRounded-100.svg#MuseoSansRounded-100') format('svg');
+    font-weight: 100;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'MuseoSansRounded-500';
+    src: url('/fonts/MuseoSans/MuseoSansRounded-500.eot');
+    src: url('/fonts/MuseoSans/MuseoSansRounded-500.eot?#iefix') format('embedded-opentype'),
+    url('/fonts/MuseoSans/MuseoSansRounded-500.woff') format('woff'),
+    url('/fonts/MuseoSans/MuseoSansRounded-500.ttf') format('truetype'),
+    url('/fonts/MuseoSans/MuseoSansRounded-500.svg#MuseoSansRounded-500') format('svg');
+    font-weight: 500;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'MuseoSansRounded-900';
+    src: url('/fonts/MuseoSans/MuseoSansRounded-900.eot');
+    src: url('/fonts/MuseoSans/MuseoSansRounded-900.eot?#iefix') format('embedded-opentype'),
+    url('/fonts/MuseoSans/MuseoSansRounded-900.woff') format('woff'),
+    url('/fonts/MuseoSans/MuseoSansRounded-900.ttf') format('truetype'),
+    url('/fonts/MuseoSans/MuseoSansRounded-900.svg#MuseoSansRounded-900') format('svg');
+    font-weight: 900;
+    font-style: normal;
+}
+
+body {
+    font: 100 1em / 1.5em 'MuseoSansRounded-500',sans-serif !important;
+}
+
+.post-content p {
+    text-align: justify;
+}
+
+#menu .menu-header:before,
+#tocMenu .menu-header:before {
+    border-bottom-color: #fc544c !important;
+}
+
 #header .header-cover:after,
 .post .post-title:before {
     border-bottom-color: #fc544c !important;
@@ -29,8 +75,12 @@
     border-color: #163039 !important;
 }
 
-.post-footer .post-tags a {
+.post-footer .post-tags a:hover {
     text-shadow: 0 0 2px #163039 !important;
+}
+
+.post-footer .post-tags a {
+    text-shadow: 0 0 2px #fc544c !important;
     background-color: #fc544c !important;
 }
 
