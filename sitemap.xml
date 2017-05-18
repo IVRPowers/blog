@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <url>
+    <loc>https://blog.test.ivrpowers.com/post/loremipsum/</loc>
+    <lastmod>2017-05-18T14:16:55+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.test.ivrpowers.com/post/markdown/</loc>
+    <lastmod>2017-05-18T11:09:51+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.test.ivrpowers.com/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.test.ivrpowers.com/tags/example/</loc>
+    <lastmod>2017-05-18T14:16:55+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.test.ivrpowers.com/</loc>
+    <lastmod>2017-05-18T14:16:55+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.test.ivrpowers.com/categories/info/</loc>
+    <lastmod>2017-05-18T14:16:55+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.test.ivrpowers.com/categories/literature/</loc>
+    <lastmod>2017-05-18T14:16:55+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.test.ivrpowers.com/tags/lorem-ipsum/</loc>
+    <lastmod>2017-05-18T14:16:55+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.test.ivrpowers.com/tags/markdown/</loc>
+    <lastmod>2017-05-18T11:09:51+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.test.ivrpowers.com/categories/markdown/</loc>
+    <lastmod>2017-05-18T11:09:51+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.test.ivrpowers.com/post/</loc>
+    <lastmod>2017-05-18T14:16:55+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.test.ivrpowers.com/tags/</loc>
+    <lastmod>2017-05-18T14:16:55+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.test.ivrpowers.com/tags/tutorial/</loc>
+    <lastmod>2017-05-18T11:09:51+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.test.ivrpowers.com/categories/tutorial/</loc>
+    <lastmod>2017-05-18T11:09:51+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+</urlset>

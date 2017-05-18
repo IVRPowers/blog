@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Lorem Ipsum on IVRPowers Blog Test</title>
+    <link>https://blog.test.ivrpowers.com/tags/lorem-ipsum/</link>
+    <description>Recent content in Lorem Ipsum on IVRPowers Blog Test</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 18 May 2017 14:16:55 +0200</lastBuildDate>
+    
+	<atom:link href="https://blog.test.ivrpowers.com/tags/lorem-ipsum/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Lorem Ipsum</title>
+      <link>https://blog.test.ivrpowers.com/post/loremipsum/</link>
+      <pubDate>Thu, 18 May 2017 14:16:55 +0200</pubDate>
+      
+      <guid>https://blog.test.ivrpowers.com/post/loremipsum/</guid>
+      <description>Lorem Ipsum es simplemente el texto de relleno de las imprentas y archivos de texto. Lorem Ipsum ha sido el texto de relleno estándar de las industrias desde el año 1500, cuando un impresor (N. del T. persona que se dedica a la imprenta) desconocido usó una galería de textos y los mezcló de tal manera que logró hacer un libro de textos especimen. No sólo sobrevivió 500 años, sino que tambien ingresó como texto de relleno en documentos electrónicos, quedando esencialmente igual al original.</description>
+    </item>
+    
+  </channel>
+</rss>

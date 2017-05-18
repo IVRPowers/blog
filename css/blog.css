@@ -1,0 +1,88 @@
+#header .header-cover:after,
+.post .post-title:before {
+    border-bottom-color: #fc544c !important;
+}
+
+.post-list .post .post-image {
+    background: #fc544c !important;
+}
+
+.post-list .post .post-image:after {
+    border-top-color: #fc544c !important;
+}
+
+.post-list .post .post-more a i {
+    color: #fc544c !important;
+}
+
+.post-footer .post-tags a:focus,
+.post-footer .post-tags a:hover {
+    background-color: #163039 !important;
+}
+
+.post-content a {
+    border-color: #fc544c !important;
+}
+
+.post-content a:focus,
+.post-content a:hover {
+    border-color: #163039 !important;
+}
+
+.post-footer .post-tags a {
+    text-shadow: 0 0 2px #163039 !important;
+    background-color: #fc544c !important;
+}
+
+.post-nav .post-nav-item .post-nav-teaser .post-nav-icon {
+    border-color: #fc544c !important;
+}
+
+.post-nav .post-nav-item:focus .post-nav-teaser .post-nav-icon,
+.post-nav .post-nav-item:hover .post-nav-teaser .post-nav-icon {
+    box-shadow: 0 0 0 25em #fc544c !important;
+}
+
+@media only screen and (max-width: 50em) {
+    .post-nav .post-nav-item:focus .post-nav-teaser .post-nav-icon,
+    .post-nav .post-nav-item:hover .post-nav-teaser .post-nav-icon {
+        box-shadow: 0 0 0 2px #fc544c !important;
+    }
+}
+
+@media only screen and (min-width: 70em) {
+    .post-nav .post-nav-item:focus .post-nav-teaser .post-nav-icon,
+    .post-nav .post-nav-item:hover .post-nav-teaser .post-nav-icon {
+        box-shadow: 0 0 0 25em #fc544c !important;
+    }
+}
+
+#loader {
+    border-top-color: #fc544c !important;
+}
+
+#loader:before {
+    border-top-color: #fc4128 !important;
+}
+
+#loader:after {
+    border-top-color: #D4D5D9 !important;
+}
+
+#nprogress div.bar {
+    background-color: #fc544c !important;
+}
+
+#nprogress div.spinner-icon {
+    border-top-color: #fc544c !important;
+    border-left-color: #fc544c !important;
+}
+
+#footer {
+    background-color: #163039 !important;
+}
+
+.post-list .post.post.featured .inner {
+    background-color: #163039 !important;
+    color: #c1c1c1 !important;
+}
