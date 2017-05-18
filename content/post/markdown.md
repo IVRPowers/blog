@@ -2,6 +2,7 @@
 categories = ["Markdown","Tutorial"]
 date = "2017-05-18T11:09:51+02:00"
 description = "Cómo usar Markdown"
+draft = false
 tags = ["markdown","tutorial"]
 title = "Markdown"
 +++
@@ -15,6 +16,7 @@ inspirándose en muchas convenciones existentes para marcar mensajes de correo e
 ### Tutoriales
 - [Referencia Rápida](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 - [¿Qué es Markdown? - La Guía definitiva](https://markdown.es/)
+- [Markdown en GoHugo](https://sourceforge.net/p/hugo-generator/wiki/markdown_syntax)
 
 ### Ejemplos
 - [Ejemplo de Post en GoHugo](https://gohugo.io/content/example/)
