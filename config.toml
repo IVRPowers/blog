@@ -1,7 +1,7 @@
-baseURL = "https://blog.test.ivrpowers.com/"
+baseURL = "http://blog.test.ivrpowers.com/"
 languageCode = "en-us"
 title = "IVRPowers Blog Test"
-publishDir = "docs"
+publishDir = "public"
 
 [params]
   # Warning Keys are case sensitives
