@@ -23,6 +23,7 @@ versiones del blog. Para la publicación prepararé un pequeño pograma de conso
 pero para lo que es guardar los cambios que se van haciendo tendréis que tener unas mínimas nociones sobre el uso de **Git**.
 Necesitaréis conocer sobre todo las siguientes acciones:
 
+- **status**: nos indica el estado actual de nuestra zona de trabajo
 - **commit**: es la forma de guardar cambios
 - **reset**: para deshacer cambios no guardados
 - **pull/rebase**: para traer los cambios que un compañero pueda haber hecho a nuestra copia del repositorio
