@@ -132,7 +132,11 @@ body {
     background-color: #163039 !important;
 }
 
-.post-list .post.post.featured .inner {
+.post-list .post.featured .inner {
     background-color: #163039 !important;
     color: #c1c1c1 !important;
+}
+
+.post-list .post.featured .post-title {
+    color: white;
 }

@@ -18,7 +18,7 @@
       
       <guid>http://blog.test.ivrpowers.com/post/tutorials/setup/</guid>
       <description>Prerrequisitos Antes de empezar a crear contenido en el blog es necesario cumplir los siguientes pasos.
-Tener Git instalado  Windows: https://git-for-windows.github.io/ Linux: desde el gestor de paquetes (apt-get install git | yum install git-core) Mac: desde Homebrew (brew install git)  Tener una cuenta de GitHub  Registrarse en GitHub Formar parte de la organización IVRPowers (hablar con un administrador): IVRPowers en GitHub (Opcional) Configurar Git en nuestro ordenador para usar SSH Configurar nuestro ordenador para utilizar nuestra cuenta de GitHub  $ git config --global user.</description>
+Tener Git instalado  Windows: https://git-for-windows.github.io/ Linux: desde el gestor de paquetes (apt-get install git | yum install git-core) Mac: desde Homebrew (brew install git)  Tener una cuenta de GitHub  Registrarse en GitHub Formar parte de la organización IVRPowers (hablar con un administrador): IVRPowers en GitHub (Opcional) Configurar Git en nuestro ordenador para usar SSH en vez de clave de texto Configurar nuestro ordenador para utilizar nuestra cuenta de GitHub (desde la consola/terminal)  $ git config --global user.</description>
     </item>
     
   </channel>

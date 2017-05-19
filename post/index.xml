@@ -6,10 +6,19 @@
     <description>Recent content in Posts on IVRPowers Blog Test</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 18 May 2017 14:16:55 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 19 May 2017 10:51:22 +0200</lastBuildDate>
     
 	<atom:link href="http://blog.test.ivrpowers.com/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Usando Git</title>
+      <link>http://blog.test.ivrpowers.com/post/tutorials/using-git/</link>
+      <pubDate>Fri, 19 May 2017 10:51:22 +0200</pubDate>
+      
+      <guid>http://blog.test.ivrpowers.com/post/tutorials/using-git/</guid>
+      <description>Git es un software de control de versiones diseñado por Linus Torvalds, pensando en la eficiencia y la confiabilidad del mantenimiento de versiones de aplicaciones cuando éstas tienen un gran número de archivos de código fuente. Al principio, Git se pensó como un motor de bajo nivel sobre el cual otros pudieran escribir la interfaz de usuario o front end como Cogito o StGIT. 3 Sin embargo, Git se ha convertido desde entonces en un sistema de control de versiones con funcionalidad plena.</description>
+    </item>
     
     <item>
       <title>Lorem Ipsum</title>
@@ -27,7 +36,7 @@
       
       <guid>http://blog.test.ivrpowers.com/post/tutorials/setup/</guid>
       <description>Prerrequisitos Antes de empezar a crear contenido en el blog es necesario cumplir los siguientes pasos.
-Tener Git instalado  Windows: https://git-for-windows.github.io/ Linux: desde el gestor de paquetes (apt-get install git | yum install git-core) Mac: desde Homebrew (brew install git)  Tener una cuenta de GitHub  Registrarse en GitHub Formar parte de la organización IVRPowers (hablar con un administrador): IVRPowers en GitHub (Opcional) Configurar Git en nuestro ordenador para usar SSH Configurar nuestro ordenador para utilizar nuestra cuenta de GitHub  $ git config --global user.</description>
+Tener Git instalado  Windows: https://git-for-windows.github.io/ Linux: desde el gestor de paquetes (apt-get install git | yum install git-core) Mac: desde Homebrew (brew install git)  Tener una cuenta de GitHub  Registrarse en GitHub Formar parte de la organización IVRPowers (hablar con un administrador): IVRPowers en GitHub (Opcional) Configurar Git en nuestro ordenador para usar SSH en vez de clave de texto Configurar nuestro ordenador para utilizar nuestra cuenta de GitHub (desde la consola/terminal)  $ git config --global user.</description>
     </item>
     
     <item>

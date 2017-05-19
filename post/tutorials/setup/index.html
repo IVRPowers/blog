@@ -32,7 +32,6 @@
         <link rel="preload" href="http://blog.test.ivrpowers.com/css/main.css" as="style" />
         <link rel="stylesheet" href="http://blog.test.ivrpowers.com/css/blog.css" />
         <link rel="stylesheet" href="http://blog.test.ivrpowers.com/css/prism.css" />
-        <script src="http://blog.test.ivrpowers.com/js/prism.js"></script>
 
     
         <link rel="icon" href="/images/favicon.png" type="image/x-icon">
@@ -103,7 +102,7 @@
         },
         "datePublished": "2017-05-18",
         "dateModified": "2017-05-18",
-        "wordCount": 105,
+        "wordCount": 171,
         "keywords": ["tutorial","installation"] 
     }
     </script>
@@ -162,7 +161,7 @@ html{font-family:sans-serif;line-height:1.15;-ms-text-size-adjust:100%;-webkit-t
 
   			<header class="post-header">
   				<span class="post-meta">
-						<span class="post-date">18 May 2017</span> <span class="reading-time">| <span class="estimated-reading-time">1 min.</span> (<span class="word-count">105</span> words)</span></span>
+						<span class="post-date">18 May 2017</span> <span class="reading-time">| <span class="estimated-reading-time">1 min.</span> (<span class="word-count">171</span> words)</span></span>
   				</span>
   				<div class="clear"></div>
   				<h1 class="post-title">Instalación del Entorno</h1>
@@ -188,8 +187,8 @@ html{font-family:sans-serif;line-height:1.15;-ms-text-size-adjust:100%;-webkit-t
 <ol>
 <li>Registrarse en <a href="https://github.com">GitHub</a></li>
 <li>Formar parte de la organización IVRPowers (hablar con un administrador): <a href="https://github.com/IVRPowers">IVRPowers en GitHub</a></li>
-<li>(Opcional) Configurar Git en nuestro ordenador para usar SSH</li>
-<li>Configurar nuestro ordenador para utilizar nuestra cuenta de GitHub</li>
+<li>(Opcional) Configurar Git en nuestro ordenador para usar SSH en vez de clave de texto</li>
+<li>Configurar nuestro ordenador para utilizar nuestra cuenta de GitHub (desde la consola/terminal)</li>
 </ol>
 
 <pre><code class="language-bash">$ git config --global user.name &quot;John Doe&quot;
@@ -201,6 +200,20 @@ $ git config --global user.email johndoe@example.com
 <ul>
 <li>Seguir las instrucciones oficiales de GoHugo: <a href="https://gohugo.io/overview/installing/">https://gohugo.io/overview/installing/</a></li>
 </ul>
+
+<h3 id="instalación-del-blog-en-el-ordenador">Instalación del blog en el ordenador</h3>
+
+<ul>
+<li>Abrir una consola e ir al directorio donde se quiere tener el proyecto (cambiar PATH_TO_DIR por la ruta al directorio mencionado)</li>
+</ul>
+
+<pre><code class="language-bash">$ cd PATH_TO_DIR
+$ git clone --recursive https://github.com/IVRPowers/blogtest.git
+# O si hemos configurado SSH: git@github.com:IVRPowers/blogtest.git
+$ cd blogtest
+$ git worktree add -B gh-pages public origin/gh-pages
+$ chmod +x publish.sh
+</code></pre>
 
   			</section>
 
@@ -293,6 +306,7 @@ $ git config --global user.email johndoe@example.com
 <li><a href="#tener-una-cuenta-de-github">Tener una cuenta de GitHub</a></li>
 <li><a href="#tener-instalado-el-ejecutable-de-gohugo">Tener instalado el ejecutable de GoHugo</a></li>
 </ul></li>
+<li><a href="#instalación-del-blog-en-el-ordenador">Instalación del blog en el ordenador</a></li>
 </ul></li>
 </ul></li>
 </ul>
@@ -311,6 +325,8 @@ $ git config --global user.email johndoe@example.com
 
 
   <noscript><link rel="stylesheet" href="http://blog.test.ivrpowers.com/css/main.css"></noscript>
+                <script src="http://blog.test.ivrpowers.com/js/prism.js"></script>
+    <script src="http://blog.test.ivrpowers.com//js/blog.js"></script>
 </body>
 </html>
 
