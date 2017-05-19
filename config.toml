@@ -2,6 +2,7 @@ baseURL = "http://blog.test.ivrpowers.com/"
 languageCode = "en-us"
 title = "IVRPowers Blog Test"
 publishDir = "public"
+theme = "hugo-theme-bleak"
 
 [params]
   # Warning Keys are case sensitives
