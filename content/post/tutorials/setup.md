@@ -33,7 +33,7 @@ $ git config --global user.email johndoe@example.com
 #### Tener instalado el ejecutable de GoHugo
 - Seguir las instrucciones oficiales de GoHugo: https://gohugo.io/overview/installing/
 
-#### Instalación del blog en el ordenador
+### Instalación del blog en el ordenador
 - Abrir una consola e ir al directorio donde se quiere tener el proyecto (cambiar PATH_TO_DIR por la ruta al directorio mencionado)
 
 ~~~bash
@@ -42,4 +42,5 @@ $ git clone --recursive https://github.com/IVRPowers/blogtest.git
 # O si hemos configurado SSH: git@github.com:IVRPowers/blogtest.git
 $ cd blogtest
 $ git worktree add -B gh-pages public origin/gh-pages
+$ chmod +x publish.sh
 ~~~
