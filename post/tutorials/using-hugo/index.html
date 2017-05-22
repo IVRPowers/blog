@@ -7,26 +7,26 @@
         <meta charset="utf-8" />
         <meta http-equiv="X-UA-Compatible" content="IE=edge" />
 
-        <meta property="og:title" content=" Usando Git &middot;  IVRPowers Blog Test" />
+        <meta property="og:title" content=" Aprendiendo a usar GoHugo &middot;  IVRPowers Blog Test" />
         <meta property="og:site_name" content="IVRPowers Blog Test" />
-        <meta property="og:url" content="http://blog.test.ivrpowers.com/post/tutorials/using-git/" />
+        <meta property="og:url" content="http://blog.test.ivrpowers.com/post/tutorials/using-hugo/" />
 
     
         <meta property="og:type" content="article" />
-        <meta property="og:article:published_time" content="2017-05-19T10:51:22&#43;02:00" />
-        <meta property="og:article:tag" content="tutorial" />
-        <meta property="og:article:tag" content="git" />
+        <meta property="og:article:published_time" content="2017-05-22T13:30:27&#43;02:00" />
+        <meta property="og:article:tag" content="tutorials" />
+        <meta property="og:article:tag" content="gohugo" />
         
 
         <meta name="twitter:card" content="summary" />
         <meta name="twitter:site" content="@https://twitter.com/ivrpowers" />
         <meta name="twitter:creator" content="@https://twitter.com/ivrpowers" />
-        <meta name="twitter:title" content="Usando Git" />
-        <meta name="twitter:description" content="Comandos básicos de uso de Git" />
-        <meta name="twitter:url" content="http://blog.test.ivrpowers.com/post/tutorials/using-git/" />
+        <meta name="twitter:title" content="Aprendiendo a usar GoHugo" />
+        <meta name="twitter:description" content="Pequeño tutorial de cómo crear y publicar posts en el blog" />
+        <meta name="twitter:url" content="http://blog.test.ivrpowers.com/post/tutorials/using-hugo/" />
     
 
-        <title> Usando Git &middot;  IVRPowers Blog Test</title>
+        <title> Aprendiendo a usar GoHugo &middot;  IVRPowers Blog Test</title>
 
         <link rel="preload" href="http://blog.test.ivrpowers.com/js/main.js" as="script" />
         <link rel="preload" href="http://blog.test.ivrpowers.com/css/main.css" as="style" />
@@ -38,7 +38,7 @@
     
 
     
-        <meta name="description" content="Comandos básicos de uso de Git" />
+        <meta name="description" content="Pequeño tutorial de cómo crear y publicar posts en el blog" />
     
 
     
@@ -57,7 +57,7 @@
     
 
     
-        <link rel="canonical" href="http://blog.test.ivrpowers.com/post/tutorials/using-git/" />
+        <link rel="canonical" href="http://blog.test.ivrpowers.com/post/tutorials/using-hugo/" />
 
 
     <script type="application/ld+json">
@@ -66,10 +66,10 @@
         "@type": "BlogPosting",
         "mainEntityOfPage": {
           "@type": "WebPage",
-          "@id": "http://blog.test.ivrpowers.com/post/tutorials/using-git/"
+          "@id": "http://blog.test.ivrpowers.com/post/tutorials/using-hugo/"
         },
-        "headline": "Usando Git",
-        "description": "Comandos básicos de uso de Git",
+        "headline": "Aprendiendo a usar GoHugo",
+        "description": "Pequeño tutorial de cómo crear y publicar posts en el blog",
         "author": {
             "@type": "Person",
             "name": "IVRPowers Team",
@@ -95,14 +95,14 @@
         },
         "image": {
           "@type": "ImageObject",
-          "url": "http://blog.test.ivrpowers.com/postimages/git.png",
+          "url": "http://blog.test.ivrpowers.com/postimages/tutorials/using-hugo/hugo.jpg",
           "height": 133,
           "width": 200
         },
-        "datePublished": "2017-05-19",
-        "dateModified": "2017-05-19",
-        "wordCount": 256,
-        "keywords": ["tutorial","git"] 
+        "datePublished": "2017-05-22",
+        "dateModified": "2017-05-22",
+        "wordCount": 1283,
+        "keywords": ["tutorials","gohugo"] 
     }
     </script>
 
@@ -160,37 +160,219 @@ html{font-family:sans-serif;line-height:1.15;-ms-text-size-adjust:100%;-webkit-t
 
   			<header class="post-header">
   				<span class="post-meta">
-						<span class="post-date">19 May 2017</span> <span class="reading-time">| <span class="estimated-reading-time">2 min.</span> (<span class="word-count">256</span> words)</span></span>
+						<span class="post-date">22 May 2017</span> <span class="reading-time">| <span class="estimated-reading-time">7 min.</span> (<span class="word-count">1283</span> words)</span></span>
   				</span>
   				<div class="clear"></div>
-  				<h1 class="post-title">Usando Git</h1>
+  				<h1 class="post-title">Aprendiendo a usar GoHugo</h1>
   			</header>
 
   			<section class="post-content">
-  				<p><strong>Git</strong> es un software de control de versiones diseñado por Linus Torvalds, pensando en la eficiencia y la
-confiabilidad del mantenimiento de versiones de aplicaciones cuando éstas tienen un gran número de archivos
-de código fuente. Al principio, Git se pensó como un motor de bajo nivel sobre el cual otros pudieran escribir
-la interfaz de usuario o front end como Cogito o StGIT. 3 Sin embargo, Git se ha convertido desde entonces en
-un sistema de control de versiones con funcionalidad plena. 4 Hay algunos proyectos de mucha relevancia que
-ya usan Git, en particular, el grupo de programación del núcleo Linux.</p>
+  				
 
-<p><img src="/postimages/git.png" alt="Cómo usar Git" /></p>
+<p>En este post vamos a aprender cómo crear un post en el blog y cómo publicarlo. Antes de empezar a escribir un nuevo post
+lo que haremos será levantar un pequeño servidor en nuestro ordenador que irá refrescando los cambios que vayamos haciendo a
+los ficheros según los vayamos guardando. Para ello abriremos una consola y ejecutaremos lo siguiente:</p>
 
-<p>El blog usa <strong>Git</strong> para guardar los cambios en los posts que se vayan haciendo así cómo para publicar las nuevas
-versiones del blog. Para la publicación prepararé un pequeño pograma de consola para que solo lo tengáis que ejecutar,
-pero para lo que es guardar los cambios que se van haciendo tendréis que tener unas mínimas nociones sobre el uso de <strong>Git</strong>.
-Necesitaréis conocer sobre todo las siguientes acciones:</p>
+<pre><code class="language-bash">$ cd PATH_TO_BLOG_DIR        # Ruta al directorio donde tengamos el blog
+$ hugo server --buildDrafts
+</code></pre>
 
-<ul>
-<li><strong>status</strong>: nos indica el estado actual de nuestra zona de trabajo</li>
-<li><strong>commit</strong>: es la forma de guardar cambios</li>
-<li><strong>reset</strong>: para deshacer cambios no guardados</li>
-<li><strong>pull/rebase</strong>: para traer los cambios que un compañero pueda haber hecho a nuestra copia del repositorio</li>
-<li><strong>push</strong>: para guardar los cambios que hayamos hecho en el servidor</li>
-<li><strong>fetch</strong>: para comprobar si hay o no cambios de nuestros compañeros guardados en el servidor</li>
-</ul>
+<p>Una vez ejecutado el comando, abriremos en una navegador la url siguiente: <a href="http://localhost:1313">http://localhost:1313</a>.
+Si todo ha ido bien deberíamos ver en el navegador la <em>landing page</em> nuestro blog.</p>
 
-<p>Para aprender lo básico del uso de <strong>Git</strong> podéis seguir este tutorial: <a href="https://backlogtool.com/git-guide/en/">Git Beginner&rsquo;s Guide for Dummies</a></p>
+<p><img src="/postimages/tutorials/using-hugo/success-server.png" alt="Success Server" /></p>
+
+<h3 id="creacion-de-un-post">Creación de un post</h3>
+
+<p>Lo primero será, desde una consola abierta en el directorio donde hemos instalado el blog, ejecutar lo siguiente:</p>
+
+<pre><code class="language-bash">hugo new post/tutorials/using-hugo.md
+</code></pre>
+
+<p>Lo que hace el comando que acabamos de ejecutar es crear, a partir de un template, la base del nuevo post. Lo que nos pide
+es indicar el <em>namespace</em> de nuestro nuevo post. En este caso, cómo va a ser un tutorial, pues lo metemos en el <em>namespace</em>
+<strong>tutorials</strong> dentro de <strong>post</strong>, este <em>namespace</em> a efectos prácticos solo nos sirve para tener bien organizado el blog por
+eso es buena idea tener todos los posts siempre bien ordenados. Una vez ejecutado el comando veremos que se nos ha creado
+un nuevo fichero, llamado <strong>using-hugo.md</strong> en la carpeta <code>content/post/tutorials</code>. Este fichero contiene unas pocas variables
+que parten de un template base.</p>
+
+<pre><code class="language-toml">+++
+categories = [&quot;z&quot;,&quot;w&quot;]
+date = &quot;2017-05-22T09:59:35+02:00&quot;
+description = &quot;insert post description here&quot;
+draft = true
+tags = [&quot;x&quot;,&quot;y&quot;]
+title = &quot;using hugo&quot;
+
++++
+</code></pre>
+
+<p><img src="/postimages/tutorials/using-hugo/new-post.png" alt="New Post" /></p>
+
+<p>Una vez ejecutado el comando, veremos también que en la <em>landing page</em> del blog ha aparecido un nuevo post. Si nos fijamos
+bien, podemos ver que el título y subtítulo son los que aparecen en la configuración básica del post. Entonces, lo primero
+que vamos a hacer va a ser completar correctamente las configuraciones de nuestro nuevo post. Para ello, vamos a editar el
+fichero que hemos creado para que quede tal que así.</p>
+
+<pre><code class="language-toml">+++
+categories = [&quot;Tutorial&quot;]
+date = &quot;2017-05-22T09:59:35+02:00&quot;
+description = &quot;Pequeño tutorial de cómo crear y publicar posts en el blog&quot;
+draft = true
+tags = [&quot;tutorials&quot;,&quot;gohugo&quot;]
+title = &quot;Aprendiendo a usar GoHugo&quot;
+
++++
+</code></pre>
+
+<p>Una vez guardemos los cambios hechos al fichero, veremos que nuestro navegador se refresca y veremos ya reflejados los cambios
+que acabamos de hacer.</p>
+
+<p><img src="/postimages/tutorials/using-hugo/default-post-card.png" alt="Default Card Post" /></p>
+
+<h3 id="configuracion-ficha-post">Configuración de la ficha del post</h3>
+
+<h4 id="añadiendo-una-imagen-de-portada">Añadiendo una imagen de portada</h4>
+
+<p><strong>GoHugo</strong> por defecto nos creará una ficha de post en blanco y sin imagen, tal y cómo podemos ver en la imagen anterior.
+Si queremos añadir una imagen a la ficha, lo primero que tendremos que hacer será añadir la imagen a la carpeta <code>static/postimages</code>.
+(Yo recomiendo ordenarlas en los mismos <em>namespaces</em> que los posts, así pues la pondríamos en la carpeta <code>static/postimages/tutorials/using-hugo</code>).
+Una vez la hayamos añadido tendremos que indicarle a <strong>GoHugo</strong> que la cargue. Para ello editaremos las configuraciones del post y añadiremos
+lo siguiente:</p>
+
+<pre><code class="language-toml">...
+image = &quot;/postimages/tutorials/using-hugo/hugo.jpg&quot;
+
++++
+</code></pre>
+
+<p>Cuando el navegador recarge, previo guardado del fichero, veremos cómo ahora la ficha de nuestro nuevo post incluye la
+imagen que hemos especificado.</p>
+
+<p><img src="/postimages/tutorials/using-hugo/post-card-with-picture.png" alt="Post Card with Picture" /></p>
+
+<h4 id="destacando-un-post">Destacando un post</h4>
+
+<p>Si queremos que el nuevo post resalte entre el resto de posts, ya sea porque es una noticia, un dato importante,
+o cualquier otro motivo, podemos hacer que <strong>GoHugo</strong> lo coloree con un color más oscuro (esto sólo afecta a la ficha
+del post, no al post <em>per se</em>). Este lo conseguiremos añadiendo a la configuración del post la siguiente línea:</p>
+
+<pre><code class="language-toml">...
+featured = true
+
++++
+</code></pre>
+
+<p>Cómo podemos ver en la siguiente imagen, una vez guardados los cambios, <strong>GoHugo</strong> habrá coloreado de un gris azulado
+la ficha del post y habrá añadido una estrellita en la esquina superior de ésta.</p>
+
+<p><img src="/postimages/tutorials/using-hugo/featured-post-card.png" alt="Featured Post Card" /></p>
+
+<h4 id="dando-prioridad-al-post">Dando prioridad al post</h4>
+
+<p>Por defecto, <strong>GoHugo</strong> ordena los posts en orden de creación pero nos permite añadir diferentes pesos a los posts para
+que aparezcan antes si así lo preferimos. Para ello es necesario añadir el parámetro <strong>weight</strong> a la configuración del post
+asignándole un valor númerico, cuando mayor sea el valor, mayor será la prioridad y por tanto antes aparecerá en la lista.</p>
+
+<pre><code class="language-toml">...
+weight = 100
+
++++
+</code></pre>
+
+<h3 id="añadir-contenido">Añadir contenido al post</h3>
+
+<p>Una vez hayamos terminado la configuración del post será momento de añadirle contenido. Para ello basta con escribir, en
+Markdown (<a href="http://blog.test.ivrpowers.com/post/markdown/">Cómo usar Markdown</a>), lo que queramos publicar a continuación del último grupo de <code>+++</code>
+del bloque de configuración.</p>
+
+<h3 id="publicando-el-post">Publicando el post</h3>
+
+<p>Finalmente, cuando hayamos terminado nuestro post, lo que tenemos que hacer es indicarle a <strong>GoHugo</strong> que ya no es un borrador.
+Para ello, primero detendremos el servidor que habíamos lanzando en el primer paso, pulsando <code>Ctrl+C</code> en la ventana de la consola.
+A continuación le diremos a <strong>GoHugo</strong> que marque el post cómo que no es borrador y correremos de nuevo el servidor, solo que
+esta vez no le pediremos que nos muestre borradores. En este punto tendremos una visión de cómo se verá el blog cuando lo publiquemos.</p>
+
+<pre><code class="language-bash">$ hugo undraft content/post/tutorials/using-hugo.md
+$ hugo server
+</code></pre>
+
+<p>Una vez que estemos conformes con el <em>look</em> del blog es momento de guardar los cambios. Para ello, desde una consola en
+el directorio del blog, ejecutaremos lo siguiente:</p>
+
+<pre><code class="language-bash">$ git status
+On branch master
+Untracked files:
+  (use &quot;git add &lt;file&gt;...&quot; to include in what will be committed)
+
+        content/post/tutorials/using-hugo.md
+        static/postimages/tutorials/
+
+nothing added to commit but untracked files present (use &quot;git add&quot; to track)
+</code></pre>
+
+<p>Vemos que el comando <code>git status</code> nos indica que hay un fichero nuevo (nuestro post) y luego una ruta a una carpeta, que
+es la carpeta donde hemos metido las imágenes del blog. Lo siguiente será (con el comando <code>git add</code>) marcar esos
+contenidos para que sean guardados:</p>
+
+<pre><code class="language-bash">$ git add content/post/tutorials/using-hugo.md static/postimages/tutorials/
+</code></pre>
+
+<p>Si ahora volvemos a ejecutar el comando <code>git status</code> vemos que <strong>git</strong> ya ha marcado los ficheros para que sean guardados.</p>
+
+<pre><code class="language-bash">$ git status
+On branch master
+Changes to be committed:
+  (use &quot;git reset HEAD &lt;file&gt;...&quot; to unstage)
+
+        new file:   content/post/tutorials/using-hugo.md
+        new file:   static/postimages/tutorials/using-hugo/default-post-card.png
+        new file:   static/postimages/tutorials/using-hugo/featured-post-card.png
+        new file:   static/postimages/tutorials/using-hugo/hugo.jpg
+        new file:   static/postimages/tutorials/using-hugo/new-post.png
+        new file:   static/postimages/tutorials/using-hugo/post-card-with-picture.png
+        new file:   static/postimages/tutorials/using-hugo/success-server.png
+</code></pre>
+
+<p>A continuación tenemos que guardarlos, para ello se usa el comando <code>git commit</code> especificando el mensaje de guardado.</p>
+
+<pre><code class="language-bash">$ git commit -m &quot;Added a post with a tutorial on using GoHugo&quot;
+[master ffc56cb] Added a post with a tutorial on using GoHugo
+ 7 files changed, 170 insertions(+)
+ create mode 100644 content/post/tutorials/using-hugo.md
+ create mode 100644 static/postimages/tutorials/using-hugo/default-post-card.png
+ create mode 100644 static/postimages/tutorials/using-hugo/featured-post-card.png
+ create mode 100644 static/postimages/tutorials/using-hugo/hugo.jpg
+ create mode 100644 static/postimages/tutorials/using-hugo/new-post.png
+ create mode 100644 static/postimages/tutorials/using-hugo/post-card-with-picture.png
+ create mode 100644 static/postimages/tutorials/using-hugo/success-server.png
+</code></pre>
+
+<p>El siguiente paso será guardar los cambios en el servidor, usaremos el comando <code>git push</code> para ello, pero primero tenemos
+que comprobar que ningún compañero haya guardado algo en el servidor mientras nosotros hemos estado creando el nuevo post.
+Por ello ejecutaremos primero el comando <code>git fetch</code>, si no devuelve nada será que estamos listos para guardar nuestros
+cambios en el servidor, si en cambio devuelve algo, tendremos que traernos los cambios de nuestros compañeros primero
+mediante el comando <code>git rebase</code>. Tras estas comprobaciones estaremos listos para subir el nuevo post al servidor.</p>
+
+<pre><code class="language-bash">$ git push origin master
+Counting objects: 16, done.
+Delta compression using up to 8 threads.
+Compressing objects: 100% (14/14), done.
+Writing objects: 100% (16/16), 1.72 MiB | 602.00 KiB/s, done.
+Total 16 (delta 4), reused 0 (delta 0)
+remote: Resolving deltas: 100% (4/4), completed with 4 local objects.
+To github.com:IVRPowers/blogtest.git
+   f6250b8..ffc56cb  master -&gt; master
+</code></pre>
+
+<p>Finalmente, una vez hemos guardado los cambios, sólo necesitaremos ejecutar el script <strong>publish.sh</strong>, que se encuentra en
+el directorio del blog, para subir las nuevas publicaciones al blog.</p>
+
+<pre><code class="language-bash">$ ./publish.sh
+Deploying updates to GitHub...
+</code></pre>
+
+<p>Una vez ejecutado este último comando, podremos ir a la URL del blog y ver los nuevos cambios: <a href="http://blog.test.ivrpowers.com">http://blog.test.ivrpowers.com</a></p>
 
   			</section>
 
@@ -198,20 +380,20 @@ Necesitaréis conocer sobre todo las siguientes acciones:</p>
   				<div class="post-tags">
             
             
-                <a href="http://blog.test.ivrpowers.com//tags/tutorial/">tutorial</a>
+                <a href="http://blog.test.ivrpowers.com//tags/tutorials/">tutorials</a>
             
-                <a href="http://blog.test.ivrpowers.com//tags/git/">git</a>
+                <a href="http://blog.test.ivrpowers.com//tags/gohugo/">gohugo</a>
             
             
   				</div>
   				<div class="post-share">
-  					<a class="icon-twitter" href="https://twitter.com/share?text=Usando%20Git&url=http%3a%2f%2fblog.test.ivrpowers.com%2fpost%2ftutorials%2fusing-git%2f" onclick="window.open(this.href, 'twitter-share', 'width=550,height=235');return false;">
+  					<a class="icon-twitter" href="https://twitter.com/share?text=Aprendiendo%20a%20usar%20GoHugo&url=http%3a%2f%2fblog.test.ivrpowers.com%2fpost%2ftutorials%2fusing-hugo%2f" onclick="window.open(this.href, 'twitter-share', 'width=550,height=235');return false;">
   						<span>Twitter</span>
   					</a>
-  					<a class="icon-facebook" href="https://www.facebook.com/sharer/sharer.php?u=http%3a%2f%2fblog.test.ivrpowers.com%2fpost%2ftutorials%2fusing-git%2f" onclick="window.open(this.href, 'facebook-share','width=580,height=296');return false;">
+  					<a class="icon-facebook" href="https://www.facebook.com/sharer/sharer.php?u=http%3a%2f%2fblog.test.ivrpowers.com%2fpost%2ftutorials%2fusing-hugo%2f" onclick="window.open(this.href, 'facebook-share','width=580,height=296');return false;">
   						<span>Facebook</span>
   					</a>
-  					<a class="icon-gplus" href="https://plus.google.com/share?url=http%3a%2f%2fblog.test.ivrpowers.com%2fpost%2ftutorials%2fusing-git%2f" onclick="window.open(this.href, 'google-plus-share', 'width=490,height=530');return false;">
+  					<a class="icon-gplus" href="https://plus.google.com/share?url=http%3a%2f%2fblog.test.ivrpowers.com%2fpost%2ftutorials%2fusing-hugo%2f" onclick="window.open(this.href, 'google-plus-share', 'width=490,height=530');return false;">
   						<span>Google+</span>
   					</a>
   				</div>
@@ -228,23 +410,13 @@ Necesitaréis conocer sobre todo las siguientes acciones:</p>
 
 			<nav class="post-nav">
 				
-					<a class="post-nav-item post-nav-next" href="http://blog.test.ivrpowers.com/post/tutorials/using-hugo/">
-						<section class="post-nav-teaser">
-							<span class="post-nav-icon"><i class="icon-arrow-left"></i></span>
-							<span class="post-nav-info">
-								<h4 class="post-nav-title">Aprendiendo a usar GoHugo</h4>
-								<p class="post-nav-excerpt">Pequeño tutorial de cómo crear y publicar posts en el blog&hellip;</p>
-							</span>
-						</section>
-					</a>
 				
-				
-					<a class="post-nav-item post-nav-prev" href="http://blog.test.ivrpowers.com/post/loremipsum/">
+					<a class="post-nav-item post-nav-prev" href="http://blog.test.ivrpowers.com/post/tutorials/using-git/">
 						<section class="post-nav-teaser">
 							<span class="post-nav-icon"><i class="icon-arrow-right"></i></span>
 							<span class="post-nav-info">
-								<h4 class="post-nav-title">Lorem Ipsum</h4>
-								<p class="post-nav-excerpt">¿Qué es y para que se utiliza?&hellip;</p>
+								<h4 class="post-nav-title">Usando Git</h4>
+								<p class="post-nav-excerpt">Comandos básicos de uso de Git&hellip;</p>
 							</span>
 						</section>
 					</a>
@@ -271,7 +443,25 @@ Necesitaréis conocer sobre todo las siguientes acciones:</p>
         <a class="menu-close" data-action="toc" data-target="toc"></a>
     </div>
     <div id="toc" class="menu-list">
-        
+        <nav id="TableOfContents">
+<ul>
+<li>
+<ul>
+<li>
+<ul>
+<li><a href="#creacion-de-un-post">Creación de un post</a></li>
+<li><a href="#configuracion-ficha-post">Configuración de la ficha del post</a>
+<ul>
+<li><a href="#añadiendo-una-imagen-de-portada">Añadiendo una imagen de portada</a></li>
+<li><a href="#destacando-un-post">Destacando un post</a></li>
+<li><a href="#dando-prioridad-al-post">Dando prioridad al post</a></li>
+</ul></li>
+<li><a href="#añadir-contenido">Añadir contenido al post</a></li>
+<li><a href="#publicando-el-post">Publicando el post</a></li>
+</ul></li>
+</ul></li>
+</ul>
+</nav>
     </div>
 </div>
 
