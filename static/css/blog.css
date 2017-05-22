@@ -140,3 +140,7 @@ body {
 .post-list .post.featured .post-title {
     color: white;
 }
+
+.post-list .post.post.featured .post-image:after {
+    background-color: #163039 !important;
+}
