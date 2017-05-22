@@ -166,5 +166,65 @@ es la carpeta donde hemos metido las imágenes del blog. Lo siguiente será (con
 contenidos para que sean guardados:
 
 ```bash
-
+$ git add content/post/tutorials/using-hugo.md static/postimages/tutorials/
 ```
+
+Si ahora volvemos a ejecutar el comando `git status` vemos que **git** ya ha marcado los ficheros para que sean guardados.
+
+```bash
+$ git status
+On branch master
+Changes to be committed:
+  (use "git reset HEAD <file>..." to unstage)
+
+        new file:   content/post/tutorials/using-hugo.md
+        new file:   static/postimages/tutorials/using-hugo/default-post-card.png
+        new file:   static/postimages/tutorials/using-hugo/featured-post-card.png
+        new file:   static/postimages/tutorials/using-hugo/hugo.jpg
+        new file:   static/postimages/tutorials/using-hugo/new-post.png
+        new file:   static/postimages/tutorials/using-hugo/post-card-with-picture.png
+        new file:   static/postimages/tutorials/using-hugo/success-server.png
+```
+
+A continuación tenemos que guardarlos, para ello se usa el comando `git commit` especificando el mensaje de guardado.
+
+```bash
+$ git commit -m "Added a post with a tutorial on using GoHugo"
+[master ffc56cb] Added a post with a tutorial on using GoHugo
+ 7 files changed, 170 insertions(+)
+ create mode 100644 content/post/tutorials/using-hugo.md
+ create mode 100644 static/postimages/tutorials/using-hugo/default-post-card.png
+ create mode 100644 static/postimages/tutorials/using-hugo/featured-post-card.png
+ create mode 100644 static/postimages/tutorials/using-hugo/hugo.jpg
+ create mode 100644 static/postimages/tutorials/using-hugo/new-post.png
+ create mode 100644 static/postimages/tutorials/using-hugo/post-card-with-picture.png
+ create mode 100644 static/postimages/tutorials/using-hugo/success-server.png
+```
+
+El siguiente paso será guardar los cambios en el servidor, usaremos el comando `git push` para ello, pero primero tenemos
+que comprobar que ningún compañero haya guardado algo en el servidor mientras nosotros hemos estado creando el nuevo post.
+Por ello ejecutaremos primero el comando `git fetch`, si no devuelve nada será que estamos listos para guardar nuestros
+cambios en el servidor, si en cambio devuelve algo, tendremos que traernos los cambios de nuestros compañeros primero
+mediante el comando `git rebase`. Tras estas comprobaciones estaremos listos para subir el nuevo post al servidor.
+
+```bash
+$ git push origin master
+Counting objects: 16, done.
+Delta compression using up to 8 threads.
+Compressing objects: 100% (14/14), done.
+Writing objects: 100% (16/16), 1.72 MiB | 602.00 KiB/s, done.
+Total 16 (delta 4), reused 0 (delta 0)
+remote: Resolving deltas: 100% (4/4), completed with 4 local objects.
+To github.com:IVRPowers/blogtest.git
+   f6250b8..ffc56cb  master -> master
+```
+
+Finalmente, una vez hemos guardado los cambios, sólo necesitaremos ejecutar el script **publish.sh**, que se encuentra en
+el directorio del blog, para subir las nuevas publicaciones al blog.
+
+```bash
+$ ./publish.sh
+Deploying updates to GitHub...
+```
+
+Una vez ejecutado este último comando, podremos ir a la URL del blog y ver los nuevos cambios: http://blog.test.ivrpowers.com
