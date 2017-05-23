@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Custexp on IVRPowers Blog Test</title>
+    <link>http://blog.test.ivrpowers.com/tags/custexp/</link>
+    <description>Recent content in Custexp on IVRPowers Blog Test</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 24 May 2017 01:32:38 +0200</lastBuildDate>
+    
+	<atom:link href="http://blog.test.ivrpowers.com/tags/custexp/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Customer Experience (CX)</title>
+      <link>http://blog.test.ivrpowers.com/post/news/customer-experience/</link>
+      <pubDate>Wed, 24 May 2017 01:32:38 +0200</pubDate>
+      
+      <guid>http://blog.test.ivrpowers.com/post/news/customer-experience/</guid>
+      <description>Customer experience (CX) is a top priority for businesses worldwide and more critical than ever. More than 50 percent of organizations will redirect their investments to CX innovations by 2018, according to Gartner. Considering that an estimated $1.6 trillion is lost as a result of poor service, no company is exempt from offering an exceptional customer journey.
+While digital customer engagement is part of the new world order, physical engagement - old-school face-to-face interactions - remain highly relevant as well.</description>
+    </item>
+    
+  </channel>
+</rss>
