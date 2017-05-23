@@ -38,7 +38,7 @@ $ git config --global user.email johndoe@example.com
 
 ~~~bash
 $ cd PATH_TO_DIR
-$ git clone --recursive https://github.com/IVRPowers/blogtest.git
+$ git clone -b master --recursive https://github.com/IVRPowers/blogtest.git
 # O si hemos configurado SSH: git@github.com:IVRPowers/blogtest.git
 $ cd blogtest
 $ git worktree add -B gh-pages public origin/gh-pages
