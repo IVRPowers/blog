@@ -1,7 +1,7 @@
 +++
 categories = ["general","marketing"]
 date = "2017-05-23T20:40:07+02:00"
-description = "About our startup company"
+description = "Our High Tech Startup"
 draft = false
 tags = ["marketing","brand"]
 title = "About Interactive Powers"
