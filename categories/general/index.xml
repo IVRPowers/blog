@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>General on IVRPowers Blog Test</title>
+    <link>http://blog.test.ivrpowers.com/categories/general/</link>
+    <description>Recent content in General on IVRPowers Blog Test</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 23 May 2017 20:40:07 +0200</lastBuildDate>
+    
+	<atom:link href="http://blog.test.ivrpowers.com/categories/general/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>About Interactive Powers</title>
+      <link>http://blog.test.ivrpowers.com/post/about-interactive-powers/</link>
+      <pubDate>Tue, 23 May 2017 20:40:07 +0200</pubDate>
+      
+      <guid>http://blog.test.ivrpowers.com/post/about-interactive-powers/</guid>
+      <description>Interactive Powers develops technology that helps your organization connect, communicate and engage with you customers, employees and stakeholders. Contact with us to find out more about how we can help you achieve your business communication goals.
+Interactive Powers delivers communication platforms that enables advanced real-time interactions over public or private networks. We allow to deploy secure channels with unified voice, video, live chat and screen sharing capabilities for web, apps, and kiosk-based customer engagement to sale or support faster than ever.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -11,6 +11,15 @@
     
     
     <item>
+      <title>General</title>
+      <link>http://blog.test.ivrpowers.com/categories/general/</link>
+      <pubDate>Tue, 23 May 2017 20:40:07 +0200</pubDate>
+      
+      <guid>http://blog.test.ivrpowers.com/categories/general/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Info</title>
       <link>http://blog.test.ivrpowers.com/categories/info/</link>
       <pubDate>Thu, 18 May 2017 14:16:55 +0200</pubDate>
@@ -34,6 +43,15 @@
       <pubDate>Thu, 18 May 2017 11:09:51 +0200</pubDate>
       
       <guid>http://blog.test.ivrpowers.com/categories/markdown/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Marketing</title>
+      <link>http://blog.test.ivrpowers.com/categories/marketing/</link>
+      <pubDate>Tue, 23 May 2017 20:40:07 +0200</pubDate>
+      
+      <guid>http://blog.test.ivrpowers.com/categories/marketing/</guid>
       <description></description>
     </item>
     
