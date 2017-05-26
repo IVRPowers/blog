@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Webrtc on IVRPowers Blog Test</title>
+    <link>http://blog.test.ivrpowers.com/categories/webrtc/</link>
+    <description>Recent content in Webrtc on IVRPowers Blog Test</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 26 May 2017 10:51:51 +0200</lastBuildDate>
+    
+	<atom:link href="http://blog.test.ivrpowers.com/categories/webrtc/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>About WebRTC</title>
+      <link>http://blog.test.ivrpowers.com/post/webrtc/about-webrtc/</link>
+      <pubDate>Fri, 26 May 2017 10:51:51 +0200</pubDate>
+      
+      <guid>http://blog.test.ivrpowers.com/post/webrtc/about-webrtc/</guid>
+      <description>WebRTC (Web Real-Time Communication) is a collection of communications protocols and application programming interfaces that enable real-time communication over peer-to-peer connections. This allows web browsers to not only request resources from backend servers, but also real-time information from browsers of other users.
+This enables applications such as video conferencing, file transfer, chat, or desktop sharing without the need of either internal or external plugins.
+WebRTC is being standardized by the World Wide Web Consortium (W3C) and the Internet Engineering Task Force (IETF).</description>
+    </item>
+    
+  </channel>
+</rss>
