@@ -32,6 +32,37 @@ Interactive Powers delivers communication platforms that enables advanced real-t
     </item>
     
     <item>
+      <title>Introducing VideoRTC.js for Application Developers</title>
+      <link>http://blog.test.ivrpowers.com/post/introducing-videortcjs/</link>
+      <pubDate>Tue, 30 May 2017 00:30:56 +0200</pubDate>
+      
+      <guid>http://blog.test.ivrpowers.com/post/introducing-videortcjs/</guid>
+      <description>Since 2015, IVRPowers has been diligently refining its Video RTC solutions, API Framework and SDKs to make embedded video much more accessible for developers and enterprises who are looking to rapidly integrate reliable video chat into their own applications.
+Today, we’re thrilled to officially announce a new VideoRTC.js library – the launch of our self-service API Framework developer tools, which lets developers quickly and easily embed this same enterprise-grade, cloud-hosted, multiparty RTC video collaboration into any web, mobile or native application on virtually any device.</description>
+    </item>
+    
+    <item>
+      <title>What is WebRTC?</title>
+      <link>http://blog.test.ivrpowers.com/post/what-is-webrtc/</link>
+      <pubDate>Tue, 30 May 2017 00:20:05 +0200</pubDate>
+      
+      <guid>http://blog.test.ivrpowers.com/post/what-is-webrtc/</guid>
+      <description>WebRTC (Web Real-Time Communication) is a collection of communications protocols and application programming interfaces that enable real-time communication over peer-to-peer connections. This allows web browsers to not only request resources from backend servers, but also real-time information from browsers of other users.
+This enables applications such as video conferencing, file transfer, chat, or desktop sharing without the need of either internal or external plugins.
+WebRTC is being standardized by the World Wide Web Consortium (W3C) and the Internet Engineering Task Force (IETF).</description>
+    </item>
+    
+    <item>
+      <title>What is RTMP?</title>
+      <link>http://blog.test.ivrpowers.com/post/what-is-rtmp/</link>
+      <pubDate>Tue, 30 May 2017 00:19:54 +0200</pubDate>
+      
+      <guid>http://blog.test.ivrpowers.com/post/what-is-rtmp/</guid>
+      <description>Real Time Messaging Protocol or RTMP is mainly serving for high speed transmission of audio, video and data between flash player and a server. Initially developed by Macromedia, the protocol is now owned by Adobe, and specifications about it have only partially been released for public use.
+According to those specifications, the RTMP protocol has multiple variations, i.e. the “plain” RTMP protocol, RTMPS which is RTMP over an TLS/SSL connection, RTMPE which is RTMP encrypted using Adobe’s own security mechanism, and RTMPT which is encapsulated within HTTP requests to traverse firewalls.</description>
+    </item>
+    
+    <item>
       <title>About WebRTC</title>
       <link>http://blog.test.ivrpowers.com/post/webrtc/about-webrtc/</link>
       <pubDate>Fri, 26 May 2017 10:51:51 +0200</pubDate>

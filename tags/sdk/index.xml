@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sdk on IVRPowers Blog Test</title>
+    <link>http://blog.test.ivrpowers.com/tags/sdk/</link>
+    <description>Recent content in Sdk on IVRPowers Blog Test</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 30 May 2017 00:30:56 +0200</lastBuildDate>
+    
+	<atom:link href="http://blog.test.ivrpowers.com/tags/sdk/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Introducing VideoRTC.js for Application Developers</title>
+      <link>http://blog.test.ivrpowers.com/post/introducing-videortcjs/</link>
+      <pubDate>Tue, 30 May 2017 00:30:56 +0200</pubDate>
+      
+      <guid>http://blog.test.ivrpowers.com/post/introducing-videortcjs/</guid>
+      <description>Since 2015, IVRPowers has been diligently refining its Video RTC solutions, API Framework and SDKs to make embedded video much more accessible for developers and enterprises who are looking to rapidly integrate reliable video chat into their own applications.
+Today, we’re thrilled to officially announce a new VideoRTC.js library – the launch of our self-service API Framework developer tools, which lets developers quickly and easily embed this same enterprise-grade, cloud-hosted, multiparty RTC video collaboration into any web, mobile or native application on virtually any device.</description>
+    </item>
+    
+  </channel>
+</rss>
