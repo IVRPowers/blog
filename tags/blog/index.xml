@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blog on IVRPowers Blog Test</title>
+    <link>http://blog.test.ivrpowers.com/tags/blog/</link>
+    <description>Recent content in Blog on IVRPowers Blog Test</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 29 May 2017 09:42:42 +0200</lastBuildDate>
+    
+	<atom:link href="http://blog.test.ivrpowers.com/tags/blog/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Welcome to our New Blog!</title>
+      <link>http://blog.test.ivrpowers.com/post/general/welcome/</link>
+      <pubDate>Mon, 29 May 2017 09:42:42 +0200</pubDate>
+      
+      <guid>http://blog.test.ivrpowers.com/post/general/welcome/</guid>
+      <description>Welcome to the IVRPowers new blog!
+Our Corporate Blog is build with Hugo and will give us a unique opportunity to better share news, updates and healthy living content, while also offering a place for us to interact with all our community. If you’re wondering what you can expect from the content you find on our blog, and how the information here differs from the information you may find on our website, read on.</description>
+    </item>
+    
+  </channel>
+</rss>
