@@ -18,3 +18,5 @@ WebRTC is being standardized by the World Wide Web Consortium (W3C) and the Inte
 
 [WebRTC Project](https://webrtc.org/)
 
+**WebRTC market**
+The market of WebRTC is expanding. Initially, it was only IT and computing enterprises who talk about the value of WebRTC. However, companies in the most diverse sectors – like healthcare industries, educational institutions, e-commerce, financial services, insurance companies, entertainment business – are realizing they need to incorporate WebRTC technology into their business strategies.
