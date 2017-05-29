@@ -146,5 +146,23 @@
       <description></description>
     </item>
     
+    <item>
+      <title>X</title>
+      <link>http://blog.test.ivrpowers.com/tags/x/</link>
+      <pubDate>Mon, 29 May 2017 09:42:42 +0200</pubDate>
+      
+      <guid>http://blog.test.ivrpowers.com/tags/x/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Y</title>
+      <link>http://blog.test.ivrpowers.com/tags/y/</link>
+      <pubDate>Mon, 29 May 2017 09:42:42 +0200</pubDate>
+      
+      <guid>http://blog.test.ivrpowers.com/tags/y/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>
