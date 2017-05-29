@@ -5,10 +5,10 @@ description = "Short description about WebRTC"
 draft = false
 tags = ["webrtc","protocols"]
 title = "About WebRTC"
-image = "/postimages/webrtc.jpeg"
+image = "/postimages/ivrpowers-webrtc.jpeg"
 +++
 
-![About WebRTC](/postimages/webrtc.jpeg)
+![About WebRTC](/postimages/ivrpowers-webrtc.jpeg)
 
 **WebRTC** (Web Real-Time Communication) is a collection of communications protocols and application programming interfaces that enable real-time communication over peer-to-peer connections. This allows web browsers to not only request resources from backend servers, but also real-time information from browsers of other users.
 
