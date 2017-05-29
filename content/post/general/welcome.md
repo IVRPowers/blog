@@ -3,7 +3,7 @@ categories = ["general"]
 date = "2017-05-29T09:42:42+02:00"
 description = "The hugo blog start up"
 draft = false
-tags = ["x","y"]
+tags = ["IVRPowers", "blog"]
 title = "Welcome to our New Blog!"
 image = "/postimages/general/foto-bienvenida.jpeg"
 
