@@ -81,6 +81,16 @@ Tutoriales  Referencia Rápida ¿Qué es Markdown? - La Guía definitiva Markdow
     </item>
     
     <item>
+      <title>Welcome to our New Blog!</title>
+      <link>http://blog.test.ivrpowers.com/post/general/welcome/</link>
+      <pubDate>Mon, 29 May 2017 09:42:42 +0200</pubDate>
+      
+      <guid>http://blog.test.ivrpowers.com/post/general/welcome/</guid>
+      <description>Welcome to the IVRPowers new blog!
+Our Corporate Blog is build with Hugo and will give us a unique opportunity to better share news, updates and technology content, while also offering a place for us to interact with all our community. If you’re wondering what you can expect from the content you find on our blog, and how the information here differs from the information you may find on our website, read on.</description>
+    </item>
+    
+    <item>
       <title>About Interactive Powers</title>
       <link>http://blog.test.ivrpowers.com/post/general/about-interactive-powers/</link>
       <pubDate>Tue, 23 May 2017 20:40:07 +0200</pubDate>
@@ -88,16 +98,6 @@ Tutoriales  Referencia Rápida ¿Qué es Markdown? - La Guía definitiva Markdow
       <guid>http://blog.test.ivrpowers.com/post/general/about-interactive-powers/</guid>
       <description>Interactive Powers develops technology that helps your organization connect, communicate and engage with you customers, employees and stakeholders. Contact with us to find out more about how we can help you achieve your business communication goals.
 Interactive Powers delivers communication platforms that enables advanced real-time interactions over public or private networks. We allow to deploy secure channels with unified voice, video, live chat and screen sharing capabilities for web, apps, and kiosk-based customer engagement to sale or support faster than ever.</description>
-    </item>
-    
-    <item>
-      <title>Welcome to our New Blog!</title>
-      <link>http://blog.test.ivrpowers.com/post/general/welcome/</link>
-      <pubDate>Mon, 29 May 2017 09:42:42 +0200</pubDate>
-      
-      <guid>http://blog.test.ivrpowers.com/post/general/welcome/</guid>
-      <description>Welcome to the IVRPowers new blog!
-Our Corporate Blog is build with Hugo and will give us a unique opportunity to better share news, updates and healthy living content, while also offering a place for us to interact with all our community. If you’re wondering what you can expect from the content you find on our blog, and how the information here differs from the information you may find on our website, read on.</description>
     </item>
     
   </channel>
