@@ -3,7 +3,7 @@ categories = ["general","marketing"]
 date = "2017-05-23T20:40:07+02:00"
 description = "Our High Tech Startup"
 draft = false
-tags = ["marketing","brand"]
+tags = ["marketing","brand","IVRPowers","blog"]
 title = "About Interactive Powers"
 image = "/postimages/interactive-powers-startup.jpeg"
 
