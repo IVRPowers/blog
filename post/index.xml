@@ -43,16 +43,6 @@ While digital customer engagement is part of the new world order, physical engag
     </item>
     
     <item>
-      <title>About Interactive Powers</title>
-      <link>http://blog.test.ivrpowers.com/post/general/about-interactive-powers/</link>
-      <pubDate>Tue, 23 May 2017 20:40:07 +0200</pubDate>
-      
-      <guid>http://blog.test.ivrpowers.com/post/general/about-interactive-powers/</guid>
-      <description>Interactive Powers develops technology that helps your organization connect, communicate and engage with you customers, employees and stakeholders. Contact with us to find out more about how we can help you achieve your business communication goals.
-Interactive Powers delivers communication platforms that enables advanced real-time interactions over public or private networks. We allow to deploy secure channels with unified voice, video, live chat and screen sharing capabilities for web, apps, and kiosk-based customer engagement to sale or support faster than ever.</description>
-    </item>
-    
-    <item>
       <title>Aprendiendo a usar GoHugo</title>
       <link>http://blog.test.ivrpowers.com/post/tutorials/using-hugo/</link>
       <pubDate>Mon, 22 May 2017 13:30:27 +0200</pubDate>
@@ -98,6 +88,16 @@ Tener Git instalado  Windows: https://git-for-windows.github.io/ Linux: desde el
       <guid>http://blog.test.ivrpowers.com/post/markdown/</guid>
       <description> Markdown es un lenguaje de marcado ligero creado por John Gruber que trata de conseguir la máxima legibilidad y facilidad de publicación tanto en su forma de entrada como de salida, inspirándose en muchas convenciones existentes para marcar mensajes de correo electrónico usando texto plano.
 Tutoriales  Referencia Rápida ¿Qué es Markdown? - La Guía definitiva Markdown en GoHugo  Ejemplos  Ejemplo de Post en GoHugo  Herramientas  Editor Online con Preview  </description>
+    </item>
+    
+    <item>
+      <title>About Interactive Powers</title>
+      <link>http://blog.test.ivrpowers.com/post/general/about-interactive-powers/</link>
+      <pubDate>Tue, 23 May 2017 20:40:07 +0200</pubDate>
+      
+      <guid>http://blog.test.ivrpowers.com/post/general/about-interactive-powers/</guid>
+      <description>Interactive Powers develops technology that helps your organization connect, communicate and engage with you customers, employees and stakeholders. Contact with us to find out more about how we can help you achieve your business communication goals.
+Interactive Powers delivers communication platforms that enables advanced real-time interactions over public or private networks. We allow to deploy secure channels with unified voice, video, live chat and screen sharing capabilities for web, apps, and kiosk-based customer engagement to sale or support faster than ever.</description>
     </item>
     
   </channel>

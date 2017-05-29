@@ -6,10 +6,20 @@
     <description>Recent content on IVRPowers Blog Test</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 29 May 2017 09:42:42 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 23 May 2017 20:40:07 +0200</lastBuildDate>
     
 	<atom:link href="http://blog.test.ivrpowers.com/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>About Interactive Powers</title>
+      <link>http://blog.test.ivrpowers.com/post/general/about-interactive-powers/</link>
+      <pubDate>Tue, 23 May 2017 20:40:07 +0200</pubDate>
+      
+      <guid>http://blog.test.ivrpowers.com/post/general/about-interactive-powers/</guid>
+      <description>Interactive Powers develops technology that helps your organization connect, communicate and engage with you customers, employees and stakeholders. Contact with us to find out more about how we can help you achieve your business communication goals.
+Interactive Powers delivers communication platforms that enables advanced real-time interactions over public or private networks. We allow to deploy secure channels with unified voice, video, live chat and screen sharing capabilities for web, apps, and kiosk-based customer engagement to sale or support faster than ever.</description>
+    </item>
     
     <item>
       <title>Welcome to our New Blog!</title>
@@ -40,16 +50,6 @@ WebRTC is being standardized by the World Wide Web Consortium (W3C) and the Inte
       <guid>http://blog.test.ivrpowers.com/post/news/customer-experience/</guid>
       <description>Customer experience (CX) is a top priority for businesses worldwide and more critical than ever. More than 50 percent of organizations will redirect their investments to CX innovations by 2018, according to Gartner. Considering that an estimated $1.6 trillion is lost as a result of poor service, no company is exempt from offering an exceptional customer journey.
 While digital customer engagement is part of the new world order, physical engagement - old-school face-to-face interactions - remain highly relevant as well.</description>
-    </item>
-    
-    <item>
-      <title>About Interactive Powers</title>
-      <link>http://blog.test.ivrpowers.com/post/general/about-interactive-powers/</link>
-      <pubDate>Tue, 23 May 2017 20:40:07 +0200</pubDate>
-      
-      <guid>http://blog.test.ivrpowers.com/post/general/about-interactive-powers/</guid>
-      <description>Interactive Powers develops technology that helps your organization connect, communicate and engage with you customers, employees and stakeholders. Contact with us to find out more about how we can help you achieve your business communication goals.
-Interactive Powers delivers communication platforms that enables advanced real-time interactions over public or private networks. We allow to deploy secure channels with unified voice, video, live chat and screen sharing capabilities for web, apps, and kiosk-based customer engagement to sale or support faster than ever.</description>
     </item>
     
     <item>
