@@ -17,4 +17,4 @@ Due to these transformations, the marketing technology landscape has exploded in
 
 Initially, it was only IT and computing enterprises who talk about the value of WebRTC. Nowadays, companies in the most diverse sectors – like healthcare industries, educational institutions, e-commerce, financial services, insurance companies, entertainment business – are realizing they need to incorporate new technology into their business strategies. Real-time communication solutions are key services for companies to stay relevant and competitive. 
 
-If you want to know more about trend technology for your business, we can advice you in [IVRPowers](http://www.ivrpowers.com/).
+If you want to know more about trending technology for your business, we can advice you in [IVRPowers](http://www.ivrpowers.com/).
