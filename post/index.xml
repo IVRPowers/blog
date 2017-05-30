@@ -131,5 +131,15 @@ Our Corporate Blog is build with Hugo and will give us a unique opportunity to b
 Interactive Powers delivers communication platforms that enables advanced real-time interactions over public or private networks. We allow to deploy secure channels with unified voice, video, live chat and screen sharing capabilities for web, apps, and kiosk-based customer engagement to sale or support faster than ever.</description>
     </item>
     
+    <item>
+      <title>WebRTC. A Trending Technology to improve business results</title>
+      <link>http://blog.test.ivrpowers.com/post/webrtc/trending-technology/</link>
+      <pubDate>Tue, 30 May 2017 10:55:18 +0200</pubDate>
+      
+      <guid>http://blog.test.ivrpowers.com/post/webrtc/trending-technology/</guid>
+      <description>Technology is changing our daily tasks. We pay bills, book concert tickets, buy food and even we can control our home from a device. People, especially younger generations, expect technological innovations in their everyday life. It happens so in business and ignoring this reality will lead to loss of potential and therefore of competitiveness.
+Technology solutions have a great impact on customer experiences. And one of the latest trends in the field is WebRTC.</description>
+    </item>
+    
   </channel>
 </rss>
