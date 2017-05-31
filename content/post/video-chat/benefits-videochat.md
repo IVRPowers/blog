@@ -26,7 +26,7 @@ Some companies have already incorporated video chat to their services. In this B
 
 {{< youtube Pn9AWbgvvaU >}}
 
-Here there is another example of video chat support that Amazon provides. It shows the complexity of actions that video chat allows:
+Here, another example of video chat support that Amazon provides. It shows the complexity of actions that video chat allows:
 
 {{< youtube wwkxgwajCko >}}
 
