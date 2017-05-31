@@ -24,14 +24,11 @@ More than ever businesses need to pay attention to customer experience and provi
 
 Some companies have already incorporated video chat to their services. In this Barclays advertisement you can see how video chat works and the advantages it offers:
 
-[ [embed url=https://www.youtube.com/watch?v=Pn9AWbgvvaU] ]
+{{< youtube Pn9AWbgvvaU >}}
 
 Here there is another example of video chat support that Amazon provides. It shows the complexity of actions that video chat allows:
 
-[ [embed url=https://www.youtube.com/watch?v=wwkxgwajCko] ]
+{{< youtube wwkxgwajCko >}}
 
 Contact us in [www.ivrpowers.com](http://ivrpowers.com) and learn more about the benefits of video chat to your business.
  
-
-
-
