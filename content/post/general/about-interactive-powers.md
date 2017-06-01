@@ -6,7 +6,7 @@ draft = false
 tags = ["marketing","brand","IVRPowers","blog"]
 title = "About Interactive Powers"
 image = "/postimages/interactive-powers-startup.jpeg"
-weight = 98
+weight = 96
 
 +++
 
