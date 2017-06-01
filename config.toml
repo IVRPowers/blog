@@ -1,6 +1,6 @@
 baseURL = "http://blog.test.ivrpowers.com/"
 languageCode = "en-us"
-title = "IVRPowers Blog Test"
+title = "Blog"
 publishDir = "public"
 theme = "hugo-theme-bleak"
 

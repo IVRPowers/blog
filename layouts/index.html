@@ -1,6 +1,6 @@
 {{ partial "header.html" . }}
 
-	<header id="header" class="header{{ if .Site.Params.cover }} has-cover{{ end }}">
+	<header id="header" class="header has-cover">
 		<div class="inner">
 			<a class="header-title" href="{{ .Site.BaseURL }}">
 				<h1 class="header-name">{{ .Site.Title }}</h1>
@@ -9,9 +9,7 @@
 				{{ end }}
 			</a>
 		</div>
-		{{ if .Site.Params.cover }}
-		<div class="header-cover blured-image" style="background-color: #fc544c; background-image: url(/images/cover.low.jpg)" data-src="{{ .Site.Params.cover }}"></div>
-		{{ end }}
+		<div class="header-cover blured-image" style="background-color: #163039;"></div>
 	</header>
 
 	<div id="post-index" class="container">
