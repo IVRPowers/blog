@@ -38,6 +38,11 @@
   </url>
   
   <url>
+    <loc>http://blog.test.ivrpowers.com/post/products_voicexml/</loc>
+    <lastmod>2017-06-01T13:25:21+02:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://blog.test.ivrpowers.com/post/technology/introducing-videortcjs/</loc>
     <lastmod>2017-05-30T00:30:56+02:00</lastmod>
   </url>
@@ -222,7 +227,7 @@
   
   <url>
     <loc>http://blog.test.ivrpowers.com/post/</loc>
-    <lastmod>2017-05-30T00:30:56+02:00</lastmod>
+    <lastmod>2017-06-01T13:25:21+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -295,6 +300,12 @@
   <url>
     <loc>http://blog.test.ivrpowers.com/categories/videochat/</loc>
     <lastmod>2017-05-31T13:49:56+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://blog.test.ivrpowers.com/tags/voicexml/</loc>
+    <lastmod>2017-06-01T13:25:21+02:00</lastmod>
     <priority>0</priority>
   </url>
   
