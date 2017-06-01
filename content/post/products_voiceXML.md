@@ -4,12 +4,14 @@ date = "2017-06-01T13:25:21+02:00"
 description = "Refining IVR with Software"
 draft = false
 tags = ["voiceXML"]
-title = "Know our products: VoiceXML"
-weigh = 97
+title = "Know our products: VoiceXML IVR"
+weight = 98
 featured = true
-image = "/postimages/woman_callcenter.jpeg"
+image = "/postimages/woman-callcenter.jpeg"
 
 +++
+
+![VoiceXML IVR logo](/postimages/voiceXML-IVR.png)
 
 **Interactive Voice Response Platform**
 
