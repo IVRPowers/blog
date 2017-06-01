@@ -35,6 +35,24 @@ body {
     font: 100 1em / 1.5em 'MuseoSansRounded-500',sans-serif !important;
 }
 
+#header .header-title .header-name {
+    font-family: 'MuseoSansRounded-900';
+    font-size: 3.5em;
+}
+
+#header .header-title .header-description {
+    font-size: 1.2em;
+}
+
+#header .header-title .header-description:after {
+    width: 150px;
+    margin-left: -75px;
+}
+
+.post .post-header .post-title {
+    color: #163039 !important;
+}
+
 .post-content p {
     text-align: justify;
 }
@@ -50,7 +68,7 @@ body {
 }
 
 .post-list .post .post-image {
-    background: #fc544c !important;
+    background: transparent !important;
 }
 
 .post-list .post .post-image:after {
@@ -130,6 +148,8 @@ body {
 
 #footer {
     background-color: #163039 !important;
+    color: white !important;
+    font-size: 0.8em !important;
 }
 
 .post-list .post.featured .inner {
@@ -143,4 +163,13 @@ body {
 
 .post-list .post.post.featured .post-image:after {
     background-color: #163039 !important;
+}
+
+.pagination .pagination-item {
+    border-color: #fc544c !important;
+}
+
+.pagination .pagination-item:focus, 
+.pagination .pagination-item:hover {
+    box-shadow: 0 0 0 2px #fc544c !important;
 }
