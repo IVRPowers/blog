@@ -6,7 +6,7 @@ draft = false
 tags = ["IVRPowers"]
 title = "Welcome to our New Blog!"
 image = "/postimages/general/foto-bienvenida.jpeg"
-weight = 95
+weight = 1
 featured = true
 
 +++

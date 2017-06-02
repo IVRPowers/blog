@@ -3,11 +3,14 @@ categories = ["marketing", "trends"]
 date = "2017-05-30T13:32:54+02:00"
 description = "Real-time communications in the marketing business"
 draft = false
-tags = ["marketing","webRTC", "business strategy"]
+tags = ["marketing","WebRTC", "business strategy"]
 title = "The increasing business of marketing technology"
-weight = 102
+weight = 60
 image = "/postimages/marketing/man-showing-graphics.jpg"
+
 +++
+
+![Man reading graphics](/postimages/man-showing-graphics.jpg)
 
 Demands for real-time communications solutions are growing. In an increasingly connected world, customers access to information through multiple channels and expect personalized and always available services. According to [Pew Research Center](http://www.pewresearch.org/fact-tank/2015/12/08/one-fifth-of-americans-report-going-online-almost-constantly/), 1 in 5 adults in US. report that are always almost on line and, overall, 73% of US citizens go online on a daily basis. 
 
