@@ -1,0 +1,33 @@
++++
+categories = ["products"]
+date = "2017-06-02T11:22:18+02:00"
+description = "Video Real-Time Communications"
+draft = false
+tags = ["VideoRTC","WebRTC"]
+title = "Know our products: VideoRTC"
+weight = 20
+featured = true
+image = "/postimages/ivrpowers-webrtc.jpeg"
+
++++
+
+![VideoRTC logo](/postimages/videoRTC-IVR.png)
+
+[**Video Real Time Communications Platform**](http://www.ivrpowers.com/videortc/)
+
+Our Video Gateway connects peers or endpoints between WebRTC, RTMP and SIP technology to create advanced Video services.
+
+WebRTC (Web Real-Time Communication) is an API definition drafted by the World Wide Web Consortium (W3C) that supports browser-to-browser applications for voice calling, video chat, and messaging without the need of either internal or external plugins. RTMP is an open protocol for Adobe Flash Player compliant browsers.
+
+Video Gateway works in common hardware or Cloud VM servers configurations, providing a highly scalable base system to meet all customers’ business and technical requirements.
+
+  **Cloud Ready.** Our Video Gateway solutions are software based and ready to run over Cloud environments and Virtual Servers. You can setup our Video RTC platforms over Amazon EC2 servers or any Private/Public Cloud.
+
+  **Contact Centers.** Our Video Gateway is specifically designed to connect efficiently existing Call Centers with our advanced SPLIT module running over SIP and adding live Video RTC to your business calls interactions.
+
+  **Web Browsers.** Our Video Gateway runs over all existing Web Browsers with native WebRTC inside functions and javascript. To connect others Web Browsers, we can add a special plugin and/or a Flash Player for RTMP.
+
+  **Android & iOS.** Our Video Gateway connects endpoints based in a native/hybrid Android or iOS app that you can create and customize according to your own requirements. Our SDK works with standard mobile development tools.
+
+Fin more information at: [www.ivrpowers.com ](www.ivrpowers.com)
+
