@@ -42,10 +42,10 @@ Tener Git instalado  Windows: https://git-for-windows.github.io/ Linux: desde el
     
     <item>
       <title>Markdown</title>
-      <link>http://blog.test.ivrpowers.com/post/markdown/</link>
+      <link>http://blog.test.ivrpowers.com/post/tutorials/markdown/</link>
       <pubDate>Thu, 18 May 2017 11:09:51 +0200</pubDate>
       
-      <guid>http://blog.test.ivrpowers.com/post/markdown/</guid>
+      <guid>http://blog.test.ivrpowers.com/post/tutorials/markdown/</guid>
       <description> Markdown es un lenguaje de marcado ligero creado por John Gruber que trata de conseguir la máxima legibilidad y facilidad de publicación tanto en su forma de entrada como de salida, inspirándose en muchas convenciones existentes para marcar mensajes de correo electrónico usando texto plano.
 Tutoriales  Referencia Rápida ¿Qué es Markdown? - La Guía definitiva Markdown en GoHugo  Ejemplos  Ejemplo de Post en GoHugo  Herramientas  Editor Online con Preview  </description>
     </item>

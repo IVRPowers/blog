@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Technologies on Blog</title>
+    <link>http://blog.test.ivrpowers.com/categories/technologies/</link>
+    <description>Recent content in Technologies on Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 31 May 2017 13:49:56 +0200</lastBuildDate>
+    
+	<atom:link href="http://blog.test.ivrpowers.com/categories/technologies/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Is video chat a good strategy to my business?</title>
+      <link>http://blog.test.ivrpowers.com/post/technologies/benefits-videochat/</link>
+      <pubDate>Wed, 31 May 2017 13:49:56 +0200</pubDate>
+      
+      <guid>http://blog.test.ivrpowers.com/post/technologies/benefits-videochat/</guid>
+      <description>More than ever businesses need to pay attention to customer experience and provide them with quality support. In addition to phone, email and self-service, live video chat is an excellent tool to improve customer satisfaction. Video chat makes available an efficient and immediate support. And it is a cost-saving option to companies that provide personalized services.
+Some benefits of video chat
+Seeing is believing. Video chat allows to show the product in real time for the customer while talking to an agent or sales rep.</description>
+    </item>
+    
+  </channel>
+</rss>
