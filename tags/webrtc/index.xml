@@ -6,10 +6,21 @@
     <description>Recent content in Webrtc on Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 31 May 2017 13:49:56 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 02 Jun 2017 11:22:18 +0200</lastBuildDate>
     
 	<atom:link href="http://blog.test.ivrpowers.com/tags/webrtc/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Know our products: VideoRTC</title>
+      <link>http://blog.test.ivrpowers.com/post/products/videortc/</link>
+      <pubDate>Fri, 02 Jun 2017 11:22:18 +0200</pubDate>
+      
+      <guid>http://blog.test.ivrpowers.com/post/products/videortc/</guid>
+      <description>Video Real Time Communications Platform
+Our Video Gateway connects peers or endpoints between WebRTC, RTMP and SIP technology to create advanced Video services.
+WebRTC (Web Real-Time Communication) is an API definition drafted by the World Wide Web Consortium (W3C) that supports browser-to-browser applications for voice calling, video chat, and messaging without the need of either internal or external plugins. RTMP is an open protocol for Adobe Flash Player compliant browsers.</description>
+    </item>
     
     <item>
       <title>Is video chat a good strategy to my business?</title>
