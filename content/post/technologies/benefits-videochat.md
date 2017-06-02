@@ -22,13 +22,6 @@ More than ever businesses need to pay attention to customer experience and provi
 
 **More sales.** Live video helps to increase sales and customer retention. Customers can get frustrated plugging through phone prompts, followed by a hold music or waiting for days to receive an answer via email. Marketing surveys show that customers love live chat. [Bold Software](https://www.emarketer.com/Article/How-Helpful-Live-Chat/1007235) found that “63% of respondents who chatted said they were more likely to return to the site”. Live chat is a valuable service and customers appreciate it.
 
-Some companies have already incorporated video chat to their services. In this Barclays' advertisement you can see how video chat works and the advantages it offers:
-
-{{< youtube Pn9AWbgvvaU >}}
-
-Here, another example of video chat support provided by Amazon. It shows the complexity of actions that live video allows:
-
-{{< youtube wwkxgwajCko >}}
 
 Contact us in [www.ivrpowers.com](http://ivrpowers.com) and learn more about the benefits of video chat to your business.
  
