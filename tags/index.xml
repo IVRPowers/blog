@@ -6,19 +6,10 @@
     <description>Recent content in Tags on Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 30 May 2017 00:30:56 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 31 May 2017 13:49:56 +0200</lastBuildDate>
     
 	<atom:link href="http://blog.test.ivrpowers.com/tags/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Api</title>
-      <link>http://blog.test.ivrpowers.com/tags/api/</link>
-      <pubDate>Tue, 30 May 2017 00:30:56 +0200</pubDate>
-      
-      <guid>http://blog.test.ivrpowers.com/tags/api/</guid>
-      <description></description>
-    </item>
     
     <item>
       <title>Business Strategy</title>
@@ -26,42 +17,6 @@
       <pubDate>Wed, 31 May 2017 13:49:56 +0200</pubDate>
       
       <guid>http://blog.test.ivrpowers.com/tags/business-strategy/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Example</title>
-      <link>http://blog.test.ivrpowers.com/tags/example/</link>
-      <pubDate>Thu, 18 May 2017 14:16:55 +0200</pubDate>
-      
-      <guid>http://blog.test.ivrpowers.com/tags/example/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Git</title>
-      <link>http://blog.test.ivrpowers.com/tags/git/</link>
-      <pubDate>Fri, 19 May 2017 10:51:22 +0200</pubDate>
-      
-      <guid>http://blog.test.ivrpowers.com/tags/git/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Gohugo</title>
-      <link>http://blog.test.ivrpowers.com/tags/gohugo/</link>
-      <pubDate>Mon, 22 May 2017 13:30:27 +0200</pubDate>
-      
-      <guid>http://blog.test.ivrpowers.com/tags/gohugo/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Installation</title>
-      <link>http://blog.test.ivrpowers.com/tags/installation/</link>
-      <pubDate>Thu, 18 May 2017 11:59:32 +0200</pubDate>
-      
-      <guid>http://blog.test.ivrpowers.com/tags/installation/</guid>
       <description></description>
     </item>
     
@@ -93,24 +48,6 @@
     </item>
     
     <item>
-      <title>Lorem Ipsum</title>
-      <link>http://blog.test.ivrpowers.com/tags/lorem-ipsum/</link>
-      <pubDate>Thu, 18 May 2017 14:16:55 +0200</pubDate>
-      
-      <guid>http://blog.test.ivrpowers.com/tags/lorem-ipsum/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Markdown</title>
-      <link>http://blog.test.ivrpowers.com/tags/markdown/</link>
-      <pubDate>Thu, 18 May 2017 11:09:51 +0200</pubDate>
-      
-      <guid>http://blog.test.ivrpowers.com/tags/markdown/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Marketing</title>
       <link>http://blog.test.ivrpowers.com/tags/marketing/</link>
       <pubDate>Tue, 23 May 2017 20:40:07 +0200</pubDate>
@@ -120,56 +57,11 @@
     </item>
     
     <item>
-      <title>Rtc</title>
-      <link>http://blog.test.ivrpowers.com/tags/rtc/</link>
-      <pubDate>Tue, 30 May 2017 00:20:05 +0200</pubDate>
-      
-      <guid>http://blog.test.ivrpowers.com/tags/rtc/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Rtmp</title>
-      <link>http://blog.test.ivrpowers.com/tags/rtmp/</link>
-      <pubDate>Tue, 30 May 2017 00:19:54 +0200</pubDate>
-      
-      <guid>http://blog.test.ivrpowers.com/tags/rtmp/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Sdk</title>
-      <link>http://blog.test.ivrpowers.com/tags/sdk/</link>
-      <pubDate>Tue, 30 May 2017 00:30:56 +0200</pubDate>
-      
-      <guid>http://blog.test.ivrpowers.com/tags/sdk/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Startup</title>
       <link>http://blog.test.ivrpowers.com/tags/startup/</link>
       <pubDate>Tue, 23 May 2017 20:40:07 +0200</pubDate>
       
       <guid>http://blog.test.ivrpowers.com/tags/startup/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Tutorial</title>
-      <link>http://blog.test.ivrpowers.com/tags/tutorial/</link>
-      <pubDate>Fri, 19 May 2017 10:51:22 +0200</pubDate>
-      
-      <guid>http://blog.test.ivrpowers.com/tags/tutorial/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Tutorials</title>
-      <link>http://blog.test.ivrpowers.com/tags/tutorials/</link>
-      <pubDate>Mon, 22 May 2017 13:30:27 +0200</pubDate>
-      
-      <guid>http://blog.test.ivrpowers.com/tags/tutorials/</guid>
       <description></description>
     </item>
     
