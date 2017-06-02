@@ -2,7 +2,7 @@
 categories = ["Tutorial"]
 date = "2017-05-19T10:51:22+02:00"
 description = "Comandos básicos de uso de Git"
-draft = false
+draft = true
 tags = ["tutorial","git"]
 title = "Usando Git"
 image = "/postimages/git.png"

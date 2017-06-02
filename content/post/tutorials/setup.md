@@ -3,7 +3,7 @@ categories = ["Tutorial"]
 date = "2017-05-18T11:59:32+02:00"
 description = "Cómo instalar y configurar el ordenador para escribir el blog"
 tags = ["tutorial","installation"]
-draft = false
+draft = true
 title = "Instalación del Entorno"
 featured = true
 

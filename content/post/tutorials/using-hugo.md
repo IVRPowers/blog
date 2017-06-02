@@ -2,7 +2,7 @@
 categories = ["Tutorial"]
 date = "2017-05-22T13:30:27+02:00"
 description = "Pequeño tutorial de cómo crear y publicar posts en el blog"
-draft = false
+draft = true
 tags = ["tutorials","gohugo"]
 title = "Aprendiendo a usar GoHugo"
 image = "/postimages/tutorials/using-hugo/hugo.jpg"
