@@ -6,10 +6,94 @@
     <description>Recent content in Rtc on Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 30 May 2017 00:20:05 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 30 May 2017 10:55:18 +0200</lastBuildDate>
     
 	<atom:link href="http://blog.test.ivrpowers.com/tags/rtc/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>4 Key factors to select a Telehealth Solution</title>
+      <link>http://blog.test.ivrpowers.com/post/healthcare/4-factors-select-telehealth-solution/</link>
+      <pubDate>Tue, 30 May 2017 10:55:18 +0200</pubDate>
+      
+      <guid>http://blog.test.ivrpowers.com/post/healthcare/4-factors-select-telehealth-solution/</guid>
+      <description>Implementing telehealth can help physicians reach people in remote or rural areas who may not be able to travel to a particular facility or specialist as well as those in more densely populated urban areas who find inner-city mass transit insufficient for their needs. As a result, more organizations are turning to telehealth as a viable alternative to routine in-office physician visits.
+To implement the kind of telehealth solution that both clinicians and patients will trust and use takes a lot of up-front planning.</description>
+    </item>
+    
+    <item>
+      <title>Updating the Inbound Phone Channel</title>
+      <link>http://blog.test.ivrpowers.com/post/trends/updating-inbound-phone-channel/</link>
+      <pubDate>Tue, 30 May 2017 10:55:18 +0200</pubDate>
+      
+      <guid>http://blog.test.ivrpowers.com/post/trends/updating-inbound-phone-channel/</guid>
+      <description>Most Call Centersare only managing standard inbound phone calls with the addition of &amp;ldquo;Click-to-call&amp;rdquo; or &amp;ldquo;Call-me-back&amp;rdquo; buttons. It&amp;rsquo;s a very interesting &amp;ldquo;work around&amp;rdquo; option but it&amp;rsquo;s not enough. More and more users don&amp;rsquo;t like to make a phone call when they are browsing the net.
+Users just want to keep on the same channel for many reasons:
+ they don&amp;rsquo;t want to unveils their phone number…
+ they don&amp;rsquo;t know if one agent will be available now or better later… they don&amp;rsquo;t want to leave their web session context&amp;hellip; they may have bad cellular coverage conditions to make a mobile call&amp;hellip; they may be traveling outside their country under expensive roaming conditions… they may not be able to explain properly their current webpage context…  That&amp;rsquo;s a lot of reasons to make any inbound phone service fail?</description>
+    </item>
+    
+    <item>
+      <title>Follow us on Twitter</title>
+      <link>http://blog.test.ivrpowers.com/post/socials/followus-twitter/</link>
+      <pubDate>Tue, 30 May 2017 00:20:05 +0200</pubDate>
+      
+      <guid>http://blog.test.ivrpowers.com/post/socials/followus-twitter/</guid>
+      <description>Be sure to follow us on Twitter with great brand updates, promotions and news about all things RTC or IVR. Our hand is @ivrpowers and our favorite hashtags right now are #RTC and #IVR. Give us a shout out!
+https://twitter.com/ivrpowers</description>
+    </item>
+    
+    <item>
+      <title>The Benefits of a WebRTC System</title>
+      <link>http://blog.test.ivrpowers.com/post/marketing/webrtc-system-benefits/</link>
+      <pubDate>Tue, 30 May 2017 00:20:05 +0200</pubDate>
+      
+      <guid>http://blog.test.ivrpowers.com/post/marketing/webrtc-system-benefits/</guid>
+      <description>A WebRTC system can bring several benefits to all types of enterprises and users. For different market segments, the benefit would really be overwhelming, as the app would give them the power to open up a wealth of opportunities to serve their clients and customers, in a very innovative way. Using the network, companies can open up real-time and live video chats sessions with customers, and vice-versa, to provide their help and support.</description>
+    </item>
+    
+    <item>
+      <title>Video RTC (RTMP) v1.2</title>
+      <link>http://blog.test.ivrpowers.com/post/updates/update-video-rtc-rtmp-1.2.0/</link>
+      <pubDate>Tue, 30 May 2017 00:20:05 +0200</pubDate>
+      
+      <guid>http://blog.test.ivrpowers.com/post/updates/update-video-rtc-rtmp-1.2.0/</guid>
+      <description>Release Note
+We are pleased to announce that our new Video RTC (Gateway RTMP) v1.2.0 has been released for suitable production services. This new version includes a lot of improvements and new features. All users with previous maintained versions can upgrade today. Please contact our support!
+ChangeLog
+## [1.2.0] - 2017-01-18 ### Added - GET parameters to customize some variables of the client and agent flashphones { Action: parameter=[possible values] (default) ---------------------------------------------- Enable video: video=[true|false] (false) Video quality: quality=[1.</description>
+    </item>
+    
+    <item>
+      <title>Video RTC (WebRTC) v2.1</title>
+      <link>http://blog.test.ivrpowers.com/post/updates/update-video-rtc-webrtc-2.1.0/</link>
+      <pubDate>Tue, 30 May 2017 00:20:05 +0200</pubDate>
+      
+      <guid>http://blog.test.ivrpowers.com/post/updates/update-video-rtc-webrtc-2.1.0/</guid>
+      <description>Release Note
+We are pleased to announce that our new Video RTC (Gateway WebRTC) v2.1.0 has been released for suitable production services. This new version includes a lot of improvements and new features. All users with previous maintained versions can upgrade today. Please contact our support!
+ChangeLog
+## [2.1.0] - 2017-04-17 ### Added - Added Snapshot feature in the Split Agent usecase - VideoGateway notifies to participants when a Split session is finished - Added Autoclose feature in the Split Agent usecase - Added `split_screen_bitrate` in the Split configuration file - Added `videorate` and `screenrate` parameters in the `call_split` request - Added Quality selector in the Webclient usecase - Added sound notification when a message is received in the Split Agent usecase - Added sound notificator handle (Mute/Unmute) in LiveChat mode - Added visual notificacion when a file is sent in the Split Agent usecase - Added icon that identifies the file type sent/received - Added Drop feature for File Sharing (Agent -&amp;gt; Client) - Added Emoji feature in LiveChat (Webclient and Split Agent) - Added FullScreen mode in ScreenSharing (Webclient) - Added SplitAgent configuration feature via Flavour (Autoclose, Emoji.</description>
+    </item>
+    
+    <item>
+      <title>What is IVR?</title>
+      <link>http://blog.test.ivrpowers.com/post/technologies/what-is-ivr/</link>
+      <pubDate>Tue, 30 May 2017 00:20:05 +0200</pubDate>
+      
+      <guid>http://blog.test.ivrpowers.com/post/technologies/what-is-ivr/</guid>
+      <description>Interactive Voice Response (IVR) is a technology that allows a computer to interact with humans through the use of voice and DTMF tones input via keypad. In telecommunications, IVR allows customers to interact with a company’s host system via a telephone keypad or by speech recognition, after which services can be inquired about through the IVR dialogue. IVR systems can respond with prerecorded or dynamically generated audio to further direct users on how to proceed.</description>
+    </item>
+    
+    <item>
+      <title>What is RTC?</title>
+      <link>http://blog.test.ivrpowers.com/post/technologies/what-is-rtc/</link>
+      <pubDate>Tue, 30 May 2017 00:20:05 +0200</pubDate>
+      
+      <guid>http://blog.test.ivrpowers.com/post/technologies/what-is-rtc/</guid>
+      <description>A clear definition of Real-time communications (RTC) is important to understand what will be the newest evolution of Internet applications and services for businesses and individuals. All is moving around to more real-time, more video, better sound quality, better screen resolution, easier human-interfaces… RTC technology helps to share together most of our senses thru digital networks at light’s speed:
+RTC is any mode of telecommunications in which all users can exchange information instantly or with negligible latency.</description>
+    </item>
     
     <item>
       <title>What is WebRTC?</title>

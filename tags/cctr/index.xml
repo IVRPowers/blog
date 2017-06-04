@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cctr on Blog</title>
+    <link>http://blog.test.ivrpowers.com/tags/cctr/</link>
+    <description>Recent content in Cctr on Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 30 May 2017 10:55:18 +0200</lastBuildDate>
+    
+	<atom:link href="http://blog.test.ivrpowers.com/tags/cctr/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Updating the Inbound Phone Channel</title>
+      <link>http://blog.test.ivrpowers.com/post/trends/updating-inbound-phone-channel/</link>
+      <pubDate>Tue, 30 May 2017 10:55:18 +0200</pubDate>
+      
+      <guid>http://blog.test.ivrpowers.com/post/trends/updating-inbound-phone-channel/</guid>
+      <description>Most Call Centersare only managing standard inbound phone calls with the addition of &amp;ldquo;Click-to-call&amp;rdquo; or &amp;ldquo;Call-me-back&amp;rdquo; buttons. It&amp;rsquo;s a very interesting &amp;ldquo;work around&amp;rdquo; option but it&amp;rsquo;s not enough. More and more users don&amp;rsquo;t like to make a phone call when they are browsing the net.
+Users just want to keep on the same channel for many reasons:
+ they don&amp;rsquo;t want to unveils their phone number…
+ they don&amp;rsquo;t know if one agent will be available now or better later… they don&amp;rsquo;t want to leave their web session context&amp;hellip; they may have bad cellular coverage conditions to make a mobile call&amp;hellip; they may be traveling outside their country under expensive roaming conditions… they may not be able to explain properly their current webpage context…  That&amp;rsquo;s a lot of reasons to make any inbound phone service fail?</description>
+    </item>
+    
+  </channel>
+</rss>

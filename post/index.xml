@@ -6,17 +6,37 @@
     <description>Recent content in Posts on Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 29 May 2017 09:42:42 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 30 May 2017 00:30:56 +0200</lastBuildDate>
     
 	<atom:link href="http://blog.test.ivrpowers.com/post/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>Introducing VideoRTC.js for Developers</title>
+      <link>http://blog.test.ivrpowers.com/post/development/introducing-videortcjs-developers/</link>
+      <pubDate>Tue, 30 May 2017 00:30:56 +0200</pubDate>
+      
+      <guid>http://blog.test.ivrpowers.com/post/development/introducing-videortcjs-developers/</guid>
+      <description>Since 2015, IVRPowers has been diligently refining its Video RTC solutions, API Framework and SDKs to make embedded video much more accessible for developers and enterprises who are looking to rapidly integrate reliable video chat into their own applications.
+Today, we’re thrilled to officially announce a new VideoRTC.js library – the launch of our self-service API Framework developer tools, which lets developers quickly and easily embed this same enterprise-grade, cloud-hosted, multiparty RTC video collaboration into any web, mobile or native application on virtually any device.</description>
+    </item>
+    
+    <item>
+      <title>What is RTMP?</title>
+      <link>http://blog.test.ivrpowers.com/post/technologies/what-is-rtmp/</link>
+      <pubDate>Tue, 30 May 2017 00:19:54 +0200</pubDate>
+      
+      <guid>http://blog.test.ivrpowers.com/post/technologies/what-is-rtmp/</guid>
+      <description>Real Time Messaging Protocol or RTMP is mainly serving for high speed transmission of audio, video and data between flash player and a server. Initially developed by Macromedia, the protocol is now owned by Adobe, and specifications about it have only partially been released for public use.
+According to those specifications, the RTMP protocol has multiple variations, i.e. the “plain” RTMP protocol, RTMPS which is RTMP over an TLS/SSL connection, RTMPE which is RTMP encrypted using Adobe’s own security mechanism, and RTMPT which is encapsulated within HTTP requests to traverse firewalls.</description>
+    </item>
+    
+    <item>
       <title>Welcome to our New Blog!</title>
-      <link>http://blog.test.ivrpowers.com/post/general/welcome/</link>
+      <link>http://blog.test.ivrpowers.com/post/general/welcome-blog/</link>
       <pubDate>Mon, 29 May 2017 09:42:42 +0200</pubDate>
       
-      <guid>http://blog.test.ivrpowers.com/post/general/welcome/</guid>
+      <guid>http://blog.test.ivrpowers.com/post/general/welcome-blog/</guid>
       <description>Welcome to the IVRPowers new blog!
 Our Corporate Blog is build with Hugo and will give us a unique opportunity to better share news, updates and technology content, while also offering a place for us to interact with all our community. If you’re wondering what you can expect from the content you find on our blog, and how the information here differs from the information you may find on our website, read on.</description>
     </item>
@@ -33,10 +53,10 @@ Interactive Powers delivers communication platforms that enables advanced real-t
     
     <item>
       <title>Know our products: VoiceXML IVR</title>
-      <link>http://blog.test.ivrpowers.com/post/products/products_voicexml/</link>
+      <link>http://blog.test.ivrpowers.com/post/products/voicexml-ivr/</link>
       <pubDate>Thu, 01 Jun 2017 13:25:21 +0200</pubDate>
       
-      <guid>http://blog.test.ivrpowers.com/post/products/products_voicexml/</guid>
+      <guid>http://blog.test.ivrpowers.com/post/products/voicexml-ivr/</guid>
       <description>Interactive Voice Response Platform
 Our IVR software platform gives operators and solution providers the ability to rapidly develop and deploy innovative voice applications from VoIP to PSTN networks.
 This powerful IVR solution is fully compliant with the W3C’s VoiceXML 2.1 specification and is integrated with automatic speech recognition (ASR) and text-to-speech (TTS) software to enable advanced interactive services, and real-time calling applications.
@@ -45,44 +65,180 @@ It can be installed in common hardware or Cloud VM servers configurations, provi
     
     <item>
       <title>Know our products: VideoRTC</title>
-      <link>http://blog.test.ivrpowers.com/post/products/videortc/</link>
+      <link>http://blog.test.ivrpowers.com/post/products/video-rtc/</link>
       <pubDate>Fri, 02 Jun 2017 11:22:18 +0200</pubDate>
       
-      <guid>http://blog.test.ivrpowers.com/post/products/videortc/</guid>
+      <guid>http://blog.test.ivrpowers.com/post/products/video-rtc/</guid>
       <description>Video Real Time Communications Platform
 Our Video Gateway connects peers or endpoints between WebRTC, RTMP and SIP technology to create advanced Video services.
 WebRTC (Web Real-Time Communication) is an API definition drafted by the World Wide Web Consortium (W3C) that supports browser-to-browser applications for voice calling, video chat, and messaging without the need of either internal or external plugins. RTMP is an open protocol for Adobe Flash Player compliant browsers.</description>
     </item>
     
     <item>
-      <title>Is video chat a good strategy to my business?</title>
-      <link>http://blog.test.ivrpowers.com/post/technologies/benefits-videochat/</link>
+      <title>VideoRTC Special Extensions</title>
+      <link>http://blog.test.ivrpowers.com/post/products/video-rtc-special-extensions/</link>
+      <pubDate>Fri, 02 Jun 2017 11:22:18 +0200</pubDate>
+      
+      <guid>http://blog.test.ivrpowers.com/post/products/video-rtc-special-extensions/</guid>
+      <description>Video Gateway (WebRTC) includes many features or special extensions that you can activate according to your own business processes. All of this, is part of the capabilities of our Video RTC solution suite.
+Video RTC special extensions are:
+Live Chat. Video Gateway supports Live Chat feature thru a DataChannel. You can customize all the User or Agent front-end in Flash or HTML5 according the gateway mode you have deployed for your service.</description>
+    </item>
+    
+    <item>
+      <title>Is Video Chat a good Strategy for my Business?</title>
+      <link>http://blog.test.ivrpowers.com/post/marketing/video-chat-good-strategy-business/</link>
       <pubDate>Wed, 31 May 2017 13:49:56 +0200</pubDate>
       
-      <guid>http://blog.test.ivrpowers.com/post/technologies/benefits-videochat/</guid>
-      <description>More than ever businesses need to pay attention to customer experience and provide them with quality support. In addition to phone, email and self-service, live video chat is an excellent tool to improve customer satisfaction. Video chat makes available an efficient and immediate support. And it is a cost-saving option to companies that provide personalized services.
-Some benefits of video chat
+      <guid>http://blog.test.ivrpowers.com/post/marketing/video-chat-good-strategy-business/</guid>
+      <description>More than ever businesses need to pay attention to customer experience and provide them with quality support. In addition to phone, email and self-service, live Video Chat is an excellent tool to improve customer satisfaction. Video Chat makes available an efficient and immediate support. And it is a cost-saving option to companies that provide personalized services.
+Some benefits of Video Chat:
 Seeing is believing. Video chat allows to show the product in real time for the customer while talking to an agent or sales rep.</description>
     </item>
     
     <item>
-      <title>The increasing business of marketing technology</title>
-      <link>http://blog.test.ivrpowers.com/post/marketing/increasing-business/</link>
+      <title>The increasing Business of Real-Time Communications (RTC)</title>
+      <link>http://blog.test.ivrpowers.com/post/marketing/increasing-business-rtc/</link>
       <pubDate>Tue, 30 May 2017 13:32:54 +0200</pubDate>
       
-      <guid>http://blog.test.ivrpowers.com/post/marketing/increasing-business/</guid>
-      <description>Demands for real-time communications solutions are growing. In an increasingly connected world, customers access to information through multiple channels and expect personalized and always available services. According to Pew Research Center, 1 in 5 adults in US. report that are always almost on line and, overall, 73% of US citizens go online on a daily basis.
+      <guid>http://blog.test.ivrpowers.com/post/marketing/increasing-business-rtc/</guid>
+      <description>Demands for Real-Time Communications (RTC) solutions are growing. In an increasingly connected world, customers access to information through multiple channels and expect personalized and always available services. According to Pew Research Center, 1 in 5 adults in US. report that are always almost on line and, overall, 73% of US citizens go online on a daily basis.
 Today, buyers, sellers, prospects and partners expect a bidirectional exchange of information. To best position their companies and to meet necessities of digital customers, marketing departments face a range of challenges, including the extensive use of technologies for managing customer relationships.</description>
     </item>
     
     <item>
-      <title>WebRTC. A Trending Technology to improve business results</title>
-      <link>http://blog.test.ivrpowers.com/post/trends/trending-technology/</link>
+      <title>4 Key factors to select a Telehealth Solution</title>
+      <link>http://blog.test.ivrpowers.com/post/healthcare/4-factors-select-telehealth-solution/</link>
       <pubDate>Tue, 30 May 2017 10:55:18 +0200</pubDate>
       
-      <guid>http://blog.test.ivrpowers.com/post/trends/trending-technology/</guid>
-      <description>Technology is changing our daily tasks. We pay bills, book concert tickets, buy food and even we can control our home from a device. People, especially younger generations, expect technological innovations in their everyday life. It happens so in business and ignoring this reality will lead to loss of potential and therefore of competitiveness.
-Technology solutions have a great impact on customer experiences. And one of the latest trends in the field is [WebRTC].</description>
+      <guid>http://blog.test.ivrpowers.com/post/healthcare/4-factors-select-telehealth-solution/</guid>
+      <description>Implementing telehealth can help physicians reach people in remote or rural areas who may not be able to travel to a particular facility or specialist as well as those in more densely populated urban areas who find inner-city mass transit insufficient for their needs. As a result, more organizations are turning to telehealth as a viable alternative to routine in-office physician visits.
+To implement the kind of telehealth solution that both clinicians and patients will trust and use takes a lot of up-front planning.</description>
+    </item>
+    
+    <item>
+      <title>It&#39;s Time to add Video to your Contact Center</title>
+      <link>http://blog.test.ivrpowers.com/post/trends/its-time-to-switchon-video-cctr/</link>
+      <pubDate>Tue, 30 May 2017 10:55:18 +0200</pubDate>
+      
+      <guid>http://blog.test.ivrpowers.com/post/trends/its-time-to-switchon-video-cctr/</guid>
+      <description>Beyond improving quality of service QoS and call productivity, any Contact Center has to be ready for the next Internet evolution challenges. For any online business or ecommerce website, the most efficient way to contact a sale representative or get human support is a real-time interaction with your agents but without leaving the web session, so you have to add a one-click button located near to the product or service or information they are selecting.</description>
+    </item>
+    
+    <item>
+      <title>Updating the Inbound Phone Channel</title>
+      <link>http://blog.test.ivrpowers.com/post/trends/updating-inbound-phone-channel/</link>
+      <pubDate>Tue, 30 May 2017 10:55:18 +0200</pubDate>
+      
+      <guid>http://blog.test.ivrpowers.com/post/trends/updating-inbound-phone-channel/</guid>
+      <description>Most Call Centersare only managing standard inbound phone calls with the addition of &amp;ldquo;Click-to-call&amp;rdquo; or &amp;ldquo;Call-me-back&amp;rdquo; buttons. It&amp;rsquo;s a very interesting &amp;ldquo;work around&amp;rdquo; option but it&amp;rsquo;s not enough. More and more users don&amp;rsquo;t like to make a phone call when they are browsing the net.
+Users just want to keep on the same channel for many reasons:
+ they don&amp;rsquo;t want to unveils their phone number…
+ they don&amp;rsquo;t know if one agent will be available now or better later… they don&amp;rsquo;t want to leave their web session context&amp;hellip; they may have bad cellular coverage conditions to make a mobile call&amp;hellip; they may be traveling outside their country under expensive roaming conditions… they may not be able to explain properly their current webpage context…  That&amp;rsquo;s a lot of reasons to make any inbound phone service fail?</description>
+    </item>
+    
+    <item>
+      <title>WebRTC: A Trending Technology for your Business</title>
+      <link>http://blog.test.ivrpowers.com/post/trends/webrtc-trending-technology-business/</link>
+      <pubDate>Tue, 30 May 2017 10:55:18 +0200</pubDate>
+      
+      <guid>http://blog.test.ivrpowers.com/post/trends/webrtc-trending-technology-business/</guid>
+      <description>Technology is continuously changing our daily tasks. We pay bills, book concert tickets, buy food and even we can control our home from a device. People, especially younger generations, expect technological innovations in their everyday life. It happens so in business and ignoring this reality will lead to loss of potential and therefore of competitiveness.
+Technology solutions have a great impact on Customer Experience. And one of the latest trends in the field is #WebRTC.</description>
+    </item>
+    
+    <item>
+      <title>Follow us on Twitter</title>
+      <link>http://blog.test.ivrpowers.com/post/socials/followus-twitter/</link>
+      <pubDate>Tue, 30 May 2017 00:20:05 +0200</pubDate>
+      
+      <guid>http://blog.test.ivrpowers.com/post/socials/followus-twitter/</guid>
+      <description>Be sure to follow us on Twitter with great brand updates, promotions and news about all things RTC or IVR. Our hand is @ivrpowers and our favorite hashtags right now are #RTC and #IVR. Give us a shout out!
+https://twitter.com/ivrpowers</description>
+    </item>
+    
+    <item>
+      <title>The Benefits of a WebRTC System</title>
+      <link>http://blog.test.ivrpowers.com/post/marketing/webrtc-system-benefits/</link>
+      <pubDate>Tue, 30 May 2017 00:20:05 +0200</pubDate>
+      
+      <guid>http://blog.test.ivrpowers.com/post/marketing/webrtc-system-benefits/</guid>
+      <description>A WebRTC system can bring several benefits to all types of enterprises and users. For different market segments, the benefit would really be overwhelming, as the app would give them the power to open up a wealth of opportunities to serve their clients and customers, in a very innovative way. Using the network, companies can open up real-time and live video chats sessions with customers, and vice-versa, to provide their help and support.</description>
+    </item>
+    
+    <item>
+      <title>Video RTC (RTMP) v1.2</title>
+      <link>http://blog.test.ivrpowers.com/post/updates/update-video-rtc-rtmp-1.2.0/</link>
+      <pubDate>Tue, 30 May 2017 00:20:05 +0200</pubDate>
+      
+      <guid>http://blog.test.ivrpowers.com/post/updates/update-video-rtc-rtmp-1.2.0/</guid>
+      <description>Release Note
+We are pleased to announce that our new Video RTC (Gateway RTMP) v1.2.0 has been released for suitable production services. This new version includes a lot of improvements and new features. All users with previous maintained versions can upgrade today. Please contact our support!
+ChangeLog
+## [1.2.0] - 2017-01-18 ### Added - GET parameters to customize some variables of the client and agent flashphones { Action: parameter=[possible values] (default) ---------------------------------------------- Enable video: video=[true|false] (false) Video quality: quality=[1.</description>
+    </item>
+    
+    <item>
+      <title>Video RTC (WebRTC) v2.1</title>
+      <link>http://blog.test.ivrpowers.com/post/updates/update-video-rtc-webrtc-2.1.0/</link>
+      <pubDate>Tue, 30 May 2017 00:20:05 +0200</pubDate>
+      
+      <guid>http://blog.test.ivrpowers.com/post/updates/update-video-rtc-webrtc-2.1.0/</guid>
+      <description>Release Note
+We are pleased to announce that our new Video RTC (Gateway WebRTC) v2.1.0 has been released for suitable production services. This new version includes a lot of improvements and new features. All users with previous maintained versions can upgrade today. Please contact our support!
+ChangeLog
+## [2.1.0] - 2017-04-17 ### Added - Added Snapshot feature in the Split Agent usecase - VideoGateway notifies to participants when a Split session is finished - Added Autoclose feature in the Split Agent usecase - Added `split_screen_bitrate` in the Split configuration file - Added `videorate` and `screenrate` parameters in the `call_split` request - Added Quality selector in the Webclient usecase - Added sound notification when a message is received in the Split Agent usecase - Added sound notificator handle (Mute/Unmute) in LiveChat mode - Added visual notificacion when a file is sent in the Split Agent usecase - Added icon that identifies the file type sent/received - Added Drop feature for File Sharing (Agent -&amp;gt; Client) - Added Emoji feature in LiveChat (Webclient and Split Agent) - Added FullScreen mode in ScreenSharing (Webclient) - Added SplitAgent configuration feature via Flavour (Autoclose, Emoji.</description>
+    </item>
+    
+    <item>
+      <title>VoiceXML IVR v13.1</title>
+      <link>http://blog.test.ivrpowers.com/post/updates/update-voicexml-ivr-13.1/</link>
+      <pubDate>Tue, 30 May 2017 00:20:05 +0200</pubDate>
+      
+      <guid>http://blog.test.ivrpowers.com/post/updates/update-voicexml-ivr-13.1/</guid>
+      <description>Release Note
+We are pleased to announce that our new VoiceXML IVR 13.1 has been released for suitable production services. This new version includes a lot of improvements and new features. All users with previous maintained versions can upgrade today. Please contact our support!
+ChangeLog
+## [1.3] - 2016-06 ### Added - Initialization of the freepbx_security.log during the fail2ban installation if not exists - Added pagination for CDR results - Added Presence extras source files - Added the extras module installation to the installation process - Added the extras module update to the update process ### Changed - Fixed posible exploit in the vxml editor directory browser - Fixed a typo in the web uninstallation steps - Updated Openvxi V12.</description>
+    </item>
+    
+    <item>
+      <title>What is IVR?</title>
+      <link>http://blog.test.ivrpowers.com/post/technologies/what-is-ivr/</link>
+      <pubDate>Tue, 30 May 2017 00:20:05 +0200</pubDate>
+      
+      <guid>http://blog.test.ivrpowers.com/post/technologies/what-is-ivr/</guid>
+      <description>Interactive Voice Response (IVR) is a technology that allows a computer to interact with humans through the use of voice and DTMF tones input via keypad. In telecommunications, IVR allows customers to interact with a company’s host system via a telephone keypad or by speech recognition, after which services can be inquired about through the IVR dialogue. IVR systems can respond with prerecorded or dynamically generated audio to further direct users on how to proceed.</description>
+    </item>
+    
+    <item>
+      <title>What is RTC?</title>
+      <link>http://blog.test.ivrpowers.com/post/technologies/what-is-rtc/</link>
+      <pubDate>Tue, 30 May 2017 00:20:05 +0200</pubDate>
+      
+      <guid>http://blog.test.ivrpowers.com/post/technologies/what-is-rtc/</guid>
+      <description>A clear definition of Real-time communications (RTC) is important to understand what will be the newest evolution of Internet applications and services for businesses and individuals. All is moving around to more real-time, more video, better sound quality, better screen resolution, easier human-interfaces… RTC technology helps to share together most of our senses thru digital networks at light’s speed:
+RTC is any mode of telecommunications in which all users can exchange information instantly or with negligible latency.</description>
+    </item>
+    
+    <item>
+      <title>What is VoiceXML?</title>
+      <link>http://blog.test.ivrpowers.com/post/technologies/what-is-voicexml/</link>
+      <pubDate>Tue, 30 May 2017 00:20:05 +0200</pubDate>
+      
+      <guid>http://blog.test.ivrpowers.com/post/technologies/what-is-voicexml/</guid>
+      <description>The Voice eXtensible Markup Language (VoiceXML) is an XML-based markup language for creating distributed voice applications, much as HTML is a markup language for creating distributed visual applications. It is an industry standard defined by the World Wide Web Consortium (W3C) at http://www.w3.org/TR/voicexml21/ (for VoiceXML V2.1) and http://www.w3.org/TR/voicexml20/ (for VoiceXML V2.0). The VoiceXML language enables IVR developers to use a familiar markup style and Web server-side logic to deliver applications for use over telephone lines.</description>
+    </item>
+    
+    <item>
+      <title>What is WebRTC?</title>
+      <link>http://blog.test.ivrpowers.com/post/technologies/what-is-webrtc/</link>
+      <pubDate>Tue, 30 May 2017 00:20:05 +0200</pubDate>
+      
+      <guid>http://blog.test.ivrpowers.com/post/technologies/what-is-webrtc/</guid>
+      <description>WebRTC (Web Real-Time Communication) is a collection of communications protocols and application programming interfaces that enable real-time communication over peer-to-peer connections. This allows web browsers to not only request resources from backend servers, but also real-time information from browsers of other users.
+This enables applications such as video conferencing, file transfer, chat, or desktop sharing without the need of either internal or external plugins.
+WebRTC is being standardized by the World Wide Web Consortium (W3C) and the Internet Engineering Task Force (IETF).</description>
     </item>
     
   </channel>

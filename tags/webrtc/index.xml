@@ -13,44 +13,125 @@
     
     <item>
       <title>Know our products: VideoRTC</title>
-      <link>http://blog.test.ivrpowers.com/post/products/videortc/</link>
+      <link>http://blog.test.ivrpowers.com/post/products/video-rtc/</link>
       <pubDate>Fri, 02 Jun 2017 11:22:18 +0200</pubDate>
       
-      <guid>http://blog.test.ivrpowers.com/post/products/videortc/</guid>
+      <guid>http://blog.test.ivrpowers.com/post/products/video-rtc/</guid>
       <description>Video Real Time Communications Platform
 Our Video Gateway connects peers or endpoints between WebRTC, RTMP and SIP technology to create advanced Video services.
 WebRTC (Web Real-Time Communication) is an API definition drafted by the World Wide Web Consortium (W3C) that supports browser-to-browser applications for voice calling, video chat, and messaging without the need of either internal or external plugins. RTMP is an open protocol for Adobe Flash Player compliant browsers.</description>
     </item>
     
     <item>
-      <title>Is video chat a good strategy to my business?</title>
-      <link>http://blog.test.ivrpowers.com/post/technologies/benefits-videochat/</link>
+      <title>VideoRTC Special Extensions</title>
+      <link>http://blog.test.ivrpowers.com/post/products/video-rtc-special-extensions/</link>
+      <pubDate>Fri, 02 Jun 2017 11:22:18 +0200</pubDate>
+      
+      <guid>http://blog.test.ivrpowers.com/post/products/video-rtc-special-extensions/</guid>
+      <description>Video Gateway (WebRTC) includes many features or special extensions that you can activate according to your own business processes. All of this, is part of the capabilities of our Video RTC solution suite.
+Video RTC special extensions are:
+Live Chat. Video Gateway supports Live Chat feature thru a DataChannel. You can customize all the User or Agent front-end in Flash or HTML5 according the gateway mode you have deployed for your service.</description>
+    </item>
+    
+    <item>
+      <title>Is Video Chat a good Strategy for my Business?</title>
+      <link>http://blog.test.ivrpowers.com/post/marketing/video-chat-good-strategy-business/</link>
       <pubDate>Wed, 31 May 2017 13:49:56 +0200</pubDate>
       
-      <guid>http://blog.test.ivrpowers.com/post/technologies/benefits-videochat/</guid>
-      <description>More than ever businesses need to pay attention to customer experience and provide them with quality support. In addition to phone, email and self-service, live video chat is an excellent tool to improve customer satisfaction. Video chat makes available an efficient and immediate support. And it is a cost-saving option to companies that provide personalized services.
-Some benefits of video chat
+      <guid>http://blog.test.ivrpowers.com/post/marketing/video-chat-good-strategy-business/</guid>
+      <description>More than ever businesses need to pay attention to customer experience and provide them with quality support. In addition to phone, email and self-service, live Video Chat is an excellent tool to improve customer satisfaction. Video Chat makes available an efficient and immediate support. And it is a cost-saving option to companies that provide personalized services.
+Some benefits of Video Chat:
 Seeing is believing. Video chat allows to show the product in real time for the customer while talking to an agent or sales rep.</description>
     </item>
     
     <item>
-      <title>The increasing business of marketing technology</title>
-      <link>http://blog.test.ivrpowers.com/post/marketing/increasing-business/</link>
+      <title>The increasing Business of Real-Time Communications (RTC)</title>
+      <link>http://blog.test.ivrpowers.com/post/marketing/increasing-business-rtc/</link>
       <pubDate>Tue, 30 May 2017 13:32:54 +0200</pubDate>
       
-      <guid>http://blog.test.ivrpowers.com/post/marketing/increasing-business/</guid>
-      <description>Demands for real-time communications solutions are growing. In an increasingly connected world, customers access to information through multiple channels and expect personalized and always available services. According to Pew Research Center, 1 in 5 adults in US. report that are always almost on line and, overall, 73% of US citizens go online on a daily basis.
+      <guid>http://blog.test.ivrpowers.com/post/marketing/increasing-business-rtc/</guid>
+      <description>Demands for Real-Time Communications (RTC) solutions are growing. In an increasingly connected world, customers access to information through multiple channels and expect personalized and always available services. According to Pew Research Center, 1 in 5 adults in US. report that are always almost on line and, overall, 73% of US citizens go online on a daily basis.
 Today, buyers, sellers, prospects and partners expect a bidirectional exchange of information. To best position their companies and to meet necessities of digital customers, marketing departments face a range of challenges, including the extensive use of technologies for managing customer relationships.</description>
     </item>
     
     <item>
-      <title>WebRTC. A Trending Technology to improve business results</title>
-      <link>http://blog.test.ivrpowers.com/post/trends/trending-technology/</link>
+      <title>It&#39;s Time to add Video to your Contact Center</title>
+      <link>http://blog.test.ivrpowers.com/post/trends/its-time-to-switchon-video-cctr/</link>
       <pubDate>Tue, 30 May 2017 10:55:18 +0200</pubDate>
       
-      <guid>http://blog.test.ivrpowers.com/post/trends/trending-technology/</guid>
-      <description>Technology is changing our daily tasks. We pay bills, book concert tickets, buy food and even we can control our home from a device. People, especially younger generations, expect technological innovations in their everyday life. It happens so in business and ignoring this reality will lead to loss of potential and therefore of competitiveness.
-Technology solutions have a great impact on customer experiences. And one of the latest trends in the field is [WebRTC].</description>
+      <guid>http://blog.test.ivrpowers.com/post/trends/its-time-to-switchon-video-cctr/</guid>
+      <description>Beyond improving quality of service QoS and call productivity, any Contact Center has to be ready for the next Internet evolution challenges. For any online business or ecommerce website, the most efficient way to contact a sale representative or get human support is a real-time interaction with your agents but without leaving the web session, so you have to add a one-click button located near to the product or service or information they are selecting.</description>
+    </item>
+    
+    <item>
+      <title>WebRTC: A Trending Technology for your Business</title>
+      <link>http://blog.test.ivrpowers.com/post/trends/webrtc-trending-technology-business/</link>
+      <pubDate>Tue, 30 May 2017 10:55:18 +0200</pubDate>
+      
+      <guid>http://blog.test.ivrpowers.com/post/trends/webrtc-trending-technology-business/</guid>
+      <description>Technology is continuously changing our daily tasks. We pay bills, book concert tickets, buy food and even we can control our home from a device. People, especially younger generations, expect technological innovations in their everyday life. It happens so in business and ignoring this reality will lead to loss of potential and therefore of competitiveness.
+Technology solutions have a great impact on Customer Experience. And one of the latest trends in the field is #WebRTC.</description>
+    </item>
+    
+    <item>
+      <title>Follow us on Twitter</title>
+      <link>http://blog.test.ivrpowers.com/post/socials/followus-twitter/</link>
+      <pubDate>Tue, 30 May 2017 00:20:05 +0200</pubDate>
+      
+      <guid>http://blog.test.ivrpowers.com/post/socials/followus-twitter/</guid>
+      <description>Be sure to follow us on Twitter with great brand updates, promotions and news about all things RTC or IVR. Our hand is @ivrpowers and our favorite hashtags right now are #RTC and #IVR. Give us a shout out!
+https://twitter.com/ivrpowers</description>
+    </item>
+    
+    <item>
+      <title>The Benefits of a WebRTC System</title>
+      <link>http://blog.test.ivrpowers.com/post/marketing/webrtc-system-benefits/</link>
+      <pubDate>Tue, 30 May 2017 00:20:05 +0200</pubDate>
+      
+      <guid>http://blog.test.ivrpowers.com/post/marketing/webrtc-system-benefits/</guid>
+      <description>A WebRTC system can bring several benefits to all types of enterprises and users. For different market segments, the benefit would really be overwhelming, as the app would give them the power to open up a wealth of opportunities to serve their clients and customers, in a very innovative way. Using the network, companies can open up real-time and live video chats sessions with customers, and vice-versa, to provide their help and support.</description>
+    </item>
+    
+    <item>
+      <title>Video RTC (WebRTC) v2.1</title>
+      <link>http://blog.test.ivrpowers.com/post/updates/update-video-rtc-webrtc-2.1.0/</link>
+      <pubDate>Tue, 30 May 2017 00:20:05 +0200</pubDate>
+      
+      <guid>http://blog.test.ivrpowers.com/post/updates/update-video-rtc-webrtc-2.1.0/</guid>
+      <description>Release Note
+We are pleased to announce that our new Video RTC (Gateway WebRTC) v2.1.0 has been released for suitable production services. This new version includes a lot of improvements and new features. All users with previous maintained versions can upgrade today. Please contact our support!
+ChangeLog
+## [2.1.0] - 2017-04-17 ### Added - Added Snapshot feature in the Split Agent usecase - VideoGateway notifies to participants when a Split session is finished - Added Autoclose feature in the Split Agent usecase - Added `split_screen_bitrate` in the Split configuration file - Added `videorate` and `screenrate` parameters in the `call_split` request - Added Quality selector in the Webclient usecase - Added sound notification when a message is received in the Split Agent usecase - Added sound notificator handle (Mute/Unmute) in LiveChat mode - Added visual notificacion when a file is sent in the Split Agent usecase - Added icon that identifies the file type sent/received - Added Drop feature for File Sharing (Agent -&amp;gt; Client) - Added Emoji feature in LiveChat (Webclient and Split Agent) - Added FullScreen mode in ScreenSharing (Webclient) - Added SplitAgent configuration feature via Flavour (Autoclose, Emoji.</description>
+    </item>
+    
+    <item>
+      <title>What is IVR?</title>
+      <link>http://blog.test.ivrpowers.com/post/technologies/what-is-ivr/</link>
+      <pubDate>Tue, 30 May 2017 00:20:05 +0200</pubDate>
+      
+      <guid>http://blog.test.ivrpowers.com/post/technologies/what-is-ivr/</guid>
+      <description>Interactive Voice Response (IVR) is a technology that allows a computer to interact with humans through the use of voice and DTMF tones input via keypad. In telecommunications, IVR allows customers to interact with a company’s host system via a telephone keypad or by speech recognition, after which services can be inquired about through the IVR dialogue. IVR systems can respond with prerecorded or dynamically generated audio to further direct users on how to proceed.</description>
+    </item>
+    
+    <item>
+      <title>What is RTC?</title>
+      <link>http://blog.test.ivrpowers.com/post/technologies/what-is-rtc/</link>
+      <pubDate>Tue, 30 May 2017 00:20:05 +0200</pubDate>
+      
+      <guid>http://blog.test.ivrpowers.com/post/technologies/what-is-rtc/</guid>
+      <description>A clear definition of Real-time communications (RTC) is important to understand what will be the newest evolution of Internet applications and services for businesses and individuals. All is moving around to more real-time, more video, better sound quality, better screen resolution, easier human-interfaces… RTC technology helps to share together most of our senses thru digital networks at light’s speed:
+RTC is any mode of telecommunications in which all users can exchange information instantly or with negligible latency.</description>
+    </item>
+    
+    <item>
+      <title>What is WebRTC?</title>
+      <link>http://blog.test.ivrpowers.com/post/technologies/what-is-webrtc/</link>
+      <pubDate>Tue, 30 May 2017 00:20:05 +0200</pubDate>
+      
+      <guid>http://blog.test.ivrpowers.com/post/technologies/what-is-webrtc/</guid>
+      <description>WebRTC (Web Real-Time Communication) is a collection of communications protocols and application programming interfaces that enable real-time communication over peer-to-peer connections. This allows web browsers to not only request resources from backend servers, but also real-time information from browsers of other users.
+This enables applications such as video conferencing, file transfer, chat, or desktop sharing without the need of either internal or external plugins.
+WebRTC is being standardized by the World Wide Web Consortium (W3C) and the Internet Engineering Task Force (IETF).</description>
     </item>
     
   </channel>

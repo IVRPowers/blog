@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Vxml on Blog</title>
+    <link>http://blog.test.ivrpowers.com/tags/vxml/</link>
+    <description>Recent content in Vxml on Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 30 May 2017 00:20:05 +0200</lastBuildDate>
+    
+	<atom:link href="http://blog.test.ivrpowers.com/tags/vxml/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>What is VoiceXML?</title>
+      <link>http://blog.test.ivrpowers.com/post/technologies/what-is-voicexml/</link>
+      <pubDate>Tue, 30 May 2017 00:20:05 +0200</pubDate>
+      
+      <guid>http://blog.test.ivrpowers.com/post/technologies/what-is-voicexml/</guid>
+      <description>The Voice eXtensible Markup Language (VoiceXML) is an XML-based markup language for creating distributed voice applications, much as HTML is a markup language for creating distributed visual applications. It is an industry standard defined by the World Wide Web Consortium (W3C) at http://www.w3.org/TR/voicexml21/ (for VoiceXML V2.1) and http://www.w3.org/TR/voicexml20/ (for VoiceXML V2.0). The VoiceXML language enables IVR developers to use a familiar markup style and Web server-side logic to deliver applications for use over telephone lines.</description>
+    </item>
+    
+  </channel>
+</rss>

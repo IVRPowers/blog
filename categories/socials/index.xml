@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Socials on Blog</title>
+    <link>http://blog.test.ivrpowers.com/categories/socials/</link>
+    <description>Recent content in Socials on Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 30 May 2017 00:20:05 +0200</lastBuildDate>
+    
+	<atom:link href="http://blog.test.ivrpowers.com/categories/socials/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Follow us on Twitter</title>
+      <link>http://blog.test.ivrpowers.com/post/socials/followus-twitter/</link>
+      <pubDate>Tue, 30 May 2017 00:20:05 +0200</pubDate>
+      
+      <guid>http://blog.test.ivrpowers.com/post/socials/followus-twitter/</guid>
+      <description>Be sure to follow us on Twitter with great brand updates, promotions and news about all things RTC or IVR. Our hand is @ivrpowers and our favorite hashtags right now are #RTC and #IVR. Give us a shout out!
+https://twitter.com/ivrpowers</description>
+    </item>
+    
+  </channel>
+</rss>
