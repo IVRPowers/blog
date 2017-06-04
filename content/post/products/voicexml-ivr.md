@@ -6,12 +6,12 @@ draft = false
 tags = ["VoiceXML", "IVR"]
 title = "Know our products: VoiceXML IVR"
 weight = 15
-featured = true
-image = "/postimages/woman-callcenter.jpeg"
+featured = false
+image = "/postimages/posts/ivrpowers-posts-01.090.jpeg"
 
 +++
 
-![VoiceXML IVR logo](/postimages/voiceXML-IVR.png)
+![VoiceXML IVR logo](/postimages/posts/ivrpowers-posts-01.007.jpeg)
 
 [**Interactive Voice Response Platform**](http://www.ivrpowers.com/voicexml/)
 

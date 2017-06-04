@@ -1,20 +1,20 @@
 +++
 categories = ["technologies"]
 date = "2017-05-31T13:49:56+02:00"
-description = "Some benefits of video chat"
+description = "Video Chat Benefits"
 draft = false
 tags = ["video chat","WebRTC", "live video", "business strategy"]
-title = "Is video chat a good strategy to my business?"
+title = "Is Video Chat a good Strategy for my Business?"
 weight = 50
-image = "/postimages/video-chat/woman-videochat.jpg"
+image = "/postimages/posts/ivrpowers-posts-01.078.jpeg"
 
 +++
 
-![woman on videochat](/postimages/video-chat/woman-videochat.jpg)
+![woman on videochat](/postimages/posts/ivrpowers-posts-01.078.jpeg)
 
-More than ever businesses need to pay attention to customer experience and provide them with quality support. In addition to phone, email and self-service, live video chat is an excellent tool to improve customer satisfaction. Video chat makes available an efficient and immediate support. And it is a cost-saving option to companies that provide personalized services.
+More than ever businesses need to pay attention to customer experience and provide them with quality support. In addition to phone, email and self-service, live Video Chat is an excellent tool to improve customer satisfaction. Video Chat makes available an efficient and immediate support. And it is a cost-saving option to companies that provide personalized services.
 
-**Some benefits of video chat**
+Some benefits of Video Chat:
 
 **Seeing is believing.** Video chat allows to show the product in real time for the customer while talking to an agent or sales rep. They can help the customer to choose the right offer. Through video chat you can also make a demonstration of your products, including those that you cannot take along with you in a suitcase. Think on high-value products, such as cars. Live video provides customers the opportunity to chat with a real teller, ask specific questions and view the automobile from his home.
 

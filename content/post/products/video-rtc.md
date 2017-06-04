@@ -6,12 +6,12 @@ draft = false
 tags = ["VideoRTC","WebRTC"]
 title = "Know our products: VideoRTC"
 weight = 20
-featured = true
-image = "/postimages/ivrpowers-webrtc.jpeg"
+featured = false
+image = "/postimages/posts/ivrpowers-posts-01.091.jpeg"
 
 +++
 
-![VideoRTC logo](/postimages/videoRTC-IVR.png)
+![VideoRTC logo](/postimages/posts/ivrpowers-posts-01.009.jpeg)
 
 [**Video Real Time Communications Platform**](http://www.ivrpowers.com/videortc/)
 
