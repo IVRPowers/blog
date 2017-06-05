@@ -6,31 +6,31 @@
     <description>Recent content in Rtmp on Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 30 May 2017 00:20:05 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 07 Jun 2017 00:19:54 +0200</lastBuildDate>
     
 	<atom:link href="http://blog.test.ivrpowers.com/tags/rtmp/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>What is RTMP?</title>
+      <link>http://blog.test.ivrpowers.com/post/technologies/what-is-rtmp/</link>
+      <pubDate>Wed, 07 Jun 2017 00:19:54 +0200</pubDate>
+      
+      <guid>http://blog.test.ivrpowers.com/post/technologies/what-is-rtmp/</guid>
+      <description>Real Time Messaging Protocol or RTMP is mainly serving for high speed transmission of audio, video and data between flash player and a server. Initially developed by Macromedia, the protocol is now owned by Adobe, and specifications about it have only partially been released for public use.
+According to those specifications, the RTMP protocol has multiple variations, i.e. the “plain” RTMP protocol, RTMPS which is RTMP over an TLS/SSL connection, RTMPE which is RTMP encrypted using Adobe’s own security mechanism, and RTMPT which is encapsulated within HTTP requests to traverse firewalls.</description>
+    </item>
+    
+    <item>
       <title>Video RTC (RTMP) v1.2</title>
       <link>http://blog.test.ivrpowers.com/post/updates/update-video-rtc-rtmp-1.2.0/</link>
-      <pubDate>Tue, 30 May 2017 00:20:05 +0200</pubDate>
+      <pubDate>Fri, 02 Jun 2017 00:20:05 +0200</pubDate>
       
       <guid>http://blog.test.ivrpowers.com/post/updates/update-video-rtc-rtmp-1.2.0/</guid>
       <description>Release Note
 We are pleased to announce that our new Video RTC (Gateway RTMP) v1.2.0 has been released for suitable production services. This new version includes a lot of improvements and new features. All users with previous maintained versions can upgrade today. Please contact our support!
 ChangeLog
 ## [1.2.0] - 2017-01-18 ### Added - GET parameters to customize some variables of the client and agent flashphones { Action: parameter=[possible values] (default) ---------------------------------------------- Enable video: video=[true|false] (false) Video quality: quality=[1.</description>
-    </item>
-    
-    <item>
-      <title>What is RTMP?</title>
-      <link>http://blog.test.ivrpowers.com/post/technologies/what-is-rtmp/</link>
-      <pubDate>Tue, 30 May 2017 00:19:54 +0200</pubDate>
-      
-      <guid>http://blog.test.ivrpowers.com/post/technologies/what-is-rtmp/</guid>
-      <description>Real Time Messaging Protocol or RTMP is mainly serving for high speed transmission of audio, video and data between flash player and a server. Initially developed by Macromedia, the protocol is now owned by Adobe, and specifications about it have only partially been released for public use.
-According to those specifications, the RTMP protocol has multiple variations, i.e. the “plain” RTMP protocol, RTMPS which is RTMP over an TLS/SSL connection, RTMPE which is RTMP encrypted using Adobe’s own security mechanism, and RTMPT which is encapsulated within HTTP requests to traverse firewalls.</description>
     </item>
     
   </channel>

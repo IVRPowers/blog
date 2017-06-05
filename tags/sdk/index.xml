@@ -6,7 +6,7 @@
     <description>Recent content in Sdk on Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 30 May 2017 00:30:56 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 02 Jun 2017 00:30:56 +0200</lastBuildDate>
     
 	<atom:link href="http://blog.test.ivrpowers.com/tags/sdk/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,7 +14,7 @@
     <item>
       <title>Introducing VideoRTC.js for Developers</title>
       <link>http://blog.test.ivrpowers.com/post/development/introducing-videortcjs-developers/</link>
-      <pubDate>Tue, 30 May 2017 00:30:56 +0200</pubDate>
+      <pubDate>Fri, 02 Jun 2017 00:30:56 +0200</pubDate>
       
       <guid>http://blog.test.ivrpowers.com/post/development/introducing-videortcjs-developers/</guid>
       <description>Since 2015, IVRPowers has been diligently refining its Video RTC solutions, API Framework and SDKs to make embedded video much more accessible for developers and enterprises who are looking to rapidly integrate reliable video chat into their own applications.
