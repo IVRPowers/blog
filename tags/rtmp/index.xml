@@ -6,10 +6,20 @@
     <description>Recent content in Rtmp on Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 07 Jun 2017 00:19:54 +0200</lastBuildDate>
+    <lastBuildDate>Sun, 11 Jun 2017 11:22:18 +0200</lastBuildDate>
     
 	<atom:link href="http://blog.test.ivrpowers.com/tags/rtmp/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Know our products: VideoRTC</title>
+      <link>http://blog.test.ivrpowers.com/post/products/video-rtc/</link>
+      <pubDate>Sun, 11 Jun 2017 11:22:18 +0200</pubDate>
+      
+      <guid>http://blog.test.ivrpowers.com/post/products/video-rtc/</guid>
+      <description>The Video Real Time Communications Platform Our Video Gateway connects peers or endpoints between WebRTC, RTMP and SIP technology to create advanced Video services. It works in common hardware or Cloud VM servers configurations, providing a highly scalable base system to meet all customers’ business and technical requirements.
+Cloud Ready. Our Video Gateway solutions are software based and ready to run over Cloud environments and Virtual Servers. You can setup our Video RTC platforms over Amazon EC2 servers or any Private/Public Cloud.</description>
+    </item>
     
     <item>
       <title>What is RTMP?</title>
@@ -38,9 +48,8 @@ A Videocall is initiated by a customer endpoint comes into Video Gateway (WebRTC
       <pubDate>Fri, 02 Jun 2017 00:20:05 +0200</pubDate>
       
       <guid>http://blog.test.ivrpowers.com/post/updates/update-video-rtc-rtmp-1.2.0/</guid>
-      <description>Release Note
-We are pleased to announce that our new Video RTC (Gateway RTMP) v1.2.0 has been released for suitable production services. This new version includes a lot of improvements and new features. All users with previous maintained versions can upgrade today. Please contact our support!
-ChangeLog
+      <description>Release Note We are pleased to announce that our new Video RTC (Gateway RTMP) v1.2.0 has been released for suitable production services. This new version includes a lot of improvements and new features. All users with previous maintained versions can upgrade today. Please contact our support!
+ChangeLog Version 1.2.0:
 ## [1.2.0] - 2017-01-18 ### Added - GET parameters to customize some variables of the client and agent flashphones { Action: parameter=[possible values] (default) ---------------------------------------------- Enable video: video=[true|false] (false) Video quality: quality=[1.</description>
     </item>
     

@@ -6,10 +6,20 @@
     <description>Recent content in Rtc on Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 11 Jun 2017 10:55:18 +0200</lastBuildDate>
+    <lastBuildDate>Sun, 11 Jun 2017 11:22:18 +0200</lastBuildDate>
     
 	<atom:link href="http://blog.test.ivrpowers.com/tags/rtc/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Know our products: VideoRTC</title>
+      <link>http://blog.test.ivrpowers.com/post/products/video-rtc/</link>
+      <pubDate>Sun, 11 Jun 2017 11:22:18 +0200</pubDate>
+      
+      <guid>http://blog.test.ivrpowers.com/post/products/video-rtc/</guid>
+      <description>The Video Real Time Communications Platform Our Video Gateway connects peers or endpoints between WebRTC, RTMP and SIP technology to create advanced Video services. It works in common hardware or Cloud VM servers configurations, providing a highly scalable base system to meet all customers’ business and technical requirements.
+Cloud Ready. Our Video Gateway solutions are software based and ready to run over Cloud environments and Virtual Servers. You can setup our Video RTC platforms over Amazon EC2 servers or any Private/Public Cloud.</description>
+    </item>
     
     <item>
       <title>Updating the Inbound Phone Channel</title>
@@ -17,7 +27,7 @@
       <pubDate>Sun, 11 Jun 2017 10:55:18 +0200</pubDate>
       
       <guid>http://blog.test.ivrpowers.com/post/trends/updating-inbound-phone-channel/</guid>
-      <description>Most Call Centersare only managing standard inbound phone calls with the addition of &amp;ldquo;Click-to-call&amp;rdquo; or &amp;ldquo;Call-me-back&amp;rdquo; buttons. It&amp;rsquo;s a very interesting &amp;ldquo;work around&amp;rdquo; option but it&amp;rsquo;s not enough. More and more users don&amp;rsquo;t like to make a phone call when they are browsing the net.
+      <description>Most Call Centers are only managing standard inbound phone calls with the addition of &amp;ldquo;Click-to-call&amp;rdquo; or &amp;ldquo;Call-me-back&amp;rdquo; buttons. It&amp;rsquo;s a very interesting &amp;ldquo;work around&amp;rdquo; option but it&amp;rsquo;s not enough. More and more users don&amp;rsquo;t like to make a phone call when they are browsing the net.
 Users just want to keep on the same channel for many reasons:
  they don&amp;rsquo;t want to unveils their phone number…
  they don&amp;rsquo;t know if one agent will be available now or better later… they don&amp;rsquo;t want to leave their web session context&amp;hellip; they may have bad cellular coverage conditions to make a mobile call&amp;hellip; they may be traveling outside their country under expensive roaming conditions… they may not be able to explain properly their current webpage context…  That&amp;rsquo;s a lot of reasons to make any inbound phone service fail?</description>
@@ -90,9 +100,8 @@ WebRTC is being standardized by the World Wide Web Consortium (W3C) and the Inte
       <pubDate>Sun, 04 Jun 2017 00:20:05 +0200</pubDate>
       
       <guid>http://blog.test.ivrpowers.com/post/updates/update-video-rtc-webrtc-2.1.0/</guid>
-      <description>Release Note
-We are pleased to announce that our new Video RTC (Gateway WebRTC) v2.1.0 has been released for suitable production services. This new version includes a lot of improvements and new features. All users with previous maintained versions can upgrade today. Please contact our support!
-ChangeLog
+      <description>Release Note We are pleased to announce that our new Video RTC (Gateway WebRTC) v2.1.0 has been released for suitable production services. This new version includes a lot of improvements and new features. All users with previous maintained versions can upgrade today. Please contact our support!
+ChangeLog Version 2.1.0:
 ## [2.1.0] - 2017-04-17 ### Added - Added Snapshot feature in the Split Agent usecase - VideoGateway notifies to participants when a Split session is finished - Added Autoclose feature in the Split Agent usecase - Added `split_screen_bitrate` in the Split configuration file - Added `videorate` and `screenrate` parameters in the `call_split` request - Added Quality selector in the Webclient usecase - Added sound notification when a message is received in the Split Agent usecase - Added sound notificator handle (Mute/Unmute) in LiveChat mode - Added visual notificacion when a file is sent in the Split Agent usecase - Added icon that identifies the file type sent/received - Added Drop feature for File Sharing (Agent -&amp;gt; Client) - Added Emoji feature in LiveChat (Webclient and Split Agent) - Added FullScreen mode in ScreenSharing (Webclient) - Added SplitAgent configuration feature via Flavour (Autoclose, Emoji.</description>
     </item>
     
@@ -111,9 +120,8 @@ ChangeLog
       <pubDate>Fri, 02 Jun 2017 00:20:05 +0200</pubDate>
       
       <guid>http://blog.test.ivrpowers.com/post/updates/update-video-rtc-rtmp-1.2.0/</guid>
-      <description>Release Note
-We are pleased to announce that our new Video RTC (Gateway RTMP) v1.2.0 has been released for suitable production services. This new version includes a lot of improvements and new features. All users with previous maintained versions can upgrade today. Please contact our support!
-ChangeLog
+      <description>Release Note We are pleased to announce that our new Video RTC (Gateway RTMP) v1.2.0 has been released for suitable production services. This new version includes a lot of improvements and new features. All users with previous maintained versions can upgrade today. Please contact our support!
+ChangeLog Version 1.2.0:
 ## [1.2.0] - 2017-01-18 ### Added - GET parameters to customize some variables of the client and agent flashphones { Action: parameter=[possible values] (default) ---------------------------------------------- Enable video: video=[true|false] (false) Video quality: quality=[1.</description>
     </item>
     

@@ -58,11 +58,6 @@
   </url>
   
   <url>
-    <loc>http://blog.test.ivrpowers.com/post/technologies/what-is-voicexml/</loc>
-    <lastmod>2017-06-06T00:20:05+02:00</lastmod>
-  </url>
-  
-  <url>
     <loc>http://blog.test.ivrpowers.com/post/products/video-rtc-special-extensions/</loc>
     <lastmod>2017-06-06T11:22:18+02:00</lastmod>
   </url>
@@ -80,6 +75,11 @@
   <url>
     <loc>http://blog.test.ivrpowers.com/post/technologies/what-is-webrtc/</loc>
     <lastmod>2017-06-05T00:20:05+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://blog.test.ivrpowers.com/post/technologies/what-is-voicexml/</loc>
+    <lastmod>2017-06-03T00:20:05+02:00</lastmod>
   </url>
   
   <url>
@@ -226,13 +226,13 @@
   
   <url>
     <loc>http://blog.test.ivrpowers.com/tags/rtc/</loc>
-    <lastmod>2017-06-11T10:55:18+02:00</lastmod>
+    <lastmod>2017-06-11T11:22:18+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://blog.test.ivrpowers.com/tags/rtmp/</loc>
-    <lastmod>2017-06-07T00:19:54+02:00</lastmod>
+    <lastmod>2017-06-11T11:22:18+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -245,6 +245,12 @@
   <url>
     <loc>http://blog.test.ivrpowers.com/categories/socials/</loc>
     <lastmod>2017-06-08T00:20:05+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://blog.test.ivrpowers.com/tags/split/</loc>
+    <lastmod>2017-06-05T00:20:05+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -304,7 +310,7 @@
   
   <url>
     <loc>http://blog.test.ivrpowers.com/tags/vxml/</loc>
-    <lastmod>2017-06-06T00:20:05+02:00</lastmod>
+    <lastmod>2017-06-03T00:20:05+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -316,7 +322,7 @@
   
   <url>
     <loc>http://blog.test.ivrpowers.com/tags/xml/</loc>
-    <lastmod>2017-06-06T00:20:05+02:00</lastmod>
+    <lastmod>2017-06-03T00:20:05+02:00</lastmod>
     <priority>0</priority>
   </url>
   

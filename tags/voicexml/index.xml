@@ -17,19 +17,9 @@
       <pubDate>Fri, 09 Jun 2017 13:25:21 +0200</pubDate>
       
       <guid>http://blog.test.ivrpowers.com/post/products/voicexml-ivr/</guid>
-      <description>Interactive Voice Response Platform
-Our IVR software platform gives operators and solution providers the ability to rapidly develop and deploy innovative voice applications from VoIP to PSTN networks.
+      <description>The Interactive Voice Response Platform Our IVR software platform gives operators and solution providers the ability to rapidly develop and deploy innovative voice applications from VoIP to PSTN networks.
 This powerful IVR solution is fully compliant with the W3C’s VoiceXML 2.1 specification and is integrated with automatic speech recognition (ASR) and text-to-speech (TTS) software to enable advanced interactive services, and real-time calling applications.
 It can be installed in common hardware or Cloud VM servers configurations, providing a highly scalable base system to meet all customers’ business and technical requirements.</description>
-    </item>
-    
-    <item>
-      <title>What is VoiceXML?</title>
-      <link>http://blog.test.ivrpowers.com/post/technologies/what-is-voicexml/</link>
-      <pubDate>Tue, 06 Jun 2017 00:20:05 +0200</pubDate>
-      
-      <guid>http://blog.test.ivrpowers.com/post/technologies/what-is-voicexml/</guid>
-      <description>The Voice eXtensible Markup Language (VoiceXML) is an XML-based markup language for creating distributed voice applications, much as HTML is a markup language for creating distributed visual applications. It is an industry standard defined by the World Wide Web Consortium (W3C) at http://www.w3.org/TR/voicexml21/ (for VoiceXML V2.1) and http://www.w3.org/TR/voicexml20/ (for VoiceXML V2.0). The VoiceXML language enables IVR developers to use a familiar markup style and Web server-side logic to deliver applications for use over telephone lines.</description>
     </item>
     
     <item>
@@ -38,10 +28,18 @@ It can be installed in common hardware or Cloud VM servers configurations, provi
       <pubDate>Mon, 05 Jun 2017 00:20:05 +0200</pubDate>
       
       <guid>http://blog.test.ivrpowers.com/post/updates/update-voicexml-ivr-13.1/</guid>
-      <description>Release Note
-We are pleased to announce that our new VoiceXML IVR 13.1 has been released for suitable production services. This new version includes a lot of improvements and new features. All users with previous maintained versions can upgrade today. Please contact our support!
-ChangeLog
+      <description>Release Note We are pleased to announce that our new VoiceXML IVR 13.1 has been released for suitable production services. This new version includes a lot of improvements and new features. All users with previous maintained versions can upgrade today. Please contact our support!
+ChangeLog Version 13.1:
 ## [1.3] - 2016-06 ### Added - Initialization of the freepbx_security.log during the fail2ban installation if not exists - Added pagination for CDR results - Added Presence extras source files - Added the extras module installation to the installation process - Added the extras module update to the update process ### Changed - Fixed posible exploit in the vxml editor directory browser - Fixed a typo in the web uninstallation steps - Updated Openvxi V12.</description>
+    </item>
+    
+    <item>
+      <title>What is VoiceXML?</title>
+      <link>http://blog.test.ivrpowers.com/post/technologies/what-is-voicexml/</link>
+      <pubDate>Sat, 03 Jun 2017 00:20:05 +0200</pubDate>
+      
+      <guid>http://blog.test.ivrpowers.com/post/technologies/what-is-voicexml/</guid>
+      <description>The Voice eXtensible Markup Language (VoiceXML) is an XML-based markup language for creating distributed voice applications, much as HTML is a markup language for creating distributed visual applications. It is an industry standard defined by the World Wide Web Consortium (W3C) at http://www.w3.org/TR/voicexml21/ (for VoiceXML V2.1) and http://www.w3.org/TR/voicexml20/ (for VoiceXML V2.0). The VoiceXML language enables IVR developers to use a familiar markup style and Web server-side logic to deliver applications for use over telephone lines.</description>
     </item>
     
   </channel>

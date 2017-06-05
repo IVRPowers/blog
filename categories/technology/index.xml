@@ -22,15 +22,6 @@ According to those specifications, the RTMP protocol has multiple variations, i.
     </item>
     
     <item>
-      <title>What is VoiceXML?</title>
-      <link>http://blog.test.ivrpowers.com/post/technologies/what-is-voicexml/</link>
-      <pubDate>Tue, 06 Jun 2017 00:20:05 +0200</pubDate>
-      
-      <guid>http://blog.test.ivrpowers.com/post/technologies/what-is-voicexml/</guid>
-      <description>The Voice eXtensible Markup Language (VoiceXML) is an XML-based markup language for creating distributed voice applications, much as HTML is a markup language for creating distributed visual applications. It is an industry standard defined by the World Wide Web Consortium (W3C) at http://www.w3.org/TR/voicexml21/ (for VoiceXML V2.1) and http://www.w3.org/TR/voicexml20/ (for VoiceXML V2.0). The VoiceXML language enables IVR developers to use a familiar markup style and Web server-side logic to deliver applications for use over telephone lines.</description>
-    </item>
-    
-    <item>
       <title>What is SPLIT?</title>
       <link>http://blog.test.ivrpowers.com/post/technologies/what-is-split/</link>
       <pubDate>Mon, 05 Jun 2017 00:20:05 +0200</pubDate>
@@ -50,6 +41,15 @@ A Videocall is initiated by a customer endpoint comes into Video Gateway (WebRTC
       <description>WebRTC (Web Real-Time Communication) is a collection of communications protocols and application programming interfaces that enable real-time communication over peer-to-peer connections. This allows web browsers to not only request resources from backend servers, but also real-time information from browsers of other users.
 This enables applications such as video conferencing, file transfer, chat, or desktop sharing without the need of either internal or external plugins.
 WebRTC is being standardized by the World Wide Web Consortium (W3C) and the Internet Engineering Task Force (IETF).</description>
+    </item>
+    
+    <item>
+      <title>What is VoiceXML?</title>
+      <link>http://blog.test.ivrpowers.com/post/technologies/what-is-voicexml/</link>
+      <pubDate>Sat, 03 Jun 2017 00:20:05 +0200</pubDate>
+      
+      <guid>http://blog.test.ivrpowers.com/post/technologies/what-is-voicexml/</guid>
+      <description>The Voice eXtensible Markup Language (VoiceXML) is an XML-based markup language for creating distributed voice applications, much as HTML is a markup language for creating distributed visual applications. It is an industry standard defined by the World Wide Web Consortium (W3C) at http://www.w3.org/TR/voicexml21/ (for VoiceXML V2.1) and http://www.w3.org/TR/voicexml20/ (for VoiceXML V2.0). The VoiceXML language enables IVR developers to use a familiar markup style and Web server-side logic to deliver applications for use over telephone lines.</description>
     </item>
     
     <item>
