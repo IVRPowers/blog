@@ -1,7 +1,7 @@
 +++
 categories = ["trends"]
 date = "2017-06-11T10:55:18+02:00"
-description = "Trends"
+description = "Business Trends"
 draft = false
 tags = ["cctr","businessstrategy", "rtc"]
 title = "Updating the Inbound Phone Channel"
@@ -12,7 +12,7 @@ image = "/postimages/posts/trends/ivrpowers-posts-01.076.jpeg"
 
 ![Man holding a phone](/postimages/posts/trends/ivrpowers-posts-01.076.jpeg)
 
-Most Call Centersare only managing standard inbound phone calls with the addition of "Click-to-call" or "Call-me-back" buttons. It's a very interesting "work around" option but it's not enough. More and more users don't like to make a phone call when they are browsing the net. 
+Most Call Centers are only managing standard inbound phone calls with the addition of "Click-to-call" or "Call-me-back" buttons. It's a very interesting "work around" option but it's not enough. More and more users don't like to make a phone call when they are browsing the net. 
 
 Users just want to keep on the same channel for many reasons:
 

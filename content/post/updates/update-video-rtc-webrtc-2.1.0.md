@@ -10,12 +10,13 @@ weight = 86
 featured = true
 +++
 
-**Release Note**
+# Release Note
 
 We are pleased to announce that our new **Video RTC (Gateway WebRTC) v2.1.0** has been released for suitable production services. This new version includes a lot of improvements and new features. All users with previous maintained versions can upgrade today. Please contact our support!
 
-**ChangeLog**
+# ChangeLog
 
+Version 2.1.0:
 ```bash
 ## [2.1.0] - 2017-04-17
 ### Added

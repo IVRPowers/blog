@@ -10,11 +10,13 @@ weight = 76
 featured = true
 +++
 
-**Release Note**
+# Release Note
 
 We are pleased to announce that our new **VoiceXML IVR 13.1** has been released for suitable production services. This new version includes a lot of improvements and new features. All users with previous maintained versions can upgrade today. Please contact our support!
 
-**ChangeLog**
+# ChangeLog
+
+Version 13.1:
 
 ```bash
 ## [1.3] - 2016-06

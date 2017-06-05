@@ -10,11 +10,13 @@ weight = 96
 featured = true
 +++
 
-**Release Note**
+# Release Note
 
 We are pleased to announce that our new **Video RTC (Gateway RTMP) v1.2.0** has been released for suitable production services. This new version includes a lot of improvements and new features. All users with previous maintained versions can upgrade today. Please contact our support!
 
-**ChangeLog**
+# ChangeLog
+
+Version 1.2.0:
 
 ```bash
 ## [1.2.0] - 2017-01-18

@@ -3,7 +3,7 @@ categories = ["products"]
 date = "2017-06-11T11:22:18+02:00"
 description = "Video Real-Time Communications"
 draft = false
-tags = ["VideoRTC","WebRTC"]
+tags = ["videortc","rtc","webrtc","rtmp"]
 title = "Know our products: VideoRTC"
 weight = 50
 featured = false
@@ -13,21 +13,22 @@ image = "/postimages/posts/products/ivrpowers-posts-01.091.jpeg"
 
 ![VideoRTC logo](/postimages/posts/products/ivrpowers-posts-01.009.jpeg)
 
-[**Video Real Time Communications Platform**](http://www.ivrpowers.com/videortc/)
+# The Video Real Time Communications Platform
 
-Our Video Gateway connects peers or endpoints between WebRTC, RTMP and SIP technology to create advanced Video services.
+Our **Video Gateway** connects peers or endpoints between WebRTC, RTMP and SIP technology to create advanced Video services. It works in common hardware or Cloud VM servers configurations, providing a highly scalable base system to meet all customers’ business and technical requirements.
 
-WebRTC (Web Real-Time Communication) is an API definition drafted by the World Wide Web Consortium (W3C) that supports browser-to-browser applications for voice calling, video chat, and messaging without the need of either internal or external plugins. RTMP is an open protocol for Adobe Flash Player compliant browsers.
+## Cloud Ready. 
+Our Video Gateway solutions are software based and ready to run over Cloud environments and Virtual Servers. You can setup our Video RTC platforms over Amazon EC2 servers or any Private/Public Cloud.
 
-Video Gateway works in common hardware or Cloud VM servers configurations, providing a highly scalable base system to meet all customers’ business and technical requirements.
+## Contact Centers.
+Our Video Gateway is specifically designed to connect efficiently existing Call Centers with our advanced SPLIT module running over SIP and adding live Video RTC to your business calls interactions.
 
-  **Cloud Ready.** Our Video Gateway solutions are software based and ready to run over Cloud environments and Virtual Servers. You can setup our Video RTC platforms over Amazon EC2 servers or any Private/Public Cloud.
+## Web Browsers.
+ur Video Gateway runs over all existing Web Browsers with native WebRTC inside functions and javascript. To connect others Web Browsers, we can add a special plugin and/or a Flash Player for RTMP.
 
-  **Contact Centers.** Our Video Gateway is specifically designed to connect efficiently existing Call Centers with our advanced SPLIT module running over SIP and adding live Video RTC to your business calls interactions.
+## Android & iOS.
+Our Video Gateway connects endpoints based in a native/hybrid Android or iOS app that you can create and customize according to your own requirements. Our SDK works with standard mobile development tools.
 
-  **Web Browsers.** Our Video Gateway runs over all existing Web Browsers with native WebRTC inside functions and javascript. To connect others Web Browsers, we can add a special plugin and/or a Flash Player for RTMP.
-
-  **Android & iOS.** Our Video Gateway connects endpoints based in a native/hybrid Android or iOS app that you can create and customize according to your own requirements. Our SDK works with standard mobile development tools.
-
-Fin more information at: [www.ivrpowers.com ](www.ivrpowers.com)
+---
+Fin more information at: [www.ivrpowers.com ](http://www.ivrpowers.com/)
 
