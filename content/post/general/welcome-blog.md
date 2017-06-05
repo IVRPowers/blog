@@ -5,13 +5,13 @@ description = "The Hugo Blog start up"
 draft = false
 tags = ["IVRPowers"]
 title = "Welcome to our New Blog!"
-image = "/postimages/general/foto-bienvenida.jpeg"
+image = "/postimages/posts/general/ivrpowers-posts-01.079.jpeg"
 weight = 1
 featured = true
 
 +++
 
-![Welcome to our New Blog!](/postimages/general/foto-bienvenida.jpeg)
+![Welcome to our New Blog!](/postimages/posts/general/ivrpowers-posts-01.079.jpeg)
 
 **Welcome to the IVRPowers new blog!** 
 

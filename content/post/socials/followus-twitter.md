@@ -5,11 +5,11 @@ description = "Social Networks"
 draft = false
 tags = ["webrtc","rtc"]
 title = "Follow us on Twitter"
-image = "/postimages/posts/ivrpowers-posts-01.067.jpeg"
+image = "/postimages/posts/socials/ivrpowers-posts-01.067.jpeg"
 weight = 103
 +++
 
-![IVRPowers Twitter](/postimages/socials/ivrpowers-twitter.jpg)
+![IVRPowers Twitter](/postimages/posts/socials/ivrpowers-twitter.jpg)
 
 Be sure to [follow us on Twitter](https://twitter.com/ivrpowers) with great brand updates, promotions and news about all things RTC or IVR. Our hand is **@ivrpowers** and our favorite hashtags right now are **#RTC** and **#IVR**.  Give us a shout out!
 

@@ -6,11 +6,11 @@ draft = false
 tags = ["telehealth","healthcare", "rtc"]
 title = "4 Key factors to select a Telehealth Solution"
 weight = 75
-image = "/postimages/posts/ivrpowers-posts-01.080.jpeg"
+image = "/postimages/posts/healthcare/ivrpowers-posts-01.080.jpeg"
 
 +++
 
-![Healthcare](/postimages/posts/ivrpowers-posts-01.080.jpeg)
+![Healthcare](/postimages/posts/healthcare/ivrpowers-posts-01.080.jpeg)
 
 Implementing telehealth can help physicians reach people in remote or rural areas who may not be able to travel to a particular facility or specialist as well as those in more densely populated urban areas who find inner-city mass transit insufficient for their needs. As a result, more organizations are turning to telehealth as a viable alternative to routine in-office physician visits.
 

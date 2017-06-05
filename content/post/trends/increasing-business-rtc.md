@@ -6,11 +6,11 @@ draft = false
 tags = ["marketing","WebRTC", "businessstrategy"]
 title = "The increasing Business of Real-Time Communications (RTC)"
 weight = 60
-image = "/postimages/posts/ivrpowers-posts-01.077.jpeg"
+image = "/postimages/posts/trends/ivrpowers-posts-01.077.jpeg"
 
 +++
 
-![Man reading graphics](/postimages/posts/ivrpowers-posts-01.077.jpeg)
+![Man reading graphics](/postimages/posts/trends/ivrpowers-posts-01.077.jpeg)
 
 Demands for **Real-Time Communications (RTC)** solutions are growing. In an increasingly connected world, customers access to information through multiple channels and expect personalized and always available services. According to [Pew Research Center](http://www.pewresearch.org/fact-tank/2015/12/08/one-fifth-of-americans-report-going-online-almost-constantly/), 1 in 5 adults in US. report that are always almost on line and, overall, 73% of US citizens go online on a daily basis. 
 

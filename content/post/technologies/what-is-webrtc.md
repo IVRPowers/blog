@@ -5,11 +5,11 @@ description = "Technology Word Definition"
 draft = false
 tags = ["webrtc","rtc"]
 title = "What is WebRTC?"
-image = "/postimages/posts/ivrpowers-posts-01.069.jpeg"
+image = "/postimages/posts/technologies/ivrpowers-posts-01.069.jpeg"
 weight = 103
 +++
 
-![Lorem Ipsum](/postimages/posts/ivrpowers-posts-01.069.jpeg)
+![Lorem Ipsum](/postimages/posts/technologies/ivrpowers-posts-01.069.jpeg)
 
 **WebRTC (Web Real-Time Communication)** is a collection of communications protocols and application programming interfaces that enable real-time communication over peer-to-peer connections. This allows web browsers to not only request resources from backend servers, but also real-time information from browsers of other users.
 

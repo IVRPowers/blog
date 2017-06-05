@@ -5,11 +5,11 @@ description = "Solution"
 draft = false
 tags = ["webrtc","rtc"]
 title = "The Benefits of a WebRTC System"
-image = "/postimages/posts/ivrpowers-posts-01.083.jpeg"
+image = "/postimages/posts/marketing/ivrpowers-posts-01.083.jpeg"
 weight = 103
 +++
 
-![WebRTC Laptop](/postimages/posts/ivrpowers-posts-01.083.jpeg)
+![WebRTC Laptop](/postimages/posts/marketing/ivrpowers-posts-01.083.jpeg)
 
 A WebRTC system can bring several benefits to all types of enterprises and users. For different market segments, the benefit would really be overwhelming, as the app would give them the power to open up a wealth of opportunities to serve their clients and customers, in a very innovative way. Using the network, companies can open up real-time and live video chats sessions with customers, and vice-versa, to provide their help and support. Here are some of the benefits that Web Real Time Communications can provide to all businesses and its users:
 

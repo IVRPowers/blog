@@ -5,11 +5,11 @@ description = "API Framework"
 draft = false
 tags = ["api","sdk"]
 title = "Introducing VideoRTC.js for Developers"
-image = "/postimages/posts/ivrpowers-posts-01.038.jpeg"
+image = "/postimages/posts/development/ivrpowers-posts-01.038.jpeg"
 
 +++
 
-![VideoRTC.js](/postimages/posts/ivrpowers-posts-01.039.jpeg)
+![VideoRTC.js](/postimages/posts/development/ivrpowers-posts-01.039.jpeg)
 
 Since 2015, IVRPowers has been diligently refining its Video RTC solutions, API Framework and SDKs to make embedded video much more accessible for developers and enterprises who are looking to rapidly integrate reliable video chat into their own applications.
 

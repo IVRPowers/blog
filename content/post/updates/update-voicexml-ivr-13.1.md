@@ -5,7 +5,7 @@ description = "Release Note"
 draft = false
 tags = ["voicexml","ivr"]
 title = "VoiceXML IVR v13.1"
-image = "/postimages/posts/ivrpowers-posts-01.084.jpeg"
+image = "/postimages/posts/updates/ivrpowers-posts-01.084.jpeg"
 weight = 103
 +++
 

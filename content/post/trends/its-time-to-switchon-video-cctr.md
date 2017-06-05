@@ -6,11 +6,11 @@ draft = false
 tags = ["WebRTC","business strategy", "marketing"]
 title = "It's Time to add Video to your Contact Center"
 weight = 75
-image = "/postimages/posts/ivrpowers-posts-01.033.jpeg"
+image = "/postimages/posts/trends/ivrpowers-posts-01.033.jpeg"
 
 +++
 
-![Man holding a phone](/postimages/posts/ivrpowers-posts-01.032.jpeg)
+![Man holding a phone](/postimages/posts/trends/ivrpowers-posts-01.032.jpeg)
 
 Beyond improving quality of service QoS and call productivity, any Contact Center has to be ready for the next Internet evolution challenges. For any online business or ecommerce website, the most efficient way to contact a sale representative or get human support is a real-time interaction with your agents but without leaving the web session, so you have to add a one-click button located near to the product or service or information they are selecting. The agent must receive a session ID from this caller to get the context.
 

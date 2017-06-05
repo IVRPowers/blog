@@ -6,11 +6,11 @@ draft = false
 tags = ["video chat","WebRTC", "live video", "business strategy"]
 title = "Is Video Chat a good Strategy for my Business?"
 weight = 50
-image = "/postimages/posts/ivrpowers-posts-01.078.jpeg"
+image = "/postimages/posts/marketing/ivrpowers-posts-01.078.jpeg"
 
 +++
 
-![woman on videochat](/postimages/posts/ivrpowers-posts-01.078.jpeg)
+![woman on videochat](/postimages/posts/marketing/ivrpowers-posts-01.078.jpeg)
 
 More than ever businesses need to pay attention to customer experience and provide them with quality support. In addition to phone, email and self-service, live Video Chat is an excellent tool to improve customer satisfaction. Video Chat makes available an efficient and immediate support. And it is a cost-saving option to companies that provide personalized services.
 

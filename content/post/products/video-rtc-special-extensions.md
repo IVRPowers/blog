@@ -7,11 +7,11 @@ tags = ["VideoRTC","WebRTC"]
 title = "VideoRTC Special Extensions"
 weight = 20
 featured = false
-image = "/postimages/posts/ivrpowers-posts-01.034.jpeg"
+image = "/postimages/posts/products/ivrpowers-posts-01.034.jpeg"
 
 +++
 
-![VideoRTC picture](/postimages/posts/ivrpowers-posts-01.034.jpeg)
+![VideoRTC picture](/postimages/posts/products/ivrpowers-posts-01.034.jpeg)
 
 **Video Gateway (WebRTC)** includes many features or special extensions that you can activate according to your own business processes. All of this, is part of the capabilities of our Video RTC solution suite.
 

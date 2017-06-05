@@ -5,10 +5,10 @@ description = "Technology Word Definition"
 draft = false
 tags = ["rtmp","rtc"]
 title = "What is RTMP?"
-image = "/postimages/what-is-rtmp.jpeg"
+image = "/postimages/posts/technologies/ivrpowers-posts-01.070.jpeg"
 +++
 
-![Lorem Ipsum](/postimages/what-is-rtmp.jpeg)
+![Lorem Ipsum](/postimages/posts/technologies/ivrpowers-posts-01.070.jpeg)
 
 **Real Time Messaging Protocol** or **RTMP** is mainly serving for high speed transmission of audio, video and data between flash player and a server. Initially developed by Macromedia, the protocol is now owned by Adobe, and specifications about it have only partially been released for public use.
 
