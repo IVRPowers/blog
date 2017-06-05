@@ -1,11 +1,11 @@
 +++
 categories = ["marketing", "trends"]
-date = "2017-05-30T13:32:54+02:00"
+date = "2017-06-10T13:32:54+02:00"
 description = "Marketing Trends"
 draft = false
 tags = ["marketing","WebRTC", "businessstrategy"]
 title = "The increasing Business of Real-Time Communications (RTC)"
-weight = 60
+weight = 55
 image = "/postimages/posts/trends/ivrpowers-posts-01.077.jpeg"
 
 +++

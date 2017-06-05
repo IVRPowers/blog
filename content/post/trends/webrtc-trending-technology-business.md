@@ -1,11 +1,11 @@
 +++
 categories = ["technologies"]
-date = "2017-05-30T10:55:18+02:00"
+date = "2017-06-07T10:55:18+02:00"
 description = "Trends"
 draft = false
 tags = ["WebRTC","business strategy", "marketing"]
 title = "WebRTC: A Trending Technology for your Business"
-weight = 75
+weight = 70
 image = "/postimages/posts/trends/ivrpowers-posts-01.089.jpeg"
 
 +++

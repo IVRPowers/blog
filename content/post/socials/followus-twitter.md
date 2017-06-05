@@ -1,12 +1,13 @@
 +++
 categories = ["Socials"]
-date = "2017-05-30T00:20:05+02:00"
+date = "2017-06-08T00:20:05+02:00"
 description = "Social Networks"
 draft = false
 tags = ["webrtc","rtc"]
 title = "Follow us on Twitter"
 image = "/postimages/posts/socials/ivrpowers-posts-01.067.jpeg"
-weight = 103
+weight = 65
+featured = true
 +++
 
 ![IVRPowers Twitter](/postimages/posts/socials/ivrpowers-twitter.jpg)

@@ -1,6 +1,6 @@
 +++
 categories = ["general","marketing"]
-date = "2017-05-23T20:40:07+02:00"
+date = "2017-06-01T20:40:07+02:00"
 description = "Our High Tech Startup"
 draft = false
 tags = ["marketing","IVRPowers", "startup"]

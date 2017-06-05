@@ -1,11 +1,11 @@
 +++
 categories = ["healthcare","industries"]
-date = "2017-05-30T10:55:18+02:00"
+date = "2017-06-10T10:55:18+02:00"
 description = "Healthcare Industry"
 draft = false
 tags = ["telehealth","healthcare", "rtc"]
 title = "4 Key factors to select a Telehealth Solution"
-weight = 75
+weight = 56
 image = "/postimages/posts/healthcare/ivrpowers-posts-01.080.jpeg"
 
 +++

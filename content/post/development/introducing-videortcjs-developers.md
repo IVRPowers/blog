@@ -1,11 +1,12 @@
 +++
 categories = ["Development"]
-date = "2017-05-30T00:30:56+02:00"
+date = "2017-06-02T00:30:56+02:00"
 description = "API Framework"
 draft = false
 tags = ["api","sdk"]
 title = "Introducing VideoRTC.js for Developers"
 image = "/postimages/posts/development/ivrpowers-posts-01.038.jpeg"
+weight = 91
 
 +++
 

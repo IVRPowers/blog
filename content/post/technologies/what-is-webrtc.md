@@ -1,12 +1,12 @@
 +++
 categories = ["Technology"]
-date = "2017-05-30T00:20:05+02:00"
+date = "2017-06-05T00:20:05+02:00"
 description = "Technology Word Definition"
 draft = false
 tags = ["webrtc","rtc"]
 title = "What is WebRTC?"
 image = "/postimages/posts/technologies/ivrpowers-posts-01.069.jpeg"
-weight = 103
+weight = 80
 +++
 
 ![Lorem Ipsum](/postimages/posts/technologies/ivrpowers-posts-01.069.jpeg)

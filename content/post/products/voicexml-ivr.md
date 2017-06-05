@@ -1,11 +1,11 @@
 +++
 categories = ["products"]
-date = "2017-06-01T13:25:21+02:00"
+date = "2017-06-09T13:25:21+02:00"
 description = "Refining IVR with Software"
 draft = false
 tags = ["VoiceXML", "IVR"]
 title = "Know our products: VoiceXML IVR"
-weight = 15
+weight = 60
 featured = false
 image = "/postimages/posts/products/ivrpowers-posts-01.090.jpeg"
 

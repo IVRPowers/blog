@@ -1,12 +1,11 @@
 +++
 categories = ["products"]
-date = "2017-06-02T11:22:18+02:00"
+date = "2017-06-06T11:22:18+02:00"
 description = "Video Real-Time Communications"
 draft = false
 tags = ["VideoRTC","WebRTC"]
 title = "VideoRTC Special Extensions"
-weight = 20
-featured = false
+weight = 75
 image = "/postimages/posts/products/ivrpowers-posts-01.034.jpeg"
 
 +++
