@@ -1,7 +1,7 @@
 +++
 categories = ["trends"]
 date = "2017-06-11T10:55:18+02:00"
-description = "Business Trends"
+description = "Customer Engagement"
 draft = false
 tags = ["cctr","businessstrategy", "rtc"]
 title = "Updating the Inbound Phone Channel"

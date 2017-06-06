@@ -16,5 +16,3 @@ weight = 90
 IVR systems can be used for mobile purchases, banking payments and services, retail orders, utilities, travel information and weather conditions. A common misconception refers to an automated attendant as an IVR. The terms are distinct and mean different things to traditional telecommunications professionals—the purpose of an IVR is to take input, process it, and return a result, whereas the job of an automated attendant is to route calls.
 
 The term voice response unit (VRU) is sometimes used as well.
-
-Source: https://en.wikipedia.org/wiki/Interactive_voice_response

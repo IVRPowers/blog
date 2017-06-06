@@ -4,7 +4,7 @@ date = "2017-06-05T00:20:05+02:00"
 description = "Release Note"
 draft = false
 tags = ["voicexml","ivr", "ivrpowers"]
-title = "VoiceXML IVR v13.1"
+title = "VoiceXML IVR v1.3"
 image = "/postimages/posts/updates/ivrpowers-posts-01.084.jpeg"
 weight = 76
 featured = true
@@ -12,11 +12,11 @@ featured = true
 
 # Release Note
 
-We are pleased to announce that our new **VoiceXML IVR 13.1** has been released for suitable production services. This new version includes a lot of improvements and new features. All users with previous maintained versions can upgrade today. Please contact our support!
+We are pleased to announce that our new **VoiceXML IVR 1.3** has been released for suitable production services. This new version includes a lot of improvements and new features. All users with previous maintained versions can upgrade today. Please contact our support!
 
 # ChangeLog
 
-Version 13.1:
+Version 1.3:
 
 ```bash
 ## [1.3] - 2016-06
