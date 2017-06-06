@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Live Video Chat on Blog</title>
+    <link>http://blog.test.ivrpowers.com/tags/live-video-chat/</link>
+    <description>Recent content in Live Video Chat on Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 12 Jun 2017 10:51:29 +0200</lastBuildDate>
+    
+	<atom:link href="http://blog.test.ivrpowers.com/tags/live-video-chat/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>3 key benefits of live video chat</title>
+      <link>http://blog.test.ivrpowers.com/post/marketing/key_benefits_videochat/</link>
+      <pubDate>Mon, 12 Jun 2017 10:51:29 +0200</pubDate>
+      
+      <guid>http://blog.test.ivrpowers.com/post/marketing/key_benefits_videochat/</guid>
+      <description>Bots can solve a proportion of customers’ needs. However, even if a bot has been trained to understand complicated statements and is able to answer in an intelligent and sophisticated manner, there are cases when customers need to speak with a live agent. Bots should not alienate nor irritate your customers. This is the point when WebRTC technology plays its role.
+A large number of different businesses could benefit from offering live video chat services.</description>
+    </item>
+    
+  </channel>
+</rss>

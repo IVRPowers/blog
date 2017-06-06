@@ -53,6 +53,11 @@
   </url>
   
   <url>
+    <loc>http://blog.test.ivrpowers.com/post/marketing/key_benefits_videochat/</loc>
+    <lastmod>2017-06-12T10:51:29+02:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://blog.test.ivrpowers.com/post/trends/webrtc-trending-technology-business/</loc>
     <lastmod>2017-06-07T10:55:18+02:00</lastmod>
   </url>
@@ -165,13 +170,13 @@
   </url>
   
   <url>
-    <loc>http://blog.test.ivrpowers.com/tags/healthcare/</loc>
+    <loc>http://blog.test.ivrpowers.com/categories/healthcare/</loc>
     <lastmod>2017-06-10T10:55:18+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://blog.test.ivrpowers.com/categories/healthcare/</loc>
+    <loc>http://blog.test.ivrpowers.com/tags/healthcare/</loc>
     <lastmod>2017-06-10T10:55:18+02:00</lastmod>
     <priority>0</priority>
   </url>
@@ -201,13 +206,19 @@
   </url>
   
   <url>
-    <loc>http://blog.test.ivrpowers.com/tags/marketing/</loc>
-    <lastmod>2017-06-01T20:40:07+02:00</lastmod>
+    <loc>http://blog.test.ivrpowers.com/tags/live-video-chat/</loc>
+    <lastmod>2017-06-12T10:51:29+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://blog.test.ivrpowers.com/categories/marketing/</loc>
+    <lastmod>2017-06-01T20:40:07+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://blog.test.ivrpowers.com/tags/marketing/</loc>
     <lastmod>2017-06-01T20:40:07+02:00</lastmod>
     <priority>0</priority>
   </url>
