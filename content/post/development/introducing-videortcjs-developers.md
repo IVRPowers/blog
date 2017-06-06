@@ -3,7 +3,7 @@ categories = ["Development"]
 date = "2017-06-02T00:30:56+02:00"
 description = "API Framework"
 draft = false
-tags = ["api","sdk"]
+tags = ["api","sdk", "rtc"]
 title = "Introducing VideoRTC.js for Developers"
 image = "/postimages/posts/development/ivrpowers-posts-01.038.jpeg"
 weight = 91
@@ -18,7 +18,7 @@ Today, we’re thrilled to officially announce a new **VideoRTC.js** library –
 
 Whether you are developing for smartphones, or the latest connected hardware such as smart glasses or drones, we believe that enterprise-grade embedded video should be simple. IVRPowers provides SDKs for iOS, Android and web browsers (WebRTC and plugin), with a consistent **API Framework** that speeds time to market and lowers costs.
 
-VideoRTC.js is available now – it’s fast and easy to get started – new users receive free support, and there is no credit card required for initial sign-up, creating a no-risk development environment. Be sure to join our Showroom, follow @ivrpowers on Twitter, and keep checking back to the blog for more product updates.
+VideoRTC.js is available now – it’s fast and easy to get started – new users receive free support, and there is no credit card required for initial sign-up, creating a no-risk development environment. Be sure to join our Showroom, follow [@ivrpowers](https://twitter.com/ivrpowers) on Twitter, and keep checking back to the blog for more product updates.
 
 More information at: http://videortcjs.doc.ivrpowers.com  
 

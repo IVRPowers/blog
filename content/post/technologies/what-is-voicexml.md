@@ -1,9 +1,9 @@
 +++
-categories = ["Technology"]
+categories = ["technologies"]
 date = "2017-06-03T00:20:05+02:00"
 description = "Technology Word Definition"
 draft = false
-tags = ["voicexml","ivr","xml","vxml"]
+tags = ["voicexml","ivr"]
 title = "What is VoiceXML?"
 image = "/postimages/posts/technologies/ivrpowers-posts-01.071.jpeg"
 weight = 80

@@ -1,9 +1,9 @@
 +++
-categories = ["Products"]
+categories = ["updates"]
 date = "2017-06-02T00:20:05+02:00"
 description = "Release Note"
 draft = false
-tags = ["rtmp","rtc"]
+tags = ["rtmp","rtc", "ivrpowers"]
 title = "Video RTC (RTMP) v1.2"
 image = "/postimages/posts/updates/ivrpowers-posts-01.087.jpeg"
 weight = 96

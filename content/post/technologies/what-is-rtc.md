@@ -1,5 +1,5 @@
 +++
-categories = ["Technology"]
+categories = ["echnologies"]
 date = "2017-06-02T00:20:05+02:00"
 description = "Technology Word Definition"
 draft = false

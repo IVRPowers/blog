@@ -1,9 +1,9 @@
 +++
-categories = ["technologies"]
+categories = ["trends"]
 date = "2017-06-04T10:55:18+02:00"
 description = "Trends"
 draft = false
-tags = ["WebRTC","business strategy", "marketing"]
+tags = ["webrtc","businessstrategy", "marketing"]
 title = "It's Time to add Video to your Contact Center"
 weight = 81
 image = "/postimages/posts/trends/ivrpowers-posts-01.033.jpeg"

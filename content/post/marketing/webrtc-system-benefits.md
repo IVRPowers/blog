@@ -1,5 +1,5 @@
 +++
-categories = ["Technology"]
+categories = ["marketing"]
 date = "2017-06-04T00:20:05+02:00"
 description = "Solution"
 draft = false
