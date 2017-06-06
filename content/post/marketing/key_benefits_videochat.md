@@ -6,11 +6,11 @@ draft = false
 tags = ["live video chat","webrtc"]
 title = "3 key benefits of live video chat"
 weight = 67
-image = "/postimages/posts/marketing/ivrpowers-posts-01.035.jpeg"
+image = "/postimages/posts/marketing/ivrpowers-posts-01.074.jpeg"
 
 +++
 
-![Live video chat](/postimages/posts/marketing/ivrpowers-posts-01.035.jpeg)
+![Live video chat](/postimages/posts/marketing/ivrpowers-posts-01.074.jpeg)
 
 Bots can solve a proportion of customers’ needs. However, even if a bot has been trained to understand complicated statements and is able to answer in an intelligent and sophisticated manner, there are cases when customers need to speak with a live agent. Bots should not alienate nor irritate your customers. This is the point when WebRTC technology plays its role.
 
