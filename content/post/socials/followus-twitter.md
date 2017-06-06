@@ -1,9 +1,9 @@
 +++
-categories = ["Socials"]
+categories = ["socials"]
 date = "2017-06-08T00:20:05+02:00"
 description = "Social Networks"
 draft = false
-tags = ["webrtc","rtc"]
+tags = ["webrtc","rtc", "ivrpowers"]
 title = "Follow us on Twitter"
 image = "/postimages/posts/socials/ivrpowers-posts-01.067.jpeg"
 weight = 65

@@ -3,8 +3,8 @@ categories = ["marketing"]
 date = "2017-06-12T10:51:29+02:00"
 description = "Why live video chat?"
 draft = false
-tags = ["live video chat","webrtc"]
-title = "3 key benefits of live video chat"
+tags = ["livechat","videochat", "businessstrategy"]
+title = "3 Key Benefits of Live Video Chat"
 weight = 67
 image = "/postimages/posts/marketing/ivrpowers-posts-01.074.jpeg"
 

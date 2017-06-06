@@ -1,9 +1,9 @@
 +++
-categories = ["technologies"]
+categories = ["marketing"]
 date = "2017-06-09T13:49:56+02:00"
 description = "Video Chat Benefits"
 draft = false
-tags = ["video chat","WebRTC", "live video", "business strategy"]
+tags = ["videochat","livechat", "businessstrategy"]
 title = "Is Video Chat a good Strategy for my Business?"
 weight = 61
 image = "/postimages/posts/marketing/ivrpowers-posts-01.078.jpeg"

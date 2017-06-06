@@ -1,9 +1,9 @@
 +++
-categories = ["general","marketing"]
+categories = ["general"]
 date = "2017-06-01T20:40:07+02:00"
 description = "Our High Tech Startup"
 draft = false
-tags = ["marketing","IVRPowers", "startup"]
+tags = ["marketing","ivrpowers", "startup"]
 title = "About Interactive Powers"
 image = "/postimages/posts/general/ivrpowers-posts-01.003.jpeg"
 weight = 5
