@@ -43,6 +43,11 @@
   </url>
   
   <url>
+    <loc>http://blog.test.ivrpowers.com/post/financial/videoonlineboarding/</loc>
+    <lastmod>2017-06-12T13:13:32+02:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://blog.test.ivrpowers.com/post/socials/followus-twitter/</loc>
     <lastmod>2017-06-08T00:20:05+02:00</lastmod>
   </url>
@@ -164,6 +169,12 @@
   </url>
   
   <url>
+    <loc>http://blog.test.ivrpowers.com/categories/financial/</loc>
+    <lastmod>2017-06-12T13:13:32+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://blog.test.ivrpowers.com/categories/general/</loc>
     <lastmod>2017-06-01T09:42:42+02:00</lastmod>
     <priority>0</priority>
@@ -178,6 +189,12 @@
   <url>
     <loc>http://blog.test.ivrpowers.com/categories/healthcare/</loc>
     <lastmod>2017-06-10T10:55:18+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://blog.test.ivrpowers.com/tags/icarvision/</loc>
+    <lastmod>2017-06-12T13:13:32+02:00</lastmod>
     <priority>0</priority>
   </url>
   
