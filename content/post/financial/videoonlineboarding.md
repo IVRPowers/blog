@@ -17,15 +17,12 @@ image = "/postimages/posts/financial/ivrpowers-posts-01.100.jpg"
 **Video Online Process in 3 steps:**
 
 **Step 1. ID Verification**
-
 Take a picture of the ID document. The iCAR Vision will determine the authenticity of the identity document.
 
 **Step 2. Selfie Verification**
-
 Take a selfie to compare the ID picture with the image in front of the camera. The iCAR Vision API will check that the pictures match. 
 
 **Step 3. Live Video Call** 
-
 Make a live video call with an agent to approve the whole process and verify that all data and your person are properly matched.
 
 In conclusion, make a Video Online Onboarding will allow to online agreement signature, open bank account or get a new insurance contracts. We will have the possibility to make all these procedures without moving out from our home or work.
