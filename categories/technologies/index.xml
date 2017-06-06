@@ -6,39 +6,59 @@
     <description>Recent content in Technologies on Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 09 Jun 2017 13:49:56 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 07 Jun 2017 00:19:54 +0200</lastBuildDate>
     
 	<atom:link href="http://blog.test.ivrpowers.com/categories/technologies/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Is Video Chat a good Strategy for my Business?</title>
-      <link>http://blog.test.ivrpowers.com/post/marketing/video-chat-good-strategy-business/</link>
-      <pubDate>Fri, 09 Jun 2017 13:49:56 +0200</pubDate>
+      <title>What is RTMP?</title>
+      <link>http://blog.test.ivrpowers.com/post/technologies/what-is-rtmp/</link>
+      <pubDate>Wed, 07 Jun 2017 00:19:54 +0200</pubDate>
       
-      <guid>http://blog.test.ivrpowers.com/post/marketing/video-chat-good-strategy-business/</guid>
-      <description>More than ever businesses need to pay attention to customer experience and provide them with quality support. In addition to phone, email and self-service, live Video Chat is an excellent tool to improve customer satisfaction. Video Chat makes available an efficient and immediate support. And it is a cost-saving option to companies that provide personalized services.
-Some benefits of Video Chat:
-Seeing is believing. Video chat allows to show the product in real time for the customer while talking to an agent or sales rep.</description>
+      <guid>http://blog.test.ivrpowers.com/post/technologies/what-is-rtmp/</guid>
+      <description>Real Time Messaging Protocol or RTMP is mainly serving for high speed transmission of audio, video and data between flash player and a server. Initially developed by Macromedia, the protocol is now owned by Adobe, and specifications about it have only partially been released for public use.
+According to those specifications, the RTMP protocol has multiple variations, i.e. the “plain” RTMP protocol, RTMPS which is RTMP over an TLS/SSL connection, RTMPE which is RTMP encrypted using Adobe’s own security mechanism, and RTMPT which is encapsulated within HTTP requests to traverse firewalls.</description>
     </item>
     
     <item>
-      <title>WebRTC: A Trending Technology for your Business</title>
-      <link>http://blog.test.ivrpowers.com/post/trends/webrtc-trending-technology-business/</link>
-      <pubDate>Wed, 07 Jun 2017 10:55:18 +0200</pubDate>
+      <title>What is SPLIT?</title>
+      <link>http://blog.test.ivrpowers.com/post/technologies/what-is-split/</link>
+      <pubDate>Mon, 05 Jun 2017 00:20:05 +0200</pubDate>
       
-      <guid>http://blog.test.ivrpowers.com/post/trends/webrtc-trending-technology-business/</guid>
-      <description>Technology is continuously changing our daily tasks. We pay bills, book concert tickets, buy food and even we can control our home from a device. People, especially younger generations, expect technological innovations in their everyday life. It happens so in business and ignoring this reality will lead to loss of potential and therefore of competitiveness.
-Technology solutions have a great impact on Customer Experience. And one of the latest trends in the field is #WebRTC.</description>
+      <guid>http://blog.test.ivrpowers.com/post/technologies/what-is-split/</guid>
+      <description>All Video Gateways (WebRTC | RTMP) developed by IVRPowers include a special plugin which allows separate the media streams (video - audio - data) for any communication between users and agents. This development is based on SIP and WebRTC | RTMP peers communications for the integration of voice, video and data in Contact Centers.
+How does SPLIT work? The Video-Audio SPLIT mode works as following:
+A Videocall is initiated by a customer endpoint comes into Video Gateway (WebRTC | RTMP).</description>
     </item>
     
     <item>
-      <title>It&#39;s Time to add Video to your Contact Center</title>
-      <link>http://blog.test.ivrpowers.com/post/trends/its-time-to-switchon-video-cctr/</link>
-      <pubDate>Sun, 04 Jun 2017 10:55:18 +0200</pubDate>
+      <title>What is WebRTC?</title>
+      <link>http://blog.test.ivrpowers.com/post/technologies/what-is-webrtc/</link>
+      <pubDate>Mon, 05 Jun 2017 00:20:05 +0200</pubDate>
       
-      <guid>http://blog.test.ivrpowers.com/post/trends/its-time-to-switchon-video-cctr/</guid>
-      <description>Beyond improving quality of service QoS and call productivity, any Contact Center has to be ready for the next Internet evolution challenges. For any online business or ecommerce website, the most efficient way to contact a sale representative or get human support is a real-time interaction with your agents but without leaving the web session, so you have to add a one-click button located near to the product or service or information they are selecting.</description>
+      <guid>http://blog.test.ivrpowers.com/post/technologies/what-is-webrtc/</guid>
+      <description>WebRTC (Web Real-Time Communication) is a collection of communications protocols and application programming interfaces that enable real-time communication over peer-to-peer connections. This allows web browsers to not only request resources from backend servers, but also real-time information from browsers of other users.
+This enables applications such as video conferencing, file transfer, chat, or desktop sharing without the need of either internal or external plugins.
+WebRTC is being standardized by the World Wide Web Consortium (W3C) and the Internet Engineering Task Force (IETF).</description>
+    </item>
+    
+    <item>
+      <title>What is IVR?</title>
+      <link>http://blog.test.ivrpowers.com/post/technologies/what-is-ivr/</link>
+      <pubDate>Sat, 03 Jun 2017 00:20:05 +0200</pubDate>
+      
+      <guid>http://blog.test.ivrpowers.com/post/technologies/what-is-ivr/</guid>
+      <description>Interactive Voice Response (IVR) is a technology that allows a computer to interact with humans through the use of voice and DTMF tones input via keypad. In telecommunications, IVR allows customers to interact with a company’s host system via a telephone keypad or by speech recognition, after which services can be inquired about through the IVR dialogue. IVR systems can respond with prerecorded or dynamically generated audio to further direct users on how to proceed.</description>
+    </item>
+    
+    <item>
+      <title>What is VoiceXML?</title>
+      <link>http://blog.test.ivrpowers.com/post/technologies/what-is-voicexml/</link>
+      <pubDate>Sat, 03 Jun 2017 00:20:05 +0200</pubDate>
+      
+      <guid>http://blog.test.ivrpowers.com/post/technologies/what-is-voicexml/</guid>
+      <description>The Voice eXtensible Markup Language (VoiceXML) is an XML-based markup language for creating distributed voice applications, much as HTML is a markup language for creating distributed visual applications. It is an industry standard defined by the World Wide Web Consortium (W3C) at http://www.w3.org/TR/voicexml21/ (for VoiceXML V2.1) and http://www.w3.org/TR/voicexml20/ (for VoiceXML V2.0). The VoiceXML language enables IVR developers to use a familiar markup style and Web server-side logic to deliver applications for use over telephone lines.</description>
     </item>
     
   </channel>

@@ -12,7 +12,7 @@
     
     
     <item>
-      <title>Know our products: VoiceXML IVR</title>
+      <title>Know our Products: VoiceXML IVR</title>
       <link>http://blog.test.ivrpowers.com/post/products/voicexml-ivr/</link>
       <pubDate>Fri, 09 Jun 2017 13:25:21 +0200</pubDate>
       
@@ -31,6 +31,15 @@ It can be installed in common hardware or Cloud VM servers configurations, provi
       <description>Release Note We are pleased to announce that our new VoiceXML IVR 13.1 has been released for suitable production services. This new version includes a lot of improvements and new features. All users with previous maintained versions can upgrade today. Please contact our support!
 ChangeLog Version 13.1:
 ## [1.3] - 2016-06 ### Added - Initialization of the freepbx_security.log during the fail2ban installation if not exists - Added pagination for CDR results - Added Presence extras source files - Added the extras module installation to the installation process - Added the extras module update to the update process ### Changed - Fixed posible exploit in the vxml editor directory browser - Fixed a typo in the web uninstallation steps - Updated Openvxi V12.</description>
+    </item>
+    
+    <item>
+      <title>What is IVR?</title>
+      <link>http://blog.test.ivrpowers.com/post/technologies/what-is-ivr/</link>
+      <pubDate>Sat, 03 Jun 2017 00:20:05 +0200</pubDate>
+      
+      <guid>http://blog.test.ivrpowers.com/post/technologies/what-is-ivr/</guid>
+      <description>Interactive Voice Response (IVR) is a technology that allows a computer to interact with humans through the use of voice and DTMF tones input via keypad. In telecommunications, IVR allows customers to interact with a company’s host system via a telephone keypad or by speech recognition, after which services can be inquired about through the IVR dialogue. IVR systems can respond with prerecorded or dynamically generated audio to further direct users on how to proceed.</description>
     </item>
     
     <item>

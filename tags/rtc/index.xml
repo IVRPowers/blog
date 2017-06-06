@@ -12,7 +12,7 @@
     
     
     <item>
-      <title>Know our products: VideoRTC</title>
+      <title>Know our Products: VideoRTC</title>
       <link>http://blog.test.ivrpowers.com/post/products/video-rtc/</link>
       <pubDate>Sun, 11 Jun 2017 11:22:18 +0200</pubDate>
       
@@ -112,6 +112,16 @@ ChangeLog Version 2.1.0:
       
       <guid>http://blog.test.ivrpowers.com/post/technologies/what-is-ivr/</guid>
       <description>Interactive Voice Response (IVR) is a technology that allows a computer to interact with humans through the use of voice and DTMF tones input via keypad. In telecommunications, IVR allows customers to interact with a company’s host system via a telephone keypad or by speech recognition, after which services can be inquired about through the IVR dialogue. IVR systems can respond with prerecorded or dynamically generated audio to further direct users on how to proceed.</description>
+    </item>
+    
+    <item>
+      <title>Introducing VideoRTC.js for Developers</title>
+      <link>http://blog.test.ivrpowers.com/post/development/introducing-videortcjs-developers/</link>
+      <pubDate>Fri, 02 Jun 2017 00:30:56 +0200</pubDate>
+      
+      <guid>http://blog.test.ivrpowers.com/post/development/introducing-videortcjs-developers/</guid>
+      <description>Since 2015, IVRPowers has been diligently refining its Video RTC solutions, API Framework and SDKs to make embedded video much more accessible for developers and enterprises who are looking to rapidly integrate reliable video chat into their own applications.
+Today, we’re thrilled to officially announce a new VideoRTC.js library – the launch of our self-service API Framework developer tools, which lets developers quickly and easily embed this same enterprise-grade, cloud-hosted, multiparty RTC video collaboration into any web, mobile or native application on virtually any device.</description>
     </item>
     
     <item>
