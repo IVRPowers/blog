@@ -38,7 +38,7 @@ According to those specifications, the RTMP protocol has multiple variations, i.
       
       <guid>http://blog.test.ivrpowers.com/post/technologies/what-is-split/</guid>
       <description>All Video Gateways (WebRTC | RTMP) developed by IVRPowers include a special plugin which allows separate the media streams (video - audio - data) for any communication between users and agents. This development is based on SIP and WebRTC | RTMP peers communications for the integration of voice, video and data in Contact Centers.
-How does SPLIT work? The Video-Audio SPLIT mode works as following:
+How does SPLIT work? The Audio-Video SPLIT mode works as following:
 A Videocall is initiated by a customer endpoint comes into Video Gateway (WebRTC | RTMP).</description>
     </item>
     

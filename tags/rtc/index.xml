@@ -83,13 +83,24 @@ Join us and stay tuned for new information at https://www.facebook.com/ivrpowers
     </item>
     
     <item>
+      <title>Video RTC: Special Extensions</title>
+      <link>http://blog.test.ivrpowers.com/post/products/video-rtc-special-extensions/</link>
+      <pubDate>Tue, 06 Jun 2017 11:22:18 +0200</pubDate>
+      
+      <guid>http://blog.test.ivrpowers.com/post/products/video-rtc-special-extensions/</guid>
+      <description>Video Gateway (WebRTC) includes many features or special extensions that you can activate according to your own business processes. All of this, is part of the capabilities of our Video RTC solution suite.
+Video RTC special extensions are:
+Live Chat. Video Gateway supports Live Chat feature thru a DataChannel. You can customize all the User or Agent front-end in Flash or HTML5 according the gateway mode you have deployed for your service.</description>
+    </item>
+    
+    <item>
       <title>What is SPLIT?</title>
       <link>http://blog.test.ivrpowers.com/post/technologies/what-is-split/</link>
       <pubDate>Mon, 05 Jun 2017 00:20:05 +0200</pubDate>
       
       <guid>http://blog.test.ivrpowers.com/post/technologies/what-is-split/</guid>
       <description>All Video Gateways (WebRTC | RTMP) developed by IVRPowers include a special plugin which allows separate the media streams (video - audio - data) for any communication between users and agents. This development is based on SIP and WebRTC | RTMP peers communications for the integration of voice, video and data in Contact Centers.
-How does SPLIT work? The Video-Audio SPLIT mode works as following:
+How does SPLIT work? The Audio-Video SPLIT mode works as following:
 A Videocall is initiated by a customer endpoint comes into Video Gateway (WebRTC | RTMP).</description>
     </item>
     
