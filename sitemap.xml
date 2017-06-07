@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
     <loc>http://blog.test.ivrpowers.com/post/general/welcome-blog/</loc>
@@ -43,7 +42,7 @@
   </url>
   
   <url>
-    <loc>http://blog.test.ivrpowers.com/post/financial/videoonlineboarding/</loc>
+    <loc>http://blog.test.ivrpowers.com/post/financial/video-online-onboarding/</loc>
     <lastmod>2017-06-12T13:13:32+02:00</lastmod>
   </url>
   
@@ -58,7 +57,7 @@
   </url>
   
   <url>
-    <loc>http://blog.test.ivrpowers.com/post/marketing/key_benefits_videochat/</loc>
+    <loc>http://blog.test.ivrpowers.com/post/marketing/3-key-benefits-video-chat/</loc>
     <lastmod>2017-06-12T10:51:29+02:00</lastmod>
   </url>
   
@@ -153,6 +152,18 @@
   <url>
     <loc>http://blog.test.ivrpowers.com/tags/cctr/</loc>
     <lastmod>2017-06-11T10:55:18+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://blog.test.ivrpowers.com/tags/custexp/</loc>
+    <lastmod>2017-06-09T13:49:56+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://blog.test.ivrpowers.com/tags/cx/</loc>
+    <lastmod>2017-06-09T13:49:56+02:00</lastmod>
     <priority>0</priority>
   </url>
   

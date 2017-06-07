@@ -34,5 +34,14 @@ How does SPLIT work? The Video-Audio SPLIT mode works as following:
 A Videocall is initiated by a customer endpoint comes into Video Gateway (WebRTC | RTMP).</description>
     </item>
     
+    <item>
+      <title>It&#39;s Time to add Video to your Contact Center</title>
+      <link>http://blog.test.ivrpowers.com/post/trends/its-time-to-switchon-video-cctr/</link>
+      <pubDate>Sun, 04 Jun 2017 10:55:18 +0200</pubDate>
+      
+      <guid>http://blog.test.ivrpowers.com/post/trends/its-time-to-switchon-video-cctr/</guid>
+      <description>Beyond improving quality of service QoS and call productivity, any Contact Center has to be ready for the next Internet evolution challenges. For any online business or ecommerce website, the most efficient way to contact a sale representative or get human support is a real-time interaction with your agents but without leaving the web session, so you have to add a one-click button located near to the product or service or information they are selecting.</description>
+    </item>
+    
   </channel>
 </rss>

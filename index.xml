@@ -70,7 +70,7 @@ Today, buyers, sellers, prospects and partners expect a bidirectional exchange o
       
       <guid>http://blog.test.ivrpowers.com/post/healthcare/4-factors-select-telehealth-solution/</guid>
       <description>Implementing telehealth can help physicians reach people in remote or rural areas who may not be able to travel to a particular facility or specialist as well as those in more densely populated urban areas who find inner-city mass transit insufficient for their needs. As a result, more organizations are turning to telehealth as a viable alternative to routine in-office physician visits.
-To implement the kind of telehealth solution that both clinicians and patients will trust and use takes a lot of up-front planning.</description>
+To implement properly the kind of telehealth solution that both clinicians and patients will trust and use takes a lot of up-front planning, you should consider these four key considerations before putting telehealth into practice:</description>
     </item>
     
     <item>
@@ -90,18 +90,18 @@ It can be installed in common hardware or Cloud VM servers configurations, provi
       <pubDate>Fri, 09 Jun 2017 13:49:56 +0200</pubDate>
       
       <guid>http://blog.test.ivrpowers.com/post/marketing/video-chat-good-strategy-business/</guid>
-      <description>More than ever businesses need to pay attention to customer experience and provide them with quality support. In addition to phone, email and self-service, live Video Chat is an excellent tool to improve customer satisfaction. Video Chat makes available an efficient and immediate support. And it is a cost-saving option to companies that provide personalized services.
-Some benefits of Video Chat:
+      <description>More than ever businesses need to pay attention to Customer Experience and provide them with quality support. In addition to phone, email and self-service, Live Communications are an excellent tool to improve customer satisfaction. Video Chat makes available an efficient and immediate support. And it is a cost-saving option to companies that provide personalized services.
+Some Benefits of Video Chat:
 Seeing is believing. Video chat allows to show the product in real time for the customer while talking to an agent or sales rep.</description>
     </item>
     
     <item>
-      <title>Ready for the Next Revolution? Video online Onboarding</title>
-      <link>http://blog.test.ivrpowers.com/post/financial/videoonlineboarding/</link>
+      <title>Video Online Onboarding</title>
+      <link>http://blog.test.ivrpowers.com/post/financial/video-online-onboarding/</link>
       <pubDate>Mon, 12 Jun 2017 13:13:32 +0200</pubDate>
       
-      <guid>http://blog.test.ivrpowers.com/post/financial/videoonlineboarding/</guid>
-      <description>Video Online Onboarding allows anyone to open an account or become customer in just a few minutes and start banking, getting a service or insurance contract right away. This new approach uses an innovative procedure that verifies a customer’s identity through a selfie and a video call. Video Online Onboarding is combining Video ID to verify the authenticity of identity documents with facial recognition and Video RTC to have a face-to-face video call with an agent to approve the process.</description>
+      <guid>http://blog.test.ivrpowers.com/post/financial/video-online-onboarding/</guid>
+      <description>Video Online Onboarding allows anyone to open an account or become customer in just a few minutes and start banking, getting a service or insurance contract right away. This new approach uses an innovative procedure that verifies a customer’s identity through a selfie and a video call. Video Online Onboarding is combining Video ID to verify the authenticity of identity documents with facial recognition and Video RTC to have a video call with an agent to approve the process.</description>
     </item>
     
     <item>
@@ -126,16 +126,16 @@ According to those specifications, the RTMP protocol has multiple variations, i.
     
     <item>
       <title>3 Key Benefits of Live Video Chat</title>
-      <link>http://blog.test.ivrpowers.com/post/marketing/key_benefits_videochat/</link>
+      <link>http://blog.test.ivrpowers.com/post/marketing/3-key-benefits-video-chat/</link>
       <pubDate>Mon, 12 Jun 2017 10:51:29 +0200</pubDate>
       
-      <guid>http://blog.test.ivrpowers.com/post/marketing/key_benefits_videochat/</guid>
-      <description>Bots can solve a proportion of customers’ needs. However, even if a bot has been trained to understand complicated statements and is able to answer in an intelligent and sophisticated manner, there are cases when customers need to speak with a live agent. Bots should not alienate nor irritate your customers. This is the point when WebRTC technology plays its role.
-A large number of different businesses could benefit from offering live video chat services.</description>
+      <guid>http://blog.test.ivrpowers.com/post/marketing/3-key-benefits-video-chat/</guid>
+      <description>Currently, Bots can solve a small proportion of customers’ needs. However, even if a bot has been trained to understand complicated statements and is able to answer in an intelligent and sophisticated manner, there are cases when customers need to speak with a live agent. Bots should not alienate nor irritate your customers. This is the point when WebRTC technology plays its role.
+A large number of different businesses could benefit from offering Live Video Chat services.</description>
     </item>
     
     <item>
-      <title>WebRTC: a trending Technology for your Business</title>
+      <title>WebRTC: a Trending Technology for your Business</title>
       <link>http://blog.test.ivrpowers.com/post/trends/webrtc-trending-technology-business/</link>
       <pubDate>Wed, 07 Jun 2017 10:55:18 +0200</pubDate>
       
@@ -156,13 +156,13 @@ Live Chat. Video Gateway supports Live Chat feature thru a DataChannel. You can 
     </item>
     
     <item>
-      <title>VoiceXML IVR v13.1</title>
+      <title>VoiceXML IVR v1.3</title>
       <link>http://blog.test.ivrpowers.com/post/updates/update-voicexml-ivr-13.1/</link>
       <pubDate>Mon, 05 Jun 2017 00:20:05 +0200</pubDate>
       
       <guid>http://blog.test.ivrpowers.com/post/updates/update-voicexml-ivr-13.1/</guid>
-      <description>Release Note We are pleased to announce that our new VoiceXML IVR 13.1 has been released for suitable production services. This new version includes a lot of improvements and new features. All users with previous maintained versions can upgrade today. Please contact our support!
-ChangeLog Version 13.1:
+      <description>Release Note We are pleased to announce that our new VoiceXML IVR 1.3 has been released for suitable production services. This new version includes a lot of improvements and new features. All users with previous maintained versions can upgrade today. Please contact our support!
+ChangeLog Version 1.3:
 ## [1.3] - 2016-06 ### Added - Initialization of the freepbx_security.log during the fail2ban installation if not exists - Added pagination for CDR results - Added Presence extras source files - Added the extras module installation to the installation process - Added the extras module update to the update process ### Changed - Fixed posible exploit in the vxml editor directory browser - Fixed a typo in the web uninstallation steps - Updated Openvxi V12.</description>
     </item>
     
@@ -212,7 +212,7 @@ WebRTC is being standardized by the World Wide Web Consortium (W3C) and the Inte
       <pubDate>Sun, 04 Jun 2017 00:20:05 +0200</pubDate>
       
       <guid>http://blog.test.ivrpowers.com/post/marketing/webrtc-system-benefits/</guid>
-      <description>A WebRTC system can bring several benefits to all types of enterprises and users. For different market segments, the benefit would really be overwhelming, as the app would give them the power to open up a wealth of opportunities to serve their clients and customers, in a very innovative way. Using the network, companies can open up real-time and live video chats sessions with customers, and vice-versa, to provide their help and support.</description>
+      <description>A WebRTC System can bring several benefits to all types of enterprises and users. For different market segments, the benefit would really be overwhelming, as the app would give them the power to open up a wealth of opportunities to serve their clients and customers, in a very innovative way. Using the network, companies can open up real-time and live video chats sessions with customers, and vice-versa, to provide their help and support.</description>
     </item>
     
     <item>
