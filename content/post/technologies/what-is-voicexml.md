@@ -6,7 +6,7 @@ draft = false
 tags = ["voicexml","ivr"]
 title = "What is VoiceXML?"
 image = "/postimages/posts/technologies/ivrpowers-posts-01.071.jpeg"
-weight = 80
+weight = 81
 +++
 
 ![VoiceXML W3C](/postimages/posts/technologies/ivrpowers-posts-01.071.jpeg)

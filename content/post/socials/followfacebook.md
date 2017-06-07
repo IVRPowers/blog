@@ -7,6 +7,7 @@ tags = ["rtc","ivr", "ivrpowers"]
 title = "Follow us on Facebook"
 weight = 67
 image = "/postimages/posts/socials/ivrpowers-facebook.jpg"
+featured = true
 
 +++
 

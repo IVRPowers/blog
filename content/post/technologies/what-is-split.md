@@ -6,7 +6,7 @@ draft = false
 tags = ["webrtc","rtmp", "rtc", "cctr", "split"]
 title = "What is SPLIT?"
 image = "/postimages/posts/technologies/ivrpowers-posts-01.013.jpeg"
-weight = 80
+weight = 79
 +++
 
 ![Lorem Ipsum](/postimages/posts/technologies/ivrpowers-posts-01.012.jpeg)
