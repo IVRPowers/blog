@@ -30,4 +30,4 @@ In conclusion, make a Video Online Onboarding will allow to online agreement sig
 At [IVRPowers](http://www.ivrpowers) we can demonstrated a proof-of-concept iOS or Android app developed with our API Framework together with the iCAR Vision document identity verification and facial recognition provider. This app makes it possible to fully automate the Video Online Onboarding of new customers, using their smartphone, web browser, their passport and a selfie.
 
 ---
-More information at [www.ivrpowers.com](http://www.ivrpowers)
+More information at [www.ivrpowers.com](http://www.ivrpowers.com)
