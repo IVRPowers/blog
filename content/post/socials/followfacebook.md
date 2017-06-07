@@ -6,7 +6,7 @@ draft = false
 tags = ["rtc","ivr", "ivrpowers"]
 title = "Follow us on Facebook"
 weight = 67
-image = "/postimages/posts/socials/ivrpowers-facebook.jpg"
+image = "/postimages/posts/socials/ivrpowers-posts-01.063.jpeg"
 featured = true
 
 +++

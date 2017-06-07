@@ -5,8 +5,8 @@ description = "Social Networks"
 draft = false
 tags = ["rtc","ivr", "ivrpowers"]
 title = "Join us on Instagram"
-weight = 80
-image = "/postimages/posts/socials/ivrpowers-intragram.jpg"
+weight = 81
+image = "/postimages/posts/socials/ivrpowers-posts-01.065.jpeg"
 featured =true
 
 +++
