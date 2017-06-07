@@ -55,21 +55,41 @@ https://www.instagram.com/ivrpowers/</description>
     </item>
     
     <item>
-      <title>What is IVR?</title>
-      <link>http://blog.test.ivrpowers.com/post/technologies/what-is-ivr/</link>
-      <pubDate>Sat, 03 Jun 2017 00:20:05 +0200</pubDate>
-      
-      <guid>http://blog.test.ivrpowers.com/post/technologies/what-is-ivr/</guid>
-      <description>Interactive Voice Response (IVR) is a technology that allows a computer to interact with humans through the use of voice and DTMF tones input via keypad. In telecommunications, IVR allows customers to interact with a company’s host system via a telephone keypad or by speech recognition, after which services can be inquired about through the IVR dialogue. IVR systems can respond with prerecorded or dynamically generated audio to further direct users on how to proceed.</description>
-    </item>
-    
-    <item>
       <title>What is VoiceXML?</title>
       <link>http://blog.test.ivrpowers.com/post/technologies/what-is-voicexml/</link>
       <pubDate>Sat, 03 Jun 2017 00:20:05 +0200</pubDate>
       
       <guid>http://blog.test.ivrpowers.com/post/technologies/what-is-voicexml/</guid>
       <description>The Voice eXtensible Markup Language (VoiceXML) is an XML-based markup language for creating distributed voice applications, much as HTML is a markup language for creating distributed visual applications. It is an industry standard defined by the World Wide Web Consortium (W3C) at http://www.w3.org/TR/voicexml21/ (for VoiceXML V2.1) and http://www.w3.org/TR/voicexml20/ (for VoiceXML V2.0). The VoiceXML language enables IVR developers to use a familiar markup style and Web server-side logic to deliver applications for use over telephone lines.</description>
+    </item>
+    
+    <item>
+      <title>IVRPowers is on LinkedIn</title>
+      <link>http://blog.test.ivrpowers.com/post/socials/follow-linkedin/</link>
+      <pubDate>Mon, 05 Jun 2017 12:40:31 +0200</pubDate>
+      
+      <guid>http://blog.test.ivrpowers.com/post/socials/follow-linkedin/</guid>
+      <description>IVRPowers has its own LinkedIn page! Meet more people interested on the latest trends on RTC and IVR. And if you have any questions feel free to contact us.
+https://www.linkedin.com/company-beta/10060638/</description>
+    </item>
+    
+    <item>
+      <title>Join us on Tumblr</title>
+      <link>http://blog.test.ivrpowers.com/post/socials/join-tumblr/</link>
+      <pubDate>Sun, 04 Jun 2017 12:47:15 +0200</pubDate>
+      
+      <guid>http://blog.test.ivrpowers.com/post/socials/join-tumblr/</guid>
+      <description>You can easily track what’s happening at IVRPowers by following us on Tumblr. Keep up to date about the most advanced RTC and IVR solutions and breakthrough technologies.
+Follow us at http://blog.ivrpowers.com/</description>
+    </item>
+    
+    <item>
+      <title>What is IVR?</title>
+      <link>http://blog.test.ivrpowers.com/post/technologies/what-is-ivr/</link>
+      <pubDate>Sat, 03 Jun 2017 00:20:05 +0200</pubDate>
+      
+      <guid>http://blog.test.ivrpowers.com/post/technologies/what-is-ivr/</guid>
+      <description>Interactive Voice Response (IVR) is a technology that allows a computer to interact with humans through the use of voice and DTMF tones input via keypad. In telecommunications, IVR allows customers to interact with a company’s host system via a telephone keypad or by speech recognition, after which services can be inquired about through the IVR dialogue. IVR systems can respond with prerecorded or dynamically generated audio to further direct users on how to proceed.</description>
     </item>
     
   </channel>
