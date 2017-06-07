@@ -5,8 +5,13 @@ description = "Technology Word Definition"
 draft = false
 tags = ["webrtc","rtmp", "rtc", "cctr", "split"]
 title = "What is SPLIT?"
+<<<<<<< HEAD
 image = "/postimages/technologies/ivrpowers-posts-01.105.jpeg"
 weight = 80
+=======
+image = "/postimages/posts/technologies/ivrpowers-posts-01.013.jpeg"
+weight = 79
+>>>>>>> 709566ea1408f6d9b88b515f1f96d5a77e59c48a
 +++
 
 ![Lorem Ipsum](/postimages/posts/technologies/ivrpowers-posts-01.012.jpeg)

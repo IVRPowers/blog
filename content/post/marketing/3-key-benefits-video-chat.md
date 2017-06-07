@@ -5,8 +5,13 @@ description = "Customer Engagement"
 draft = false
 tags = ["livechat","videochat", "businessstrategy"]
 title = "3 Key Benefits of Live Video Chat"
+<<<<<<< HEAD
 weight = 67
 image = "/postimages/marketing/ivrpowers-posts-01.106.jpeg"
+=======
+weight = 68
+image = "/postimages/posts/marketing/ivrpowers-posts-01.074.jpeg"
+>>>>>>> 709566ea1408f6d9b88b515f1f96d5a77e59c48a
 
 +++
 

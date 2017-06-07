@@ -5,7 +5,7 @@ description = "Customer Engagement"
 draft = false
 tags = ["webrtc","businessstrategy", "marketing", "cctr", "videortc"]
 title = "It's Time to add Video to your Contact Center"
-weight = 81
+weight = 82
 image = "/postimages/posts/trends/ivrpowers-posts-01.033.jpeg"
 
 +++
