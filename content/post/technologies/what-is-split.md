@@ -5,13 +5,8 @@ description = "Technology Word Definition"
 draft = false
 tags = ["webrtc","rtmp", "rtc", "cctr", "split"]
 title = "What is SPLIT?"
-<<<<<<< HEAD
 image = "/postimages/technologies/ivrpowers-posts-01.105.jpeg"
 weight = 80
-=======
-image = "/postimages/posts/technologies/ivrpowers-posts-01.013.jpeg"
-weight = 79
->>>>>>> 709566ea1408f6d9b88b515f1f96d5a77e59c48a
 +++
 
 ![Lorem Ipsum](/postimages/posts/technologies/ivrpowers-posts-01.012.jpeg)
@@ -34,5 +29,4 @@ Converts the audio stream to a regular SIP call that can be transferred to an ex
 Keep the video stream on hold and make available a public URL published on the server itself (using the unique ID) to devices that want to connect to the video stream and establish a two-way video communication. Typically, this URL is opened from the computer of the ACD agent assigned with the audio call through some sort of automated action (Pop-up Agent). The video stream is sent to the computer over the WebRTC protocol.
 
 # Benefits for IP Contact Centers
-
 This operation mode has various advantages when integrating the Video Call channel into a Contact Center strategy, namely: Agents can use their regular phone to receive the audio stream of video calls like any other regular call Call treatment, routing strategies, IVR flows, ACD distribution, etc.. already implemented in the telephony system can be leveraged to process Video Interaction calls, since the audio part is seen by this system as a regular call. Since the audio part of the call goes through the telephony system as a regular call, it can be listened to and recorded like a regular call (assuming these features are available).
