@@ -11,7 +11,7 @@ image = "/postimages/posts/support/ivrpowers-posts-01.105.png"
 +++
 
 
-Five years ago, Amazon launched the Mayday button to its line of Kindle Fire tablets. It provides on-device tech support all day, every day. Just by tapping the Mayday button the kindle user is put in direct contact with an Amazon technician. 
+Five years ago, Amazon launched the Mayday button to its line of Kindle Fire tablets. It provides on-device tech support all day, every day. Just by tapping the Mayday button the Kindle user is put in direct contact with an Amazon technician. 
 
 In less than six months, the feature became the most popular way for Kindle customers to contact Amazon’s customer service. What are the ingredients for success?
 
