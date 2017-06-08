@@ -19,11 +19,11 @@ A large number of different businesses could benefit from offering **Live Video 
 
 Before WebRTC technology, if businesses needed to interact with customers over audio or video they needed to download plugins, applications and to learn how to use them. WebRTC is very simple to use as it is a browser-based technology. It means is independent of platforms and devices. And as a device is connected it will be able to utilize this type of communication.
 
-## Humanize interactions.
+## Humanizes interactions.
 
 It allows businesses to reduce costs while creating a customer experience comparable to real life. RTC connects real humans, for instance, in a Video Chat. Thanks to this new technology, customers can fast access to live support and easily solve any issue. In contrast to voice communication or email correspondence, video is pictures, which are worth more than a million words. In Video Chat body language helps to better express and understand.
 
-## Increased sales.
+## Increases sales.
 
 Live Video Chat is a relatively new tool, but the use of video in marketing process is not. Companies very often use embedded videos to describe and show their products as users prefer a video message than reading it. Live Video Chat adds the possibility to build a closer relationship with the company. [Surveys](https://www.emarketer.com/Article/How-Helpful-Live-Chat/1007235) show that after a positive support experience, thanks to video chat, customers are more likely to purchase from the site again.
 
