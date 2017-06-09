@@ -1,11 +1,11 @@
 +++
 categories = ["socials"]
-date = "2017-06-04T12:47:15+02:00"
+date = "2017-06-19T12:47:15+02:00"
 description = "Social Networks"
 draft = false
 tags = ["rtc","ivr","ivrpowers"]
 title = "Join us on Tumblr"
-weight = 90
+weight = 60
 featured = true
 image = "/postimages/posts/socials/ivrpowers-posts-01.059.jpeg"
 

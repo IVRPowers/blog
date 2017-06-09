@@ -1,11 +1,11 @@
 +++
 categories = ["financial"]
-date = "2017-06-13T13:02:36+02:00"
+date = "2017-06-15T13:02:36+02:00"
 description = "Video Real-Time Communications"
 draft = false
 tags = ["livechat","livevideo", "businessstrategy"]
 title = "Video Banking Revolution is coming"
-weight = 63
+weight = 75
 image = "/postimages/posts/financial/ivrpowers-posts-01.101.png"
 
 +++

@@ -1,11 +1,11 @@
 +++
 categories = ["marketing"]
-date = "2017-06-12T10:51:29+02:00"
+date = "2017-06-20T10:51:29+02:00"
 description = "Customer Engagement"
 draft = false
 tags = ["livechat","videochat", "businessstrategy"]
 title = "3 Key Benefits of Live Video Chat"
-weight = 67
+weight = 54
 image = "/postimages/marketing/ivrpowers-posts-01.106.jpeg"
 +++
 

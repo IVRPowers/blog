@@ -1,12 +1,12 @@
 +++
 categories = ["updates"]
-date = "2017-06-04T00:20:05+02:00"
+date = "2017-06-19T00:20:05+02:00"
 description = "Release Note"
 draft = false
 tags = ["webrtc","rtc", "ivrpowers"]
 title = "Video RTC (WebRTC) v2.1"
 image = "/postimages/posts/updates/ivrpowers-posts-01.088.jpeg"
-weight = 86
+weight = 64
 featured = true
 +++
 

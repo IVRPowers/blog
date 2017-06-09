@@ -1,11 +1,11 @@
 +++
 categories = ["marketing"]
-date = "2017-06-13T12:46:41+02:00"
+date = "2017-06-20T12:46:41+02:00"
 description = "A Better Customer Experience"
 draft = false
 tags = ["custexp","businessstrategy", "startup"]
 title = "New Approaches on Ecommerce Customer Service"
-weight = 66
+weight = 59
 image = "/postimages/posts/marketing/ivrpowers-posts-01.106.jpg"
 
 +++

@@ -1,11 +1,11 @@
 +++
 categories = ["financial"]
-date = "2017-06-12T13:13:32+02:00"
+date = "2017-06-23T13:13:32+02:00"
 description = "The Next Revolution for Banking & Services"
 draft = false
 tags = ["businessstrategy","rtc", "icarvision"]
 title = "Video Online Onboarding"
-weight = 62
+weight = 34
 image = "/postimages/posts/financial/ivrpowers-posts-01.103.jpeg"
 
 +++

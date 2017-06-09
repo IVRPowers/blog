@@ -1,12 +1,12 @@
 +++
 categories = ["technologies"]
-date = "2017-06-03T00:20:05+02:00"
+date = "2017-06-12T00:20:05+02:00"
 description = "Technology Word Definition"
 draft = false
 tags = ["ivr","rtc"]
 title = "What is IVR?"
 image = "/postimages/posts/technologies/ivrpowers-posts-01.082.jpeg"
-weight = 90
+weight = 98
 +++
 
 ![Phone IVR](/postimages/posts/technologies/ivrpowers-posts-01.082.jpeg)

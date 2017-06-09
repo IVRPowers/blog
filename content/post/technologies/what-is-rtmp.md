@@ -1,12 +1,12 @@
 +++
 categories = ["technologies"]
-date = "2017-06-07T00:19:54+02:00"
+date = "2017-06-14T00:19:54+02:00"
 description = "Technology Word Definition"
 draft = false
 tags = ["rtmp","rtc"]
 title = "What is RTMP?"
 image = "/postimages/posts/technologies/ivrpowers-posts-01.070.jpeg"
-weight = 66
+weight = 82
 +++
 
 ![Lorem Ipsum](/postimages/posts/technologies/ivrpowers-posts-01.070.jpeg)

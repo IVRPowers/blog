@@ -1,12 +1,12 @@
 +++
 categories = ["marketing"]
-date = "2017-06-04T00:20:05+02:00"
+date = "2017-06-23T00:20:05+02:00"
 description = "Technology Trend"
 draft = false
 tags = ["webrtc","rtc"]
 title = "The Benefits of a WebRTC System"
 image = "/postimages/posts/marketing/ivrpowers-posts-01.083.jpeg"
-weight = 85
+weight = 35
 +++
 
 ![WebRTC Laptop](/postimages/posts/marketing/ivrpowers-posts-01.083.jpeg)

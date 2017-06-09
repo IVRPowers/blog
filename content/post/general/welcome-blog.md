@@ -1,6 +1,6 @@
 +++
 categories = ["general"]
-date = "2017-06-01T09:42:42+02:00"
+date = "2017-06-12T09:42:42+02:00"
 description = "The Hugo Blog start up"
 draft = false
 tags = ["ivrpowers", "startup"]

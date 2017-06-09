@@ -1,11 +1,11 @@
 +++
 categories = ["socials"]
-date = "2017-06-12T11:23:01+02:00"
+date = "2017-06-20T11:23:01+02:00"
 description = "Social Networks"
 draft = false
 tags = ["rtc","ivr", "ivrpowers"]
 title = "Follow us on Facebook"
-weight = 67
+weight = 55
 image = "/postimages/posts/socials/ivrpowers-posts-01.063.jpeg"
 featured = true
 

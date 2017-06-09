@@ -1,11 +1,11 @@
 +++
 categories = ["trends"]
-date = "2017-06-11T10:55:18+02:00"
+date = "2017-06-13T10:55:18+02:00"
 description = "Customer Engagement"
 draft = false
 tags = ["cctr","businessstrategy", "rtc"]
 title = "Updating the Inbound Phone Channel"
-weight = 51
+weight = 90
 image = "/postimages/posts/trends/ivrpowers-posts-01.076.jpeg"
 
 +++
