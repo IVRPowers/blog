@@ -6,35 +6,25 @@
     <description>Recent content in Socials on Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 08 Jun 2017 00:20:05 +0200</lastBuildDate>
+    <lastBuildDate>Thu, 22 Jun 2017 12:40:31 +0200</lastBuildDate>
     
 	<atom:link href="http://blog.test.ivrpowers.com/categories/socials/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Follow us on Twitter</title>
-      <link>http://blog.test.ivrpowers.com/post/socials/followus-twitter/</link>
-      <pubDate>Thu, 08 Jun 2017 00:20:05 +0200</pubDate>
+      <title>IVRPowers is on LinkedIn</title>
+      <link>http://blog.test.ivrpowers.com/post/socials/follow-linkedin/</link>
+      <pubDate>Thu, 22 Jun 2017 12:40:31 +0200</pubDate>
       
-      <guid>http://blog.test.ivrpowers.com/post/socials/followus-twitter/</guid>
-      <description>Be sure to follow us on Twitter with great brand updates, promotions and news about all things RTC or IVR. Our hand is @ivrpowers and our favorite hashtags right now are #RTC and #IVR. Give us a shout out!
-https://twitter.com/ivrpowers</description>
-    </item>
-    
-    <item>
-      <title>Follow us on Facebook</title>
-      <link>http://blog.test.ivrpowers.com/post/socials/followfacebook/</link>
-      <pubDate>Mon, 12 Jun 2017 11:23:01 +0200</pubDate>
-      
-      <guid>http://blog.test.ivrpowers.com/post/socials/followfacebook/</guid>
-      <description>Do not forget to follow us on Facebook. You can contact us and stay updated on all that’s going on at IVRPowers and on the latest news about RTC or IVR.
-Join us and stay tuned for new information at https://www.facebook.com/ivrpowers/</description>
+      <guid>http://blog.test.ivrpowers.com/post/socials/follow-linkedin/</guid>
+      <description>IVRPowers has its own LinkedIn page! Meet more people interested on the latest trends on RTC and IVR. And if you have any questions feel free to contact us.
+https://www.linkedin.com/company-beta/10060638/</description>
     </item>
     
     <item>
       <title>Join us on Instagram</title>
       <link>http://blog.test.ivrpowers.com/post/socials/join-instagram/</link>
-      <pubDate>Sun, 11 Jun 2017 11:44:03 +0200</pubDate>
+      <pubDate>Wed, 21 Jun 2017 11:44:03 +0200</pubDate>
       
       <guid>http://blog.test.ivrpowers.com/post/socials/join-instagram/</guid>
       <description>You can now follow IVRPowers on Instagram! We want to share our best tech pictures with you. Products, trends, promotions, innovations, conferences, updates&amp;hellip;
@@ -43,23 +33,33 @@ https://www.instagram.com/ivrpowers/</description>
     </item>
     
     <item>
-      <title>IVRPowers is on LinkedIn</title>
-      <link>http://blog.test.ivrpowers.com/post/socials/follow-linkedin/</link>
-      <pubDate>Mon, 05 Jun 2017 12:40:31 +0200</pubDate>
+      <title>Follow us on Facebook</title>
+      <link>http://blog.test.ivrpowers.com/post/socials/followfacebook/</link>
+      <pubDate>Tue, 20 Jun 2017 11:23:01 +0200</pubDate>
       
-      <guid>http://blog.test.ivrpowers.com/post/socials/follow-linkedin/</guid>
-      <description>IVRPowers has its own LinkedIn page! Meet more people interested on the latest trends on RTC and IVR. And if you have any questions feel free to contact us.
-https://www.linkedin.com/company-beta/10060638/</description>
+      <guid>http://blog.test.ivrpowers.com/post/socials/followfacebook/</guid>
+      <description>Do not forget to follow us on Facebook. You can contact us and stay updated on all that’s going on at IVRPowers and on the latest news about RTC or IVR.
+Join us and stay tuned for new information at https://www.facebook.com/ivrpowers/</description>
     </item>
     
     <item>
       <title>Join us on Tumblr</title>
       <link>http://blog.test.ivrpowers.com/post/socials/join-tumblr/</link>
-      <pubDate>Sun, 04 Jun 2017 12:47:15 +0200</pubDate>
+      <pubDate>Mon, 19 Jun 2017 12:47:15 +0200</pubDate>
       
       <guid>http://blog.test.ivrpowers.com/post/socials/join-tumblr/</guid>
       <description>You can easily track what’s happening at IVRPowers by following us on Tumblr. Keep up to date about the most advanced RTC and IVR solutions and breakthrough technologies.
 Follow us at http://blog.ivrpowers.com/</description>
+    </item>
+    
+    <item>
+      <title>Follow us on Twitter</title>
+      <link>http://blog.test.ivrpowers.com/post/socials/followus-twitter/</link>
+      <pubDate>Fri, 16 Jun 2017 00:20:05 +0200</pubDate>
+      
+      <guid>http://blog.test.ivrpowers.com/post/socials/followus-twitter/</guid>
+      <description>Be sure to follow us on Twitter with great brand updates, promotions and news about all things RTC or IVR. Our hand is @ivrpowers and our favorite hashtags right now are #RTC and #IVR. Give us a shout out!
+https://twitter.com/ivrpowers</description>
     </item>
     
   </channel>

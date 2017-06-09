@@ -6,35 +6,15 @@
     <description>Recent content in Rtmp on Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 11 Jun 2017 11:22:18 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 21 Jun 2017 00:20:05 +0200</lastBuildDate>
     
 	<atom:link href="http://blog.test.ivrpowers.com/tags/rtmp/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Know our Products: VideoRTC</title>
-      <link>http://blog.test.ivrpowers.com/post/products/video-rtc/</link>
-      <pubDate>Sun, 11 Jun 2017 11:22:18 +0200</pubDate>
-      
-      <guid>http://blog.test.ivrpowers.com/post/products/video-rtc/</guid>
-      <description>The Video Real Time Communications Platform Our Video Gateway connects peers or endpoints between WebRTC, RTMP and SIP technology to create advanced Video services. It works in common hardware or Cloud VM servers configurations, providing a highly scalable base system to meet all customers’ business and technical requirements.
-Cloud Ready. Our Video Gateway solutions are software based and ready to run over Cloud environments and Virtual Servers. You can setup our Video RTC platforms over Amazon EC2 servers or any Private/Public Cloud.</description>
-    </item>
-    
-    <item>
-      <title>What is RTMP?</title>
-      <link>http://blog.test.ivrpowers.com/post/technologies/what-is-rtmp/</link>
-      <pubDate>Wed, 07 Jun 2017 00:19:54 +0200</pubDate>
-      
-      <guid>http://blog.test.ivrpowers.com/post/technologies/what-is-rtmp/</guid>
-      <description>Real Time Messaging Protocol or RTMP is mainly serving for high speed transmission of audio, video and data between flash player and a server. Initially developed by Macromedia, the protocol is now owned by Adobe, and specifications about it have only partially been released for public use.
-According to those specifications, the RTMP protocol has multiple variations, i.e. the “plain” RTMP protocol, RTMPS which is RTMP over an TLS/SSL connection, RTMPE which is RTMP encrypted using Adobe’s own security mechanism, and RTMPT which is encapsulated within HTTP requests to traverse firewalls.</description>
-    </item>
-    
-    <item>
       <title>What is SPLIT?</title>
       <link>http://blog.test.ivrpowers.com/post/technologies/what-is-split/</link>
-      <pubDate>Mon, 05 Jun 2017 00:20:05 +0200</pubDate>
+      <pubDate>Wed, 21 Jun 2017 00:20:05 +0200</pubDate>
       
       <guid>http://blog.test.ivrpowers.com/post/technologies/what-is-split/</guid>
       <description>All Video Gateways (WebRTC | RTMP) developed by IVRPowers include a special plugin which allows separate the media streams (video - audio - data) for any communication between users and agents. This development is based on SIP and WebRTC | RTMP peers communications for the integration of voice, video and data in Contact Centers.
@@ -45,12 +25,32 @@ A Videocall is initiated by a customer endpoint comes into Video Gateway (WebRTC
     <item>
       <title>Video RTC (RTMP) v1.2</title>
       <link>http://blog.test.ivrpowers.com/post/updates/update-video-rtc-rtmp-1.2.0/</link>
-      <pubDate>Fri, 02 Jun 2017 00:20:05 +0200</pubDate>
+      <pubDate>Fri, 16 Jun 2017 00:20:05 +0200</pubDate>
       
       <guid>http://blog.test.ivrpowers.com/post/updates/update-video-rtc-rtmp-1.2.0/</guid>
       <description>Release Note We are pleased to announce that our new Video RTC (Gateway RTMP) v1.2.0 has been released for suitable production services. This new version includes a lot of improvements and new features. All users with previous maintained versions can upgrade today. Please contact our support!
 ChangeLog Version 1.2.0:
 ## [1.2.0] - 2017-01-18 ### Added - GET parameters to customize some variables of the client and agent flashphones { Action: parameter=[possible values] (default) ---------------------------------------------- Enable video: video=[true|false] (false) Video quality: quality=[1.</description>
+    </item>
+    
+    <item>
+      <title>What is RTMP?</title>
+      <link>http://blog.test.ivrpowers.com/post/technologies/what-is-rtmp/</link>
+      <pubDate>Wed, 14 Jun 2017 00:19:54 +0200</pubDate>
+      
+      <guid>http://blog.test.ivrpowers.com/post/technologies/what-is-rtmp/</guid>
+      <description>Real Time Messaging Protocol or RTMP is mainly serving for high speed transmission of audio, video and data between flash player and a server. Initially developed by Macromedia, the protocol is now owned by Adobe, and specifications about it have only partially been released for public use.
+According to those specifications, the RTMP protocol has multiple variations, i.e. the “plain” RTMP protocol, RTMPS which is RTMP over an TLS/SSL connection, RTMPE which is RTMP encrypted using Adobe’s own security mechanism, and RTMPT which is encapsulated within HTTP requests to traverse firewalls.</description>
+    </item>
+    
+    <item>
+      <title>Know our Products: VideoRTC</title>
+      <link>http://blog.test.ivrpowers.com/post/products/video-rtc/</link>
+      <pubDate>Tue, 13 Jun 2017 11:22:18 +0200</pubDate>
+      
+      <guid>http://blog.test.ivrpowers.com/post/products/video-rtc/</guid>
+      <description>The Video Real Time Communications Platform Our Video Gateway connects peers or endpoints between WebRTC, RTMP and SIP technology to create advanced Video services. It works in common hardware or Cloud VM servers configurations, providing a highly scalable base system to meet all customers’ business and technical requirements.
+Cloud Ready. Our Video Gateway solutions are software based and ready to run over Cloud environments and Virtual Servers. You can setup our Video RTC platforms over Amazon EC2 servers or any Private/Public Cloud.</description>
     </item>
     
   </channel>

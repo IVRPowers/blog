@@ -6,7 +6,7 @@
     <description>Recent content in Split on Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 05 Jun 2017 00:20:05 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 21 Jun 2017 00:20:05 +0200</lastBuildDate>
     
 	<atom:link href="http://blog.test.ivrpowers.com/tags/split/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,7 +14,7 @@
     <item>
       <title>What is SPLIT?</title>
       <link>http://blog.test.ivrpowers.com/post/technologies/what-is-split/</link>
-      <pubDate>Mon, 05 Jun 2017 00:20:05 +0200</pubDate>
+      <pubDate>Wed, 21 Jun 2017 00:20:05 +0200</pubDate>
       
       <guid>http://blog.test.ivrpowers.com/post/technologies/what-is-split/</guid>
       <description>All Video Gateways (WebRTC | RTMP) developed by IVRPowers include a special plugin which allows separate the media streams (video - audio - data) for any communication between users and agents. This development is based on SIP and WebRTC | RTMP peers communications for the integration of voice, video and data in Contact Centers.
