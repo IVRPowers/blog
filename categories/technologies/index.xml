@@ -6,42 +6,10 @@
     <description>Recent content in Technologies on Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 21 Jun 2017 00:20:05 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 12 Jun 2017 00:20:05 +0200</lastBuildDate>
     
 	<atom:link href="http://blog.ivrpowers.com/categories/technologies/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>What is SPLIT?</title>
-      <link>http://blog.ivrpowers.com/post/technologies/what-is-split/</link>
-      <pubDate>Wed, 21 Jun 2017 00:20:05 +0200</pubDate>
-      
-      <guid>http://blog.ivrpowers.com/post/technologies/what-is-split/</guid>
-      <description>All Video Gateways (WebRTC | RTMP) developed by IVRPowers include a special plugin which allows separate the media streams (video - audio - data) for any communication between users and agents. This development is based on SIP and WebRTC | RTMP peers communications for the integration of voice, video and data in Contact Centers.
-How does SPLIT work? The Audio-Video SPLIT mode works as following:
-A Videocall is initiated by a customer endpoint comes into Video Gateway (WebRTC | RTMP).</description>
-    </item>
-    
-    <item>
-      <title>What is WebRTC?</title>
-      <link>http://blog.ivrpowers.com/post/technologies/what-is-webrtc/</link>
-      <pubDate>Mon, 19 Jun 2017 00:20:05 +0200</pubDate>
-      
-      <guid>http://blog.ivrpowers.com/post/technologies/what-is-webrtc/</guid>
-      <description>WebRTC (Web Real-Time Communication) is a collection of communications protocols and application programming interfaces that enable real-time communication over peer-to-peer connections. This allows web browsers to not only request resources from backend servers, but also real-time information from browsers of other users.
-This enables applications such as video conferencing, file transfer, chat, or desktop sharing without the need of either internal or external plugins.
-WebRTC is being standardized by the World Wide Web Consortium (W3C) and the Internet Engineering Task Force (IETF).</description>
-    </item>
-    
-    <item>
-      <title>What is RTMP?</title>
-      <link>http://blog.ivrpowers.com/post/technologies/what-is-rtmp/</link>
-      <pubDate>Wed, 14 Jun 2017 00:19:54 +0200</pubDate>
-      
-      <guid>http://blog.ivrpowers.com/post/technologies/what-is-rtmp/</guid>
-      <description>Real Time Messaging Protocol or RTMP is mainly serving for high speed transmission of audio, video and data between flash player and a server. Initially developed by Macromedia, the protocol is now owned by Adobe, and specifications about it have only partially been released for public use.
-According to those specifications, the RTMP protocol has multiple variations, i.e. the “plain” RTMP protocol, RTMPS which is RTMP over an TLS/SSL connection, RTMPE which is RTMP encrypted using Adobe’s own security mechanism, and RTMPT which is encapsulated within HTTP requests to traverse firewalls.</description>
-    </item>
     
     <item>
       <title>What is IVR?</title>

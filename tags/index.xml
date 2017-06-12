@@ -6,69 +6,15 @@
     <description>Recent content in Tags on Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 22 Jun 2017 00:30:56 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 12 Jun 2017 13:25:21 +0200</lastBuildDate>
     
 	<atom:link href="http://blog.ivrpowers.com/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Api</title>
-      <link>http://blog.ivrpowers.com/tags/api/</link>
-      <pubDate>Thu, 22 Jun 2017 00:30:56 +0200</pubDate>
-      
-      <guid>http://blog.ivrpowers.com/tags/api/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Businessstrategy</title>
-      <link>http://blog.ivrpowers.com/tags/businessstrategy/</link>
-      <pubDate>Thu, 22 Jun 2017 10:55:18 +0200</pubDate>
-      
-      <guid>http://blog.ivrpowers.com/tags/businessstrategy/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Cctr</title>
-      <link>http://blog.ivrpowers.com/tags/cctr/</link>
-      <pubDate>Thu, 22 Jun 2017 10:55:18 +0200</pubDate>
-      
-      <guid>http://blog.ivrpowers.com/tags/cctr/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Custexp</title>
-      <link>http://blog.ivrpowers.com/tags/custexp/</link>
-      <pubDate>Tue, 20 Jun 2017 12:46:41 +0200</pubDate>
-      
-      <guid>http://blog.ivrpowers.com/tags/custexp/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Cx</title>
-      <link>http://blog.ivrpowers.com/tags/cx/</link>
-      <pubDate>Thu, 15 Jun 2017 13:49:56 +0200</pubDate>
-      
-      <guid>http://blog.ivrpowers.com/tags/cx/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Healthcare</title>
-      <link>http://blog.ivrpowers.com/tags/healthcare/</link>
-      <pubDate>Wed, 14 Jun 2017 10:55:18 +0200</pubDate>
-      
-      <guid>http://blog.ivrpowers.com/tags/healthcare/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Ivr</title>
       <link>http://blog.ivrpowers.com/tags/ivr/</link>
-      <pubDate>Thu, 22 Jun 2017 12:40:31 +0200</pubDate>
+      <pubDate>Mon, 12 Jun 2017 13:25:21 +0200</pubDate>
       
       <guid>http://blog.ivrpowers.com/tags/ivr/</guid>
       <description></description>
@@ -84,24 +30,6 @@
     </item>
     
     <item>
-      <title>Livechat</title>
-      <link>http://blog.ivrpowers.com/tags/livechat/</link>
-      <pubDate>Tue, 20 Jun 2017 10:51:29 +0200</pubDate>
-      
-      <guid>http://blog.ivrpowers.com/tags/livechat/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Livevideo</title>
-      <link>http://blog.ivrpowers.com/tags/livevideo/</link>
-      <pubDate>Thu, 15 Jun 2017 13:02:36 +0200</pubDate>
-      
-      <guid>http://blog.ivrpowers.com/tags/livevideo/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Marketing</title>
       <link>http://blog.ivrpowers.com/tags/marketing/</link>
       <pubDate>Mon, 12 Jun 2017 20:40:07 +0200</pubDate>
@@ -113,36 +41,9 @@
     <item>
       <title>Rtc</title>
       <link>http://blog.ivrpowers.com/tags/rtc/</link>
-      <pubDate>Fri, 23 Jun 2017 00:20:05 +0200</pubDate>
+      <pubDate>Mon, 12 Jun 2017 00:20:05 +0200</pubDate>
       
       <guid>http://blog.ivrpowers.com/tags/rtc/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Rtmp</title>
-      <link>http://blog.ivrpowers.com/tags/rtmp/</link>
-      <pubDate>Wed, 21 Jun 2017 00:20:05 +0200</pubDate>
-      
-      <guid>http://blog.ivrpowers.com/tags/rtmp/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Sdk</title>
-      <link>http://blog.ivrpowers.com/tags/sdk/</link>
-      <pubDate>Thu, 22 Jun 2017 00:30:56 +0200</pubDate>
-      
-      <guid>http://blog.ivrpowers.com/tags/sdk/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Split</title>
-      <link>http://blog.ivrpowers.com/tags/split/</link>
-      <pubDate>Wed, 21 Jun 2017 00:20:05 +0200</pubDate>
-      
-      <guid>http://blog.ivrpowers.com/tags/split/</guid>
       <description></description>
     </item>
     
@@ -156,36 +57,9 @@
     </item>
     
     <item>
-      <title>Telehealth</title>
-      <link>http://blog.ivrpowers.com/tags/telehealth/</link>
-      <pubDate>Wed, 14 Jun 2017 10:55:18 +0200</pubDate>
-      
-      <guid>http://blog.ivrpowers.com/tags/telehealth/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Videochat</title>
-      <link>http://blog.ivrpowers.com/tags/videochat/</link>
-      <pubDate>Tue, 20 Jun 2017 10:51:29 +0200</pubDate>
-      
-      <guid>http://blog.ivrpowers.com/tags/videochat/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Videortc</title>
-      <link>http://blog.ivrpowers.com/tags/videortc/</link>
-      <pubDate>Thu, 22 Jun 2017 10:55:18 +0200</pubDate>
-      
-      <guid>http://blog.ivrpowers.com/tags/videortc/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Voicexml</title>
       <link>http://blog.ivrpowers.com/tags/voicexml/</link>
-      <pubDate>Thu, 15 Jun 2017 00:20:05 +0200</pubDate>
+      <pubDate>Mon, 12 Jun 2017 13:25:21 +0200</pubDate>
       
       <guid>http://blog.ivrpowers.com/tags/voicexml/</guid>
       <description></description>
@@ -194,7 +68,7 @@
     <item>
       <title>Webrtc</title>
       <link>http://blog.ivrpowers.com/tags/webrtc/</link>
-      <pubDate>Fri, 23 Jun 2017 00:20:05 +0200</pubDate>
+      <pubDate>Mon, 12 Jun 2017 00:20:05 +0200</pubDate>
       
       <guid>http://blog.ivrpowers.com/tags/webrtc/</guid>
       <description></description>
