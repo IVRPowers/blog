@@ -2,7 +2,7 @@
 categories = ["trends"]
 date = "2017-06-13T10:55:18+02:00"
 description = "Customer Engagement"
-draft = false
+draft = true
 tags = ["cctr","businessstrategy", "rtc"]
 title = "Updating the Inbound Phone Channel"
 weight = 90

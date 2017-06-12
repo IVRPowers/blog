@@ -2,7 +2,7 @@
 categories = ["trends"]
 date = "2017-06-22T10:55:18+02:00"
 description = "Customer Engagement"
-draft = false
+draft = true
 tags = ["webrtc","businessstrategy", "marketing", "cctr", "videortc"]
 title = "It's time to add Video to your Contact Center"
 weight = 44

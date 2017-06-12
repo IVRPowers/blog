@@ -2,7 +2,7 @@
 categories = ["technologies"]
 date = "2017-06-21T00:20:05+02:00"
 description = "Technology Word Definition"
-draft = false
+draft = true
 tags = ["webrtc","rtmp", "rtc", "cctr", "split"]
 title = "What is SPLIT?"
 image = "/postimages/technologies/ivrpowers-posts-01.105.jpeg"
