@@ -1,7 +1,7 @@
 +++
 categories = ["general"]
 date = "2017-06-12T09:42:42+02:00"
-description = "The Hugo Blog start up"
+description = "Our Hugo Blog Introduction"
 draft = false
 tags = ["ivrpowers", "startup"]
 title = "Welcome to our New Blog!"
