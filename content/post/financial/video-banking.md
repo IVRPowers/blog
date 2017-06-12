@@ -6,11 +6,11 @@ draft = true
 tags = ["livechat","livevideo", "businessstrategy"]
 title = "Video Banking Revolution is coming"
 weight = 75
-image = "/postimages/posts/financial/ivrpowers-posts-01.101.png"
+image = "/postimages/financial/ivrpowers-posts-01.101.png"
 
 +++
 
-![Customer on live chat](/postimages/posts/financial/ivrpowers-posts-01.101.png)
+![Customer on live chat](/postimages/financial/ivrpowers-posts-01.101.png)
 
 We are increasingly moving on line. And bank customers are not an exception. Financial businesses need to adapt their services to the new life styles and trends. One of the options is live video chat.
 

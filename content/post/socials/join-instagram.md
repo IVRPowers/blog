@@ -6,12 +6,12 @@ draft = true
 tags = ["rtc","ivr", "ivrpowers"]
 title = "Join us on Instagram"
 weight = 45
-image = "/postimages/posts/socials/ivrpowers-posts-01.065.jpeg"
+image = "/postimages/socials/ivrpowers-posts-01.065.jpeg"
 featured =true
 
 +++
 
-![IVRPowers Instagram](/postimages/posts/socials/ivrpowers-intragram.jpg)
+![IVRPowers Instagram](/postimages/socials/ivrpowers-intragram.jpg)
 
 
 You can now follow **[IVRPowers](http://www.ivrpowers.com)** on **[Instagram!](https://www.instagram.com/ivrpowers/)** We want to share our best tech pictures with you. Products, trends, promotions, innovations, conferences, updates... 

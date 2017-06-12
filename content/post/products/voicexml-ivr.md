@@ -7,11 +7,11 @@ tags = ["voicexml", "ivr", "ivrpowers"]
 title = "Know our Products: VoiceXML IVR"
 weight = 96
 featured = false
-image = "/postimages/posts/products/ivrpowers-posts-01.090.jpeg"
+image = "/postimages/products/ivrpowers-posts-01.090.jpeg"
 
 +++
 
-![VoiceXML IVR logo](/postimages/posts/products/ivrpowers-posts-01.007.jpeg)
+![VoiceXML IVR logo](/postimages/products/ivrpowers-posts-01.007.jpeg)
 
 # The Interactive Voice Response Platform
 

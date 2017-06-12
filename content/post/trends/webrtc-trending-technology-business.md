@@ -6,11 +6,11 @@ draft = true
 tags = ["webrtc","businessstrategy", "marketing"]
 title = "WebRTC: a Trending Technology for your Business"
 weight = 50
-image = "/postimages/posts/trends/ivrpowers-posts-01.089.jpeg"
+image = "/postimages/trends/ivrpowers-posts-01.089.jpeg"
 
 +++
 
-![Man holding a phone](/postimages/posts/trends/ivrpowers-posts-01.089.jpeg)
+![Man holding a phone](/postimages/trends/ivrpowers-posts-01.089.jpeg)
 
 Technology is continuously changing our daily tasks. We pay bills, book concert tickets, buy food and even we can control our home from a device. People, especially younger generations, expect technological innovations in their everyday life. It happens so in business and ignoring this reality will lead to loss of potential and therefore of competitiveness.
  

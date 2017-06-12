@@ -6,11 +6,11 @@ draft = true
 tags = ["videochat","livechat", "businessstrategy", "cx", "custexp"]
 title = "Is Video Chat a good Strategy for my Business?"
 weight = 80
-image = "/postimages/posts/marketing/ivrpowers-posts-01.078.jpeg"
+image = "/postimages/marketing/ivrpowers-posts-01.078.jpeg"
 
 +++
 
-![woman on videochat](/postimages/posts/marketing/ivrpowers-posts-01.078.jpeg)
+![woman on videochat](/postimages/marketing/ivrpowers-posts-01.078.jpeg)
 
 More than ever businesses need to pay attention to Customer Experience and provide them with quality support. In addition to phone, email and self-service, Live Communications are an excellent tool to improve customer satisfaction. **Video Chat** makes available an efficient and immediate support. And it is a cost-saving option to companies that provide personalized services.
 

@@ -6,11 +6,11 @@ draft = true
 tags = ["businessstrategy","rtc", "icarvision"]
 title = "Video Online Onboarding"
 weight = 34
-image = "/postimages/posts/financial/ivrpowers-posts-01.103.jpeg"
+image = "/postimages/financial/ivrpowers-posts-01.103.jpeg"
 
 +++
 
-![Laptop and Mobile](/postimages/posts/financial/ivrpowers-posts-01.103.jpeg)
+![Laptop and Mobile](/postimages/financial/ivrpowers-posts-01.103.jpeg)
 
 **Video Online Onboarding** allows anyone to open an account or become customer in just a few minutes and start banking, getting a service or insurance contract right away. This new approach uses an innovative procedure that verifies a customer’s identity through a selfie and a video call. Video Online Onboarding is combining Video ID to verify the authenticity of identity documents with facial recognition and Video RTC to have a video call with an agent to approve the process. Video Online Onboarding is both secure and user friendly for the web and mobile, since users prefer mobile and smartphones with a camera.
 

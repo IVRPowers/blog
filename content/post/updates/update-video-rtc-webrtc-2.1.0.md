@@ -5,7 +5,7 @@ description = "Release Note"
 draft = true
 tags = ["webrtc","rtc", "ivrpowers"]
 title = "Video RTC (WebRTC) v2.1"
-image = "/postimages/posts/updates/ivrpowers-posts-01.088.jpeg"
+image = "/postimages/updates/ivrpowers-posts-01.088.jpeg"
 weight = 64
 featured = true
 +++

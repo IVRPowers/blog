@@ -6,12 +6,12 @@ draft = true
 tags = ["rtc","ivr", "ivrpowers"]
 title = "Follow us on Facebook"
 weight = 55
-image = "/postimages/posts/socials/ivrpowers-posts-01.063.jpeg"
+image = "/postimages/socials/ivrpowers-posts-01.063.jpeg"
 featured = true
 
 +++
 
-![IVRPowers Facebook page](/postimages/posts/socials/ivrpowers-facebook.jpg)
+![IVRPowers Facebook page](/postimages/socials/ivrpowers-facebook.jpg)
 
 
 Do not forget to follow us on **[Facebook](https://www.facebook.com/ivrpowers/).** You can contact us and stay updated on all that’s going on at **[IVRPowers](http://www.ivrpowers.com)** and on the latest news about RTC or IVR. 

@@ -7,11 +7,11 @@ tags = ["videortc","rtc","webrtc","rtmp", "ivrpowers"]
 title = "Know our Products: VideoRTC"
 weight = 92
 featured = false
-image = "/postimages/posts/products/ivrpowers-posts-01.091.jpeg"
+image = "/postimages/products/ivrpowers-posts-01.091.jpeg"
 
 +++
 
-![VideoRTC logo](/postimages/posts/products/ivrpowers-posts-01.009.jpeg)
+![VideoRTC logo](/postimages/products/ivrpowers-posts-01.009.jpeg)
 
 # The Video Real Time Communications Platform
 

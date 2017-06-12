@@ -6,7 +6,7 @@ draft = true
 tags = ["marketing","businessstrategy", "custexp", "livechat"]
 title = "Amazon's Mayday Button. The Road to the Future"
 weight = 74
-image = "/postimages/posts/support/ivrpowers-posts-01.105.png"
+image = "/postimages/support/ivrpowers-posts-01.105.png"
 
 +++
 

@@ -5,12 +5,12 @@ description = "Our High Tech Startup"
 draft = false
 tags = ["marketing","ivrpowers", "startup"]
 title = "About Interactive Powers"
-image = "/postimages/posts/general/ivrpowers-posts-01.003.jpeg"
+image = "/postimages/general/ivrpowers-posts-01.003.jpeg"
 weight = 5
 
 +++
 
-![Interactive Powers](/postimages/posts/general/ivrpowers-posts-01.003.jpeg)
+![Interactive Powers](/postimages/general/ivrpowers-posts-01.003.jpeg)
 
 **Interactive Powers** develops technology that helps your organization connect, communicate and engage with you customers, employees and stakeholders. Contact with us to find out more about how we can help you achieve your business communication goals. 
 
