@@ -24,7 +24,7 @@ Our Video Gateway solutions are software based and ready to run over Cloud envir
 Our Video Gateway is specifically designed to connect efficiently existing Call Centers with our advanced SPLIT module running over SIP and adding live Video RTC to your business calls interactions.
 
 ## Web Browsers.
-ur Video Gateway runs over all existing Web Browsers with native WebRTC inside functions and javascript. To connect others Web Browsers, we can add a special plugin and/or a Flash Player for RTMP.
+Our Video Gateway runs over all existing Web Browsers with native WebRTC inside functions and javascript. To connect others Web Browsers, we can add a special plugin and/or a Flash Player for RTMP.
 
 ## Android & iOS.
 Our Video Gateway connects endpoints based in a native/hybrid Android or iOS app that you can create and customize according to your own requirements. Our SDK works with standard mobile development tools.

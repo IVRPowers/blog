@@ -15,9 +15,9 @@ image = "/postimages/products/ivrpowers-posts-01.090.jpeg"
 
 # The Interactive Voice Response Platform
 
-Our IVR software platform gives operators and solution providers the ability to rapidly develop and deploy innovative voice applications from VoIP to PSTN networks.
+Our [VoiceXML IVR](http://www.ivrpowers.com/voicexml/) software platform gives operators and solution providers the ability to rapidly develop and deploy innovative voice applications from VoIP to PSTN networks.
 
-This powerful IVR solution is fully compliant with the W3C’s VoiceXML 2.1 specification and is integrated with automatic speech recognition (ASR) and text-to-speech (TTS) software to enable advanced interactive services, and real-time calling applications.
+This powerful [IVR](http://blog.ivrpowers.com/post/technologies/what-is-ivr/) solution is fully compliant with the W3C’s [VoiceXML](http://blog.ivrpowers.com/post/technologies/what-is-voicexml/) 2.1 specification and is integrated with automatic speech recognition (ASR) and text-to-speech (TTS) software to enable advanced interactive services, and real-time calling applications.
 
 It can be installed in common hardware or Cloud VM servers configurations, providing a highly scalable base system to meet all customers’ business and technical requirements.
 

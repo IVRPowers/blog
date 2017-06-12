@@ -12,7 +12,7 @@ image = "/postimages/products/ivrpowers-posts-01.034.jpeg"
 
 ![VideoRTC picture](/postimages/products/ivrpowers-posts-01.034.jpeg)
 
-**Video Gateway (WebRTC)** includes many features or special extensions that you can activate according to your own business processes. All of this, is part of the capabilities of our Video RTC solution suite.
+**Video Gateway (WebRTC)** includes many features or special extensions that you can activate according to your own business processes. All of this, is part of the capabilities of our [Video RTC](http://videortc.ivrpowers.com) solution suite.
 
 Video RTC special extensions are:
 	
