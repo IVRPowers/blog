@@ -1,4 +1,4 @@
-baseURL = "http://blog.test.ivrpowers.com/"
+baseURL = "http://blog.ivrpowers.com/"
 languageCode = "en-us"
 title = "Blog"
 publishDir = "public"
