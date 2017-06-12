@@ -2,7 +2,7 @@
 categories = ["financial"]
 date = "2017-06-23T13:13:32+02:00"
 description = "The Next Revolution for Banking & Services"
-draft = false
+draft = true
 tags = ["businessstrategy","rtc", "icarvision"]
 title = "Video Online Onboarding"
 weight = 34
