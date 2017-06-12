@@ -5,7 +5,7 @@ description = "Technology Word Definition"
 draft = true
 tags = ["webrtc","rtmp", "rtc", "cctr", "split"]
 title = "What is SPLIT?"
-image = "/postimages/technologies/ivrpowers-posts-01.105.jpeg"
+image = "/postimages/posts/technologies/ivrpowers-posts-01.105.jpeg"
 weight = 49
 +++
 

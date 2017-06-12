@@ -5,7 +5,7 @@ description = "Technology Word Definition"
 draft = false
 tags = ["webrtc","rtc"]
 title = "What is RTC?"
-image = "/postimages/technologies/ivrpowers-posts-01.044.jpeg"
+image = "/postimages/posts/technologies/ivrpowers-posts-01.044.jpeg"
 weight = 94
 +++
 
