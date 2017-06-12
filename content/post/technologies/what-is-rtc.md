@@ -9,7 +9,7 @@ image = "/postimages/technologies/ivrpowers-posts-01.044.jpeg"
 weight = 94
 +++
 
-![Lorem Ipsum](/postimages/technologies/ivrpowers-posts-01.010.jpeg)
+![Lorem Ipsum](/postimages/technologies/ivrpowers-posts-01.044.jpeg)
 
 A clear definition of **Real-time communications (RTC)** is important to understand what will be the newest evolution of Internet applications and services for businesses and individuals. All is moving around to more real-time, more video, better sound quality, better screen resolution, easier human-interfaces… RTC technology helps to share together most of our senses thru digital networks at light’s speed:
 
