@@ -2,40 +2,40 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Videortc on Blog</title>
-    <link>http://blog.test.ivrpowers.com/tags/videortc/</link>
+    <link>http://blog.ivrpowers.com/tags/videortc/</link>
     <description>Recent content in Videortc on Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 22 Jun 2017 10:55:18 +0200</lastBuildDate>
     
-	<atom:link href="http://blog.test.ivrpowers.com/tags/videortc/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://blog.ivrpowers.com/tags/videortc/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>It&#39;s time to add Video to your Contact Center</title>
-      <link>http://blog.test.ivrpowers.com/post/trends/its-time-to-switchon-video-cctr/</link>
+      <link>http://blog.ivrpowers.com/post/trends/its-time-to-switchon-video-cctr/</link>
       <pubDate>Thu, 22 Jun 2017 10:55:18 +0200</pubDate>
       
-      <guid>http://blog.test.ivrpowers.com/post/trends/its-time-to-switchon-video-cctr/</guid>
+      <guid>http://blog.ivrpowers.com/post/trends/its-time-to-switchon-video-cctr/</guid>
       <description>Beyond improving quality of service QoS and call productivity, any Contact Center has to be ready for the next Internet evolution challenges. For any online business or ecommerce website, the most efficient way to contact a sale representative or get human support is a real-time interaction with your agents but without leaving the web session, so you have to add a one-click button located near to the product or service or information they are selecting.</description>
     </item>
     
     <item>
       <title>Know our Products: VideoRTC</title>
-      <link>http://blog.test.ivrpowers.com/post/products/video-rtc/</link>
+      <link>http://blog.ivrpowers.com/post/products/video-rtc/</link>
       <pubDate>Tue, 13 Jun 2017 11:22:18 +0200</pubDate>
       
-      <guid>http://blog.test.ivrpowers.com/post/products/video-rtc/</guid>
+      <guid>http://blog.ivrpowers.com/post/products/video-rtc/</guid>
       <description>The Video Real Time Communications Platform Our Video Gateway connects peers or endpoints between WebRTC, RTMP and SIP technology to create advanced Video services. It works in common hardware or Cloud VM servers configurations, providing a highly scalable base system to meet all customers’ business and technical requirements.
 Cloud Ready. Our Video Gateway solutions are software based and ready to run over Cloud environments and Virtual Servers. You can setup our Video RTC platforms over Amazon EC2 servers or any Private/Public Cloud.</description>
     </item>
     
     <item>
       <title>Video RTC: Special Extensions</title>
-      <link>http://blog.test.ivrpowers.com/post/products/video-rtc-special-extensions/</link>
+      <link>http://blog.ivrpowers.com/post/products/video-rtc-special-extensions/</link>
       <pubDate>Tue, 13 Jun 2017 11:22:18 +0200</pubDate>
       
-      <guid>http://blog.test.ivrpowers.com/post/products/video-rtc-special-extensions/</guid>
+      <guid>http://blog.ivrpowers.com/post/products/video-rtc-special-extensions/</guid>
       <description>Video Gateway (WebRTC) includes many features or special extensions that you can activate according to your own business processes. All of this, is part of the capabilities of our Video RTC solution suite.
 Video RTC special extensions are:
 Live Chat. Video Gateway supports Live Chat feature thru a DataChannel. You can customize all the User or Agent front-end in Flash or HTML5 according the gateway mode you have deployed for your service.</description>

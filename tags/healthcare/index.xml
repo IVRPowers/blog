@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Healthcare on Blog</title>
-    <link>http://blog.test.ivrpowers.com/tags/healthcare/</link>
+    <link>http://blog.ivrpowers.com/tags/healthcare/</link>
     <description>Recent content in Healthcare on Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 14 Jun 2017 10:55:18 +0200</lastBuildDate>
     
-	<atom:link href="http://blog.test.ivrpowers.com/tags/healthcare/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://blog.ivrpowers.com/tags/healthcare/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>4 Key factors to select a Telehealth Solution</title>
-      <link>http://blog.test.ivrpowers.com/post/healthcare/4-factors-select-telehealth-solution/</link>
+      <link>http://blog.ivrpowers.com/post/healthcare/4-factors-select-telehealth-solution/</link>
       <pubDate>Wed, 14 Jun 2017 10:55:18 +0200</pubDate>
       
-      <guid>http://blog.test.ivrpowers.com/post/healthcare/4-factors-select-telehealth-solution/</guid>
+      <guid>http://blog.ivrpowers.com/post/healthcare/4-factors-select-telehealth-solution/</guid>
       <description>Implementing telehealth can help physicians reach people in remote or rural areas who may not be able to travel to a particular facility or specialist as well as those in more densely populated urban areas who find inner-city mass transit insufficient for their needs. As a result, more organizations are turning to telehealth as a viable alternative to routine in-office physician visits.
 To implement properly the kind of telehealth solution that both clinicians and patients will trust and use takes a lot of up-front planning, you should consider these four key considerations before putting telehealth into practice:</description>
     </item>

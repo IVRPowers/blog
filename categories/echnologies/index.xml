@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Echnologies on Blog</title>
-    <link>http://blog.test.ivrpowers.com/categories/echnologies/</link>
+    <link>http://blog.ivrpowers.com/categories/echnologies/</link>
     <description>Recent content in Echnologies on Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 12 Jun 2017 00:20:05 +0200</lastBuildDate>
     
-	<atom:link href="http://blog.test.ivrpowers.com/categories/echnologies/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://blog.ivrpowers.com/categories/echnologies/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>What is RTC?</title>
-      <link>http://blog.test.ivrpowers.com/post/technologies/what-is-rtc/</link>
+      <link>http://blog.ivrpowers.com/post/technologies/what-is-rtc/</link>
       <pubDate>Mon, 12 Jun 2017 00:20:05 +0200</pubDate>
       
-      <guid>http://blog.test.ivrpowers.com/post/technologies/what-is-rtc/</guid>
+      <guid>http://blog.ivrpowers.com/post/technologies/what-is-rtc/</guid>
       <description>A clear definition of Real-time communications (RTC) is important to understand what will be the newest evolution of Internet applications and services for businesses and individuals. All is moving around to more real-time, more video, better sound quality, better screen resolution, easier human-interfaces… RTC technology helps to share together most of our senses thru digital networks at light’s speed:
 RTC is any mode of telecommunications in which all users can exchange information instantly or with negligible latency.</description>
     </item>
