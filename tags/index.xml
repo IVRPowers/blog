@@ -6,10 +6,28 @@
     <description>Recent content in Tags on Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 12 Jun 2017 13:25:21 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 13 Jun 2017 10:55:18 +0200</lastBuildDate>
     
 	<atom:link href="http://blog.ivrpowers.com/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Businessstrategy</title>
+      <link>http://blog.ivrpowers.com/tags/businessstrategy/</link>
+      <pubDate>Tue, 13 Jun 2017 10:55:18 +0200</pubDate>
+      
+      <guid>http://blog.ivrpowers.com/tags/businessstrategy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cctr</title>
+      <link>http://blog.ivrpowers.com/tags/cctr/</link>
+      <pubDate>Tue, 13 Jun 2017 10:55:18 +0200</pubDate>
+      
+      <guid>http://blog.ivrpowers.com/tags/cctr/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Ivr</title>
@@ -41,9 +59,18 @@
     <item>
       <title>Rtc</title>
       <link>http://blog.ivrpowers.com/tags/rtc/</link>
-      <pubDate>Mon, 12 Jun 2017 00:20:05 +0200</pubDate>
+      <pubDate>Tue, 13 Jun 2017 11:22:18 +0200</pubDate>
       
       <guid>http://blog.ivrpowers.com/tags/rtc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rtmp</title>
+      <link>http://blog.ivrpowers.com/tags/rtmp/</link>
+      <pubDate>Tue, 13 Jun 2017 11:22:18 +0200</pubDate>
+      
+      <guid>http://blog.ivrpowers.com/tags/rtmp/</guid>
       <description></description>
     </item>
     
@@ -53,6 +80,15 @@
       <pubDate>Mon, 12 Jun 2017 09:42:42 +0200</pubDate>
       
       <guid>http://blog.ivrpowers.com/tags/startup/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Videortc</title>
+      <link>http://blog.ivrpowers.com/tags/videortc/</link>
+      <pubDate>Tue, 13 Jun 2017 11:22:18 +0200</pubDate>
+      
+      <guid>http://blog.ivrpowers.com/tags/videortc/</guid>
       <description></description>
     </item>
     
@@ -68,7 +104,7 @@
     <item>
       <title>Webrtc</title>
       <link>http://blog.ivrpowers.com/tags/webrtc/</link>
-      <pubDate>Mon, 12 Jun 2017 00:20:05 +0200</pubDate>
+      <pubDate>Tue, 13 Jun 2017 11:22:18 +0200</pubDate>
       
       <guid>http://blog.ivrpowers.com/tags/webrtc/</guid>
       <description></description>

@@ -6,10 +6,31 @@
     <description>Recent content in Webrtc on Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 12 Jun 2017 00:20:05 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 13 Jun 2017 11:22:18 +0200</lastBuildDate>
     
 	<atom:link href="http://blog.ivrpowers.com/tags/webrtc/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Know our Products: VideoRTC</title>
+      <link>http://blog.ivrpowers.com/post/products/video-rtc/</link>
+      <pubDate>Tue, 13 Jun 2017 11:22:18 +0200</pubDate>
+      
+      <guid>http://blog.ivrpowers.com/post/products/video-rtc/</guid>
+      <description>The Video Real Time Communications Platform Our Video Gateway connects peers or endpoints between WebRTC, RTMP and SIP technology to create advanced Video services. It works in common hardware or Cloud VM servers configurations, providing a highly scalable base system to meet all customers’ business and technical requirements.
+Cloud Ready. Our Video Gateway solutions are software based and ready to run over Cloud environments and Virtual Servers. You can setup our Video RTC platforms over Amazon EC2 servers or any Private/Public Cloud.</description>
+    </item>
+    
+    <item>
+      <title>Video RTC: Special Extensions</title>
+      <link>http://blog.ivrpowers.com/post/products/video-rtc-special-extensions/</link>
+      <pubDate>Tue, 13 Jun 2017 11:22:18 +0200</pubDate>
+      
+      <guid>http://blog.ivrpowers.com/post/products/video-rtc-special-extensions/</guid>
+      <description>Video Gateway (WebRTC) includes many features or special extensions that you can activate according to your own business processes. All of this, is part of the capabilities of our Video RTC solution suite.
+Video RTC special extensions are:
+Live Chat. Video Gateway supports Live Chat feature thru a DataChannel. You can customize all the User or Agent front-end in Flash or HTML5 according the gateway mode you have deployed for your service.</description>
+    </item>
     
     <item>
       <title>What is RTC?</title>

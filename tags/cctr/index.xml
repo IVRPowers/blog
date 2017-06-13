@@ -6,30 +6,10 @@
     <description>Recent content in Cctr on Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 22 Jun 2017 10:55:18 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 13 Jun 2017 10:55:18 +0200</lastBuildDate>
     
 	<atom:link href="http://blog.ivrpowers.com/tags/cctr/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>It&#39;s time to add Video to your Contact Center</title>
-      <link>http://blog.ivrpowers.com/post/trends/its-time-to-switchon-video-cctr/</link>
-      <pubDate>Thu, 22 Jun 2017 10:55:18 +0200</pubDate>
-      
-      <guid>http://blog.ivrpowers.com/post/trends/its-time-to-switchon-video-cctr/</guid>
-      <description>Beyond improving quality of service QoS and call productivity, any Contact Center has to be ready for the next Internet evolution challenges. For any online business or ecommerce website, the most efficient way to contact a sale representative or get human support is a real-time interaction with your agents but without leaving the web session, so you have to add a one-click button located near to the product or service or information they are selecting.</description>
-    </item>
-    
-    <item>
-      <title>What is SPLIT?</title>
-      <link>http://blog.ivrpowers.com/post/technologies/what-is-split/</link>
-      <pubDate>Wed, 21 Jun 2017 00:20:05 +0200</pubDate>
-      
-      <guid>http://blog.ivrpowers.com/post/technologies/what-is-split/</guid>
-      <description>All Video Gateways (WebRTC | RTMP) developed by IVRPowers include a special plugin which allows separate the media streams (video - audio - data) for any communication between users and agents. This development is based on SIP and WebRTC | RTMP peers communications for the integration of voice, video and data in Contact Centers.
-How does SPLIT work? The Audio-Video SPLIT mode works as following:
-A Videocall is initiated by a customer endpoint comes into Video Gateway (WebRTC | RTMP).</description>
-    </item>
     
     <item>
       <title>Updating the Inbound Phone Channel</title>
