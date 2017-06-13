@@ -9,7 +9,13 @@ echo -e "\033[0;32mDeploying updates to GitHub...\033[0m"
 
 # We try to download the latest changes made by our workmates
 cd public
-git rebase
+git reset --hard --quiet 
+git clean -f
+git fetch origin gh-pages
+git rebase origin/gh-pages
+if [ $# -ne 0 ]; then
+	echo "An error has ocurred. Aborting the process..."
+fi 
 cd -
 
 # Build the project.
