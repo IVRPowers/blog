@@ -18,6 +18,6 @@ Today, buyers, sellers, prospects and partners expect a bidirectional exchange o
  
 Due to these transformations, the marketing technology landscape has exploded in the last years. Investors are also demonstrating confidence in it and willingness to take part in projects. For instance, [in 2016, over $ 2.7 billion went to WebRTC companies](https://www.blaccspot.com/blog/news/over-2-7-billion-in-funding-to-webrtc-companies-in-2016/ ).
 
-Initially, it was only IT and computing enterprises who talk about the value of WebRTC. Nowadays, companies in the most diverse sectors – like healthcare industries, educational institutions, e-commerce, financial services, insurance companies, entertainment business – are realizing they need to incorporate new technology into their business strategies. Real-time communication solutions are key services for companies to stay relevant and competitive.
+Initially, it was only IT and computing enterprises who talk about the value of WebRTC. Nowadays, companies in the most diverse sectors – like healthcare industries, educational institutions, e-commerce, financial services, insurance companies, entertainment business – are realizing they need to incorporate new technology into their business strategies. Real-time communication solutions are a key factor for companies to stay relevant and competitive.
 
-If you want to know more about trending technologies for your business, we can advice you in [IVRPowers](http://www.ivrpowers.com/).
+If you want to know more about [RTC](http://blog.ivrpowers.com/post/technologies/what-is-rtc/) trending technologies for your business, you can visit our website at: [IVRPowers](http://www.ivrpowers.com/).

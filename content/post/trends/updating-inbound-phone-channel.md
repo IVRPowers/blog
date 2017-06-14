@@ -27,5 +27,7 @@ That's a lot of reasons to make any inbound phone service fail?
 
 Obviously, Call Centers have to think more about receiving direct calls from any webpage with or without video. The next evolution is to become a Multimedia (or Video) Contact Center providing on demand face-to-face interaction or receiving any kind of voice calls or video calls and with agent's presence status. We have two good news: first, it won't require specific "rocket science" technology and second, it's not for next century...
 
-It's ready for now!
+**It's ready for now!**
+
+Discover more about it at: [www.ivrpowers.com](http://www.ivrpowers.com)
 
