@@ -6,10 +6,30 @@
     <description>Recent content in Rtc on Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 13 Jun 2017 11:22:18 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 14 Jun 2017 00:19:54 +0200</lastBuildDate>
     
 	<atom:link href="http://blog.ivrpowers.com/tags/rtc/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>What is RTMP?</title>
+      <link>http://blog.ivrpowers.com/post/technologies/what-is-rtmp/</link>
+      <pubDate>Wed, 14 Jun 2017 00:19:54 +0200</pubDate>
+      
+      <guid>http://blog.ivrpowers.com/post/technologies/what-is-rtmp/</guid>
+      <description>Real Time Messaging Protocol or RTMP is mainly serving for high speed transmission of audio, video and data between flash player and a server. Initially developed by Macromedia, the protocol is now owned by Adobe, and specifications about it have only partially been released for public use.
+According to those specifications, the RTMP protocol has multiple variations, i.e. the “plain” RTMP protocol, RTMPS which is RTMP over an TLS/SSL connection, RTMPE which is RTMP encrypted using Adobe’s own security mechanism, and RTMPT which is encapsulated within HTTP requests to traverse firewalls.</description>
+    </item>
+    
+    <item>
+      <title>4 Key factors to select a Telehealth Solution</title>
+      <link>http://blog.ivrpowers.com/post/healthcare/4-factors-select-telehealth-solution/</link>
+      <pubDate>Wed, 14 Jun 2017 10:55:18 +0200</pubDate>
+      
+      <guid>http://blog.ivrpowers.com/post/healthcare/4-factors-select-telehealth-solution/</guid>
+      <description>Implementing telehealth can help physicians reach people in remote or rural areas who may not be able to travel to a particular facility or specialist as well as those in more densely populated urban areas who find inner-city mass transit insufficient for their needs. As a result, more organizations are turning to telehealth as a viable alternative to routine in-office physician visits.
+To implement properly the kind of telehealth solution that both clinicians and patients will trust and use takes a lot of up-front planning, you should consider these four key considerations before putting telehealth into practice:</description>
+    </item>
     
     <item>
       <title>Video RTC: Special Extensions</title>

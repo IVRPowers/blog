@@ -6,10 +6,20 @@
     <description>Recent content in Webrtc on Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 13 Jun 2017 11:22:18 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 14 Jun 2017 13:32:54 +0200</lastBuildDate>
     
 	<atom:link href="http://blog.ivrpowers.com/tags/webrtc/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>The increasing Business of Real-Time Communications</title>
+      <link>http://blog.ivrpowers.com/post/trends/increasing-business-rtc/</link>
+      <pubDate>Wed, 14 Jun 2017 13:32:54 +0200</pubDate>
+      
+      <guid>http://blog.ivrpowers.com/post/trends/increasing-business-rtc/</guid>
+      <description>Demands for Real-Time Communications (RTC) solutions are growing. In an increasingly connected world, customers access to information through multiple channels and expect personalized and always available services. According to Pew Research Center, 1 in 5 adults in US. report that are always almost on line and, overall, 73% of US citizens go online on a daily basis.
+Today, buyers, sellers, prospects and partners expect a bidirectional exchange of information. To best position their companies and to meet necessities of digital customers, marketing departments face a range of challenges, including the extensive use of technologies for managing customer relationships.</description>
+    </item>
     
     <item>
       <title>Know our Products: VideoRTC</title>

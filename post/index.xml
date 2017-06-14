@@ -32,6 +32,36 @@ Interactive Powers delivers communication platforms that enables advanced real-t
     </item>
     
     <item>
+      <title>What is RTMP?</title>
+      <link>http://blog.ivrpowers.com/post/technologies/what-is-rtmp/</link>
+      <pubDate>Wed, 14 Jun 2017 00:19:54 +0200</pubDate>
+      
+      <guid>http://blog.ivrpowers.com/post/technologies/what-is-rtmp/</guid>
+      <description>Real Time Messaging Protocol or RTMP is mainly serving for high speed transmission of audio, video and data between flash player and a server. Initially developed by Macromedia, the protocol is now owned by Adobe, and specifications about it have only partially been released for public use.
+According to those specifications, the RTMP protocol has multiple variations, i.e. the “plain” RTMP protocol, RTMPS which is RTMP over an TLS/SSL connection, RTMPE which is RTMP encrypted using Adobe’s own security mechanism, and RTMPT which is encapsulated within HTTP requests to traverse firewalls.</description>
+    </item>
+    
+    <item>
+      <title>4 Key factors to select a Telehealth Solution</title>
+      <link>http://blog.ivrpowers.com/post/healthcare/4-factors-select-telehealth-solution/</link>
+      <pubDate>Wed, 14 Jun 2017 10:55:18 +0200</pubDate>
+      
+      <guid>http://blog.ivrpowers.com/post/healthcare/4-factors-select-telehealth-solution/</guid>
+      <description>Implementing telehealth can help physicians reach people in remote or rural areas who may not be able to travel to a particular facility or specialist as well as those in more densely populated urban areas who find inner-city mass transit insufficient for their needs. As a result, more organizations are turning to telehealth as a viable alternative to routine in-office physician visits.
+To implement properly the kind of telehealth solution that both clinicians and patients will trust and use takes a lot of up-front planning, you should consider these four key considerations before putting telehealth into practice:</description>
+    </item>
+    
+    <item>
+      <title>The increasing Business of Real-Time Communications</title>
+      <link>http://blog.ivrpowers.com/post/trends/increasing-business-rtc/</link>
+      <pubDate>Wed, 14 Jun 2017 13:32:54 +0200</pubDate>
+      
+      <guid>http://blog.ivrpowers.com/post/trends/increasing-business-rtc/</guid>
+      <description>Demands for Real-Time Communications (RTC) solutions are growing. In an increasingly connected world, customers access to information through multiple channels and expect personalized and always available services. According to Pew Research Center, 1 in 5 adults in US. report that are always almost on line and, overall, 73% of US citizens go online on a daily basis.
+Today, buyers, sellers, prospects and partners expect a bidirectional exchange of information. To best position their companies and to meet necessities of digital customers, marketing departments face a range of challenges, including the extensive use of technologies for managing customer relationships.</description>
+    </item>
+    
+    <item>
       <title>Video RTC: Special Extensions</title>
       <link>http://blog.ivrpowers.com/post/products/video-rtc-special-extensions/</link>
       <pubDate>Tue, 13 Jun 2017 11:22:18 +0200</pubDate>
