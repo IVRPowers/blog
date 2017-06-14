@@ -2,7 +2,7 @@
 categories = ["technologies"]
 date = "2017-06-14T00:19:54+02:00"
 description = "Technology Word Definition"
-draft = true
+draft = false
 tags = ["rtmp","rtc"]
 title = "What is RTMP?"
 image = "/postimages/technologies/ivrpowers-posts-01.070.jpeg"

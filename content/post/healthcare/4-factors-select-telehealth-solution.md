@@ -2,7 +2,7 @@
 categories = ["healthcare","industries"]
 date = "2017-06-14T10:55:18+02:00"
 description = "Healthcare Industry"
-draft = true
+draft = false
 tags = ["telehealth","healthcare", "rtc"]
 title = "4 Key factors to select a Telehealth Solution"
 weight = 84
