@@ -6,9 +6,11 @@ draft = true
 tags = ["ivrpowers","webrtc", "videochat"]
 title = "The Value of Video Communication"
 weight = 34
-image = "/postimages/general/ivrpowers-posts-01.108.jpeg"
+image = "/postimages/general/ivrpowers-posts-01.110.jpeg"
 
 +++
+
+![Iván Sixto during conference](/postimages/general/ivrpowers-posts-01.108.jpeg)
 
 
 IVRPowers founder, Iván Sixto, gave a conference about trends on communication in VoIP2Day meeting.
