@@ -6,10 +6,21 @@
     <description>Recent content in Voicexml on Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 12 Jun 2017 13:25:21 +0200</lastBuildDate>
+    <lastBuildDate>Thu, 15 Jun 2017 00:20:05 +0200</lastBuildDate>
     
 	<atom:link href="http://blog.ivrpowers.com/tags/voicexml/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>VoiceXML IVR v1.3</title>
+      <link>http://blog.ivrpowers.com/post/updates/update-voicexml-ivr-13.1/</link>
+      <pubDate>Thu, 15 Jun 2017 00:20:05 +0200</pubDate>
+      
+      <guid>http://blog.ivrpowers.com/post/updates/update-voicexml-ivr-13.1/</guid>
+      <description>Release Note We are pleased to announce that our new VoiceXML IVR 1.3 has been released for suitable production services. This new version includes a lot of improvements and new features. All users with previous maintained versions can upgrade today. Please contact our support!
+ChangeLog Version 1.3:
+## [1.3] - 2016-06 ### Added - Initialization of the freepbx_security.log during the fail2ban installation if not exists - Added pagination for CDR results - Added Presence extras source files - Added the extras module installation to the installation process - Added the extras module update to the update process ### Changed - Fixed posible exploit in the vxml editor directory browser - Fixed a typo in the web uninstallation steps - Updated Openvxi V12.</description>
+    </item>
     
     <item>
       <title>Know our Products: VoiceXML IVR</title>

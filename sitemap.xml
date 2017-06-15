@@ -13,6 +13,21 @@
   </url>
   
   <url>
+    <loc>http://blog.ivrpowers.com/post/financial/video-banking/</loc>
+    <lastmod>2017-06-15T13:02:36+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://blog.ivrpowers.com/post/updates/update-voicexml-ivr-13.1/</loc>
+    <lastmod>2017-06-15T00:20:05+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://blog.ivrpowers.com/post/marketing/video-chat-good-strategy-business/</loc>
+    <lastmod>2017-06-15T13:49:56+02:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://blog.ivrpowers.com/post/technologies/what-is-rtmp/</loc>
     <lastmod>2017-06-14T00:19:54+02:00</lastmod>
   </url>
@@ -70,7 +85,7 @@
   
   <url>
     <loc>http://blog.ivrpowers.com/tags/businessstrategy/</loc>
-    <lastmod>2017-06-14T13:32:54+02:00</lastmod>
+    <lastmod>2017-06-15T13:02:36+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -86,8 +101,26 @@
   </url>
   
   <url>
+    <loc>http://blog.ivrpowers.com/tags/custexp/</loc>
+    <lastmod>2017-06-15T13:49:56+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://blog.ivrpowers.com/tags/cx/</loc>
+    <lastmod>2017-06-15T13:49:56+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://blog.ivrpowers.com/categories/echnologies/</loc>
     <lastmod>2017-06-12T00:20:05+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://blog.ivrpowers.com/categories/financial/</loc>
+    <lastmod>2017-06-15T13:02:36+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -117,7 +150,7 @@
   
   <url>
     <loc>http://blog.ivrpowers.com/tags/ivr/</loc>
-    <lastmod>2017-06-12T13:25:21+02:00</lastmod>
+    <lastmod>2017-06-15T00:20:05+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -128,8 +161,26 @@
   </url>
   
   <url>
+    <loc>http://blog.ivrpowers.com/tags/livechat/</loc>
+    <lastmod>2017-06-15T13:02:36+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://blog.ivrpowers.com/tags/livevideo/</loc>
+    <lastmod>2017-06-15T13:02:36+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://blog.ivrpowers.com/tags/marketing/</loc>
     <lastmod>2017-06-12T20:40:07+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://blog.ivrpowers.com/categories/marketing/</loc>
+    <lastmod>2017-06-15T13:49:56+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -165,7 +216,7 @@
   
   <url>
     <loc>http://blog.ivrpowers.com/tags/</loc>
-    <lastmod>2017-06-14T13:32:54+02:00</lastmod>
+    <lastmod>2017-06-15T13:02:36+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -188,6 +239,18 @@
   </url>
   
   <url>
+    <loc>http://blog.ivrpowers.com/categories/updates/</loc>
+    <lastmod>2017-06-15T00:20:05+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://blog.ivrpowers.com/tags/videochat/</loc>
+    <lastmod>2017-06-15T13:49:56+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://blog.ivrpowers.com/tags/videortc/</loc>
     <lastmod>2017-06-13T11:22:18+02:00</lastmod>
     <priority>0</priority>
@@ -195,7 +258,7 @@
   
   <url>
     <loc>http://blog.ivrpowers.com/tags/voicexml/</loc>
-    <lastmod>2017-06-12T13:25:21+02:00</lastmod>
+    <lastmod>2017-06-15T00:20:05+02:00</lastmod>
     <priority>0</priority>
   </url>
   
