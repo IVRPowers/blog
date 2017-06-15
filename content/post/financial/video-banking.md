@@ -2,7 +2,7 @@
 categories = ["financial"]
 date = "2017-06-15T13:02:36+02:00"
 description = "Video Real-Time Communications"
-draft = true
+draft = false
 tags = ["livechat","livevideo", "businessstrategy"]
 title = "Video Banking Revolution is coming"
 weight = 75
