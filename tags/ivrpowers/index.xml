@@ -32,6 +32,27 @@ Interactive Powers delivers communication platforms that enables advanced real-t
     </item>
     
     <item>
+      <title>Follow us on Twitter</title>
+      <link>http://blog.ivrpowers.com/post/socials/followus-twitter/</link>
+      <pubDate>Fri, 16 Jun 2017 00:20:05 +0200</pubDate>
+      
+      <guid>http://blog.ivrpowers.com/post/socials/followus-twitter/</guid>
+      <description>Be sure to follow us on Twitter with great brand updates, promotions and news about all things RTC or IVR. Our hand is @ivrpowers and our favorite hashtags right now are #RTC and #IVR. Give us a shout out!
+https://twitter.com/ivrpowers</description>
+    </item>
+    
+    <item>
+      <title>Video RTC (RTMP) v1.2</title>
+      <link>http://blog.ivrpowers.com/post/updates/update-video-rtc-rtmp-1.2.0/</link>
+      <pubDate>Fri, 16 Jun 2017 00:20:05 +0200</pubDate>
+      
+      <guid>http://blog.ivrpowers.com/post/updates/update-video-rtc-rtmp-1.2.0/</guid>
+      <description>Release Note We are pleased to announce that our new Video RTC (Gateway RTMP) v1.2.0 has been released for suitable production services. This new version includes a lot of improvements and new features. All users with previous maintained versions can upgrade today. Please contact our support!
+ChangeLog Version 1.2.0:
+## [1.2.0] - 2017-01-18 ### Added - GET parameters to customize some variables of the client and agent flashphones { Action: parameter=[possible values] (default) ---------------------------------------------- Enable video: video=[true|false] (false) Video quality: quality=[1.</description>
+    </item>
+    
+    <item>
       <title>VoiceXML IVR v1.3</title>
       <link>http://blog.ivrpowers.com/post/updates/update-voicexml-ivr-13.1/</link>
       <pubDate>Thu, 15 Jun 2017 00:20:05 +0200</pubDate>

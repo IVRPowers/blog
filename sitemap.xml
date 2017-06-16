@@ -13,6 +13,21 @@
   </url>
   
   <url>
+    <loc>http://blog.ivrpowers.com/post/socials/followus-twitter/</loc>
+    <lastmod>2017-06-16T00:20:05+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://blog.ivrpowers.com/post/updates/update-video-rtc-rtmp-1.2.0/</loc>
+    <lastmod>2017-06-16T00:20:05+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://blog.ivrpowers.com/post/support/amazon-mayday-button/</loc>
+    <lastmod>2017-06-16T10:42:26+02:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://blog.ivrpowers.com/post/financial/video-banking/</loc>
     <lastmod>2017-06-15T13:02:36+02:00</lastmod>
   </url>
@@ -85,7 +100,7 @@
   
   <url>
     <loc>http://blog.ivrpowers.com/tags/businessstrategy/</loc>
-    <lastmod>2017-06-15T13:02:36+02:00</lastmod>
+    <lastmod>2017-06-16T10:42:26+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -102,7 +117,7 @@
   
   <url>
     <loc>http://blog.ivrpowers.com/tags/custexp/</loc>
-    <lastmod>2017-06-15T13:49:56+02:00</lastmod>
+    <lastmod>2017-06-16T10:42:26+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -162,7 +177,7 @@
   
   <url>
     <loc>http://blog.ivrpowers.com/tags/livechat/</loc>
-    <lastmod>2017-06-15T13:02:36+02:00</lastmod>
+    <lastmod>2017-06-16T10:42:26+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -198,13 +213,19 @@
   
   <url>
     <loc>http://blog.ivrpowers.com/tags/rtc/</loc>
-    <lastmod>2017-06-14T00:19:54+02:00</lastmod>
+    <lastmod>2017-06-16T00:20:05+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://blog.ivrpowers.com/tags/rtmp/</loc>
-    <lastmod>2017-06-14T00:19:54+02:00</lastmod>
+    <lastmod>2017-06-16T00:20:05+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://blog.ivrpowers.com/categories/socials/</loc>
+    <lastmod>2017-06-16T00:20:05+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -215,8 +236,14 @@
   </url>
   
   <url>
+    <loc>http://blog.ivrpowers.com/categories/support/</loc>
+    <lastmod>2017-06-16T10:42:26+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://blog.ivrpowers.com/tags/</loc>
-    <lastmod>2017-06-15T13:02:36+02:00</lastmod>
+    <lastmod>2017-06-16T10:42:26+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -240,7 +267,7 @@
   
   <url>
     <loc>http://blog.ivrpowers.com/categories/updates/</loc>
-    <lastmod>2017-06-15T00:20:05+02:00</lastmod>
+    <lastmod>2017-06-16T00:20:05+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -264,7 +291,7 @@
   
   <url>
     <loc>http://blog.ivrpowers.com/tags/webrtc/</loc>
-    <lastmod>2017-06-14T13:32:54+02:00</lastmod>
+    <lastmod>2017-06-16T00:20:05+02:00</lastmod>
     <priority>0</priority>
   </url>
   
