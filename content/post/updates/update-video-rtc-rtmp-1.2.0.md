@@ -2,7 +2,7 @@
 categories = ["updates"]
 date = "2017-06-16T00:20:05+02:00"
 description = "Release Note"
-draft = true
+draft = false
 tags = ["rtmp","rtc", "ivrpowers"]
 title = "Video RTC (RTMP) v1.2"
 image = "/postimages/updates/ivrpowers-posts-01.087.jpeg"
