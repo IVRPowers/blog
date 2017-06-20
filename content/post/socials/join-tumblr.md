@@ -13,6 +13,6 @@ image = "/postimages/socials/ivrpowers-posts-01.059.jpeg"
 
 ![IVRPowers Tumblr](/postimages/socials/ivrpowers-tumblr.jpg)
 
-You can easily track what’s happening at **[IVRPowers](http://www.ivrpowers.com)** by following us on **[Tumblr](http://blog.ivrpowers.com/)**. Keep up to date about the most advanced RTC and IVR solutions and breakthrough technologies.  
+You can easily track what’s happening at **[IVRPowers](http://www.ivrpowers.com)** by following us on **[Tumblr](http://tumblr.ivrpowers.com/)**. Keep up to date about the most advanced RTC and IVR solutions and breakthrough technologies.  
 
 Follow us at http://blog.ivrpowers.com/
