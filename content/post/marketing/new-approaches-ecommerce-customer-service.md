@@ -2,7 +2,7 @@
 categories = ["marketing"]
 date = "2017-06-20T12:46:41+02:00"
 description = "A Better Customer Experience"
-draft = true
+draft = false
 tags = ["custexp","businessstrategy", "startup"]
 title = "New Approaches on Ecommerce Customer Service"
 weight = 59
