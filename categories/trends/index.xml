@@ -6,10 +6,20 @@
     <description>Recent content in Trends on Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 14 Jun 2017 13:32:54 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 21 Jun 2017 10:55:18 +0200</lastBuildDate>
     
 	<atom:link href="http://blog.ivrpowers.com/categories/trends/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>WebRTC: a Trending Technology for your Business</title>
+      <link>http://blog.ivrpowers.com/post/trends/webrtc-trending-technology-business/</link>
+      <pubDate>Wed, 21 Jun 2017 10:55:18 +0200</pubDate>
+      
+      <guid>http://blog.ivrpowers.com/post/trends/webrtc-trending-technology-business/</guid>
+      <description>Technology is continuously changing our daily tasks. We pay bills, book concert tickets, buy food and even we can control our home from a device. People, especially younger generations, expect technological innovations in their everyday life. It happens so in business and ignoring this reality will lead to loss of potential and therefore of competitiveness.
+Technology solutions have a great impact on Customer Experience. And one of the latest trends in the field is #WebRTC.</description>
+    </item>
     
     <item>
       <title>The increasing Business of Real-Time Communications</title>
