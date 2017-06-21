@@ -16,7 +16,7 @@ Exceptional customer service is critical in e-commerce. [Surveys](https://www.he
 
 Customers appreciate a good service, which is an essential part of ecommerce businesses. Customers who do not get the service they would prefer can just move onto to another store. A core ingredient to success is making easy for customers to give feedback and tell the company about the problems they are having. A competent service and personalization are the most valued features on customer experiences. 
 
-A great option to small companies is WebRTC technology (Real-Time Communications). It allows, for instance, live chat, voice calling, files sharing or video chat. Small companies can enhance their customer services and differentiate themselves from large competition. RTC is easy to use and advantages it offers makes it worth. WebRTC can help to improve marketing strategies, customer retention and raise awareness for your brand.
+A great option to small companies is [WebRTC technology (Real-Time Communications)](http://blog.ivrpowers.com/post/technologies/what-is-webrtc/). It allows, for instance, live chat, voice calling, files sharing or video chat. Small companies can enhance their customer services and differentiate themselves from large competition. RTC is easy to use and advantages it offers makes it worth. WebRTC can help to improve marketing strategies, customer retention and raise awareness for your brand.
 
 IVRPowers provides resources to help retailers to offer the best customer services. Contact us at [www.ivrpowers.com](http://www.ivrpowers.com)
 
