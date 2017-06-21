@@ -2,7 +2,7 @@
 categories = ["marketing"]
 date = "2017-06-20T10:51:29+02:00"
 description = "Customer Engagement"
-draft = true
+draft = false
 tags = ["livechat","videochat", "businessstrategy"]
 title = "3 Key Benefits of Live Video Chat"
 weight = 54
@@ -11,7 +11,7 @@ image = "/postimages/marketing/ivrpowers-posts-01.107.jpeg"
 
 ![Live video chat](/postimages/marketing/ivrpowers-posts-01.107.jpeg)
 
-Currently, Bots can solve a small proportion of customers’ needs. However, even if a bot has been trained to understand complicated statements and is able to answer in an intelligent and sophisticated manner, there are cases when customers need to speak with a live agent. Bots should not alienate nor irritate your customers. This is the point when WebRTC technology plays its role.
+Currently, bots can solve a small proportion of customers’ needs. However, even if a bot has been trained to understand complicated statements and is able to answer in an intelligent and sophisticated manner, there are cases when customers need to speak with a live agent. Bots should not alienate nor irritate your customers. This is the point when [WebRTC technology](http://blog.ivrpowers.com/post/technologies/what-is-webrtc/) plays its role.
 
 A large number of different businesses could benefit from offering **Live Video Chat** services. And both employees and customers can obtain plenty of advantages by using Real-time Communications. Here, we present three of the most visible ones.
 
