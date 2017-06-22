@@ -2,7 +2,7 @@
 categories = ["technologies"]
 date = "2017-06-21T00:20:05+02:00"
 description = "Technology Word Definition"
-draft = true
+draft = false
 tags = ["webrtc","rtmp", "rtc", "cctr", "split"]
 title = "What is SPLIT?"
 image = "/postimages/technologies/ivrpowers-posts-01.105.jpeg"
@@ -11,7 +11,7 @@ weight = 49
 
 ![Lorem Ipsum](/postimages/technologies/ivrpowers-posts-01.012.jpeg)
 
-All **Video Gateways (WebRTC | RTMP)** developed by IVRPowers include a special plugin which allows separate the media streams (video - audio - data) for any communication between users and agents. This development is based on SIP and WebRTC | RTMP peers communications for the integration of voice, video and data in Contact Centers.
+All **Video Gateways (WebRTC | RTMP)** developed by IVRPowers include a special plugin which allows separate the media streams (video - audio - data) for any communication between users and agents. This development is based on SIP and [WebRTC](http://blog.ivrpowers.com/post/technologies/what-is-webrtc/) | [RTMP](http://blog.ivrpowers.com/post/technologies/what-is-rtmp/) peers communications for the integration of voice, video and data in Contact Centers.
 
 # How does SPLIT work?
 
