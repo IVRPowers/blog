@@ -6,10 +6,21 @@
     <description>Recent content in Technologies on Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 19 Jun 2017 00:20:05 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 21 Jun 2017 00:20:05 +0200</lastBuildDate>
     
 	<atom:link href="http://blog.ivrpowers.com/categories/technologies/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>What is SPLIT?</title>
+      <link>http://blog.ivrpowers.com/post/technologies/what-is-split/</link>
+      <pubDate>Wed, 21 Jun 2017 00:20:05 +0200</pubDate>
+      
+      <guid>http://blog.ivrpowers.com/post/technologies/what-is-split/</guid>
+      <description>All Video Gateways (WebRTC | RTMP) developed by IVRPowers include a special plugin which allows separate the media streams (video - audio - data) for any communication between users and agents. This development is based on SIP and WebRTC | RTMP peers communications for the integration of voice, video and data in Contact Centers.
+How does SPLIT work? The Audio-Video SPLIT mode works as following:
+A Videocall is initiated by a customer endpoint comes into Video Gateway (WebRTC | RTMP).</description>
+    </item>
     
     <item>
       <title>What is WebRTC?</title>
