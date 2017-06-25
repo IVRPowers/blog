@@ -12,6 +12,9 @@ featured = true
 
 ![IVRPowers Twitter](/postimages/socials/ivrpowers-twitter.jpg)
 
-Be sure to [follow us on Twitter](https://twitter.com/ivrpowers) with great brand updates, promotions and news about all things RTC or IVR. Our hand is **@ivrpowers** and our favorite hashtags right now are **#RTC** and **#IVR**.  Give us a shout out!
+Be sure to follow us on [Twitter](https://twitter.com/ivrpowers) with great brand updates, promotions and news about all things RTC or IVR. Our hand is **@ivrpowers** and our favorite hashtags right now are #RTC and #IVR. 
 
-https://twitter.com/ivrpowers
+Give us a shout out! https://twitter.com/ivrpowers
+
+---
+[Interactive Powers](http://www.ivrpowers.com/) - Streamline your business communications
