@@ -37,3 +37,6 @@ Version 1.3:
 - Updated Openvxi V13 version to V13.1
 - Removed some useless crontab notifications
 ```
+
+---
+[Interactive Powers](http://www.ivrpowers.com/) - Streamline your business communications

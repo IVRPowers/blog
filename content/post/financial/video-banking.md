@@ -18,12 +18,16 @@ We are increasingly moving on line. And bank customers are not an exception. Fin
 
 It is simple for customers to use, as there are no downloads. Live video chat enables the same high-quality interaction as a branch visit, as well as offering more convenience to customers. Surveys show that [video bank solutions positively impact customer satisfaction:](http://www.e-idsolutions.com/wp-content/uploads/2016/10/Efma_Vidyo_Video_Banking_ReportR.pdf) it enables valuable engagement opportunities, it is a cost-effective solution, as it reduces workload, and customers love the video chat experience. 
 
-83% of banks are planning to offer video services and 42% are already piloting a service. One of the early adopters is Barclays. Watch in this video the functioning and advantages of video banking:
+Currently, 83% of banks are planning to offer video services and 42% are already piloting a service. One of the early adopters is Barclays. Watch in this video the functioning and advantages of video banking:
 
 
 {{< youtube Pn9AWbgvvaU >}}
+    
 
+If you want to be an innovative bank and enhance your customer services, we can help you. Please, visit us at our [website](http://www.ivrpowers.com) to ask us for more infomation.
 
-If you want to be an innovative bank and enhance your customer services, we can help you. Visit us at [www.ivrpowers.com](http://www.ivrpowers.com)
+---
+[Interactive Powers](http://www.ivrpowers.com/) - Streamline your business communications
+
 
 

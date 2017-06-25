@@ -11,7 +11,7 @@ image = "/postimages/marketing/ivrpowers-posts-01.107.jpeg"
 
 ![Live video chat](/postimages/marketing/ivrpowers-posts-01.107.jpeg)
 
-Currently, bots can solve a small proportion of customers’ needs. However, even if a bot has been trained to understand complicated statements and is able to answer in an intelligent and sophisticated manner, there are cases when customers need to speak with a live agent. Bots should not alienate nor irritate your customers. This is the point when [WebRTC technology](http://blog.ivrpowers.com/post/technologies/what-is-webrtc/) plays its role.
+Currently, bots can solve a small proportion of customers’ needs. However, even if a bot has been trained to understand complicated statements and is able to answer in an intelligent and sophisticated manner, there are cases when customers need to speak with a live agent. Bots should not alienate nor irritate your customers. This is the point when [WebRTC](http://blog.ivrpowers.com/post/technologies/what-is-webrtc/) technology plays its role.
 
 A large number of different businesses could benefit from offering **Live Video Chat** services. And both employees and customers can obtain plenty of advantages by using Real-time Communications. Here, we present three of the most visible ones.
 
@@ -28,4 +28,5 @@ It allows businesses to reduce costs while creating a customer experience compar
 Live Video Chat is a relatively new tool, but the use of video in marketing process is not. Companies very often use embedded videos to describe and show their products as users prefer a video message than reading it. Live Video Chat adds the possibility to build a closer relationship with the company. [Surveys](https://www.emarketer.com/Article/How-Helpful-Live-Chat/1007235) show that after a positive support experience, thanks to video chat, customers are more likely to purchase from the site again.
 
 ---
-For more information: [www.ivrpowers.com](http://www.ivrpowers.com)
+[Interactive Powers](http://www.ivrpowers.com/) - Streamline your business communications
+

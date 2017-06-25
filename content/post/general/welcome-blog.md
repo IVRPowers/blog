@@ -23,3 +23,7 @@ We look forward to growing with you as we embark on this new journey.
 
 **Thanks for stopping by!**
 
+---
+[Interactive Powers](http://www.ivrpowers.com/) - Streamline your business communications
+
+

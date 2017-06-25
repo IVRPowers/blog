@@ -27,7 +27,7 @@ Make a live video call with an agent to approve the whole process and verify tha
 
 In conclusion, make a Video Online Onboarding will allow to online agreement signature, open bank account or get a new insurance contracts. We will have the possibility to make all these procedures without moving out from our home or work.
 
-At [IVRPowers](http://www.ivrpowers) we can demonstrated a proof-of-concept iOS or Android app developed with our API Framework together with the iCAR Vision document identity verification and facial recognition provider. This app makes it possible to fully automate the Video Online Onboarding of new customers, using their smartphone, web browser, their passport and a selfie.
+At Interactive Powers ([IVRPowers](http://www.ivrpowers)) we can show you a business iOS or Android app developed with our API Framework together with the iCAR Vision document identity verification and facial recognition provider. This app will make possible to fully automate your processes with Video Online Onboarding of new customers, using their smartphone, web browser, their passport and a selfie.
 
 ---
-More information at [www.ivrpowers.com](http://www.ivrpowers.com)
+[Interactive Powers](http://www.ivrpowers.com/) - Streamline your business communications

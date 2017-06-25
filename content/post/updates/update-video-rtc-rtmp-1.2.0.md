@@ -44,3 +44,6 @@ Version 1.2.0:
 ### Fixed
  - In the playground, the Yes options had a bad value (liue instead of true)
 ```
+
+---
+[Interactive Powers](http://www.ivrpowers.com/) - Streamline your business communications

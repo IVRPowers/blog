@@ -27,3 +27,6 @@ From an technical perspective, telehealth takes things to a whole new level; wit
 
 ## Endpoint or Device Flexibility.
 For Physicians in a clinical environnement a single web based or tablet endpoint may be fine; if the solution is intended to communicate with patients in their home environments or clinicians outside the organization, however, a multiple mobile device approach is mandatory.
+
+---
+[Interactive Powers](http://www.ivrpowers.com/) - Streamline your business communications

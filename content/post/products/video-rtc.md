@@ -15,7 +15,7 @@ image = "/postimages/products/ivrpowers-posts-01.091.jpeg"
 
 # The Video Real Time Communications Platform
 
-Our **Video Gateway** connects peers or endpoints between WebRTC, RTMP and SIP technology to create advanced Video services. It works in common hardware or Cloud VM servers configurations, providing a highly scalable base system to meet all customers’ business and technical requirements.
+Our **Video Gateway** connects peers or endpoints between [WebRTC](http://blog.ivrpowers.com/post/technologies/what-is-webrtc/), [RTMP](http://blog.ivrpowers.com/post/technologies/what-is-rtmp/) and SIP technology to create advanced Video services. It works in common hardware or Cloud VM servers configurations, providing a highly scalable base system to meet all customers’ business and technical requirements.
 
 ## Cloud Ready. 
 Our Video Gateway solutions are software based and ready to run over Cloud environments and Virtual Servers. You can setup our Video RTC platforms over Amazon EC2 servers or any Private/Public Cloud.
@@ -30,5 +30,6 @@ Our Video Gateway runs over all existing Web Browsers with native WebRTC inside 
 Our Video Gateway connects endpoints based in a native/hybrid Android or iOS app that you can create and customize according to your own requirements. Our SDK works with standard mobile development tools.
 
 ---
-Fin more information at: [www.ivrpowers.com ](http://www.ivrpowers.com/)
+[Interactive Powers](http://www.ivrpowers.com/) - Streamline your business communications
+
 

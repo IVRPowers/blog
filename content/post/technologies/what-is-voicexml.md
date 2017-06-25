@@ -11,9 +11,7 @@ weight = 100
 
 ![VoiceXML W3C](/postimages/technologies/ivrpowers-posts-01.071.jpeg)
 
-The **Voice eXtensible Markup Language (VoiceXML)** is an XML-based markup language for creating distributed voice applications, much as HTML is a markup language for creating distributed visual applications. It is an industry standard defined by the World Wide Web Consortium (W3C) at http://www.w3.org/TR/voicexml21/ (for VoiceXML V2.1) and http://www.w3.org/TR/voicexml20/ (for VoiceXML V2.0). The VoiceXML language enables IVR developers to use a familiar markup style and Web server-side logic to deliver applications for use over telephone lines. The resulting VoiceXML applications can interact with existing back-end business data and logic.
-
-Using VoiceXML, application developers can create Web-based voice applications that users can access by telephone or other digital devices.
+The **Voice eXtensible Markup Language (VoiceXML)** is an XML-based markup language for creating distributed voice applications, much as HTML is a markup language for creating distributed visual applications. It is an industry standard defined by the World Wide Web Consortium (W3C) at http://www.w3.org/TR/voicexml21/ (for VoiceXML V2.1) and http://www.w3.org/TR/voicexml20/ (for VoiceXML V2.0). The VoiceXML language enables IVR developers to use a familiar markup style and Web server-side logic to deliver applications for use over telephone lines. The resulting VoiceXML applications can interact with existing back-end business data and logic. Using VoiceXML, application developers can create Web-based voice applications that users can access by telephone or other digital devices.
 
 VoiceXML supports dialogs that feature:
 
@@ -29,3 +27,6 @@ VoiceXML supports dialogs that feature:
 * Call transfer
 
 Source: https://www.w3.org/
+
+---
+[Interactive Powers](http://www.ivrpowers.com/) - Streamline your business communications

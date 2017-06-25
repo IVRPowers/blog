@@ -20,4 +20,5 @@ weight = 5
 
 **Interactive Powers** solutions are designed to be easily integrated into your existing processes. You do not need to remove your current phone lines or equipments. We make all integration as simple as tapping a button in your web browser, tablet or mobile phone.
 
-[IVRPowers](http://www.ivrpowers.com/) - Streamline your business communications
+---
+[Interactive Powers](http://www.ivrpowers.com/) - Streamline your business communications

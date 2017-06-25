@@ -29,5 +29,6 @@ Obviously, Call Centers have to think more about receiving direct calls from any
 
 **It's ready for now!**
 
-Discover more about it at: [www.ivrpowers.com](http://www.ivrpowers.com)
+---
+[Interactive Powers](http://www.ivrpowers.com/) - Streamline your business communications
 

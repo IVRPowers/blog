@@ -32,5 +32,6 @@ Video Gateway supports to share a screen or window from the Agent peers to manag
 Video Gateway supports to record any video call session by setting this option for a specific service. Agents can start/stop recording all Video & Audio streams at any time, thanks to a specific button.
 
 ---
-More information at: [www.ivrpowers.com ](www.ivrpowers.com)
+[Interactive Powers](http://www.ivrpowers.com/) - Streamline your business communications
+
 

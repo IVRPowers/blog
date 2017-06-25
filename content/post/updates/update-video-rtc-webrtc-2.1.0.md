@@ -44,3 +44,6 @@ Version 2.1.0:
 - Fixed minimizer bar in the Videomail and Videoplayer usecases
 - Fixed recording feature with the same name/id in the Videomail usecase
 ```
+
+---
+[Interactive Powers](http://www.ivrpowers.com/) - Streamline your business communications

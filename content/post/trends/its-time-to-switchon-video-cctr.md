@@ -27,3 +27,6 @@ That's what most companies implements today. Do you really think, that's a good 
 
 Videocall and Webcall over the Internet is the next big feature to increase the service value for most Contact Centers and make their services really different against competitors. Today, most users are often connected to Internet with their computers and mobile devices to get any online information about your company before purchasing products or services.
 
+---
+[Interactive Powers](http://www.ivrpowers.com/) - Streamline your business communications
+

@@ -17,7 +17,7 @@ All **Video Gateways (WebRTC | RTMP)** developed by IVRPowers include a special 
 
 The Audio-Video SPLIT mode works as following:
 
-A Videocall is initiated by a customer endpoint comes into Video Gateway (WebRTC | RTMP). This session may be composed of three media streams (video, data and audio) blended together in a single interaction:
+A Videocall is initiated by a customer endpoint and comes into the Video Gateway. This session will be composed of three media streams (video, data and audio) blended together in a single interaction:
 
 ## Step 1. Audio & Video Decouplexing
 Decouples the three media streams from the incoming Videocall (mixed stream is split into a video + data stream and an audio stream). Remember, all the communication channel between peers works in Full Duplex.
@@ -30,3 +30,6 @@ Keep the video stream on hold and make available a public URL published on the s
 
 # Benefits for IP Contact Centers
 This operation mode has various advantages when integrating the Video Call channel into a Contact Center strategy, namely: Agents can use their regular phone to receive the audio stream of video calls like any other regular call Call treatment, routing strategies, IVR flows, ACD distribution, etc.. already implemented in the telephony system can be leveraged to process Video Interaction calls, since the audio part is seen by this system as a regular call. Since the audio part of the call goes through the telephony system as a regular call, it can be listened to and recorded like a regular call (assuming these features are available).
+
+---
+[Interactive Powers](http://www.ivrpowers.com/) - Streamline your business communications

@@ -18,3 +18,6 @@ According to those specifications, the RTMP protocol has multiple variations, i.
 The use of RTMP is to avoid latency in communication, mainly, deliver audio or video streams smoothly, and by splitting them in fragments, make them interleaved and multiplexed over a single connection. Also, you save bandwidth.
 
 RTMP encapsulates MP3 or AAC audio and FLV1 video multimedia streams.
+
+---
+[Interactive Powers](http://www.ivrpowers.com/) - Streamline your business communications

@@ -15,7 +15,7 @@ A clear definition of **Real-time communications (RTC)** is important to underst
 
 RTC is any mode of telecommunications in which all users can exchange information instantly or with negligible latency. In this context, the term “real-time” is synonymous with “live.” RTC can take place in half-duplex or full-duplex modes. In half-duplex RTC, data can be transmitted in both directions on a single carrier or circuit but not at the same time. In full-duplex RTC, data can be transmitted in both directions simultaneously on a single carrier or circuit. RTC generally refers to peer-to-peer communications, not broadcast or multicast.
 
-RTC Systems can include:
+RTC can include:
 
 * Telephony in the conventional sense
 * Mobile and cellular telephone
@@ -27,4 +27,7 @@ RTC Systems can include:
 * Live teleconference communications
 * Robotic telepresence
 
-At [IVRPowers](http://www.ivrpowers.com), we have created a specific software product suite called [Video RTC](http://videortc.ivrpowers.com) to deliver advanced Real-time communication services for your business! Our [Video Gateway](http://www.ivrpowers.com/videortc/) technology offers many options to add voice or video calls to your agents through the Internet and from any web browser or mobile devices like smartphones or tablets. This approach is really cost-efficient, because you don't have to update most of your current processes and channels.
+At Interactive Powers ([IVRPowers](http://www.ivrpowers.com)), we have created a specific software product suite called [Video RTC](http://videortc.ivrpowers.com) to deliver advanced Real-time communication services for your business! Our [Video Gateway](http://www.ivrpowers.com/videortc/) technology offers many options to add voice or video calls to your agents through the Internet and from any web browser or mobile devices like smartphones or tablets. This approach is really cost-efficient, because you don't have to update most of your current processes and channels.
+
+---
+[Interactive Powers](http://www.ivrpowers.com/) - Streamline your business communications

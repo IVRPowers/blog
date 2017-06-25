@@ -13,11 +13,12 @@ featured =true
 
 ![IVRPowers Instagram](/postimages/socials/ivrpowers-intragram.jpg)
 
+You can now follow us on [Instagram!](https://www.instagram.com/ivrpowers/). We want to share our best tech pictures with you. Products, trends, promotions, innovations, conferences, updates... 
 
-You can now follow **[IVRPowers](http://www.ivrpowers.com)** on **[Instagram!](https://www.instagram.com/ivrpowers/)** We want to share our best tech pictures with you. Products, trends, promotions, innovations, conferences, updates... 
+We are waiting you!  at https://www.instagram.com/ivrpowers/
 
-We are waiting you!  
+---
+[Interactive Powers](http://www.ivrpowers.com/) - Streamline your business communications
 
-https://www.instagram.com/ivrpowers/
 
 

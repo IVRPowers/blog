@@ -20,7 +20,11 @@ Web-based video can dramatically transform enterprise contact centers. Just thin
 
 In a video-enabled contact center, agents not only show their faces to customers, which is a key factor in brand building and customer loyalty, but it is also the most efficient channel to answer some customer queries. For instance, traditional contact centers cannot conduct a product demonstration or deliver complex instructions. Contact centers that implemented video obtain [better results, reduce cost and improve customer satisfaction.](https://www.dialogic.com/~/media/products/docs/whitepapers/11722-video-contact-ctr-wp.pdf) It seems video is here to stay. 
 
-If you want to know more about video technology for your contact center, contact us at [www.ivrpowers.com](http://www.ivrpowers.com)
+If you want to know more about video technology for your contact center, contact us at our [website](http://www.ivrpowers.com).
+
+---
+[Interactive Powers](http://www.ivrpowers.com/) - Streamline your business communications
+
 
 
 

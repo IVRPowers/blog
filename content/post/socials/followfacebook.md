@@ -14,6 +14,10 @@ featured = true
 ![IVRPowers Facebook page](/postimages/socials/ivrpowers-facebook.jpg)
 
 
-Do not forget to follow us on **[Facebook](https://www.facebook.com/ivrpowers/).** You can contact us and stay updated on all that’s going on at **[IVRPowers](http://www.ivrpowers.com)** and on the latest news about RTC or IVR. 
+Do not forget to follow us on [Facebook](https://www.facebook.com/ivrpowers/). You can contact us and stay updated on all that’s going on our company and on the latest news about #RTC or #IVR. 
 
 Join us and stay tuned for new information at [https://www.facebook.com/ivrpowers/](https://www.facebook.com/ivrpowers/)
+
+---
+[Interactive Powers](http://www.ivrpowers.com/) - Streamline your business communications
+

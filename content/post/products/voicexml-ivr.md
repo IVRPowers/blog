@@ -34,4 +34,4 @@ Our solutions run over Linux CentOS and Redhat Enterprise servers. All our binar
 Our solutions are delivered packaged with an auto-installer. You can easily update or upgrade your system getting latest releases to allow both high reliability and evolution.
 
 ---
-Find more information at: [www.ivrpowers.com](http://www.ivrpowers.com/)
+[Interactive Powers](http://www.ivrpowers.com/) - Streamline your business communications
