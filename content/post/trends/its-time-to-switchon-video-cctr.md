@@ -12,7 +12,7 @@ image = "/postimages/trends/ivrpowers-posts-01.033.jpeg"
 
 ![Man holding a phone](/postimages/trends/ivrpowers-posts-01.032.jpeg)
 
-Beyond improving quality of service QoS and call productivity, any Contact Center has to be ready for the next Internet evolution challenges. For any online business or ecommerce website, the most efficient way to contact a sale representative or get human support is a real-time interaction with your agents but without leaving the web session, so you have to add a one-click button located near to the product or service or information they are selecting. The agent must receive a session ID from this caller to get the context.
+Beyond improving quality of service QoS and call productivity, any Contact Center has to be ready for the next Internet evolution challenges. For any online business or ecommerce website, the most efficient way to contact a sale representative or get human support is [a real-time interaction](http://blog.ivrpowers.com/post/trends/webrtc-trending-technology-business/) with your agents but without leaving the web session, so you have to add a one-click button located near to the product or service or information they are selecting. The agent must receive a session ID from this caller to get the context.
 
 Unfortunately, what's happening in the real world for online users is:
 
@@ -21,7 +21,7 @@ Unfortunately, what's happening in the real world for online users is:
 3. Make a call to the phone number,… to be routed to a boring IVR with many interactions steps (Of course, an IVR can do better things like self-services…)
 4. Wait for a while in the ACD queue… (all agents can be busy, so please wait….)
 5. Finally when the call is transfered to an agent,  you have to explain at phone the visual context of your web session… 
-6. Some times, the call can be hanged up (line error, bad coverage, ….) so you will have to redo all this steps and probably, your call will be transfered to another agent…
+6. Sometimes, the call can be hanged up (line error, bad coverage, ….) so you will have to redo all this steps and probably, your call will be transfered to another agent…
 
 That's what most companies implements today. Do you really think, that's a good User Experience approach? Of course, not, the first reason of this situation is that all Call Centers are based on telephony platforms or standard PBX. 
 
