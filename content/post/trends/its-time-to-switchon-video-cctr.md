@@ -23,7 +23,7 @@ Unfortunately, what's happening in the real world for online users is:
 5. Finally when the call is transfered to an agent, you have explain in words all the web context.
 6. Sometimes, your call is hung up (call error, bad coverage,...), and you have to retry later...
 
-That's what most companies implements today. Do you really think, that's a good **User Experience**? Of course, not, the first reason of this situation is because all Call Centers are built on telephony platforms or standard PBX instead of adding a Webcall approach for their inbound services. 
+That's what most companies implements today. Do you really think, that's a good **User Experience**? Of course, not, the first reason of this situation is because Contact Centers are built on telephony platforms or standard PBX instead of adding a Webcall approach for their inbound services. 
 
 **Webcall over the Internet are the next big feature to increase the service value of Contact Centers and make their services look really different against competitors**. Today, most users are often connected to Internet with their computers and mobile devices to get any online information about your company before purchasing products or services.
 
