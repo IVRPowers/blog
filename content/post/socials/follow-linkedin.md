@@ -1,8 +1,8 @@
 +++
 categories = ["socials"]
-date = "2017-06-22T12:40:31+02:00"
+date = "2017-06-27T12:40:31+02:00"
 description = "Social Networks"
-draft = true
+draft = false
 tags = ["rtc", "ivr", "ivrpowers"]
 title = "IVRPowers is on LinkedIn"
 image = "/postimages/socials/ivrpowers-posts-01.057.jpeg"
