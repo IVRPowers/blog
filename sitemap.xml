@@ -13,6 +13,11 @@
   </url>
   
   <url>
+    <loc>http://blog.ivrpowers.com/post/development/introducing-videortcjs-developers/</loc>
+    <lastmod>2017-06-28T00:30:56+02:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://blog.ivrpowers.com/post/socials/follow-linkedin/</loc>
     <lastmod>2017-06-27T12:40:31+02:00</lastmod>
   </url>
@@ -148,6 +153,12 @@
   </url>
   
   <url>
+    <loc>http://blog.ivrpowers.com/tags/api/</loc>
+    <lastmod>2017-06-28T00:30:56+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://blog.ivrpowers.com/</loc>
     <lastmod>2017-06-12T09:42:42+02:00</lastmod>
     <priority>0</priority>
@@ -179,6 +190,12 @@
   <url>
     <loc>http://blog.ivrpowers.com/tags/cx/</loc>
     <lastmod>2017-06-20T12:46:41+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://blog.ivrpowers.com/categories/development/</loc>
+    <lastmod>2017-06-28T00:30:56+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -274,13 +291,19 @@
   
   <url>
     <loc>http://blog.ivrpowers.com/tags/rtc/</loc>
-    <lastmod>2017-06-27T12:40:31+02:00</lastmod>
+    <lastmod>2017-06-28T00:30:56+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://blog.ivrpowers.com/tags/rtmp/</loc>
     <lastmod>2017-06-21T00:20:05+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://blog.ivrpowers.com/tags/sdk/</loc>
+    <lastmod>2017-06-28T00:30:56+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -310,7 +333,7 @@
   
   <url>
     <loc>http://blog.ivrpowers.com/tags/</loc>
-    <lastmod>2017-06-26T10:55:18+02:00</lastmod>
+    <lastmod>2017-06-28T00:30:56+02:00</lastmod>
     <priority>0</priority>
   </url>
   
