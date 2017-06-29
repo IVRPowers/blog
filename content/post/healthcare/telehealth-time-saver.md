@@ -17,7 +17,7 @@ There is no greater need for a personalized customer experience than in healthca
 #### Why should healthcare industry take advantage and adapt to technology trends?
 
 
- **Time-saver** Telemedicine allows to save time spent traveling to doctor’s office and waiting for the appointment. It is calculated that 70% of physician visits could have been handled by a phone call. Remote visits by phone or video chat is more convenient for minor ailments.
+ **Time-saver** Telemedicine allows to save time spent traveling to doctor’s office and waiting for the appointment. It is calculated that [70% of physician visits could have been handled by a phone call.](http://www.benefitspro.com/2015/02/11/the-growth-of-telemedicine?slreturn=1498726991) Remote visits by phone or video chat is more convenient for minor ailments.
 
  **Better access** Telemedicine is a crucial strategy for getting more patients access to the healthcare they need, for instance, to rural areas. Rural patients receiving care via telehealth can avoid driving long distances. And thanks to real-time communications small rural hospitals can continue providing quality care at low costs.
 
