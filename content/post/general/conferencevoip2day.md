@@ -6,7 +6,7 @@ draft = true
 tags = ["ivrpowers","webrtc", "videochat"]
 title = "The Value of Video Communication"
 weight = 34
-image = "/postimages/general/ivrpowers-posts-01.110.jpeg"
+image = "/postimages/general/ivrpowers-posts-01.113.jpeg"
 
 +++
 
