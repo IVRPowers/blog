@@ -6,10 +6,19 @@
     <description>Recent content in Rtc on Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 28 Jun 2017 00:30:56 +0200</lastBuildDate>
+    <lastBuildDate>Thu, 29 Jun 2017 00:20:05 +0200</lastBuildDate>
     
 	<atom:link href="http://blog.ivrpowers.com/tags/rtc/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>The Benefits of a WebRTC System</title>
+      <link>http://blog.ivrpowers.com/post/marketing/webrtc-system-benefits/</link>
+      <pubDate>Thu, 29 Jun 2017 00:20:05 +0200</pubDate>
+      
+      <guid>http://blog.ivrpowers.com/post/marketing/webrtc-system-benefits/</guid>
+      <description>A WebRTC System can bring several benefits to all types of enterprises and users. For different market segments, the benefit would really be overwhelming, as the app would give them the power to open up a wealth of opportunities to serve their clients and customers, in a very innovative way. Using the network, companies can open up real-time and live video chats sessions with customers, and vice-versa, to provide their help and support.</description>
+    </item>
     
     <item>
       <title>Introducing VideoRTC.js for Developers</title>
