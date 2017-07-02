@@ -23,6 +23,11 @@
   </url>
   
   <url>
+    <loc>http://blog.ivrpowers.com/post/general/video-gets-more-honest-buyers/</loc>
+    <lastmod>2017-06-30T19:11:25+02:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://blog.ivrpowers.com/post/development/introducing-videortcjs-developers/</loc>
     <lastmod>2017-06-28T00:30:56+02:00</lastmod>
   </url>
@@ -246,6 +251,18 @@
   </url>
   
   <url>
+    <loc>http://blog.ivrpowers.com/tags/honesty/</loc>
+    <lastmod>2017-06-30T19:11:25+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://blog.ivrpowers.com/tags/humaninteraction/</loc>
+    <lastmod>2017-06-30T19:11:25+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://blog.ivrpowers.com/tags/icarvision/</loc>
     <lastmod>2017-06-30T13:13:32+02:00</lastmod>
     <priority>0</priority>
@@ -385,7 +402,7 @@
   
   <url>
     <loc>http://blog.ivrpowers.com/tags/videortc/</loc>
-    <lastmod>2017-06-26T10:55:18+02:00</lastmod>
+    <lastmod>2017-06-30T19:11:25+02:00</lastmod>
     <priority>0</priority>
   </url>
   
