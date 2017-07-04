@@ -1,11 +1,11 @@
 +++
 categories = ["general"]
-date = "2017-06-24T10:13:18+02:00"
+date = "2017-07-04T10:13:18+02:00"
 description = "IVRPowers Founder explains the Advantages of Video Communication"
 draft = true
-tags = ["ivrpowers","webrtc", "videochat"]
+tags = ["ivrpowers","webrtc", "videochat", "businesstrends"]
 title = "The Value of Video Communication"
-weight = 34
+weight = 33
 image = "/postimages/general/ivrpowers-posts-01.113.jpeg"
 
 +++
