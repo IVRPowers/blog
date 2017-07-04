@@ -2,7 +2,7 @@
 categories = ["general"]
 date = "2017-07-04T10:13:18+02:00"
 description = "IVRPowers Founder explains the Advantages of Video Communication"
-draft = true
+draft = false
 tags = ["ivrpowers","webrtc", "videochat", "businesstrends"]
 title = "The Value of Video Communication"
 weight = 33
@@ -19,9 +19,7 @@ IVRPowers founder talked about how different ways to communicate are already pre
 
 Real-Time Communications (RTC), such as live video chats, raise the value of relationships with customers. WebRTC technology is a great option to companies that wish to differentiate themselves enhancing their customer services. Iván Sixto explained how RTC technology works and highlighted the top five advantages of video. First, video communications allow to establish empathy. The second aspect is that video gives authenticity. The third point is immediacy. Forth power that video has is effectivity. And, finally, the last one is the ability to identify people who are interacting. 
 
-You can watch the whole conference here:
-
-{{< vimeo 195445625 >}}
+You can watch the whole conference here: [Video Communication in Contact Centers](https://vimeo.com/193897397)
 
 ---
 [Interactive Powers](http://www.ivrpowers.com/) - Streamline your business communications
