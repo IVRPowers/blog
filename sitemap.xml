@@ -13,6 +13,11 @@
   </url>
   
   <url>
+    <loc>http://blog.ivrpowers.com/post/general/conferencevoip2day/</loc>
+    <lastmod>2017-07-04T10:13:18+02:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://blog.ivrpowers.com/post/financial/video-online-onboarding/</loc>
     <lastmod>2017-06-30T13:13:32+02:00</lastmod>
   </url>
@@ -182,6 +187,12 @@
   <url>
     <loc>http://blog.ivrpowers.com/tags/businessstrategy/</loc>
     <lastmod>2017-06-30T13:13:32+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://blog.ivrpowers.com/tags/businesstrends/</loc>
+    <lastmod>2017-07-04T10:13:18+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -396,7 +407,7 @@
   
   <url>
     <loc>http://blog.ivrpowers.com/tags/videochat/</loc>
-    <lastmod>2017-06-20T10:51:29+02:00</lastmod>
+    <lastmod>2017-07-04T10:13:18+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -414,7 +425,7 @@
   
   <url>
     <loc>http://blog.ivrpowers.com/tags/webrtc/</loc>
-    <lastmod>2017-06-29T00:20:05+02:00</lastmod>
+    <lastmod>2017-07-04T10:13:18+02:00</lastmod>
     <priority>0</priority>
   </url>
   
