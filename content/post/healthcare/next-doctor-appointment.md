@@ -7,6 +7,7 @@ tags = ["healthcare","livevideo", "mhealth", "rtc", "telehealth"]
 title = "Your Next Doctor's Appointment will be Online"
 weight = 32
 image = "/postimages/healthcare/ivrpowers-posts-01.009.jpeg"
+featured = true
 
 +++
   
