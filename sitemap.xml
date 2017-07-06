@@ -13,6 +13,11 @@
   </url>
   
   <url>
+    <loc>http://blog.ivrpowers.com/post/customerengagement/age-of-consumer/</loc>
+    <lastmod>2017-07-06T14:08:06+02:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://blog.ivrpowers.com/post/healthcare/next-doctor-appointment/</loc>
     <lastmod>2017-07-05T13:39:50+02:00</lastmod>
   </url>
@@ -190,8 +195,14 @@
   </url>
   
   <url>
+    <loc>http://blog.ivrpowers.com/tags/branding/</loc>
+    <lastmod>2017-07-06T14:08:06+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://blog.ivrpowers.com/tags/businessstrategy/</loc>
-    <lastmod>2017-06-30T13:13:32+02:00</lastmod>
+    <lastmod>2017-07-06T14:08:06+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -208,13 +219,25 @@
   
   <url>
     <loc>http://blog.ivrpowers.com/tags/cctr/</loc>
-    <lastmod>2017-06-26T10:55:18+02:00</lastmod>
+    <lastmod>2017-07-06T14:08:06+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://blog.ivrpowers.com/tags/custexp/</loc>
-    <lastmod>2017-06-20T12:46:41+02:00</lastmod>
+    <lastmod>2017-07-06T14:08:06+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://blog.ivrpowers.com/tags/customerengagement/</loc>
+    <lastmod>2017-07-06T14:08:06+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://blog.ivrpowers.com/categories/customerengagement/</loc>
+    <lastmod>2017-07-06T14:08:06+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -255,13 +278,13 @@
   </url>
   
   <url>
-    <loc>http://blog.ivrpowers.com/categories/healthcare/</loc>
+    <loc>http://blog.ivrpowers.com/tags/healthcare/</loc>
     <lastmod>2017-07-05T13:39:50+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://blog.ivrpowers.com/tags/healthcare/</loc>
+    <loc>http://blog.ivrpowers.com/categories/healthcare/</loc>
     <lastmod>2017-07-05T13:39:50+02:00</lastmod>
     <priority>0</priority>
   </url>
@@ -315,14 +338,14 @@
   </url>
   
   <url>
-    <loc>http://blog.ivrpowers.com/categories/marketing/</loc>
-    <lastmod>2017-06-29T00:20:05+02:00</lastmod>
+    <loc>http://blog.ivrpowers.com/tags/marketing/</loc>
+    <lastmod>2017-06-12T20:40:07+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://blog.ivrpowers.com/tags/marketing/</loc>
-    <lastmod>2017-06-12T20:40:07+02:00</lastmod>
+    <loc>http://blog.ivrpowers.com/categories/marketing/</loc>
+    <lastmod>2017-06-29T00:20:05+02:00</lastmod>
     <priority>0</priority>
   </url>
   
