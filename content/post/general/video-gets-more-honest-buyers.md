@@ -4,7 +4,7 @@ date = "2017-06-30T19:11:25+02:00"
 description = "Research Study"
 draft = false
 tags = ["videortc","humaninteraction","honesty"]
-title = "Video gets more honest buyers than other channels"
+title = "Video gets more Honest Buyers than other Channels"
 image = "/postimages/general/ivrpowers-posts-01.007.jpg"
 weight = 36
 
