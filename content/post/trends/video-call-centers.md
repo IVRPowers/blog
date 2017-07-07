@@ -6,11 +6,11 @@ draft = true
 tags = ["custexp", "livechat", "marketing", "businessstrategy"]
 title = "Contact Centers should Know Video is Here to Stay"
 weight = 33
-image = "/postimages/trends/ivrpowers-posts-01.111.jpg"
+image = "/postimages/trends/ivrpowers-posts-01.172.jpeg"
 
 +++
 
-![Woman and screens](/postimages/trends/ivrpowers-posts-01.111.jpg)
+![Woman and screens](/postimages/trends/ivrpowers-posts-01.172.jpeg)
 
 Video is changing the image of the customer service industry. The success of pioneers who provide video chat customer service marked the dawning of a new era, because offering a good customer service is a key part for success.
 
