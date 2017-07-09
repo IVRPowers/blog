@@ -50,7 +50,7 @@
     <item>
       <title>Cctr</title>
       <link>http://blog.ivrpowers.com/tags/cctr/</link>
-      <pubDate>Thu, 06 Jul 2017 14:08:06 +0200</pubDate>
+      <pubDate>Sun, 09 Jul 2017 00:20:05 +0200</pubDate>
       
       <guid>http://blog.ivrpowers.com/tags/cctr/</guid>
       <description></description>
@@ -95,7 +95,7 @@
     <item>
       <title>Healthcare</title>
       <link>http://blog.ivrpowers.com/tags/healthcare/</link>
-      <pubDate>Wed, 05 Jul 2017 13:39:50 +0200</pubDate>
+      <pubDate>Sat, 08 Jul 2017 10:00:53 +0200</pubDate>
       
       <guid>http://blog.ivrpowers.com/tags/healthcare/</guid>
       <description></description>
@@ -149,7 +149,7 @@
     <item>
       <title>Livechat</title>
       <link>http://blog.ivrpowers.com/tags/livechat/</link>
-      <pubDate>Tue, 20 Jun 2017 10:51:29 +0200</pubDate>
+      <pubDate>Fri, 07 Jul 2017 16:15:59 +0200</pubDate>
       
       <guid>http://blog.ivrpowers.com/tags/livechat/</guid>
       <description></description>
@@ -176,7 +176,7 @@
     <item>
       <title>Mhealth</title>
       <link>http://blog.ivrpowers.com/tags/mhealth/</link>
-      <pubDate>Wed, 05 Jul 2017 13:39:50 +0200</pubDate>
+      <pubDate>Sat, 08 Jul 2017 10:00:53 +0200</pubDate>
       
       <guid>http://blog.ivrpowers.com/tags/mhealth/</guid>
       <description></description>
@@ -185,7 +185,7 @@
     <item>
       <title>Rtc</title>
       <link>http://blog.ivrpowers.com/tags/rtc/</link>
-      <pubDate>Wed, 05 Jul 2017 13:39:50 +0200</pubDate>
+      <pubDate>Sun, 09 Jul 2017 00:20:05 +0200</pubDate>
       
       <guid>http://blog.ivrpowers.com/tags/rtc/</guid>
       <description></description>
@@ -194,7 +194,7 @@
     <item>
       <title>Rtmp</title>
       <link>http://blog.ivrpowers.com/tags/rtmp/</link>
-      <pubDate>Wed, 21 Jun 2017 00:20:05 +0200</pubDate>
+      <pubDate>Sun, 09 Jul 2017 00:20:05 +0200</pubDate>
       
       <guid>http://blog.ivrpowers.com/tags/rtmp/</guid>
       <description></description>
@@ -206,6 +206,15 @@
       <pubDate>Wed, 28 Jun 2017 00:30:56 +0200</pubDate>
       
       <guid>http://blog.ivrpowers.com/tags/sdk/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sip</title>
+      <link>http://blog.ivrpowers.com/tags/sip/</link>
+      <pubDate>Sun, 09 Jul 2017 00:20:05 +0200</pubDate>
+      
+      <guid>http://blog.ivrpowers.com/tags/sip/</guid>
       <description></description>
     </item>
     
@@ -230,7 +239,7 @@
     <item>
       <title>Telehealth</title>
       <link>http://blog.ivrpowers.com/tags/telehealth/</link>
-      <pubDate>Wed, 05 Jul 2017 13:39:50 +0200</pubDate>
+      <pubDate>Sat, 08 Jul 2017 10:00:53 +0200</pubDate>
       
       <guid>http://blog.ivrpowers.com/tags/telehealth/</guid>
       <description></description>
@@ -264,9 +273,18 @@
     </item>
     
     <item>
+      <title>Voip</title>
+      <link>http://blog.ivrpowers.com/tags/voip/</link>
+      <pubDate>Sun, 09 Jul 2017 00:20:05 +0200</pubDate>
+      
+      <guid>http://blog.ivrpowers.com/tags/voip/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Webrtc</title>
       <link>http://blog.ivrpowers.com/tags/webrtc/</link>
-      <pubDate>Tue, 04 Jul 2017 10:13:18 +0200</pubDate>
+      <pubDate>Sun, 09 Jul 2017 00:20:05 +0200</pubDate>
       
       <guid>http://blog.ivrpowers.com/tags/webrtc/</guid>
       <description></description>

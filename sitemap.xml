@@ -13,6 +13,16 @@
   </url>
   
   <url>
+    <loc>http://blog.ivrpowers.com/post/technologies/webrtc-rtmp-to-sip-calling/</loc>
+    <lastmod>2017-07-09T00:20:05+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://blog.ivrpowers.com/post/healthcare/70-percent-doctor-office-visits-are-unnecessary/</loc>
+    <lastmod>2017-07-08T10:00:53+02:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://blog.ivrpowers.com/post/customerengagement/age-of-consumer/</loc>
     <lastmod>2017-07-06T14:08:06+02:00</lastmod>
   </url>
@@ -20,6 +30,11 @@
   <url>
     <loc>http://blog.ivrpowers.com/post/healthcare/next-doctor-appointment/</loc>
     <lastmod>2017-07-05T13:39:50+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://blog.ivrpowers.com/post/trends/video-call-centers/</loc>
+    <lastmod>2017-07-07T16:15:59+02:00</lastmod>
   </url>
   
   <url>
@@ -219,7 +234,7 @@
   
   <url>
     <loc>http://blog.ivrpowers.com/tags/cctr/</loc>
-    <lastmod>2017-07-06T14:08:06+02:00</lastmod>
+    <lastmod>2017-07-09T00:20:05+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -279,13 +294,13 @@
   
   <url>
     <loc>http://blog.ivrpowers.com/tags/healthcare/</loc>
-    <lastmod>2017-07-05T13:39:50+02:00</lastmod>
+    <lastmod>2017-07-08T10:00:53+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://blog.ivrpowers.com/categories/healthcare/</loc>
-    <lastmod>2017-07-05T13:39:50+02:00</lastmod>
+    <lastmod>2017-07-08T10:00:53+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -327,7 +342,7 @@
   
   <url>
     <loc>http://blog.ivrpowers.com/tags/livechat/</loc>
-    <lastmod>2017-06-20T10:51:29+02:00</lastmod>
+    <lastmod>2017-07-07T16:15:59+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -351,7 +366,7 @@
   
   <url>
     <loc>http://blog.ivrpowers.com/tags/mhealth/</loc>
-    <lastmod>2017-07-05T13:39:50+02:00</lastmod>
+    <lastmod>2017-07-08T10:00:53+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -369,19 +384,25 @@
   
   <url>
     <loc>http://blog.ivrpowers.com/tags/rtc/</loc>
-    <lastmod>2017-07-05T13:39:50+02:00</lastmod>
+    <lastmod>2017-07-09T00:20:05+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://blog.ivrpowers.com/tags/rtmp/</loc>
-    <lastmod>2017-06-21T00:20:05+02:00</lastmod>
+    <lastmod>2017-07-09T00:20:05+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://blog.ivrpowers.com/tags/sdk/</loc>
     <lastmod>2017-06-28T00:30:56+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://blog.ivrpowers.com/tags/sip/</loc>
+    <lastmod>2017-07-09T00:20:05+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -417,19 +438,19 @@
   
   <url>
     <loc>http://blog.ivrpowers.com/categories/technologies/</loc>
-    <lastmod>2017-06-21T00:20:05+02:00</lastmod>
+    <lastmod>2017-07-09T00:20:05+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://blog.ivrpowers.com/tags/telehealth/</loc>
-    <lastmod>2017-07-05T13:39:50+02:00</lastmod>
+    <lastmod>2017-07-08T10:00:53+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://blog.ivrpowers.com/categories/trends/</loc>
-    <lastmod>2017-06-26T10:55:18+02:00</lastmod>
+    <lastmod>2017-07-07T16:15:59+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -458,8 +479,14 @@
   </url>
   
   <url>
+    <loc>http://blog.ivrpowers.com/tags/voip/</loc>
+    <lastmod>2017-07-09T00:20:05+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://blog.ivrpowers.com/tags/webrtc/</loc>
-    <lastmod>2017-07-04T10:13:18+02:00</lastmod>
+    <lastmod>2017-07-09T00:20:05+02:00</lastmod>
     <priority>0</priority>
   </url>
   
