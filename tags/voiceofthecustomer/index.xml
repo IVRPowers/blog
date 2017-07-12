@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Voiceofthecustomer on Blog</title>
+    <link>http://blog.ivrpowers.com/tags/voiceofthecustomer/</link>
+    <description>Recent content in Voiceofthecustomer on Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 12 Jul 2017 12:04:07 +0200</lastBuildDate>
+    
+	<atom:link href="http://blog.ivrpowers.com/tags/voiceofthecustomer/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Time is Money on Customer Experience</title>
+      <link>http://blog.ivrpowers.com/post/customerengagement/time-is-money/</link>
+      <pubDate>Wed, 12 Jul 2017 12:04:07 +0200</pubDate>
+      
+      <guid>http://blog.ivrpowers.com/post/customerengagement/time-is-money/</guid>
+      <description>Customer expectations are growing every day and two of the key factors are time and effort. Customers can be frustrated if they need to spend a lot of time resolving an issue or jumping hoops to do it. They hate being transferred and feel tired of repeating themselves. Difficult or high effort experiences make the customer feel exhausted and are the main cause of disloyalty.
+Companies should take into consideration that the impact of a bad experience is huge.</description>
+    </item>
+    
+  </channel>
+</rss>

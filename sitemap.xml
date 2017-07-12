@@ -13,6 +13,11 @@
   </url>
   
   <url>
+    <loc>http://blog.ivrpowers.com/post/customerengagement/time-is-money/</loc>
+    <lastmod>2017-07-12T12:04:07+02:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://blog.ivrpowers.com/post/technologies/webrtc-rtmp-to-sip-calling/</loc>
     <lastmod>2017-07-09T00:20:05+02:00</lastmod>
   </url>
@@ -217,7 +222,7 @@
   
   <url>
     <loc>http://blog.ivrpowers.com/tags/businessstrategy/</loc>
-    <lastmod>2017-07-07T16:15:59+02:00</lastmod>
+    <lastmod>2017-07-12T12:04:07+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -240,19 +245,19 @@
   
   <url>
     <loc>http://blog.ivrpowers.com/tags/custexp/</loc>
-    <lastmod>2017-07-07T16:15:59+02:00</lastmod>
+    <lastmod>2017-07-12T12:04:07+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://blog.ivrpowers.com/tags/customerengagement/</loc>
-    <lastmod>2017-07-06T14:08:06+02:00</lastmod>
+    <lastmod>2017-07-12T12:04:07+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://blog.ivrpowers.com/categories/customerengagement/</loc>
-    <lastmod>2017-07-06T14:08:06+02:00</lastmod>
+    <lastmod>2017-07-12T12:04:07+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -469,6 +474,12 @@
   <url>
     <loc>http://blog.ivrpowers.com/tags/videortc/</loc>
     <lastmod>2017-06-30T19:11:25+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://blog.ivrpowers.com/tags/voiceofthecustomer/</loc>
+    <lastmod>2017-07-12T12:04:07+02:00</lastmod>
     <priority>0</priority>
   </url>
   
