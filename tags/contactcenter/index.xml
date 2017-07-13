@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Contactcenter on Blog</title>
+    <link>http://blog.ivrpowers.com/tags/contactcenter/</link>
+    <description>Recent content in Contactcenter on Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 13 Jul 2017 10:34:40 +0200</lastBuildDate>
+    
+	<atom:link href="http://blog.ivrpowers.com/tags/contactcenter/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Contact Centers: Digital Transformation, is not an Option</title>
+      <link>http://blog.ivrpowers.com/post/contactcenter/contact-centers-digital-transformation/</link>
+      <pubDate>Thu, 13 Jul 2017 10:34:40 +0200</pubDate>
+      
+      <guid>http://blog.ivrpowers.com/post/contactcenter/contact-centers-digital-transformation/</guid>
+      <description>We know the way people communicate has changed, and therefore, the way customers want to communicate with organizations is also changing. Technology becomes more important to our day to day living. For instance, the phone is the most used platform but customers expect to engage with companies across multiple channels.
+Phone usage is changing According to Dimension Data’s “2016 global contact center benchmarking report”, digital interactions account for over 42% of all interactions.</description>
+    </item>
+    
+    <item>
+      <title>Contact Centers should Know Video is Here to Stay</title>
+      <link>http://blog.ivrpowers.com/post/trends/video-call-centers/</link>
+      <pubDate>Fri, 07 Jul 2017 16:15:59 +0200</pubDate>
+      
+      <guid>http://blog.ivrpowers.com/post/trends/video-call-centers/</guid>
+      <description>Video in Real-Time Communication (RTC) is changing the image of the customer service industry. The success of pioneers who provide video chat customer service marked the dawning of a new era, because offering a good customer service is a key part for any business success.
+Humanifying Customer Care But despite the good results, video has not been widely adopted in contact centers. Maybe it’s time for the industry to consider how the use of video can enhance the effectiveness of customer services and solve some of the big issues of contact centers.</description>
+    </item>
+    
+    <item>
+      <title>The Age of the Customer in Contact Centers</title>
+      <link>http://blog.ivrpowers.com/post/customerengagement/age-of-consumer/</link>
+      <pubDate>Thu, 06 Jul 2017 14:08:06 +0200</pubDate>
+      
+      <guid>http://blog.ivrpowers.com/post/customerengagement/age-of-consumer/</guid>
+      <description>Surveys say customers highly value great customer experiences. But companies should take into account that customer expectations are rising. A shift is taking place. The explosion of digital and technological innovations is having a profound impact on Customer Empowerment. Therefore, the need for a great Customer Experience is higher than ever.
+Many companies are worried when customer satisfaction with Contact Centers declines. And they are right, Contact Centers are directly responsible for maintaining the company’s image.</description>
+    </item>
+    
+    <item>
+      <title>It&#39;s time to add a Webcall button to your Contact Center</title>
+      <link>http://blog.ivrpowers.com/post/trends/time-add-webcall-button-contact-center/</link>
+      <pubDate>Mon, 26 Jun 2017 10:55:18 +0200</pubDate>
+      
+      <guid>http://blog.ivrpowers.com/post/trends/time-add-webcall-button-contact-center/</guid>
+      <description>Beyond improving quality of service QoS and call productivity, any Contact Center has to be ready for the next Internet evolution challenges. For any online business or ecommerce website, the most efficient way to contact a sale representative or get human support is a Web Real-Time Communication (WebRTC) with your agents but without leaving the web session, so you have to add a one-click button located near to the product or service they are selecting.</description>
+    </item>
+    
+  </channel>
+</rss>
