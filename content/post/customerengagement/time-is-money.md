@@ -24,7 +24,7 @@ Some weeks ago, we talked about one of the most successful customer services: [T
  
 A bad customer experience leads to disloyalty and hurts your company’s image, but a good one is **the best path to business success.** Just investing in the right solutions, your company can make a difference and customers will love it.
 
-If you need more information about solutions to enhance your customer service, [contact us.](www.ivrpowers.com) 
+If you need more information about solutions to enhance your customer service, [contact us](http://www.ivrpowers.com). 
 
  
 ---
