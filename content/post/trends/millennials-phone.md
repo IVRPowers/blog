@@ -19,7 +19,7 @@ After a decade of growth, the amount of time we spent talking on our mobile phon
 
 ### Phone Calls interrupt us
  
-First of all, he points out that phone calls become annoying as we do not expect them anymore. In fact, we tend to link voice calls to outbound telemarketing that interrupt our activities. Millennials see the phone as overly intrusive, even presumptuous.
+First of all, he points out that phone calls become annoying as we do not expect them anymore. In fact, we tend to link voice calls to outbound telemarketing that interrupt our activities. Millennials see the phone as overly intrusive, even presumptuous. On the one hand, it is about manners, on the other hand, it is also about priorities. They assume that whenever anyone try to reach them on the phone, it is because of an emergency.
 
 ### Millennials don’t phone anymore
  
