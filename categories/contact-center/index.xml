@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Contact Center on Blog</title>
+    <link>http://blog.ivrpowers.com/categories/contact-center/</link>
+    <description>Recent content in Contact Center on Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 13 Jul 2017 10:34:40 +0200</lastBuildDate>
+    
+	<atom:link href="http://blog.ivrpowers.com/categories/contact-center/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Contact Centers: Digital Transformation, is not an Option</title>
+      <link>http://blog.ivrpowers.com/post/contactcenter/contact-centers-digital-transformation/</link>
+      <pubDate>Thu, 13 Jul 2017 10:34:40 +0200</pubDate>
+      
+      <guid>http://blog.ivrpowers.com/post/contactcenter/contact-centers-digital-transformation/</guid>
+      <description>Photo source: Unplash. Creative Commons We know the way people communicate has changed, and therefore, the way customers want to communicate with organizations is also changing. Technology becomes more important to our day to day living. For instance, the phone is the most used platform but customers expect to engage with companies across multiple channels.
+Phone usage is changing According to Dimension Data’s “2016 global contact center benchmarking report”, digital interactions account for over 42% of all interactions.</description>
+    </item>
+    
+  </channel>
+</rss>
