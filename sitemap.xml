@@ -13,6 +13,11 @@
   </url>
   
   <url>
+    <loc>http://blog.ivrpowers.com/post/healthcare/technology-meets-medicine/</loc>
+    <lastmod>2017-07-18T11:31:50+02:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://blog.ivrpowers.com/post/trends/millennials-phone/</loc>
     <lastmod>2017-07-17T10:44:29+02:00</lastmod>
   </url>
@@ -315,13 +320,13 @@
   
   <url>
     <loc>http://blog.ivrpowers.com/tags/healthcare/</loc>
-    <lastmod>2017-07-08T10:00:53+02:00</lastmod>
+    <lastmod>2017-07-18T11:31:50+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://blog.ivrpowers.com/categories/healthcare/</loc>
-    <lastmod>2017-07-08T10:00:53+02:00</lastmod>
+    <lastmod>2017-07-18T11:31:50+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -387,7 +392,7 @@
   
   <url>
     <loc>http://blog.ivrpowers.com/tags/mhealth/</loc>
-    <lastmod>2017-07-08T10:00:53+02:00</lastmod>
+    <lastmod>2017-07-18T11:31:50+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -405,7 +410,7 @@
   
   <url>
     <loc>http://blog.ivrpowers.com/tags/rtc/</loc>
-    <lastmod>2017-07-09T00:20:05+02:00</lastmod>
+    <lastmod>2017-07-18T11:31:50+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -465,7 +470,7 @@
   
   <url>
     <loc>http://blog.ivrpowers.com/tags/telehealth/</loc>
-    <lastmod>2017-07-08T10:00:53+02:00</lastmod>
+    <lastmod>2017-07-18T11:31:50+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -490,6 +495,12 @@
   <url>
     <loc>http://blog.ivrpowers.com/tags/videochat/</loc>
     <lastmod>2017-07-17T10:44:29+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://blog.ivrpowers.com/tags/videoconferencing/</loc>
+    <lastmod>2017-07-18T11:31:50+02:00</lastmod>
     <priority>0</priority>
   </url>
   
