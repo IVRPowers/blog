@@ -11,6 +11,8 @@ weight = 5
 +++
 
 ![Interactive Powers](/postimages/general/ivrpowers-posts-01.003.jpeg)
+---------
+###### Photo source: Interactive Powers
 
 **Interactive Powers** develops technology that helps your organization connect, communicate and engage with you customers, employees and stakeholders. Contact with us to find out more about how we can help you achieve your business communication goals. 
 

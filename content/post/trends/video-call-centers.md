@@ -11,6 +11,8 @@ image = "/postimages/trends/ivrpowers-posts-01.172.jpeg"
 +++
 
 ![Woman and screens](/postimages/trends/ivrpowers-posts-01.172.jpeg)
+------------
+###### Photo source: Pexels. Creative Commons
 
 Video in Real-Time Communication ([RTC](http://blog.ivrpowers.com/post/technologies/what-is-rtc/)) is changing the image of the **customer service industry**. The success of pioneers who provide video chat customer service marked the dawning of a new era, because offering **a good customer service is a key part for any business success**.
 

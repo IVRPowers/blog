@@ -11,6 +11,8 @@ image = "/postimages/customerengagement/ivrpowers-posts-01.154.jpeg"
 +++
 
 ![man speaking on the phone](/postimages/customerengagement/ivrpowers-posts-01.154.jpeg)
+---------
+###### Photo source: Unplash. Creative Commons
 
 Customer expectations are growing every day and two of the key factors are time and effort. **Customers can be frustrated** if they need to spend a lot of time resolving an issue or jumping hoops to do it. They hate being transferred and feel tired of repeating themselves. Difficult or high effort experiences make the customer feel exhausted and are the main cause of disloyalty.
  

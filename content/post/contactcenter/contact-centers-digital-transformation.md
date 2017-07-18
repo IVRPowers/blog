@@ -1,5 +1,5 @@
 +++
-categories = ["trends"]
+categories = ["contact center"]
 date = "2017-07-13T10:34:40+02:00"
 description = "Customer Engagement"
 draft = false
@@ -11,6 +11,8 @@ image = "/postimages/trends/ivrpowers-posts-01.175.jpeg"
 +++
 
 ![Telephone boxes](/postimages/trends/ivrpowers-posts-01.175.jpeg)
+------------
+###### Photo source: Unplash. Creative Commons
 
 We know **the way people communicate has changed**, and therefore, the way customers want to communicate with organizations is also changing. Technology becomes more important to our day to day living. For instance, the phone is the most used platform but **customers expect to engage with companies across multiple channels**. 
 

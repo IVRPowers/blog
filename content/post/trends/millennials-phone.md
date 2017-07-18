@@ -11,6 +11,8 @@ image = "/postimages/trends/ivrpowers-posts-01.176.jpg"
 +++
 
 ![Young people on the phone](/postimages/trends/ivrpowers-posts-01.176.jpg)
+------------
+###### Photo source: Pixabay. Creative Commons
 
 A joke circulating on twitter said *“The phone call is becoming the new hand written letter”*. And it was right, because a paradigm shift has taken place. Recent surveys show that we are not primarily using our phone to make calls. Nowadays, we are more likely to contact family and friends via alternative means, like instant messaging services.
  

@@ -12,7 +12,7 @@ image = "/postimages/healthcare/ivrpowers-posts-01.178.jpeg"
 
 ![Surgery](/postimages/healthcare/ivrpowers-posts-01.178.jpeg)
 ------------
-###### Photo source: Flickr. Creative Commons Licence
+###### Photo source: Flickr. Creative Commons
 
  
 Telemedicine exists since long time ago. In 19th century, Sigmund Freud used to write letters to his patients. It was a primitive distance doctor-patient relationship. However, in the next century telemedicine did not change a lot. Just few years ago, doctors would pick up the phone, and that was about as far as we have got in terms of telemedicine.  But things have evolved in the last decade.
