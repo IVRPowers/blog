@@ -11,7 +11,7 @@ weight = 30
 
 ![Webcall SIP](/postimages/technologies/ivrpowers-posts-01.110.jpeg)
 ---------
-###### Image source: Interactive Powers' elboration
+###### Image source: Interactive Powers' elaboration
 
 How can you call a Desk Phone from any Web Browser? Our both **Video Gateways (WebRTC | RTMP)** can convert web browser media streams (video - audio - data) to SIP from [WebRTC](http://blog.ivrpowers.com/post/technologies/what-is-webrtc/) or [RTMP](http://blog.ivrpowers.com/post/technologies/what-is-rtmp/) peers communications. This interesting feature allows to connect easily web services to existing **VoIP telephony channels** of your IVR or PBX. We can consider all of this approach like a **direct calling webphone** or like a **WebRTC-DDI or RTMP-DDI** in a SIP trunk from an operator service configuration. 
 
