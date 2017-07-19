@@ -11,6 +11,8 @@ weight = 39
 +++
 
 ![VideoRTC.js](/postimages/development/ivrpowers-posts-01.039.jpeg)
+-------
+###### Photo source: Interactive Powers elaboration
 
 Since 2015, Interactive Powers has been diligently refining its [Video RTC](http://blog.ivrpowers.com/post/products/video-rtc/) solutions, **API Framework** and **SDKs** to make embedded video much more accessible for developers and enterprises who are looking to rapidly integrate reliable video chat into their own applications.
 

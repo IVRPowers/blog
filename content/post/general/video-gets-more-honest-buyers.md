@@ -11,6 +11,8 @@ weight = 36
 +++
 
 ![Video on Mobile Phone](/postimages/general/ivrpowers-posts-01.007.jpg)
+-------
+###### Photo source: Unsplash. Creative Commons
 
 According to a *W. Frank Barton School of Business at Wichita State University* new research, sending a text message, making a phone call or have a face-to-face conversation leads people to lie often than video conferencing. The study found that buyers were:
 	

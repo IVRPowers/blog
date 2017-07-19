@@ -10,6 +10,8 @@ weight = 35
 +++
 
 ![WebRTC Laptop](/postimages/marketing/ivrpowers-posts-01.083.jpeg)
+-------
+###### Photo source: Unsplash. Creative Commons
 
 A **WebRTC System** can bring several benefits to all types of enterprises and users. For different market segments, the benefit would really be overwhelming, as the app would give them the power to open up a wealth of opportunities to serve their clients and customers, in a very innovative way. Using the network, companies can open up real-time and live video chats sessions with customers, and vice-versa, to provide their help and support. Here are some of the benefits that Web Real Time Communications [(WebRTC)](http://blog.ivrpowers.com/post/technologies/what-is-webrtc/) can provide to all businesses and its users:
 

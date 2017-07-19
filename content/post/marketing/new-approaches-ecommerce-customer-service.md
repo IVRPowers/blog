@@ -11,6 +11,8 @@ image = "/postimages/marketing/ivrpowers-posts-01.106.jpg"
 +++
 
 ![Ecommerce shop](/postimages/marketing/ivrpowers-posts-01.106.jpg)
+-------
+###### Photo source: Unsplash. Creative Commons
 
 Exceptional customer service is critical in e-commerce. [Surveys](https://www.helpscout.net/75-customer-service-facts-quotes-statistics/) show that **customer experience** highly affect purchases. 70% of buying experiences are based on how the customers feel they are being treated. The impact is so high that 91% of unhappy customers will not willingly do business with the company again.
 
