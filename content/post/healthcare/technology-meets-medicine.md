@@ -23,7 +23,7 @@ Today, when we talk about telemedicine we talk about multiple platforms and adva
  
 In fact, telemedicine is already modifying the healthcare system in United States. For example, the use of new technologies in stroke care is one of the most important at the moment. First medical **robot assistants** are used by doctors to contact patients while increasingly more diagnosis are performed  through **video conference.**
 
-#### Costs Reduction 
+### Costs Reduction 
 
 Hospitals are also trying to reduce costs and telemedicine is one option that solve some economic issues, while preserving the quality of health services. Another reason to support telemedicine is that it **facilitates the access** to the health system.
 
