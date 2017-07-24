@@ -13,6 +13,11 @@
   </url>
   
   <url>
+    <loc>http://blog.ivrpowers.com/post/trends/5-trends-customer-experience/</loc>
+    <lastmod>2017-07-24T12:30:37+02:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://blog.ivrpowers.com/post/customerengagement/secret-emotion/</loc>
     <lastmod>2017-07-19T13:10:11+02:00</lastmod>
   </url>
@@ -242,7 +247,7 @@
   
   <url>
     <loc>http://blog.ivrpowers.com/tags/businessstrategy/</loc>
-    <lastmod>2017-07-19T13:10:11+02:00</lastmod>
+    <lastmod>2017-07-24T12:30:37+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -271,24 +276,24 @@
   
   <url>
     <loc>http://blog.ivrpowers.com/tags/contactcenter/</loc>
-    <lastmod>2017-07-19T13:10:11+02:00</lastmod>
+    <lastmod>2017-07-24T12:30:37+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://blog.ivrpowers.com/tags/custexp/</loc>
+    <lastmod>2017-07-24T12:30:37+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://blog.ivrpowers.com/tags/customerengagement/</loc>
     <lastmod>2017-07-19T13:10:11+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://blog.ivrpowers.com/categories/customerengagement/</loc>
-    <lastmod>2017-07-19T13:10:11+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://blog.ivrpowers.com/tags/customerengagement/</loc>
     <lastmod>2017-07-19T13:10:11+02:00</lastmod>
     <priority>0</priority>
   </url>
@@ -330,13 +335,13 @@
   </url>
   
   <url>
-    <loc>http://blog.ivrpowers.com/categories/healthcare/</loc>
+    <loc>http://blog.ivrpowers.com/tags/healthcare/</loc>
     <lastmod>2017-07-18T11:31:50+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://blog.ivrpowers.com/tags/healthcare/</loc>
+    <loc>http://blog.ivrpowers.com/categories/healthcare/</loc>
     <lastmod>2017-07-18T11:31:50+02:00</lastmod>
     <priority>0</priority>
   </url>
@@ -366,6 +371,12 @@
   </url>
   
   <url>
+    <loc>http://blog.ivrpowers.com/tags/iot/</loc>
+    <lastmod>2017-07-24T12:30:37+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://blog.ivrpowers.com/tags/ivr/</loc>
     <lastmod>2017-06-27T12:40:31+02:00</lastmod>
     <priority>0</priority>
@@ -390,20 +401,26 @@
   </url>
   
   <url>
-    <loc>http://blog.ivrpowers.com/categories/marketing/</loc>
-    <lastmod>2017-06-29T00:20:05+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>http://blog.ivrpowers.com/tags/marketing/</loc>
     <lastmod>2017-06-12T20:40:07+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
+    <loc>http://blog.ivrpowers.com/categories/marketing/</loc>
+    <lastmod>2017-06-29T00:20:05+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://blog.ivrpowers.com/tags/mhealth/</loc>
     <lastmod>2017-07-18T11:31:50+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://blog.ivrpowers.com/tags/omnichannel/</loc>
+    <lastmod>2017-07-24T12:30:37+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -440,6 +457,12 @@
   <url>
     <loc>http://blog.ivrpowers.com/tags/sip/</loc>
     <lastmod>2017-07-09T00:20:05+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://blog.ivrpowers.com/tags/socialnetworking/</loc>
+    <lastmod>2017-07-24T12:30:37+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -493,7 +516,7 @@
   
   <url>
     <loc>http://blog.ivrpowers.com/categories/trends/</loc>
-    <lastmod>2017-07-17T10:44:29+02:00</lastmod>
+    <lastmod>2017-07-24T12:30:37+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -541,7 +564,7 @@
   
   <url>
     <loc>http://blog.ivrpowers.com/tags/webrtc/</loc>
-    <lastmod>2017-07-09T00:20:05+02:00</lastmod>
+    <lastmod>2017-07-24T12:30:37+02:00</lastmod>
     <priority>0</priority>
   </url>
   
