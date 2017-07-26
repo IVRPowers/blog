@@ -13,6 +13,11 @@
   </url>
   
   <url>
+    <loc>http://blog.ivrpowers.com/post/healthcare/telehealth-time-saver/</loc>
+    <lastmod>2017-07-26T10:26:53+02:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://blog.ivrpowers.com/post/trends/5-trends-customer-experience/</loc>
     <lastmod>2017-07-24T12:30:37+02:00</lastmod>
   </url>
@@ -336,13 +341,13 @@
   
   <url>
     <loc>http://blog.ivrpowers.com/tags/healthcare/</loc>
-    <lastmod>2017-07-18T11:31:50+02:00</lastmod>
+    <lastmod>2017-07-26T10:26:53+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://blog.ivrpowers.com/categories/healthcare/</loc>
-    <lastmod>2017-07-18T11:31:50+02:00</lastmod>
+    <lastmod>2017-07-26T10:26:53+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -415,6 +420,12 @@
   <url>
     <loc>http://blog.ivrpowers.com/tags/mhealth/</loc>
     <lastmod>2017-07-18T11:31:50+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://blog.ivrpowers.com/tags/mobility/</loc>
+    <lastmod>2017-07-26T10:26:53+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -504,13 +515,13 @@
   
   <url>
     <loc>http://blog.ivrpowers.com/tags/telehealth/</loc>
-    <lastmod>2017-07-18T11:31:50+02:00</lastmod>
+    <lastmod>2017-07-26T10:26:53+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://blog.ivrpowers.com/tags/telemedicine/</loc>
-    <lastmod>2017-07-05T13:39:50+02:00</lastmod>
+    <lastmod>2017-07-26T10:26:53+02:00</lastmod>
     <priority>0</priority>
   </url>
   
