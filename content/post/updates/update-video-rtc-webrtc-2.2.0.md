@@ -6,7 +6,7 @@ draft = false
 tags = ["webrtc","rtc", "ivrpowers"]
 title = "Video RTC (WebRTC) v2.2"
 image = "/postimages/updates/ivrpowers-posts-01.088.jpeg"
-weight = 22
+weight = 27
 featured = true
 +++
 
