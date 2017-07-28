@@ -11,6 +11,8 @@ image = "/postimages/customerengagement/ivrpowers-posts-01.181.jpeg"
 +++
 
 ![girl on videoconference](/postimages/customerengagement/ivrpowers-posts-01.181.jpeg)
+-----------
+###### Photo source: Pixabay. Creative Commons
  
 Video Real-Time Communications [(RTC)](http://localhost:1313/post/technologies/what-is-rtc/) is increasingly becoming a popular support channel. According to report from Gartner, [more than 100 of the 500 largest global businesses](http://www.gartner.com/newsroom/id/2956618) will introduce video-based chat by 2018. But bringing online chat to website is not enough. To obtain good results, it should also be implemented correctly.
  
