@@ -6,10 +6,21 @@
     <description>Recent content in Rtc on Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 18 Jul 2017 11:31:50 +0200</lastBuildDate>
+    <lastBuildDate>Thu, 27 Jul 2017 09:00:00 +0200</lastBuildDate>
     
 	<atom:link href="http://blog.ivrpowers.com/tags/rtc/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Video RTC (WebRTC) v2.2</title>
+      <link>http://blog.ivrpowers.com/post/updates/update-video-rtc-webrtc-2.2.0/</link>
+      <pubDate>Thu, 27 Jul 2017 09:00:00 +0200</pubDate>
+      
+      <guid>http://blog.ivrpowers.com/post/updates/update-video-rtc-webrtc-2.2.0/</guid>
+      <description>Release Note We are pleased to announce that our new Video RTC (Gateway WebRTC) v2.2.0 has been released for suitable production services. This new version includes a lot of improvements and new features. All users with previous maintained versions can upgrade today. Please contact our support!
+ChangeLog Version 2.2.0:
+## [2.2.0] - 2017-07-27 ### Added - Added interval Watchdog - Added autocall GET parameter to the Webclient URL usecase - Added overprint logo in the Webclient usecase  Interactive Powers - Streamline your business communications</description>
+    </item>
     
     <item>
       <title>Telehealth: When Technology Meets Medicine</title>
