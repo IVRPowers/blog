@@ -88,6 +88,11 @@
   </url>
   
   <url>
+    <loc>http://blog.ivrpowers.com/post/general/video-gets-more-honest-buyers/</loc>
+    <lastmod>2017-06-30T19:11:25+02:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://blog.ivrpowers.com/post/financial/video-online-onboarding/</loc>
     <lastmod>2017-06-30T13:13:32+02:00</lastmod>
   </url>
@@ -95,11 +100,6 @@
   <url>
     <loc>http://blog.ivrpowers.com/post/marketing/webrtc-system-benefits/</loc>
     <lastmod>2017-06-29T00:20:05+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://blog.ivrpowers.com/post/general/video-gets-more-honest-buyers/</loc>
-    <lastmod>2017-06-30T19:11:25+02:00</lastmod>
   </url>
   
   <url>
@@ -123,18 +123,18 @@
   </url>
   
   <url>
-    <loc>http://blog.ivrpowers.com/post/technologies/what-is-split/</loc>
-    <lastmod>2017-06-21T00:20:05+02:00</lastmod>
-  </url>
-  
-  <url>
     <loc>http://blog.ivrpowers.com/post/trends/webrtc-trending-technology-business/</loc>
     <lastmod>2017-06-21T10:55:18+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://blog.ivrpowers.com/post/marketing/3-key-benefits-video-chat/</loc>
-    <lastmod>2017-06-20T10:51:29+02:00</lastmod>
+    <loc>http://blog.ivrpowers.com/post/technologies/what-is-split/</loc>
+    <lastmod>2017-06-21T00:20:05+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://blog.ivrpowers.com/post/marketing/new-approaches-ecommerce-customer-service/</loc>
+    <lastmod>2017-06-20T12:46:41+02:00</lastmod>
   </url>
   
   <url>
@@ -143,8 +143,8 @@
   </url>
   
   <url>
-    <loc>http://blog.ivrpowers.com/post/marketing/new-approaches-ecommerce-customer-service/</loc>
-    <lastmod>2017-06-20T12:46:41+02:00</lastmod>
+    <loc>http://blog.ivrpowers.com/post/marketing/3-key-benefits-video-chat/</loc>
+    <lastmod>2017-06-20T10:51:29+02:00</lastmod>
   </url>
   
   <url>
@@ -163,6 +163,11 @@
   </url>
   
   <url>
+    <loc>http://blog.ivrpowers.com/post/support/amazon-mayday-button/</loc>
+    <lastmod>2017-06-16T10:42:26+02:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://blog.ivrpowers.com/post/socials/followus-twitter/</loc>
     <lastmod>2017-06-16T00:20:05+02:00</lastmod>
   </url>
@@ -173,8 +178,8 @@
   </url>
   
   <url>
-    <loc>http://blog.ivrpowers.com/post/support/amazon-mayday-button/</loc>
-    <lastmod>2017-06-16T10:42:26+02:00</lastmod>
+    <loc>http://blog.ivrpowers.com/post/marketing/video-chat-good-strategy-business/</loc>
+    <lastmod>2017-06-15T13:49:56+02:00</lastmod>
   </url>
   
   <url>
@@ -188,13 +193,8 @@
   </url>
   
   <url>
-    <loc>http://blog.ivrpowers.com/post/marketing/video-chat-good-strategy-business/</loc>
-    <lastmod>2017-06-15T13:49:56+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://blog.ivrpowers.com/post/technologies/what-is-rtmp/</loc>
-    <lastmod>2017-06-14T00:19:54+02:00</lastmod>
+    <loc>http://blog.ivrpowers.com/post/trends/increasing-business-rtc/</loc>
+    <lastmod>2017-06-14T13:32:54+02:00</lastmod>
   </url>
   
   <url>
@@ -203,8 +203,13 @@
   </url>
   
   <url>
-    <loc>http://blog.ivrpowers.com/post/trends/increasing-business-rtc/</loc>
-    <lastmod>2017-06-14T13:32:54+02:00</lastmod>
+    <loc>http://blog.ivrpowers.com/post/technologies/what-is-rtmp/</loc>
+    <lastmod>2017-06-14T00:19:54+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://blog.ivrpowers.com/post/products/video-rtc/</loc>
+    <lastmod>2017-06-13T11:22:18+02:00</lastmod>
   </url>
   
   <url>
@@ -218,22 +223,17 @@
   </url>
   
   <url>
-    <loc>http://blog.ivrpowers.com/post/products/video-rtc/</loc>
-    <lastmod>2017-06-13T11:22:18+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://blog.ivrpowers.com/post/technologies/what-is-rtc/</loc>
-    <lastmod>2017-06-12T00:20:05+02:00</lastmod>
-  </url>
-  
-  <url>
     <loc>http://blog.ivrpowers.com/post/products/voicexml-ivr/</loc>
     <lastmod>2017-06-12T13:25:21+02:00</lastmod>
   </url>
   
   <url>
     <loc>http://blog.ivrpowers.com/post/technologies/what-is-ivr/</loc>
+    <lastmod>2017-06-12T00:20:05+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://blog.ivrpowers.com/post/technologies/what-is-rtc/</loc>
     <lastmod>2017-06-12T00:20:05+02:00</lastmod>
   </url>
   
@@ -447,7 +447,7 @@
   
   <url>
     <loc>http://blog.ivrpowers.com/post/</loc>
-    <lastmod>2017-06-12T09:42:42+02:00</lastmod>
+    <lastmod>2017-07-28T13:13:47+02:00</lastmod>
     <priority>0</priority>
   </url>
   

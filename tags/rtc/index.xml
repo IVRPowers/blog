@@ -187,16 +187,6 @@ ChangeLog Version 1.2.0:
     </item>
     
     <item>
-      <title>What is RTMP?</title>
-      <link>http://blog.ivrpowers.com/post/technologies/what-is-rtmp/</link>
-      <pubDate>Wed, 14 Jun 2017 00:19:54 +0200</pubDate>
-      
-      <guid>http://blog.ivrpowers.com/post/technologies/what-is-rtmp/</guid>
-      <description>Real Time Messaging Protocol or RTMP is mainly serving for high speed transmission of audio, video and data between flash player and a server. Initially developed by Macromedia, the protocol is now owned by Adobe, and specifications about it have only partially been released for public use.
-According to those specifications, the RTMP protocol has multiple variations, i.e. the “plain” RTMP protocol, RTMPS which is RTMP over an TLS/SSL connection, RTMPE which is RTMP encrypted using Adobe’s own security mechanism, and RTMPT which is encapsulated within HTTP requests to traverse firewalls.</description>
-    </item>
-    
-    <item>
       <title>4 Key factors to select a Telehealth Solution</title>
       <link>http://blog.ivrpowers.com/post/healthcare/4-factors-select-telehealth-solution/</link>
       <pubDate>Wed, 14 Jun 2017 10:55:18 +0200</pubDate>
@@ -207,15 +197,13 @@ To implement properly the kind of telehealth solution that both clinicians and p
     </item>
     
     <item>
-      <title>Updating the Inbound Phone Channel</title>
-      <link>http://blog.ivrpowers.com/post/trends/updating-inbound-phone-channel/</link>
-      <pubDate>Tue, 13 Jun 2017 10:55:18 +0200</pubDate>
+      <title>What is RTMP?</title>
+      <link>http://blog.ivrpowers.com/post/technologies/what-is-rtmp/</link>
+      <pubDate>Wed, 14 Jun 2017 00:19:54 +0200</pubDate>
       
-      <guid>http://blog.ivrpowers.com/post/trends/updating-inbound-phone-channel/</guid>
-      <description>Most Call Centers are only managing standard inbound phone calls with the addition of &amp;ldquo;Click-to-call&amp;rdquo; or &amp;ldquo;Call-me-back&amp;rdquo; buttons. It&amp;rsquo;s a very interesting &amp;ldquo;work around&amp;rdquo; option but it&amp;rsquo;s not enough. More and more users don&amp;rsquo;t like to make a phone call when they are browsing the net.
-Users just want to keep on the same channel for many reasons:
- they don&amp;rsquo;t want to unveils their phone number…
- they don&amp;rsquo;t know if one agent will be available now or better later… they don&amp;rsquo;t want to leave their web session context&amp;hellip; they may have bad cellular coverage conditions to make a mobile call&amp;hellip; they may be traveling outside their country under expensive roaming conditions… they may not be able to explain properly their current webpage context…  That&amp;rsquo;s a lot of reasons to make any inbound phone service fail?</description>
+      <guid>http://blog.ivrpowers.com/post/technologies/what-is-rtmp/</guid>
+      <description>Real Time Messaging Protocol or RTMP is mainly serving for high speed transmission of audio, video and data between flash player and a server. Initially developed by Macromedia, the protocol is now owned by Adobe, and specifications about it have only partially been released for public use.
+According to those specifications, the RTMP protocol has multiple variations, i.e. the “plain” RTMP protocol, RTMPS which is RTMP over an TLS/SSL connection, RTMPE which is RTMP encrypted using Adobe’s own security mechanism, and RTMPT which is encapsulated within HTTP requests to traverse firewalls.</description>
     </item>
     
     <item>
@@ -237,6 +225,18 @@ Cloud Ready. Our Video Gateway solutions are software based and ready to run ove
       <description>Video Gateway (WebRTC) includes many features or special extensions that you can activate according to your own business processes. All of this, is part of the capabilities of our Video RTC solution suite.
 Video RTC special extensions are:
 Live Chat. Video Gateway supports Live Chat feature thru a DataChannel. You can customize all the User or Agent front-end in Flash or HTML5 according the gateway mode you have deployed for your service.</description>
+    </item>
+    
+    <item>
+      <title>Updating the Inbound Phone Channel</title>
+      <link>http://blog.ivrpowers.com/post/trends/updating-inbound-phone-channel/</link>
+      <pubDate>Tue, 13 Jun 2017 10:55:18 +0200</pubDate>
+      
+      <guid>http://blog.ivrpowers.com/post/trends/updating-inbound-phone-channel/</guid>
+      <description>Most Call Centers are only managing standard inbound phone calls with the addition of &amp;ldquo;Click-to-call&amp;rdquo; or &amp;ldquo;Call-me-back&amp;rdquo; buttons. It&amp;rsquo;s a very interesting &amp;ldquo;work around&amp;rdquo; option but it&amp;rsquo;s not enough. More and more users don&amp;rsquo;t like to make a phone call when they are browsing the net.
+Users just want to keep on the same channel for many reasons:
+ they don&amp;rsquo;t want to unveils their phone number…
+ they don&amp;rsquo;t know if one agent will be available now or better later… they don&amp;rsquo;t want to leave their web session context&amp;hellip; they may have bad cellular coverage conditions to make a mobile call&amp;hellip; they may be traveling outside their country under expensive roaming conditions… they may not be able to explain properly their current webpage context…  That&amp;rsquo;s a lot of reasons to make any inbound phone service fail?</description>
     </item>
     
     <item>
