@@ -5,11 +5,11 @@ description = "Customer Engagement"
 draft = false
 tags = ["custexp","businessstrategy","contactcenter"]
 title = "Contact Centers: Digital Transformation, is not an Option"
-image = "/postimages/trends/ivrpowers-posts-01.175.jpeg"
+image = "/postimages/contactcenter/ivrpowers-posts-01.175.jpeg"
 
 +++
 
-![Telephone boxes](/postimages/trends/ivrpowers-posts-01.175.jpeg)
+![Telephone boxes](/postimages/contactcenter/ivrpowers-posts-01.175.jpeg)
 ------------
 ###### Photo source: Unplash. Creative Commons
 
