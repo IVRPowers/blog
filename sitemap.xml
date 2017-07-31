@@ -13,6 +13,11 @@
   </url>
   
   <url>
+    <loc>http://blog.ivrpowers.com/post/contactcenter/ivr-role-omnichannel/</loc>
+    <lastmod>2017-07-31T12:29:40+02:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://blog.ivrpowers.com/post/customerengagement/videochat-support/</loc>
     <lastmod>2017-07-28T13:13:47+02:00</lastmod>
   </url>
@@ -290,25 +295,31 @@
   </url>
   
   <url>
+    <loc>http://blog.ivrpowers.com/categories/contact-centers/</loc>
+    <lastmod>2017-07-31T12:29:40+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://blog.ivrpowers.com/tags/contactcenter/</loc>
-    <lastmod>2017-07-28T13:13:47+02:00</lastmod>
+    <lastmod>2017-07-31T12:29:40+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://blog.ivrpowers.com/tags/custexp/</loc>
-    <lastmod>2017-07-24T12:30:37+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://blog.ivrpowers.com/tags/customerengagement/</loc>
-    <lastmod>2017-07-28T13:13:47+02:00</lastmod>
+    <lastmod>2017-07-31T12:29:40+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://blog.ivrpowers.com/categories/customerengagement/</loc>
+    <lastmod>2017-07-28T13:13:47+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://blog.ivrpowers.com/tags/customerengagement/</loc>
     <lastmod>2017-07-28T13:13:47+02:00</lastmod>
     <priority>0</priority>
   </url>
@@ -350,13 +361,13 @@
   </url>
   
   <url>
-    <loc>http://blog.ivrpowers.com/tags/healthcare/</loc>
+    <loc>http://blog.ivrpowers.com/categories/healthcare/</loc>
     <lastmod>2017-07-26T10:26:53+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://blog.ivrpowers.com/categories/healthcare/</loc>
+    <loc>http://blog.ivrpowers.com/tags/healthcare/</loc>
     <lastmod>2017-07-26T10:26:53+02:00</lastmod>
     <priority>0</priority>
   </url>
@@ -393,7 +404,7 @@
   
   <url>
     <loc>http://blog.ivrpowers.com/tags/ivr/</loc>
-    <lastmod>2017-06-27T12:40:31+02:00</lastmod>
+    <lastmod>2017-07-31T12:29:40+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -416,14 +427,14 @@
   </url>
   
   <url>
-    <loc>http://blog.ivrpowers.com/tags/marketing/</loc>
-    <lastmod>2017-06-12T20:40:07+02:00</lastmod>
+    <loc>http://blog.ivrpowers.com/categories/marketing/</loc>
+    <lastmod>2017-06-29T00:20:05+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://blog.ivrpowers.com/categories/marketing/</loc>
-    <lastmod>2017-06-29T00:20:05+02:00</lastmod>
+    <loc>http://blog.ivrpowers.com/tags/marketing/</loc>
+    <lastmod>2017-06-12T20:40:07+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -441,13 +452,13 @@
   
   <url>
     <loc>http://blog.ivrpowers.com/tags/omnichannel/</loc>
-    <lastmod>2017-07-24T12:30:37+02:00</lastmod>
+    <lastmod>2017-07-31T12:29:40+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://blog.ivrpowers.com/post/</loc>
-    <lastmod>2017-07-28T13:13:47+02:00</lastmod>
+    <lastmod>2017-07-31T12:29:40+02:00</lastmod>
     <priority>0</priority>
   </url>
   

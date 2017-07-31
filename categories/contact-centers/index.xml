@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Omnichannel on Blog</title>
-    <link>http://blog.ivrpowers.com/tags/omnichannel/</link>
-    <description>Recent content in Omnichannel on Blog</description>
+    <title>Contact Centers on Blog</title>
+    <link>http://blog.ivrpowers.com/categories/contact-centers/</link>
+    <description>Recent content in Contact Centers on Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 31 Jul 2017 12:29:40 +0200</lastBuildDate>
     
-	<atom:link href="http://blog.ivrpowers.com/tags/omnichannel/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://blog.ivrpowers.com/categories/contact-centers/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -18,16 +18,6 @@
       
       <guid>http://blog.ivrpowers.com/post/contactcenter/ivr-role-omnichannel/</guid>
       <description>Photo source: Pexels. Creative Commons Customer experience is the current battleground for differentiation. In order to stay relevant and even survive in an increasingly competitive market, contact centers must think different and deploy more advanced communication solutions. The primary path for improving customer experience is enhancing time response and quality of service. Customers expect companies to resolve issues easily and quickly and there is a lot to lose in a disappointing customer expectations.</description>
-    </item>
-    
-    <item>
-      <title>5 Trends Impacting Customer Experience</title>
-      <link>http://blog.ivrpowers.com/post/trends/5-trends-customer-experience/</link>
-      <pubDate>Mon, 24 Jul 2017 12:30:37 +0200</pubDate>
-      
-      <guid>http://blog.ivrpowers.com/post/trends/5-trends-customer-experience/</guid>
-      <description>Photo source: Pexels. Creative Commons Customer experience is more important than ever. While brands that focus on getting an excellent service are immediately rewarded, a poor customer service highly damages companies: disloyalty, bad image and loss of money are some of the serious consequences. Because of it, according to Forrester, 72% of businesses say improving customer experience is their top priority
-Some challenges present an opportunity to add strategic value to your business.</description>
     </item>
     
   </channel>
