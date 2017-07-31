@@ -5,7 +5,6 @@ description = "Live Communications Benefits"
 draft = false
 tags = ["videochat","livechat", "businessstrategy", "cx", "custexp"]
 title = "Is Video Chat a good Strategy for my Business?"
-weight = 80
 image = "/postimages/marketing/ivrpowers-posts-01.078.jpeg"
 
 +++

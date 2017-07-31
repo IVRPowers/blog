@@ -6,7 +6,6 @@ draft = false
 tags = ["webrtc","rtc", "ivrpowers"]
 title = "Follow us on Twitter"
 image = "/postimages/socials/ivrpowers-posts-01.067.jpeg"
-weight = 69
 featured = true
 +++
 

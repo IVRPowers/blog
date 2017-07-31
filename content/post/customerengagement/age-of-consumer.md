@@ -6,7 +6,6 @@ description = "Dealing with Customer Empowerment"
 draft = false
 tags = ["cctr","custexp","businessstrategy","branding","customerengagement","contactcenter"]
 title = "The Age of the Customer in Contact Centers"
-weight = 32
 image = "/postimages/customerengagement/ivrpowers-posts-01.164.jpeg"
 
 +++

@@ -5,7 +5,6 @@ description = "The Next Revolution for Banking & Services"
 draft = false
 tags = ["businessstrategy","rtc","icarvision","videochat","livechat"]
 title = "Video Online Onboarding"
-weight = 34
 image = "/postimages/financial/ivrpowers-posts-01.103.jpeg"
 
 +++

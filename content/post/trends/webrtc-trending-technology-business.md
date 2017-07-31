@@ -5,7 +5,6 @@ description = "Technology Trend"
 draft = false
 tags = ["webrtc","businessstrategy", "marketing"]
 title = "WebRTC: a Trending Technology for your Business"
-weight = 50
 image = "/postimages/trends/ivrpowers-posts-01.089.jpeg"
 
 +++

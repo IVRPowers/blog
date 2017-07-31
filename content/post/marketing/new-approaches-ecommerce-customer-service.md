@@ -5,7 +5,6 @@ description = "A Better Customer Experience"
 draft = false
 tags = ["custexp","businessstrategy", "startup", "cx", "ecommerce"]
 title = "New Approaches on Ecommerce Customer Service"
-weight = 59
 image = "/postimages/marketing/ivrpowers-posts-01.106.jpg"
 
 +++

@@ -5,7 +5,6 @@ description = "Digital Transformation Trends"
 draft = false
 tags = ["custexp","businessstrategy","contactcenter","customerengagement","humaninteraction"]
 title = "The Secret is the Emotion"
-weight = 28
 image = "/postimages/customerengagement/ivrpowers-posts-01.179.jpeg"
 
 +++

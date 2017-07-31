@@ -5,7 +5,6 @@ description = "Digital Transformation Trends"
 draft = false
 tags = ["marketing","videochat","livechat","businesstrends","humaninteraction"]
 title = "Millennials don't Phone Anymore!"
-weight = 29
 image = "/postimages/trends/ivrpowers-posts-01.176.jpg"
 
 +++

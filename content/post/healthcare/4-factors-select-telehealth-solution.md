@@ -5,7 +5,6 @@ description = "Healthcare Industry"
 draft = false
 tags = ["telehealth","healthcare", "rtc"]
 title = "4 Key factors to select a Telehealth Solution"
-weight = 84
 image = "/postimages/healthcare/ivrpowers-posts-01.080.jpeg"
 
 +++

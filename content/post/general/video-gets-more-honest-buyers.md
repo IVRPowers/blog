@@ -6,7 +6,6 @@ draft = false
 tags = ["videortc","humaninteraction","honesty"]
 title = "Video gets more Honest Buyers than other Channels"
 image = "/postimages/general/ivrpowers-posts-01.007.jpg"
-weight = 36
 
 +++
 

@@ -6,7 +6,7 @@ draft = false
 tags = ["rtmp","rtc"]
 title = "What is RTMP?"
 image = "/postimages/technologies/ivrpowers-posts-01.070.jpeg"
-weight = 82
+
 +++
 
 ![Lorem Ipsum](/postimages/technologies/ivrpowers-posts-01.070.jpeg)

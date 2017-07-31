@@ -5,7 +5,6 @@ description = "Video Real-Time Communications"
 draft = false
 tags = ["videortc","rtc","webrtc","rtmp", "ivrpowers"]
 title = "Know our Products: VideoRTC"
-weight = 92
 featured = false
 image = "/postimages/products/ivrpowers-posts-01.091.jpeg"
 

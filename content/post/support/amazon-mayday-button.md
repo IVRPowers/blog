@@ -5,7 +5,6 @@ description = "Human Touch in Customer Services"
 draft = false
 tags = ["marketing","businessstrategy", "custexp", "livechat"]
 title = "Amazon's Mayday Button. The Road to the Future"
-weight = 74
 image = "/postimages/support/ivrpowers-posts-01.109.png"
 
 +++

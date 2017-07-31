@@ -5,7 +5,6 @@ description = "Marketing Trends"
 draft = false
 tags = ["marketing","webrtc", "businessstrategy"]
 title = "The increasing Business of Real-Time Communications"
-weight = 86
 image = "/postimages/trends/ivrpowers-posts-01.077.jpeg"
 
 +++

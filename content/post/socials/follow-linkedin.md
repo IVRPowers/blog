@@ -6,7 +6,6 @@ draft = false
 tags = ["rtc", "ivr", "ivrpowers"]
 title = "IVRPowers is on LinkedIn"
 image = "/postimages/socials/ivrpowers-posts-01.057.jpeg"
-weight = 40
 featured = true
 
 +++

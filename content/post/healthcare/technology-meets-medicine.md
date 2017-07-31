@@ -5,7 +5,6 @@ description = "Robots and Video Conferences are Arriving to Hospitals"
 draft = false
 tags = ["healthcare","mhealth","telehealth","rtc","videoconferencing"]
 title = "Telehealth: When Technology Meets Medicine"
-weight = 28
 image = "/postimages/healthcare/ivrpowers-posts-01.178.jpeg"
 
 +++

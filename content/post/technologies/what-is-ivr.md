@@ -6,7 +6,7 @@ draft = false
 tags = ["ivr","rtc"]
 title = "What is IVR?"
 image = "/postimages/technologies/ivrpowers-posts-01.082.jpeg"
-weight = 98
+
 +++
 
 ![Phone IVR](/postimages/technologies/ivrpowers-posts-01.082.jpeg)

@@ -6,7 +6,7 @@ draft = false
 tags = ["webrtc","rtc"]
 title = "What is WebRTC?"
 image = "/postimages/technologies/ivrpowers-posts-01.069.jpeg"
-weight = 65
+
 +++
 
 ![Lorem Ipsum](/postimages/technologies/ivrpowers-posts-01.069.jpeg)

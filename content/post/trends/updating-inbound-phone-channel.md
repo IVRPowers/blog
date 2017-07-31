@@ -5,7 +5,6 @@ description = "Customer Engagement"
 draft = false
 tags = ["cctr","businessstrategy", "rtc"]
 title = "Updating the Inbound Phone Channel"
-weight = 90
 image = "/postimages/trends/ivrpowers-posts-01.076.jpeg"
 
 +++

@@ -5,7 +5,6 @@ description = "Video Call Centers for a Better CX"
 draft = false
 tags = ["custexp","livechat","videochat","marketing", "businessstrategy","contactcenter","startup"]
 title = "Contact Centers should Know Video is Here to Stay"
-weight = 31
 image = "/postimages/trends/ivrpowers-posts-01.172.jpeg"
 
 +++

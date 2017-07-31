@@ -5,7 +5,6 @@ description = "Refining IVR with Software"
 draft = false
 tags = ["voicexml", "ivr", "ivrpowers"]
 title = "Know our Products: VoiceXML IVR"
-weight = 96
 featured = false
 image = "/postimages/products/ivrpowers-posts-01.090.jpeg"
 

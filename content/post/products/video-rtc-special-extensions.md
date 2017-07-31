@@ -5,7 +5,6 @@ description = "Video Real-Time Communications"
 draft = false
 tags = ["videortc","webrtc", "rtc"]
 title = "Video RTC: Special Extensions"
-weight = 88
 image = "/postimages/products/ivrpowers-posts-01.034.jpeg"
 
 +++

@@ -5,7 +5,6 @@ description = "Social Networks"
 draft = false
 tags = ["rtc","ivr", "ivrpowers"]
 title = "Follow us on Facebook"
-weight = 55
 image = "/postimages/socials/ivrpowers-posts-01.063.jpeg"
 featured = true
 

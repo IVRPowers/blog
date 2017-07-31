@@ -5,7 +5,6 @@ description = "VoIP2Day Keynote"
 draft = false
 tags = ["ivrpowers","webrtc","videochat","livechat","businesstrends"]
 title = "The Value of Video Communication"
-weight = 33
 image = "/postimages/general/ivrpowers-posts-01.113.jpeg"
 
 +++

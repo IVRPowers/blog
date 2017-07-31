@@ -5,7 +5,6 @@ description = "Best Practices & Trends"
 draft = false
 tags = ["videochat","videoconferencing","businessstrategy","rtc","contactcenter","customerengagement","humaninteraction"]
 title = "Videochat Support Channel Recommendations"
-weight = 26
 image = "/postimages/customerengagement/ivrpowers-posts-01.181.jpeg"
 
 +++

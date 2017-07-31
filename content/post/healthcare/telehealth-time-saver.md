@@ -5,7 +5,6 @@ description = "Benefits of RTC for Healthcare"
 draft = false
 tags = ["healthcare","mobility", "telehealth","telemedicine"]
 title = "Telehealth: Time-Saver, Better Access and More Services"
-weight = 27
 image = "/postimages/healthcare/ivrpowers-posts-01.180.jpeg"
 
 +++

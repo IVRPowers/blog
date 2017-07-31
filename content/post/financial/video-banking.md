@@ -5,7 +5,6 @@ description = "Video Real-Time Communications"
 draft = false
 tags = ["livechat","livevideo", "businessstrategy"]
 title = "Video Banking Revolution is coming"
-weight = 75
 image = "/postimages/financial/ivrpowers-posts-01.101.png"
 
 +++

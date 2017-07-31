@@ -5,7 +5,6 @@ description = "Personalization, IoT, Cloud, Convergence and Omnichannel"
 draft = false
 tags = ["businessstrategy","socialnetworking","iot","omnichannel","webrtc","contactcenter","custexp"]
 title = "5 Trends Impacting Customer Experience"
-weight = 27
 image = "/postimages/trends/ivrpowers-posts-01.180.jpeg"
 
 +++

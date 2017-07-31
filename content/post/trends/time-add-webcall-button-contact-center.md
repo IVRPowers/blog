@@ -5,7 +5,6 @@ description = "Customer Engagement"
 draft = false
 tags = ["webrtc","businessstrategy","marketing","contactcenter","videochat","livechat"]
 title = "It's time to add a Webcall button to your Contact Center"
-weight = 44
 image = "/postimages/trends/ivrpowers-posts-01.030.jpeg"
 
 +++

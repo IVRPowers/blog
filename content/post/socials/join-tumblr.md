@@ -5,7 +5,6 @@ description = "Social Networks"
 draft = false
 tags = ["rtc","ivr","ivrpowers"]
 title = "Join us on Tumblr"
-weight = 60
 featured = true
 image = "/postimages/socials/ivrpowers-posts-01.059.jpeg"
 

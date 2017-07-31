@@ -6,7 +6,6 @@ draft = false
 tags = ["rtmp","rtc", "ivrpowers"]
 title = "Video RTC (RTMP) v1.2"
 image = "/postimages/updates/ivrpowers-posts-01.087.jpeg"
-weight = 70
 featured = true
 +++
 

@@ -5,7 +5,6 @@ description = "Make a Difference Saving Customer's Time"
 draft = false
 tags = ["custexp","businessstrategy","marketing","customerengagement","voiceofthecustomer"]
 title = "Time is Money on Customer Experience"
-weight = 30
 image = "/postimages/customerengagement/ivrpowers-posts-01.154.jpeg"
 
 +++

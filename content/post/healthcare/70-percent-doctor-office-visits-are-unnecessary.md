@@ -5,7 +5,6 @@ description = "Healthcare Study"
 draft = false
 tags = ["healthcare","mhealth", "telehealth"]
 title = "70 percent of all Doctor’s Office Visits are Unnecessary"
-weight = 31
 image = "/postimages/healthcare/ivrpowers-posts-01.173.jpeg"
 
 +++
