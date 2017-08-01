@@ -13,11 +13,6 @@
   </url>
   
   <url>
-    <loc>http://blog.ivrpowers.com/post/development/webrtc-security/</loc>
-    <lastmod>2017-08-01T10:04:37+02:00</lastmod>
-  </url>
-  
-  <url>
     <loc>http://blog.ivrpowers.com/post/contactcenter/ivr-role-omnichannel/</loc>
     <lastmod>2017-07-31T12:29:40+02:00</lastmod>
   </url>
@@ -336,20 +331,8 @@
   </url>
   
   <url>
-    <loc>http://blog.ivrpowers.com/tags/data/</loc>
-    <lastmod>2017-08-01T10:04:37+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>http://blog.ivrpowers.com/categories/development/</loc>
-    <lastmod>2017-08-01T10:04:37+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://blog.ivrpowers.com/tags/dtls/</loc>
-    <lastmod>2017-08-01T10:04:37+02:00</lastmod>
+    <lastmod>2017-06-28T00:30:56+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -475,7 +458,7 @@
   
   <url>
     <loc>http://blog.ivrpowers.com/post/</loc>
-    <lastmod>2017-08-01T10:04:37+02:00</lastmod>
+    <lastmod>2017-07-31T12:29:40+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -504,12 +487,6 @@
   </url>
   
   <url>
-    <loc>http://blog.ivrpowers.com/tags/security/</loc>
-    <lastmod>2017-08-01T10:04:37+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>http://blog.ivrpowers.com/tags/sip/</loc>
     <lastmod>2017-07-09T00:20:05+02:00</lastmod>
     <priority>0</priority>
@@ -530,12 +507,6 @@
   <url>
     <loc>http://blog.ivrpowers.com/tags/split/</loc>
     <lastmod>2017-06-21T00:20:05+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://blog.ivrpowers.com/tags/srtp/</loc>
-    <lastmod>2017-08-01T10:04:37+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -625,7 +596,7 @@
   
   <url>
     <loc>http://blog.ivrpowers.com/tags/webrtc/</loc>
-    <lastmod>2017-08-01T10:04:37+02:00</lastmod>
+    <lastmod>2017-07-27T09:00:00+02:00</lastmod>
     <priority>0</priority>
   </url>
   

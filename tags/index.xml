@@ -93,24 +93,6 @@
     </item>
     
     <item>
-      <title>Data</title>
-      <link>http://blog.ivrpowers.com/tags/data/</link>
-      <pubDate>Tue, 01 Aug 2017 10:04:37 +0200</pubDate>
-      
-      <guid>http://blog.ivrpowers.com/tags/data/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Dtls</title>
-      <link>http://blog.ivrpowers.com/tags/dtls/</link>
-      <pubDate>Tue, 01 Aug 2017 10:04:37 +0200</pubDate>
-      
-      <guid>http://blog.ivrpowers.com/tags/dtls/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Ecommerce</title>
       <link>http://blog.ivrpowers.com/tags/ecommerce/</link>
       <pubDate>Tue, 20 Jun 2017 12:46:41 +0200</pubDate>
@@ -264,15 +246,6 @@
     </item>
     
     <item>
-      <title>Security</title>
-      <link>http://blog.ivrpowers.com/tags/security/</link>
-      <pubDate>Tue, 01 Aug 2017 10:04:37 +0200</pubDate>
-      
-      <guid>http://blog.ivrpowers.com/tags/security/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Sip</title>
       <link>http://blog.ivrpowers.com/tags/sip/</link>
       <pubDate>Sun, 09 Jul 2017 00:20:05 +0200</pubDate>
@@ -296,15 +269,6 @@
       <pubDate>Wed, 21 Jun 2017 00:20:05 +0200</pubDate>
       
       <guid>http://blog.ivrpowers.com/tags/split/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Srtp</title>
-      <link>http://blog.ivrpowers.com/tags/srtp/</link>
-      <pubDate>Tue, 01 Aug 2017 10:04:37 +0200</pubDate>
-      
-      <guid>http://blog.ivrpowers.com/tags/srtp/</guid>
       <description></description>
     </item>
     
@@ -392,7 +356,7 @@
     <item>
       <title>Webrtc</title>
       <link>http://blog.ivrpowers.com/tags/webrtc/</link>
-      <pubDate>Tue, 01 Aug 2017 10:04:37 +0200</pubDate>
+      <pubDate>Thu, 27 Jul 2017 09:00:00 +0200</pubDate>
       
       <guid>http://blog.ivrpowers.com/tags/webrtc/</guid>
       <description></description>

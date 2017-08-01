@@ -6,19 +6,10 @@
     <description>Recent content in Webrtc on Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 01 Aug 2017 10:04:37 +0200</lastBuildDate>
+    <lastBuildDate>Thu, 27 Jul 2017 09:00:00 +0200</lastBuildDate>
     
 	<atom:link href="http://blog.ivrpowers.com/tags/webrtc/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Webrtc built-in Security Features</title>
-      <link>http://blog.ivrpowers.com/post/development/webrtc-security/</link>
-      <pubDate>Tue, 01 Aug 2017 10:04:37 +0200</pubDate>
-      
-      <guid>http://blog.ivrpowers.com/post/development/webrtc-security/</guid>
-      <description>Photo source: Pexels. Creative Commons   Camera and Microphone Security Peer-to-Peer Encryption Data Transport Layer Security (DTLS) Secure Real-Time Protocol (SRTP)      Photo source: Pexels. Creative Commons In essence, any software in the Internet is an inherent risk that your PC may become infected by a virus, malware, spyware or various other ‘bugs’ that threaten the security of your data.</description>
-    </item>
     
     <item>
       <title>Video RTC (WebRTC) v2.2</title>
