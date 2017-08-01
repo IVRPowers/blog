@@ -1,21 +1,35 @@
+
 <!DOCTYPE html>
 <html lang="en-us">
 
     <head>
-	<meta name="generator" content="Hugo 0.21" />
 
         <meta charset="utf-8" />
         <meta http-equiv="X-UA-Compatible" content="IE=edge" />
 
-        <meta property="og:title" content=" Blog" />
+        <meta property="og:title" content=" Webrtc built-in Security Features &middot;  Blog" />
         <meta property="og:site_name" content="Blog" />
-        <meta property="og:url" content="http://blog.ivrpowers.com/" />
+        <meta property="og:url" content="http://blog.ivrpowers.com/post/development/webrtc-security/" />
 
     
-        <meta property="og:type" content="website" />
+        <meta property="og:type" content="article" />
+        <meta property="og:article:published_time" content="2017-08-01T10:04:37&#43;02:00" />
+        <meta property="og:article:tag" content="security" />
+        <meta property="og:article:tag" content="webrtc" />
+        <meta property="og:article:tag" content="dtls" />
+        <meta property="og:article:tag" content="srtp" />
+        <meta property="og:article:tag" content="data" />
+        
+
+        <meta name="twitter:card" content="summary" />
+        <meta name="twitter:site" content="@https://twitter.com/ivrpowers" />
+        <meta name="twitter:creator" content="@https://twitter.com/ivrpowers" />
+        <meta name="twitter:title" content="Webrtc built-in Security Features" />
+        <meta name="twitter:description" content="Security is Contained within your Browser" />
+        <meta name="twitter:url" content="http://blog.ivrpowers.com/post/development/webrtc-security/" />
     
 
-        <title> Blog</title>
+        <title> Webrtc built-in Security Features &middot;  Blog</title>
 
         <link rel="preload" href="http://blog.ivrpowers.com/js/main.js" as="script" />
         <link rel="preload" href="http://blog.ivrpowers.com/css/main.css" as="style" />
@@ -27,7 +41,7 @@
     
 
     
-        <meta name="description" content="A complete approach for any business. IVRPowers adapts to you" />
+        <meta name="description" content="Security is Contained within your Browser" />
     
 
     
@@ -42,12 +56,59 @@
         
 
     
-
-    
         <link href="http://blog.ivrpowers.com/index.xml" rel="alternate" type="application/rss+xml" title="Blog" />
     
-        <link rel="canonical" href="http://blog.ivrpowers.com/" />
 
+    
+        <link rel="canonical" href="http://blog.ivrpowers.com/post/development/webrtc-security/" />
+
+
+    <script type="application/ld+json">
+    {
+        "@context": "http://schema.org",
+        "@type": "BlogPosting",
+        "mainEntityOfPage": {
+          "@type": "WebPage",
+          "@id": "http://blog.ivrpowers.com/post/development/webrtc-security/"
+        },
+        "headline": "Webrtc built-in Security Features",
+        "description": "Security is Contained within your Browser",
+        "author": {
+            "@type": "Person",
+            "name": "IVRPowers Team",
+            "url": "http://profiles.google.com/?rel=author",
+            "image": {
+              "@type": "ImageObject",
+              "url": "https:/images/avatar.png",
+              "height": 80,
+              "width": 80
+            }
+        },
+        "publisher": {
+          "@type": "Organization",
+          "@id": "http://blog.ivrpowers.com/",
+          "name": "Blog",
+          "url": "http://blog.ivrpowers.com/",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https:/images/avatar.png",
+            "height": 80,
+            "width": 80
+          }
+        },
+        
+        "image": {
+          "@type": "ImageObject",
+          "url": "/images/avatar.png",
+          "height": 80,
+          "width": 80
+        },
+        "datePublished": "2017-08-01",
+        "dateModified": "2017-08-01",
+        "wordCount": 329,
+        "keywords": ["security","webrtc","dtls","srtp","data"] 
+    }
+    </script>
 
 
     
@@ -93,260 +154,153 @@ html{font-family:sans-serif;line-height:1.15;-ms-text-size-adjust:100%;-webkit-t
               </a>
             </div>
             <div class="nav-menu">
-              <a class="rss" href="http://blog.ivrpowers.com/index.xml">
+              <a class="rss" href="">
                 <i class="icon-rss"></i>
               </a>
+                
+                <a class="menu" data-action="toc" data-target="toc"><i class="icon-location"></i></a>
                 
                 
             </div>
           </nav>
 
 
-	<header id="header" class="header has-cover">
+<main class="content" role="main">
+	<article class="post">
 		<div class="inner">
-			<a class="header-title" href="http://blog.ivrpowers.com/">
-				<h1 class="header-name">Blog</h1>
-				
-					<span class="header-description">Streamline your business communications</span>
-				
-			</a>
-		</div>
-		<div class="header-cover blured-image" style="background-color: #163039;"></div>
-	</header>
 
-	<div id="post-index" class="container">
+			<div id="push">
 
-		<main class="content" role="main">
+  			<header class="post-header">
+  				<span class="post-meta">
+						<span class="post-date">1 Aug 2017</span> <span class="reading-time">| <span class="estimated-reading-time">2 min.</span> (<span class="word-count">329</span> words)</span></span>
+  				</span>
+  				<div class="clear"></div>
+  				<h1 class="post-title">Webrtc built-in Security Features</h1>
+  			</header>
 
-			<div class="post-list">
-				<div id="push">
-
-			
-
-			
-			  
-<article class="post">
-
-	<div class="inner">
-		<a class="post-link" href="http://blog.ivrpowers.com/post/marketing/3-key-benefits-video-chat/"></a>
-		
-		<figure class="post-image">
-			<a href="http://blog.ivrpowers.com/post/marketing/3-key-benefits-video-chat/"><img src="/postimages/marketing/ivrpowers-posts-01.107.jpeg" alt="" /></a>
-		</figure>
-		
-		<span class="post-meta">
-			<span class="post-date">20 Jun 2017</span>
-		</span>
-		<h2 class="post-title"><a href="http://blog.ivrpowers.com/post/marketing/3-key-benefits-video-chat/">3 Key Benefits of Live Video Chat</a></h2>
-		<p class="post-excerpt">Customer Engagement&hellip;</p>
-		<span class="post-more"><a href="http://blog.ivrpowers.com/post/marketing/3-key-benefits-video-chat/">Read More <i class="icon-arrow-right"></i></a></span>
-	</div>
-</article>
-
-			
-			  
-<article class="post featured">
-
-	<div class="inner">
-		<a class="post-link" href="http://blog.ivrpowers.com/post/socials/join-tumblr/"></a>
-		
-		<figure class="post-image">
-			<a href="http://blog.ivrpowers.com/post/socials/join-tumblr/"><img src="/postimages/socials/ivrpowers-posts-01.059.jpeg" alt="" /></a>
-		</figure>
-		
-		<span class="post-meta">
-			<span class="post-date">19 Jun 2017</span>
-		</span>
-		<h2 class="post-title"><a href="http://blog.ivrpowers.com/post/socials/join-tumblr/">Join us on Tumblr</a></h2>
-		<p class="post-excerpt">Social Networks&hellip;</p>
-		<span class="post-more"><a href="http://blog.ivrpowers.com/post/socials/join-tumblr/">Read More <i class="icon-arrow-right"></i></a></span>
-	</div>
-</article>
-
-			
-			  
-<article class="post featured">
-
-	<div class="inner">
-		<a class="post-link" href="http://blog.ivrpowers.com/post/updates/update-video-rtc-webrtc-2.1.0/"></a>
-		
-		<figure class="post-image">
-			<a href="http://blog.ivrpowers.com/post/updates/update-video-rtc-webrtc-2.1.0/"><img src="/postimages/updates/ivrpowers-posts-01.088.jpeg" alt="" /></a>
-		</figure>
-		
-		<span class="post-meta">
-			<span class="post-date">19 Jun 2017</span>
-		</span>
-		<h2 class="post-title"><a href="http://blog.ivrpowers.com/post/updates/update-video-rtc-webrtc-2.1.0/">Video RTC (WebRTC) v2.1</a></h2>
-		<p class="post-excerpt">Release Note&hellip;</p>
-		<span class="post-more"><a href="http://blog.ivrpowers.com/post/updates/update-video-rtc-webrtc-2.1.0/">Read More <i class="icon-arrow-right"></i></a></span>
-	</div>
-</article>
-
-			
-			  
-<article class="post">
-
-	<div class="inner">
-		<a class="post-link" href="http://blog.ivrpowers.com/post/technologies/what-is-webrtc/"></a>
-		
-		<figure class="post-image">
-			<a href="http://blog.ivrpowers.com/post/technologies/what-is-webrtc/"><img src="/postimages/technologies/ivrpowers-posts-01.069.jpeg" alt="" /></a>
-		</figure>
-		
-		<span class="post-meta">
-			<span class="post-date">19 Jun 2017</span>
-		</span>
-		<h2 class="post-title"><a href="http://blog.ivrpowers.com/post/technologies/what-is-webrtc/">What is WebRTC?</a></h2>
-		<p class="post-excerpt">Technology Word Definition&hellip;</p>
-		<span class="post-more"><a href="http://blog.ivrpowers.com/post/technologies/what-is-webrtc/">Read More <i class="icon-arrow-right"></i></a></span>
-	</div>
-</article>
-
-			
-			  
-<article class="post">
-
-	<div class="inner">
-		<a class="post-link" href="http://blog.ivrpowers.com/post/support/amazon-mayday-button/"></a>
-		
-		<figure class="post-image">
-			<a href="http://blog.ivrpowers.com/post/support/amazon-mayday-button/"><img src="/postimages/support/ivrpowers-posts-01.109.png" alt="" /></a>
-		</figure>
-		
-		<span class="post-meta">
-			<span class="post-date">16 Jun 2017</span>
-		</span>
-		<h2 class="post-title"><a href="http://blog.ivrpowers.com/post/support/amazon-mayday-button/">Amazon&#39;s Mayday Button. The Road to the Future</a></h2>
-		<p class="post-excerpt">Human Touch in Customer Services&hellip;</p>
-		<span class="post-more"><a href="http://blog.ivrpowers.com/post/support/amazon-mayday-button/">Read More <i class="icon-arrow-right"></i></a></span>
-	</div>
-</article>
-
-			
-			  
-<article class="post featured">
-
-	<div class="inner">
-		<a class="post-link" href="http://blog.ivrpowers.com/post/socials/followus-twitter/"></a>
-		
-		<figure class="post-image">
-			<a href="http://blog.ivrpowers.com/post/socials/followus-twitter/"><img src="/postimages/socials/ivrpowers-posts-01.067.jpeg" alt="" /></a>
-		</figure>
-		
-		<span class="post-meta">
-			<span class="post-date">16 Jun 2017</span>
-		</span>
-		<h2 class="post-title"><a href="http://blog.ivrpowers.com/post/socials/followus-twitter/">Follow us on Twitter</a></h2>
-		<p class="post-excerpt">Social Networks&hellip;</p>
-		<span class="post-more"><a href="http://blog.ivrpowers.com/post/socials/followus-twitter/">Read More <i class="icon-arrow-right"></i></a></span>
-	</div>
-</article>
-
-			
-			  
-<article class="post featured">
-
-	<div class="inner">
-		<a class="post-link" href="http://blog.ivrpowers.com/post/updates/update-video-rtc-rtmp-1.2.0/"></a>
-		
-		<figure class="post-image">
-			<a href="http://blog.ivrpowers.com/post/updates/update-video-rtc-rtmp-1.2.0/"><img src="/postimages/updates/ivrpowers-posts-01.087.jpeg" alt="" /></a>
-		</figure>
-		
-		<span class="post-meta">
-			<span class="post-date">16 Jun 2017</span>
-		</span>
-		<h2 class="post-title"><a href="http://blog.ivrpowers.com/post/updates/update-video-rtc-rtmp-1.2.0/">Video RTC (RTMP) v1.2</a></h2>
-		<p class="post-excerpt">Release Note&hellip;</p>
-		<span class="post-more"><a href="http://blog.ivrpowers.com/post/updates/update-video-rtc-rtmp-1.2.0/">Read More <i class="icon-arrow-right"></i></a></span>
-	</div>
-</article>
-
-			
-			  
-<article class="post">
-
-	<div class="inner">
-		<a class="post-link" href="http://blog.ivrpowers.com/post/marketing/video-chat-good-strategy-business/"></a>
-		
-		<figure class="post-image">
-			<a href="http://blog.ivrpowers.com/post/marketing/video-chat-good-strategy-business/"><img src="/postimages/marketing/ivrpowers-posts-01.078.jpeg" alt="" /></a>
-		</figure>
-		
-		<span class="post-meta">
-			<span class="post-date">15 Jun 2017</span>
-		</span>
-		<h2 class="post-title"><a href="http://blog.ivrpowers.com/post/marketing/video-chat-good-strategy-business/">Is Video Chat a good Strategy for my Business?</a></h2>
-		<p class="post-excerpt">Live Communications Benefits&hellip;</p>
-		<span class="post-more"><a href="http://blog.ivrpowers.com/post/marketing/video-chat-good-strategy-business/">Read More <i class="icon-arrow-right"></i></a></span>
-	</div>
-</article>
-
-			
-			  
-<article class="post">
-
-	<div class="inner">
-		<a class="post-link" href="http://blog.ivrpowers.com/post/financial/video-banking/"></a>
-		
-		<figure class="post-image">
-			<a href="http://blog.ivrpowers.com/post/financial/video-banking/"><img src="/postimages/financial/ivrpowers-posts-01.101.png" alt="" /></a>
-		</figure>
-		
-		<span class="post-meta">
-			<span class="post-date">15 Jun 2017</span>
-		</span>
-		<h2 class="post-title"><a href="http://blog.ivrpowers.com/post/financial/video-banking/">Video Banking Revolution is coming</a></h2>
-		<p class="post-excerpt">Video Real-Time Communications&hellip;</p>
-		<span class="post-more"><a href="http://blog.ivrpowers.com/post/financial/video-banking/">Read More <i class="icon-arrow-right"></i></a></span>
-	</div>
-</article>
-
-			
-			  
-<article class="post featured">
-
-	<div class="inner">
-		<a class="post-link" href="http://blog.ivrpowers.com/post/updates/update-voicexml-ivr-13.1/"></a>
-		
-		<figure class="post-image">
-			<a href="http://blog.ivrpowers.com/post/updates/update-voicexml-ivr-13.1/"><img src="/postimages/updates/ivrpowers-posts-01.084.jpeg" alt="" /></a>
-		</figure>
-		
-		<span class="post-meta">
-			<span class="post-date">15 Jun 2017</span>
-		</span>
-		<h2 class="post-title"><a href="http://blog.ivrpowers.com/post/updates/update-voicexml-ivr-13.1/">VoiceXML IVR v1.3</a></h2>
-		<p class="post-excerpt">Release Note&hellip;</p>
-		<span class="post-more"><a href="http://blog.ivrpowers.com/post/updates/update-voicexml-ivr-13.1/">Read More <i class="icon-arrow-right"></i></a></span>
-	</div>
-</article>
-
-			
-
-				</div>
-			</div>
-
-			<nav id="pagination" class="pagination" role="pagination">
-	<div class="inner">
-	
-		
-	  <a class="pagination-item pagination-next" href="http://blog.ivrpowers.com//page/3/"><i class="icon-arrow-left"></i> <span>Newer Posts</span></a>
-	
-		<span class="pagination-info">Page 4 of 5</span>
-	
-		
-	  <a class="pagination-item pagination-prev" href="http://blog.ivrpowers.com//page/5/"><span>Older Posts</span> <i class="icon-arrow-right"></i></a>
-	
-		<div class="clear"></div>
-	</div>
+  			<section class="post-content">
+  				<nav>
+<ul>
+<li>
+<ul>
+<li>
+<ul>
+<li>
+<ul>
+<li>
+<ul>
+<li>
+<ul>
+<li><a href="#photo-source-pexels-creative-commons">Photo source: Pexels. Creative Commons</a></li>
+</ul></li>
+</ul></li>
+<li><a href="#camera-and-microphone-security">Camera and Microphone Security</a></li>
+<li><a href="#peer-to-peer-encryption">Peer-to-Peer Encryption</a></li>
+<li><a href="#data-transport-layer-security-dtls">Data Transport Layer Security (DTLS)</a></li>
+<li><a href="#secure-real-time-protocol-srtp">Secure Real-Time Protocol (SRTP)</a></li>
+</ul></li>
+</ul></li>
+</ul></li>
+</ul>
 </nav>
 
+<hr />
 
-		</main>
+<h6 id="photo-source-pexels-creative-commons">Photo source: Pexels. Creative Commons</h6>
 
-	</div>
+<p>In essence, any software in the Internet is an inherent risk that your PC may become infected by a virus, malware, spyware or various other ‘bugs’ that threaten the security of your data. As such, the principal solution to combat viruses is to install firewalls and anti-malware software that work to defend your computer against any potential threats.</p>
+
+<p>With WebRTC however, there’s no need to worry about any of that. Because WebRTC works from browser to browser, you don’t need to download any software or plugins in order to set up a video conference or VOIP call. All the security that you need is already <strong>contained within your browser</strong> and the WebRTC platform.</p>
+
+<p>Some of the in-built security features contained within a WebRTC platform include:</p>
+
+<ul>
+<li>Camera and Microphone Security</li>
+<li>Peer-to-Peer Encryption</li>
+<li>Datagram Transport Layer Security (DTLS)</li>
+<li>Secure Real-Time Protocol (SRTP)</li>
+</ul>
+
+<h4 id="camera-and-microphone-security">Camera and Microphone Security</h4>
+
+<p>Unlike some other video and audio software, WebRTC requires the user to enable access to their microphone and camera before communications begin. Typically, your web browser will ask you to allow a webcam and microphone permission before getting connected.</p>
+
+<h4 id="peer-to-peer-encryption">Peer-to-Peer Encryption</h4>
+
+<p>Encryption is built in to WebRTC as a permanent feature and addresses all security concerns effectively. Regardless of what server or compatible browser you’re using, private peer-to-peer communication is safe thanks to WebRTC’s advanced end-to-end encryption features.</p>
+
+<h4 id="data-transport-layer-security-dtls">Data Transport Layer Security (DTLS)</h4>
+
+<p>Any data that is transferred through a WebRTC system is encrypted using the Datagram Transport Layer Security method. This encryption is already built-in to compatible web browsers (Firefox, Chrome, Opera) thus eavesdropping or data manipulation can’t happen.</p>
+
+<h4 id="secure-real-time-protocol-srtp">Secure Real-Time Protocol (SRTP)</h4>
+
+<p>In addition to offering DTLS encryption, WebRTC also encrypts data through Secure Real-Time Protocol, which safeguards IP communications from hackers, so your video and audio data is kept private.</p>
+
+<hr />
+
+<p><a href="http://www.ivrpowers.com/">Interactive Powers</a> - Streamline your business communications</p>
+
+  			</section>
+
+  			<footer class="post-footer">
+  				<div class="post-tags">
+            
+            
+                <a href="http://blog.ivrpowers.com//tags/security/">security</a>
+            
+                <a href="http://blog.ivrpowers.com//tags/webrtc/">webrtc</a>
+            
+                <a href="http://blog.ivrpowers.com//tags/dtls/">dtls</a>
+            
+                <a href="http://blog.ivrpowers.com//tags/srtp/">srtp</a>
+            
+                <a href="http://blog.ivrpowers.com//tags/data/">data</a>
+            
+            
+  				</div>
+  				<div class="post-share">
+  					<a class="icon-twitter" href="https://twitter.com/share?text=Webrtc%20built-in%20Security%20Features&url=http%3a%2f%2fblog.ivrpowers.com%2fpost%2fdevelopment%2fwebrtc-security%2f" onclick="window.open(this.href, 'twitter-share', 'width=550,height=235');return false;">
+  						<span>Twitter</span>
+  					</a>
+  					<a class="icon-facebook" href="https://www.facebook.com/sharer/sharer.php?u=http%3a%2f%2fblog.ivrpowers.com%2fpost%2fdevelopment%2fwebrtc-security%2f" onclick="window.open(this.href, 'facebook-share','width=580,height=296');return false;">
+  						<span>Facebook</span>
+  					</a>
+  					<a class="icon-gplus" href="https://plus.google.com/share?url=http%3a%2f%2fblog.ivrpowers.com%2fpost%2fdevelopment%2fwebrtc-security%2f" onclick="window.open(this.href, 'google-plus-share', 'width=490,height=530');return false;">
+  						<span>Google+</span>
+  					</a>
+  				</div>
+  			</footer>
+
+  			<aside class="post-comments">
+    
+    
+    
+</aside>
+
+
+			</div>
+
+			<nav class="post-nav">
+				
+				
+					<a class="post-nav-item post-nav-prev" href="http://blog.ivrpowers.com/post/contactcenter/ivr-role-omnichannel/">
+						<section class="post-nav-teaser">
+							<span class="post-nav-icon"><i class="icon-arrow-right"></i></span>
+							<span class="post-nav-info">
+								<h4 class="post-nav-title">IVR plays a Role for an Effective Omnichannel Strategy</h4>
+								<p class="post-nav-excerpt">Customer Experience&hellip;</p>
+							</span>
+						</section>
+					</a>
+				
+				<div class="clear"></div>
+			</nav>
+
+		</div>
+	</article>
+</main>
 
 				<div id="body-class" style="display: none;"></div>
 				<footer id="footer">
@@ -357,6 +311,16 @@ html{font-family:sans-serif;line-height:1.15;-ms-text-size-adjust:100%;-webkit-t
 				</footer>
 				
 				
+<div id="tocMenu" data-target="toc">
+    <div class="menu-header">
+        <span class="menu-label">Menu</span>
+        <a class="menu-close" data-action="toc" data-target="toc"></a>
+    </div>
+    <div id="toc" class="menu-list">
+        
+    </div>
+</div>
+
 
 				<div class="overlay"></div>
 			</div>
