@@ -4,7 +4,7 @@ date = "2017-07-31T12:29:40+02:00"
 description = "Customer Experience"
 draft = false
 tags = ["ivr","omnichannel","custexp","contactcenter"]
-title = "IVR plays a Role for an Effective Omnichannel Strategy"
+title = "IVR plays a Key Role for an Effective Omnichannel Strategy"
 image = "/postimages/contactcenter/ivrpowers-posts-01.181.jpeg"
 
 +++
