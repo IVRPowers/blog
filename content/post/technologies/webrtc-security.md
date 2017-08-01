@@ -1,7 +1,7 @@
 +++
 categories = ["technologies"]
 date = "2017-08-01T10:04:37+02:00"
-description = "Security is Contained within your Browser"
+description = "Technology Security"
 draft = false
 tags = ["security","webrtc","dtls","srtp","data","voip"]
 title = "WebRTC built-in Security Features"
@@ -16,9 +16,9 @@ image = "/postimages/technologies/ivrpowers-posts-01.182.jpeg"
 
 In essence, any software in the Internet is an inherent risk that your PC may become infected by a virus, malware, spyware or various other ‘bugs’ that threaten the security of your data. As such, the principal solution to combat viruses is to install firewalls and anti-malware software that work **to defend your computer against any potential threats.**
 
-With WebRTC however, there’s no need to worry about any of that. Because WebRTC works from browser to browser, you don’t need to download any software or plugins in order to set up a video conference or VOIP call. All the security that you need is already **contained within your browser** and the WebRTC platform.
+With [WebRTC](http://blog.ivrpowers.com/post/technologies/what-is-webrtc/) however, there’s no need to worry about any of that. Because WebRTC works from browser to browser, you don’t need to download any software or plugins in order to set up a video conference or VOIP call. All the security that you need is already **contained within your browser** and the [WebRTC](http://blog.ivrpowers.com/post/technologies/what-is-webrtc/) platform.
 
-Some of the **in-built security features** contained within a WebRTC platform include:
+Some of the **in-built security features** contained within a [WebRTC System](http://blog.ivrpowers.com/post/marketing/webrtc-system-benefits/) include:
 	
 - Camera and Microphone Security
 - Peer-to-Peer Encryption
@@ -38,7 +38,7 @@ Encryption is built in to WebRTC as a permanent feature and addresses all securi
 
 #### Data Transport Layer Security (DTLS)
 
-Any data that is transferred through a WebRTC system is encrypted using the Datagram Transport Layer Security method. This encryption is already built-in to compatible web browsers (Firefox, Chrome, Opera) thus **eavesdropping or data manipulation can’t happen.**
+Any data that is transferred through a [WebRTC system](http://blog.ivrpowers.com/post/marketing/webrtc-system-benefits/) is encrypted using the Datagram Transport Layer Security method. This encryption is already built-in to compatible web browsers (Firefox, Chrome, Opera) thus **eavesdropping or data manipulation can’t happen.**
 
 
 #### Secure Real-Time Protocol (SRTP)
