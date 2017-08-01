@@ -6,10 +6,20 @@
     <description>Recent content in Posts on Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 31 Jul 2017 12:29:40 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 01 Aug 2017 10:04:37 +0200</lastBuildDate>
     
 	<atom:link href="http://blog.ivrpowers.com/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>WebRTC built-in Security Features</title>
+      <link>http://blog.ivrpowers.com/post/technologies/webrtc-security/</link>
+      <pubDate>Tue, 01 Aug 2017 10:04:37 +0200</pubDate>
+      
+      <guid>http://blog.ivrpowers.com/post/technologies/webrtc-security/</guid>
+      <description>Photo source: Pexels. Creative Commons In essence, any software in the Internet is an inherent risk that your PC may become infected by a virus, malware, spyware or various other ‘bugs’ that threaten the security of your data. As such, the principal solution to combat viruses is to install firewalls and anti-malware software that work to defend your computer against any potential threats.
+With WebRTC however, there’s no need to worry about any of that.</description>
+    </item>
     
     <item>
       <title>IVR plays a Role for an Effective Omnichannel Strategy</title>
