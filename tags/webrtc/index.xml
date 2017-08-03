@@ -6,10 +6,20 @@
     <description>Recent content in Webrtc on Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 01 Aug 2017 10:04:37 +0200</lastBuildDate>
+    <lastBuildDate>Thu, 03 Aug 2017 13:49:40 +0200</lastBuildDate>
     
 	<atom:link href="http://blog.ivrpowers.com/tags/webrtc/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Live Video Calling: The New Eye Witness for Insurance Companies</title>
+      <link>http://blog.ivrpowers.com/post/support/live-video-calling-insurance/</link>
+      <pubDate>Thu, 03 Aug 2017 13:49:40 +0200</pubDate>
+      
+      <guid>http://blog.ivrpowers.com/post/support/live-video-calling-insurance/</guid>
+      <description>Photo source: Pexels. Creative Commons The popularity of Live Video Calling is increasing quickly in the view of the fact that it can help to provide a better customer service and reduce costs. One of the most growing sectors in applying live video is insurance businesses.
+Access to convenience. Customers expect to use the more convenient channel at every moment. Thanks to new technologies like WebRTC it is not necessary to make a prior appointment and move to a real office.</description>
+    </item>
     
     <item>
       <title>WebRTC built-in Security Features</title>
