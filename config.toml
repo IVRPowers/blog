@@ -15,7 +15,7 @@ theme = "hugo-theme-bleak"
   # Google analytics
   #googleAnalyticsUserID = "UA-xxxxxxxx-x"
   #domainVerification = "xxxxxxxxxxxxxxxxxxxxx"
-  #disqus = "xxxxxxxxx"
+  disqus = "ivrpowers"
 
   [params.author]
     firstName = "IVRPowers"
