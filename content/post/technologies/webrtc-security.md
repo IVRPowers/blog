@@ -7,7 +7,6 @@ tags = ["security","webrtc","dtls","srtp","data","voip"]
 title = "WebRTC built-in Security Features"
 image = "/postimages/technologies/ivrpowers-posts-01.182.jpeg"
 comments = true
-
 +++
 
 ![padlock](/postimages/technologies/ivrpowers-posts-01.182.jpeg)

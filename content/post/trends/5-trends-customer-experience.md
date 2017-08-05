@@ -6,7 +6,7 @@ draft = false
 tags = ["businessstrategy","socialnetworking","iot","omnichannel","webrtc","contactcenter","custexp"]
 title = "5 Trends Impacting Customer Experience"
 image = "/postimages/trends/ivrpowers-posts-01.180.jpeg"
-
+comments = true
 +++
 
 ![User with a tablet](/postimages/trends/ivrpowers-posts-01.180.jpeg)

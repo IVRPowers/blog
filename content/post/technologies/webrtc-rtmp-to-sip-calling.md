@@ -6,6 +6,7 @@ draft = false
 tags = ["webrtc","rtmp", "rtc", "cctr", "voip","sip"]
 title = "Web Browser to SIP Calling?"
 image = "/postimages/technologies/ivrpowers-posts-01.101.jpeg"
+comments = true
 +++
 
 ![Webcall SIP](/postimages/technologies/ivrpowers-posts-01.110.jpeg)

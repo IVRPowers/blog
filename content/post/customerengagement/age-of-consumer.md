@@ -7,7 +7,7 @@ draft = false
 tags = ["cctr","custexp","businessstrategy","branding","customerengagement","contactcenter"]
 title = "The Age of the Customer in Contact Centers"
 image = "/postimages/customerengagement/ivrpowers-posts-01.164.jpeg"
-
+comments = true
 +++
 
 ![Businessman talking](/postimages/customerengagement/ivrpowers-posts-01.164.jpeg)

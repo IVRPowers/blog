@@ -6,6 +6,7 @@ draft = false
 tags = ["videochat","livechat", "businessstrategy", "cx", "custexp"]
 title = "Is Video Chat a good Strategy for my Business?"
 image = "/postimages/marketing/ivrpowers-posts-01.078.jpeg"
+comments = true
 
 +++
 

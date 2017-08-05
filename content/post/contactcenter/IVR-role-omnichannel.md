@@ -6,6 +6,7 @@ draft = false
 tags = ["ivr","omnichannel","custexp","contactcenter"]
 title = "IVR plays a Key Role for an Effective Omnichannel Strategy"
 image = "/postimages/contactcenter/ivrpowers-posts-01.181.jpeg"
+comments = true
 
 +++
 

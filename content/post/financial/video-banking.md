@@ -6,7 +6,7 @@ draft = false
 tags = ["livechat","livevideo", "businessstrategy"]
 title = "Video Banking Revolution is coming"
 image = "/postimages/financial/ivrpowers-posts-01.101.png"
-
+comments = true
 +++
 
 ![Customer on live chat](/postimages/financial/ivrpowers-posts-01.101.png)

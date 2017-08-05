@@ -6,7 +6,7 @@ draft = false
 tags = ["businessstrategy","rtc","icarvision","videochat","livechat"]
 title = "Video Online Onboarding"
 image = "/postimages/financial/ivrpowers-posts-01.103.jpeg"
-
+comments = true
 +++
 
 ![Laptop and Mobile](/postimages/financial/ivrpowers-posts-01.103.jpeg)

@@ -6,7 +6,7 @@ draft = false
 tags = ["marketing","videochat","livechat","businesstrends","humaninteraction"]
 title = "Millennials don't Phone Anymore!"
 image = "/postimages/trends/ivrpowers-posts-01.176.jpg"
-
+comments = true
 +++
 
 ![Young people on the phone](/postimages/trends/ivrpowers-posts-01.176.jpg)

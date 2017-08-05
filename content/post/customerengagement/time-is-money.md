@@ -6,7 +6,7 @@ draft = false
 tags = ["custexp","businessstrategy","marketing","customerengagement","voiceofthecustomer"]
 title = "Time is Money on Customer Experience"
 image = "/postimages/customerengagement/ivrpowers-posts-01.154.jpeg"
-
+comments = true
 +++
 
 ![man speaking on the phone](/postimages/customerengagement/ivrpowers-posts-01.154.jpeg)

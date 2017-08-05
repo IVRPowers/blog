@@ -6,6 +6,7 @@ draft = false
 tags = ["custexp","businessstrategy","contactcenter","customerengagement","humaninteraction"]
 title = "The Secret is the Emotion"
 image = "/postimages/customerengagement/ivrpowers-posts-01.179.jpeg"
+comments = true
 
 +++
 

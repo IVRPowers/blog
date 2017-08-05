@@ -6,6 +6,7 @@ draft = false
 tags = ["custexp","businessstrategy", "startup", "cx", "ecommerce"]
 title = "New Approaches on Ecommerce Customer Service"
 image = "/postimages/marketing/ivrpowers-posts-01.106.jpg"
+comments = true
 
 +++
 

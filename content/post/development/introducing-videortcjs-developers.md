@@ -6,7 +6,7 @@ draft = false
 tags = ["api","sdk", "rtc"]
 title = "Introducing VideoRTC.js for Developers"
 image = "/postimages/development/ivrpowers-posts-01.038.jpeg"
-
+comments = true
 +++
 
 ![VideoRTC.js](/postimages/development/ivrpowers-posts-01.039.jpeg)

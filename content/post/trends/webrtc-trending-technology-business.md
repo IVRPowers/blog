@@ -6,7 +6,7 @@ draft = false
 tags = ["webrtc","businessstrategy", "marketing"]
 title = "WebRTC: a Trending Technology for your Business"
 image = "/postimages/trends/ivrpowers-posts-01.089.jpeg"
-
+comments = true
 +++
 
 ![Man holding a phone](/postimages/trends/ivrpowers-posts-01.089.jpeg)

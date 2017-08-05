@@ -6,7 +6,7 @@ draft = false
 tags = ["videochat","videoconferencing","businessstrategy","rtc","contactcenter","customerengagement","humaninteraction"]
 title = "Videochat Support Channel Recommendations"
 image = "/postimages/customerengagement/ivrpowers-posts-01.181.jpeg"
-
+comments = true
 +++
 
 ![girl on videoconference](/postimages/customerengagement/ivrpowers-posts-01.181.jpeg)

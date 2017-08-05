@@ -6,6 +6,8 @@ draft = false
 tags = ["livechat","videochat","businessstrategy"]
 title = "3 Key Benefits of Live Video Chat"
 image = "/postimages/marketing/ivrpowers-posts-01.107.jpeg"
+comments = true
+
 +++
 
 ![Live video chat](/postimages/marketing/ivrpowers-posts-01.107.jpeg)

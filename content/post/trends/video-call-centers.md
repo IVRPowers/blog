@@ -6,7 +6,7 @@ draft = false
 tags = ["custexp","livechat","videochat","marketing", "businessstrategy","contactcenter","startup"]
 title = "Contact Centers should Know Video is Here to Stay"
 image = "/postimages/trends/ivrpowers-posts-01.172.jpeg"
-
+comments = true
 +++
 
 ![Woman and screens](/postimages/trends/ivrpowers-posts-01.172.jpeg)
