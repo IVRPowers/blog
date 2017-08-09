@@ -6,10 +6,20 @@
     <description>Recent content in Posts on Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 07 Aug 2017 23:22:18 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 09 Aug 2017 10:09:17 +0200</lastBuildDate>
     
 	<atom:link href="http://blog.ivrpowers.com/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>The Next Step in Security: Your Face is Your Password</title>
+      <link>http://blog.ivrpowers.com/post/trends/security-face-as-password/</link>
+      <pubDate>Wed, 09 Aug 2017 10:09:17 +0200</pubDate>
+      
+      <guid>http://blog.ivrpowers.com/post/trends/security-face-as-password/</guid>
+      <description>Photo source: Pixabay. Creative Commons You can leave behind all the tricks to remember dozens of passwords and PINs because biometrics are already here. One of the leading businesses applying it are banks.
+New authentication processes through technology New digital services make most of visits to bank branch unnecessary. Biometric software allows customers to log into their bank accounts through their mobile phones without a password. A mobile phone with a camera is enough to solve everyday bank issues.</description>
+    </item>
     
     <item>
       <title>Video RTC (WebRTC) Roadmap 2017!</title>
