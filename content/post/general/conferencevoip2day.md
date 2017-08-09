@@ -7,6 +7,7 @@ tags = ["ivrpowers","webrtc","videochat","livechat","businesstrends"]
 title = "The Value of Video Communication"
 image = "/postimages/general/ivrpowers-posts-01.113.jpeg"
 
+
 +++
 
 ![Iván Sixto during conference](/postimages/general/ivrpowers-posts-01.108.jpeg)

@@ -2,7 +2,7 @@
 categories = ["trends"]
 date = "2017-08-09T10:09:17+02:00"
 description = "Biometrics Trends"
-draft = true
+draft = false
 tags = ["biometrics","mobility","businesstrends"]
 title = "The Next Step in Security: Your Face is Your Password"
 image = "/postimages/trends/ivrpowers-posts-01.184.jpeg"
