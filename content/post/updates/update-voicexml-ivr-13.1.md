@@ -7,6 +7,7 @@ tags = ["voicexml","ivr", "ivrpowers"]
 title = "VoiceXML IVR v1.3"
 image = "/postimages/updates/ivrpowers-posts-01.084.jpeg"
 featured = true
+comments = false
 +++
 
 # Release Note
