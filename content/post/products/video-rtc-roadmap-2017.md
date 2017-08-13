@@ -9,7 +9,7 @@ image = "/postimages/products/ivrpowers-posts-01.092.jpeg"
 
 +++
 
-![VideoRTC roadmap](/postimages/products/roamdap-videortc-webrtc-2017.png)
+![VideoRTC roadmap](/postimages/products/roadmap-videortc-webrtc-2017.png)
 ------------
 ###### Photo source: Pixabay. Creative Commons
 
