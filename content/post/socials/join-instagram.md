@@ -10,7 +10,7 @@ featured =true
 
 +++
 
-![IVRPowers Instagram](/postimages/socials/ivrpowers-intragram.jpg)
+![IVRPowers Instagram](/postimages/socials/ivrpowers-instagram.jpg)
 
 You can now follow us on [Instagram!](https://www.instagram.com/ivrpowers/). We want to share our best tech pictures with you. Products, trends, promotions, innovations, conferences, updates... 
 

@@ -12,9 +12,9 @@ featured = true
 
 ![IVRpowers LinkedIn](/postimages/socials/ivrpowers-linkedin.jpg)
 
-[Interactive Powers](http://www.ivrpowers.com) has its own [LinkedIn page](https://www.linkedin.com/company/ivr-powers)! Meet more people interested on the latest trends on #RTC and #IVR. And if you have any questions feel free to contact us.
+[Interactive Powers](http://www.ivrpowers.com) has its own [LinkedIn page](https://www.linkedin.com/company/ivrpowers)! Meet more people interested on the latest trends on #RTC and #IVR. And if you have any questions feel free to contact us.
 
-Follow our Linkedin page at https://www.linkedin.com/company/ivr-powers
+Follow our Linkedin page at https://www.linkedin.com/company/ivrpowers
 
 ---
 [Interactive Powers](http://www.ivrpowers.com/) - Streamline your business communications
