@@ -6,10 +6,21 @@
     <description>Recent content in Rtc on Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 07 Aug 2017 23:22:18 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 14 Aug 2017 22:00:00 +0200</lastBuildDate>
     
 	<atom:link href="http://blog.ivrpowers.com/tags/rtc/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Interactive Powers is on Google&#43;</title>
+      <link>http://blog.ivrpowers.com/post/socials/follow-googleplus/</link>
+      <pubDate>Mon, 14 Aug 2017 22:00:00 +0200</pubDate>
+      
+      <guid>http://blog.ivrpowers.com/post/socials/follow-googleplus/</guid>
+      <description>Interactive Powers has its own Google+ page! Meet more people interested on the latest collections and trends. And if you have any questions feel free to contact us.
+Follow our Google+ page at https://plus.google.com/110474380379482164317/
+Interactive Powers - Streamline your business communications</description>
+    </item>
     
     <item>
       <title>Video RTC (WebRTC) Roadmap 2017!</title>
@@ -104,7 +115,7 @@ VideoRTC.js library Today, we’re thrilled to officially announce a new VideoRT
       
       <guid>http://blog.ivrpowers.com/post/socials/follow-linkedin/</guid>
       <description>Interactive Powers has its own LinkedIn page! Meet more people interested on the latest trends on #RTC and #IVR. And if you have any questions feel free to contact us.
-Follow our Linkedin page at https://www.linkedin.com/company/ivr-powers
+Follow our Linkedin page at https://www.linkedin.com/company/ivrpowers
 Interactive Powers - Streamline your business communications</description>
     </item>
     
