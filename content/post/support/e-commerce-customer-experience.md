@@ -4,7 +4,7 @@ date = "2017-08-16T12:14:46+02:00"
 description = "Video RTC for Online Shopping"
 draft = false
 tags = ["custexp","support","rtc","livechat","humaninteraction"]
-title = "Let's E-commerce becomes a Better Customer Experience"
+title = "Let's E-commerce become a Better Customer Experience"
 image = "/postimages/support/ivrpowers-posts-01.185.jpeg"
 +++
 
