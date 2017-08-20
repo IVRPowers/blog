@@ -6,10 +6,30 @@
     <description>Recent content in Rtmp on Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 09 Jul 2017 00:20:05 +0200</lastBuildDate>
+    <lastBuildDate>Thu, 17 Aug 2017 14:00:00 +0200</lastBuildDate>
     
 	<atom:link href="http://blog.ivrpowers.com/tags/rtmp/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Video RTC · Voice Calling</title>
+      <link>http://blog.ivrpowers.com/post/products/video-rtc-voice-calling/</link>
+      <pubDate>Thu, 17 Aug 2017 14:00:00 +0200</pubDate>
+      
+      <guid>http://blog.ivrpowers.com/post/products/video-rtc-voice-calling/</guid>
+      <description>Make advanced Voice Call or Web Phone applications for Real-Time Communications. Overview Voice Calling functionality ensures that no one misses out on the full application experience. It helps to provide an effective customer care, offering the option to hear voices in real-time. Voice Calling keeps interactions as easy, simply and fast as possible.
+Voice Calling application makes it easy to create real-time communications (RTC) for your business applications and processes.</description>
+    </item>
+    
+    <item>
+      <title>Video RTC · Video Calling</title>
+      <link>http://blog.ivrpowers.com/post/products/video-rtc-video-calling/</link>
+      <pubDate>Thu, 17 Aug 2017 13:00:00 +0200</pubDate>
+      
+      <guid>http://blog.ivrpowers.com/post/products/video-rtc-video-calling/</guid>
+      <description>Create amazing Real-Time Communications with Dual-band Voice and Video capabilities Overview Video Calling functionality provides a simpler way for people to communicate via web. It integrates seamlessly into the workflows and it is easy to manage. Agents or customers can communicate instantly over video without downloading software or installing plugins. It also enables multi-party calls for team collaboration.
+Video Calling application makes it easy to create real-time communications (RTC) for your business applications and processes.</description>
+    </item>
     
     <item>
       <title>Web Browser to SIP Calling?</title>

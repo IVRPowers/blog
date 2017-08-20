@@ -6,10 +6,29 @@
     <description>Recent content in Contact Center on Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 13 Jul 2017 10:34:40 +0200</lastBuildDate>
+    <lastBuildDate>Thu, 17 Aug 2017 14:34:40 +0200</lastBuildDate>
     
 	<atom:link href="http://blog.ivrpowers.com/categories/contact-center/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>How to introduce New Channels into a Contact Center</title>
+      <link>http://blog.ivrpowers.com/post/contactcenter/how-to-introduce-new-channels-contact-center/</link>
+      <pubDate>Thu, 17 Aug 2017 14:34:40 +0200</pubDate>
+      
+      <guid>http://blog.ivrpowers.com/post/contactcenter/how-to-introduce-new-channels-contact-center/</guid>
+      <description>Photo source: Interactive Powers Last years, we have implemented several New Channels projects based on Video RTC to existing Contact Centers. At times, it was the result of Innovation, but most often it was to enhance the Customer Experience and your services according to a new Market demand. After all, any Contact Center should interact with the customer anywhere they are! **Phone, Email, and Chat are making way for emerging channels such as Social media, Video, Text, Mobile apps and IVR self services.</description>
+    </item>
+    
+    <item>
+      <title>Improving the Contact Center with WebRTC</title>
+      <link>http://blog.ivrpowers.com/post/contactcenter/webrtc-for-contact-center/</link>
+      <pubDate>Thu, 17 Aug 2017 13:30:40 +0200</pubDate>
+      
+      <guid>http://blog.ivrpowers.com/post/contactcenter/webrtc-for-contact-center/</guid>
+      <description>Photo source: Pexels The way people access customer service is changing. If existing they want to survive in a highly competitive digital market, Contact Centers must adapt properly their services and make a continuious effort to provide greater customer experiences.
+Poor Customer Services Practices Today, Contact Centers cannot always provide the best customer service only over the phone channel. Clients who call in for specific support are usually kept on hold for long periods of time – considering that call centers numbers are not always included in phone price plans – they have to repeat information or if they write an email or if they interact on a web content they never receive an answer in real-time.</description>
+    </item>
     
     <item>
       <title>Contact Centers: Digital Transformation, is not an Option</title>

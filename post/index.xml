@@ -6,13 +6,101 @@
     <description>Recent content in Posts on Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 16 Aug 2017 23:22:18 +0200</lastBuildDate>
+    <lastBuildDate>Thu, 17 Aug 2017 14:34:40 +0200</lastBuildDate>
     
 	<atom:link href="http://blog.ivrpowers.com/post/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Product Microsites</title>
+      <title>How to introduce New Channels into a Contact Center</title>
+      <link>http://blog.ivrpowers.com/post/contactcenter/how-to-introduce-new-channels-contact-center/</link>
+      <pubDate>Thu, 17 Aug 2017 14:34:40 +0200</pubDate>
+      
+      <guid>http://blog.ivrpowers.com/post/contactcenter/how-to-introduce-new-channels-contact-center/</guid>
+      <description>Photo source: Interactive Powers Last years, we have implemented several New Channels projects based on Video RTC to existing Contact Centers. At times, it was the result of Innovation, but most often it was to enhance the Customer Experience and your services according to a new Market demand. After all, any Contact Center should interact with the customer anywhere they are! **Phone, Email, and Chat are making way for emerging channels such as Social media, Video, Text, Mobile apps and IVR self services.</description>
+    </item>
+    
+    <item>
+      <title>Video RTC · Voice Calling</title>
+      <link>http://blog.ivrpowers.com/post/products/video-rtc-voice-calling/</link>
+      <pubDate>Thu, 17 Aug 2017 14:00:00 +0200</pubDate>
+      
+      <guid>http://blog.ivrpowers.com/post/products/video-rtc-voice-calling/</guid>
+      <description>Make advanced Voice Call or Web Phone applications for Real-Time Communications. Overview Voice Calling functionality ensures that no one misses out on the full application experience. It helps to provide an effective customer care, offering the option to hear voices in real-time. Voice Calling keeps interactions as easy, simply and fast as possible.
+Voice Calling application makes it easy to create real-time communications (RTC) for your business applications and processes.</description>
+    </item>
+    
+    <item>
+      <title>Improving the Contact Center with WebRTC</title>
+      <link>http://blog.ivrpowers.com/post/contactcenter/webrtc-for-contact-center/</link>
+      <pubDate>Thu, 17 Aug 2017 13:30:40 +0200</pubDate>
+      
+      <guid>http://blog.ivrpowers.com/post/contactcenter/webrtc-for-contact-center/</guid>
+      <description>Photo source: Pexels The way people access customer service is changing. If existing they want to survive in a highly competitive digital market, Contact Centers must adapt properly their services and make a continuious effort to provide greater customer experiences.
+Poor Customer Services Practices Today, Contact Centers cannot always provide the best customer service only over the phone channel. Clients who call in for specific support are usually kept on hold for long periods of time – considering that call centers numbers are not always included in phone price plans – they have to repeat information or if they write an email or if they interact on a web content they never receive an answer in real-time.</description>
+    </item>
+    
+    <item>
+      <title>Video RTC · Video Calling</title>
+      <link>http://blog.ivrpowers.com/post/products/video-rtc-video-calling/</link>
+      <pubDate>Thu, 17 Aug 2017 13:00:00 +0200</pubDate>
+      
+      <guid>http://blog.ivrpowers.com/post/products/video-rtc-video-calling/</guid>
+      <description>Create amazing Real-Time Communications with Dual-band Voice and Video capabilities Overview Video Calling functionality provides a simpler way for people to communicate via web. It integrates seamlessly into the workflows and it is easy to manage. Agents or customers can communicate instantly over video without downloading software or installing plugins. It also enables multi-party calls for team collaboration.
+Video Calling application makes it easy to create real-time communications (RTC) for your business applications and processes.</description>
+    </item>
+    
+    <item>
+      <title>Video RTC · Screen Sharing</title>
+      <link>http://blog.ivrpowers.com/post/products/video-rtc-screen-sharing/</link>
+      <pubDate>Thu, 17 Aug 2017 12:00:00 +0200</pubDate>
+      
+      <guid>http://blog.ivrpowers.com/post/products/video-rtc-screen-sharing/</guid>
+      <description>Secure screen share your desktop or any application in Real-Time Communications. Overview Screen Sharing application allows you to share live screen over the web or mobile instantly. Most business processes can take benefit of using Screen Sharing feature. For instance, it is a very powerful tool to improve online meetings, presentations, remote work or support services.
+Screen Sharing functionality makes it easy to enhance your real-time communications experience with the power of content, all within the context of your website or application.</description>
+    </item>
+    
+    <item>
+      <title>Children 6-15: Proportion of time spent communicating (Phone Calls 2%)</title>
+      <link>http://blog.ivrpowers.com/post/trends/children-phone-calls-trends/</link>
+      <pubDate>Thu, 17 Aug 2017 11:30:18 +0200</pubDate>
+      
+      <guid>http://blog.ivrpowers.com/post/trends/children-phone-calls-trends/</guid>
+      <description>Source: Survey from Ofcom ,the UK&amp;rsquo;s communications regulator Children 6-15 years old, in average of a week with any device and from any location in UK, only spent 2% of their communicating time with phone calls. That&amp;rsquo;s not really a suprise, if you know some children of this age in a country like UK or any other one&amp;hellip; but think about what will be the real-time communication market in the next 10 years under this generation.</description>
+    </item>
+    
+    <item>
+      <title>Video RTC · File Sharing</title>
+      <link>http://blog.ivrpowers.com/post/products/video-rtc-file-sharing/</link>
+      <pubDate>Thu, 17 Aug 2017 10:00:00 +0200</pubDate>
+      
+      <guid>http://blog.ivrpowers.com/post/products/video-rtc-file-sharing/</guid>
+      <description>Send and Receive Files or Documents in Real-Time Communications. Overview File Sharing application helps you to enhance your real-time communications experience with the power of content. It allows you to instantly transfer any file establishing a peer connection all within the context of your website or application. With the file sharing feature you can send and receive unlimited files just dragging them in the chat window.
+File Sharing functionality makes it possible to share and receive documents during your voice or video call.</description>
+    </item>
+    
+    <item>
+      <title>Video RTC · Core Features</title>
+      <link>http://blog.ivrpowers.com/post/products/video-rtc-core-features/</link>
+      <pubDate>Thu, 17 Aug 2017 09:30:00 +0200</pubDate>
+      
+      <guid>http://blog.ivrpowers.com/post/products/video-rtc-core-features/</guid>
+      <description>Video Gateway (WebRTC) includes core features that you can activate according to your own business requirements . All of this, is part of the main capabilities of our Video RTC solution suite.
+Know more about our Video RTC core features here:
+Live Chat. Video Gateway supports Live Chat feature thru a DataChannel. You can customize all the User or Agent front-end in Flash or HTML5 according the gateway mode you have deployed for your service.</description>
+    </item>
+    
+    <item>
+      <title>Video RTC · Live Chat</title>
+      <link>http://blog.ivrpowers.com/post/products/video-rtc-live-chat/</link>
+      <pubDate>Thu, 17 Aug 2017 09:00:00 +0200</pubDate>
+      
+      <guid>http://blog.ivrpowers.com/post/products/video-rtc-live-chat/</guid>
+      <description>Manage Smart Text Message interactions in Real-Time Communications. Overview Live Chat supplement your video and voice communication with advanced text chat capabilities using the WebRTC datachannel. Live Chat feature allows to send and receive text messages simultaneously, without any lag at a single click. It is the perfect tool to use for the customer and an agent conversation. Live chat integrates seamlessly into your application, eliminating the need for clunky third-party APIs.</description>
+    </item>
+    
+    <item>
+      <title>Interactive Powers · Microsites</title>
       <link>http://blog.ivrpowers.com/post/products/products-microsites/</link>
       <pubDate>Wed, 16 Aug 2017 23:22:18 +0200</pubDate>
       
