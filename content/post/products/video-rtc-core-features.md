@@ -15,6 +15,12 @@ image = "/postimages/products/ivrpowers-videortc-features.029.jpeg"
 
 Know more about our Video RTC core features here:
 	
+## Video Calling.
+Video Gateway provides a simpler way for people to communicate via web. It integrates seamlessly into the workflows and it is easy to manage. Agents or customers can communicate instantly over video without downloading software or installing plugins. [Learn more](http://blog.ivrpowers.com/post/products/video-rtc-video-calling/).
+
+## Voice Calling.
+Video Gateway  ensures that no one misses out on the full application experience. It helps to provide an effective customer care, offering the option to hear voices in real-time. Voice Calling keeps interactions as easy, simply and fast as possible. [Learn more](http://blog.ivrpowers.com/post/products/video-rtc-voice-calling/).
+	
 ## Live Chat.
 Video Gateway supports Live Chat feature thru a DataChannel. You can customize all the User or Agent front-end in Flash or HTML5 according the gateway mode you have deployed for your service. Live Chat is designed to allow quick written messages between peers. [Learn more](http://blog.ivrpowers.com/post/products/video-rtc-live-chat/).
 
@@ -23,12 +29,6 @@ Video Gateway supports sending / receiving files between peers during a live ses
 
 ## Screen Sharing.
 Video Gateway supports to share a screen or window from the Agent peers to manage an advanced Call Center interaction with Users. A special extension can be added on demand for your Video RTC projects and it works with most Web Browsers. [Learn more](http://blog.ivrpowers.com/post/products/video-rtc-screen-sharing/).
-
-## Video Calling.
-Video Gateway provides a simpler way for people to communicate via web. It integrates seamlessly into the workflows and it is easy to manage. Agents or customers can communicate instantly over video without downloading software or installing plugins. [Learn more](http://blog.ivrpowers.com/post/products/video-rtc-video-calling/).
-
-## Voice Calling.
-Video Gateway  ensures that no one misses out on the full application experience. It helps to provide an effective customer care, offering the option to hear voices in real-time. Voice Calling keeps interactions as easy, simply and fast as possible. [Learn more](http://blog.ivrpowers.com/post/products/video-rtc-voice-calling/).
 
 ---
 [Interactive Powers](http://www.ivrpowers.com/) - Streamline your business communications

@@ -1,6 +1,6 @@
 +++
 categories = ["contact center"]
-date = "2017-08-17T13:30:40+02:00"
+date = "2017-08-19T13:30:40+02:00"
 description = "Customer Engagement"
 draft = false
 tags = ["videortc", "custexp","businessstrategy","contactcenter"]
