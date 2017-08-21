@@ -6,7 +6,7 @@
     <description>Recent content in Webrtc on Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 17 Aug 2017 14:00:00 +0200</lastBuildDate>
+    <lastBuildDate>Sun, 20 Aug 2017 14:00:00 +0200</lastBuildDate>
     
 	<atom:link href="http://blog.ivrpowers.com/tags/webrtc/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,7 +14,7 @@
     <item>
       <title>Video RTC · Voice Calling</title>
       <link>http://blog.ivrpowers.com/post/products/video-rtc-voice-calling/</link>
-      <pubDate>Thu, 17 Aug 2017 14:00:00 +0200</pubDate>
+      <pubDate>Sun, 20 Aug 2017 14:00:00 +0200</pubDate>
       
       <guid>http://blog.ivrpowers.com/post/products/video-rtc-voice-calling/</guid>
       <description>Make advanced Voice Call or Web Phone applications for Real-Time Communications. Overview Voice Calling functionality ensures that no one misses out on the full application experience. It helps to provide an effective customer care, offering the option to hear voices in real-time. Voice Calling keeps interactions as easy, simply and fast as possible.
@@ -59,7 +59,7 @@ File Sharing functionality makes it possible to share and receive documents duri
       <guid>http://blog.ivrpowers.com/post/products/video-rtc-core-features/</guid>
       <description>Video Gateway (WebRTC) includes core features that you can activate according to your own business requirements . All of this, is part of the main capabilities of our Video RTC solution suite.
 Know more about our Video RTC core features here:
-Live Chat. Video Gateway supports Live Chat feature thru a DataChannel. You can customize all the User or Agent front-end in Flash or HTML5 according the gateway mode you have deployed for your service.</description>
+Video Calling. Video Gateway provides a simpler way for people to communicate via web. It integrates seamlessly into the workflows and it is easy to manage. Agents or customers can communicate instantly over video without downloading software or installing plugins.</description>
     </item>
     
     <item>

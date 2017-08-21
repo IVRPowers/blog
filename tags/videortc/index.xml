@@ -6,7 +6,7 @@
     <description>Recent content in Videortc on Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 17 Aug 2017 14:34:40 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 21 Aug 2017 09:00:00 +0200</lastBuildDate>
     
 	<atom:link href="http://blog.ivrpowers.com/tags/videortc/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,7 +14,7 @@
     <item>
       <title>How to introduce New Channels into a Contact Center</title>
       <link>http://blog.ivrpowers.com/post/contactcenter/how-to-introduce-new-channels-contact-center/</link>
-      <pubDate>Thu, 17 Aug 2017 14:34:40 +0200</pubDate>
+      <pubDate>Mon, 21 Aug 2017 09:00:00 +0200</pubDate>
       
       <guid>http://blog.ivrpowers.com/post/contactcenter/how-to-introduce-new-channels-contact-center/</guid>
       <description>Photo source: Interactive Powers Last years, we have implemented several New Channels projects based on Video RTC to existing Contact Centers. At times, it was the result of Innovation, but most often it was to enhance the Customer Experience and your services according to a new Market demand. After all, any Contact Center should interact with the customer anywhere they are! **Phone, Email, and Chat are making way for emerging channels such as Social media, Video, Text, Mobile apps and IVR self services.</description>
@@ -23,7 +23,7 @@
     <item>
       <title>Video RTC · Voice Calling</title>
       <link>http://blog.ivrpowers.com/post/products/video-rtc-voice-calling/</link>
-      <pubDate>Thu, 17 Aug 2017 14:00:00 +0200</pubDate>
+      <pubDate>Sun, 20 Aug 2017 14:00:00 +0200</pubDate>
       
       <guid>http://blog.ivrpowers.com/post/products/video-rtc-voice-calling/</guid>
       <description>Make advanced Voice Call or Web Phone applications for Real-Time Communications. Overview Voice Calling functionality ensures that no one misses out on the full application experience. It helps to provide an effective customer care, offering the option to hear voices in real-time. Voice Calling keeps interactions as easy, simply and fast as possible.
@@ -33,7 +33,7 @@ Voice Calling application makes it easy to create real-time communications (RTC)
     <item>
       <title>Improving the Contact Center with WebRTC</title>
       <link>http://blog.ivrpowers.com/post/contactcenter/webrtc-for-contact-center/</link>
-      <pubDate>Thu, 17 Aug 2017 13:30:40 +0200</pubDate>
+      <pubDate>Sat, 19 Aug 2017 13:30:40 +0200</pubDate>
       
       <guid>http://blog.ivrpowers.com/post/contactcenter/webrtc-for-contact-center/</guid>
       <description>Photo source: Pexels The way people access customer service is changing. If existing they want to survive in a highly competitive digital market, Contact Centers must adapt properly their services and make a continuious effort to provide greater customer experiences.
@@ -78,7 +78,7 @@ File Sharing functionality makes it possible to share and receive documents duri
       <guid>http://blog.ivrpowers.com/post/products/video-rtc-core-features/</guid>
       <description>Video Gateway (WebRTC) includes core features that you can activate according to your own business requirements . All of this, is part of the main capabilities of our Video RTC solution suite.
 Know more about our Video RTC core features here:
-Live Chat. Video Gateway supports Live Chat feature thru a DataChannel. You can customize all the User or Agent front-end in Flash or HTML5 according the gateway mode you have deployed for your service.</description>
+Video Calling. Video Gateway provides a simpler way for people to communicate via web. It integrates seamlessly into the workflows and it is easy to manage. Agents or customers can communicate instantly over video without downloading software or installing plugins.</description>
     </item>
     
     <item>
