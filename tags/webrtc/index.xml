@@ -6,10 +6,20 @@
     <description>Recent content in Webrtc on Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 20 Aug 2017 14:00:00 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 21 Aug 2017 22:00:00 +0200</lastBuildDate>
     
 	<atom:link href="http://blog.ivrpowers.com/tags/webrtc/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Video RTC · Snapshot</title>
+      <link>http://blog.ivrpowers.com/post/products/video-rtc-snapshot/</link>
+      <pubDate>Mon, 21 Aug 2017 22:00:00 +0200</pubDate>
+      
+      <guid>http://blog.ivrpowers.com/post/products/video-rtc-snapshot/</guid>
+      <description>Take or get pictures dynamically during your remote video conversations. Overview Snapshot feature allows you to take easily a picture within the video. This functionality helps to enhance your real-time communications experience with the power of content. For instance, you can get Jpeg pictures from agents or users frames during a process, retrieving them later or share them to an external application interface.
+Snapshot makes it possible to save a picture from the middle of a video, all within the context of your website or application.</description>
+    </item>
     
     <item>
       <title>Video RTC · Voice Calling</title>
@@ -57,9 +67,9 @@ File Sharing functionality makes it possible to share and receive documents duri
       <pubDate>Thu, 17 Aug 2017 09:30:00 +0200</pubDate>
       
       <guid>http://blog.ivrpowers.com/post/products/video-rtc-core-features/</guid>
-      <description>Video Gateway (WebRTC) includes core features that you can activate according to your own business requirements . All of this, is part of the main capabilities of our Video RTC solution suite.
+      <description>Photo source: Interactive Powers Video Gateway (WebRTC) includes core features that you can activate according to your own business requirements . All of this, is part of the main capabilities of our Video RTC solution suite.
 Know more about our Video RTC core features here:
-Video Calling. Video Gateway provides a simpler way for people to communicate via web. It integrates seamlessly into the workflows and it is easy to manage. Agents or customers can communicate instantly over video without downloading software or installing plugins.</description>
+Video Calling. Video Gateway provides a simpler way for people to communicate via web. It integrates seamlessly into the workflows and it is easy to manage.</description>
     </item>
     
     <item>
