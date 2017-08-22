@@ -10,7 +10,7 @@ image = "/postimages/contactcenter/videortc-webrtc-contact-center.001.jpeg"
 
 ![Telephone boxes](/postimages/contactcenter/videortc-webrtc-contact-center.001.jpeg)
 ------------
-###### Photo source: Pexels
+###### Photo Source: Interactive Powers, Pexels. Creative Commons
 
 **The way people access customer service is changing**. If existing they want to survive in a highly competitive digital market, [Contact Centers must adapt properly their services](http://blog.ivrpowers.com/post/contactcenter/contact-centers-digital-transformation/) and make a continuious effort to provide greater customer experiences.
  

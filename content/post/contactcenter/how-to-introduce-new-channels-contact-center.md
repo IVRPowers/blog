@@ -12,7 +12,7 @@ image = "/postimages/contactcenter/ivrpowers-videortc-features.031.jpeg"
 ------------
 ###### Photo source: Interactive Powers
 
-Last years, we have implemented several New Channels projects based on [Video RTC](http://blog.ivrpowers.com/post/products/video-rtc/) to existing Contact Centers. At times, it was the result of Innovation, but most often it was to enhance the Customer Experience and your services according to a new Market demand. After all, any Contact Center should interact with the customer anywhere they are! **Phone, Email, and Chat are making way for emerging channels such as **Social media, Video, Text, Mobile apps and [IVR](http://blog.ivrpowers.com/post/technologies/what-is-ivr/) self services**. Don't worry; this is a very exciting time for the service industry. We are seeing innovative strategies and solutions that are taking the customer service to the ‘Next Level.’
+Last years, we have implemented several New Channels projects based on [Video RTC](http://blog.ivrpowers.com/post/products/video-rtc/) to existing Contact Centers. At times, it was the result of Innovation, but most often it was to **enhance the Customer Experience** and your services according to **a new Market demand**. After all, any Contact Center should interact with the customer anywhere they are! **Phone, Email, and Chat** are making way for emerging channels such as **Social media, Video, Text, Mobile apps and [IVR](http://blog.ivrpowers.com/post/technologies/what-is-ivr/) self services**. Don't worry; this is a very exciting time for the service industry. We are seeing innovative strategies and solutions that are taking the customer service to the ‘Next Level.’
 
 #	Match Customers Needs
 
