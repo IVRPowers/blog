@@ -6,10 +6,29 @@
     <description>Recent content in Posts on Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 22 Aug 2017 11:30:18 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 23 Aug 2017 11:30:18 +0200</lastBuildDate>
     
 	<atom:link href="http://blog.ivrpowers.com/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Dimension Data: Contact Centers expect to deploy Video Chat for Customer Engagement</title>
+      <link>http://blog.ivrpowers.com/post/trends/dimensiondata-trend/</link>
+      <pubDate>Wed, 23 Aug 2017 11:30:18 +0200</pubDate>
+      
+      <guid>http://blog.ivrpowers.com/post/trends/dimensiondata-trend/</guid>
+      <description>Photo Source: Interactive Powers, Creative Commons Nearly one-third of Contact Centers expect to deploy Video Chat to improve Customer Engagement According to a research from Dimension Data, nearly one-third of contact centers expect to deploy video chat for customer engagement. The research says that giving customers the additional option to remotely connect face-to-face, at moments that are important to them (and on their terms), can make their customer experience even more powerful.</description>
+    </item>
+    
+    <item>
+      <title>Video RTC · Over Printing</title>
+      <link>http://blog.ivrpowers.com/post/products/video-rtc-over-printing/</link>
+      <pubDate>Wed, 23 Aug 2017 09:00:00 +0200</pubDate>
+      
+      <guid>http://blog.ivrpowers.com/post/products/video-rtc-over-printing/</guid>
+      <description>Create Multi-tenant Video Services over WebRTC for your Contact Center. Overview Over Printing feature allows to print a logo inside the remote frame. Instead of specific customisation you can use it to distribute video calls to several services with their own service logo. It’s very useful for a Call Center with many services operated with different profiles.
+Over Printing functionality is easy to configure inside our multi-flavor settings without specific coding.</description>
+    </item>
     
     <item>
       <title>Deloitte: Global Contact Center Survey - Customer Interaction Channels 2017</title>
