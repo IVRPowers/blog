@@ -22,7 +22,7 @@ Refining IVR with Software · http://voicexml.ivrpowers.com
 Video Real Time Communications · http://videortc.ivrpowers.com
 
 ## Microsite - Webclient
-Calling from any Web Browser · http://videortc.ivrpowers.com
+Calling from any Web Browser · http://webclient.ivrpowers.com
 
 ## Microsite - Meeting Point
 Make secure business online meetings... · http://meetingpoint.ivrpowers.com
