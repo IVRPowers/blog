@@ -2,7 +2,7 @@
 categories = ["trends"]
 date = "2017-08-23T11:30:18+02:00"
 description = "Market Trend"
-draft = true
+draft = false
 tags = ["trend","custexp", "videochat"]
 title = "Dimension Data: Contact Centers expect to deploy Video Chat for Customer Engagement"
 image = "/postimages/trends/ivrpowers-cctr-trends-2017.003.jpeg"
@@ -21,4 +21,3 @@ Source: [Dimension Data - 2016 Global Contact Centre Benchmarking Report Summary
 
 ---
 [Interactive Powers](http://www.ivrpowers.com/) - Streamline your business communications
-
