@@ -6,7 +6,7 @@
     <description>Recent content in Tags on Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 17 Aug 2017 10:00:00 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 28 Jun 2017 00:30:56 +0200</lastBuildDate>
     
 	<atom:link href="http://blog.ivrpowers.com/tags/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,7 +14,7 @@
     <item>
       <title>Api</title>
       <link>http://blog.ivrpowers.com/tags/api/</link>
-      <pubDate>Thu, 17 Aug 2017 10:00:00 +0200</pubDate>
+      <pubDate>Wed, 28 Jun 2017 00:30:56 +0200</pubDate>
       
       <guid>http://blog.ivrpowers.com/tags/api/</guid>
       <description></description>
@@ -260,15 +260,6 @@
       <pubDate>Thu, 17 Aug 2017 11:30:18 +0200</pubDate>
       
       <guid>http://blog.ivrpowers.com/tags/phone/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Popupagent</title>
-      <link>http://blog.ivrpowers.com/tags/popupagent/</link>
-      <pubDate>Thu, 17 Aug 2017 10:00:00 +0200</pubDate>
-      
-      <guid>http://blog.ivrpowers.com/tags/popupagent/</guid>
       <description></description>
     </item>
     
