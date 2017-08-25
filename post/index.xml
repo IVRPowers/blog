@@ -6,7 +6,7 @@
     <description>Recent content in Posts on Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 23 Aug 2017 11:30:18 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 25 Aug 2017 11:30:18 +0200</lastBuildDate>
     
 	<atom:link href="http://blog.ivrpowers.com/post/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,16 +14,25 @@
     <item>
       <title>Dimension Data: Contact Centers expect to deploy Video Chat for Customer Engagement</title>
       <link>http://blog.ivrpowers.com/post/trends/dimensiondata-trend/</link>
-      <pubDate>Wed, 23 Aug 2017 11:30:18 +0200</pubDate>
+      <pubDate>Fri, 25 Aug 2017 11:30:18 +0200</pubDate>
       
       <guid>http://blog.ivrpowers.com/post/trends/dimensiondata-trend/</guid>
       <description>Photo Source: Interactive Powers, Creative Commons Nearly one-third of Contact Centers expect to deploy Video Chat to improve Customer Engagement According to a research from Dimension Data, nearly one-third of contact centers expect to deploy video chat for customer engagement. The research says that giving customers the additional option to remotely connect face-to-face, at moments that are important to them (and on their terms), can make their customer experience even more powerful.</description>
     </item>
     
     <item>
+      <title>Deloitte: Global Contact Center Survey - Customer Interaction Channels 2017</title>
+      <link>http://blog.ivrpowers.com/post/trends/deloitte-contact-center-customer-interaction-channels-2017/</link>
+      <pubDate>Thu, 24 Aug 2017 11:30:18 +0200</pubDate>
+      
+      <guid>http://blog.ivrpowers.com/post/trends/deloitte-contact-center-customer-interaction-channels-2017/</guid>
+      <description>Photo Source: Interactive Powers, Pexels. Creative Commons The most significant change predicted for Contact Centers in the next two years is a decrease in voice interactions by around -26%. Contacts by Phone are expected to drop from 64 percent of interactions today to 47 percent in 2019. Much of this migration away from the phone could shift to online chat and messaging; respondents expect use of these channels to increase to 16 percent by 2019, from 6 percent this year.</description>
+    </item>
+    
+    <item>
       <title>Video RTC · Over Printing</title>
       <link>http://blog.ivrpowers.com/post/products/video-rtc-over-printing/</link>
-      <pubDate>Wed, 23 Aug 2017 09:00:00 +0200</pubDate>
+      <pubDate>Thu, 24 Aug 2017 09:00:00 +0200</pubDate>
       
       <guid>http://blog.ivrpowers.com/post/products/video-rtc-over-printing/</guid>
       <description>Create Multi-tenant Video Services over WebRTC for your Contact Center. Overview Over Printing feature allows to print a logo inside the remote frame. Instead of specific customisation you can use it to distribute video calls to several services with their own service logo. It’s very useful for a Call Center with many services operated with different profiles.
@@ -31,18 +40,9 @@ Over Printing functionality is easy to configure inside our multi-flavor setting
     </item>
     
     <item>
-      <title>Deloitte: Global Contact Center Survey - Customer Interaction Channels 2017</title>
-      <link>http://blog.ivrpowers.com/post/trends/deloitte-contact-center-customer-interaction-channels-2017/</link>
-      <pubDate>Tue, 22 Aug 2017 11:30:18 +0200</pubDate>
-      
-      <guid>http://blog.ivrpowers.com/post/trends/deloitte-contact-center-customer-interaction-channels-2017/</guid>
-      <description>Photo Source: Interactive Powers, Pexels. Creative Commons The most significant change predicted for Contact Centers in the next two years is a decrease in voice interactions by around -26%. Contacts by Phone are expected to drop from 64 percent of interactions today to 47 percent in 2019. Much of this migration away from the phone could shift to online chat and messaging; respondents expect use of these channels to increase to 16 percent by 2019, from 6 percent this year.</description>
-    </item>
-    
-    <item>
       <title>Video RTC · Snapshot</title>
       <link>http://blog.ivrpowers.com/post/products/video-rtc-snapshot/</link>
-      <pubDate>Mon, 21 Aug 2017 22:00:00 +0200</pubDate>
+      <pubDate>Wed, 23 Aug 2017 22:00:00 +0200</pubDate>
       
       <guid>http://blog.ivrpowers.com/post/products/video-rtc-snapshot/</guid>
       <description>Take or get pictures dynamically during your remote video conversations. Overview Snapshot feature allows you to take easily a picture within the video. This functionality helps to enhance your real-time communications experience with the power of content. For instance, you can get Jpeg pictures from agents or users frames during a process, retrieving them later or share them to an external application interface.
@@ -52,7 +52,7 @@ Snapshot makes it possible to save a picture from the middle of a video, all wit
     <item>
       <title>How to introduce New Channels into a Contact Center</title>
       <link>http://blog.ivrpowers.com/post/contactcenter/how-to-introduce-new-channels-contact-center/</link>
-      <pubDate>Mon, 21 Aug 2017 09:00:00 +0200</pubDate>
+      <pubDate>Tue, 22 Aug 2017 09:00:00 +0200</pubDate>
       
       <guid>http://blog.ivrpowers.com/post/contactcenter/how-to-introduce-new-channels-contact-center/</guid>
       <description>Photo source: Interactive Powers Last years, we have implemented several New Channels projects based on Video RTC to existing Contact Centers. At times, it was the result of Innovation, but most often it was to enhance the Customer Experience and your services according to a new Market demand. After all, any Contact Center should interact with the customer anywhere they are! Phone, Email, and Chat are making way for emerging channels such as Social media, Video, Text, Mobile apps and IVR self services.</description>
@@ -61,7 +61,7 @@ Snapshot makes it possible to save a picture from the middle of a video, all wit
     <item>
       <title>Video RTC · Voice Calling</title>
       <link>http://blog.ivrpowers.com/post/products/video-rtc-voice-calling/</link>
-      <pubDate>Sun, 20 Aug 2017 14:00:00 +0200</pubDate>
+      <pubDate>Mon, 21 Aug 2017 14:00:00 +0200</pubDate>
       
       <guid>http://blog.ivrpowers.com/post/products/video-rtc-voice-calling/</guid>
       <description>Make advanced Voice Call or Web Phone applications for Real-Time Communications. Overview Voice Calling functionality ensures that no one misses out on the full application experience. It helps to provide an effective customer care, offering the option to hear voices in real-time. Voice Calling keeps interactions as easy, simply and fast as possible.
@@ -71,7 +71,7 @@ Voice Calling application makes it easy to create real-time communications (RTC)
     <item>
       <title>Improving the Contact Center with WebRTC</title>
       <link>http://blog.ivrpowers.com/post/contactcenter/webrtc-for-contact-center/</link>
-      <pubDate>Sat, 19 Aug 2017 13:30:40 +0200</pubDate>
+      <pubDate>Mon, 21 Aug 2017 13:30:40 +0200</pubDate>
       
       <guid>http://blog.ivrpowers.com/post/contactcenter/webrtc-for-contact-center/</guid>
       <description>Photo Source: Interactive Powers, Pexels. Creative Commons The way people access customer service is changing. If existing they want to survive in a highly competitive digital market, Contact Centers must adapt properly their services and make a continuious effort to provide greater customer experiences.
@@ -81,7 +81,7 @@ Poor Customer Services Practices Today, Contact Centers cannot always provide th
     <item>
       <title>Video RTC · Video Calling</title>
       <link>http://blog.ivrpowers.com/post/products/video-rtc-video-calling/</link>
-      <pubDate>Thu, 17 Aug 2017 13:00:00 +0200</pubDate>
+      <pubDate>Sun, 20 Aug 2017 13:00:00 +0200</pubDate>
       
       <guid>http://blog.ivrpowers.com/post/products/video-rtc-video-calling/</guid>
       <description>Create amazing Real-Time Communications with Dual-band Voice and Video capabilities Overview Video Calling functionality provides a simpler way for people to communicate via web. It integrates seamlessly into the workflows and it is easy to manage. Agents or customers can communicate instantly over video without downloading software or installing plugins. It also enables multi-party calls for team collaboration.
@@ -89,9 +89,18 @@ Video Calling application makes it easy to create real-time communications (RTC)
     </item>
     
     <item>
+      <title>Children 6-15: Proportion of time spent communicating (Phone Calls 2%)</title>
+      <link>http://blog.ivrpowers.com/post/trends/children-phone-calls-trends/</link>
+      <pubDate>Sat, 19 Aug 2017 11:30:18 +0200</pubDate>
+      
+      <guid>http://blog.ivrpowers.com/post/trends/children-phone-calls-trends/</guid>
+      <description>Photo Source: Pexels. Creative Commons Children 6-15 years old only spent 2% of their communicating time with phone calls. Last survey from Ofcoms,the UK&amp;rsquo;s communications regulator shows: Chidren 6-15 years old, in average of a week with any device and from any location in UK, only spent 2% of their communicating time with phone calls. That&amp;rsquo;s not really a suprise, if you know some children of this age in a country like UK or any other one&amp;hellip; but think about what will be the real-time communication market in the next 10 years under this generation.</description>
+    </item>
+    
+    <item>
       <title>Video RTC · Screen Sharing</title>
       <link>http://blog.ivrpowers.com/post/products/video-rtc-screen-sharing/</link>
-      <pubDate>Thu, 17 Aug 2017 12:00:00 +0200</pubDate>
+      <pubDate>Fri, 18 Aug 2017 12:00:00 +0200</pubDate>
       
       <guid>http://blog.ivrpowers.com/post/products/video-rtc-screen-sharing/</guid>
       <description>Secure screen share your desktop or any application in Real-Time Communications. Overview Screen Sharing application allows you to share live screen over the web or mobile instantly. Most business processes can take benefit of using Screen Sharing feature. For instance, it is a very powerful tool to improve online meetings, presentations, remote work or support services.
@@ -99,18 +108,9 @@ Screen Sharing functionality makes it easy to enhance your real-time communicati
     </item>
     
     <item>
-      <title>Children 6-15: Proportion of time spent communicating (Phone Calls 2%)</title>
-      <link>http://blog.ivrpowers.com/post/trends/children-phone-calls-trends/</link>
-      <pubDate>Thu, 17 Aug 2017 11:30:18 +0200</pubDate>
-      
-      <guid>http://blog.ivrpowers.com/post/trends/children-phone-calls-trends/</guid>
-      <description>Photo Source: Pexels. Creative Commons Children 6-15 years old only spent 2% of their communicating time with phone calls. Last survey from Ofcoms,the UK&amp;rsquo;s communications regulator shows: Chidren 6-15 years old, in average of a week with any device and from any location in UK, only spent 2% of their communicating time with phone calls. That&amp;rsquo;s not really a suprise, if you know some children of this age in a country like UK or any other one&amp;hellip; but think about what will be the real-time communication market in the next 10 years under this generation.</description>
-    </item>
-    
-    <item>
       <title>Video RTC · File Sharing</title>
       <link>http://blog.ivrpowers.com/post/products/video-rtc-file-sharing/</link>
-      <pubDate>Thu, 17 Aug 2017 10:00:00 +0200</pubDate>
+      <pubDate>Fri, 18 Aug 2017 10:00:00 +0200</pubDate>
       
       <guid>http://blog.ivrpowers.com/post/products/video-rtc-file-sharing/</guid>
       <description>Send and Receive Files or Documents in Real-Time Communications. Overview File Sharing application helps you to enhance your real-time communications experience with the power of content. It allows you to instantly transfer any file establishing a peer connection all within the context of your website or application. With the file sharing feature you can send and receive unlimited files just dragging them in the chat window.
