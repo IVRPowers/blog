@@ -1,6 +1,6 @@
 +++
 categories = ["trends"]
-date = "2017-08-23T11:30:18+02:00"
+date = "2017-08-25T11:30:18+02:00"
 description = "Market Trend"
 draft = false
 tags = ["trend","custexp", "videochat"]
