@@ -30,7 +30,7 @@ image = "/postimages/products/ivrpowers-videortc-features.024.jpeg"
 ## System Requirements
 
 **Over Printing** feature requires [Video RTC](http://blog.ivrpowers.com/post/products/video-rtc/) (WebRTC) Gateway On Premise or Cloud CPaaS;<br />
-Video Gateway (WebRTC) version 2.2.0 or upper required.
+Video Gateway (WebRTC) version 2.2.0 or upper is required.
 
 ## Web & Mobile
 
