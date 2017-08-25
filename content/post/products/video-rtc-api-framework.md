@@ -3,7 +3,7 @@ categories = ["products"]
 date = "2017-08-21T22:00:00+02:00"
 description = "Product Data sheet"
 draft = true
-tags = ["videortc","webrtc"]
+tags = ["videortc","webrtc","api"]
 title = "Video RTC · API Framework"
 image = "/postimages/products/ivrpowers-videortc-features.026.jpeg"
 
@@ -16,16 +16,18 @@ image = "/postimages/products/ivrpowers-videortc-features.026.jpeg"
 
 ## Overview
 
-**API Framework** ...
+**API Framework** feature helps to make your job easier, adapting services to your needs and personalizing them. Our platform provides developers with a wide range of possible solutions, through a flexible and powerful toolkit for building Web APIs. 
 
-**API Framework** ...
+**API Framework** feature enables developers to design new APIs or edit existing ones. You can also customize all the way down, just using basic regular features.
+
 
 ## Use Cases
 
-* Enable to take a picture during a video communication
-* Enable to get a frame from the video streaming channels
-* Power remote sales and assistance
-* Power interactive consultations
+* Agile development of Video Real-Time Communications applications
+* Advanced Audio/Video SPLIT end-point functions ready-to-use
+* Embedded lasted WebRTC technology to create amazing services
+* Easy to add in your own mobile application or website
+
 	
 ## System Requirements
 
