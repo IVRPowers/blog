@@ -3,7 +3,7 @@ categories = ["products"]
 date = "2017-08-21T22:00:00+02:00"
 description = "Product Data sheet"
 draft = true
-tags = ["videortc","webrtc","api"]
+tags = ["videortc","webrtc","api","sdk"]
 title = "Video RTC · API Framework"
 image = "/postimages/products/ivrpowers-videortc-features.026.jpeg"
 

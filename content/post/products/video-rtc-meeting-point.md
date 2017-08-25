@@ -16,14 +16,14 @@ image = "/postimages/products/ivrpowers-videortc-features.020.jpeg"
 
 ## Overview
 
-**Meeting Point** feature is additional [OAuth](https://oauth.net/) plugin to make easier user authentication for Internet services without retrieving passwords. It includes many tested methods for many social networks like Google, Linkedin or Twitter… but you can create your own OAuth interface too.
+**Meeting Point** feature is an additional [OAuth](https://oauth.net/) plugin to make easier user authentication for Internet services without retrieving passwords. It includes many tested methods for different social networks like Google, Linkedin or Twitter. However, you can create your own OAuth interface too.
 
 **Meeting Point** functionality allows to easily connect users to your real-time services without having to add third-party components. It’s specifically designed to work with our application framework and make easier large deployments.
 
 
 ## Use Cases
 
-* Enable simple authentication thru OAuth
+* Enable simple authentication through OAuth
 * Enable multi-user management
 * Power remote users
 * Power interactive consultations
