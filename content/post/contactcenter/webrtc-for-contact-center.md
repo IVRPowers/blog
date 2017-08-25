@@ -18,7 +18,7 @@ image = "/postimages/contactcenter/videortc-webrtc-contact-center.001.jpeg"
  
 Today, **Contact Centers cannot always provide the best customer service only over the phone channel**. Clients who call in for specific support are usually kept on hold for long periods of time – considering that call centers numbers are not always included in phone price plans – they have to repeat information or if they write an email or if they interact on a web content **they never receive an answer in real-time**. Consumers complain because of these practices and, in fact, [bad customer experiences have a very negative impact on businesses](https://www.helpscout.net/75-customer-service-facts-quotes-statistics/). A YouGov UK survey revealed that [76% of adults would switch providers after just one unpleasant contact center experience](http://pressreleases.responsesource.com/news/51358/as-latest-yougov-surveys-show-a-good-contact-centre-experience/#.VL6YPi7F_ng).
 
-##	Immediate Assistance trough a Web Browser
+##	Immediate Assistance through a Web Browser
  
 Companies know that **a good Customer Service can make the difference** against competitors. [WebRTC](http://blog.ivrpowers.com/post/technologies/what-is-webrtc/) technology can give the key to success, helping to improve customer services as it enables instant communication through web browser or mobile applications. Real-time capabilities are included, such as [Video Calling](http://blog.ivrpowers.com/post/products/video-rtc-video-calling/) and [Voice Calling](http://blog.ivrpowers.com/post/products/video-rtc-voice-calling/). Plugin download is not required thus it is faster, [secure] (http://blog.ivrpowers.com/post/technologies/webrtc-security/ ) and easier to use than other traditional channels.
  
