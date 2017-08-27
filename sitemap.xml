@@ -13,18 +13,28 @@
   </url>
   
   <url>
+    <loc>http://blog.ivrpowers.com/post/trends/theeconomist-trend/</loc>
+    <lastmod>2017-08-27T11:30:18+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://blog.ivrpowers.com/post/products/video-rtc-meeting-point/</loc>
+    <lastmod>2017-08-27T09:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://blog.ivrpowers.com/post/trends/dimensiondata-trend/</loc>
     <lastmod>2017-08-25T11:30:18+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://blog.ivrpowers.com/post/trends/deloitte-contact-center-customer-interaction-channels-2017/</loc>
-    <lastmod>2017-08-24T11:30:18+02:00</lastmod>
+    <loc>http://blog.ivrpowers.com/post/products/video-rtc-over-printing/</loc>
+    <lastmod>2017-08-24T19:00:00+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://blog.ivrpowers.com/post/products/video-rtc-over-printing/</loc>
-    <lastmod>2017-08-24T09:00:00+02:00</lastmod>
+    <loc>http://blog.ivrpowers.com/post/trends/deloitte-contact-center-customer-interaction-channels-2017/</loc>
+    <lastmod>2017-08-24T11:30:18+02:00</lastmod>
   </url>
   
   <url>
@@ -576,7 +586,7 @@
   
   <url>
     <loc>http://blog.ivrpowers.com/tags/overprinting/</loc>
-    <lastmod>2017-08-24T09:00:00+02:00</lastmod>
+    <lastmod>2017-08-24T19:00:00+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -588,13 +598,13 @@
   
   <url>
     <loc>http://blog.ivrpowers.com/post/</loc>
-    <lastmod>2017-08-25T11:30:18+02:00</lastmod>
+    <lastmod>2017-08-27T11:30:18+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://blog.ivrpowers.com/categories/products/</loc>
-    <lastmod>2017-08-24T09:00:00+02:00</lastmod>
+    <lastmod>2017-08-27T09:00:00+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -696,13 +706,13 @@
   
   <url>
     <loc>http://blog.ivrpowers.com/tags/trend/</loc>
-    <lastmod>2017-08-25T11:30:18+02:00</lastmod>
+    <lastmod>2017-08-27T11:30:18+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://blog.ivrpowers.com/categories/trends/</loc>
-    <lastmod>2017-08-25T11:30:18+02:00</lastmod>
+    <lastmod>2017-08-27T11:30:18+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -725,8 +735,14 @@
   </url>
   
   <url>
+    <loc>http://blog.ivrpowers.com/tags/videoid/</loc>
+    <lastmod>2017-08-27T11:30:18+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://blog.ivrpowers.com/tags/videortc/</loc>
-    <lastmod>2017-08-24T09:00:00+02:00</lastmod>
+    <lastmod>2017-08-27T09:00:00+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -750,7 +766,7 @@
   
   <url>
     <loc>http://blog.ivrpowers.com/tags/webrtc/</loc>
-    <lastmod>2017-08-24T09:00:00+02:00</lastmod>
+    <lastmod>2017-08-27T09:00:00+02:00</lastmod>
     <priority>0</priority>
   </url>
   

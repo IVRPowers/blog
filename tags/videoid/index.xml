@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Trend on Blog</title>
-    <link>http://blog.ivrpowers.com/tags/trend/</link>
-    <description>Recent content in Trend on Blog</description>
+    <title>Videoid on Blog</title>
+    <link>http://blog.ivrpowers.com/tags/videoid/</link>
+    <description>Recent content in Videoid on Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 27 Aug 2017 11:30:18 +0200</lastBuildDate>
     
-	<atom:link href="http://blog.ivrpowers.com/tags/trend/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://blog.ivrpowers.com/tags/videoid/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -18,15 +18,6 @@
       
       <guid>http://blog.ivrpowers.com/post/trends/theeconomist-trend/</guid>
       <description>Photo Source: Interactive Powers, Pexels. Creative Commons Visual Recognition Algorithms reach an accuracy of 96% with &amp;ldquo;Deep Learning&amp;rdquo; The rehabilitation of “AI”, and the current excitement about the field, can be traced back to 2012 and an online contest called the ImageNet Challenge. ImageNet is an online database of millions of images, all labelled by hand. For any given word, such as “balloon” or “strawberry”, ImageNet contains several hundred images.</description>
-    </item>
-    
-    <item>
-      <title>Dimension Data: Contact Centers expect to deploy Video Chat for Customer Engagement</title>
-      <link>http://blog.ivrpowers.com/post/trends/dimensiondata-trend/</link>
-      <pubDate>Fri, 25 Aug 2017 11:30:18 +0200</pubDate>
-      
-      <guid>http://blog.ivrpowers.com/post/trends/dimensiondata-trend/</guid>
-      <description>Photo Source: Interactive Powers, Creative Commons Nearly one-third of Contact Centers expect to deploy Video Chat to improve Customer Engagement According to a research from Dimension Data, nearly one-third of contact centers expect to deploy video chat for customer engagement. The research says that giving customers the additional option to remotely connect face-to-face, at moments that are important to them (and on their terms), can make their customer experience even more powerful.</description>
     </item>
     
   </channel>

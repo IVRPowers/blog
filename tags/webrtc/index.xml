@@ -6,15 +6,25 @@
     <description>Recent content in Webrtc on Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 24 Aug 2017 09:00:00 +0200</lastBuildDate>
+    <lastBuildDate>Sun, 27 Aug 2017 09:00:00 +0200</lastBuildDate>
     
 	<atom:link href="http://blog.ivrpowers.com/tags/webrtc/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>Video RTC · Meeting Point</title>
+      <link>http://blog.ivrpowers.com/post/products/video-rtc-meeting-point/</link>
+      <pubDate>Sun, 27 Aug 2017 09:00:00 +0200</pubDate>
+      
+      <guid>http://blog.ivrpowers.com/post/products/video-rtc-meeting-point/</guid>
+      <description>Make secure business online meetings with a standard OAuth authentication. Overview Meeting Point feature is an additional OAuth plugin to make easier user authentication for Internet services without retrieving passwords. It includes many tested methods for different social networks like Google, Linkedin or Twitter. However, you can create your own OAuth interface too.
+Meeting Point functionality allows to easily connect users to your real-time services without having to add third-party components.</description>
+    </item>
+    
+    <item>
       <title>Video RTC · Over Printing</title>
       <link>http://blog.ivrpowers.com/post/products/video-rtc-over-printing/</link>
-      <pubDate>Thu, 24 Aug 2017 09:00:00 +0200</pubDate>
+      <pubDate>Thu, 24 Aug 2017 19:00:00 +0200</pubDate>
       
       <guid>http://blog.ivrpowers.com/post/products/video-rtc-over-printing/</guid>
       <description>Create Multi-tenant Video Services over WebRTC for your Contact Center. Overview Over Printing feature allows to print a logo inside the remote frame. Instead of specific customisation you can use it to distribute video calls to several services with their own service logo. It’s very useful for a Call Center with many services operated with different profiles.
