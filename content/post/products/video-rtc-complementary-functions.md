@@ -31,13 +31,16 @@ Video Gateway makes it possible to take a picture within the video while your ca
 
 
 ## Pop-up Agent.
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis tincidunt dolor risus, ut elementum diam venenatis dictum. Mauris a auctor ligula, vitae scelerisque purus. Ut erat neque, aliquam tincidunt felis vel, molestie congue odio. [Learn more](http://blog.ivrpowers.com/post/products/video-rtc-file-sharing/).
+Video Gateway enables to add Pop-up Agent functionality to an existing Call Center, so you can guide your customers or team workers through a precess. This peer component operates over full WebRTC options or RTMP with limited functions. [Learn more](pendiente de publicación).
+
 
 ## API Framework.
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis tincidunt dolor risus, ut elementum diam venenatis dictum. Mauris a auctor ligula, vitae scelerisque purus. Ut erat neque, aliquam tincidunt felis vel, molestie congue odio. [Learn more](http://blog.ivrpowers.com/post/products/video-rtc-screen-sharing/).
+Video Gateway ensures a flexible development of Video RTC applications. You can personalize your services thanks to our toolkit. It is designed to offer developers a wide range of solutions and to make it easier to create or edit Web APIs. [Learn more](pendiente de publicación).
+
 
 ## Video ID.
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis tincidunt dolor risus, ut elementum diam venenatis dictum. Mauris a auctor ligula, vitae scelerisque purus. Ut erat neque, aliquam tincidunt felis vel, molestie congue odio. [Learn more](http://blog.ivrpowers.com/post/products/video-rtc-screen-sharing/).
+Video Gateway allows to include options for Identity Verification. This feature helps you to comply with verifation processes required in certain business, such as banks or telemedicine. You can optionally add Facial Recogntion. [Learn more](pendiente de publicación).
+
 
 ---
 [Interactive Powers](http://www.ivrpowers.com/) - Streamline your business communications
