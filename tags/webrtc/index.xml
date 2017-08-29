@@ -6,7 +6,7 @@
     <description>Recent content in Webrtc on Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 29 Aug 2017 22:00:00 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 29 Aug 2017 10:00:00 +0200</lastBuildDate>
     
 	<atom:link href="http://blog.ivrpowers.com/tags/webrtc/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,7 +14,7 @@
     <item>
       <title>Video RTC · SIP Connect</title>
       <link>http://blog.ivrpowers.com/post/products/video-rtc-sip-connect/</link>
-      <pubDate>Tue, 29 Aug 2017 22:00:00 +0200</pubDate>
+      <pubDate>Tue, 29 Aug 2017 10:00:00 +0200</pubDate>
       
       <guid>http://blog.ivrpowers.com/post/products/video-rtc-sip-connect/</guid>
       <description>Connect WebRTC or RTMP to traditional SIP telephony systems or devices. Overview SIP Connect feature is designed to make traditional calls across web or mobile phones. It enables interoperability between WebRTC endpoints and existing telephony systems, like your current PBX or phone lines. For instance, a Call Center can send and receive SIP-based calls, using SPLIT function as well.

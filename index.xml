@@ -31,22 +31,22 @@ Interactive Powers delivers communication platforms that enables advanced real-t
     </item>
     
     <item>
-      <title>Video RTC · SIP Connect</title>
-      <link>http://blog.ivrpowers.com/post/products/video-rtc-sip-connect/</link>
-      <pubDate>Tue, 29 Aug 2017 22:00:00 +0200</pubDate>
-      
-      <guid>http://blog.ivrpowers.com/post/products/video-rtc-sip-connect/</guid>
-      <description>Connect WebRTC or RTMP to traditional SIP telephony systems or devices. Overview SIP Connect feature is designed to make traditional calls across web or mobile phones. It enables interoperability between WebRTC endpoints and existing telephony systems, like your current PBX or phone lines. For instance, a Call Center can send and receive SIP-based calls, using SPLIT function as well.
-SIP Connect functionality allows you to send Dual-tone multi-frequency signalling (DTMF) or in-band telecommunication signalling system using the voice-frequency band over SIP.</description>
-    </item>
-    
-    <item>
       <title>Forrester: Voice Channel as Self-service</title>
       <link>http://blog.ivrpowers.com/post/trends/forrester-trend/</link>
       <pubDate>Tue, 29 Aug 2017 11:30:18 +0200</pubDate>
       
       <guid>http://blog.ivrpowers.com/post/trends/forrester-trend/</guid>
       <description>Photo Source: Interactive Powers, Pexels. Creative Commons 63 percent of US adult callers report to use the voice channel for self-service (IVR) According to a 2016 Forrester Research study, 83 percent of U.S. adult Internet users had a phone conversation with a customer service representative in the past year. Sixty-three percent of them also reported using the voice channel for self-service, such as Interactive Voice Response (IVR) systems whose Conversational AI capabilities enable callers to converse with a virtual agent as if there were a human rep on the other end.</description>
+    </item>
+    
+    <item>
+      <title>Video RTC · SIP Connect</title>
+      <link>http://blog.ivrpowers.com/post/products/video-rtc-sip-connect/</link>
+      <pubDate>Tue, 29 Aug 2017 10:00:00 +0200</pubDate>
+      
+      <guid>http://blog.ivrpowers.com/post/products/video-rtc-sip-connect/</guid>
+      <description>Connect WebRTC or RTMP to traditional SIP telephony systems or devices. Overview SIP Connect feature is designed to make traditional calls across web or mobile phones. It enables interoperability between WebRTC endpoints and existing telephony systems, like your current PBX or phone lines. For instance, a Call Center can send and receive SIP-based calls, using SPLIT function as well.
+SIP Connect functionality allows you to send Dual-tone multi-frequency signalling (DTMF) or in-band telecommunication signalling system using the voice-frequency band over SIP.</description>
     </item>
     
     <item>
