@@ -29,7 +29,7 @@ image = "/postimages/products/ivrpowers-videortc-features.012.jpeg"
 	
 ## System Requirements
 
-**Video Calling** feature requires [Video RTC](http://blog.ivrpowers.com/post/products/video-rtc/) (WebRTC or RTMP) Gateway On Premise or Cloud CPaaS.
+**Voice Calling** feature requires [Video RTC](http://blog.ivrpowers.com/post/products/video-rtc/) (WebRTC or RTMP) Gateway On Premise or Cloud CPaaS.
 
 ## Web & Mobile
 
