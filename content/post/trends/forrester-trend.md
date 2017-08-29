@@ -1,8 +1,8 @@
 +++
 categories = ["trends"]
-date = "2017-08-24T11:30:18+02:00"
+date = "2017-08-29T11:30:18+02:00"
 description = "Market Trend"
-draft = true
+draft = false
 tags = ["trend","ivr"]
 title = "Forrester: Voice Channel as Self-service"
 image = "/postimages/trends/ivrpowers-cctr-trends-2017.007.jpeg"
