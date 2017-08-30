@@ -1,8 +1,8 @@
 +++
 categories = ["products"]
-date = "2017-08-24T22:00:00+02:00"
+date = "2017-08-30T22:00:00+02:00"
 description = "Product Data sheet"
-draft = true
+draft = false
 tags = ["videortc","webrtc"]
 title = "Video RTC · Video Recording"
 image = "/postimages/products/ivrpowers-videortc-features.016.jpeg"
