@@ -6,10 +6,20 @@
     <description>Recent content in Posts on Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 29 Aug 2017 11:30:18 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 30 Aug 2017 22:00:00 +0200</lastBuildDate>
     
 	<atom:link href="http://blog.ivrpowers.com/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Video RTC · Video Recording</title>
+      <link>http://blog.ivrpowers.com/post/products/video-rtc-video-recording/</link>
+      <pubDate>Wed, 30 Aug 2017 22:00:00 +0200</pubDate>
+      
+      <guid>http://blog.ivrpowers.com/post/products/video-rtc-video-recording/</guid>
+      <description>Easily record secure Live Video Calls for later playback. Overview Video Recording capability enables to record your video calls in real-time. Files are securely stored and you can immediately access to content following your demands. Call records are directly pushed to your own secure file system storage or any web service, such as Amazon S3, Windows Azure, Google accounts… Enjoy playback with high-quality WebM recordings.
+Video Recording functionality includes converter tools to automatically live-convert video streams to MP4 for easy access with no post-processing required on your end.</description>
+    </item>
     
     <item>
       <title>Forrester: Voice Channel as Self-service</title>
