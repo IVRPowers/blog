@@ -6,10 +6,20 @@
     <description>Recent content in Webrtc on Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 30 Aug 2017 22:00:00 +0200</lastBuildDate>
+    <lastBuildDate>Thu, 31 Aug 2017 11:00:16 +0200</lastBuildDate>
     
 	<atom:link href="http://blog.ivrpowers.com/tags/webrtc/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Video RTC · Industries</title>
+      <link>http://blog.ivrpowers.com/post/products/rtc-industries/</link>
+      <pubDate>Thu, 31 Aug 2017 11:00:16 +0200</pubDate>
+      
+      <guid>http://blog.ivrpowers.com/post/products/rtc-industries/</guid>
+      <description>Photo Source: Interactive Powers, Pexels. Creative Commons Whatever your business, product, or service is you can require real-time communications technologies. Discover how organizations like yours are integrating live-video, voice, and messaging technology to transform their industries, and how Video RTC can help you facilitate more engaging interactions with your customers or employees.
+Call Centers Contact Centers continue to evolve rapidly as consumers expect a highly personalized and engaging experience.</description>
+    </item>
     
     <item>
       <title>Video RTC · Video Recording</title>

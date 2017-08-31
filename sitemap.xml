@@ -13,8 +13,13 @@
   </url>
   
   <url>
+    <loc>http://blog.ivrpowers.com/post/products/rtc-industries/</loc>
+    <lastmod>2017-08-31T11:00:16+02:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://blog.ivrpowers.com/post/trends/gartner-trend/</loc>
-    <lastmod>2017-08-31T11:30:18+02:00</lastmod>
+    <lastmod>2017-08-31T10:30:18+02:00</lastmod>
   </url>
   
   <url>
@@ -444,18 +449,18 @@
   
   <url>
     <loc>http://blog.ivrpowers.com/tags/custexp/</loc>
-    <lastmod>2017-08-31T11:30:18+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://blog.ivrpowers.com/tags/customerengagement/</loc>
-    <lastmod>2017-07-28T13:13:47+02:00</lastmod>
+    <lastmod>2017-08-31T10:30:18+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://blog.ivrpowers.com/categories/customerengagement/</loc>
+    <lastmod>2017-07-28T13:13:47+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://blog.ivrpowers.com/tags/customerengagement/</loc>
     <lastmod>2017-07-28T13:13:47+02:00</lastmod>
     <priority>0</priority>
   </url>
@@ -509,13 +514,13 @@
   </url>
   
   <url>
-    <loc>http://blog.ivrpowers.com/tags/healthcare/</loc>
+    <loc>http://blog.ivrpowers.com/categories/healthcare/</loc>
     <lastmod>2017-07-26T10:26:53+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://blog.ivrpowers.com/categories/healthcare/</loc>
+    <loc>http://blog.ivrpowers.com/tags/healthcare/</loc>
     <lastmod>2017-07-26T10:26:53+02:00</lastmod>
     <priority>0</priority>
   </url>
@@ -575,14 +580,14 @@
   </url>
   
   <url>
-    <loc>http://blog.ivrpowers.com/tags/marketing/</loc>
-    <lastmod>2017-06-12T20:40:07+02:00</lastmod>
+    <loc>http://blog.ivrpowers.com/categories/marketing/</loc>
+    <lastmod>2017-06-29T00:20:05+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://blog.ivrpowers.com/categories/marketing/</loc>
-    <lastmod>2017-06-29T00:20:05+02:00</lastmod>
+    <loc>http://blog.ivrpowers.com/tags/marketing/</loc>
+    <lastmod>2017-06-12T20:40:07+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -618,19 +623,19 @@
   
   <url>
     <loc>http://blog.ivrpowers.com/post/</loc>
-    <lastmod>2017-08-31T11:30:18+02:00</lastmod>
+    <lastmod>2017-08-31T11:00:16+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://blog.ivrpowers.com/categories/products/</loc>
-    <lastmod>2017-08-30T22:00:00+02:00</lastmod>
+    <lastmod>2017-08-31T11:00:16+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://blog.ivrpowers.com/tags/rtc/</loc>
-    <lastmod>2017-08-18T12:00:00+02:00</lastmod>
+    <lastmod>2017-08-31T11:00:16+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -689,13 +694,13 @@
   </url>
   
   <url>
-    <loc>http://blog.ivrpowers.com/tags/support/</loc>
+    <loc>http://blog.ivrpowers.com/categories/support/</loc>
     <lastmod>2017-08-16T12:14:46+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://blog.ivrpowers.com/categories/support/</loc>
+    <loc>http://blog.ivrpowers.com/tags/support/</loc>
     <lastmod>2017-08-16T12:14:46+02:00</lastmod>
     <priority>0</priority>
   </url>
@@ -726,13 +731,13 @@
   
   <url>
     <loc>http://blog.ivrpowers.com/tags/trend/</loc>
-    <lastmod>2017-08-31T11:30:18+02:00</lastmod>
+    <lastmod>2017-08-31T10:30:18+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://blog.ivrpowers.com/categories/trends/</loc>
-    <lastmod>2017-08-31T11:30:18+02:00</lastmod>
+    <lastmod>2017-08-31T10:30:18+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -744,7 +749,7 @@
   
   <url>
     <loc>http://blog.ivrpowers.com/tags/videochat/</loc>
-    <lastmod>2017-08-31T11:30:18+02:00</lastmod>
+    <lastmod>2017-08-31T10:30:18+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -786,7 +791,7 @@
   
   <url>
     <loc>http://blog.ivrpowers.com/tags/webrtc/</loc>
-    <lastmod>2017-08-30T22:00:00+02:00</lastmod>
+    <lastmod>2017-08-31T11:00:16+02:00</lastmod>
     <priority>0</priority>
   </url>
   
