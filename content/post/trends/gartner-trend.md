@@ -1,8 +1,8 @@
 +++
 categories = ["trends"]
-date = "2017-08-23T11:30:18+02:00"
+date = "2017-08-31T11:30:18+02:00"
 description = "Market Trend"
-draft = true
+draft = false
 tags = ["trend","custexp", "videochat"]
 title = "Gartner: 20 percent of Global Businesses will deploy Video Chat for Customer Engagement"
 image = "/postimages/trends/ivrpowers-cctr-trends-2017.005.jpeg"
