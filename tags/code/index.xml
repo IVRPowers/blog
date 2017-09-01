@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Code on Blog</title>
+    <link>http://blog.ivrpowers.com/tags/code/</link>
+    <description>Recent content in Code on Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 01 Sep 2017 11:59:22 +0200</lastBuildDate>
+    
+	<atom:link href="http://blog.ivrpowers.com/tags/code/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>How to Build your Own Videocall Service</title>
+      <link>http://blog.ivrpowers.com/post/coding/build-videocall/</link>
+      <pubDate>Fri, 01 Sep 2017 11:59:22 +0200</pubDate>
+      
+      <guid>http://blog.ivrpowers.com/post/coding/build-videocall/</guid>
+      <description>Photo Source: Interactive Powers, Pexels. Creative Commons In this post we will show you how to build your videocall service based on HTML5 technology by using VideoRTC.js.
+Step 1: Setting up the basic structure  Firstly, you will need to include dependency within your project or web page:  &amp;lt;script type=&amp;quot;text/javascript&amp;quot; src=&amp;quot;videortc.js&amp;quot;&amp;gt;&amp;lt;/script&amp;gt;  You can insert a minimized version if you prefer so:
+&amp;lt;script type=&amp;quot;text/javascript&amp;quot; src=&amp;quot;videortc.min.js&amp;quot;&amp;gt;&amp;lt;/script&amp;gt;   Next, we connect with the video server that we want:  var server = [&amp;quot;https://example.</description>
+    </item>
+    
+  </channel>
+</rss>
