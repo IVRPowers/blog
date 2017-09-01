@@ -20,19 +20,19 @@ In this post we will show you how to build your videocall service based on HTML5
 
 * Firstly, you will need to include dependency within your project or web page:
 
-~~~bash
+~~~html
 <script type="text/javascript" src="videortc.js"></script>
 ~~~
 
 You can insert a minimized version if you prefer so:
 
-~~~bash
+~~~html
 <script type="text/javascript" src="videortc.min.js"></script>
 ~~~
 
 * Next, we connect with the video server that we want:
 
-~~~bash
+~~~javascript
 var server = ["https://example.com:HTTPS_PORT/webrtc-gateway"];
 var iceServers = [];
 var debugLevel = “error”;
@@ -42,7 +42,7 @@ var myVideoApp = new VideoRTC(server, iceServers, debugLevel);
 
 * After connecting with the server, you must copy and paste the following JavaScript code in your command. It is the basic structure to start designing your videocall service:
 
-~~~bash
+~~~javascript
 var connection = myVideoApp.connect().then(function(usecases) {	
 var onEvents = {
     onAccepted: function(userName) {
@@ -104,7 +104,7 @@ We already have the basic structure to personalize the application. In the follo
 
 * action.register(); → We should add our name in the method or the user identification that it is registered in the videocall. For instance:
 
-~~~bash
+~~~javascript
 action.register(‘Tom’); 
 ~~~
 
@@ -112,7 +112,7 @@ Once the call has been registered, user ‘Tom’ can call another user. You hav
 
 * action.call(); → We must also include in the following method the name of the receiver. For instance:
 
-~~~bash
+~~~javascript
 action.call(‘Jack’).
 ~~~
 
