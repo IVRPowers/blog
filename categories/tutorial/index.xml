@@ -2,52 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tutorial on Blog</title>
-    <link>http://blog.test.ivrpowers.com/categories/tutorial/</link>
+    <link>http://blog.ivrpowers.com/categories/tutorial/</link>
     <description>Recent content in Tutorial on Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 22 May 2017 13:30:27 +0200</lastBuildDate>
     
-	<atom:link href="http://blog.test.ivrpowers.com/categories/tutorial/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://blog.ivrpowers.com/categories/tutorial/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Aprendiendo a usar GoHugo</title>
-      <link>http://blog.test.ivrpowers.com/post/tutorials/using-hugo/</link>
+      <link>http://blog.ivrpowers.com/post/tutorials/using-hugo/</link>
       <pubDate>Mon, 22 May 2017 13:30:27 +0200</pubDate>
       
-      <guid>http://blog.test.ivrpowers.com/post/tutorials/using-hugo/</guid>
+      <guid>http://blog.ivrpowers.com/post/tutorials/using-hugo/</guid>
       <description>En este post vamos a aprender cómo crear un post en el blog y cómo publicarlo. Antes de empezar a escribir un nuevo post lo que haremos será levantar un pequeño servidor en nuestro ordenador que irá refrescando los cambios que vayamos haciendo a los ficheros según los vayamos guardando. Para ello abriremos una consola y ejecutaremos lo siguiente:
 $ cd PATH_TO_BLOG_DIR # Ruta al directorio donde tengamos el blog $ hugo server --buildDrafts  Una vez ejecutado el comando, abriremos en una navegador la url siguiente: http://localhost:1313.</description>
-    </item>
-    
-    <item>
-      <title>Usando Git</title>
-      <link>http://blog.test.ivrpowers.com/post/tutorials/using-git/</link>
-      <pubDate>Fri, 19 May 2017 10:51:22 +0200</pubDate>
-      
-      <guid>http://blog.test.ivrpowers.com/post/tutorials/using-git/</guid>
-      <description>Git es un software de control de versiones diseñado por Linus Torvalds, pensando en la eficiencia y la confiabilidad del mantenimiento de versiones de aplicaciones cuando éstas tienen un gran número de archivos de código fuente. Al principio, Git se pensó como un motor de bajo nivel sobre el cual otros pudieran escribir la interfaz de usuario o front end como Cogito o StGIT. 3 Sin embargo, Git se ha convertido desde entonces en un sistema de control de versiones con funcionalidad plena.</description>
-    </item>
-    
-    <item>
-      <title>Instalación del Entorno</title>
-      <link>http://blog.test.ivrpowers.com/post/tutorials/setup/</link>
-      <pubDate>Thu, 18 May 2017 11:59:32 +0200</pubDate>
-      
-      <guid>http://blog.test.ivrpowers.com/post/tutorials/setup/</guid>
-      <description>Prerrequisitos Antes de empezar a crear contenido en el blog es necesario cumplir los siguientes pasos.
-Tener Git instalado  Windows: https://git-for-windows.github.io/ Linux: desde el gestor de paquetes (apt-get install git | yum install git-core) Mac: desde Homebrew (brew install git)  Tener una cuenta de GitHub  Registrarse en GitHub Formar parte de la organización IVRPowers (hablar con un administrador): IVRPowers en GitHub (Opcional) Configurar Git en nuestro ordenador para usar SSH en vez de clave de texto Configurar nuestro ordenador para utilizar nuestra cuenta de GitHub (desde la consola/terminal)  $ git config --global user.</description>
-    </item>
-    
-    <item>
-      <title>Markdown</title>
-      <link>http://blog.test.ivrpowers.com/post/tutorials/markdown/</link>
-      <pubDate>Thu, 18 May 2017 11:09:51 +0200</pubDate>
-      
-      <guid>http://blog.test.ivrpowers.com/post/tutorials/markdown/</guid>
-      <description> Markdown es un lenguaje de marcado ligero creado por John Gruber que trata de conseguir la máxima legibilidad y facilidad de publicación tanto en su forma de entrada como de salida, inspirándose en muchas convenciones existentes para marcar mensajes de correo electrónico usando texto plano.
-Tutoriales  Referencia Rápida ¿Qué es Markdown? - La Guía definitiva Markdown en GoHugo  Ejemplos  Ejemplo de Post en GoHugo  Herramientas  Editor Online con Preview  </description>
     </item>
     
   </channel>

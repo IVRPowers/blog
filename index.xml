@@ -789,5 +789,15 @@ RTC is any mode of telecommunications in which all users can exchange informatio
       <description>The Voice eXtensible Markup Language (VoiceXML) is an XML-based markup language for creating distributed voice applications, much as HTML is a markup language for creating distributed visual applications. It is an industry standard defined by the World Wide Web Consortium (W3C) at http://www.w3.org/TR/voicexml21/ (for VoiceXML V2.1) and http://www.w3.org/TR/voicexml20/ (for VoiceXML V2.0). The VoiceXML language enables IVR developers to use a familiar markup style and Web server-side logic to deliver applications for use over telephone lines.</description>
     </item>
     
+    <item>
+      <title>Aprendiendo a usar GoHugo</title>
+      <link>http://blog.ivrpowers.com/post/tutorials/using-hugo/</link>
+      <pubDate>Mon, 22 May 2017 13:30:27 +0200</pubDate>
+      
+      <guid>http://blog.ivrpowers.com/post/tutorials/using-hugo/</guid>
+      <description>En este post vamos a aprender cómo crear un post en el blog y cómo publicarlo. Antes de empezar a escribir un nuevo post lo que haremos será levantar un pequeño servidor en nuestro ordenador que irá refrescando los cambios que vayamos haciendo a los ficheros según los vayamos guardando. Para ello abriremos una consola y ejecutaremos lo siguiente:
+$ cd PATH_TO_BLOG_DIR # Ruta al directorio donde tengamos el blog $ hugo server --buildDrafts  Una vez ejecutado el comando, abriremos en una navegador la url siguiente: http://localhost:1313.</description>
+    </item>
+    
   </channel>
 </rss>

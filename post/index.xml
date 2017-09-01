@@ -771,6 +771,16 @@ RTC is any mode of telecommunications in which all users can exchange informatio
     </item>
     
     <item>
+      <title>Aprendiendo a usar GoHugo</title>
+      <link>http://blog.ivrpowers.com/post/tutorials/using-hugo/</link>
+      <pubDate>Mon, 22 May 2017 13:30:27 +0200</pubDate>
+      
+      <guid>http://blog.ivrpowers.com/post/tutorials/using-hugo/</guid>
+      <description>En este post vamos a aprender cómo crear un post en el blog y cómo publicarlo. Antes de empezar a escribir un nuevo post lo que haremos será levantar un pequeño servidor en nuestro ordenador que irá refrescando los cambios que vayamos haciendo a los ficheros según los vayamos guardando. Para ello abriremos una consola y ejecutaremos lo siguiente:
+$ cd PATH_TO_BLOG_DIR # Ruta al directorio donde tengamos el blog $ hugo server --buildDrafts  Una vez ejecutado el comando, abriremos en una navegador la url siguiente: http://localhost:1313.</description>
+    </item>
+    
+    <item>
       <title>Welcome to our New Blog!</title>
       <link>http://blog.ivrpowers.com/post/general/welcome-blog/</link>
       <pubDate>Mon, 12 Jun 2017 09:42:42 +0200</pubDate>

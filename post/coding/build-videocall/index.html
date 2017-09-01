@@ -195,19 +195,19 @@ html{font-family:sans-serif;line-height:1.15;-ms-text-size-adjust:100%;-webkit-t
 <li>Firstly, you will need to include dependency within your project or web page:</li>
 </ul>
 
-<pre><code class="language-bash">&lt;script type=&quot;text/javascript&quot; src=&quot;videortc.js&quot;&gt;&lt;/script&gt;
+<pre><code class="language-html">&lt;script type=&quot;text/javascript&quot; src=&quot;videortc.js&quot;&gt;&lt;/script&gt;
 </code></pre>
 
 <p>You can insert a minimized version if you prefer so:</p>
 
-<pre><code class="language-bash">&lt;script type=&quot;text/javascript&quot; src=&quot;videortc.min.js&quot;&gt;&lt;/script&gt;
+<pre><code class="language-html">&lt;script type=&quot;text/javascript&quot; src=&quot;videortc.min.js&quot;&gt;&lt;/script&gt;
 </code></pre>
 
 <ul>
 <li>Next, we connect with the video server that we want:</li>
 </ul>
 
-<pre><code class="language-bash">var server = [&quot;https://example.com:HTTPS_PORT/webrtc-gateway&quot;];
+<pre><code class="language-javascript">var server = [&quot;https://example.com:HTTPS_PORT/webrtc-gateway&quot;];
 var iceServers = [];
 var debugLevel = “error”;
 
@@ -218,7 +218,7 @@ var myVideoApp = new VideoRTC(server, iceServers, debugLevel);
 <li>After connecting with the server, you must copy and paste the following JavaScript code in your command. It is the basic structure to start designing your videocall service:</li>
 </ul>
 
-<pre><code class="language-bash">var connection = myVideoApp.connect().then(function(usecases) {	
+<pre><code class="language-javascript">var connection = myVideoApp.connect().then(function(usecases) {	
 var onEvents = {
     onAccepted: function(userName) {
       //Se ejecuta cuando la llamada es aceptada por un usuario; 
@@ -281,7 +281,7 @@ usecases.videoCall(onEvents, domElements, options)
 <li>action.register(); → We should add our name in the method or the user identification that it is registered in the videocall. For instance:</li>
 </ul>
 
-<pre><code class="language-bash">action.register(‘Tom’); 
+<pre><code class="language-javascript">action.register(‘Tom’); 
 </code></pre>
 
 <p>Once the call has been registered, user ‘Tom’ can call another user. You have to insert it in a code block, so that you can see it within onRegistered.</p>
@@ -290,7 +290,7 @@ usecases.videoCall(onEvents, domElements, options)
 <li>action.call(); → We must also include in the following method the name of the receiver. For instance:</li>
 </ul>
 
-<pre><code class="language-bash">action.call(‘Jack’).
+<pre><code class="language-javascript">action.call(‘Jack’).
 </code></pre>
 
 <h3 id="step-three-how-to-accept-the-videocall">Step three: How to accept the videocall</h3>

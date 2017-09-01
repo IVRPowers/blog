@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Gohugo on Blog</title>
-    <link>http://blog.test.ivrpowers.com/tags/gohugo/</link>
+    <link>http://blog.ivrpowers.com/tags/gohugo/</link>
     <description>Recent content in Gohugo on Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 22 May 2017 13:30:27 +0200</lastBuildDate>
     
-	<atom:link href="http://blog.test.ivrpowers.com/tags/gohugo/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://blog.ivrpowers.com/tags/gohugo/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Aprendiendo a usar GoHugo</title>
-      <link>http://blog.test.ivrpowers.com/post/tutorials/using-hugo/</link>
+      <link>http://blog.ivrpowers.com/post/tutorials/using-hugo/</link>
       <pubDate>Mon, 22 May 2017 13:30:27 +0200</pubDate>
       
-      <guid>http://blog.test.ivrpowers.com/post/tutorials/using-hugo/</guid>
+      <guid>http://blog.ivrpowers.com/post/tutorials/using-hugo/</guid>
       <description>En este post vamos a aprender cómo crear un post en el blog y cómo publicarlo. Antes de empezar a escribir un nuevo post lo que haremos será levantar un pequeño servidor en nuestro ordenador que irá refrescando los cambios que vayamos haciendo a los ficheros según los vayamos guardando. Para ello abriremos una consola y ejecutaremos lo siguiente:
 $ cd PATH_TO_BLOG_DIR # Ruta al directorio donde tengamos el blog $ hugo server --buildDrafts  Una vez ejecutado el comando, abriremos en una navegador la url siguiente: http://localhost:1313.</description>
     </item>
