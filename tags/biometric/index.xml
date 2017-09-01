@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Videoid on Blog</title>
-    <link>http://blog.ivrpowers.com/tags/videoid/</link>
-    <description>Recent content in Videoid on Blog</description>
+    <title>Biometric on Blog</title>
+    <link>http://blog.ivrpowers.com/tags/biometric/</link>
+    <description>Recent content in Biometric on Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 01 Sep 2017 09:52:47 +0200</lastBuildDate>
     
-	<atom:link href="http://blog.ivrpowers.com/tags/videoid/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://blog.ivrpowers.com/tags/biometric/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -19,15 +19,6 @@
       <guid>http://blog.ivrpowers.com/post/products/video-id/</guid>
       <description>Protect your Real-Time Communications with Secure Identification API integrations. Overview Video ID feature helps you to improve security in your real-time communication services. Our solutions include partner options for ID Verification through an external provider certified API. This capability enables to comply with identity verification processes required, for instance, by banks, insurances, e-commerces or telemedicine.
 Video ID functionality captures and validates users’ information, whilst conducting a real-time check. Video ID capability is a set of API, which can optionally include Facial Recognition.</description>
-    </item>
-    
-    <item>
-      <title>The Economist: Visual Recognition with &#39;Deep Learning&#39; is suparsing Humans for First Time</title>
-      <link>http://blog.ivrpowers.com/post/trends/theeconomist-trend/</link>
-      <pubDate>Sun, 27 Aug 2017 11:30:18 +0200</pubDate>
-      
-      <guid>http://blog.ivrpowers.com/post/trends/theeconomist-trend/</guid>
-      <description>Photo Source: Interactive Powers, Pexels. Creative Commons Visual Recognition Algorithms reach an accuracy of 96% with &amp;ldquo;Deep Learning&amp;rdquo; The rehabilitation of “AI”, and the current excitement about the field, can be traced back to 2012 and an online contest called the ImageNet Challenge. ImageNet is an online database of millions of images, all labelled by hand. For any given word, such as “balloon” or “strawberry”, ImageNet contains several hundred images.</description>
     </item>
     
   </channel>
