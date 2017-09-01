@@ -1,6 +1,6 @@
 +++
 categories = ["Tutorial"]
-date = "2017-05-18T11:59:32+02:00"
+date = "2017-09-01T11:59:32+02:00"
 description = "Cómo instalar y configurar el ordenador para escribir el blog"
 tags = ["tutorial","installation"]
 draft = true
