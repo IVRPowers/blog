@@ -3,8 +3,8 @@ categories = ["coding"]
 date = "2017-09-01T11:59:22+02:00"
 description = "Coding"
 draft = false
-tags = ["videocall","code"]
-title = "How to Build your Own Videocall Service"
+tags = ["videocall","code","webrtc","videortc","rtc"]
+title = "How to Build a Videocall Service (WebRTC)"
 image = "/postimages/coding/ivrpowers-videortc-features.033.jpeg"
 
 +++
@@ -14,11 +14,11 @@ image = "/postimages/coding/ivrpowers-videortc-features.033.jpeg"
 ###### Photo Source: Interactive Powers, Pexels. Creative Commons
 
 
-In this post we will show you how to build your videocall service based on HTML5 technology by using [VideoRTC.js](http://blog.ivrpowers.com/post/products/video-rtc-special-extensions/).
+In this post we will show you how to build your videocall service based on HTML5 technology by using our API Framework with [VideoRTC.js](http://blog.ivrpowers.com/post/development/introducing-videortcjs-developers/).
 
-### Step 1: Setting up the basic structure
+## Step 1: Setting up the basic structure
 
-* Firstly, you will need to include dependency within your project or web page:
+Firstly, you will need to include dependency within your project or web page:
 
 ~~~html
 <script type="text/javascript" src="videortc.js"></script>
@@ -30,7 +30,7 @@ You can insert a minimized version if you prefer so:
 <script type="text/javascript" src="videortc.min.js"></script>
 ~~~
 
-* Next, we connect with the video server that we want:
+Next, we connect with the video gateway server:
 
 ~~~javascript
 var server = ["https://example.com:HTTPS_PORT/webrtc-gateway"];
@@ -40,7 +40,7 @@ var debugLevel = “error”;
 var myVideoApp = new VideoRTC(server, iceServers, debugLevel);
 ~~~
 
-* After connecting with the server, you must copy and paste the following JavaScript code in your command. It is the basic structure to start designing your videocall service:
+After connecting with the server, you must copy and paste the following JavaScript code in your command. It is the basic structure to start designing your videocall service:
 
 ~~~javascript
 var connection = myVideoApp.connect().then(function(usecases) {	
@@ -98,11 +98,13 @@ usecases.videoCall(onEvents, domElements, options)
 }) .catch( function(cause) { console.log("Error connecting with the VideoGateway");  })
 ~~~
 
-### Step two: Registering users
+## Step 2: Registering users
 
 We already have the basic structure to personalize the application. In the following steps, we will add the logic that allows register and call between two users.
 
-* action.register(); → We should add our name in the method or the user identification that it is registered in the videocall. For instance:
+* **action.register();** → We should add our name in the method or the user identification that it is registered in the videocall.
+
+For instance:
 
 ~~~javascript
 action.register(‘Tom’); 
@@ -110,16 +112,34 @@ action.register(‘Tom’);
 
 Once the call has been registered, user ‘Tom’ can call another user. You have to insert it in a code block, so that you can see it within onRegistered.
 
-* action.call(); → We must also include in the following method the name of the receiver. For instance:
+* **action.call();** → We must also include in the following method the name of the receiver.
+
+For instance:
 
 ~~~javascript
 action.call(‘Jack’).
 ~~~
 
-### Step three: How to accept the videocall
+## Step 3: How to accept the videocall
 
-* Finally, we must follow the procedure that allows to accept the call. Here, there are two different options. We can either directly include ‘action.call()’ in the object onIncomingCall, so the call is automatically accepted, or you can design your own logic. In this way onIncomingCall should click a button whenever a videocall is received.
+Finally, we must follow the procedure that allows to accept the call. Here, there are two different options. We can either directly include ‘action.call()’ in the object onIncomingCall, so the call is automatically accepted, or you can design your own logic. In this way onIncomingCall should click a button whenever a videocall is received.
 
-* After the explained process, and by adding some CSS style, you can shape the design of the application.
+After the explained process, and by adding some CSS style, you can shape the design of the application.
 
+## Step 4: Running the service and peers...
+
+Open your WebRTC compliant web browser (Chrome, Firefox, Opera...) and start video calling between two peers...  Remember, this demo works properly with the WebRTC communication through our API Framework / VideoRTC.js resources. Please, contact our sales for any project or more information.
+
+###	Peer 1: Tom
+
+![videortc-chrome-tom](/postimages/coding/chrome-tom.jpg)
+
+###	Peer 2: Jack
+
+![videortc-chrome-jack](/postimages/coding/chrome-jack.jpg)
+
+Feel free to reach out if you have any questions or comments bellow or just want to show off what kind of cool stuff you’ve built with [VideoRTC.js](http://blog.ivrpowers.com/post/development/introducing-videortcjs-developers/).
+
+Email: [support@ivrpowers.com](mailto:support@ivrpowers.com) · Twitter: [@ivrpowers](https://twitter.com/ivrpowers)
+ · Github: [IVRPowers](https://github.com/ivrpowers)
 

@@ -137,9 +137,7 @@ Tras todo este proceso, y añadiendo un poco de estilo CSS al diseño de la apli
 
 Feel free to reach out if you have any questions or comments bellow or just want to show off what kind of cool stuff you’ve built with VideoRTC.js.
 
-* Email: [support@ivrpowers.com](mailto:support@ivrpowers.com)
-* Twitter: [@ivrpowers](https://twitter.com/ivrpowers)
-* Github: [IVRPowers](https://github.com/ivrpowers)
+Email: [support@ivrpowers.com](mailto:support@ivrpowers.com) · Twitter: [@ivrpowers](https://twitter.com/ivrpowers) · Github: [IVRPowers](https://github.com/ivrpowers)
  
 ---
 [Interactive Powers](http://www.ivrpowers.com/) - Streamline your business communications
