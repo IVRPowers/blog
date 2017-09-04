@@ -4,7 +4,7 @@ date = "2017-09-01T09:52:47+02:00"
 description = "Product Data Sheet"
 draft = false
 tags = ["videoid","api","rtc","biometric"]
-title = "Video RTC · ID"
+title = "Video RTC · Video ID"
 image = "/postimages/products/ivrpowers-videortc-features.018.jpeg"
 
 +++
