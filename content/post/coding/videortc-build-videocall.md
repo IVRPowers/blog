@@ -46,10 +46,10 @@ After connecting with the server, you must copy and paste the following JavaScri
 var connection = myVideoApp.connect().then(function(usecases) {	
 var onEvents = {
     onAccepted: function(userName) {
-      //Se ejecuta cuando la llamada es aceptada por un usuario; 
+      //It is executed when the call is accepted by a user; 
     },
     onCalling: function(userName) {
-         //Se ejecuta cuando comienzo a llamar un usuario.
+         //It is executed when I start calling a user.
     },
     onDataReceived: function(type, data, filename) {
         // Data received
@@ -57,25 +57,25 @@ var onEvents = {
         if(type === 'text/plain') { }
         if(type === 'application/pdf') { }
 
-     //Se ejecuta cuando se recibe información por el canal de datos. 
+     //It is executed when information is received by the data channel. 
     },
     onGotPeers: function(list) {
-         //Se ejecuta el servidor responde a la petición de .getPeers();
+         //It executes when the server responds to the request of .getPeers();
     },
     onHangUp: function(userName, reason) {
-         //Se ejecuta cuando se cuelga una llamada.
+         //It is executed when a call is decline.
     },
     onIncomingCall: function(userName) {
-     // Se ejecuta cuando hay una llamada entrante.
+     //It is executed when there is an incoming call.
     },
     onRegistered: function(userName, isRegistered) {
-        //Se ejecuta cuando el servidor responde al método  action.register(); 
+        //It is executed when the server responds to the action.register () method; 
     }
 };
  
 var domElements = {
     videos: document.getElementById('videos')
-   // Elemento HTMLdonde irá alojado el video.
+   //HTML element where the video will be hosted.
 };
  
 var options = { // Optional
