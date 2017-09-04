@@ -104,7 +104,7 @@
         },
         "datePublished": "2017-09-01",
         "dateModified": "2017-09-01",
-        "wordCount": 586,
+        "wordCount": 595,
         "keywords": ["videocall","code","webrtc","videortc","rtc"] 
     }
     </script>
@@ -177,7 +177,7 @@ html{font-family:sans-serif;line-height:1.15;-ms-text-size-adjust:100%;-webkit-t
 
   			<header class="post-header">
   				<span class="post-meta">
-						<span class="post-date">1 Sep 2017</span> <span class="reading-time">| <span class="estimated-reading-time">3 min.</span> (<span class="word-count">586</span> words)</span></span>
+						<span class="post-date">1 Sep 2017</span> <span class="reading-time">| <span class="estimated-reading-time">3 min.</span> (<span class="word-count">595</span> words)</span></span>
   				</span>
   				<div class="clear"></div>
   				<h1 class="post-title">How to Build a Videocall Service (WebRTC)</h1>
@@ -218,10 +218,10 @@ var myVideoApp = new VideoRTC(server, iceServers, debugLevel);
 <pre><code class="language-javascript">var connection = myVideoApp.connect().then(function(usecases) {	
 var onEvents = {
     onAccepted: function(userName) {
-      //Se ejecuta cuando la llamada es aceptada por un usuario; 
+      //It is executed when the call is accepted by a user; 
     },
     onCalling: function(userName) {
-         //Se ejecuta cuando comienzo a llamar un usuario.
+         //It is executed when I start calling a user.
     },
     onDataReceived: function(type, data, filename) {
         // Data received
@@ -229,25 +229,25 @@ var onEvents = {
         if(type === 'text/plain') { }
         if(type === 'application/pdf') { }
 
-     //Se ejecuta cuando se recibe información por el canal de datos. 
+     //It is executed when information is received by the data channel. 
     },
     onGotPeers: function(list) {
-         //Se ejecuta el servidor responde a la petición de .getPeers();
+         //It executes when the server responds to the request of .getPeers();
     },
     onHangUp: function(userName, reason) {
-         //Se ejecuta cuando se cuelga una llamada.
+         //It is executed when a call is decline.
     },
     onIncomingCall: function(userName) {
-     // Se ejecuta cuando hay una llamada entrante.
+     //It is executed when there is an incoming call.
     },
     onRegistered: function(userName, isRegistered) {
-        //Se ejecuta cuando el servidor responde al método  action.register(); 
+        //It is executed when the server responds to the action.register () method; 
     }
 };
  
 var domElements = {
     videos: document.getElementById('videos')
-   // Elemento HTMLdonde irá alojado el video.
+   //HTML element where the video will be hosted.
 };
  
 var options = { // Optional
