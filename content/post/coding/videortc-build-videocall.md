@@ -40,7 +40,7 @@ var debugLevel = “error”;
 var myVideoApp = new VideoRTC(server, iceServers, debugLevel);
 ~~~
 
-After connecting with the server, you must copy and paste the following JavaScript code in your command. It is the basic structure to start designing your videocall service:
+After connecting with the server, you must copy and paste the following JavaScript code in your development. It is the basic structure to start designing your videocall service:
 
 ~~~javascript
 var connection = myVideoApp.connect().then(function(usecases) {	
