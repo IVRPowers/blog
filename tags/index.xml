@@ -6,7 +6,7 @@
     <description>Recent content in Tags on Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 01 Sep 2017 09:52:47 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 04 Sep 2017 22:00:00 +0200</lastBuildDate>
     
 	<atom:link href="http://blog.ivrpowers.com/tags/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,7 +14,7 @@
     <item>
       <title>Api</title>
       <link>http://blog.ivrpowers.com/tags/api/</link>
-      <pubDate>Fri, 01 Sep 2017 09:52:47 +0200</pubDate>
+      <pubDate>Mon, 04 Sep 2017 22:00:00 +0200</pubDate>
       
       <guid>http://blog.ivrpowers.com/tags/api/</guid>
       <description></description>
@@ -311,7 +311,7 @@
     <item>
       <title>Sdk</title>
       <link>http://blog.ivrpowers.com/tags/sdk/</link>
-      <pubDate>Wed, 28 Jun 2017 00:30:56 +0200</pubDate>
+      <pubDate>Mon, 04 Sep 2017 22:00:00 +0200</pubDate>
       
       <guid>http://blog.ivrpowers.com/tags/sdk/</guid>
       <description></description>
@@ -455,7 +455,7 @@
     <item>
       <title>Videortc</title>
       <link>http://blog.ivrpowers.com/tags/videortc/</link>
-      <pubDate>Fri, 01 Sep 2017 11:59:22 +0200</pubDate>
+      <pubDate>Mon, 04 Sep 2017 22:00:00 +0200</pubDate>
       
       <guid>http://blog.ivrpowers.com/tags/videortc/</guid>
       <description></description>
@@ -491,7 +491,7 @@
     <item>
       <title>Webrtc</title>
       <link>http://blog.ivrpowers.com/tags/webrtc/</link>
-      <pubDate>Fri, 01 Sep 2017 11:59:22 +0200</pubDate>
+      <pubDate>Mon, 04 Sep 2017 22:00:00 +0200</pubDate>
       
       <guid>http://blog.ivrpowers.com/tags/webrtc/</guid>
       <description></description>

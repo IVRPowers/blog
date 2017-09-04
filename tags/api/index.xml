@@ -6,10 +6,20 @@
     <description>Recent content in Api on Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 01 Sep 2017 09:52:47 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 04 Sep 2017 22:00:00 +0200</lastBuildDate>
     
 	<atom:link href="http://blog.ivrpowers.com/tags/api/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Video RTC · API Framework</title>
+      <link>http://blog.ivrpowers.com/post/products/video-rtc-api-framework/</link>
+      <pubDate>Mon, 04 Sep 2017 22:00:00 +0200</pubDate>
+      
+      <guid>http://blog.ivrpowers.com/post/products/video-rtc-api-framework/</guid>
+      <description>Provide core functions to develop easily any Video RTC application for web and mobile. Overview API Framework feature helps to make your job easier, adapting services to your needs and personalizing them. Our platform provides developers with a wide range of possible solutions, through a flexible and powerful toolkit for building Web APIs.
+API Framework feature enables developers to design new APIs or edit existing ones. You can also customize all the way down, just using basic regular features.</description>
+    </item>
     
     <item>
       <title>Video RTC · ID</title>
