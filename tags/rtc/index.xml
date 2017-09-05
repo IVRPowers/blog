@@ -6,10 +6,20 @@
     <description>Recent content in Rtc on Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 01 Sep 2017 11:59:22 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 05 Sep 2017 10:00:00 +0200</lastBuildDate>
     
 	<atom:link href="http://blog.ivrpowers.com/tags/rtc/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Video RTC · Pop-up Agent</title>
+      <link>http://blog.ivrpowers.com/post/products/video-rtc-pop-up-agent/</link>
+      <pubDate>Tue, 05 Sep 2017 10:00:00 +0200</pubDate>
+      
+      <guid>http://blog.ivrpowers.com/post/products/video-rtc-pop-up-agent/</guid>
+      <description>Extend Existing Call Centers with Advanced Video RTC Capabilities. Overview Pop-up Agent is a specific peer component designed to add Video RTC services to an existing Call Center. It can operate over full WebRTC options or RTMP with limited functions. Pop-up Agent works with standard web browser or with an MS Windows executable application.
+Pop-up Agent functionality is easily configurable with a set of buttons and toolkit. Main options are Live Chat, File Sharing, Screen Sharing, Video Recording, Snapshot.</description>
+    </item>
     
     <item>
       <title>How to Build a Videocall Service (WebRTC)</title>
