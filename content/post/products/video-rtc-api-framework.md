@@ -11,7 +11,7 @@ image = "/postimages/products/ivrpowers-videortc-features.026.jpeg"
 
 ![VideoRTC API Framework](/postimages/products/ivrpowers-videortc-features.027.jpeg)
 
-#	Provide core functions to develop easily any Video RTC application for web and mobile.
+#	Provide Core Functions to easily develop any Video RTC application for Web and Mobile.
 ---
 
 ## Overview
