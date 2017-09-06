@@ -41,11 +41,20 @@ Aplicaciones concretas del videoRTC. Esto variará mucho en función del campo d
 [Screen Sharing](http://blog.ivrpowers.com/post/products/video-rtc-screen-sharing/)
 	
 	
-### Complementary Features
+### Complementary Functions
 
 [SIP Connect](http://blog.ivrpowers.com/post/products/video-rtc-sip-connect/) ·  [Meeting Point](http://blog.ivrpowers.com/post/products/video-rtc-meeting-point/) · [Video Recording](http://blog.ivrpowers.com/post/products/video-rtc-video-recording/)
 
 [Snapshot](http://blog.ivrpowers.com/post/products/video-rtc-snapshot/) · [Pop-up Agent](http://blog.ivrpowers.com/post/products/video-rtc-pop-up-agent/) · [API Framework](http://blog.ivrpowers.com/post/products/video-rtc-api-framework/) · [Video ID](http://blog.ivrpowers.com/post/products/video-rtc-video-id/)
+
+Personalmente creo que es mejor dejar explicitadas las features, pero otra opción aquí es poner simplemente:
+
+### Features and Functions
+
+[Core Features](http://blog.ivrpowers.com/post/products/video-rtc-core-features/)
+
+[Complementary Functions](http://blog.ivrpowers.com/post/products/video-rtc-complementary-functions/)
+	
 
 ### Live Demo / Let's start!
 
