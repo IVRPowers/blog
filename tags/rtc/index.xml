@@ -6,10 +6,22 @@
     <description>Recent content in Rtc on Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 05 Sep 2017 10:00:00 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 06 Sep 2017 09:30:00 +0200</lastBuildDate>
     
 	<atom:link href="http://blog.ivrpowers.com/tags/rtc/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Video RTC · Complementary Functions</title>
+      <link>http://blog.ivrpowers.com/post/products/video-rtc-complementary-functions/</link>
+      <pubDate>Wed, 06 Sep 2017 09:30:00 +0200</pubDate>
+      
+      <guid>http://blog.ivrpowers.com/post/products/video-rtc-complementary-functions/</guid>
+      <description>Video Gateway (WebRTC) includes complementary features that you can run according to your business requirements . All of this, is part of capabilities of our Video RTC solution suite.
+Know more about our Video RTC core features here:
+SIP Connect. Video Gateway ensures interoperability between WebRTC endpoints and existing telephony systems. It integrates seamlessly advanced web phones or mobile apps into previous infraestructure. Learn more.
+Meeting Point. Video Gateway provides an additional OAuth plugin that makes it easier for users to connect to your real-time services.</description>
+    </item>
     
     <item>
       <title>Video RTC · Pop-up Agent</title>
