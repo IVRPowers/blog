@@ -13,6 +13,11 @@
   </url>
   
   <url>
+    <loc>http://blog.ivrpowers.com/post/coding/videortc-build-mobile-app/</loc>
+    <lastmod>2017-09-08T10:45:24+02:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://blog.ivrpowers.com/post/trends/technavio-trend/</loc>
     <lastmod>2017-09-07T22:00:00+02:00</lastmod>
   </url>
@@ -467,13 +472,13 @@
   
   <url>
     <loc>http://blog.ivrpowers.com/tags/code/</loc>
-    <lastmod>2017-09-01T11:59:22+02:00</lastmod>
+    <lastmod>2017-09-08T10:45:24+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://blog.ivrpowers.com/categories/coding/</loc>
-    <lastmod>2017-09-01T11:59:22+02:00</lastmod>
+    <lastmod>2017-09-08T10:45:24+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -646,6 +651,12 @@
   </url>
   
   <url>
+    <loc>http://blog.ivrpowers.com/tags/mobileapp/</loc>
+    <lastmod>2017-09-08T10:45:24+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://blog.ivrpowers.com/tags/mobility/</loc>
     <lastmod>2017-08-09T10:09:17+02:00</lastmod>
     <priority>0</priority>
@@ -677,7 +688,7 @@
   
   <url>
     <loc>http://blog.ivrpowers.com/post/</loc>
-    <lastmod>2017-09-07T22:00:00+02:00</lastmod>
+    <lastmod>2017-09-08T10:45:24+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -803,7 +814,7 @@
   
   <url>
     <loc>http://blog.ivrpowers.com/tags/videocall/</loc>
-    <lastmod>2017-09-01T11:59:22+02:00</lastmod>
+    <lastmod>2017-09-08T10:45:24+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -827,7 +838,7 @@
   
   <url>
     <loc>http://blog.ivrpowers.com/tags/videortc/</loc>
-    <lastmod>2017-09-06T09:30:00+02:00</lastmod>
+    <lastmod>2017-09-08T10:45:24+02:00</lastmod>
     <priority>0</priority>
   </url>
   
