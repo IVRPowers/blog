@@ -6,20 +6,10 @@
     <description>Recent content in Code on Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 08 Sep 2017 10:45:24 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 01 Sep 2017 11:59:22 +0200</lastBuildDate>
     
 	<atom:link href="http://blog.ivrpowers.com/tags/code/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>How to Build Mobile Video Application (WebRTC)</title>
-      <link>http://blog.ivrpowers.com/post/coding/videortc-build-mobile-app/</link>
-      <pubDate>Fri, 08 Sep 2017 10:45:24 +0200</pubDate>
-      
-      <guid>http://blog.ivrpowers.com/post/coding/videortc-build-mobile-app/</guid>
-      <description>Photo Source: Interactive Powers, Pexels. Creative Commons In this post we will show you how to build a video call service in your mobile by using Ionic 2 technology and VideoRTC.js.
-Step 1: Setting up the basic structure Firstly, you need to install a project Ionic in your system. If you don’t have it, you can see the official guide of Ionic 2 in your website to install it.</description>
-    </item>
     
     <item>
       <title>How to Build a Videocall Service (WebRTC)</title>
