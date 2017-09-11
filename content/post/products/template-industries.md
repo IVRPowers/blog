@@ -1,15 +1,15 @@
 +++
 categories = ["products"]
-date = "2017-09-06T12:09:07+02:00"
+date = "2017-09-11T12:09:07+02:00"
 description = "Industries"
-draft = true
+draft = false
 tags = ["x","y"]
 title = "Industries · Education"
-image = "/postimages/tutorials/Lorem-ipsum.jpg"
+image = "/postimages//tutorials/Lorem-ipsum.jpg"
 
 +++
 
-![Lorem ipsum](/postimages/tutorials/Lorem-ipsum.jpg)
+![Lorem ipsum](/postimages//tutorials/Lorem-ipsum.jpg)
 -----------
 Photo source:
 	
