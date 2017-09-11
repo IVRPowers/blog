@@ -13,7 +13,7 @@
 
     
         <meta property="og:type" content="article" />
-        <meta property="og:article:published_time" content="2017-09-08T10:45:24&#43;02:00" />
+        <meta property="og:article:published_time" content="2017-09-11T10:45:24&#43;02:00" />
         <meta property="og:article:tag" content="videocall" />
         <meta property="og:article:tag" content="code" />
         <meta property="og:article:tag" content="mobileapp" />
@@ -101,9 +101,9 @@
           "height": 133,
           "width": 200
         },
-        "datePublished": "2017-09-08",
-        "dateModified": "2017-09-08",
-        "wordCount": 733,
+        "datePublished": "2017-09-11",
+        "dateModified": "2017-09-11",
+        "wordCount": 718,
         "keywords": ["videocall","code","mobileapp","videortc"] 
     }
     </script>
@@ -176,7 +176,7 @@ html{font-family:sans-serif;line-height:1.15;-ms-text-size-adjust:100%;-webkit-t
 
   			<header class="post-header">
   				<span class="post-meta">
-						<span class="post-date">8 Sep 2017</span> <span class="reading-time">| <span class="estimated-reading-time">4 min.</span> (<span class="word-count">733</span> words)</span></span>
+						<span class="post-date">11 Sep 2017</span> <span class="reading-time">| <span class="estimated-reading-time">4 min.</span> (<span class="word-count">718</span> words)</span></span>
   				</span>
   				<div class="clear"></div>
   				<h1 class="post-title">How to Build Mobile Video Application (WebRTC)</h1>
@@ -210,93 +210,73 @@ html{font-family:sans-serif;line-height:1.15;-ms-text-size-adjust:100%;-webkit-t
 </ul>
 
 <pre><code class="language-typescript">export class My_App {
+  
+   public my_videogateway: any = null;
+   server:any  = [&quot;https://example.com:HTTPS_PORT/webrtc-gateway&quot;];
+   iceServers:any  = [ ];
+   debugLevel:any = “error”;
 
-            public my_videogateway: any = null;
-server:any  = [&quot;https://example.com:HTTPS_PORT/webrtc-gateway&quot;];
-iceServers:any  = [ ];
-debugLevel:any = “error”;
-
-constructor(public navCtrl: NavController) {
-
-this.my_videogateway = new VideoRTC(this.server, this.iceServers,    this.debugLevel);
-
-      }
+   constructor(public navCtrl: NavController) {
+       this.my_videogateway = new VideoRTC(this.server, this.iceServers, this.debugLevel);
+   }
 }
-
 </code></pre>
 
 <p>After connecting with the server, you must copy and paste the following Type Script code in your development outside of constructor. It is the basic structure to start designing your videocall service with Ionic:</p>
 
 <pre><code class="language-typescript">this.my_videogateway.connect().then( useCases =&gt; {
-                    this.useCases = useCases;
-                         let onEvents = {
-                                onAccepted:(userName) =&gt; {
-                                // It is executed when the call is accepted by a user;
-                                },
-                                onCalling:(userName) =&gt; {
-                                // It is executed when It start calling a user.
-                                     
-                                     this.onCalling = true;
-                                },
-                                onDataReceived:(type, data, filename,userName) =&gt; {
-                                // It executes when information is received by the data channel.
-                               
-                                },
-                                onGotPeers:(list) =&gt; {
-                                // It executes when the server responds to the request of .getPeers ();
-                                     this.listPeers = list;
-                                
-                                },
-                                onHangUp:(userName, reason) =&gt; {
-                                 // It is executed when a call is hung. (Decline)
-                                      
+   this.useCases = useCases;
+   let onEvents = {
+       onAccepted:(userName) =&gt; {
+           //It is executed when the call is accepted by a user;
+       },
+       onCalling:(userName) =&gt; {
+           //It is executed when It start calling a user.
+       },
+       onDataReceived:(type, data, filename,userName) =&gt; {
+           //It executes when information is received by the data channel.
+       },
+       onGotPeers:(list) =&gt; {
+           //It executes when the server responds to the request of .getPeers ();
+       },
+       onHangUp:(userName, reason) =&gt; {
+           //It is executed when a call is hung. (Decline)
+       },
+       onIncomingCall:(userName) =&gt; {
+           //It is executed when there is an incoming call.
+       },
+       onRegistered: (userName, isRegistered) =&gt; {
+           //It is executed when the server responds to the action.register () method;
+       },
+       onSetCall:() =&gt; {
+           //Set
+       }
+   };
+   var options = { //Optional
+       dataChannel: {
+           dataEnabled: true,
+           allowedTypes: ['application/x-chat', 'text-plain', 'application/pdf']
+       }
+   };
+   let domElements = {
+       //HTML element where the video will be hosted.
+       videos: document.getElementById(‘videos')
+   };
+   useCases.videoCall(onEvents, domElements,options)
+       .then((action) =&gt; {
+           // Use Case has been atacched succesfully
+           this.actions = action;
+           action.register(this.user);
+           this.getListPeers();
+       })
+       .catch((cause) =&gt; {
+           // Error attaching the Use Case
+           console.log(&quot;Error Attach &quot; + cause );
+       })
+})
+.catch( cause =&gt; {
 
-                                },
-                                onIncomingCall:(userName) =&gt; {
-                                 // It is executed when there is an incoming call.
-                                     
-                                },
-                                onRegistered: (userName, isRegistered) =&gt; {
-                                // It is executed when the server responds to the action.register () method;
-                                     
-                                },
-                                onSetCall:() =&gt; {
-                                 // Set
-                                      
-                                }
-                            };
-                            var options = { // Optional
-                                    dataChannel: {
-                                    dataEnabled: true,
-                                    allowedTypes: ['application/x-chat', 'text-plain', 'application/pdf']
-                                }
-                            }
-                             let domElements = {
-                             //HTML element where the video will be hosted.
-                                videos: document.getElementById(‘videos')
-                            };
-
-
-                            useCases.videoCall(onEvents, domElements,options)
-                                .then((action) =&gt; {
-                                     // Use Case has been atacched succesfully
-                                     this.actions = action;
-
-                                     action.register(this.user);
-                                     this.getListPeers();
-
-
-                                })
-                                .catch((cause) =&gt; {
-                                    // Error attaching the Use Case
-                                    console.log(&quot;Error Attach &quot; + cause );
-                                })
-
-                    })
-                    .catch( cause =&gt; {
-
-                    })
-
+})
 </code></pre>
 
 <h2 id="step-2-registering-users">Step 2: Registering users</h2>
@@ -309,7 +289,7 @@ this.my_videogateway = new VideoRTC(this.server, this.iceServers,    this.debugL
 
 <p>For instance:</p>
 
-<pre><code class="language-javascript">action.register(‘Tom’); 
+<pre><code class="language-typescript">this.action.register(‘Tom’);  
 </code></pre>
 
 <p>Once the call has been registered, user ‘Tom’ can call another user. You have to insert it in a code block, so that you can see it within onRegistered.</p>
@@ -320,7 +300,7 @@ this.my_videogateway = new VideoRTC(this.server, this.iceServers,    this.debugL
 
 <p>For instance:</p>
 
-<pre><code class="language-javascript">action.call(‘Jack’).
+<pre><code class="language-typescript">this.action.call(‘Jack’).
 </code></pre>
 
 <h2 id="step-3-how-to-accept-the-videocall">Step 3: How to accept the videocall</h2>
