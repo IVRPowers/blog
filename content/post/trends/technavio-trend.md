@@ -1,8 +1,8 @@
 +++
 categories = ["trends"]
-date = "2017-08-30T22:00:00+02:00"
+date = "2017-09-07T22:00:00+02:00"
 description = "Market Trend"
-draft = true
+draft = false
 tags = ["trend","custexp", "ivr","voicexml"]
 title = "Technavio: IVR market, will see a growth of around 13% between this year, and 2021"
 image = "/postimages/trends/ivrpowers-cctr-trends-2017.013.jpeg"

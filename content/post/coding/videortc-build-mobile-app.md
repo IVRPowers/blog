@@ -1,8 +1,8 @@
 +++
 categories = ["coding"]
-date = "2017-09-05T10:45:24+02:00"
+date = "2017-09-11T10:45:24+02:00"
 description = "Coding"
-draft = true
+draft = false
 tags = ["videocall","code","mobileapp","videortc"]
 title = "How to Build Mobile Video Application (WebRTC)"
 image = "/postimages/coding/ivrpowers-videortc-features.033.jpeg"
@@ -36,94 +36,74 @@ Next, we have to establish the connection to the desired video server, following
 
 ~~~typescript
 export class My_App {
+  
+   public my_videogateway: any = null;
+   server:any  = ["https://example.com:HTTPS_PORT/webrtc-gateway"];
+   iceServers:any  = [ ];
+   debugLevel:any = “error”;
 
-            public my_videogateway: any = null;
-server:any  = ["https://example.com:HTTPS_PORT/webrtc-gateway"];
-iceServers:any  = [ ];
-debugLevel:any = “error”;
-
-constructor(public navCtrl: NavController) {
-
-this.my_videogateway = new VideoRTC(this.server, this.iceServers,    this.debugLevel);
-
-      }
+   constructor(public navCtrl: NavController) {
+       this.my_videogateway = new VideoRTC(this.server, this.iceServers, this.debugLevel);
+   }
 }
-
 ~~~
 
 After connecting with the server, you must copy and paste the following Type Script code in your development outside of constructor. It is the basic structure to start designing your videocall service with Ionic:
 
 ~~~typescript
 this.my_videogateway.connect().then( useCases => {
-                    this.useCases = useCases;
-                         let onEvents = {
-                                onAccepted:(userName) => {
-                                // It is executed when the call is accepted by a user;
-                                },
-                                onCalling:(userName) => {
-                                // It is executed when It start calling a user.
-                                     
-                                     this.onCalling = true;
-                                },
-                                onDataReceived:(type, data, filename,userName) => {
-                                // It executes when information is received by the data channel.
-                               
-                                },
-                                onGotPeers:(list) => {
-                                // It executes when the server responds to the request of .getPeers ();
-                                     this.listPeers = list;
-                                
-                                },
-                                onHangUp:(userName, reason) => {
-                                 // It is executed when a call is hung. (Decline)
-                                      
+   this.useCases = useCases;
+   let onEvents = {
+       onAccepted:(userName) => {
+           //It is executed when the call is accepted by a user;
+       },
+       onCalling:(userName) => {
+           //It is executed when It start calling a user.
+       },
+       onDataReceived:(type, data, filename,userName) => {
+           //It executes when information is received by the data channel.
+       },
+       onGotPeers:(list) => {
+           //It executes when the server responds to the request of .getPeers ();
+       },
+       onHangUp:(userName, reason) => {
+           //It is executed when a call is hung. (Decline)
+       },
+       onIncomingCall:(userName) => {
+           //It is executed when there is an incoming call.
+       },
+       onRegistered: (userName, isRegistered) => {
+           //It is executed when the server responds to the action.register () method;
+       },
+       onSetCall:() => {
+           //Set
+       }
+   };
+   var options = { //Optional
+       dataChannel: {
+           dataEnabled: true,
+           allowedTypes: ['application/x-chat', 'text-plain', 'application/pdf']
+       }
+   };
+   let domElements = {
+       //HTML element where the video will be hosted.
+       videos: document.getElementById(‘videos')
+   };
+   useCases.videoCall(onEvents, domElements,options)
+       .then((action) => {
+           // Use Case has been atacched succesfully
+           this.actions = action;
+           action.register(this.user);
+           this.getListPeers();
+       })
+       .catch((cause) => {
+           // Error attaching the Use Case
+           console.log("Error Attach " + cause );
+       })
+})
+.catch( cause => {
 
-                                },
-                                onIncomingCall:(userName) => {
-                                 // It is executed when there is an incoming call.
-                                     
-                                },
-                                onRegistered: (userName, isRegistered) => {
-                                // It is executed when the server responds to the action.register () method;
-                                     
-                                },
-                                onSetCall:() => {
-                                 // Set
-                                      
-                                }
-                            };
-                            var options = { // Optional
-                                    dataChannel: {
-                                    dataEnabled: true,
-                                    allowedTypes: ['application/x-chat', 'text-plain', 'application/pdf']
-                                }
-                            }
-                             let domElements = {
-                             //HTML element where the video will be hosted.
-                                videos: document.getElementById(‘videos')
-                            };
-
-
-                            useCases.videoCall(onEvents, domElements,options)
-                                .then((action) => {
-                                     // Use Case has been atacched succesfully
-                                     this.actions = action;
-
-                                     action.register(this.user);
-                                     this.getListPeers();
-
-
-                                })
-                                .catch((cause) => {
-                                    // Error attaching the Use Case
-                                    console.log("Error Attach " + cause );
-                                })
-
-                    })
-                    .catch( cause => {
-
-                    })
-
+})
 ~~~
 
 ## Step 2: Registering users
@@ -134,8 +114,8 @@ We already have the basic structure to personalize the application. In the follo
 
 For instance:
 
-~~~javascript
-action.register(‘Tom’); 
+~~~typescript
+this.action.register(‘Tom’);  
 ~~~
 
 Once the call has been registered, user ‘Tom’ can call another user. You have to insert it in a code block, so that you can see it within onRegistered.
@@ -144,8 +124,8 @@ Once the call has been registered, user ‘Tom’ can call another user. You hav
 
 For instance:
 
-~~~javascript
-action.call(‘Jack’).
+~~~typescript
+this.action.call(‘Jack’).
 ~~~
 
 ## Step 3: How to accept the videocall
