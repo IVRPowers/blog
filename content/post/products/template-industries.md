@@ -2,7 +2,7 @@
 categories = ["products"]
 date = "2017-09-11T12:09:07+02:00"
 description = "Industries"
-draft = false
+draft = true
 tags = ["x","y"]
 title = "Industries · Education"
 image = "/postimages//tutorials/Lorem-ipsum.jpg"

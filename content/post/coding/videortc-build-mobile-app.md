@@ -4,7 +4,7 @@ date = "2017-09-11T10:45:24+02:00"
 description = "Coding"
 draft = false
 tags = ["videocall","code","mobileapp","videortc"]
-title = "How to Build Mobile Video Application (WebRTC)"
+title = "How to Build a Mobile Video Application (WebRTC)"
 image = "/postimages/coding/ivrpowers-videortc-features.033.jpeg"
 
 +++
@@ -14,14 +14,14 @@ image = "/postimages/coding/ivrpowers-videortc-features.033.jpeg"
 ------------
 ###### Photo Source: Interactive Powers, Pexels. Creative Commons
 
-In this post we will show you how to build a video call service in your mobile by using Ionic 2 technology and [VideoRTC.js](http://blog.ivrpowers.com/post/development/introducing-videortcjs-developers/).
+In this post we will show you how to build a video call service in your mobile by using the [Ionic Framework 2](http://ionicframework.com/) and [VideoRTC.js](http://blog.ivrpowers.com/post/development/introducing-videortcjs-developers/).
 
 
 ## Step 1: Setting up the basic structure
 
-Firstly, you need to install a project Ionic in your system. If you don’t have it, you can see the official guide of Ionic 2 in your website to install it.
+Firstly, you need to install a project Ionic in your system. If you don’t have it, you can download and follow the official guide from the Ionic Framework 2 web site.
 
-After it, the library VideoRTC must be included in your project. It requires to copy the library inside the folder **node_modules** of your project. Then, with the command, the dependencies must be installed inside folder videoRTC using **npm install.**
+After it, the library [VideoRTC.js](http://blog.ivrpowers.com/post/development/introducing-videortcjs-developers/) must be included in your project. It requires to copy the library inside the folder **node_modules** of your project. Then, with the command, the dependencies must be installed inside folder videoRTC using **npm install.**
 
 To import our library into the project, we add the following text in the file  *.ts:
 	
@@ -48,7 +48,7 @@ export class My_App {
 }
 ~~~
 
-After connecting with the server, you must copy and paste the following Type Script code in your development outside of constructor. It is the basic structure to start designing your videocall service with Ionic:
+After connecting with the video gateway server, you must copy and paste the following Type Script code in your development outside of constructor. It is the basic structure to start designing your videocall service with Ionic:
 
 ~~~typescript
 this.my_videogateway.connect().then( useCases => {
@@ -132,7 +132,7 @@ this.action.call(‘Jack’).
 
 Finally, we must follow the procedure that allows to accept the call. Here, there are two different options. We can either directly include ‘action.call()’ in the object onIncomingCall, so the call is automatically accepted, or you can design your own logic using Ionic components like for example a confirmation button.
 
-You can see more information about the components in the [Ionic official website](http://ionicframework.com/docs/components/#alert-confirm).
+You can see more information about the components at [Ionic Framework 2](http://ionicframework.com/docs/components/#alert-confirm).
 
 After the explained process, and by adding some CSS style, you can shape the design of the application.
 
