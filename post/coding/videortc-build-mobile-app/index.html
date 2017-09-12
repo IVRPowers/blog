@@ -7,7 +7,7 @@
         <meta charset="utf-8" />
         <meta http-equiv="X-UA-Compatible" content="IE=edge" />
 
-        <meta property="og:title" content=" How to Build Mobile Video Application (WebRTC) &middot;  Blog" />
+        <meta property="og:title" content=" How to Build a Mobile Video Application (WebRTC) &middot;  Blog" />
         <meta property="og:site_name" content="Blog" />
         <meta property="og:url" content="http://blog.ivrpowers.com/post/coding/videortc-build-mobile-app/" />
 
@@ -23,12 +23,12 @@
         <meta name="twitter:card" content="summary" />
         <meta name="twitter:site" content="@https://twitter.com/ivrpowers" />
         <meta name="twitter:creator" content="@https://twitter.com/ivrpowers" />
-        <meta name="twitter:title" content="How to Build Mobile Video Application (WebRTC)" />
+        <meta name="twitter:title" content="How to Build a Mobile Video Application (WebRTC)" />
         <meta name="twitter:description" content="Coding" />
         <meta name="twitter:url" content="http://blog.ivrpowers.com/post/coding/videortc-build-mobile-app/" />
     
 
-        <title> How to Build Mobile Video Application (WebRTC) &middot;  Blog</title>
+        <title> How to Build a Mobile Video Application (WebRTC) &middot;  Blog</title>
 
         <link rel="preload" href="http://blog.ivrpowers.com/js/main.js" as="script" />
         <link rel="preload" href="http://blog.ivrpowers.com/css/main.css" as="style" />
@@ -70,7 +70,7 @@
           "@type": "WebPage",
           "@id": "http://blog.ivrpowers.com/post/coding/videortc-build-mobile-app/"
         },
-        "headline": "How to Build Mobile Video Application (WebRTC)",
+        "headline": "How to Build a Mobile Video Application (WebRTC)",
         "description": "Coding",
         "author": {
             "@type": "Person",
@@ -103,7 +103,7 @@
         },
         "datePublished": "2017-09-11",
         "dateModified": "2017-09-11",
-        "wordCount": 718,
+        "wordCount": 720,
         "keywords": ["videocall","code","mobileapp","videortc"] 
     }
     </script>
@@ -115,7 +115,7 @@
     
       var disqus_shortname = 'ivrpowers';
       var disqus_identifier = 'http:\/\/blog.ivrpowers.com\/post\/coding\/videortc-build-mobile-app\/';
-      var disqus_title = 'How to Build Mobile Video Application (WebRTC)';
+      var disqus_title = 'How to Build a Mobile Video Application (WebRTC)';
       var disqus_url = 'http:\/\/blog.ivrpowers.com\/post\/coding\/videortc-build-mobile-app\/';
     
     </script>
@@ -176,10 +176,10 @@ html{font-family:sans-serif;line-height:1.15;-ms-text-size-adjust:100%;-webkit-t
 
   			<header class="post-header">
   				<span class="post-meta">
-						<span class="post-date">11 Sep 2017</span> <span class="reading-time">| <span class="estimated-reading-time">4 min.</span> (<span class="word-count">718</span> words)</span></span>
+						<span class="post-date">11 Sep 2017</span> <span class="reading-time">| <span class="estimated-reading-time">4 min.</span> (<span class="word-count">720</span> words)</span></span>
   				</span>
   				<div class="clear"></div>
-  				<h1 class="post-title">How to Build Mobile Video Application (WebRTC)</h1>
+  				<h1 class="post-title">How to Build a Mobile Video Application (WebRTC)</h1>
   			</header>
 
   			<section class="post-content">
@@ -189,13 +189,13 @@ html{font-family:sans-serif;line-height:1.15;-ms-text-size-adjust:100%;-webkit-t
 
 <h6 id="photo-source-interactive-powers-pexels-creative-commons">Photo Source: Interactive Powers, Pexels. Creative Commons</h6>
 
-<p>In this post we will show you how to build a video call service in your mobile by using Ionic 2 technology and <a href="http://blog.ivrpowers.com/post/development/introducing-videortcjs-developers/">VideoRTC.js</a>.</p>
+<p>In this post we will show you how to build a video call service in your mobile by using the <a href="http://ionicframework.com/">Ionic Framework 2</a> and <a href="http://blog.ivrpowers.com/post/development/introducing-videortcjs-developers/">VideoRTC.js</a>.</p>
 
 <h2 id="step-1-setting-up-the-basic-structure">Step 1: Setting up the basic structure</h2>
 
-<p>Firstly, you need to install a project Ionic in your system. If you don’t have it, you can see the official guide of Ionic 2 in your website to install it.</p>
+<p>Firstly, you need to install a project Ionic in your system. If you don’t have it, you can download and follow the official guide from the Ionic Framework 2 web site.</p>
 
-<p>After it, the library VideoRTC must be included in your project. It requires to copy the library inside the folder <strong>node_modules</strong> of your project. Then, with the command, the dependencies must be installed inside folder videoRTC using <strong>npm install.</strong></p>
+<p>After it, the library <a href="http://blog.ivrpowers.com/post/development/introducing-videortcjs-developers/">VideoRTC.js</a> must be included in your project. It requires to copy the library inside the folder <strong>node_modules</strong> of your project. Then, with the command, the dependencies must be installed inside folder videoRTC using <strong>npm install.</strong></p>
 
 <p>To import our library into the project, we add the following text in the file  *.ts:</p>
 
@@ -222,7 +222,7 @@ html{font-family:sans-serif;line-height:1.15;-ms-text-size-adjust:100%;-webkit-t
 }
 </code></pre>
 
-<p>After connecting with the server, you must copy and paste the following Type Script code in your development outside of constructor. It is the basic structure to start designing your videocall service with Ionic:</p>
+<p>After connecting with the video gateway server, you must copy and paste the following Type Script code in your development outside of constructor. It is the basic structure to start designing your videocall service with Ionic:</p>
 
 <pre><code class="language-typescript">this.my_videogateway.connect().then( useCases =&gt; {
    this.useCases = useCases;
@@ -307,7 +307,7 @@ html{font-family:sans-serif;line-height:1.15;-ms-text-size-adjust:100%;-webkit-t
 
 <p>Finally, we must follow the procedure that allows to accept the call. Here, there are two different options. We can either directly include ‘action.call()’ in the object onIncomingCall, so the call is automatically accepted, or you can design your own logic using Ionic components like for example a confirmation button.</p>
 
-<p>You can see more information about the components in the <a href="http://ionicframework.com/docs/components/#alert-confirm">Ionic official website</a>.</p>
+<p>You can see more information about the components at <a href="http://ionicframework.com/docs/components/#alert-confirm">Ionic Framework 2</a>.</p>
 
 <p>After the explained process, and by adding some CSS style, you can shape the design of the application.</p>
 
@@ -341,7 +341,7 @@ html{font-family:sans-serif;line-height:1.15;-ms-text-size-adjust:100%;-webkit-t
             
   				</div>
   				<div class="post-share">
-  					<a class="icon-twitter" href="https://twitter.com/share?text=How%20to%20Build%20Mobile%20Video%20Application%20%28WebRTC%29&url=http%3a%2f%2fblog.ivrpowers.com%2fpost%2fcoding%2fvideortc-build-mobile-app%2f" onclick="window.open(this.href, 'twitter-share', 'width=550,height=235');return false;">
+  					<a class="icon-twitter" href="https://twitter.com/share?text=How%20to%20Build%20a%20Mobile%20Video%20Application%20%28WebRTC%29&url=http%3a%2f%2fblog.ivrpowers.com%2fpost%2fcoding%2fvideortc-build-mobile-app%2f" onclick="window.open(this.href, 'twitter-share', 'width=550,height=235');return false;">
   						<span>Twitter</span>
   					</a>
   					<a class="icon-facebook" href="https://www.facebook.com/sharer/sharer.php?u=http%3a%2f%2fblog.ivrpowers.com%2fpost%2fcoding%2fvideortc-build-mobile-app%2f" onclick="window.open(this.href, 'facebook-share','width=580,height=296');return false;">
