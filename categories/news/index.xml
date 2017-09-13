@@ -2,23 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>News on Blog</title>
-    <link>http://blog.test.ivrpowers.com/categories/news/</link>
+    <link>http://blog.ivrpowers.com/categories/news/</link>
     <description>Recent content in News on Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 24 May 2017 01:32:38 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 13 Sep 2017 12:00:08 +0200</lastBuildDate>
     
-	<atom:link href="http://blog.test.ivrpowers.com/categories/news/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://blog.ivrpowers.com/categories/news/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Customer Experience (CX)</title>
-      <link>http://blog.test.ivrpowers.com/post/news/customer-experience/</link>
-      <pubDate>Wed, 24 May 2017 01:32:38 +0200</pubDate>
+      <title>Digital Revolution in the Contact Center</title>
+      <link>http://blog.ivrpowers.com/post/news/digital-revolution-contact-center/</link>
+      <pubDate>Wed, 13 Sep 2017 12:00:08 +0200</pubDate>
       
-      <guid>http://blog.test.ivrpowers.com/post/news/customer-experience/</guid>
-      <description>Customer experience (CX) is a top priority for businesses worldwide and more critical than ever. More than 50 percent of organizations will redirect their investments to CX innovations by 2018, according to Gartner. Considering that an estimated $1.6 trillion is lost as a result of poor service, no company is exempt from offering an exceptional customer journey.
-While digital customer engagement is part of the new world order, physical engagement - old-school face-to-face interactions - remain highly relevant as well.</description>
+      <guid>http://blog.ivrpowers.com/post/news/digital-revolution-contact-center/</guid>
+      <description>All of us, as consumers, are becoming increasingly familiar with the use of new channels. We must also take into account that the first generation of digital natives is entering into the market. However, phone continues to be the most widely used channel in customer service and voice over IP technology. This situation is specially extended in the Spanish business landscape. Despite the significant development of digital broadband connections, the level of digitalisation is relatively low.</description>
     </item>
     
   </channel>

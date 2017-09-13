@@ -6,10 +6,19 @@
     <description>Recent content in Posts on Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 11 Sep 2017 10:45:24 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 13 Sep 2017 12:00:08 +0200</lastBuildDate>
     
 	<atom:link href="http://blog.ivrpowers.com/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Digital Revolution in the Contact Center</title>
+      <link>http://blog.ivrpowers.com/post/news/digital-revolution-contact-center/</link>
+      <pubDate>Wed, 13 Sep 2017 12:00:08 +0200</pubDate>
+      
+      <guid>http://blog.ivrpowers.com/post/news/digital-revolution-contact-center/</guid>
+      <description>All of us, as consumers, are becoming increasingly familiar with the use of new channels. We must also take into account that the first generation of digital natives is entering into the market. However, phone continues to be the most widely used channel in customer service and voice over IP technology. This situation is specially extended in the Spanish business landscape. Despite the significant development of digital broadband connections, the level of digitalisation is relatively low.</description>
+    </item>
     
     <item>
       <title>How to Build a Mobile Video Application (WebRTC)</title>
