@@ -2,8 +2,8 @@
 categories = ["news"]
 date = "2017-09-13T12:00:08+02:00"
 description = "New Digital Channels"
-draft = false
-tags = ["contactcenter","webrtc","businessstrategy"]
+draft = true
+tags = ["contactcenter","webrtc","businessstrategy","omnichannel"]
 title = "Digital Revolution in the Contact Center"
 
 +++
