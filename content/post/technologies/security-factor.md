@@ -2,8 +2,8 @@
 categories = ["technologies"]
 date = "2017-09-15T12:06:30+02:00"
 description = "Protection of Sensitive Data must Be a Priority"
-draft = true
-tags = ["security”,"webrtc","data","businessstrategy","SRTP"]
+draft = false
+tags = ["security","webrtc","data","businesstrategy","srtp"]
 title = "The Security Factor"
 image = "/postimages/technologies/ivrpowers-posts-01.183.jpeg"
 
