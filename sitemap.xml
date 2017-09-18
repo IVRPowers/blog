@@ -13,6 +13,11 @@
   </url>
   
   <url>
+    <loc>http://blog.ivrpowers.com/post/general/showroom-videortc-webrtc/</loc>
+    <lastmod>2017-09-18T00:00:30+02:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://blog.ivrpowers.com/post/coding/videortc-build-mobile-app/</loc>
     <lastmod>2017-09-11T10:45:24+02:00</lastmod>
   </url>
@@ -688,7 +693,7 @@
   
   <url>
     <loc>http://blog.ivrpowers.com/post/</loc>
-    <lastmod>2017-09-11T10:45:24+02:00</lastmod>
+    <lastmod>2017-09-18T00:00:30+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -719,6 +724,12 @@
   <url>
     <loc>http://blog.ivrpowers.com/tags/security/</loc>
     <lastmod>2017-08-01T10:04:37+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://blog.ivrpowers.com/tags/showroom/</loc>
+    <lastmod>2017-09-18T00:00:30+02:00</lastmod>
     <priority>0</priority>
   </url>
   
