@@ -25,7 +25,7 @@ From our offices in Spain and the United States, we provide **solutions that fac
 
 Some of the solutions that we develop at Interactive Powers are communication platforms. They include **video, voice and instant chat channels,** and features such as shared screen and file transfer. These platforms can be used from the **web** and from an **application for a tablet** or a **mobile phone**. Currently, one of our priorities is to attend the technological shifts that companies need to incorporate. Therefore, we make sure to facilitate adaptation and integration processes via [API](http://blog.ivrpowers.com/post/development/introducing-videortcjs-developers/), by deploying our products over existing IT structures. In this way, it is possible to address, easily and economically, **Digital Revolution of real-time communication channels** across multiple sectors of industry, commerce and services.
 
-This post is also published in Spanish [here](https://www.linkedin.com/pulse/una-apuesta-por-la-revoluci%C3%B3n-digital-en-el-contact-center-iv%C3%A1n-sixto?trk=mp-reader-card).
+This post is also published in Spanish [here](https://www.linkedin.com/pulse/las-empresas-necesitan-hacer-frente-los-nuevos-desaf%C3%ADos-iv%C3%A1n-sixto?trk=mp-reader-card).
 
 ---
 [Interactive Powers](http://www.ivrpowers.com/) - Streamline your business communications

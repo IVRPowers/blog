@@ -34,7 +34,7 @@ Companies must understand that the processes of digital transformation driven by
 Real-time technologies for customer services are going to become basic tools for companies in the 21st century. Among them, **video stands out because of its many advantages and possibilities in human communication.** Video, along with electronic signature, online payment, face recognition or identity recognition technologies, is revolutionizing the way we understand customer interactions. Financial institutions, health services, insurance companies and the entertainment industry are some of the sectors that can benefit most from new communication technologies, but there are also other sectors, such as e-commerce, tourism, car industries, that could enhance their services thanks to real-times communications.
 
 
-This post is also published in Spanish [here](https://www.linkedin.com/pulse/una-apuesta-por-la-revoluci%C3%B3n-digital-en-el-contact-center-iv%C3%A1n-sixto?trk=mp-reader-card).
+This post is also published in Spanish [here](https://www.linkedin.com/pulse/el-v%C3%ADdeo-ha-llegado-para-transformar-los-contact-centers-iv%C3%A1n-sixto?trk=mp-reader-card).
 
 ---
 [Interactive Powers](http://www.ivrpowers.com/) - Streamline your business communications
