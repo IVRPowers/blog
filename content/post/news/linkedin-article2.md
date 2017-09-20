@@ -1,8 +1,8 @@
 +++
 categories = ["news"]
-date = "2017-09-18T11:30:18+02:00"
+date = "2017-09-20T11:30:18+02:00"
 description = "An Easy Approach to Digital Shift"
-draft = true
+draft = false
 tags = ["videortc","webrtc","api","businessstrategy"]
 title = "Businesses need to Face Digital Challenges"
 image = "/postimages/news/articulo2.jpg"
