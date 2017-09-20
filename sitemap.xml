@@ -13,6 +13,16 @@
   </url>
   
   <url>
+    <loc>http://blog.ivrpowers.com/post/trends/cloud-hosting-ivr-rtc/</loc>
+    <lastmod>2017-09-20T12:50:49+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://blog.ivrpowers.com/post/news/linkedin-article2/</loc>
+    <lastmod>2017-09-20T11:30:18+02:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://blog.ivrpowers.com/post/contactcenter/contact-center-videortc/</loc>
     <lastmod>2017-09-19T12:36:01+02:00</lastmod>
   </url>
@@ -434,7 +444,7 @@
   
   <url>
     <loc>http://blog.ivrpowers.com/tags/api/</loc>
-    <lastmod>2017-09-05T10:00:00+02:00</lastmod>
+    <lastmod>2017-09-20T11:30:18+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -464,7 +474,7 @@
   
   <url>
     <loc>http://blog.ivrpowers.com/tags/businessstrategy/</loc>
-    <lastmod>2017-09-18T12:00:08+02:00</lastmod>
+    <lastmod>2017-09-20T11:30:18+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -482,6 +492,12 @@
   <url>
     <loc>http://blog.ivrpowers.com/tags/cctr/</loc>
     <lastmod>2017-07-09T00:20:05+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://blog.ivrpowers.com/tags/cloud/</loc>
+    <lastmod>2017-09-20T12:50:49+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -685,7 +701,7 @@
   
   <url>
     <loc>http://blog.ivrpowers.com/categories/news/</loc>
-    <lastmod>2017-09-18T12:00:08+02:00</lastmod>
+    <lastmod>2017-09-20T11:30:18+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -715,7 +731,7 @@
   
   <url>
     <loc>http://blog.ivrpowers.com/post/</loc>
-    <lastmod>2017-09-19T12:36:01+02:00</lastmod>
+    <lastmod>2017-09-20T12:50:49+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -727,13 +743,19 @@
   
   <url>
     <loc>http://blog.ivrpowers.com/tags/rtc/</loc>
-    <lastmod>2017-09-19T12:36:01+02:00</lastmod>
+    <lastmod>2017-09-20T12:50:49+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://blog.ivrpowers.com/tags/rtmp/</loc>
     <lastmod>2017-08-21T14:00:00+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://blog.ivrpowers.com/tags/saas/</loc>
+    <lastmod>2017-09-20T12:50:49+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -805,7 +827,7 @@
   
   <url>
     <loc>http://blog.ivrpowers.com/tags/</loc>
-    <lastmod>2017-09-05T10:00:00+02:00</lastmod>
+    <lastmod>2017-09-20T11:30:18+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -835,7 +857,7 @@
   
   <url>
     <loc>http://blog.ivrpowers.com/categories/trends/</loc>
-    <lastmod>2017-09-07T22:00:00+02:00</lastmod>
+    <lastmod>2017-09-20T12:50:49+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -871,7 +893,7 @@
   
   <url>
     <loc>http://blog.ivrpowers.com/tags/videortc/</loc>
-    <lastmod>2017-09-19T12:36:01+02:00</lastmod>
+    <lastmod>2017-09-20T11:30:18+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -883,7 +905,7 @@
   
   <url>
     <loc>http://blog.ivrpowers.com/tags/voicexml/</loc>
-    <lastmod>2017-09-07T22:00:00+02:00</lastmod>
+    <lastmod>2017-09-20T12:50:49+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -895,7 +917,7 @@
   
   <url>
     <loc>http://blog.ivrpowers.com/tags/webrtc/</loc>
-    <lastmod>2017-09-18T12:00:08+02:00</lastmod>
+    <lastmod>2017-09-20T11:30:18+02:00</lastmod>
     <priority>0</priority>
   </url>
   
