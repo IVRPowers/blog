@@ -1,8 +1,8 @@
 +++
 categories = ["trends"]
-date = "2017-09-15T12:50:49+02:00"
+date = "2017-09-20T12:50:49+02:00"
 description = "Cost Saving, Efficiency and Flexibility"
-draft = true
+draft = false
 tags = ["cloud","saas","voicexml","rtc"]
 title = "3 Reasons to embrace Cloud Hosting"
 image = "/postimages/trends/ivrpowers-posts-01.025.jpeg"

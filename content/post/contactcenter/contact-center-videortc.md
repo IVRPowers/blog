@@ -1,8 +1,8 @@
 +++
 categories = ["contactcenter"]
-date = "2017-09-15T12:36:01+02:00"
-description = "Beneficts"
-draft = true
+date = "2017-09-19T12:36:01+02:00"
+description = "Benefits"
+draft = false
 tags = ["videortc","contactcenter","custexp","rtc"]
 title = "Does VideoRTC fit in my Contact Center?"
 image = "/postimages/technologies/ivrpowers-posts-01.186.jpeg"
@@ -30,7 +30,7 @@ Customers are more satisfied because **they do not have to waste time**, first, 
  
 Structure of traditional call centers also changes as a consequence of new clients’ demands. Functions of contact centers have shifted, they do not just receive and handle inbound calls, but many communication methods, data and applications are combined. However, [WebRTC makes it possible](http://blog.ivrpowers.com/post/marketing/webrtc-system-benefits/ ) to manage **all new aspects through a centralized interface**. It connects the gaps between the different channels, simplifies upgrades and reduces costs.
  
-Customer support and contact centers have to transform their channels and [WebRTC technology can make the difference for your Business.](http://blog.ivrpowers.com/post/trends/webrtc-trending-technology-business/). It helps companies easily adapt to new trends and demands and makes it possible **to provide remarkable customer experiences**. For more information about our [VideoRTC](http://blog.ivrpowers.com/post/products/video-rtc/) solutions for your Contact Center, please contact us.
+Customer support and contact centers have to transform their channels and [WebRTC technology can make the difference for your Business.](http://blog.ivrpowers.com/post/trends/webrtc-trending-technology-business/) It helps companies easily adapt to new trends and demands and makes it possible **to provide remarkable customer experiences**. For more information about our [VideoRTC](http://blog.ivrpowers.com/post/products/video-rtc/) solutions for your Contact Center, please contact us.
 
 ---
 [Interactive Powers](http://www.ivrpowers.com/ ) - Streamline your business communications
