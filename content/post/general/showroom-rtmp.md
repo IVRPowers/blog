@@ -9,7 +9,7 @@ image = "/postimages/general/showroom-videortc-rtmp.jpeg"
 
 +++
 
-![Video RTC Gateway (RTMP)](/postimages/general/showroom-videortc-rtmp.jpeg)
+![Video RTC Gateway (RTMP) ](/postimages/general/showroom-videortc-rtmp.jpeg)
 ---------
 ###### Photo source: Interactive Powers
 
