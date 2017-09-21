@@ -6,10 +6,23 @@
     <description>Recent content in Posts on Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 20 Sep 2017 12:50:49 +0200</lastBuildDate>
+    <lastBuildDate>Thu, 21 Sep 2017 00:00:50 +0200</lastBuildDate>
     
 	<atom:link href="http://blog.ivrpowers.com/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Showroom · Video RTC Gateway (RTMP)</title>
+      <link>http://blog.ivrpowers.com/post/general/showroom-videortc-rtmp/</link>
+      <pubDate>Thu, 21 Sep 2017 00:00:50 +0200</pubDate>
+      
+      <guid>http://blog.ivrpowers.com/post/general/showroom-videortc-rtmp/</guid>
+      <description>Photo source: Interactive Powers Request your Demo Get in touch today and meet online one of our sales consultant or manager. We will be pleased to show you our latest Video RTC Gateway (RTMP) features and applications.
+Showroom:
+http://www.ivrpowers.com/showroom/
+List of Use Cases (RTMP):
+ SPLIT Agent (SIP Connect) Playground (Flash Configurator) Click-to-call (Webclient) Documentation  Contact us To contact our Sales, you have to send a meeting request to schedule your online demo according to your business requirements.</description>
+    </item>
     
     <item>
       <title>3 Reasons to embrace Cloud Hosting</title>
