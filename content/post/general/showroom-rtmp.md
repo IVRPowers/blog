@@ -1,16 +1,15 @@
 +++
 categories = ["general"]
-date = "2017-09-21T00:00:50+02:00"
+date = "2017-09-21T15:00:42+02:00"
 description = "Request your demo"
 draft = false
-tags = ["ivrpowers", "showroom"]
+tags = ["ivrpowers","showroom"]
 title = "Showroom · Video RTC Gateway (RTMP)"
-image = "/postimages/general/Showroom-videortc-rtmp.jpeg"
-featured = false
+image = "/postimages/general/showroom-videortc-rtmp.jpeg"
 
 +++
 
-![Video RTC Gateway (RTMP)](/postimages/general/Showroom-videortc-rtmp.jpeg)
+![Video RTC Gateway (RTMP)](/postimages/general/showroom-videortc-rtmp.jpeg)
 ---------
 ###### Photo source: Interactive Powers
 
@@ -43,5 +42,7 @@ To contact our Sales, you have to send a meeting request to schedule your online
 
 ---
 [Interactive Powers](http://www.ivrpowers.com/) - Streamline your business communications
+
+
 
 
