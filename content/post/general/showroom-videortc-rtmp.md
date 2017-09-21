@@ -5,12 +5,12 @@ description = "Request your demo"
 draft = false
 tags = ["ivrpowers", "showroom"]
 title = "Showroom · Video RTC Gateway (RTMP)"
-image = "/postimages/general/showroom-videortc-rtmp-inside.jpeg"
+image = "/postimages/general/showroom-videortc-rtmp.jpeg"
 featured = false
 
 +++
 
-![Video RTC Gateway (RTMP)](/postimages/general/showroom-videortc-rtmp-inside.jpeg)
+![Video RTC Gateway (RTMP)](/postimages/general/showroom-videortc-rtmp.jpeg)
 ---------
 ###### Photo source: Interactive Powers
 
