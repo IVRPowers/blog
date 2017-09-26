@@ -1,8 +1,8 @@
 +++
 categories = ["technologies"]
-date = "2017-09-15T12:06:30+02:00"
+date = "2017-09-26T12:06:30+02:00"
 description = "Protection of Sensitive Data must Be a Priority"
-draft = true
+draft = false
 tags = ["security","webrtc","data","businesstrategy","srtp"]
 title = "The Security Factor"
 image = "/postimages/technologies/ivrpowers-posts-01.183.jpeg"
@@ -26,7 +26,7 @@ The most popular free video conferencing tools do not provide protection of comm
 
 ### Some steps to increase security
  
-At Interactive Powers we are aware of security concerns and **our solutions include critical features to guarantee private communications.** As WebRTC is embedded in browsers, you avoid malware that may come package with plugin downloads. Data flows are encrypted, authenticated by the SRTP (Secure Real-Time Transport Protocol) and the end user must grant an explicit permission to access their cameras and microphones.
+At Interactive Powers we are aware of security concerns and **our solutions include critical features to guarantee private communications.** As [WebRTC](http://blog.ivrpowers.com/post/technologies/what-is-webrtc/) is embedded in browsers, you avoid malware that may come package with plugin downloads. Data flows are encrypted, authenticated by the SRTP (Secure Real-Time Transport Protocol) and the end user must grant an explicit permission to access their cameras and microphones.
  
 Do not forget that **a security environment adds a significant value** to your business as well. Growing concerns of customers about privacy makes addressing security needs a differentiator.
 
