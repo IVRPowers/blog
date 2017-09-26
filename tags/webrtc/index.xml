@@ -6,10 +6,19 @@
     <description>Recent content in Webrtc on Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 20 Sep 2017 11:30:18 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 26 Sep 2017 12:06:30 +0200</lastBuildDate>
     
 	<atom:link href="http://blog.ivrpowers.com/tags/webrtc/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>The Security Factor</title>
+      <link>http://blog.ivrpowers.com/post/technologies/security-factor/</link>
+      <pubDate>Tue, 26 Sep 2017 12:06:30 +0200</pubDate>
+      
+      <guid>http://blog.ivrpowers.com/post/technologies/security-factor/</guid>
+      <description>Photo Source: Pixabay, Creative Commons Security tops the list on concerns about IoT. Considering the risks of new exposed system vulnerabilities and the increasing scope and scale of breaches, security is more important than ever. In fact, uncertainty about which device provides privacy and security has become a hindrance to purchasing an IoT device. But despite the increasing concerns among consumers, researches show that security is still one of the major challenges that companies need to deal with.</description>
+    </item>
     
     <item>
       <title>Businesses need to Face Digital Challenges</title>
