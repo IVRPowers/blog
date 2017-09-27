@@ -1,8 +1,8 @@
 +++
 categories = ["news"]
-date = "2017-09-18T12:04:26+02:00"
+date = "2017-09-27T12:04:26+02:00"
 description = "Advanced Channels to Improve your Business"
-draft = true
+draft = false
 tags = ["webrtc","ivr","custexp","videortc"]
 title = "Video is Transforming Contact Centers"
 image = "/postimages/news/articulo3.jpg"
