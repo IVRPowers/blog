@@ -1,15 +1,15 @@
 +++
 categories = ["technologies"]
-date = "2017-09-27T09:00:00+02:00"
-description = "Technology Testing"
-draft = true
+date = "2017-09-27T21:00:00+02:00"
+description = "Technology Update"
+draft = false
 tags = ["webrtc","videortc", "safari", "apple"]
-title = "Video RTC (WebRTC): Safari 11 versus Chrome 61"
-image = "/postimages/technologies/safari-apple-webrtc.009.jpeg"
+title = "Working on Safari 11 for Video RTC"
+image = "/postimages/technologies/safari-apple-webrtc.002.jpeg"
 comments = true
 +++
 
-![Video RTC Safari Chrome](/postimages/technologies/safari-apple-webrtc.009.jpeg)
+![Video RTC Safari Chrome](/postimages/technologies/safari-apple-webrtc.002.jpeg)
 ---------
 ###### Image source: Interactive Powers' elaboration
 
@@ -18,7 +18,7 @@ comments = true
 
 **Interactive Powers is proud to announce [Video RTC](http://blog.ivrpowers.com/post/products/video-rtc/) support for Safari 11 over MacOS and iOS**. It was a demand from all the market for a long time, know it becomes a reality past week. Safari 11 works fine on the basis of [WebRTC](http://blog.ivrpowers.com/post/technologies/what-is-webrtc/) to allow Apple users community to connect most features but with some specific web browser limitations that we will comment shortly...
 
-We are please to share in advance some screenshots of our Video RTC 3.0 preview running a[SPLIT](http://blog.ivrpowers.com/post/technologies/what-is-split/) connection with **Safari 11** over H.264 compare to **Chrome 61** running with the same codec instead of VP8. For the [Pop-up Agent](http://blog.ivrpowers.com/post/products/video-rtc-pop-up-agent/) side no significant changes are required.
+We are please to share in advance some screenshots of our Video RTC 2.2-3.0 preview running a [SPLIT](http://blog.ivrpowers.com/post/technologies/what-is-split/) connection with **Safari 11** over H.264 compare to **Chrome 61** running with the same codec instead of VP8. For the [Pop-up Agent](http://blog.ivrpowers.com/post/products/video-rtc-pop-up-agent/) side no significant changes are required.
 
 ##	Video RTC · Safari 11
 
