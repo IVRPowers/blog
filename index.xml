@@ -31,6 +31,15 @@ Interactive Powers delivers communication platforms that enables advanced real-t
     </item>
     
     <item>
+      <title>Working on Safari 11 for Video RTC</title>
+      <link>http://blog.ivrpowers.com/post/technologies/videortc-safari11/</link>
+      <pubDate>Wed, 27 Sep 2017 21:00:00 +0200</pubDate>
+      
+      <guid>http://blog.ivrpowers.com/post/technologies/videortc-safari11/</guid>
+      <description>Image source: Interactive Powers&amp;rsquo; elaboration The Video RTC Gateway, Now ready run with Apple Safari 11 over MacOS computers and iOS devices Interactive Powers is proud to announce Video RTC support for Safari 11 over MacOS and iOS. It was a demand from all the market for a long time, know it becomes a reality past week. Safari 11 works fine on the basis of WebRTC to allow Apple users community to connect most features but with some specific web browser limitations that we will comment shortly&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>Video is Transforming Contact Centers</title>
       <link>http://blog.ivrpowers.com/post/news/linkedin-article3/</link>
       <pubDate>Wed, 27 Sep 2017 12:04:26 +0200</pubDate>
@@ -127,6 +136,16 @@ List of Use Cases (WebRTC):
       <guid>http://blog.ivrpowers.com/post/coding/videortc-build-mobile-app/</guid>
       <description>Photo Source: Interactive Powers, Pexels. Creative Commons In this post we will show you how to build a video call service in your mobile by using the Ionic Framework 2 and VideoRTC.js.
 Step 1: Setting up the basic structure Firstly, you need to install a project Ionic in your system. If you don’t have it, you can download and follow the official guide from the Ionic Framework 2 web site.</description>
+    </item>
+    
+    <item>
+      <title>Industries · Healthcare</title>
+      <link>http://blog.ivrpowers.com/post/products/industries-healthcare/</link>
+      <pubDate>Sat, 09 Sep 2017 00:20:05 +0200</pubDate>
+      
+      <guid>http://blog.ivrpowers.com/post/products/industries-healthcare/</guid>
+      <description>Photo source: Flickr. Creative Commons
+Overview Video and voice communications over the Internet are changing the relations among patients and physicians. On the one hand, telemedicine is an emergent industry which makes it possible to expand services offered by health institutions, while it helps to solve some of the current economic problems faced by hospitals. On the other hand, within minutes, patients will have the opportunity to receive medical care from anywhere and they will avoid spending time in the doctor&amp;rsquo;s waiting room.</description>
     </item>
     
     <item>
