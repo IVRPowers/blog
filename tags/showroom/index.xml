@@ -6,10 +6,23 @@
     <description>Recent content in Showroom on Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 21 Sep 2017 15:00:42 +0200</lastBuildDate>
+    <lastBuildDate>Thu, 28 Sep 2017 11:06:30 +0200</lastBuildDate>
     
 	<atom:link href="http://blog.ivrpowers.com/tags/showroom/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Showroom · VoiceXML IVR</title>
+      <link>http://blog.ivrpowers.com/post/general/showroom-voicexml-ivr/</link>
+      <pubDate>Thu, 28 Sep 2017 11:06:30 +0200</pubDate>
+      
+      <guid>http://blog.ivrpowers.com/post/general/showroom-voicexml-ivr/</guid>
+      <description>Photo source: Interactive Powers Request your Demo Get in touch today and meet online one of our sales consultant or manager. We will be pleased to show you our latest VoiceXML IVR features and applications.
+Showroom:
+http://www.ivrpowers.com/showroom/
+List of main features (VoiceXML):
+ Dashboard VoiceXML editor Applications SIP Connectivity Speech Connectors CDR Reporting Settings Logs  Contact us To contact our Sales, you have to send a meeting request to schedule your online demo according to your business requirements.</description>
+    </item>
     
     <item>
       <title>Showroom · Video RTC Gateway (RTMP)</title>

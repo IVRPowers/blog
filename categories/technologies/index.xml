@@ -6,10 +6,19 @@
     <description>Recent content in Technologies on Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 27 Sep 2017 21:00:00 +0200</lastBuildDate>
+    <lastBuildDate>Thu, 28 Sep 2017 11:05:38 +0200</lastBuildDate>
     
 	<atom:link href="http://blog.ivrpowers.com/categories/technologies/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>What is a Kiosk?</title>
+      <link>http://blog.ivrpowers.com/post/technologies/what-is-kiosk/</link>
+      <pubDate>Thu, 28 Sep 2017 11:05:38 +0200</pubDate>
+      
+      <guid>http://blog.ivrpowers.com/post/technologies/what-is-kiosk/</guid>
+      <description>Image source: Mattes. Creative Commons An interactive kiosk is a computer terminal that is placed in a public setting. The aim of a kiosk is to provide information to customers and users. They have an integrated touch screen, usually with a user-friendly interface to facilitate interactions. Thanks to computing technology it is possible to offer a wide range of functions and applications, from brand information, to product catalogues or real-time interactions with sales consultants.</description>
+    </item>
     
     <item>
       <title>Working on Safari 11 for Video RTC</title>
