@@ -31,7 +31,7 @@ What is important to know currently is which are the **limits or real possibilit
 
 WebRTC is here for both, desktop Safari 11 (MacOS Sierra iMac & Macbook) and mobile Safari (most iPhone and iPad upgraded to iOS 11). That's really great news!
 
-###### Sources: https://www.commstrader.com/news/blog/one-apple-announcement-just-impacted-way-will-talk-customers/ and https://bloggeek.me/webrtc-ios-support/
+
 
 ---
 [Interactive Powers](http://www.ivrpowers.com/ ) - Streamline your business communications
