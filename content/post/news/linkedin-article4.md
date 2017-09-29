@@ -11,7 +11,7 @@ image = "/postimages/news/articulo4.jpg"
 
 ![article4](/postimages/news/articulo4.jpg)
 ------------
-###### Photo Source: Shutterstock licensed to Interactive Powers
+###### Photo Source: Interactive Powers
 
 ###	Ivan Sixto  
 **Founder, CEO, Business Development**  
