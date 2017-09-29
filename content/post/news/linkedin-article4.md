@@ -1,8 +1,8 @@
 +++
 categories = ["news"]
-date = "2017-09-18T13:10:33+02:00"
+date = "2017-09-29T13:02:33+02:00"
 description = "Benefits from Digitalisation"
-draft = true
+draft = false
 tags = ["omnichannel","contactcenter","custexp","videortc"]
 title = "Digital Transformation: Doors of Opportunity for Contact Centers"
 image = "/postimages/news/articulo4.jpg"

@@ -1,8 +1,8 @@
 +++
 categories = ["news"]
-date = "2017-09-28T13:09:34+02:00"
+date = "2017-09-29T13:09:34+02:00"
 description = "Limits and Possibilities"
-draft = true
+draft = false
 tags = ["apple","webrtc","browser"]
 title = "WebRTC on Safari11 for MacOS and iOS"
 image = "/postimages/news/safari-apple-webrtc.001.jpeg"
@@ -31,12 +31,11 @@ What is important to know currently is which are the **limits or real possibilit
 
 WebRTC is here for both, desktop Safari 11 (MacOS Sierra iMac & Macbook) and mobile Safari (most iPhone and iPad upgraded to iOS 11). That's really great news!
 
-
+###### Sources: https://www.commstrader.com/news/blog/one-apple-announcement-just-impacted-way-will-talk-customers/ and https://bloggeek.me/webrtc-ios-support/
 
 ---
 [Interactive Powers](http://www.ivrpowers.com/ ) - Streamline your business communications
 
 
 
-Sources:
-https://www.commstrader.com/news/blog/one-apple-announcement-just-impacted-way-will-talk-customers/ and https://bloggeek.me/webrtc-ios-support/
+

@@ -31,14 +31,11 @@ The challenge appears when trying to run a multicast (like Videoroom). While H.2
 
 Right now the Datachannel seems to work but it may be not very stable according to several developers. One of things that are not available is the Screensharing options. This situation is really sad because currently Apple's users cannot have a complete experience with any [RTC](http://blog.ivrpowers.com/post/technologies/what-is-rtc/) solution.
 
+###### Sources: https://www.commstrader.com/news/blog/one-apple-announcement-just-impacted-way-will-talk-customers/ and https://bloggeek.me/webrtc-ios-support/
+
 
 ---
 [Interactive Powers](http://www.ivrpowers.com/ ) - Streamline your business communications
 
-
-
-Sources:
-https://www.commstrader.com/news/blog/one-apple-announcement-just-impacted-way-will-talk-customers/ and
-https://bloggeek.me/webrtc-ios-support/
 
 
