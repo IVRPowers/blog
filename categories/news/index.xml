@@ -6,10 +6,30 @@
     <description>Recent content in News on Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 27 Sep 2017 12:04:26 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 29 Sep 2017 13:09:34 +0200</lastBuildDate>
     
 	<atom:link href="http://blog.ivrpowers.com/categories/news/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>WebRTC on Safari11 for MacOS and iOS</title>
+      <link>http://blog.ivrpowers.com/post/news/webrtc-safari11/</link>
+      <pubDate>Fri, 29 Sep 2017 13:09:34 +0200</pubDate>
+      
+      <guid>http://blog.ivrpowers.com/post/news/webrtc-safari11/</guid>
+      <description>Image source: Interactive Powers&amp;rsquo; elaboration At past WWDC 2017 in San Jose, California, Apple announced that it will include support for WebRTC in Safari 11 and WebKit for all iOS 11 and MacOS Sierra devices. Until now, 80% of all browsers supported WebRTC including Firefox and Chrome. Regarding Safari it grows to 95%. Apple’s announcement gives companies that use WebRTC applications and tools, such as our VideoRTC solutions, a broader range for choice and flexibility over which browser their rich multimedia communications services are delivered.</description>
+    </item>
+    
+    <item>
+      <title>Digital Transformation: Doors of Opportunity for Contact Centers</title>
+      <link>http://blog.ivrpowers.com/post/news/linkedin-article4/</link>
+      <pubDate>Fri, 29 Sep 2017 13:02:33 +0200</pubDate>
+      
+      <guid>http://blog.ivrpowers.com/post/news/linkedin-article4/</guid>
+      <description>Photo Source: Shutterstock licensed to Interactive Powers Ivan Sixto Founder, CEO, Business Development
+Follow me on Linkedin
+All interactions cannot be managed by bots, since users, when facing with certain problems, need to contact a real agent. If consumer is not allowed to communicate with a person, it leads to frustration and the relation client-company is seriously damaged. At this point, video offers contact centers the possibility of developing a very differential customer experience management.</description>
+    </item>
     
     <item>
       <title>Video is Transforming Contact Centers</title>

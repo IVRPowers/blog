@@ -6,10 +6,19 @@
     <description>Recent content in Webrtc on Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 27 Sep 2017 21:00:00 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 29 Sep 2017 13:09:34 +0200</lastBuildDate>
     
 	<atom:link href="http://blog.ivrpowers.com/tags/webrtc/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>WebRTC on Safari11 for MacOS and iOS</title>
+      <link>http://blog.ivrpowers.com/post/news/webrtc-safari11/</link>
+      <pubDate>Fri, 29 Sep 2017 13:09:34 +0200</pubDate>
+      
+      <guid>http://blog.ivrpowers.com/post/news/webrtc-safari11/</guid>
+      <description>Image source: Interactive Powers&amp;rsquo; elaboration At past WWDC 2017 in San Jose, California, Apple announced that it will include support for WebRTC in Safari 11 and WebKit for all iOS 11 and MacOS Sierra devices. Until now, 80% of all browsers supported WebRTC including Firefox and Chrome. Regarding Safari it grows to 95%. Apple’s announcement gives companies that use WebRTC applications and tools, such as our VideoRTC solutions, a broader range for choice and flexibility over which browser their rich multimedia communications services are delivered.</description>
+    </item>
     
     <item>
       <title>Working on Safari 11 for Video RTC</title>
