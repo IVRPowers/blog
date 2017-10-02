@@ -4,7 +4,7 @@ date = "2017-09-30T00:20:05+02:00"
 description = "Video RTC"
 draft = true
 tags = ["videortc","telehealth","healthcare","videoconferencing"]
-title = "Healthcare · Beneficts"
+title = "Healthcare · Benefits"
 image = "/postimages/products/ivrpowers-posts-01.190.jpeg"
 +++
 
