@@ -6,10 +6,19 @@
     <description>Recent content in Posts on Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 29 Sep 2017 13:09:34 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 03 Oct 2017 00:20:05 +0200</lastBuildDate>
     
 	<atom:link href="http://blog.ivrpowers.com/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Healthcare · Industry</title>
+      <link>http://blog.ivrpowers.com/post/industries/industries-healthcare/</link>
+      <pubDate>Tue, 03 Oct 2017 00:20:05 +0200</pubDate>
+      
+      <guid>http://blog.ivrpowers.com/post/industries/industries-healthcare/</guid>
+      <description>Photo source: Flickr. Creative Commons Telehealth Market will reach $1,9 billion by 2018 Video and Voice Real-Time communications over the Internet are changing the relations among patients and physicians. On the one hand, telemedicine is an emergent industry which makes it possible to expand services offered by health institutions, while it helps to solve some of the current economic problems faced by hospitals. On the other hand, within minutes, patients will have the opportunity to receive medical care from anywhere and they will avoid spending time in the doctor&amp;rsquo;s waiting room.</description>
+    </item>
     
     <item>
       <title>WebRTC on Safari11 for MacOS and iOS</title>
