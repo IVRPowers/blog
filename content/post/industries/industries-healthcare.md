@@ -1,8 +1,8 @@
 +++
 categories = ["products"]
-date = "2017-09-30T00:20:05+02:00"
+date = "2017-10-03T00:20:05+02:00"
 description = "Video RTC"
-draft = true
+draft = false
 tags = ["videortc","telehealth","healthcare","videoconferencing"]
 title = "Healthcare · Industry"
 image = "/postimages/industries/ivrpowers-industries.005.jpeg"
@@ -15,7 +15,7 @@ image = "/postimages/industries/ivrpowers-industries.005.jpeg"
 # Telehealth Market will reach $1,9 billion by 2018
 ---
 
-Video and Voice Real-Time communications over the Internet are changing the relations among patients and physicians. On the one hand, telemedicine is an emergent industry which makes it possible to expand services offered by health institutions, while it helps to **solve some of the current economic problems** faced by hospitals. On the other hand, within minutes, patients will have the opportunity to **receive medical care from anywhere** and they will avoid spending time in the doctor's waiting room.
+Video and Voice Real-Time communications over the Internet are [changing the relations among patients and physicians.](http://blog.ivrpowers.com/post/healthcare/next-doctor-appointment/) On the one hand, telemedicine is an emergent industry which makes it possible to expand services offered by health institutions, while it helps to **solve some of the current economic problems** faced by hospitals. On the other hand, within minutes, patients will have the opportunity to **receive medical care from anywhere** and they will avoid spending time in the doctor's waiting room.
 
 
 ## Video RTC · Business Cases
