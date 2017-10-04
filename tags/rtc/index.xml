@@ -59,8 +59,10 @@ Pop-up Agent functionality is easily configurable with a set of buttons and tool
       <pubDate>Fri, 01 Sep 2017 11:59:22 +0200</pubDate>
       
       <guid>http://blog.ivrpowers.com/post/coding/videortc-build-videocall/</guid>
-      <description>Photo Source: Interactive Powers, Pexels. Creative Commons  Warning: Some of the codes are not correctly displayed in browsers with the Chrome 61 version. To view them properly, use another browser.  In this post we will show you how to build your videocall service based on HTML5 technology by using our API Framework with VideoRTC.js.
-Step 1: Setting up the basic structure Firstly, you will need to include dependency within your project or web page:</description>
+      <description>Photo Source: Interactive Powers, Pexels. Creative Commons In this post we will show you how to build your videocall service based on HTML5 technology by using our API Framework with VideoRTC.js.
+Step 1: Setting up the basic structure Firstly, you will need to include dependency within your project or web page:
+&amp;lt;script type=&amp;quot;text/javascript&amp;quot; src=&amp;quot;videortc.js&amp;quot;&amp;gt;&amp;lt;/script&amp;gt;  You can insert a minimized version if you prefer so:
+&amp;lt;script type=&amp;quot;text/javascript&amp;quot; src=&amp;quot;videortc.min.js&amp;quot;&amp;gt;&amp;lt;/script&amp;gt;  Next, we connect with the video gateway server:</description>
     </item>
     
     <item>

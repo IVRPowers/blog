@@ -36,8 +36,9 @@ Interactive Powers delivers communication platforms that enables advanced real-t
       <pubDate>Wed, 04 Oct 2017 10:45:24 +0200</pubDate>
       
       <guid>http://blog.ivrpowers.com/post/coding/videortc-build-videoconference/</guid>
-      <description>Photo Source: Interactive Powers, Pexels. Creative Commons  Warning: Some of the codes are not correctly displayed in browsers with the Chrome 61 version. To view them properly, use another browser.  Today we bring you this interesting article on How to build your own videoconference service based on HTML5 technology by using our API Framework with VideoRTC.js.
-Step one: Setting up the basic structure As we have explained in previous posts, first of all it is important that you include dependency within your project or web page.</description>
+      <description>Photo Source: Interactive Powers, Pexels. Creative Commons Today we bring you this interesting article on How to build your own videoconference service based on HTML5 technology by using our API Framework with VideoRTC.js.
+Step one: Setting up the basic structure As we have explained in previous posts, first of all it is important that you include dependency within your project or web page.
+&amp;lt;script type=&amp;quot;text/javascript&amp;quot; src=&amp;quot;videortc.js&amp;quot;&amp;gt;&amp;lt;/script&amp;gt;  You can insert a minimized version if you prefer so:</description>
     </item>
     
     <item>
@@ -195,8 +196,8 @@ List of Use Cases (WebRTC):
       <pubDate>Mon, 11 Sep 2017 10:45:24 +0200</pubDate>
       
       <guid>http://blog.ivrpowers.com/post/coding/videortc-build-mobile-app/</guid>
-      <description>Photo Source: Interactive Powers, Pexels. Creative Commons  Warning: Some of the codes are not correctly displayed in browsers with the Chrome 61 version. To view them properly, use another browser.  In this post we will show you how to build a video call service in your mobile by using the Ionic Framework 2 and VideoRTC.js.
-Step 1: Setting up the basic structure Firstly, you need to install a project Ionic in your system.</description>
+      <description>Photo Source: Interactive Powers, Pexels. Creative Commons In this post we will show you how to build a video call service in your mobile by using the Ionic Framework 2 and VideoRTC.js.
+Step 1: Setting up the basic structure Firstly, you need to install a project Ionic in your system. If you don’t have it, you can download and follow the official guide from the Ionic Framework 2 web site.</description>
     </item>
     
     <item>
@@ -246,8 +247,10 @@ API Framework feature enables developers to design new APIs or edit existing one
       <pubDate>Fri, 01 Sep 2017 11:59:22 +0200</pubDate>
       
       <guid>http://blog.ivrpowers.com/post/coding/videortc-build-videocall/</guid>
-      <description>Photo Source: Interactive Powers, Pexels. Creative Commons  Warning: Some of the codes are not correctly displayed in browsers with the Chrome 61 version. To view them properly, use another browser.  In this post we will show you how to build your videocall service based on HTML5 technology by using our API Framework with VideoRTC.js.
-Step 1: Setting up the basic structure Firstly, you will need to include dependency within your project or web page:</description>
+      <description>Photo Source: Interactive Powers, Pexels. Creative Commons In this post we will show you how to build your videocall service based on HTML5 technology by using our API Framework with VideoRTC.js.
+Step 1: Setting up the basic structure Firstly, you will need to include dependency within your project or web page:
+&amp;lt;script type=&amp;quot;text/javascript&amp;quot; src=&amp;quot;videortc.js&amp;quot;&amp;gt;&amp;lt;/script&amp;gt;  You can insert a minimized version if you prefer so:
+&amp;lt;script type=&amp;quot;text/javascript&amp;quot; src=&amp;quot;videortc.min.js&amp;quot;&amp;gt;&amp;lt;/script&amp;gt;  Next, we connect with the video gateway server:</description>
     </item>
     
     <item>
