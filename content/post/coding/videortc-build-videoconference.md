@@ -14,7 +14,6 @@ image = "/postimages/coding/ivrpowers-videortc-features.033.jpeg"
 ------------
 ###### Photo Source: Interactive Powers, Pexels. Creative Commons
 
-> ###### Warning: Some of the codes are not correctly displayed in browsers with the Chrome 61 version. To view them properly, use another browser.
 
 
 Today we bring you this interesting article on How to build your own videoconference service **based on HTML5 technology by using our API Framework with VideoRTC.js.**

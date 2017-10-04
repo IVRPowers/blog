@@ -14,9 +14,6 @@ image = "/postimages/coding/ivrpowers-videortc-features.033.jpeg"
 ###### Photo Source: Interactive Powers, Pexels. Creative Commons
 
 
-> ###### Warning: Some of the codes are not correctly displayed in browsers with the Chrome 61 version. To view them properly, use another browser.
-
-
 In this post we will show you how to build your videocall service based on HTML5 technology by using our API Framework with [VideoRTC.js](http://blog.ivrpowers.com/post/development/introducing-videortcjs-developers/).
 
 ## Step 1: Setting up the basic structure

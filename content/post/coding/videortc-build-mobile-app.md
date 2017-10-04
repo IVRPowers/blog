@@ -15,7 +15,6 @@ image = "/postimages/coding/ivrpowers-videortc-features.033.jpeg"
 ###### Photo Source: Interactive Powers, Pexels. Creative Commons
 
 
-> ###### Warning: Some of the codes are not correctly displayed in browsers with the Chrome 61 version. To view them properly, use another browser.
 
 
 In this post we will show you how to build a video call service in your mobile by using the [Ionic Framework 2](http://ionicframework.com/) and [VideoRTC.js](http://blog.ivrpowers.com/post/development/introducing-videortcjs-developers/).
