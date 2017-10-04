@@ -36,7 +36,7 @@ You can insert a minimized version if you prefer so:
 
 After the paths to the videoRTC library are configured in your *. js file, we connect with the video gateway server:
 
-~~~
+~~~javascript
 var server = ["https://example.com:HTTPS_PORT/webrtc-gateway"];
 var iceServers = [];
 var debugLevel = “error”;
