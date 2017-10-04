@@ -32,7 +32,7 @@ You can insert a minimized version if you prefer so:
 
 Next, we connect with the video gateway server:
 
-~~~
+~~~javascript
 var server = ["https://example.com:HTTPS_PORT/webrtc-gateway"];
 var iceServers = [];
 var debugLevel = “error”;
