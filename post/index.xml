@@ -171,6 +171,16 @@ Step 1: Setting up the basic structure Firstly, you need to install a project Io
     </item>
     
     <item>
+      <title>How to Build your Own Videoconference Service</title>
+      <link>http://blog.ivrpowers.com/post/coding/videortc-build-videoconference/</link>
+      <pubDate>Mon, 11 Sep 2017 10:45:24 +0200</pubDate>
+      
+      <guid>http://blog.ivrpowers.com/post/coding/videortc-build-videoconference/</guid>
+      <description>Photo Source: Interactive Powers, Pexels. Creative Commons  Warning: Some of the codes are not correctly displayed in browsers with the Chrome 61 version. To view them properly, use another browser.  Today we bring you this interesting article on How to build your own videoconference service based on HTML5 technology by using our API Framework with VideoRTC.js.
+Step one: Setting up the basic structure As we have explained in previous posts, first of all it is important that you include dependency within your project or web page.</description>
+    </item>
+    
+    <item>
       <title>Technavio: IVR market, will see a growth of around 13% between this year, and 2021</title>
       <link>http://blog.ivrpowers.com/post/trends/technavio-trend/</link>
       <pubDate>Thu, 07 Sep 2017 22:00:00 +0200</pubDate>
