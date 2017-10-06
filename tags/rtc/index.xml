@@ -6,10 +6,21 @@
     <description>Recent content in Rtc on Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 20 Sep 2017 12:50:49 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 06 Oct 2017 09:00:00 +0200</lastBuildDate>
     
 	<atom:link href="http://blog.ivrpowers.com/tags/rtc/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Video RTC (WebRTC) v3.0</title>
+      <link>http://blog.ivrpowers.com/post/updates/update-video-rtc-webrtc-3.0.0/</link>
+      <pubDate>Fri, 06 Oct 2017 09:00:00 +0200</pubDate>
+      
+      <guid>http://blog.ivrpowers.com/post/updates/update-video-rtc-webrtc-3.0.0/</guid>
+      <description>Release Note We are pleased to announce that our new Video RTC (Gateway WebRTC) v3.0.0 has been released for suitable production services. This new version includes a lot of improvements and new features. All users with previous maintained versions can upgrade today. Please contact our support!
+ChangeLog Version 3.0.0:
+## [3.0.0] - 2017-10-03 ### Added - Added a new usecase: Videocall - Added return button inside the usecases - Added list of platform extensions in the landing page ### Changed - Updated VideoRTC.</description>
+    </item>
     
     <item>
       <title>3 Reasons to embrace Cloud Hosting</title>

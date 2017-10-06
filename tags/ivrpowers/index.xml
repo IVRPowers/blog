@@ -31,6 +31,17 @@ Interactive Powers delivers communication platforms that enables advanced real-t
     </item>
     
     <item>
+      <title>Video RTC (WebRTC) v3.0</title>
+      <link>http://blog.ivrpowers.com/post/updates/update-video-rtc-webrtc-3.0.0/</link>
+      <pubDate>Fri, 06 Oct 2017 09:00:00 +0200</pubDate>
+      
+      <guid>http://blog.ivrpowers.com/post/updates/update-video-rtc-webrtc-3.0.0/</guid>
+      <description>Release Note We are pleased to announce that our new Video RTC (Gateway WebRTC) v3.0.0 has been released for suitable production services. This new version includes a lot of improvements and new features. All users with previous maintained versions can upgrade today. Please contact our support!
+ChangeLog Version 3.0.0:
+## [3.0.0] - 2017-10-03 ### Added - Added a new usecase: Videocall - Added return button inside the usecases - Added list of platform extensions in the landing page ### Changed - Updated VideoRTC.</description>
+    </item>
+    
+    <item>
       <title>Showroom · VoiceXML IVR</title>
       <link>http://blog.ivrpowers.com/post/general/showroom-voicexml-ivr/</link>
       <pubDate>Thu, 28 Sep 2017 11:06:30 +0200</pubDate>

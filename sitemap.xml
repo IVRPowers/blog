@@ -13,6 +13,11 @@
   </url>
   
   <url>
+    <loc>http://blog.ivrpowers.com/post/updates/update-video-rtc-webrtc-3.0.0/</loc>
+    <lastmod>2017-10-06T09:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://blog.ivrpowers.com/post/coding/videortc-build-videoconference/</loc>
     <lastmod>2017-10-04T10:45:24+02:00</lastmod>
   </url>
@@ -805,7 +810,7 @@
   
   <url>
     <loc>http://blog.ivrpowers.com/post/</loc>
-    <lastmod>2017-10-04T10:45:24+02:00</lastmod>
+    <lastmod>2017-10-06T09:00:00+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -817,7 +822,7 @@
   
   <url>
     <loc>http://blog.ivrpowers.com/tags/rtc/</loc>
-    <lastmod>2017-09-20T12:50:49+02:00</lastmod>
+    <lastmod>2017-10-06T09:00:00+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -943,7 +948,7 @@
   
   <url>
     <loc>http://blog.ivrpowers.com/categories/updates/</loc>
-    <lastmod>2017-07-27T09:00:00+02:00</lastmod>
+    <lastmod>2017-10-06T09:00:00+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1003,7 +1008,7 @@
   
   <url>
     <loc>http://blog.ivrpowers.com/tags/webrtc/</loc>
-    <lastmod>2017-09-29T13:09:34+02:00</lastmod>
+    <lastmod>2017-10-06T09:00:00+02:00</lastmod>
     <priority>0</priority>
   </url>
   
