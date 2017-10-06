@@ -2,7 +2,7 @@
 categories = ["updates"]
 date = "2017-10-06T09:00:00+02:00"
 description = "Release Note"
-draft = false
+draft = true
 tags = ["webrtc","rtc", "ivrpowers"]
 title = "Video RTC (WebRTC) v3.0"
 image = "/postimages/updates/ivrpowers-posts-01.088.jpeg"
