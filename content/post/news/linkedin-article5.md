@@ -1,8 +1,8 @@
 +++
 categories = ["news"]
-date = "2017-09-19T12:45:02+02:00"
+date = "2017-10-09T12:45:02+02:00"
 description = "Voice Calls are Decreasing"
-draft = true
+draft = false
 tags = ["mobilephone","voicecall","trend"]
 title = "In Real-Time Communications the Phone won't be the King"
 image = "/postimages/news/articulo5.jpg"
