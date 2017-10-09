@@ -1,6 +1,6 @@
 +++
 categories = ["news"]
-date = "2017-10-09T12:45:02+02:00"
+date = "2017-10-09T10:45:02+02:00"
 description = "Voice Calls are Decreasing"
 draft = false
 tags = ["mobilephone","voicecall","trend"]
