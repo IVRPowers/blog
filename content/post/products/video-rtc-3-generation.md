@@ -19,7 +19,7 @@ The third generation of our flagship [RTC](http://blog.ivrpowers.com/post/techno
 
 ##	Welcome to Video RTC 3.0!
 
-This [new version](http://blog.ivrpowers.com/post/updates/update-video-rtc-webrtc-3.0.0/) is the result of teamwork and great user experience. Video RTC 3.0 provides more features, better performance with an upgrade of the best embedded WebRTC technology.
+[This new version](http://blog.ivrpowers.com/post/updates/update-video-rtc-webrtc-3.0.0/) is the result of teamwork and great user experience. Video RTC 3.0 provides more features, better performance with an upgrade of the best embedded WebRTC technology.
 
 > Video RTC (WebRTC) Version 3.0 has been released in October, 3 2017.
 
