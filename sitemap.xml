@@ -13,6 +13,11 @@
   </url>
   
   <url>
+    <loc>http://blog.ivrpowers.com/post/news/linkedin-article5/</loc>
+    <lastmod>2017-10-09T12:45:02+02:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://blog.ivrpowers.com/post/updates/update-video-rtc-webrtc-3.0.0/</loc>
     <lastmod>2017-10-06T09:00:00+02:00</lastmod>
   </url>
@@ -773,6 +778,12 @@
   </url>
   
   <url>
+    <loc>http://blog.ivrpowers.com/tags/mobilephone/</loc>
+    <lastmod>2017-10-09T12:45:02+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://blog.ivrpowers.com/tags/mobility/</loc>
     <lastmod>2017-08-09T10:09:17+02:00</lastmod>
     <priority>0</priority>
@@ -780,7 +791,7 @@
   
   <url>
     <loc>http://blog.ivrpowers.com/categories/news/</loc>
-    <lastmod>2017-09-29T13:09:34+02:00</lastmod>
+    <lastmod>2017-10-09T12:45:02+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -810,7 +821,7 @@
   
   <url>
     <loc>http://blog.ivrpowers.com/post/</loc>
-    <lastmod>2017-10-06T09:00:00+02:00</lastmod>
+    <lastmod>2017-10-09T12:45:02+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -936,7 +947,7 @@
   
   <url>
     <loc>http://blog.ivrpowers.com/tags/trend/</loc>
-    <lastmod>2017-09-07T22:00:00+02:00</lastmod>
+    <lastmod>2017-10-09T12:45:02+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -985,6 +996,12 @@
   <url>
     <loc>http://blog.ivrpowers.com/tags/videortc/</loc>
     <lastmod>2017-10-04T10:45:24+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://blog.ivrpowers.com/tags/voicecall/</loc>
+    <lastmod>2017-10-09T12:45:02+02:00</lastmod>
     <priority>0</priority>
   </url>
   
