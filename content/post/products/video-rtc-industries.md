@@ -21,7 +21,7 @@ Discover how organizations like yours are integrating live-video, voice, and mes
 Contact Centers continue to evolve rapidly as consumers expect a **highly personalized and engaging experience.** RTC technology will help you to differentiate your Call Center. It allows to provide immediate assistance and support through different channels, increasing customer satisfaction.
 
 ## Healthcare.
-Patients and physicians can remotely connect in real time around the world thanks to RTC technology. Telemedicine can be **crucial to increase the number of patients** that can access to healthcare services. It also ensures that hospitals can reduce cost while preserving the quality of care.
+Patients and physicians can remotely connect in real time around the world thanks to RTC technology. Telemedicine can be **crucial to increase the number of patients** that can access to healthcare services. It also ensures that hospitals can reduce cost while preserving the quality of care. [Learn more....](http://blog.ivrpowers.com/post/industries/industries-healthcare/)
 
 ## Financial Services.
 Video online onboarding provides customers a convenient and simple way to connect with their financial services. Real-time communications technology **ensures secure and personalized interactions.** It also extends opportunities of financial businesses to a wider audience.
