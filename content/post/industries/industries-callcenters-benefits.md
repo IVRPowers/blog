@@ -4,7 +4,7 @@ date = "2017-09-30T00:20:05+02:00"
 description = "Video RTC"
 draft = true
 tags = ["videortc","callcenters","contactcenter","videoconferencing"]
-title = "Call Centers · Industry"
+title = "Call Centers · Benefits"
 image = "/postimages/industries/ivrpowers-industries.002.jpeg"
 +++
 
