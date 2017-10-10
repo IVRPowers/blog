@@ -1,8 +1,8 @@
 +++
 categories = ["customerengagement"]
-date = "2017-10-09T12:16:22+02:00"
+date = "2017-10-10T12:16:22+02:00"
 description = "Efficiency and Cost Saving"
-draft = true
+draft = false
 tags = ["kiosk","webrtc","custexp","businessstrategy","videochat"]
 title = "4 Key Benefits of Interactive Kiosks"
 image = "/postimages/customerengagement/ivrpowers-kiosk.003.jpeg"
