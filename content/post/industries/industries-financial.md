@@ -1,8 +1,8 @@
 +++
 categories = ["products"]
-date = "2017-10-09T10:48:58+02:00"
+date = "2017-10-11T11:00:58+02:00"
 description = "Video RTC"
-draft = true
+draft = false
 tags = ["videortc","videoconferencing","businessstrategy"]
 title = "Financial Services · Industry"
 image = "/postimages/industries/ivrpowers-industries.007.jpeg"
@@ -25,7 +25,7 @@ Main Business Cases in Financial Services:
 
 * Expert advise
 * ATMs
-* Contracts
+* Signing Contracts
 
 
 ##	Video RTC · Benefits
