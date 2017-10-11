@@ -6,10 +6,21 @@
     <description>Recent content in Coding on Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 04 Oct 2017 10:45:24 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 11 Oct 2017 11:30:24 +0200</lastBuildDate>
     
 	<atom:link href="http://blog.ivrpowers.com/categories/coding/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>How to Add a Webphone Button in your Website</title>
+      <link>http://blog.ivrpowers.com/post/coding/webphonebutton-website/</link>
+      <pubDate>Wed, 11 Oct 2017 11:30:24 +0200</pubDate>
+      
+      <guid>http://blog.ivrpowers.com/post/coding/webphonebutton-website/</guid>
+      <description>Photo Source: Interactive Powers, Pexels. Creative Commons In this post we will show you how to add a Webphone button in your website using our customizable webcall widget.
+Step one: Installation To install the Webphone Button in your web­page you need to download our webcall widget webcall_widget_noflash.zip and uncompress it in the directory of your website.
+To insert it, you first need to add the CSS Stylesheet file to your webpage.</description>
+    </item>
     
     <item>
       <title>How to Build your Own Videoconference Service</title>

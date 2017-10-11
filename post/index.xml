@@ -6,10 +6,30 @@
     <description>Recent content in Posts on Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 10 Oct 2017 12:16:22 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 11 Oct 2017 11:30:24 +0200</lastBuildDate>
     
 	<atom:link href="http://blog.ivrpowers.com/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>How to Add a Webphone Button in your Website</title>
+      <link>http://blog.ivrpowers.com/post/coding/webphonebutton-website/</link>
+      <pubDate>Wed, 11 Oct 2017 11:30:24 +0200</pubDate>
+      
+      <guid>http://blog.ivrpowers.com/post/coding/webphonebutton-website/</guid>
+      <description>Photo Source: Interactive Powers, Pexels. Creative Commons In this post we will show you how to add a Webphone button in your website using our customizable webcall widget.
+Step one: Installation To install the Webphone Button in your web­page you need to download our webcall widget webcall_widget_noflash.zip and uncompress it in the directory of your website.
+To insert it, you first need to add the CSS Stylesheet file to your webpage.</description>
+    </item>
+    
+    <item>
+      <title>Financial Services · Industry</title>
+      <link>http://blog.ivrpowers.com/post/industries/industries-financial/</link>
+      <pubDate>Wed, 11 Oct 2017 11:00:58 +0200</pubDate>
+      
+      <guid>http://blog.ivrpowers.com/post/industries/industries-financial/</guid>
+      <description>Photo source: Flickr. Creative Commons 90% of bankers expect video banking to positively impact customer satisfaction Video-based service helps financial businesses to improve customer experience but it also broadens business opportunities. They make it possible to combine digital technology with the human element as well. Video and voice Real-Time Communications over the Internet offer more convenient ways for clients to contact their banks, while in person interactions are still an option.</description>
+    </item>
     
     <item>
       <title>4 Key Benefits of Interactive Kiosks</title>

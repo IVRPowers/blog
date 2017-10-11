@@ -6,10 +6,19 @@
     <description>Recent content in Products on Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 09 Oct 2017 11:06:16 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 11 Oct 2017 11:00:58 +0200</lastBuildDate>
     
 	<atom:link href="http://blog.ivrpowers.com/categories/products/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Financial Services · Industry</title>
+      <link>http://blog.ivrpowers.com/post/industries/industries-financial/</link>
+      <pubDate>Wed, 11 Oct 2017 11:00:58 +0200</pubDate>
+      
+      <guid>http://blog.ivrpowers.com/post/industries/industries-financial/</guid>
+      <description>Photo source: Flickr. Creative Commons 90% of bankers expect video banking to positively impact customer satisfaction Video-based service helps financial businesses to improve customer experience but it also broadens business opportunities. They make it possible to combine digital technology with the human element as well. Video and voice Real-Time Communications over the Internet offer more convenient ways for clients to contact their banks, while in person interactions are still an option.</description>
+    </item>
     
     <item>
       <title>Video RTC 3.0</title>
