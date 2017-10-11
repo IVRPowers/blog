@@ -1,5 +1,5 @@
 +++
-categories = ["z","w"]
+categories = ["industries"]
 date = "2017-10-06T10:49:57+02:00"
 description = "insert post description here"
 draft = true
