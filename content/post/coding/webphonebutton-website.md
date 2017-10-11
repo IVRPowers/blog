@@ -47,15 +47,15 @@ Finally, you need to create a WebcallWidget instance.
 
 ## Step 2: Available configurations
 
-It is possible to configure some parameters to give your button a custom style: Design, horizontal align and main color.
+It is possible to configure some parameters to give your button a custom style: design, horizontal align and main color.
 
-**Webphone URL:** The URL to the webphone to open
+**Webphone URL:** URL to the webphone to open
 
 **Design selection:** top, top-corner, middle, bottom
 
 **Horizontal align:** left, right
 
-**Color:** You can insert any color code that is compatible with HTML and CSS
+**Color:** you can insert any color code that is compatible with HTML and CSS
 
 
 ## Step 3: Customizing our button
