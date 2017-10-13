@@ -2,7 +2,7 @@
 categories = ["industries"]
 date = "2017-10-11T11:00:58+02:00"
 description = "Video RTC"
-draft = false
+draft = true
 tags = ["videortc","videoconferencing","businessstrategy"]
 title = "Financial Services · Industry"
 image = "/postimages/industries/ivrpowers-industries.007.jpeg"
