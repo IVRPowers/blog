@@ -19,7 +19,7 @@ image = "/postimages/industries/ivrpowers-industries.007.jpeg"
 
 ## Expert Advice.
 
-Video and voice over the internet make it possible to meet current customers’ expectations. More and more clients look for information on line and videoRTC offers the opportunity to remotely discuss products and receive information from an expert.
+Video and voice over the internet make it possible to meet current customers’ expectations. More and more clients look for information on line and VideoRTC offers the opportunity to remotely discuss products and receive information from an expert.
 
 
 ## ATMs.
