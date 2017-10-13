@@ -6,10 +6,21 @@
     <description>Recent content in News on Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 09 Oct 2017 10:45:02 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 13 Oct 2017 13:09:34 +0200</lastBuildDate>
     
 	<atom:link href="http://blog.ivrpowers.com/categories/news/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>3 WebRTC things you must know about Safari11</title>
+      <link>http://blog.ivrpowers.com/post/news/webrtc-things-safari/</link>
+      <pubDate>Fri, 13 Oct 2017 13:09:34 +0200</pubDate>
+      
+      <guid>http://blog.ivrpowers.com/post/news/webrtc-things-safari/</guid>
+      <description>Image source: Interactive Powers&amp;rsquo; elaboration After years, Apple has officially released a new version of Safari with support for WebRTC!
+These are the three essential things to know:
+Interoperability with other web browsers. Basics work fine. If you run a simple peer-to-peer call between any of the 4 browsers, you’ll get a call going. Voice and video work over the lowest common denominator Opus+H.264 in Safari. Although Opus+VP8 will be also a possibility in the future, it is not right now with the current release.</description>
+    </item>
     
     <item>
       <title>In Real-Time Communications the Phone won&#39;t be the King</title>
