@@ -1,15 +1,15 @@
 +++
 categories = ["news"]
 date = "2017-10-13T13:09:34+02:00"
-description = "WebRTC in Safari"
+description = "Technology Update"
 draft = false
 tags = ["apple","webrtc","browser"]
-title = "3 WebRTC things you must know about Safari11"
-image = "/postimages/news/safari-apple-webrtc.005.jpeg"
+title = "3 Things you have to know about WebRTC on Apple Safari 11"
+image = "/postimages/technologies/safari-apple-webrtc.004.jpeg"
 
 +++
 
-![WebRTC apple](/postimages/news/safari-apple-webrtc.005.jpeg)
+![WebRTC apple](/postimages/technologies/safari-apple-webrtc.004.jpeg)
 ---------
 ###### Image source: Interactive Powers' elaboration
 

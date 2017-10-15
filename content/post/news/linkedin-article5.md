@@ -4,7 +4,7 @@ date = "2017-10-09T10:45:02+02:00"
 description = "Voice Calls are Decreasing"
 draft = false
 tags = ["mobilephone","voicecall","trend"]
-title = "In Real-Time Communications the Phone won't be the King"
+title = "In Real-Time Communications the Phone won't be the King anymore"
 image = "/postimages/news/articulo5.jpg"
 
 +++
