@@ -12,11 +12,11 @@
     
     
     <item>
-      <title>3 WebRTC things you must know about Safari11</title>
-      <link>http://blog.ivrpowers.com/post/news/webrtc-things-safari/</link>
+      <title>3 Things you have to know about WebRTC on Apple Safari 11</title>
+      <link>http://blog.ivrpowers.com/post/technologies/webrtc-3-things-safari11/</link>
       <pubDate>Fri, 13 Oct 2017 13:09:34 +0200</pubDate>
       
-      <guid>http://blog.ivrpowers.com/post/news/webrtc-things-safari/</guid>
+      <guid>http://blog.ivrpowers.com/post/technologies/webrtc-3-things-safari11/</guid>
       <description>Image source: Interactive Powers&amp;rsquo; elaboration After years, Apple has officially released a new version of Safari with support for WebRTC!
 These are the three essential things to know:
 Interoperability with other web browsers. Basics work fine. If you run a simple peer-to-peer call between any of the 4 browsers, you’ll get a call going. Voice and video work over the lowest common denominator Opus+H.264 in Safari. Although Opus+VP8 will be also a possibility in the future, it is not right now with the current release.</description>
