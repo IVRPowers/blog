@@ -25,7 +25,7 @@ It is not only that customers can still chose to interact in person, but thanks 
 
 ## Increase engagement.
 
-New technology allows to offer a better and more convenient service. By providing customers a wide range of options to contact their banks, such as chat, videoconferencing or voice call, clients’ satisfaction increases. Agents can solve customers’ questions in the most efficient way and customers can chose the most convenient channel. Taking into account clients’ needs **improves brand loyalty and trust as they feel experience is personalized.**
+New technology allows to offer a better and more convenient service. By providing customers a wide range of options to contact their banks, such as chat, videoconferencing or voice call, clients’ satisfaction increases. Agents can solve customers’ questions in the most efficient way and customers can chose the most convenient channel. Taking into account clients’ needs it **improves brand loyalty and trust as they feel experience is personalized.**
 
 
 ## Expand financial opportunities.
