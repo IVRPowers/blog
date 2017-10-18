@@ -1,10 +1,10 @@
 +++
 categories = ["news"]
 date = "2017-10-18T12:58:21+02:00"
-description = "Digital Channels to Improve Customer Experience"
+description = "Improving Customer Experience"
 draft = false
 tags = ["webrtc","mobileapp","custexp","videocall","voicecall"]
-title = "It's Time for Companies to Use RTC Web and Mobile Applications"
+title = "It's time for companies to use Web and Mobile RTC Applications"
 image = "/postimages/news/articulo6.jpg"
 
 +++
@@ -16,8 +16,6 @@ image = "/postimages/news/articulo6.jpg"
 ###	Ivan Sixto  
 **Founder, CEO, Business Development**  
 Follow me on [Linkedin](https://www.linkedin.com/in/isixto/)
-
-
 
 Telephone bills with voice call minutes have been reduced or even disappeared both at home and in businesses. We communicate at work writing emails, tweets, posts, notifying by Skype, Google Hangout, LinkedIn or Facebook, and get in touch with our friends via Whatsapp or Snapchat, sharing multimedia content in real time. Phone calls are [no longer a relevant channel in our personal communications.](http://localhost:1313/post/trends/millennials-phone/) Traditional voice calls are being replaced by **video and voice calls over the Internet, which are growingly increasing.** In 2016, almost half of Internet users resorted to applications to call over the internet. Another interesting fact is that 3 out of 5 users rated the interoperability between OTT services, such as Skype, WhatsApp or Facebook, as positive. Therefore, it is the users themselves who stimulate the demand and the successful growth of real-time communication platforms or [RTC.](http://blog.ivrpowers.com/post/technologies/what-is-rtc/)  
 
