@@ -18,7 +18,7 @@ comments = true
 Discover how organizations like yours are integrating live-video, voice, and messaging technology to transform their industries, and how [Video RTC](http://blog.ivrpowers.com/post/products/video-rtc/) can help you facilitate more engaging interactions with your customers or employees.
 
 ## Call Centers.
-Contact Centers continue to evolve rapidly as consumers expect a **highly personalized and engaging experience.** RTC technology will help you to differentiate your Call Center. It allows to provide immediate assistance and support through different channels, increasing customer satisfaction.
+Contact Centers continue to evolve rapidly as consumers expect a **highly personalized and engaging experience.** RTC technology will help you to differentiate your Call Center. It allows to provide immediate assistance and support through different channels, increasing customer satisfaction. [Learn more....](http://blog.ivrpowers.com/post/industries/industries-callcenters/)
 
 ## Healthcare.
 Patients and physicians can remotely connect in real time around the world thanks to RTC technology. Telemedicine can be **crucial to increase the number of patients** that can access to healthcare services. It also ensures that hospitals can reduce cost while preserving the quality of care. [Learn more....](http://blog.ivrpowers.com/post/industries/industries-healthcare/)
