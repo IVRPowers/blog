@@ -1,6 +1,6 @@
 +++
 categories = ["industries"]
-date = "2017-10-16T00:20:05+02:00"
+date = "2017-10-18T00:20:05+02:00"
 description = "Video RTC"
 draft = false
 tags = ["videortc","ecommerce","businessstrategy","videoconferencing"]
