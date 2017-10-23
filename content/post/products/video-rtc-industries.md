@@ -27,7 +27,7 @@ Patients and physicians can remotely connect in real time around the world thank
 Video online onboarding provides customers a convenient and simple way to connect with their financial services. Real-time communications technology **ensures secure and personalized interactions.** It also extends opportunities of financial businesses to a wider audience. [Learn more...](http://blog.ivrpowers.com/post/industries/industries-financial/)
 
 ## E-Commerce.
-RTC technology can remarkable transform e-commerce experiences. Engaging with your customers through live chat or video chat is a proven **way to increase sales.** These features help you to reinforce brand loyalty and boost efficiency.
+RTC technology can remarkable transform e-commerce experiences. Engaging with your customers through live chat or video chat is a proven **way to increase sales.** These features help you to reinforce brand loyalty and boost efficiency. [Learn more...](http://blog.ivrpowers.com/post/industries/industries-ecommerce/)
 
 ## E-Learning.
 Real time video, voice and messaging gives teachers, experts and students the ability to communicate everywhere. By offering the option for live streaming sessions **accessibility to education increases.** Learning becomes more affordable for students and it helps educational organizations to bring down costs.
