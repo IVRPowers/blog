@@ -20,7 +20,7 @@ Video and Voice Real-Time communications over the Internet are [changing the rel
 
 ## Video RTC · Business Cases
 
-Main Business Cases in Healthcare:
+[Main Business Cases in Healthcare:]
 
 * Physician E-visits
 * Wellness Services
