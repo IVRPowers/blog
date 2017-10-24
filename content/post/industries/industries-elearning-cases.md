@@ -5,10 +5,10 @@ description = "Video RTC"
 draft = true
 tags = ["videortc","elearning","videoconferencing"]
 title = "E-learning · Business Cases"
-image = "/postimages/industries/ivrpowers-industries.006.jpeg"
+image = "/postimages/industries/ivrpowers-industries.023.jpeg"
 +++
 
-![children with computers](/postimages/industries/ivrpowers-industries.006.jpeg)
+![children with computers](/postimages/industries/ivrpowers-industries.023.jpeg)
 -----------
 ###### Photo source: Pexels
 

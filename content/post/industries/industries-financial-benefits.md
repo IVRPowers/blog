@@ -5,11 +5,11 @@ description = "Video RTC"
 draft = true
 tags = ["videortc","videoconferencing","businessstrategy"]
 title = "Financial Services · Benefits"
-image = "/postimages/industries/ivrpowers-industries.007.jpeg"
+image = "/postimages/industries/ivrpowers-industries.016.jpeg"
 
 +++
 
-![bank building](/postimages/industries/ivrpowers-industries.007.jpeg)
+![bank building](/postimages/industries/ivrpowers-industries.016.jpeg)
 -----------
 ###### Photo source: Flickr. Creative Commons
 

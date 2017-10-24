@@ -5,10 +5,10 @@ description = "Video RTC"
 draft = true
 tags = ["videortc","telehealth","healthcare","videoconferencing"]
 title = "Healthcare · Business Cases"
-image = "/postimages/products/ivrpowers-posts-01.190.jpeg"
+image = "/postimages/industries/ivrpowers-industries.022.jpeg"
 +++
 
-![doctors with a tablet](/postimages/products/ivrpowers-posts-01.190.jpeg)
+![doctors with a tablet](/postimages/industries/ivrpowers-industries.022.jpeg)
 -----------
 ######	Photo source: Flickr. Creative Commons
 

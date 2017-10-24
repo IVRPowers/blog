@@ -5,10 +5,10 @@ description = "Video RTC"
 draft = true
 tags = ["videortc","callcenters","contactcenter","videoconferencing"]
 title = "Call Centers · Benefits"
-image = "/postimages/industries/ivrpowers-industries.002.jpeg"
+image = "/postimages/industries/ivrpowers-industries.011.jpeg"
 +++
 
-![girl in a call center](/postimages/industries/ivrpowers-industries.002.jpeg)
+![girl in a call center](/postimages/industries/ivrpowers-industries.011.jpeg)
 -----------
 ###### Photo source: Interactive Powers
 
