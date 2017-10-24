@@ -20,13 +20,13 @@ Video and Voice Real-Time communications over the Internet are [changing the rel
 
 ## Video RTC · Business Cases
 
-[Main Business Cases in Healthcare:]
+[Main Business Cases in Healthcare:](http://blog.ivrpowers.com/post/industries/industries-healthcare-business-cases/)
 
 * Physician E-visits
 * Wellness Services
 * Health Monitoring
 
-##	Video RTC · Beneficts
+##	Video RTC · Benefits
 
 Real-Time Communications introduction:
 
