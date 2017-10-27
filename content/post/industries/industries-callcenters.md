@@ -21,7 +21,7 @@ Customers are moving more and more online and businesses are forced to provide t
 
 ## Video RTC · Business Cases
 
-Main Business Cases in Contact Centers:
+[Main Business Cases in Contact Centers:](http://blog.ivrpowers.com/post/industries/industries-callcenters-cases/)
 
 * Customer Service
 * Technical Support

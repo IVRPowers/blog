@@ -30,7 +30,7 @@ Video online onboarding provides customers a convenient and simple way to connec
 RTC technology can remarkable transform e-commerce experiences. Engaging with your customers through live chat or video chat is a proven **way to increase sales.** These features help you to reinforce brand loyalty and boost efficiency. [Learn more...](http://blog.ivrpowers.com/post/industries/industries-ecommerce/)
 
 ## E-Learning.
-Real time video, voice and messaging gives teachers, experts and students the ability to communicate everywhere. By offering the option for live streaming sessions **accessibility to education increases.** Learning becomes more affordable for students and it helps educational organizations to bring down costs.
+Real time video, voice and messaging gives teachers, experts and students the ability to communicate everywhere. By offering the option for live streaming sessions **accessibility to education increases.** Learning becomes more affordable for students and it helps educational organizations to bring down costs. [Learn more...](http://blog.ivrpowers.com/post/industries/industries-elearning/)
 
 ## Retail.
 RTC features can help you to create an interactive platform that delivers the kind of service today consumer expects. This technology allows providers to channel their service into a social network or let clients speak directly with sales staff. **By improving customer experience** you will establish a stronger client-customer relationship.
