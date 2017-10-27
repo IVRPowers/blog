@@ -1,14 +1,14 @@
 +++
 categories = ["industries"]
-date = "2017-09-30T00:20:05+02:00"
+date = "2017-10-27T00:20:05+02:00"
 description = "Video RTC"
-draft = true
+draft = false
 tags = ["videortc","callcenters","contactcenter","videoconferencing"]
 title = "Call Centers · Business Cases"
-image = "/postimages/products/ivrpowers-industries.019.jpeg"
+image = "/postimages/industries/ivrpowers-industries.019.jpeg"
 +++
 
-![girl in a call center](/postimages/products/ivrpowers-industries.019.jpeg)
+![girl in a call center](/postimages/industries/ivrpowers-industries.019.jpeg)
 -----------
 ######	Photo source: Interactive Powers
 
