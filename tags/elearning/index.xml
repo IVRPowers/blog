@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Elearning on Blog</title>
+    <link>http://blog.ivrpowers.com/tags/elearning/</link>
+    <description>Recent content in Elearning on Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 27 Oct 2017 00:10:05 +0200</lastBuildDate>
+    
+	<atom:link href="http://blog.ivrpowers.com/tags/elearning/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>E-learning · Industry</title>
+      <link>http://blog.ivrpowers.com/post/industries/industries-elearning/</link>
+      <pubDate>Fri, 27 Oct 2017 00:10:05 +0200</pubDate>
+      
+      <guid>http://blog.ivrpowers.com/post/industries/industries-elearning/</guid>
+      <description>Photo source: Pexels In 2016, the worldwide revenue for self-paced elearning was $ 46,674.67 Real-Time Video and Voice over the Internet open opportunities for everyone who wants to learn something. Online learning is gaining popularity as more and more students demand more flexibility that new technologies can provide. E-learning broadens the options of programs and degrees, since students can access to educational institutions all over the world. Self-paced learning allows students to arrange a learning schedule that meets their individual needs, at a lower price and without leaving the comfort of their homes.</description>
+    </item>
+    
+  </channel>
+</rss>
