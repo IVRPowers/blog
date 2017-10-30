@@ -30,10 +30,10 @@ The results of the biannual Household Panel survey, conducted by the National Ma
 
 ## 77% of smartphone users employ it several times a day, but not for calling.
 
-Voice traffic also reflects this shift. Despite multiple offers and extensive fixed voicecall bonuses, by the end of 2016, the historic minimum voice traffic billing was reached. The pattern is also repeated with the mobile phone, which is more pronounced as use habits are changing. To further boost voice calls, operators continue to lower prices, leading to a record in low revenues from this service. Even so, **the drop in voice traffic has not yet hit bottom, as it will descend with the progressive incorporation into the market of [younger users or Millennials,](http://localhost:1313/post/trends/millennials-phone/)** who are used to communicate through applications and other types of digital interfaces.
+Voice traffic also reflects this shift. Despite multiple offers and extensive fixed voicecall bonuses, by the end of 2016, the historic minimum voice traffic billing was reached. The pattern is also repeated with the mobile phone, which is more pronounced as use habits are changing. To further boost voice calls, operators continue to lower prices, leading to a record in low revenues from this service. Even so, **the drop in voice traffic has not yet hit bottom, as it will descend with the progressive incorporation into the market of [younger users or Millennials,](http://blog.ivrpowers.com/post/trends/millennials-phone/)** who are used to communicate through applications and other types of digital interfaces.
 
 
-This post is also published in Spanish [here](https://www.linkedin.com/pulse/transformaci%C3%B3n-digital-una-ventana-de-oportunidades-para-iv%C3%A1n-sixto?trk=mp-reader-card).
+This post is also published in Spanish [here](https://www.linkedin.com/pulse/el-tel%C3%A9fono-ser%C3%A1-rey-de-la-atenci%C3%B3n-en-tiempo-real-mundo-iv%C3%A1n-sixto/).
 
 ---
 [Interactive Powers](http://www.ivrpowers.com/) - Streamline your business communications

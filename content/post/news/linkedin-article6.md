@@ -17,7 +17,7 @@ image = "/postimages/news/articulo6.jpg"
 **Founder, CEO, Business Development**  
 Follow me on [Linkedin](https://www.linkedin.com/in/isixto/)
 
-Telephone bills with voice call minutes have been reduced or even disappeared both at home and in businesses. We communicate at work writing emails, tweets, posts, notifying by Skype, Google Hangout, LinkedIn or Facebook, and get in touch with our friends via Whatsapp or Snapchat, sharing multimedia content in real time. Phone calls are [no longer a relevant channel in our personal communications.](http://localhost:1313/post/trends/millennials-phone/) Traditional voice calls are being replaced by **video and voice calls over the Internet, which are growingly increasing.** In 2016, almost half of Internet users resorted to applications to call over the internet. Another interesting fact is that 3 out of 5 users rated the interoperability between OTT services, such as Skype, WhatsApp or Facebook, as positive. Therefore, it is the users themselves who stimulate the demand and the successful growth of real-time communication platforms or [RTC.](http://blog.ivrpowers.com/post/technologies/what-is-rtc/)  
+Telephone bills with voice call minutes have been reduced or even disappeared both at home and in businesses. We communicate at work writing emails, tweets, posts, notifying by Skype, Google Hangout, LinkedIn or Facebook, and get in touch with our friends via Whatsapp or Snapchat, sharing multimedia content in real time. Phone calls are [no longer a relevant channel in our personal communications.](http://blog.ivrpowers.com/post/trends/millennials-phone/) Traditional voice calls are being replaced by **video and voice calls over the Internet, which are growingly increasing.** In 2016, almost half of Internet users resorted to applications to call over the internet. Another interesting fact is that 3 out of 5 users rated the interoperability between OTT services, such as Skype, WhatsApp or Facebook, as positive. Therefore, it is the users themselves who stimulate the demand and the successful growth of real-time communication platforms or [RTC.](http://blog.ivrpowers.com/post/technologies/what-is-rtc/)  
 
 ## Video calls and voice calls over the Internet are growingly increasing
 
@@ -28,11 +28,11 @@ Nowadays, it is possible for companies to interact in real time directly through
 
 ## Phone calls are no longer the most suitable option
 
-**Phone calls may not disappear,** but, according to the current trend, phone calls are likely to be gradually reduced **for exceptional occasions or emergencies.** We are rapidly adapting to a digital world with extensive advanced services, where we won’t miss phone calls. **Current computing technology and mobile devices** in the hands of consumers do not make it essential to use telephone calls for business communications. By providing **multimedia digital channels** to consumers or users, which allow to efficiently transmit **voice, video or data in real time,** [customer services turn into a very differential experience](http://localhost:1313/post/contactcenter/webrtc-for-contact-center/) and comparable to the in-person communication.
+**Phone calls may not disappear,** but, according to the current trend, phone calls are likely to be gradually reduced **for exceptional occasions or emergencies.** We are rapidly adapting to a digital world with extensive advanced services, where we won’t miss phone calls. **Current computing technology and mobile devices** in the hands of consumers do not make it essential to use telephone calls for business communications. By providing **multimedia digital channels** to consumers or users, which allow to efficiently transmit **voice, video or data in real time,** customer services turn into a very differential experience and comparable to the in-person communication.
 
 
 
-This post is also published in Spanish [here](https://www.linkedin.com/pulse/transformaci%C3%B3n-digital-una-ventana-de-oportunidades-para-iv%C3%A1n-sixto?trk=mp-reader-card).
+This post is also published in Spanish [here](https://www.linkedin.com/pulse/las-empresas-necesitan-interactuar-en-tiempo-real-trav%C3%A9s-iv%C3%A1n-sixto/).
 
 ---
 [Interactive Powers](http://www.ivrpowers.com/) - Streamline your business communications
