@@ -10,7 +10,7 @@ image = "/postimages/industries/ivrpowers-industries.002.jpeg"
 
 ![girl in a call center](/postimages/industries/ivrpowers-industries.002.jpeg)
 -----------
-###### Photo source: Interactive Powers
+###### Photo source: Shutterstock licensed to Interactive Powers
 
 # 90% of companies name improving customer experience as a strategic focus
 ---
