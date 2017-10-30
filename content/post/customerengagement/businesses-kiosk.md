@@ -14,7 +14,7 @@ image = "/postimages/customerengagement/ivrpowers-posts-01.201.jpeg"
 ###### Photo source: Metropolitan Transportation Authority, NY. Creative Commons
 
 
-[Interactive kiosks]( http://blog.ivrpowers.com/post/technologies/what-is-kiosk/) are changing consumer experience thanks to WebRTC technology. They allow **immediate connections between advisers and customers, sharing documents and paying for products or services,** among other different applications. Let’s see which businesses can remarkably improve their customer services through interactive kiosks:
+[Interactive kiosks](http://blog.ivrpowers.com/post/technologies/what-is-kiosk/) are changing consumer experience thanks to WebRTC technology. They allow **immediate connections between advisers and customers, sharing documents and paying for products or services,** among other different applications. Let’s see which businesses can remarkably [improve their customer services](http://blog.ivrpowers.com/post/customerengagement/key-benefits-kiosk/) through interactive kiosks:
  
  
  
