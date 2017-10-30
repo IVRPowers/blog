@@ -17,7 +17,7 @@ image = "/postimages/technologies/ivrpowers-posts-01.200.jpeg"
 An interactive kiosk is **a computer terminal** that is placed in a public setting. The aim of a kiosk is to provide information to customers and users. They have an integrated touch screen, usually with **a user-friendly interface to facilitate interactions.** Thanks to computing technology it is possible to offer a wide range of functions and applications, from brand information, to product catalogues or real-time interactions with sales consultants.
 
 
-## What industries can take advantage of interactive kiosks?
+## Which industries can take advantage of interactive kiosks?
 
 Interactive kiosks are used as **powerful marketing tools and advanced customer services.** Because they can be customized, applications are endless. 
 

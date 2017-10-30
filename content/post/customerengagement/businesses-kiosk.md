@@ -1,8 +1,8 @@
 +++
 categories = ["customerengagement"]
-date = "2017-10-24T12:07:08+02:00"
+date = "2017-10-30T12:07:08+02:00"
 description = "Business Cases"
-draft = true
+draft = false
 tags = ["kiosk","webrtc","custexp"]
 title = "Which Businesses can Benefit from Interactive Kiosks"
 image = "/postimages/customerengagement/ivrpowers-posts-01.201.jpeg"
