@@ -23,9 +23,7 @@ Video and voice over the internet allows to offer innovative ways for promotion.
 [Main Business Cases in Contact Centers:](http://blog.ivrpowers.com/post/industries/industries-ecommerce-business-cases/)
 
 * Pre-sales support
-
 * Personalized shopping
-
 * Enhance promotion
 
 
@@ -34,9 +32,7 @@ Video and voice over the internet allows to offer innovative ways for promotion.
 Real-Time Communications introduction:
 
 * More data for a better service
-
 * Increase sales
-
 * Customer retention
 
 
