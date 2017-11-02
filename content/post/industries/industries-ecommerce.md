@@ -20,7 +20,7 @@ Video and voice over the internet allows to offer innovative ways for promotion.
 
 ## Video RTC · Business Cases
 
-Main Business Cases in Contact Centers:
+[Main Business Cases in Contact Centers:](http://blog.ivrpowers.com/post/industries/industries-ecommerce-business-cases/)
 
 * Pre-sales support
 

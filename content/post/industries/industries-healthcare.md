@@ -28,7 +28,7 @@ Video and Voice Real-Time communications over the Internet are [changing the rel
 
 ##	Video RTC · Benefits
 
-Real-Time Communications introduction:
+[Real-Time Communications introduction:](http://blog.ivrpowers.com/post/industries/industries-healthcare-beneficts/)
 
 * Improved Workflow and Processes
 * Cost Reductions
