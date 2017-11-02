@@ -1,8 +1,8 @@
 +++
 categories = ["industries"]
-date = "2017-10-16T00:20:05+02:00"
+date = "2017-11-02T00:19:05+02:00"
 description = "Video RTC"
-draft = true
+draft = false
 tags = ["videortc","ecommerce","businessstrategy","videoconferencing"]
 title = "E-commerce · Business Cases"
 image = "/postimages/industries/ivrpowers-industries.025.jpeg"
