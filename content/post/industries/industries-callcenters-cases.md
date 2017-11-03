@@ -10,7 +10,7 @@ image = "/postimages/industries/ivrpowers-industries.019.jpeg"
 
 ![girl in a call center](/postimages/industries/ivrpowers-industries.019.jpeg)
 -----------
-######	Photo source: Interactive Powers
+######	Photo source: Shutterstock licensed to Interactive Powers
 
 #	By 2018, more than 100 out of the 500 largest global businesses will have implemented video chat
 ---

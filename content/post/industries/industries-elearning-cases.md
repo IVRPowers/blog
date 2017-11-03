@@ -10,7 +10,7 @@ image = "/postimages/industries/ivrpowers-industries.023.jpeg"
 
 ![children with computers](/postimages/industries/ivrpowers-industries.023.jpeg)
 -----------
-###### Photo source: Pexels
+###### Photo source: Pexels. Creative Commons
 
 
 # 70% of people use their own smartphone to learn and 52% prefer to learn at the point of need
