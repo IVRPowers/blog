@@ -13,6 +13,11 @@
   </url>
   
   <url>
+    <loc>http://blog.ivrpowers.com/post/news/cloud-apis/</loc>
+    <lastmod>2017-11-06T12:19:05+02:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://blog.ivrpowers.com/post/general/next-voip2day-2017/</loc>
     <lastmod>2017-11-04T20:00:00+02:00</lastmod>
   </url>
@@ -594,6 +599,12 @@
   </url>
   
   <url>
+    <loc>http://blog.ivrpowers.com/tags/apis/</loc>
+    <lastmod>2017-11-06T12:19:05+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://blog.ivrpowers.com/tags/apple/</loc>
     <lastmod>2017-10-13T13:09:34+02:00</lastmod>
     <priority>0</priority>
@@ -666,7 +677,7 @@
   
   <url>
     <loc>http://blog.ivrpowers.com/tags/cloud/</loc>
-    <lastmod>2017-09-20T12:50:49+02:00</lastmod>
+    <lastmod>2017-11-06T12:19:05+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -900,7 +911,7 @@
   
   <url>
     <loc>http://blog.ivrpowers.com/categories/news/</loc>
-    <lastmod>2017-10-18T12:58:21+02:00</lastmod>
+    <lastmod>2017-11-06T12:19:05+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -930,7 +941,7 @@
   
   <url>
     <loc>http://blog.ivrpowers.com/post/</loc>
-    <lastmod>2017-11-04T20:00:00+02:00</lastmod>
+    <lastmod>2017-11-06T12:19:05+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1056,7 +1067,7 @@
   
   <url>
     <loc>http://blog.ivrpowers.com/tags/trend/</loc>
-    <lastmod>2017-10-09T10:45:02+02:00</lastmod>
+    <lastmod>2017-11-06T12:19:05+02:00</lastmod>
     <priority>0</priority>
   </url>
   

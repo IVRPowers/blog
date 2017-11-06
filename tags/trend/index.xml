@@ -6,10 +6,20 @@
     <description>Recent content in Trend on Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 09 Oct 2017 10:45:02 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 06 Nov 2017 12:19:05 +0200</lastBuildDate>
     
 	<atom:link href="http://blog.ivrpowers.com/tags/trend/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>The Cloud API Services Revolution</title>
+      <link>http://blog.ivrpowers.com/post/news/cloud-apis/</link>
+      <pubDate>Mon, 06 Nov 2017 12:19:05 +0200</pubDate>
+      
+      <guid>http://blog.ivrpowers.com/post/news/cloud-apis/</guid>
+      <description>Photo Source: Pixabay. Creative Commons Recent promotion of Cloud API services by the dominant Internet service providers can lead to a substantial change in the use of legacy systems and technologies. Cloud-based services, which enable high-value-added interactions with voice, natural language, artificial intelligence, etc., will make it possible to leave existing solutions behind.
+More Efficient and Cost-Saving. Google, Amazon, Apple and Microsoft are starting to provide amazing cloud-based services to enterprises, which were just available to developers until now.</description>
+    </item>
     
     <item>
       <title>In Real-Time Communications the Phone won&#39;t be the King anymore</title>
