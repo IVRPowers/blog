@@ -1,8 +1,8 @@
 +++
 categories = ["news"]
-date = "2017-10-31T12:19:05+02:00"
+date = "2017-11-06T12:19:05+02:00"
 description = "Efficiency and Cost Reduction"
-draft = true
+draft = false
 tags = ["cloud","apis","trend"]
 title = "The Cloud API Services Revolution"
 image = "/postimages/news/ivrpowers-cloud-api.001.jpeg"
