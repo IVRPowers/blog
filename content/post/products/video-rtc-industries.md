@@ -33,7 +33,7 @@ RTC technology can remarkable transform e-commerce experiences. Engaging with yo
 Real time video, voice and messaging gives teachers, experts and students the ability to communicate everywhere. By offering the option for live streaming sessions **accessibility to education increases.** Learning becomes more affordable for students and it helps educational organizations to bring down costs. [Learn more...](http://blog.ivrpowers.com/post/industries/industries-elearning/)
 
 ## Retail.
-RTC features can help you to create an interactive platform that delivers the kind of service today consumer expects. This technology allows providers to channel their service into a social network or let clients speak directly with sales staff. **By improving customer experience** you will establish a stronger client-customer relationship.
+RTC features can help you to create an interactive platform that delivers the kind of service today consumer expects. This technology allows providers to channel their service into a social network or let clients speak directly with sales staff. **By improving customer experience** you will establish a stronger client-customer relationship. [Learn more...](http://blog.ivrpowers.com/post/industries/industries-retail/)
 
 ## Professional Services.
 Expand your business reach by facilitating your customers’ access. WebRTC features allow to **personalize your services** according to your clients’ needs. You can provide customers a convenient and affordable way to pay taxes, record and archive your communications or conduct virtual tours.
