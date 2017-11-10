@@ -1,41 +1,40 @@
 +++
 categories = ["industries"]
-date = "2017-11-07T13:44:41+01:00"
-description = "Video RTC"
-draft = false
-tags = ["videortc","retail","videoconferencing"]
-title = "Retail · Industries"
-image = "/postimages/industries/ivrpowers-industries.009.jpeg"
+date = "2017-11-07T11:06:05+01:00"
+description = "VideoRTC"
+draft = true
+tags = ["videortc","businessstrategy","marketing","videoconferencing"]
+title = "Professional Services · Industry"
+image = "/postimages/industries/ivrpowers-industries.003.jpeg"
 
 +++
 
-![shop's entrance](/postimages/industries/ivrpowers-industries.009.jpeg)
--------------
-###### Photo source: Pixabay. Creative Commons
+![man videoconferencing](/postimages/industries/ivrpowers-industries.003.jpeg)
+----------
+###### Photo source: Shutterstock licensed to Interactive Powers
 
 
-# In 2016, two main channels for generating sales were ‘Stores’ at 79% and 'Website' at 73%
+# 35% of consumers say the smartphone will become their main purchasing tool
 ---
 
-Video and Voice Real-Time communications over the Internet offers the opportunity to find innovative to ways to **respond to consumers’ expectations.** This technology provides numerous channels that allow to adapt companies’ assistance to clients’ needs. By integrating features such as live chat, videoconferencing, phone calls or file sharing, you can remarkably **improve customer experience and differentiate** your store in a highly competitive market.
+In today's market, it is crucial that businesses **engage customers the way they communicate.** Users are increasingly turning to the Internet for their personal communications, but also to make regular purchases or contract services. As online purchases increase, the success of a modern business depends on the ability to promote its products and services through the Internet. Advanced voice and video communications in real-time enable **to provide high quality services, responding to customers needs.** They facilitate access, allow to customize services and help to strengthen customer relationships.
 
 
 ## Video RTC · Business Cases
 
-Main Business Cases in Retail:
+Main Business Cases in Professional Services:
 
-* Live chat assistance
-* Show the product
-* Post-sales Support
-
+* Legal Services
+* Marketing and design
+* Financial advisors
 
 ##	Video RTC · Benefits
 
 Real-Time Communications introduction:
 
-* Immediate assistance
-* Easily integration
-* Keep in touch
+* Direct Communications
+* Widen your reach
+* Reduce costs
 
 
 ## Video RTC · Features
@@ -50,4 +49,3 @@ Complementary Functions:
 
 ---
 [Interactive Powers](http://www.ivrpowers.com/) - Streamline your business communications
-
