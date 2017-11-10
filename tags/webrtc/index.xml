@@ -6,10 +6,29 @@
     <description>Recent content in Webrtc on Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 30 Oct 2017 12:07:08 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 10 Nov 2017 12:14:39 +0100</lastBuildDate>
     
 	<atom:link href="http://blog.ivrpowers.com/tags/webrtc/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>The Cloud API Revolution is Coming to VoIP</title>
+      <link>http://blog.ivrpowers.com/post/general/add-voip2017/</link>
+      <pubDate>Fri, 10 Nov 2017 12:14:39 +0100</pubDate>
+      
+      <guid>http://blog.ivrpowers.com/post/general/add-voip2017/</guid>
+      <description>Photo source: VoIP2DAY Iván Sixto, founder of Interactive Powers, will speak about Cloud API’s novelties at VoIP2Day 2017.
+Digital Transformation is changing the way in which we propose the systems we use to communicate. We are experiencing an Internet revolution that begins to affect basic services that we now operate with specific devices or business systems. Some, have already been completely absorbed by the cloud, be it web search, positioning maps or directory services.</description>
+    </item>
+    
+    <item>
+      <title>Screen Sharing in Firefox Version 52</title>
+      <link>http://blog.ivrpowers.com/post/news/screensharing-firefox/</link>
+      <pubDate>Fri, 10 Nov 2017 11:46:54 +0100</pubDate>
+      
+      <guid>http://blog.ivrpowers.com/post/news/screensharing-firefox/</guid>
+      <description>Photo Source: Pixabay. Creative Commons Screen sharing is a very powerful feature that allows users to share in a screen or window any documents or application including images, videos, forms… among other capabilities. However, in order to build screen sharing capabilities, first, it is necessary to build screen capture. Until now, it was only supported in one browser, Chrome, which gives access to screen capture by writing an extension.</description>
+    </item>
     
     <item>
       <title>Which Businesses could benefit more from Interactive Kiosks?</title>
