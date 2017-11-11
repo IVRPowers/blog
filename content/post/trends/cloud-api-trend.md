@@ -17,7 +17,7 @@ comments = true
 
 One of the major trend that is working behind the scenes and driving many of the most successful businesses these past few years is: **Cloud Application Programming Interfaces (API)**.  APIs are a technology that allow firms to interact and share information with other firms at an unprecedented scale, taking advantage of the far-reaching progress in digitization and the rising influence of software in our day-to-day lives. The skyrocketing valuations of companies (see recent unicorns such as Uber) that excel in exploiting APIs demonstrate the modern day power of informational assets. By incorporating APIs in their strategies, many other firms can follow in their footsteps. Every firm can use its customer touch points to collect information using software systems.
 
-Interactive Powers [VoiceXML IVR](http://localhost:1313/post/products/voicexml-ivr/) and [Video RTC](http://localhost:1313/post/products/video-rtc/) product lines are getting significant improvements by integrating Public Cloud API. For expample: Speech Recogniton, Text-to-Speech, Facial Recognition, Video Identification, Voice Biometrics, Natural Language Understanding...
+Interactive Powers [VoiceXML IVR](http://blog.ivrpowers.com/post/products/voicexml-ivr/) and [Video RTC](http://blog.ivrpowers.com/post/products/video-rtc/) product lines are getting significant improvements by integrating Public Cloud API. For expample: Speech Recogniton, Text-to-Speech, Facial Recognition, Video Identification, Voice Biometrics, Natural Language Understanding...
 
 ---
 [Interactive Powers](http://www.ivrpowers.com/) - Streamline your business communications
