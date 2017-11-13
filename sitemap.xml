@@ -13,6 +13,11 @@
   </url>
   
   <url>
+    <loc>http://blog.ivrpowers.com/post/industries/industries-callcenters-benefits/</loc>
+    <lastmod>2017-11-13T00:20:05+02:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://blog.ivrpowers.com/post/trends/cloud-api-trend/</loc>
     <lastmod>2017-11-10T20:30:18+02:00</lastmod>
   </url>
@@ -680,7 +685,7 @@
   
   <url>
     <loc>http://blog.ivrpowers.com/tags/callcenters/</loc>
-    <lastmod>2017-10-27T00:20:05+02:00</lastmod>
+    <lastmod>2017-11-13T00:20:05+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -726,14 +731,14 @@
   </url>
   
   <url>
-    <loc>http://blog.ivrpowers.com/categories/contactcenter/</loc>
-    <lastmod>2017-09-19T12:36:01+02:00</lastmod>
+    <loc>http://blog.ivrpowers.com/tags/contactcenter/</loc>
+    <lastmod>2017-11-13T00:20:05+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://blog.ivrpowers.com/tags/contactcenter/</loc>
-    <lastmod>2017-10-27T00:20:05+02:00</lastmod>
+    <loc>http://blog.ivrpowers.com/categories/contactcenter/</loc>
+    <lastmod>2017-09-19T12:36:01+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -750,14 +755,14 @@
   </url>
   
   <url>
-    <loc>http://blog.ivrpowers.com/categories/customerengagement/</loc>
-    <lastmod>2017-10-30T12:07:08+02:00</lastmod>
+    <loc>http://blog.ivrpowers.com/tags/customerengagement/</loc>
+    <lastmod>2017-07-28T13:13:47+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://blog.ivrpowers.com/tags/customerengagement/</loc>
-    <lastmod>2017-07-28T13:13:47+02:00</lastmod>
+    <loc>http://blog.ivrpowers.com/categories/customerengagement/</loc>
+    <lastmod>2017-10-30T12:07:08+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -822,14 +827,14 @@
   </url>
   
   <url>
-    <loc>http://blog.ivrpowers.com/categories/healthcare/</loc>
-    <lastmod>2017-07-26T10:26:53+02:00</lastmod>
+    <loc>http://blog.ivrpowers.com/tags/healthcare/</loc>
+    <lastmod>2017-11-02T00:20:05+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://blog.ivrpowers.com/tags/healthcare/</loc>
-    <lastmod>2017-11-02T00:20:05+02:00</lastmod>
+    <loc>http://blog.ivrpowers.com/categories/healthcare/</loc>
+    <lastmod>2017-07-26T10:26:53+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -853,7 +858,7 @@
   
   <url>
     <loc>http://blog.ivrpowers.com/categories/industries/</loc>
-    <lastmod>2017-11-07T13:44:41+01:00</lastmod>
+    <lastmod>2017-11-13T00:20:05+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -894,14 +899,14 @@
   </url>
   
   <url>
-    <loc>http://blog.ivrpowers.com/categories/marketing/</loc>
-    <lastmod>2017-06-29T00:20:05+02:00</lastmod>
+    <loc>http://blog.ivrpowers.com/tags/marketing/</loc>
+    <lastmod>2017-06-12T20:40:07+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://blog.ivrpowers.com/tags/marketing/</loc>
-    <lastmod>2017-06-12T20:40:07+02:00</lastmod>
+    <loc>http://blog.ivrpowers.com/categories/marketing/</loc>
+    <lastmod>2017-06-29T00:20:05+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -961,7 +966,7 @@
   
   <url>
     <loc>http://blog.ivrpowers.com/post/</loc>
-    <lastmod>2017-11-10T20:30:18+02:00</lastmod>
+    <lastmod>2017-11-13T00:20:05+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1062,13 +1067,13 @@
   </url>
   
   <url>
-    <loc>http://blog.ivrpowers.com/categories/support/</loc>
+    <loc>http://blog.ivrpowers.com/tags/support/</loc>
     <lastmod>2017-08-16T12:14:46+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://blog.ivrpowers.com/tags/support/</loc>
+    <loc>http://blog.ivrpowers.com/categories/support/</loc>
     <lastmod>2017-08-16T12:14:46+02:00</lastmod>
     <priority>0</priority>
   </url>
@@ -1135,7 +1140,7 @@
   
   <url>
     <loc>http://blog.ivrpowers.com/tags/videoconferencing/</loc>
-    <lastmod>2017-11-07T13:44:41+01:00</lastmod>
+    <lastmod>2017-11-13T00:20:05+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1147,7 +1152,7 @@
   
   <url>
     <loc>http://blog.ivrpowers.com/tags/videortc/</loc>
-    <lastmod>2017-11-10T11:46:54+01:00</lastmod>
+    <lastmod>2017-11-13T00:20:05+02:00</lastmod>
     <priority>0</priority>
   </url>
   
