@@ -30,7 +30,7 @@ Customers are moving more and more online and businesses are forced to provide t
 
 ##	Video RTC · Benefits
 
-Real-Time Communications introduction:
+[Real-Time Communications introduction:](http://blog.ivrpowers.com/post/technologies/what-is-kiosk/)
 
 * Omnichannel experience
 * More efficient support
