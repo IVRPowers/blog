@@ -17,7 +17,7 @@
       <pubDate>Thu, 26 Oct 2017 10:45:24 +0200</pubDate>
       
       <guid>http://blog.ivrpowers.com/post/coding/datachannel-videortc/</guid>
-      <description>Photo Source: Interactive Powers, Pexels. Creative Commons In this post we will show you how it works our Datachannel with VideoRTC.js and how to use it for a specific purpose.
+      <description>Photo Source: Interactive Powers, Pexels. Creative Commons In this post, we will show you how it works with Datachannel using VideoRTC.js and how to code quickly a simple service for a specific purpose.
 Introduction First of all you need to know the modules in which we currently have available the Datachannel: These are the Videocall and the SPLIT. In this example we will use the first one, though the operation would be the same in both.</description>
     </item>
     
