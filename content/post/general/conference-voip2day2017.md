@@ -13,7 +13,7 @@ image = "/postimages/general/ivrpowers-voip2day-2017.003.jpeg"
 ---------
 ###### Photo source: Interactive Powers & VoIP2DAY
 
-Iván Sixto, founder of [Interactive Powers,]( http://www.ivrpowers.com/) will be pleased to speak about Cloud API’s novelties for Voice over IP at next [VoIP2DAY2017](http://www.voip2day.com) 10th Anniversary Conferences:
+Iván Sixto, founder of [Interactive Powers]( http://www.ivrpowers.com/) will be pleased to speak about Cloud API’s novelties for Voice over IP at next [VoIP2DAY2017](http://blog.ivrpowers.com/post/general/next-voip2day-2017/) 10th Anniversary Conferences:
 
 ###	Ivan Sixto  
 **Founder, CEO, Business Development**  

@@ -29,11 +29,11 @@ The third generation of our flagship [RTC](http://blog.ivrpowers.com/post/techno
 
 First of all, Video RTC deployement includes several Use Cases to quick start your RTC project without reinventing everything. This approach is always part of our Video Gateway platform toolkit.
 
-* Video Room, multipeer public or private videoroom
-* Video SPLIT, integration for your PBX or Contact Center
-* Video Mail, record video messages
-* Video Player, play recorded video messages
-* Video Call, direct peer to peer video calls
+* **Video Room**, multipeer public or private videoroom
+* **Video SPLIT**, integration for your PBX or Contact Center
+* **Video Mail**, record video messages
+* **Video Player**, play recorded video messages
+* **Video Call**, direct peer to peer video calls
 
 ![Video RTC 3.0](/postimages/products/ivrpowers-videortc-3.002.jpeg)
 

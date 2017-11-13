@@ -15,7 +15,7 @@ image = "/postimages/coding/ivrpowers-videortc-features.033.jpeg"
 
 
 
-In this post we will show you how it works our Datachannel with VideoRTC.js and how to use it for a specific purpose.
+In this post, we will show you how it works with Datachannel using [VideoRTC.js](http://blog.ivrpowers.com/post/development/introducing-videortcjs-developers/) and how to code quickly a simple service for a specific purpose.
 
 ## Introduction
 
