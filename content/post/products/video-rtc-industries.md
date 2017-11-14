@@ -36,7 +36,7 @@ Real time video, voice and messaging gives teachers, experts and students the ab
 RTC features can help you to create an interactive platform that delivers the kind of service today consumer expects. This technology allows providers to channel their service into a social network or let clients speak directly with sales staff. **By improving customer experience** you will establish a stronger client-customer relationship. [Learn more...](http://blog.ivrpowers.com/post/industries/industries-retail/)
 
 ## Professional Services.
-Expand your business reach by facilitating your customers’ access. WebRTC features allow to **personalize your services** according to your clients’ needs. You can provide customers a convenient and affordable way to pay taxes, record and archive your communications or conduct virtual tours.
+Expand your business reach by facilitating your customers’ access. WebRTC features allow to **personalize your services** according to your clients’ needs. You can provide customers a convenient and affordable way to pay taxes, record and archive your communications or conduct virtual tours. [Learn more...](http://blog.ivrpowers.com/post/industries/industries-professional/)
 
 ## Field Services.
 Today’s market demands a seamless and efficient communication among field service technicians. RTC technology can be decisive to **facilitate collaboration in organizations with mobile workforces.** It allows to instantly share photos, videos and documents and provide remotely additional assistance.
