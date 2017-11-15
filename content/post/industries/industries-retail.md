@@ -22,7 +22,7 @@ Video and Voice Real-Time communications over the Internet offers the opportunit
 
 ## Video RTC · Business Cases
 
-Main Business Cases in Retail:
+[Main Business Cases in Retail:](http://blog.ivrpowers.com/post/industries/industries-retail-business-cases/)
 
 * Live chat assistance
 * Show the product
