@@ -13,9 +13,8 @@ image = "/postimages/industries/ivrpowers-industries.004.jpeg"
 -----------
 ###### Photo source: Pexels. Creative Commons
 
-# 80% of service organizations say Mobile Field Service is required to improve staff efficiency and speed. 
+# Collaboration tools improve team efficiency by 20%
 ---
-
 
 One of the keys of technical assistance success is effectiveness. Voice and video over the internet in real time provide tools to field professionals that make **a noticeable difference in results.** Real-time video, voice and messaging applications enable mobile workforces to get **immediate additional support** by sharing photos, data or videos with other experts. By improving communication, **resolution times are speeded up** and, therefore, costs are reduced.
 
