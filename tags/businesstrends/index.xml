@@ -6,10 +6,20 @@
     <description>Recent content in Businesstrends on Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 10 Nov 2017 12:14:39 +0100</lastBuildDate>
+    <lastBuildDate>Fri, 17 Nov 2017 12:12:48 +0100</lastBuildDate>
     
 	<atom:link href="http://blog.ivrpowers.com/tags/businesstrends/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Thank you VoIP2Day 2017!</title>
+      <link>http://blog.ivrpowers.com/post/general/thank-voip2day/</link>
+      <pubDate>Fri, 17 Nov 2017 12:12:48 +0100</pubDate>
+      
+      <guid>http://blog.ivrpowers.com/post/general/thank-voip2day/</guid>
+      <description>Image source: Interactive Powers Interactive Powers attended VoIP2Day 2017, 10th Anniversary Conferences, on November 16th, at Wanda Metropolitano. Iván Sixto, founder of Interactive Powers, talked about Cloud API’s novelties for Voice over IP in the presentation entitled “The Cloud API revolution is coming.”
+We are delighted with the success of the event and the warm welcome of our participation. Interest of the public in voice integration APIs exceeded all our expectations.</description>
+    </item>
     
     <item>
       <title>The Cloud API Revolution is Coming to VoIP</title>

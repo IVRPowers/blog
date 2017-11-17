@@ -6,10 +6,29 @@
     <description>Recent content in Webrtc on Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 10 Nov 2017 12:14:39 +0100</lastBuildDate>
+    <lastBuildDate>Fri, 17 Nov 2017 12:12:48 +0100</lastBuildDate>
     
 	<atom:link href="http://blog.ivrpowers.com/tags/webrtc/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Thank you VoIP2Day 2017!</title>
+      <link>http://blog.ivrpowers.com/post/general/thank-voip2day/</link>
+      <pubDate>Fri, 17 Nov 2017 12:12:48 +0100</pubDate>
+      
+      <guid>http://blog.ivrpowers.com/post/general/thank-voip2day/</guid>
+      <description>Image source: Interactive Powers Interactive Powers attended VoIP2Day 2017, 10th Anniversary Conferences, on November 16th, at Wanda Metropolitano. Iván Sixto, founder of Interactive Powers, talked about Cloud API’s novelties for Voice over IP in the presentation entitled “The Cloud API revolution is coming.”
+We are delighted with the success of the event and the warm welcome of our participation. Interest of the public in voice integration APIs exceeded all our expectations.</description>
+    </item>
+    
+    <item>
+      <title>Interactive Kiosks: RTC Technology to Boost your Business</title>
+      <link>http://blog.ivrpowers.com/post/customerengagement/businesses-kiosk-2/</link>
+      <pubDate>Fri, 17 Nov 2017 09:14:56 +0100</pubDate>
+      
+      <guid>http://blog.ivrpowers.com/post/customerengagement/businesses-kiosk-2/</guid>
+      <description>Photo source: Mk2010. Creative Commons Video calls are being very well received by users. Minutes dedicated to video calls grow on social networks and more and more companies include this feature. It&amp;rsquo;s just a matter of time before the video becomes a predominant tool in customer services. The video allows to establish communications in a more natural way, with the human touch of the in-person visits and making communications clearer and more efficient.</description>
+    </item>
     
     <item>
       <title>The Cloud API Revolution is Coming to VoIP</title>
