@@ -2,7 +2,7 @@
 categories = ["customerengagement"]
 date = "2017-11-17T09:14:56+01:00"
 description = "Business Cases"
-draft = true
+draft = false
 tags = ["kiosk","webrtc","custexp"]
 title = "Interactive Kiosks: RTC Technology to Boost your Business"
 image = "/postimages/customerengagement/ivrpowers-posts-01.202.jpeg"
