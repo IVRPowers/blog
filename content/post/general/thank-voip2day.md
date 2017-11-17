@@ -4,7 +4,7 @@ date = "2017-11-17T12:12:48+01:00"
 description = "10th Conferences Anniversary"
 draft = false
 tags = ["ivrpowers","webrtc","api","voip2day","businesstrends"]
-title = "Thank you VoIP2Day 2017!"
+title = "Thank you, VoIP2Day 2017!"
 image = "/postimages/general/ivrpowers-posts-01.115.jpg"
 
 +++
