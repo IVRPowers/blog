@@ -5,11 +5,11 @@ description = "10th Conferences Anniversary"
 draft = false
 tags = ["ivrpowers","webrtc","api","voip2day","businesstrends"]
 title = "Thank you, VoIP2Day 2017!"
-image = "/postimages/general/ivrpowers-posts-01.115.jpg"
+image = "/postimages/general/ivrpowers-posts-02.005.jpeg"
 
 +++
 
-![Ivan Sixto talking](/postimages/general/ivrpowers-posts-01.115.jpg)
+![Ivan Sixto talking](/postimages/general/ivrpowers-posts-02.005.jpeg)
 ---------
 ###### Image source: Interactive Powers
 
