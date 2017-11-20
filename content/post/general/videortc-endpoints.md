@@ -2,7 +2,7 @@
 categories = ["general"]
 date = "2017-11-20T18:01:23+01:00"
 description = "Web Browsers, Mobile Devices, Interactive Kiosks"
-draft = true
+draft = false
 tags = ["videortc","kiosks","mobile","browser"]
 title = "Video Real-Time Communications Endpoints"
 image = "/postimages/general/ivrpowers-posts-01.061.jpeg"
