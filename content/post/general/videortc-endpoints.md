@@ -1,12 +1,17 @@
 +++
 categories = ["general"]
-date = "2017-10-30T18:01:23+01:00"
+date = "2017-11-20T18:01:23+01:00"
 description = "Web Browsers, Mobile Devices, Interactive Kiosks"
 draft = true
 tags = ["videortc","kiosks","mobile","browser"]
 title = "Video Real-Time Communications Endpoints"
+image = "/postimages/general/ivrpowers-posts-01.061.jpeg"
 
 +++
+
+![endpoints](/postimages/general/ivrpowers-posts-01.061.jpeg)
+---------
+###### Photo source: Interactive Powers
 
 
 Real-Time communication technology represents a qualitative leap in any communication process. One of the most outstanding advantages is [VideoRTC](http://videortc.ivrpowers.com/ ). But what platforms can we use to benefit from this innovative technology? Web browsers, mobile devices and interactive kiosks are the main endpoints from which to interact in real time.

@@ -39,7 +39,7 @@ RTC features can help you to create an interactive platform that delivers the ki
 Expand your business reach by facilitating your customers’ access. WebRTC features allow to **personalize your services** according to your clients’ needs. You can provide customers a convenient and affordable way to pay taxes, record and archive your communications or conduct virtual tours. [Learn more...](http://blog.ivrpowers.com/post/industries/industries-professional/)
 
 ## Field Services.
-Today’s market demands a seamless and efficient communication among field service technicians. RTC technology can be decisive to **facilitate collaboration in organizations with mobile workforces.** It allows to instantly share photos, videos and documents and provide remotely additional assistance.
+Today’s market demands a seamless and efficient communication among field service technicians. RTC technology can be decisive to **facilitate collaboration in organizations with mobile workforces.** It allows to instantly share photos, videos and documents and provide remotely additional assistance. [Learn more...](http://blog.ivrpowers.com/post/industries/industries-field/)
 
 # Make sure transformations of communications are a peaceful process for your workers.
  **Interactive Powers** can help you to turn easily customer experience into a competitive advantage, as our solutions are integrated into your existing processes. Being so, escalation to video is naturally incorporated into your business’s workflow.
