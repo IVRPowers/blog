@@ -1,8 +1,8 @@
 +++
 categories = ["industries"]
-date = "2017-10-09T10:48:58+02:00"
+date = "2017-11-22T10:48:58+02:00"
 description = "Video RTC"
-draft = true
+draft = false
 tags = ["videortc","videoconferencing","businessstrategy"]
 title = "Financial Services · Business Cases"
 image = "/postimages/industries/ivrpowers-industries.024.jpeg"
@@ -27,7 +27,7 @@ Video and voice over the internet make it possible to meet current customers’ 
 This technology allows to combine the advantages of self-service, such as rapidity and efficiency, with face-to-face customer service if needed.
 
 
-## Contracts
+## Contracts.
 Thanks to innovative procedures that allow to verify customers’ identity through video and voice features, clients can open an account or buy financial services from the comfort of their homes.
 
 
