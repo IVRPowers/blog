@@ -21,7 +21,7 @@ Video-based service helps financial businesses to **improve customer experience 
 
 ## Video RTC · Business Cases
 
-Main Business Cases in Financial Services:
+[Main Business Cases in Financial Services:](http://blog.ivrpowers.com/post/industries/industries-financial-cases/)
 
 * Expert advise
 * ATMs

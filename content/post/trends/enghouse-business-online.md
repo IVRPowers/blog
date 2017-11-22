@@ -2,7 +2,7 @@
 categories = ["trends"]
 date = "2017-11-22T12:03:53+01:00"
 description = "Market Trend"
-draft = false
+draft = true
 tags = ["trend","custexp","businessstrategy","rtc"]
 title = "Enghouse Interactive: 79% of Consumers Want the Opportunity to Contact Businesses Online"
 
