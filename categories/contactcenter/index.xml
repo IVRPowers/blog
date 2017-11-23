@@ -6,10 +6,20 @@
     <description>Recent content in Contactcenter on Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 19 Sep 2017 12:36:01 +0200</lastBuildDate>
+    <lastBuildDate>Thu, 23 Nov 2017 10:09:51 +0200</lastBuildDate>
     
 	<atom:link href="http://blog.ivrpowers.com/categories/contactcenter/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Video Integration in the Contact Center</title>
+      <link>http://blog.ivrpowers.com/post/contactcenter/video-integration/</link>
+      <pubDate>Thu, 23 Nov 2017 10:09:51 +0200</pubDate>
+      
+      <guid>http://blog.ivrpowers.com/post/contactcenter/video-integration/</guid>
+      <description>Photo source: Pixabay. Creative Commons Video is not a separate solution from the services that contact centers have been providing until now and it is not a substitute for voice calls. The key to the video lies in the possibility of offering a new channel, whose use is progressively increasing.
+Wrongdoings in the contact center One of the mistakes some businesses have made is creating disaggregated processes. The result is that agents have to attend one queue or they are forced to change the environment, depending on whether they answer a phone call or a video call.</description>
+    </item>
     
     <item>
       <title>Does VideoRTC fit in my Contact Center?</title>
@@ -19,6 +29,15 @@
       <guid>http://blog.ivrpowers.com/post/contactcenter/contact-center-videortc/</guid>
       <description>Photo Source: Pexels. Creative Commons Call Centers have to upgrade their services to the next level implementing new advanced interactions The ever-growing digital world can give new opportunities for existing contact centers to provide a superior customer experience. Nowadays new technologies drive clients to ask for multiple options when looking for support. It is here where VideoRTC can help your contact center to enhance its services.
 Save time providing the right channel.</description>
+    </item>
+    
+    <item>
+      <title>IVR plays a Key Role for an Effective Omnichannel Strategy</title>
+      <link>http://blog.ivrpowers.com/post/contactcenter/ivr-role-omnichannel/</link>
+      <pubDate>Mon, 31 Jul 2017 12:29:40 +0200</pubDate>
+      
+      <guid>http://blog.ivrpowers.com/post/contactcenter/ivr-role-omnichannel/</guid>
+      <description>Photo source: Pexels. Creative Commons Customer experience is the current battleground for differentiation. In order to stay relevant and even survive in an increasingly competitive market, contact centers must think different and deploy more advanced communication solutions. The primary path for improving customer experience is enhancing time response and quality of service. Customers expect companies to resolve issues easily and quickly and there is a lot to lose in a disappointing customer expectations.</description>
     </item>
     
   </channel>
