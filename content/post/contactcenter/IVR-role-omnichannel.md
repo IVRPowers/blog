@@ -1,5 +1,5 @@
 +++
-categories = ["contact centers"]
+categories = ["contactcenter"]
 date = "2017-07-31T12:29:40+02:00"
 description = "Customer Experience"
 draft = false
