@@ -5,9 +5,13 @@ description = "Market Trend"
 draft = true
 tags = ["trend","custexp","businessstrategy","rtc"]
 title = "Enghouse Interactive: 79% of Consumers Want the Opportunity to Contact Businesses Online"
+image = "/postimages/trends/ivrpowers-posts-01.189.jpeg"
 
 +++
 
+![man purchasing online](/postimages/trends/ivrpowers-posts-01.189.jpeg)
+------------
+###### Photo Source: Pexels. Creative Commons
 
 
 In a recent [Enghouse Interactive survey,](https://enghouseinteractive.co.uk/about/in-the-media/79-consumers-want-able-contact-businesses-online/) customers have made it clear that they **want online communication channels with companies.** 79% of consumers believe that businesses should provide a way for customers to contact them online.
