@@ -6,10 +6,19 @@
     <description>Recent content in Custexp on Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 17 Nov 2017 09:14:56 +0100</lastBuildDate>
+    <lastBuildDate>Thu, 23 Nov 2017 10:09:51 +0200</lastBuildDate>
     
 	<atom:link href="http://blog.ivrpowers.com/tags/custexp/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Video Integration in the Contact Center</title>
+      <link>http://blog.ivrpowers.com/post/contactcenter/video-integration/</link>
+      <pubDate>Thu, 23 Nov 2017 10:09:51 +0200</pubDate>
+      
+      <guid>http://blog.ivrpowers.com/post/contactcenter/video-integration/</guid>
+      <description>Photo source: Pixabay. Creative Commons The Video Channel is the next level Customer Experience frontier for existing Contact Centers Video is not a separate solution from the services that contact centers have been providing until now and it is not a substitute for voice calls. The key to the Video in Real-time communications lies in the possibility of offering a new channel, whose use is progressively increasing in customer care services for most industries.</description>
+    </item>
     
     <item>
       <title>Interactive Kiosks: RTC Technology to Boost your Business</title>
