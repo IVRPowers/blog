@@ -29,7 +29,7 @@ Video and voice over the internet allows to offer innovative ways for promotion.
 
 ##	Video RTC · Benefits
 
-Real-Time Communications introduction:
+[Real-Time Communications introduction:](http://blog.ivrpowers.com/post/industries/industries-ecommerce-benefits/)
 
 * More data for a better service
 * Increase sales
