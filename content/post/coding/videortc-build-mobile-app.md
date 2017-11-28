@@ -67,7 +67,7 @@ this.my_videogateway.connect().then( useCases => {
            //It executes when information is received by the data channel.
        },
        onGotPeers:(list) => {
-           //It executes when the server responds to the request of .getPeers ();
+           //It executes when the server responds to the request of getListPeers ();
        },
        onHangUp:(userName, reason) => {
            //It is executed when a call is hung. (Decline)
@@ -76,7 +76,7 @@ this.my_videogateway.connect().then( useCases => {
            //It is executed when there is an incoming call.
        },
        onRegistered: (userName, isRegistered) => {
-           //It is executed when the server responds to the action.register () method;
+           //It is executed when the server responds to the action.register() method;
        },
        onSetCall:() => {
            //Set
