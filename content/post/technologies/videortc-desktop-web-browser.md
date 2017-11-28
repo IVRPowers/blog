@@ -1,8 +1,8 @@
 +++
 categories = ["technologies"]
-date = "2017-11-20T21:00:00+02:00"
+date = "2017-11-28T21:00:00+02:00"
 description = "Technology Update"
-draft = true
+draft = false
 tags = ["webrtc","videortc", "safari", "apple"]
 title = "Desktop Web Browsers for Video RTC"
 image = "/postimages/technologies/web-browser-webrtc.010.jpeg"
