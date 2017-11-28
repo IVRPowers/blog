@@ -28,7 +28,7 @@ Google Chrome is the first one on our list as the pioneering WebRTC-enabled brow
  
 ##  Mozilla Firefox.
  
-Mozilla Firefox supports WebRTC since 18th Aurora version. However, WebRTC was not enable by default and it initially required manual settings for video calls functionality. Good news is that it is no longer necessary since 2012, when Firefox released the 22nd version that enabled WebRTC by default.
+Mozilla Firefox supports WebRTC since 18th Aurora version. However, WebRTC was not enable by default and it initially required manual settings for video calls functionality. Good news is that [it is no longer necessary since 2012,](http://blog.ivrpowers.com/post/news/screensharing-firefox/) when Firefox released the 22nd version that enabled WebRTC by default.
  
 ##  Opera Browser.
  
