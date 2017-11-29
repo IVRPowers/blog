@@ -1,8 +1,8 @@
 +++
 categories = ["customerengagement"]
-date = "2017-11-28T22:35:05+01:00"
+date = "2017-11-29T11:35:05+01:00"
 description = "Escalating Real-Time Communications"
-draft = true
+draft = false
 tags = ["videortc","webrtc","custexp"]
 title = "Three Steps in Escalating Communications: Text, Voice and Video"
 image = "/postimages/customerengagement/ivrpowers-posts-02.014.jpeg"
