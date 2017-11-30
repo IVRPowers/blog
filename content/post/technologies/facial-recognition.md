@@ -49,9 +49,3 @@ Otherwise, the system will not allow the access.
 [Interactive Powers](http://www.ivrpowers.com/) - Streamline your business communications
 
 
-
-
-
-
-
-
