@@ -29,7 +29,7 @@ Main Business Cases in Professional Services:
 
 ##	Video RTC · Benefits
 
-Real-Time Communications introduction:
+[Real-Time Communications introduction:](
 
 * Faster Resolution Times
 * Reduction of Onsite Visits
