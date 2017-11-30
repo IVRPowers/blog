@@ -30,7 +30,7 @@ Video-based service helps financial businesses to **improve customer experience 
 
 ##	Video RTC · Benefits
 
-Real-Time Communications introduction:
+[Real-Time Communications introduction:]
 
 * Keep the human touch
 * Increase engagement
