@@ -1,17 +1,17 @@
 +++
 categories = ["trends"]
-date = "2017-11-22T12:03:53+01:00"
+date = "2017-12-02T10:03:53+01:00"
 description = "Market Trend"
-draft = true
+draft = false
 tags = ["trend","custexp","businessstrategy","rtc"]
 title = "79% of Consumers Want the Opportunity to Contact Businesses Online"
-image = "/postimages/trends/ivrpowers-posts-01.189.jpeg"
+image = "/postimages/trends/ivrpowers-posts-01.190.jpeg"
 
 +++
 
-![man purchasing online](/postimages/trends/ivrpowers-posts-01.189.jpeg)
+![man purchasing online](/postimages/trends/ivrpowers-posts-01.191.jpeg)
 ------------
-###### Photo Source: Pexels. Creative Commons
+###### Photo Source: Interactive Powers, Pexels. Creative Commons
 
 
 In a recent [Enghouse Interactive survey,](https://enghouseinteractive.co.uk/about/in-the-media/79-consumers-want-able-contact-businesses-online/) customers have made it clear that they **want online communication channels with companies.** 79% of consumers believe that businesses should provide a way for customers to contact them online.
@@ -19,7 +19,7 @@ In a recent [Enghouse Interactive survey,](https://enghouseinteractive.co.uk/abo
 It is also interesting to compare this figure with the responses to the very same question in previous years' surveys. In 2014, only 29% of respondents answered that the possibility to contact a company online was relevant.
 
 
-## How can a company respond to customer requests?
+## How can a company respond to customer demands?
 
 Nowadays, technological innovations offer the opportunity for companies to supply their customers with new communication channels. **Interactive Powers** provides advanced solutions that are easily integrated into your existing structures. **New services in real time,** such as messaging or video, can help [boost your business.]( http://blog.ivrpowers.com/post/products/video-rtc-industries/) The integration of these contact channels marks the path to an omnichannel strategy.
 
