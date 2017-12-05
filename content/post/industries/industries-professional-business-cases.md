@@ -13,10 +13,8 @@ image = "/postimages/industries/ivrpowers-industries.020.jpeg"
 ----------
 ###### Photo source: Shutterstock licensed to Interactive Powers
 
-
 # 59% of consumers want real-time personal offers designed especially for them
 ---
-
 
 ## Legal Services.
 
@@ -26,8 +24,7 @@ RTC technologies enable to provide your clients an alternative solution to tradi
 
 You can offer exciting interactions, where your customers have the opportunity to see real examples in interactive experiences and contract services after trying your products.
 
-
-## Financial Advisors.
+## Sale Advisors.
 
 Voice and video RTC over internet allow you to provide expert knowledge while keeping costs under control. Thanks to advanced RTC you can also deliver a high quality personalized service.
 
