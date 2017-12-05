@@ -1,8 +1,8 @@
 +++
 categories = ["technologies"]
-date = "2017-11-30T09:28:03+01:00"
+date = "2017-12-05T09:28:03+01:00"
 description = "Biometric Identification in RTC"
-draft = true
+draft = false
 tags = ["biometrics","videoconferencing","rtc"]
 title = "Facial Recognition Feature"
 image = "/postimages/technologies/ivrpowers-posts-02.021.jpeg"
@@ -22,7 +22,7 @@ In a previous post we talked about [secure identification API integrations](http
 
 We showed you two plugins about facial recognition. These two technologies, [Microsoft Azure](https://azure.microsoft.com/es-es/) and [Face++](https://www.faceplusplus.com/), are two powerful tools which allow to use and integrate facial recognition in any application, with optimal results.
 
-## Our use Cases.
+## Our Use Cases.
 
 We have incorporated two facial recognition technologies **into one of our video products.** The access is guaranteed only to the person who recognises the biometric identification system. In our case we are using facial recognition of two different technologies, so it is the user who decides what plugins will activate.
 
