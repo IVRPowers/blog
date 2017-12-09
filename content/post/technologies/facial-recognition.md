@@ -1,18 +1,17 @@
 +++
 categories = ["technologies"]
 date = "2017-12-05T09:28:03+01:00"
-description = "Biometric Identification in RTC"
+description = "Biometric Identification for Video RTC"
 draft = false
 tags = ["biometrics","videoconferencing","rtc"]
-title = "Facial Recognition Feature"
-image = "/postimages/technologies/ivrpowers-posts-02.021.jpeg"
+title = "Video ID · Facial Recognition Plugins"
+image = "/postimages/technologies/ivrpowers-posts-02.004.jpeg"
 
 +++
 
-![woman looking a laptop](/postimages/technologies/ivrpowers-posts-02.021.jpeg)
+![woman looking a laptop](/postimages/technologies/ivrpowers-posts-02.004.jpeg)
 ---------
 ###### Image source: Pexels. Creative Commons
-
 
 Facial recognition is a biometric method of identifying an individual by comparing live capture or digital image data with the stored record for that person. Facial recognition systems are commonly used for security purposes but they are increasingly applied in a wide variety of fields, like in mobile technology, online to shopping, even in medicine.
 
@@ -28,21 +27,22 @@ We have incorporated two facial recognition technologies **into one of our video
 
 **The procedure is simple:** a photo of the user will be registered in the stored record of biometric systems, with the data associated with that person.
 
-![video ID plugin](/postimages/technologies/ivrpowers-posts-02.015.png) ![Interactive Powers](/postimages/technologies/ivrpowers-posts-02.016.png)
+![video ID plugin](/postimages/technologies/ivrpowers-videortc-video-id-01.003.jpeg)
+![Interactive Powers](/postimages/technologies/ivrpowers-videortc-video-id-01.004.jpeg)
+![Interactive Powers](/postimages/technologies/ivrpowers-videortc-video-id-01.005.jpeg)
 
 After the user has uploaded a photo to the recognition system, he must log with videoID.
 
-![screenshot facial recognition](/postimages/technologies/ivrpowers-posts-02.017.png)
-
+![screenshot facial recognition](/postimages/technologies/ivrpowers-videortc-video-id-01.008.jpeg)
 
 If the system recognizes the correct user, it will let him enter the video room.
 
-![correct user](/postimages/technologies/ivrpowers-posts-02.018.png)
-![videoconference starts](/postimages/technologies/ivrpowers-posts-02.019.png)
+![correct user](/postimages/technologies/ivrpowers-videortc-video-id-01.009.jpeg)
+![videoconference starts](/postimages/technologies/ivrpowers-videortc-video-id-01.010.jpeg)
 
 Otherwise, the system will not allow the access.
 
-![wrong recognition](/postimages/technologies/ivrpowers-posts-02.020.png)
+![wrong recognition](/postimages/technologies/ivrpowers-videortc-video-id-01.007.jpeg)
 
 
 ---
