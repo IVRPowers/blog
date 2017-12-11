@@ -20,7 +20,7 @@ Real-Time Video and Voice over the Internet open opportunities for everyone who 
 
 ## Video RTC · Business Cases
 
-Main Business Cases in Contact Centers:
+[Main Business Cases in Contact Centers:](http://blog.ivrpowers.com/post/industries/industries-elearning-cases/)
 
 * Interactive Learning Tools
 * Mobile Learning
