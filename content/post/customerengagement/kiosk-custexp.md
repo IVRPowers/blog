@@ -1,9 +1,9 @@
 +++
 categories = ["customerengagement"]
-date = "2017-09-21T12:08:43+02:00"
+date = "2017-12-12T12:08:43+02:00"
 description = "Kiosks are a Growing Solution"
-draft = true
-tags = ["kiosk","webrtc"]
+draft = false
+tags = ["kiosk","webrtc","custexp","businesstrategy"]
 title = "Is it Possible to Enhance In-store Experiences?"
 image = "/postimages/customerengagement/ivrpowers-posts-01.200.jpeg"
 
@@ -23,11 +23,11 @@ In-store experiences are not always perceived by clients as satisfactory ones. I
 
 ## The end of waiting lines
  
-A [kiosk]( https://en.wikipedia.org/wiki/Interactive_kiosk) is a computer terminal featuring specialized hardware and software that provides access to information and applications. It allows to connect remotely with a real person.
+A [kiosk](http://blog.ivrpowers.com/post/technologies/what-is-kiosk/) is a computer terminal featuring specialized hardware and software that provides access to information and applications. It allows to connect remotely with a real person.
  
 Kiosks can be placed throughout the stores or the offices. Therefore, clients can talk to **a salesperson in real-time from the very moment they enter into the store.** Clients receive information through a face-to-face interaction in a **more convenient way and faster.** It also increases **efficiency,** as companies can hire more sale persons remotely. Interactive kiosks for customer support can help to improve **a broad range of businesses,** such as the car industry, mobile phone stores, financial companies or sales retailers.
  
-[Know some of the case studies here!](Link a un post con un par de casos)
+[Know some of the case studies here!](http://blog.ivrpowers.com/post/customerengagement/businesses-kiosk-2/)
 
 ---
 [Interactive Powers](http://www.ivrpowers.com/) - Streamline your business communications
