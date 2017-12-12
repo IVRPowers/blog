@@ -6,10 +6,20 @@
     <description>Recent content in Kiosk on Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 17 Nov 2017 09:14:56 +0100</lastBuildDate>
+    <lastBuildDate>Tue, 12 Dec 2017 12:08:43 +0200</lastBuildDate>
     
 	<atom:link href="http://blog.ivrpowers.com/tags/kiosk/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Is it Possible to Enhance In-store Experiences?</title>
+      <link>http://blog.ivrpowers.com/post/customerengagement/kiosk-custexp/</link>
+      <pubDate>Tue, 12 Dec 2017 12:08:43 +0200</pubDate>
+      
+      <guid>http://blog.ivrpowers.com/post/customerengagement/kiosk-custexp/</guid>
+      <description>Photo source: Kazuhisa OTSUBO. Creative Commons WebRTC is a transformative technology. It means a shift in the way we think about communications. WebRTC makes it possible a real-time engagement by integrating voice, video, data, messaging and more. Applications of WebRTC are endless and they can play a major role in the way businesses operate.
+The in-store customer experience In-store experiences are not always perceived by clients as satisfactory ones.</description>
+    </item>
     
     <item>
       <title>Interactive Kiosks: RTC Technology to Boost your Business</title>
