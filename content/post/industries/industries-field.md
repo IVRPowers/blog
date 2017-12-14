@@ -21,7 +21,7 @@ One of the keys of technical assistance success is effectiveness. Voice and vide
 
 ## Video RTC · Business Cases
 
-Main Business Cases in Professional Services:
+[Main Business Cases in Professional Services:](http://blog.ivrpowers.com/post/industries/industries-field-business-cases/)
 
 * Expert Cooperation
 * Field to Office Connection
