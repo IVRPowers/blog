@@ -6,10 +6,20 @@
     <description>Recent content in Ivr on Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 27 Sep 2017 12:04:26 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 18 Dec 2017 19:00:00 +0200</lastBuildDate>
     
 	<atom:link href="http://blog.ivrpowers.com/tags/ivr/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>The Cloud API Revolution is Coming to VoIP</title>
+      <link>http://blog.ivrpowers.com/post/general/conferencevoip2day2017/</link>
+      <pubDate>Mon, 18 Dec 2017 19:00:00 +0200</pubDate>
+      
+      <guid>http://blog.ivrpowers.com/post/general/conferencevoip2day2017/</guid>
+      <description>Interactive Powers (IVRPowers) founder CEO, Iván Sixto, gave a conference about min trends on Cloud API for Voice over IP at last VoIP2Day Event. He provided a general overview of the current situation about the rise of a new generation of cloud resources and services.
+The Cloud API Revolution is Coming to VoIP Digital Transformation is changing the way in which we propose the systems we use to communicate. We are experiencing an Internet revolution that begins to affect basic services that we now operate with specific devices or business systems.</description>
+    </item>
     
     <item>
       <title>Video is Transforming Contact Centers</title>
