@@ -6,10 +6,20 @@
     <description>Recent content in Coding on Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 26 Oct 2017 10:45:24 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 18 Dec 2017 10:18:15 +0100</lastBuildDate>
     
 	<atom:link href="http://blog.ivrpowers.com/categories/coding/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Is your Browser WebRTC Supported?</title>
+      <link>http://blog.ivrpowers.com/post/coding/browser-webrtc/</link>
+      <pubDate>Mon, 18 Dec 2017 10:18:15 +0100</pubDate>
+      
+      <guid>http://blog.ivrpowers.com/post/coding/browser-webrtc/</guid>
+      <description>Photo Source: Interactive Powers, Pexels. Creative Commons WebRTC is currently supported by Mozilla Firefox, Google Chrome and Opera, in both desktop and Android versions. Microsoft Internet Explorer and Edge and Apple Safari still have to add support for WebRTC. Currently, support in these browsers is provided by third-party plug-ins, which are not an ideal solution.
+Here, we provide you with an easy javascript code to check if your browser is supported by WebRTC.</description>
+    </item>
     
     <item>
       <title>How it Works our Datachannel with VideoRTC.js</title>
