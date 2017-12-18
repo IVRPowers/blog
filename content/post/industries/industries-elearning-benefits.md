@@ -2,7 +2,7 @@
 categories = ["industries"]
 date = "2017-12-19T00:20:05+02:00"
 description = "Video RTC"
-draft = false
+draft = true
 tags = ["videortc","elearning","videoconferencing"]
 title = "E-learning · Benefits"
 image = "/postimages/industries/ivrpowers-industries.015.jpeg"
