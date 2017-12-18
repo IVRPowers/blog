@@ -1,15 +1,15 @@
 +++
 categories = ["coding"]
 date = "2017-12-18T10:18:15+01:00"
-description = "Javascript Code"
+description = "HTML/Javascript Code"
 draft = false
 tags = ["videortc","webrtc","browser"]
-title = "Is your Browser WebRTC Supported?"
+title = "How to detect if your Browser is WebRTC compliant?"
 image = "/postimages/coding/ivrpowers-videortc-features.034.jpeg"
 
 +++
 
-![browser webRTC](/postimages/coding/ivrpowers-videortc-features.034.jpeg)
+![WebRTC compliant browsers](/postimages/coding/ivrpowers-videortc-features.034.jpeg)
 ------------
 ###### Photo Source: Interactive Powers, Pexels. Creative Commons
 
