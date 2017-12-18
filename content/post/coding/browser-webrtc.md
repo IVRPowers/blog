@@ -1,8 +1,8 @@
 +++
 categories = ["coding"]
-date = "2017-11-30T10:18:15+01:00"
+date = "2017-12-18T10:18:15+01:00"
 description = "Javascript Code"
-draft = true
+draft = false
 tags = ["videortc","webrtc","browser"]
 title = "Is your Browser WebRTC Supported?"
 image = "/postimages/coding/ivrpowers-videortc-features.034.jpeg"
@@ -66,6 +66,8 @@ In **SUPPORTED_URL,** you should write the url to check it.
 In **UNSUPPORTED_URL,** you should write the url of the web page. In case your browser is not supported, the script will redirect it to it.
 
 The rest of the code checks the different browsers and the urls.
+
+
 
 
 Feel free to reach out if you have any questions or comments bellow or just want to show off what kind of cool stuff you’ve built with [VideoRTC.js](http://blog.ivrpowers.com/post/development/introducing-videortcjs-developers/).
