@@ -48,7 +48,7 @@ Events have associated methods. Here they are:
 
 ## Development.
 
-For VideoRTC to work, you must add the basic event structure. We explained it above, but you can also find it in our blog.
+For VideoRTC to work, you must add the basic event structure. We explained it above, but you can also find it in [our blog.](http://blog.ivrpowers.com/post/coding/videortc-build-mobile-app/)
 
 At this point, our app will look like this:
 
@@ -66,7 +66,7 @@ export class My_App {
 }
 ~~~
  
-Next, we add the structure of events, which you can find here, and we put it inside a method. Doing so, after the user enters his name, the process will start by pressing a button. However, this is not a mandatory step.
+Next, we add the structure of events, which you can find it [here,](http://blog.ivrpowers.com/post/coding/videortc-build-mobile-app/) and we put it inside a method. Doing so, after the user enters his name, the process will start by pressing a button. However, this is not a mandatory step.
 
 ~~~typescript
 start() {
