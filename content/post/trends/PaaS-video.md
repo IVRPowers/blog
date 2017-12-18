@@ -3,7 +3,7 @@ categories = ["trends"]
 date = "2017-12-28T10:46:54+01:00"
 description = "Communications Trends"
 draft = true
-tags = ["pass","videortc","businessstraetgy","telehealth"]
+tags = ["paas","videortc","businessstraetgy","telehealth"]
 title = "PaaS, a Business Solution for VideoRTC Integration"
 image = "/postimages/trends/ivrpowers-posts-01.193.jpeg"
 
