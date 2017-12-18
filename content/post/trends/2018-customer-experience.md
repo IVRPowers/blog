@@ -1,6 +1,6 @@
 +++
 categories = ["trends"]
-date = "2017-12-15T11:23:11+01:00"
+date = "2017-12-26T11:23:11+01:00"
 description = "Digital Trends"
 draft = true
 tags = ["custexp","webrtc","videoconferencing","contactcenter"]

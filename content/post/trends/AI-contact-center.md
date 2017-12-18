@@ -1,13 +1,17 @@
 +++
 categories = ["trends"]
-date = "2017-12-05T12:09:19+01:00"
+date = "2017-12-22T12:09:19+01:00"
 description = "Developments and Trends"
 draft = true
 tags = ["AI","contactcenter","custexp"]
 title = "AI in the Contact Center"
+image = "/postimages/trends/ivrpowers-posts-01.194.jpeg"
 
 +++
 
+![bulb idea in a board](/postimages/trends/ivrpowers-posts-01.194.jpeg)
+-----------
+###### Photo source: Pixabay. Creative Commons.
 
 Just a few years ago, talking about artificial intelligence meant talking about a futuristic scenario. Today, AI is everywhere and, directly or indirectly, **we use it almost every day.** The rapid evolution of AI allows it to be increasingly applied to more sophisticated processes which require a high precision.
 

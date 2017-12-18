@@ -1,6 +1,6 @@
 +++
 categories = ["coding"]
-date = "2017-12-18T11:09:58+01:00"
+date = "2017-12-27T11:09:58+01:00"
 description = "Coding"
 draft = true
 tags = ["videocall","code","mobileapp","videortc"]
@@ -166,7 +166,7 @@ callDoUser(item) {
 
 **4) Accepting and rejecting calls.**
 
-In the onIncomingCall you must write the code to incorporate the buttons that will allow you to hang up and accept the call. We recommend to use your own ionic alerts. If so, you should add them in the methods.
+In the onIncomingCall you must write the code to incorporate the buttons that will allow you to hang up and accept the call. We recommend you to use alerts included in the very same Ionic code. If so, you should add them in the methods.
 
 ~~~typescript
 onIncomingCall:(userName) => {
@@ -197,7 +197,7 @@ You can customize a message for the person who makes the call, by using the onCa
 
 **5) Showing the video.**
 
-When the user accepts the call, the onAccepted event is activated. If you use the same view for all the elements of your app, you must include the commands to hide the other elements. In this way, only the video will be displayed.
+When the user accepts the call, the onAccepted event is activated. If you use the same view for all the elements of your app, you must include the code to hide the other elements. In this way, only the video will be displayed.
 
 ~~~typescript
 onAccepted:(userName) => {
