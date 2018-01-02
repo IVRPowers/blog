@@ -6,10 +6,19 @@
     <description>Recent content in Trends on Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 01 Dec 2017 09:03:53 +0100</lastBuildDate>
+    <lastBuildDate>Tue, 02 Jan 2018 21:00:00 +0100</lastBuildDate>
     
 	<atom:link href="http://blog.ivrpowers.com/categories/trends/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>AI in the Contact Center</title>
+      <link>http://blog.ivrpowers.com/post/trends/ai-contact-center/</link>
+      <pubDate>Tue, 02 Jan 2018 21:00:00 +0100</pubDate>
+      
+      <guid>http://blog.ivrpowers.com/post/trends/ai-contact-center/</guid>
+      <description>Photo source: Pixabay. Creative Commons. By 2030, AI solutions will surpass the services provided by agents. Just a few years ago, talking about Artificial Intelligence (AI) meant talking about a futuristic scenario. Today, AI is everywhere and, directly or indirectly, we are starting to use it almost every day. The rapid evolution of AI allows it to be increasingly applied to more sophisticated processes which require a high precision like customer services.</description>
+    </item>
     
     <item>
       <title>79% of Consumers Want the Opportunity to Contact Businesses Online</title>

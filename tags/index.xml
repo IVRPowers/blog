@@ -6,10 +6,19 @@
     <description>Recent content in Tags on Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 17 Nov 2017 12:12:48 +0100</lastBuildDate>
+    <lastBuildDate>Tue, 02 Jan 2018 21:00:00 +0100</lastBuildDate>
     
 	<atom:link href="http://blog.ivrpowers.com/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Ai</title>
+      <link>http://blog.ivrpowers.com/tags/ai/</link>
+      <pubDate>Tue, 02 Jan 2018 21:00:00 +0100</pubDate>
+      
+      <guid>http://blog.ivrpowers.com/tags/ai/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Api</title>
@@ -140,7 +149,7 @@
     <item>
       <title>Contactcenter</title>
       <link>http://blog.ivrpowers.com/tags/contactcenter/</link>
-      <pubDate>Mon, 13 Nov 2017 00:20:05 +0200</pubDate>
+      <pubDate>Tue, 02 Jan 2018 21:00:00 +0100</pubDate>
       
       <guid>http://blog.ivrpowers.com/tags/contactcenter/</guid>
       <description></description>
@@ -158,7 +167,7 @@
     <item>
       <title>Custexp</title>
       <link>http://blog.ivrpowers.com/tags/custexp/</link>
-      <pubDate>Tue, 12 Dec 2017 12:08:43 +0200</pubDate>
+      <pubDate>Tue, 02 Jan 2018 21:00:00 +0100</pubDate>
       
       <guid>http://blog.ivrpowers.com/tags/custexp/</guid>
       <description></description>
