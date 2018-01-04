@@ -1,8 +1,8 @@
 +++
 categories = ["technologies"]
-date = "2018-01-04T09:00:00+02:00"
+date = "2018-01-04T01:00:00+02:00"
 description = "Natual Language Understanding"
-draft = true
+draft = false
 tags = ["ivr","nlu","customerengagement","humaninteraction"]
 title = "What is NLU?"
 image = "/postimages/technologies/ivrpowers-posts-02.027.jpeg"
@@ -15,9 +15,11 @@ comments = true
 
 **Natural Language Understanding (NLU)** can be a complementary in-side programing feature or a specific engine for an [IVR](http://blog.ivrpowers.com/post/technologies/what-is-ivr/). Currently, NLU is still an emerging technology but its nearest evolution is already starting to change the business of Customer Service.
 
-Within our global economy, every resource, every process, every system is pushed to the limits to be more and more automatized and efficient. Some years ago, thinking about driverless cars replacing drivers wasn’t considered a short-term reality, but currently, there are many companies working on creating and making a reality the first comercial self-driving car.
+> **Natural Language Understanding (NLU)** is a branch of artificial intelligence (AI) that uses computer software to understand input made in the form of sentences in text or speech format. NLU directly enables computers to understand commands without the formalized syntax of computer languages and for computers to communicate back to humans in their own languages. Definition from "Whatis.com" 
 
-Evolution is now coming to phone services too, by adding a layer of NLU to your IVR, customers can hold amazing dialogs with your system, that you may have not imagine yet. Currently, most NLU engines could be built over [VoiceXML](http://blog.ivrpowers.com/post/technologies/what-is-voicexml/), in order to run over existing IVR platforms with a faster convergent approach. Have no doubt that there will be many new developments concerning NLU for IVR.
+Within our global economy, **every resource, every process, every system is pushed to the limits** to be more and more automatized and efficient. Some years ago, thinking about driverless cars replacing drivers wasn’t considered a short-term reality, but currently, there are many companies working on creating and making a reality the first comercial self-driving car.
+
+**Evolution is now coming to phone services too**, by adding a layer of NLU to your IVR, customers can hold amazing dialogs with your system, that you may have not imagine yet. Currently, most NLU engines could be built over [VoiceXML](http://blog.ivrpowers.com/post/technologies/what-is-voicexml/), in order to run over existing IVR platforms with a faster convergent approach. Have no doubt that there will be many new developments concerning NLU for IVR.
 
 For a more comprehensive analysis of NLU, feel free to listen following call records examples:
 
