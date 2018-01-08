@@ -15,7 +15,6 @@ image = "/postimages/trends/ivrpowers-posts-01.192.jpeg"
 
 In the last years, **digital technologies have changed the way we work and relate to each other.** These changes have also impacted on customers’ expectations. Clients increasingly demand a more personalized, accessible and comfortable attention.
 
-
 ## Daily Business Communications.
 
 Clients expect from companies the possibility of contacting them through the same variety of channels they use in their everyday life communications. **Interactions through voice, messages or video have become common ways of contact.** Users move naturally from one to another, depending on whether they need to communicate brief and direct information, deliver a document, give a long explanation or display something in motion.
