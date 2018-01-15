@@ -1,14 +1,13 @@
 +++
 categories = ["coding"]
-date = "2017-12-20T11:09:58+01:00"
+date = "2018-01-16T09:00:00+01:00"
 description = "Coding"
 draft = true
 tags = ["videocall","code","mobileapp","videortc"]
-title = "How to Build a Mobile Video Application (WebRTC) in-depth"
+title = "Five Steps to quickly make your own Videocalling application with VideoRTC.js (WebRTC)"
 image = "/postimages/coding/ivrpowers-videortc-features.033.jpeg"
 
 +++
-
 
 ![development](/postimages/coding/ivrpowers-videortc-features.033.jpeg)
 ------------
@@ -37,11 +36,11 @@ Events have associated methods. Here they are:
 
 * **acceptCall():** Accept an incoming call.
 * **call(userName):** Call to peer registered.
-* **closeUsecase():** Close the current UseCase. It's recommended to use it with the disconnect method. 
+* **closeUsecase():** Close the current UseCase. Recommended for the disconnect method. 
 * **getPeers(filter, order):** Get list of peers registered/incall (Returns an array).
 * **hangUp():** Hang up/Decline a call.
 * **register(userName):**  Register a peer in the VideoCall Usecase. 
-* **sendData(type, data, cOk, cKo, (Optional)):** Sends a message (Chat or File) through the DataChannel.
+* **sendData(type, data, cOk, cKo, (Optional)):** Sends a message through the DataChannel.
 * **setCall(audio, video, quality):** Configure the call settings as you go along.
 * **toggleVideo():** Toggle local Audio stream (Mute/Unmute). 
 
@@ -125,7 +124,7 @@ start() {
 
 ## Steps to set up your video conference.
 
-**1) User registration.**
+### 1) User registration.
 
 Firstly, user must be registered in the server. You have to add the user name as follows:
 
@@ -136,9 +135,9 @@ action.register(userName);
 Take into account that a very same user can not be registered twice.
 
 
-**2) How to obtain registered users’ list to establish a call.**
+### 2) How to obtain registered users’ list to establish a call.
 
-After this step, the user is also registered in the videogateway server. In order to establish a call, it is necessary to know the registered users. We must use the event onGotPeers and with an array, we read and save the data. Look at the example:
+After this step, the user is also registered in the video gateway server. In order to establish a call, it is necessary to know the registered users. We must use the event **onGotPeers** and with an array, we read and save the data. Look at the example:
 
 ~~~typescript
 onGotPeers:(list) => {
@@ -154,9 +153,9 @@ Then, we use this method to call:
 action.getPeers();
 ~~~
  
-**3) Establishing a call between two users.**
+### 3) Establishing a call between two users.
 
-Once we know the list of users, we can call a user using the call () method. We will explain below how you can create a user list in HTML.
+Once we know the list of users, we can call a user using the **call()** method. We will explain below how you can create a user list in HTML.
 
 ~~~typescript
 callDoUser(item) {
@@ -164,9 +163,9 @@ callDoUser(item) {
 }
 ~~~
 
-**4) Accepting and rejecting calls.**
+### 4) Accepting and rejecting calls.
 
-In the onIncomingCall you must write the code to incorporate the buttons that will allow you to hang up and accept the call. We recommend you to use alerts included in the very same Ionic code. If so, you should add them in the methods.
+In the **onIncomingCall** you must write the code to incorporate the buttons that will allow you to hang up and accept the call. We recommend you to use alerts included in the very same Ionic code. If so, you should add them in the methods.
 
 ~~~typescript
 onIncomingCall:(userName) => {
@@ -192,10 +191,9 @@ onIncomingCall:(userName) => {
 }
 ~~~
 
+You can customize a message for the person who makes the call, by using the **onCalling** method. The code will be executed when calling.
 
-You can customize a message for the person who makes the call, by using the onCalling method. The code will be executed when calling.
-
-**5) Showing the video.**
+### 5) Showing the video.
 
 When the user accepts the call, the onAccepted event is activated. If you use the same view for all the elements of your app, you must include the code to hide the other elements. In this way, only the video will be displayed.
 
@@ -212,7 +210,7 @@ Next, we explain the HTML elements.
 
 ## Start the app.
 
-As we stated above, the code enables to start a call by pressing a button after the user adds his/her name. It is a simple process. We just added the click of the start() method.
+As we stated above, the code enables to start a call by pressing a button after the user adds his/her name. It is a simple process. We just added the click of the **start()** method.
 
 ~~~typescript
 <button ion-button color="dark" padding text-center (click)="start()">
@@ -240,7 +238,7 @@ Once we have the method in the Type Script code, we add its corresponding functi
 
 Now, we have the list of connected users. It shows all of them, with the exception of the app user.
 
-Note: showPeers() only has the onGotPeers() method call;
+Note: **showPeers()** only has the **onGotPeers()** method call;
 
 ## Video element.
 
