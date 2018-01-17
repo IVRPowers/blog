@@ -6,10 +6,21 @@
     <description>Recent content in Coding on Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 18 Dec 2017 10:18:15 +0100</lastBuildDate>
+    <lastBuildDate>Tue, 16 Jan 2018 21:00:00 +0100</lastBuildDate>
     
 	<atom:link href="http://blog.ivrpowers.com/categories/coding/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Five Steps to quickly make your own Videocalling application with VideoRTC.js (WebRTC)</title>
+      <link>http://blog.ivrpowers.com/post/coding/five-steps-build-mobile-application/</link>
+      <pubDate>Tue, 16 Jan 2018 21:00:00 +0100</pubDate>
+      
+      <guid>http://blog.ivrpowers.com/post/coding/five-steps-build-mobile-application/</guid>
+      <description>Photo Source: Interactive Powers, Pexels. Creative Commons Users have asked us about our post on how to build a video call service in your mobile by using the Ionic Framework 2 and VideoRTC.js.
+In this new release we offer you a more detailed explanation of the steps to take, so that you can successfully build your mobile video application.
+Introduction. From the moment you established a VideoRTC interaction, by connecting with the video gateway, until the call is finished, library’s range of events are executed.</description>
+    </item>
     
     <item>
       <title>How to detect if your Browser is WebRTC compliant?</title>

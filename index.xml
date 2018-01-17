@@ -31,12 +31,34 @@ Interactive Powers delivers communication platforms that enables advanced real-t
     </item>
     
     <item>
+      <title>Video RTC (WebRTC) v3.1</title>
+      <link>http://blog.ivrpowers.com/post/updates/update-video-rtc-webrtc-3.1.0/</link>
+      <pubDate>Wed, 17 Jan 2018 09:00:00 +0200</pubDate>
+      
+      <guid>http://blog.ivrpowers.com/post/updates/update-video-rtc-webrtc-3.1.0/</guid>
+      <description>Release Note We are pleased to announce that our new Video RTC (Gateway WebRTC) v3.1.0 has been released for suitable production services. This new version includes a lot of improvements and new features. All users with previous maintained versions can upgrade today. Please contact our support!
+ChangeLog Version 3.1.0:
+## [3.1.0] - 2018-01-16 ### Added - Added the possibility of configuring different SPLIT scenarios at Flavour level - Added `autoRecording` option in the SPLIT Agent usecase - Added texts option in the SPLIT usecase - Added FileSharing in the Webclient usecase - Added ScreenSharing in the Webclient usecase - Added possibility to show a message until the Video agent is accepted - Added `split_id_strategy` in the VideoGateway - Added Safari iOS 11 support in the SplitClient module (Audio mode) ### Changed - Updated VideoRTC.</description>
+    </item>
+    
+    <item>
+      <title>Five Steps to quickly make your own Videocalling application with VideoRTC.js (WebRTC)</title>
+      <link>http://blog.ivrpowers.com/post/coding/five-steps-build-mobile-application/</link>
+      <pubDate>Tue, 16 Jan 2018 21:00:00 +0100</pubDate>
+      
+      <guid>http://blog.ivrpowers.com/post/coding/five-steps-build-mobile-application/</guid>
+      <description>Photo Source: Interactive Powers, Pexels. Creative Commons Users have asked us about our post on how to build a video call service in your mobile by using the Ionic Framework 2 and VideoRTC.js.
+In this new release we offer you a more detailed explanation of the steps to take, so that you can successfully build your mobile video application.
+Introduction. From the moment you established a VideoRTC interaction, by connecting with the video gateway, until the call is finished, library’s range of events are executed.</description>
+    </item>
+    
+    <item>
       <title>Contact Centers and Customer Experience in 2018</title>
       <link>http://blog.ivrpowers.com/post/trends/2018-customer-experience/</link>
       <pubDate>Mon, 15 Jan 2018 20:23:11 +0100</pubDate>
       
       <guid>http://blog.ivrpowers.com/post/trends/2018-customer-experience/</guid>
-      <description>Photo Source: Pexels. Creative Commons Companies must recognize CX as a key competitive differentiator and make sweeping changes in the Channels to keep up this year. In the last years, digital technologies have changed the way we work and relate to each other. These changes have also impacted on customers’ expectations. Clients increasingly demand a more personalized, accessible and comfortable attention.
+      <description>Photo Source: Pexels. Creative Commons Companies must recognize CX as a key competitive differentiator and make sweeping changes in Channels to keep up this year. In the last years, digital technologies have changed the way we work and relate to each other. These changes have also impacted on customers’ expectations. Clients increasingly demand a more personalized, accessible and comfortable attention.
 Daily Business Communications. Clients expect from companies the possibility of contacting them through the same variety of channels they use in their everyday life communications.</description>
     </item>
     
