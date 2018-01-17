@@ -13,7 +13,7 @@ image = "/postimages/trends/ivrpowers-posts-01.192.jpeg"
 ------------
 ###### Photo Source: Pexels. Creative Commons
 
-#	Companies must recognize CX as a key competitive differentiator and make sweeping changes in the Channels to keep up this year.
+#	Companies must recognize CX as a key competitive differentiator and make sweeping changes in Channels to keep up this year.
 ---
 
 In the last years, **digital technologies have changed the way we work and relate to each other.** These changes have also impacted on customers’ expectations. Clients increasingly demand a more personalized, accessible and comfortable attention.
