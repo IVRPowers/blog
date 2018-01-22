@@ -13,6 +13,11 @@
   </url>
   
   <url>
+    <loc>http://blog.ivrpowers.com/post/technologies/videortc-ios/</loc>
+    <lastmod>2018-01-21T21:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://blog.ivrpowers.com/post/updates/update-video-rtc-webrtc-3.1.0/</loc>
     <lastmod>2018-01-17T09:00:00+02:00</lastmod>
   </url>
@@ -802,7 +807,7 @@
   
   <url>
     <loc>http://blog.ivrpowers.com/tags/apple/</loc>
-    <lastmod>2017-11-28T21:00:00+02:00</lastmod>
+    <lastmod>2018-01-21T21:00:00+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1028,6 +1033,12 @@
   </url>
   
   <url>
+    <loc>http://blog.ivrpowers.com/tags/ios/</loc>
+    <lastmod>2018-01-21T21:00:00+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://blog.ivrpowers.com/tags/iot/</loc>
     <lastmod>2017-07-24T12:30:37+02:00</lastmod>
     <priority>0</priority>
@@ -1149,7 +1160,7 @@
   
   <url>
     <loc>http://blog.ivrpowers.com/post/</loc>
-    <lastmod>2018-01-17T09:00:00+02:00</lastmod>
+    <lastmod>2018-01-21T21:00:00+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1269,7 +1280,7 @@
   
   <url>
     <loc>http://blog.ivrpowers.com/categories/technologies/</loc>
-    <lastmod>2018-01-04T01:00:00+02:00</lastmod>
+    <lastmod>2018-01-21T21:00:00+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1335,7 +1346,7 @@
   
   <url>
     <loc>http://blog.ivrpowers.com/tags/videortc/</loc>
-    <lastmod>2018-01-16T21:00:00+01:00</lastmod>
+    <lastmod>2018-01-21T21:00:00+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1377,7 +1388,7 @@
   
   <url>
     <loc>http://blog.ivrpowers.com/tags/webrtc/</loc>
-    <lastmod>2018-01-17T09:00:00+02:00</lastmod>
+    <lastmod>2018-01-21T21:00:00+02:00</lastmod>
     <priority>0</priority>
   </url>
   
