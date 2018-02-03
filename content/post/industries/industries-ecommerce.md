@@ -20,20 +20,24 @@ Video and voice over the internet allows to offer innovative ways for promotion.
 
 ## Video RTC · Business Cases
 
-[Main Business Cases in Contact Centers:](http://blog.ivrpowers.com/post/industries/industries-ecommerce-business-cases/)
+Main Business Cases in eCommerce Services:
 
 * Pre-sales support
 * Personalized shopping
 * Enhance promotion
 
+Click [here](http://blog.ivrpowers.com/post/industries/industries-ecommerce-business-cases/) for further information.
+
 
 ##	Video RTC · Benefits
 
-[Real-Time Communications introduction:](http://blog.ivrpowers.com/post/industries/industries-ecommerce-benefits/)
+Video Real-Time Communications Benefits introduction:
 
 * More data for a better service
 * Increase sales
 * Customer retention
+
+Click [here](http://blog.ivrpowers.com/post/industries/industries-ecommerce-benefits/) for further information.
 
 
 ## Video RTC · Features

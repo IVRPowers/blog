@@ -21,20 +21,24 @@ Video-based service helps financial businesses to **improve customer experience 
 
 ## Video RTC · Business Cases
 
-[Main Business Cases in Financial Services:](http://blog.ivrpowers.com/post/industries/industries-financial-cases/)
+Main Business Cases in Financial Services:
 
 * Expert advise
 * ATMs
 * Signing Contracts
 
+Click [here](http://blog.ivrpowers.com/post/industries/industries-financial-cases/) for further information.
+
 
 ##	Video RTC · Benefits
 
-[Real-Time Communications introduction:](http://blog.ivrpowers.com/post/industries/industries-financial-benefits/)
+Video Real-Time Communications Benefits introduction:
 
 * Keep the human touch
 * Increase engagement
 * Expand financial opportunities
+
+Click [here](http://blog.ivrpowers.com/post/industries/industries-financial-benefits/) for further information.
 
 
 ## Video RTC · Features

@@ -21,21 +21,23 @@ One of the keys of technical assistance success is effectiveness. Voice and vide
 
 ## Video RTC · Business Cases
 
-[Main Business Cases in Professional Services:](http://blog.ivrpowers.com/post/industries/industries-field-business-cases/)
+Main Business Cases in Field Services:
 
 * Expert Cooperation
 * Field to Office Connection
 * Real Experiences to Train
 
+Click [here](http://blog.ivrpowers.com/post/industries/industries-field-business-cases/) for further information.
+
 ##	Video RTC · Benefits
 
-[Real-Time Communications introduction:](http://blog.ivrpowers.com/post/industries/industries-field-benefits/)
-
+Video Real-Time Communications Benefits introduction:
 
 * Faster Resolution Times
 * Reduction of Onsite Visits
 * Cost-Efficiency
 
+Click [here](http://blog.ivrpowers.com/post/industries/industries-field-benefits/) for further information.
 
 ## Video RTC · Features
 

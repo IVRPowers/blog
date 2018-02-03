@@ -21,20 +21,24 @@ Customers are moving more and more online and businesses are forced to provide t
 
 ## Video RTC · Business Cases
 
-[Main Business Cases in Contact Centers:](http://blog.ivrpowers.com/post/industries/industries-callcenters-cases/)
+Main Business Cases in Call Center Services:
 
 * Customer Service
 * Technical Support
 * Pre-sales
 
+Click [here](http://blog.ivrpowers.com/post/industries/industries-callcenters-cases/) for further information.
+
 
 ##	Video RTC · Benefits
 
-[Real-Time Communications introduction:](http://blog.ivrpowers.com/post/industries/industries-callcenters-benefits/)
+Video Real-Time Communications Benefits introduction:	
 
 * Omnichannel experience
 * More efficient support
 * Reinforce brand loyalty
+
+Click [here](http://blog.ivrpowers.com/post/industries/industries-callcenters-benefits/) for further information.
 
 
 ## Video RTC · Features

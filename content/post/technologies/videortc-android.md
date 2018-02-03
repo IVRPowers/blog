@@ -1,6 +1,6 @@
 +++
 categories = ["technologies"]
-date = "2018-01-21T21:00:00+02:00"
+date = "2018-02-05T21:00:00+02:00"
 description = "Technology Update"
 draft = true
 tags = ["webrtc","videortc", "android"]
@@ -9,7 +9,7 @@ image = "/postimages/technologies/ivrpowers-posts-03.034.jpeg"
 comments = true
 +++
 
-![Video RTC Safari Chrome](/postimages/technologies/ivrpowers-posts-03.034.jpeg)
+![Video RTC Android](/postimages/technologies/ivrpowers-posts-03.034.jpeg)
 ---------
 ###### Image source: Interactive Powers
 
