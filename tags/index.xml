@@ -21,6 +21,15 @@
     </item>
     
     <item>
+      <title>Android</title>
+      <link>http://blog.ivrpowers.com/tags/android/</link>
+      <pubDate>Fri, 16 Feb 2018 21:00:00 +0200</pubDate>
+      
+      <guid>http://blog.ivrpowers.com/tags/android/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Api</title>
       <link>http://blog.ivrpowers.com/tags/api/</link>
       <pubDate>Fri, 17 Nov 2017 12:12:48 +0100</pubDate>
@@ -662,7 +671,7 @@
     <item>
       <title>Videortc</title>
       <link>http://blog.ivrpowers.com/tags/videortc/</link>
-      <pubDate>Fri, 02 Feb 2018 10:46:54 +0100</pubDate>
+      <pubDate>Fri, 16 Feb 2018 21:00:00 +0200</pubDate>
       
       <guid>http://blog.ivrpowers.com/tags/videortc/</guid>
       <description></description>
@@ -725,7 +734,7 @@
     <item>
       <title>Webrtc</title>
       <link>http://blog.ivrpowers.com/tags/webrtc/</link>
-      <pubDate>Sun, 21 Jan 2018 21:00:00 +0200</pubDate>
+      <pubDate>Fri, 16 Feb 2018 21:00:00 +0200</pubDate>
       
       <guid>http://blog.ivrpowers.com/tags/webrtc/</guid>
       <description></description>

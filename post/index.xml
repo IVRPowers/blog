@@ -31,6 +31,16 @@ Interactive Powers delivers communication platforms that enables advanced real-t
     </item>
     
     <item>
+      <title>Calling with WebRTC on Android</title>
+      <link>http://blog.ivrpowers.com/post/technologies/videortc-android/</link>
+      <pubDate>Fri, 16 Feb 2018 21:00:00 +0200</pubDate>
+      
+      <guid>http://blog.ivrpowers.com/post/technologies/videortc-android/</guid>
+      <description>Image source: Interactive Powers Make direct voice and video calls from Android devices thanks to VideoRTC.js and its native WebRTC based tecnology In previous posts, we have looked at some key considerations for building apps for video calling on web browsers and mobile devices, and some of the features you can include to make sure your users have a great experience.
+Now any modern Android works with all compliant Smartphone, TV and Tablet devices which is an important component for creating frictionless, delightful apps, especially voice &amp;amp; video calling.</description>
+    </item>
+    
+    <item>
       <title>The Rise of CPaaS for Video Real-Time Communications in Businesses</title>
       <link>http://blog.ivrpowers.com/post/trends/rise-of-cpaas-video-real-time-communications/</link>
       <pubDate>Fri, 02 Feb 2018 10:46:54 +0100</pubDate>
