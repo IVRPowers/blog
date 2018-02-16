@@ -20,20 +20,23 @@ Real-Time Video and Voice over the Internet open opportunities for everyone who 
 
 ## Video RTC · Business Cases
 
-[Main Business Cases in Contact Centers:](http://blog.ivrpowers.com/post/industries/industries-elearning-cases/)
+Main Business Cases in eLearning Services:
 
 * Interactive Learning Tools
 * Mobile Learning
 * Tutoring
 
+Click [here](http://blog.ivrpowers.com/post/industries/industries-elearning-cases/) for further information.
 
 ##	Video RTC · Benefits
 
-Real-Time Communications introduction:
+Video Real-Time Communications Benefits introduction:
 
 * Learning at convenience
 * Social learning
 * Adaptive learning
+
+Click [here](http://blog.ivrpowers.com/post/industries/industries-elearning-benefits/) for further information.
 
 
 ## Video RTC · Features

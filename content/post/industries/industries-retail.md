@@ -22,21 +22,24 @@ Video and Voice Real-Time communications over the Internet offers the opportunit
 
 ## Video RTC · Business Cases
 
-[Main Business Cases in Retail:](http://blog.ivrpowers.com/post/industries/industries-retail-business-cases/)
+Main Business Cases in Healthcare Services:
 
 * Live chat assistance
 * Show the product
 * Post-sales Support
 
+Click [here](http://blog.ivrpowers.com/post/industries/industries-retail-business-cases/) for further information.
+
 
 ##	Video RTC · Benefits
 
-[Real-Time Communications introduction:](http://blog.ivrpowers.com/post/industries/industries-retail-benefits/)
+Video Real-Time Communications Benefits introduction:
 
 * Immediate assistance
 * Easily integration
 * Keep in touch
 
+Click [here](http://blog.ivrpowers.com/post/industries/industries-retail-benefits/) for further information.
 
 ## Video RTC · Features
 

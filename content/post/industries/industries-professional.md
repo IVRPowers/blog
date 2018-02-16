@@ -26,6 +26,8 @@ Main Business Cases in Professional Services:
 * Marketing and design
 * Sale advisors
 
+Click [here](http://blog.ivrpowers.com/post/industries/industries-professional-business-cases/) for further information.
+
 ##	Video RTC · Benefits
 
 Real-Time Communications introduction:
@@ -34,6 +36,7 @@ Real-Time Communications introduction:
 * Widen your reach
 * Reduce costs
 
+Click [here](http://blog.ivrpowers.com/post/industries/industries-professional-benefits/) for further information.
 
 ## Video RTC · Features
 
