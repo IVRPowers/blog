@@ -16,9 +16,9 @@ comments = true
 #	Make direct voice calls from Apple iOS devices thanks to VideoRTC.js and its native WebRTC based tecnology
 ---
 
-In [previous posts](http://blog.ivrpowers.com//tags/code/), we have looked at some key considerations for building apps for video calling on web browsers and mobile devices, and some of the features you can include to make sure your users have a great experience. 
+In [previous posts](http://blog.ivrpowers.com//tags/code/), we have looked at some key considerations for **building apps for video calling on web browsers and mobile devices**, and some of the features you can include to make sure your users have a great experience. 
 
-Now  iOS 11 works with all compliant Apple iPhone and iPad devices which is an important component for creating frictionless, delightful apps, especially voice calling. It’s an important news for all companies that could now receive calls without PSTN and without any plugin or app! 
+Now  **iOS 11 works with all compliant Apple iPhone and iPad devices** which is an important component for creating frictionless, delightful apps, especially voice calling. It’s an important news for all companies that could now receive calls without PSTN and without any plugin or app! 
 
 Just create a web calling service with our [VideoRTC.js](http://blog.ivrpowers.com/post/development/introducing-videortcjs-developers/) functions!
 
