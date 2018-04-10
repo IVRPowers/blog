@@ -311,7 +311,7 @@
     <item>
       <title>Ivr</title>
       <link>http://blog.ivrpowers.com/tags/ivr/</link>
-      <pubDate>Thu, 04 Jan 2018 01:00:00 +0200</pubDate>
+      <pubDate>Tue, 10 Apr 2018 09:30:00 +0100</pubDate>
       
       <guid>http://blog.ivrpowers.com/tags/ivr/</guid>
       <description></description>
@@ -561,6 +561,15 @@
     </item>
     
     <item>
+      <title>Speech</title>
+      <link>http://blog.ivrpowers.com/tags/speech/</link>
+      <pubDate>Tue, 10 Apr 2018 09:30:00 +0100</pubDate>
+      
+      <guid>http://blog.ivrpowers.com/tags/speech/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Split</title>
       <link>http://blog.ivrpowers.com/tags/split/</link>
       <pubDate>Wed, 21 Jun 2017 00:20:05 +0200</pubDate>
@@ -615,11 +624,29 @@
     </item>
     
     <item>
+      <title>Text To Speech</title>
+      <link>http://blog.ivrpowers.com/tags/text-to-speech/</link>
+      <pubDate>Tue, 10 Apr 2018 09:30:00 +0100</pubDate>
+      
+      <guid>http://blog.ivrpowers.com/tags/text-to-speech/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Trend</title>
       <link>http://blog.ivrpowers.com/tags/trend/</link>
       <pubDate>Fri, 01 Dec 2017 09:03:53 +0100</pubDate>
       
       <guid>http://blog.ivrpowers.com/tags/trend/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tts</title>
+      <link>http://blog.ivrpowers.com/tags/tts/</link>
+      <pubDate>Tue, 10 Apr 2018 09:30:00 +0100</pubDate>
+      
+      <guid>http://blog.ivrpowers.com/tags/tts/</guid>
       <description></description>
     </item>
     

@@ -6,10 +6,19 @@
     <description>Recent content in Ivr on Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 04 Jan 2018 01:00:00 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 10 Apr 2018 09:30:00 +0100</lastBuildDate>
     
 	<atom:link href="http://blog.ivrpowers.com/tags/ivr/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Google Text-to-Speech</title>
+      <link>http://blog.ivrpowers.com/post/technologies/google-tts/</link>
+      <pubDate>Tue, 10 Apr 2018 09:30:00 +0100</pubDate>
+      
+      <guid>http://blog.ivrpowers.com/post/technologies/google-tts/</guid>
+      <description>Image source: Pexels. Creative Commons New Google Cloud Speech API Text-to-Speech for Developers has been released! Google is launching a new AI voice synthesizer as part of its suite of machine learning cloud tools. This new Cloud Speech API behind Google Assistant works really fast and use amazing voices to run your own advanced IVR or RTC services. For now, it’s only available in Beta version for Developers and already includes more than 30+ voices but this first cloud service aproach will probably grow quickly thanks to the AI WaveNet technology.</description>
+    </item>
     
     <item>
       <title>What is NLU?</title>

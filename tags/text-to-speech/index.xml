@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Text To Speech on Blog</title>
+    <link>http://blog.ivrpowers.com/tags/text-to-speech/</link>
+    <description>Recent content in Text To Speech on Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 10 Apr 2018 09:30:00 +0100</lastBuildDate>
+    
+	<atom:link href="http://blog.ivrpowers.com/tags/text-to-speech/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Google Text-to-Speech</title>
+      <link>http://blog.ivrpowers.com/post/technologies/google-tts/</link>
+      <pubDate>Tue, 10 Apr 2018 09:30:00 +0100</pubDate>
+      
+      <guid>http://blog.ivrpowers.com/post/technologies/google-tts/</guid>
+      <description>Image source: Pexels. Creative Commons New Google Cloud Speech API Text-to-Speech for Developers has been released! Google is launching a new AI voice synthesizer as part of its suite of machine learning cloud tools. This new Cloud Speech API behind Google Assistant works really fast and use amazing voices to run your own advanced IVR or RTC services. For now, it’s only available in Beta version for Developers and already includes more than 30+ voices but this first cloud service aproach will probably grow quickly thanks to the AI WaveNet technology.</description>
+    </item>
+    
+  </channel>
+</rss>

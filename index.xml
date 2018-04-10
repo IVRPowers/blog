@@ -31,6 +31,15 @@ Interactive Powers delivers communication platforms that enables advanced real-t
     </item>
     
     <item>
+      <title>Google Text-to-Speech</title>
+      <link>http://blog.ivrpowers.com/post/technologies/google-tts/</link>
+      <pubDate>Tue, 10 Apr 2018 09:30:00 +0100</pubDate>
+      
+      <guid>http://blog.ivrpowers.com/post/technologies/google-tts/</guid>
+      <description>Image source: Pexels. Creative Commons New Google Cloud Speech API Text-to-Speech for Developers has been released! Google is launching a new AI voice synthesizer as part of its suite of machine learning cloud tools. This new Cloud Speech API behind Google Assistant works really fast and use amazing voices to run your own advanced IVR or RTC services. For now, it’s only available in Beta version for Developers and already includes more than 30+ voices but this first cloud service aproach will probably grow quickly thanks to the AI WaveNet technology.</description>
+    </item>
+    
+    <item>
       <title>Calling with WebRTC on Android</title>
       <link>http://blog.ivrpowers.com/post/technologies/videortc-android/</link>
       <pubDate>Fri, 16 Feb 2018 21:00:00 +0200</pubDate>
