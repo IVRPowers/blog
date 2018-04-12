@@ -11,7 +11,7 @@ image = "/postimages/technologies/google-tts.002.jpeg"
 
 ![Google Cloud TTS](/postimages/technologies/google-tts.001.jpeg)
 ---------
-###### Image source: Pexels. Creative Commons
+###### Image source: Google Speech API
 
 # New Google Cloud Speech API Text-to-Speech for Developers has been  released!
 
