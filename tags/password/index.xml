@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Password on Blog</title>
+    <link>http://blog.ivrpowers.com/tags/password/</link>
+    <description>Recent content in Password on Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 11 Apr 2018 09:30:00 +0100</lastBuildDate>
+    
+	<atom:link href="http://blog.ivrpowers.com/tags/password/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>New Web Browser Standard for an universal Password-free sign-in</title>
+      <link>http://blog.ivrpowers.com/post/trends/web-standard-password-free/</link>
+      <pubDate>Wed, 11 Apr 2018 09:30:00 +0100</pubDate>
+      
+      <guid>http://blog.ivrpowers.com/post/trends/web-standard-password-free/</guid>
+      <description>Image source: Pixabay. Creative Commons A new web standard makes it possible to sign into virtually any web service without needing a password! This Authentication standard from W3C will use your fingerprint reader or inside camera in a wide variety of web browsers. That, in turn, lets you access virtually any online service in a PC or mobile device through password-free FIDO Authentication, not just specific services. You can continue to use familiar biometrics methods like fingerprint readers, cameras and USB keys, and it can serve both in place of and in addition to passwords.</description>
+    </item>
+    
+  </channel>
+</rss>
