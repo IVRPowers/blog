@@ -1,7 +1,7 @@
 +++
 categories = ["products"]
 date = "2018-05-01T18:00:00+02:00"
-description = "Empowering Call Center"
+description = "Empowering your Call Center"
 draft = false
 tags = ["rtc","videortc"]
 title = "Video RTC · Remote Viewer"
