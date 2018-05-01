@@ -6,10 +6,19 @@
     <description>Recent content in Rtc on Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 17 Jan 2018 09:00:00 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 01 May 2018 18:00:00 +0200</lastBuildDate>
     
 	<atom:link href="http://blog.ivrpowers.com/tags/rtc/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Video RTC · Remote Viewer</title>
+      <link>http://blog.ivrpowers.com/post/products/video-rtc-remote-viewer/</link>
+      <pubDate>Tue, 01 May 2018 18:00:00 +0200</pubDate>
+      
+      <guid>http://blog.ivrpowers.com/post/products/video-rtc-remote-viewer/</guid>
+      <description>Photo Source: Interactive Powers. Dramatically improves Customer Experience (CX) extending phone calls with Live Chat, Dual File Sharing, Dual Screen Sharing… Sometime, you don&amp;rsquo;t have to change all things to build something new and really better to improve your existing Business Communications. Remote Viewer is a new Video RTC Use Case and solution that allows to add advanced powers both to your call center agents and phone callers. Have you think about reducing customer care or support interactions, time spend during phone calls or improve your customer experience and confidence.</description>
+    </item>
     
     <item>
       <title>Video RTC (WebRTC) v3.1</title>
