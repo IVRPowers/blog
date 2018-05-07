@@ -6,10 +6,20 @@
     <description>Recent content in Videortc on Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 01 May 2018 18:00:00 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 07 May 2018 20:00:00 +0200</lastBuildDate>
     
 	<atom:link href="http://blog.ivrpowers.com/tags/videortc/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>How to insert a Webphone into an iFrame</title>
+      <link>http://blog.ivrpowers.com/post/coding/webclient-website-iframe/</link>
+      <pubDate>Mon, 07 May 2018 20:00:00 +0200</pubDate>
+      
+      <guid>http://blog.ivrpowers.com/post/coding/webclient-website-iframe/</guid>
+      <description>Photo Source: Interactive Powers, Pexels. Creative Commons In a previous post we explained how to include a Webphone button to launch our Webclient (Webphone) in a popup window. In this case, we want to include the Webclient directly in a website as an iFrame and not in an external page.
+Including an iFrame element First of all, you need to include an iFrame HTML5 element in your website like this:</description>
+    </item>
     
     <item>
       <title>Video RTC · Remote Viewer</title>

@@ -13,6 +13,11 @@
   </url>
   
   <url>
+    <loc>http://blog.ivrpowers.com/post/coding/webclient-website-iframe/</loc>
+    <lastmod>2018-05-07T20:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://blog.ivrpowers.com/post/products/video-rtc-remote-viewer/</loc>
     <lastmod>2018-05-01T18:00:00+02:00</lastmod>
   </url>
@@ -920,13 +925,13 @@
   
   <url>
     <loc>http://blog.ivrpowers.com/tags/code/</loc>
-    <lastmod>2018-01-16T21:00:00+01:00</lastmod>
+    <lastmod>2018-05-07T20:00:00+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://blog.ivrpowers.com/categories/coding/</loc>
-    <lastmod>2018-01-16T21:00:00+01:00</lastmod>
+    <lastmod>2018-05-07T20:00:00+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1208,7 +1213,7 @@
   
   <url>
     <loc>http://blog.ivrpowers.com/post/</loc>
-    <lastmod>2017-06-12T09:42:42+02:00</lastmod>
+    <lastmod>2018-05-07T20:00:00+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1412,7 +1417,7 @@
   
   <url>
     <loc>http://blog.ivrpowers.com/tags/videortc/</loc>
-    <lastmod>2018-05-01T18:00:00+02:00</lastmod>
+    <lastmod>2018-05-07T20:00:00+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1454,7 +1459,7 @@
   
   <url>
     <loc>http://blog.ivrpowers.com/tags/webphone/</loc>
-    <lastmod>2017-10-11T11:30:24+02:00</lastmod>
+    <lastmod>2018-05-07T20:00:00+02:00</lastmod>
     <priority>0</priority>
   </url>
   
