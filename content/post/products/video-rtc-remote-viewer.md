@@ -24,11 +24,11 @@ How it works:
 
 Features:
 
-* **Live Chat**, chat with smilleys and web links
+* **Live Chat**, chat using text, smilleys and web links
 * **Dual File Sharing**, send and receive files
 * **Dual Screen Sharing**, share any screen or application in real-time
 * **Peer Monitoring**, show if each remote peer is connected
-* **Video Calling**, add face-to-face communications... coming soon...
+* **Video Calling**, add face-to-face communications.. (Option)
 
 ##	Enhance yout Call Center Agent Productivity
 
