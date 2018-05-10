@@ -417,6 +417,15 @@
     </item>
     
     <item>
+      <title>News</title>
+      <link>http://blog.ivrpowers.com/tags/news/</link>
+      <pubDate>Thu, 10 May 2018 00:00:05 +0200</pubDate>
+      
+      <guid>http://blog.ivrpowers.com/tags/news/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Nlu</title>
       <link>http://blog.ivrpowers.com/tags/nlu/</link>
       <pubDate>Thu, 04 Jan 2018 01:00:00 +0200</pubDate>
@@ -440,6 +449,15 @@
       <pubDate>Thu, 24 Aug 2017 19:00:00 +0200</pubDate>
       
       <guid>http://blog.ivrpowers.com/tags/overprinting/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Partnership</title>
+      <link>http://blog.ivrpowers.com/tags/partnership/</link>
+      <pubDate>Thu, 10 May 2018 00:00:05 +0200</pubDate>
+      
+      <guid>http://blog.ivrpowers.com/tags/partnership/</guid>
       <description></description>
     </item>
     
@@ -707,7 +725,7 @@
     <item>
       <title>Videortc</title>
       <link>http://blog.ivrpowers.com/tags/videortc/</link>
-      <pubDate>Mon, 07 May 2018 20:00:00 +0200</pubDate>
+      <pubDate>Thu, 10 May 2018 00:00:05 +0200</pubDate>
       
       <guid>http://blog.ivrpowers.com/tags/videortc/</guid>
       <description></description>

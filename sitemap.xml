@@ -13,6 +13,11 @@
   </url>
   
   <url>
+    <loc>http://blog.ivrpowers.com/post/news/xenialab-interactive-powers-partnership/</loc>
+    <lastmod>2018-05-10T00:00:05+02:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://blog.ivrpowers.com/post/coding/webclient-website-iframe/</loc>
     <lastmod>2018-05-07T20:00:00+02:00</lastmod>
   </url>
@@ -942,13 +947,13 @@
   </url>
   
   <url>
-    <loc>http://blog.ivrpowers.com/tags/contactcenter/</loc>
+    <loc>http://blog.ivrpowers.com/categories/contactcenter/</loc>
     <lastmod>2018-01-22T19:00:00+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://blog.ivrpowers.com/categories/contactcenter/</loc>
+    <loc>http://blog.ivrpowers.com/tags/contactcenter/</loc>
     <lastmod>2018-01-22T19:00:00+02:00</lastmod>
     <priority>0</priority>
   </url>
@@ -972,14 +977,14 @@
   </url>
   
   <url>
-    <loc>http://blog.ivrpowers.com/tags/customerengagement/</loc>
-    <lastmod>2018-01-04T01:00:00+02:00</lastmod>
+    <loc>http://blog.ivrpowers.com/categories/customerengagement/</loc>
+    <lastmod>2018-01-03T09:00:00+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://blog.ivrpowers.com/categories/customerengagement/</loc>
-    <lastmod>2018-01-03T09:00:00+02:00</lastmod>
+    <loc>http://blog.ivrpowers.com/tags/customerengagement/</loc>
+    <lastmod>2018-01-04T01:00:00+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1044,13 +1049,13 @@
   </url>
   
   <url>
-    <loc>http://blog.ivrpowers.com/tags/healthcare/</loc>
+    <loc>http://blog.ivrpowers.com/categories/healthcare/</loc>
     <lastmod>2017-11-23T10:10:39+01:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://blog.ivrpowers.com/categories/healthcare/</loc>
+    <loc>http://blog.ivrpowers.com/tags/healthcare/</loc>
     <lastmod>2017-11-23T10:10:39+01:00</lastmod>
     <priority>0</priority>
   </url>
@@ -1128,14 +1133,14 @@
   </url>
   
   <url>
-    <loc>http://blog.ivrpowers.com/tags/marketing/</loc>
-    <lastmod>2017-06-12T20:40:07+02:00</lastmod>
+    <loc>http://blog.ivrpowers.com/categories/marketing/</loc>
+    <lastmod>2017-06-29T00:20:05+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://blog.ivrpowers.com/categories/marketing/</loc>
-    <lastmod>2017-06-29T00:20:05+02:00</lastmod>
+    <loc>http://blog.ivrpowers.com/tags/marketing/</loc>
+    <lastmod>2017-06-12T20:40:07+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1171,7 +1176,13 @@
   
   <url>
     <loc>http://blog.ivrpowers.com/categories/news/</loc>
-    <lastmod>2017-11-10T11:46:54+01:00</lastmod>
+    <lastmod>2018-05-10T00:00:05+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://blog.ivrpowers.com/tags/news/</loc>
+    <lastmod>2018-05-10T00:00:05+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1190,6 +1201,12 @@
   <url>
     <loc>http://blog.ivrpowers.com/tags/overprinting/</loc>
     <lastmod>2017-08-24T19:00:00+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://blog.ivrpowers.com/tags/partnership/</loc>
+    <lastmod>2018-05-10T00:00:05+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1213,7 +1230,7 @@
   
   <url>
     <loc>http://blog.ivrpowers.com/post/</loc>
-    <lastmod>2018-05-07T20:00:00+02:00</lastmod>
+    <lastmod>2018-05-10T00:00:05+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1320,13 +1337,13 @@
   </url>
   
   <url>
-    <loc>http://blog.ivrpowers.com/tags/support/</loc>
+    <loc>http://blog.ivrpowers.com/categories/support/</loc>
     <lastmod>2017-08-16T12:14:46+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://blog.ivrpowers.com/categories/support/</loc>
+    <loc>http://blog.ivrpowers.com/tags/support/</loc>
     <lastmod>2017-08-16T12:14:46+02:00</lastmod>
     <priority>0</priority>
   </url>
@@ -1417,7 +1434,7 @@
   
   <url>
     <loc>http://blog.ivrpowers.com/tags/videortc/</loc>
-    <lastmod>2018-05-07T20:00:00+02:00</lastmod>
+    <lastmod>2018-05-10T00:00:05+02:00</lastmod>
     <priority>0</priority>
   </url>
   
