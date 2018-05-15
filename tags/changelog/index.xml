@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Changelog on Blog</title>
+    <link>http://blog.ivrpowers.com/tags/changelog/</link>
+    <description>Recent content in Changelog on Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 15 May 2018 10:00:00 +0200</lastBuildDate>
+    
+	<atom:link href="http://blog.ivrpowers.com/tags/changelog/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Video RTC (WebRTC) v3.2</title>
+      <link>http://blog.ivrpowers.com/post/updates/update-video-rtc-webrtc-3.2.0/</link>
+      <pubDate>Tue, 15 May 2018 10:00:00 +0200</pubDate>
+      
+      <guid>http://blog.ivrpowers.com/post/updates/update-video-rtc-webrtc-3.2.0/</guid>
+      <description>Release Note We are pleased to announce that our new Video RTC (Gateway WebRTC) v3.2.0 has been released for suitable production services. This new version includes a lot of improvements and new features. All users with previous maintained versions can upgrade today. Please contact our support!
+ChangeLog Version 3.2.0:
+## [3.2.0] - 2018-05-15 ### Added - Added Remote Viewer usecase as extension - Added WebRTC communication verification functions - Added possibility to transfer a call using the SPLIT usecases - Added a GET parameter to set the CallerID from the URL in the Webclient usecase ### Changed - Updated VideoRTC.</description>
+    </item>
+    
+    <item>
+      <title>Video RTC (WebRTC) v3.1</title>
+      <link>http://blog.ivrpowers.com/post/updates/update-video-rtc-webrtc-3.1.0/</link>
+      <pubDate>Wed, 17 Jan 2018 09:00:00 +0200</pubDate>
+      
+      <guid>http://blog.ivrpowers.com/post/updates/update-video-rtc-webrtc-3.1.0/</guid>
+      <description>Release Note We are pleased to announce that our new Video RTC (Gateway WebRTC) v3.1.0 has been released for suitable production services. This new version includes a lot of improvements and new features. All users with previous maintained versions can upgrade today. Please contact our support!
+ChangeLog Version 3.1.0:
+## [3.1.0] - 2018-01-16 ### Added - Added the possibility of configuring different SPLIT scenarios at Flavour level - Added `autoRecording` option in the SPLIT Agent usecase - Added texts option in the SPLIT usecase - Added FileSharing in the Webclient usecase - Added ScreenSharing in the Webclient usecase - Added possibility to show a message until the Video agent is accepted - Added `split_id_strategy` in the VideoGateway - Added Safari iOS 11 support in the SplitClient module (Audio mode) ### Changed - Updated VideoRTC.</description>
+    </item>
+    
+    <item>
+      <title>Video RTC (RTMP) v1.3</title>
+      <link>http://blog.ivrpowers.com/post/updates/update-video-rtc-rtmp-1.3.0/</link>
+      <pubDate>Mon, 08 Jan 2018 00:20:05 +0200</pubDate>
+      
+      <guid>http://blog.ivrpowers.com/post/updates/update-video-rtc-rtmp-1.3.0/</guid>
+      <description>Release Note We are pleased to announce that our new Video RTC (Gateway RTMP) v1.3.0 has been released for suitable production services. This new version includes a lot of improvements and new features. All users with previous maintained versions can upgrade today. Please contact our support!
+ChangeLog Version 1.3.0:
+## [1.3.0] - 2018-01-08 ### Added - Favicon in Split Use Case (Webclient and Agent) ### Changed - The default look for the agent webphone is now &#39;agent&#39; - Removed extra HTML code that was in the index.</description>
+    </item>
+    
+    <item>
+      <title>Video RTC (WebRTC) v3.0</title>
+      <link>http://blog.ivrpowers.com/post/updates/update-video-rtc-webrtc-3.0.0/</link>
+      <pubDate>Fri, 06 Oct 2017 09:00:00 +0200</pubDate>
+      
+      <guid>http://blog.ivrpowers.com/post/updates/update-video-rtc-webrtc-3.0.0/</guid>
+      <description>Release Note We are pleased to announce that our new Video RTC (Gateway WebRTC) v3.0.0 has been released for suitable production services. This new version includes a lot of improvements and new features. All users with previous maintained versions can upgrade today. Please contact our support!
+ChangeLog Version 3.0.0:
+## [3.0.0] - 2017-10-03 ### Added - Added a new usecase: Videocall - Added return button inside the usecases - Added list of platform extensions in the landing page ### Changed - Updated VideoRTC.</description>
+    </item>
+    
+    <item>
+      <title>Video RTC (WebRTC) v2.2</title>
+      <link>http://blog.ivrpowers.com/post/updates/update-video-rtc-webrtc-2.2.0/</link>
+      <pubDate>Thu, 27 Jul 2017 09:00:00 +0200</pubDate>
+      
+      <guid>http://blog.ivrpowers.com/post/updates/update-video-rtc-webrtc-2.2.0/</guid>
+      <description>Release Note We are pleased to announce that our new Video RTC (Gateway WebRTC) v2.2.0 has been released for suitable production services. This new version includes a lot of improvements and new features. All users with previous maintained versions can upgrade today. Please contact our support!
+ChangeLog Version 2.2.0:
+## [2.2.0] - 2017-07-27 ### Added - Added interval Watchdog - Added autocall GET parameter to the Webclient URL usecase - Added overprint logo in the Webclient usecase  Interactive Powers - Streamline your business communications</description>
+    </item>
+    
+    <item>
+      <title>Video RTC (WebRTC) v2.1</title>
+      <link>http://blog.ivrpowers.com/post/updates/update-video-rtc-webrtc-2.1.0/</link>
+      <pubDate>Mon, 19 Jun 2017 00:20:05 +0200</pubDate>
+      
+      <guid>http://blog.ivrpowers.com/post/updates/update-video-rtc-webrtc-2.1.0/</guid>
+      <description>Release Note We are pleased to announce that our new Video RTC (Gateway WebRTC) v2.1.0 has been released for suitable production services. This new version includes a lot of improvements and new features. All users with previous maintained versions can upgrade today. Please contact our support!
+ChangeLog Version 2.1.0:
+## [2.1.0] - 2017-04-17 ### Added - Added Snapshot feature in the Split Agent usecase - VideoGateway notifies to participants when a Split session is finished - Added Autoclose feature in the Split Agent usecase - Added `split_screen_bitrate` in the Split configuration file - Added `videorate` and `screenrate` parameters in the `call_split` request - Added Quality selector in the Webclient usecase - Added sound notification when a message is received in the Split Agent usecase - Added sound notificator handle (Mute/Unmute) in LiveChat mode - Added visual notificacion when a file is sent in the Split Agent usecase - Added icon that identifies the file type sent/received - Added Drop feature for File Sharing (Agent -&amp;gt; Client) - Added Emoji feature in LiveChat (Webclient and Split Agent) - Added FullScreen mode in ScreenSharing (Webclient) - Added SplitAgent configuration feature via Flavour (Autoclose, Emoji.</description>
+    </item>
+    
+    <item>
+      <title>Video RTC (RTMP) v1.2</title>
+      <link>http://blog.ivrpowers.com/post/updates/update-video-rtc-rtmp-1.2.0/</link>
+      <pubDate>Fri, 16 Jun 2017 00:20:05 +0200</pubDate>
+      
+      <guid>http://blog.ivrpowers.com/post/updates/update-video-rtc-rtmp-1.2.0/</guid>
+      <description>Release Note We are pleased to announce that our new Video RTC (Gateway RTMP) v1.2.0 has been released for suitable production services. This new version includes a lot of improvements and new features. All users with previous maintained versions can upgrade today. Please contact our support!
+ChangeLog Version 1.2.0:
+## [1.2.0] - 2017-01-18 ### Added - GET parameters to customize some variables of the client and agent flashphones { Action: parameter=[possible values] (default) ---------------------------------------------- Enable video: video=[true|false] (false) Video quality: quality=[1.</description>
+    </item>
+    
+    <item>
+      <title>VoiceXML IVR v1.3</title>
+      <link>http://blog.ivrpowers.com/post/updates/update-voicexml-ivr-13.1/</link>
+      <pubDate>Thu, 15 Jun 2017 00:20:05 +0200</pubDate>
+      
+      <guid>http://blog.ivrpowers.com/post/updates/update-voicexml-ivr-13.1/</guid>
+      <description>Release Note We are pleased to announce that our new VoiceXML IVR 1.3 has been released for suitable production services. This new version includes a lot of improvements and new features. All users with previous maintained versions can upgrade today. Please contact our support!
+ChangeLog Version 1.3:
+## [1.3] - 2016-06 ### Added - Initialization of the freepbx_security.log during the fail2ban installation if not exists - Added pagination for CDR results - Added Presence extras source files - Added the extras module installation to the installation process - Added the extras module update to the update process ### Changed - Fixed posible exploit in the vxml editor directory browser - Fixed a typo in the web uninstallation steps - Updated Openvxi V12.</description>
+    </item>
+    
+  </channel>
+</rss>
