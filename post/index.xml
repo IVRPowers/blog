@@ -6,10 +6,21 @@
     <description>Recent content in Posts on Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 10 May 2018 00:00:05 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 15 May 2018 10:00:00 +0200</lastBuildDate>
     
 	<atom:link href="http://blog.ivrpowers.com/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Video RTC (WebRTC) v3.2</title>
+      <link>http://blog.ivrpowers.com/post/updates/update-video-rtc-webrtc-3.2.0/</link>
+      <pubDate>Tue, 15 May 2018 10:00:00 +0200</pubDate>
+      
+      <guid>http://blog.ivrpowers.com/post/updates/update-video-rtc-webrtc-3.2.0/</guid>
+      <description>Release Note We are pleased to announce that our new Video RTC (Gateway WebRTC) v3.2.0 has been released for suitable production services. This new version includes a lot of improvements and new features. All users with previous maintained versions can upgrade today. Please contact our support!
+ChangeLog Version 3.2.0:
+## [3.2.0] - 2018-05-15 ### Added - Added Remote Viewer usecase as extension - Added WebRTC communication verification functions - Added possibility to transfer a call using the SPLIT usecases - Added a GET parameter to set the CallerID from the URL in the Webclient usecase ### Changed - Updated VideoRTC.</description>
+    </item>
     
     <item>
       <title>Xenialab and Interactive Powers announce Integration Partnership</title>
