@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Turnkey on Blog</title>
+    <link>http://blog.ivrpowers.com/tags/turnkey/</link>
+    <description>Recent content in Turnkey on Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 10 Jun 2018 15:00:00 +0200</lastBuildDate>
+    
+	<atom:link href="http://blog.ivrpowers.com/tags/turnkey/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Know our Products: Turnkey</title>
+      <link>http://blog.ivrpowers.com/post/products/turnkey-solutions/</link>
+      <pubDate>Sun, 10 Jun 2018 15:00:00 +0200</pubDate>
+      
+      <guid>http://blog.ivrpowers.com/post/products/turnkey-solutions/</guid>
+      <description>The Turnkey Solutions for your business Our Trunkey Portfolio offers flexibility and deliver significant savings to enterprises or service providers. These pay-as-you-go products can be standalone or used in combination to provide an end to end communication services for many kind of businesses over WebRTC, RTMP, VoIP to PSTN networks.
+ Forget technology, it&amp;rsquo;s about business.
+ Web Dialer. Make Voice Calls from any modern Web Browser
+Web Dialer allows all your customers and users to make phone calls directly to your PBX, IVR, Call Center from any desktop web browser (Firefox, Chrome, IE, Safari, Opera,…).</description>
+    </item>
+    
+  </channel>
+</rss>

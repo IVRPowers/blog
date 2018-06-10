@@ -13,6 +13,26 @@
   </url>
   
   <url>
+    <loc>http://blog.ivrpowers.com/post/products/turnkey-solutions/</loc>
+    <lastmod>2018-06-10T15:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://blog.ivrpowers.com/post/updates/update-video-rtc-webrtc-3.2.1/</loc>
+    <lastmod>2018-06-10T12:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://blog.ivrpowers.com/post/technologies/what-is-cpaas/</loc>
+    <lastmod>2018-06-10T01:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://blog.ivrpowers.com/post/technologies/what-is-saas/</loc>
+    <lastmod>2018-06-10T01:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://blog.ivrpowers.com/post/updates/update-video-rtc-webrtc-3.2.0/</loc>
     <lastmod>2018-05-15T10:00:00+02:00</lastmod>
   </url>
@@ -929,13 +949,13 @@
   
   <url>
     <loc>http://blog.ivrpowers.com/tags/changelog/</loc>
-    <lastmod>2018-05-15T10:00:00+02:00</lastmod>
+    <lastmod>2018-06-10T12:00:00+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://blog.ivrpowers.com/tags/cloud/</loc>
-    <lastmod>2017-11-06T12:19:05+02:00</lastmod>
+    <lastmod>2018-06-10T01:00:00+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -977,7 +997,7 @@
   
   <url>
     <loc>http://blog.ivrpowers.com/tags/cpaas/</loc>
-    <lastmod>2018-02-02T10:46:54+01:00</lastmod>
+    <lastmod>2018-06-10T01:00:00+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1109,7 +1129,7 @@
   
   <url>
     <loc>http://blog.ivrpowers.com/tags/ivr/</loc>
-    <lastmod>2018-04-10T09:30:00+01:00</lastmod>
+    <lastmod>2018-06-10T15:00:00+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1241,13 +1261,13 @@
   
   <url>
     <loc>http://blog.ivrpowers.com/post/</loc>
-    <lastmod>2018-05-15T10:00:00+02:00</lastmod>
+    <lastmod>2018-06-10T15:00:00+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://blog.ivrpowers.com/categories/products/</loc>
-    <lastmod>2018-05-01T18:00:00+02:00</lastmod>
+    <lastmod>2018-06-10T15:00:00+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1259,7 +1279,7 @@
   
   <url>
     <loc>http://blog.ivrpowers.com/tags/rtc/</loc>
-    <lastmod>2018-05-15T10:00:00+02:00</lastmod>
+    <lastmod>2018-06-10T15:00:00+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1271,7 +1291,7 @@
   
   <url>
     <loc>http://blog.ivrpowers.com/tags/saas/</loc>
-    <lastmod>2017-09-20T12:50:49+02:00</lastmod>
+    <lastmod>2018-06-10T01:00:00+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1367,7 +1387,7 @@
   
   <url>
     <loc>http://blog.ivrpowers.com/categories/technologies/</loc>
-    <lastmod>2018-04-11T09:30:00+01:00</lastmod>
+    <lastmod>2018-06-10T01:00:00+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1408,8 +1428,14 @@
   </url>
   
   <url>
+    <loc>http://blog.ivrpowers.com/tags/turnkey/</loc>
+    <lastmod>2018-06-10T15:00:00+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://blog.ivrpowers.com/categories/updates/</loc>
-    <lastmod>2018-05-15T10:00:00+02:00</lastmod>
+    <lastmod>2018-06-10T12:00:00+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1493,7 +1519,7 @@
   
   <url>
     <loc>http://blog.ivrpowers.com/tags/webrtc/</loc>
-    <lastmod>2018-05-15T10:00:00+02:00</lastmod>
+    <lastmod>2018-06-10T12:00:00+02:00</lastmod>
     <priority>0</priority>
   </url>
   

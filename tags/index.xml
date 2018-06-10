@@ -140,7 +140,7 @@
     <item>
       <title>Changelog</title>
       <link>http://blog.ivrpowers.com/tags/changelog/</link>
-      <pubDate>Tue, 15 May 2018 10:00:00 +0200</pubDate>
+      <pubDate>Sun, 10 Jun 2018 12:00:00 +0200</pubDate>
       
       <guid>http://blog.ivrpowers.com/tags/changelog/</guid>
       <description></description>
@@ -149,7 +149,7 @@
     <item>
       <title>Cloud</title>
       <link>http://blog.ivrpowers.com/tags/cloud/</link>
-      <pubDate>Mon, 06 Nov 2017 12:19:05 +0200</pubDate>
+      <pubDate>Sun, 10 Jun 2018 01:00:00 +0200</pubDate>
       
       <guid>http://blog.ivrpowers.com/tags/cloud/</guid>
       <description></description>
@@ -185,7 +185,7 @@
     <item>
       <title>Cpaas</title>
       <link>http://blog.ivrpowers.com/tags/cpaas/</link>
-      <pubDate>Fri, 02 Feb 2018 10:46:54 +0100</pubDate>
+      <pubDate>Sun, 10 Jun 2018 01:00:00 +0200</pubDate>
       
       <guid>http://blog.ivrpowers.com/tags/cpaas/</guid>
       <description></description>
@@ -320,7 +320,7 @@
     <item>
       <title>Ivr</title>
       <link>http://blog.ivrpowers.com/tags/ivr/</link>
-      <pubDate>Tue, 10 Apr 2018 09:30:00 +0100</pubDate>
+      <pubDate>Sun, 10 Jun 2018 15:00:00 +0200</pubDate>
       
       <guid>http://blog.ivrpowers.com/tags/ivr/</guid>
       <description></description>
@@ -509,7 +509,7 @@
     <item>
       <title>Rtc</title>
       <link>http://blog.ivrpowers.com/tags/rtc/</link>
-      <pubDate>Tue, 15 May 2018 10:00:00 +0200</pubDate>
+      <pubDate>Sun, 10 Jun 2018 15:00:00 +0200</pubDate>
       
       <guid>http://blog.ivrpowers.com/tags/rtc/</guid>
       <description></description>
@@ -527,7 +527,7 @@
     <item>
       <title>Saas</title>
       <link>http://blog.ivrpowers.com/tags/saas/</link>
-      <pubDate>Wed, 20 Sep 2017 12:50:49 +0200</pubDate>
+      <pubDate>Sun, 10 Jun 2018 01:00:00 +0200</pubDate>
       
       <guid>http://blog.ivrpowers.com/tags/saas/</guid>
       <description></description>
@@ -687,6 +687,15 @@
     </item>
     
     <item>
+      <title>Turnkey</title>
+      <link>http://blog.ivrpowers.com/tags/turnkey/</link>
+      <pubDate>Sun, 10 Jun 2018 15:00:00 +0200</pubDate>
+      
+      <guid>http://blog.ivrpowers.com/tags/turnkey/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Videocall</title>
       <link>http://blog.ivrpowers.com/tags/videocall/</link>
       <pubDate>Tue, 16 Jan 2018 21:00:00 +0100</pubDate>
@@ -806,7 +815,7 @@
     <item>
       <title>Webrtc</title>
       <link>http://blog.ivrpowers.com/tags/webrtc/</link>
-      <pubDate>Tue, 15 May 2018 10:00:00 +0200</pubDate>
+      <pubDate>Sun, 10 Jun 2018 12:00:00 +0200</pubDate>
       
       <guid>http://blog.ivrpowers.com/tags/webrtc/</guid>
       <description></description>
