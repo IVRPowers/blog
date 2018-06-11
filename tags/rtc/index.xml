@@ -29,7 +29,7 @@ Web Dialer allows all your customers and users to make phone calls directly to y
       <pubDate>Sun, 10 Jun 2018 12:00:00 +0200</pubDate>
       
       <guid>http://blog.ivrpowers.com/post/updates/update-video-rtc-webrtc-3.2.1/</guid>
-      <description>Release Note We are pleased to announce that our new Video RTC (Gateway WebRTC) v3.2.1 has been released for suitable production services. This new version that includes some improvements and a crital &amp;ldquo;hot fix&amp;rdquo; for Firefox 6+ Web Browsers. All users with previous maintained versions can upgrade today. Please contact our support!
+      <description>Release Note We are pleased to announce that our new Video RTC (Gateway WebRTC) v3.2.1 has been released for suitable production services. This new version includes some improvements and a crital &amp;ldquo;hot fix&amp;rdquo; for Firefox 6+ Web Browsers. All users with previous maintained versions can upgrade today. Please contact our support!
 ChangeLog Version 3.2.1:
 ## [3.2.1] - 2018-06-08 ### Fixed - Fixed compatibility of all modules with Firefox 60+ ### Changed - Updated VideoRTC.</description>
     </item>
