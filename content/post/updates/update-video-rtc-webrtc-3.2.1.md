@@ -11,7 +11,7 @@ featured = true
 
 # Release Note
 
-We are pleased to announce that our new **Video RTC (Gateway WebRTC) v3.2.1** has been released for suitable production services. This new version that includes some improvements and a crital "hot fix" for Firefox 6+ Web Browsers. All users with previous maintained versions can upgrade today. Please contact our support!
+We are pleased to announce that our new **Video RTC (Gateway WebRTC) v3.2.1** has been released for suitable production services. This new version includes some improvements and a crital "hot fix" for Firefox 6+ Web Browsers. All users with previous maintained versions can upgrade today. Please contact our support!
 
 # ChangeLog
 
