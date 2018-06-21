@@ -33,7 +33,7 @@ Now you can get more with:
 * Cloud API Speech Resources
 * Professional Services and Technical Support
 
-All services run Amazon Web Services, Google Cloud or Mircrosoft Azure.
+All our CPaaS services run Amazon Web Services, Google Cloud or Mircrosoft Azure.
 
 To learn more, go to: http://www.ivrpowers.com/store
 
