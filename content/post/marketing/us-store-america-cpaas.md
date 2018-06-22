@@ -4,16 +4,17 @@ date = "2018-06-21T18:00:00+02:00"
 description = "Cloud Hosting"
 draft = false
 tags = ["saas","businessstrategy", "cloud", "cpaas", "ecommerce"]
-title = "US Store - America CPaaS"
+title = "US Store · America CPaaS"
 image = "/postimages/marketing/stores-ivrpowers.004.jpeg"
 comments = true
+
 +++
 
 ![US Store](/postimages/marketing/stores-ivrpowers.002.jpeg)
 -------
 ###### Photo source: Pixabay, Creative Commons
 
-##	We have very exciting news for you!
+## We have very exciting news for you!
 ---
 
 Now, it's time for a new change, to work with our [IVR](http://blog.ivrpowers.com/post/technologies/what-is-ivr/) and [RTC](http://blog.ivrpowers.com/post/technologies/what-is-rtc/) Cloud Hosting platforms even better than ever. Our company is pleased to announce our new [US Store - America CPaaS](https://us.store.ivrpowers.com) ecommerce portal offering Communications Platform as a Service for all regions in Canada, USA and South America.

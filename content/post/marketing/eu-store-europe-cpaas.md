@@ -2,11 +2,12 @@
 categories = ["marketing"]
 date = "2018-06-21T18:00:00+02:00"
 description = "Cloud Hosting"
-draft = yes
+draft = true
 tags = ["saas","businessstrategy", "cloud", "cpaas", "ecommerce"]
-title = "US Store - Europe CPaaS"
+title = "US Store · Europe CPaaS"
 image = "/postimages/marketing/stores-ivrpowers.003.jpeg"
 comments = true
+
 +++
 
 ![EU Store](/postimages/marketing/stores-ivrpowers.001.jpeg)
