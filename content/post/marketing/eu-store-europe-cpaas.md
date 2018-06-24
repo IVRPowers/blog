@@ -17,10 +17,10 @@ comments = true
 ##	We have very exciting news for you!
 ---
 
-Now, it's time for a new change, to work with our [IVR](http://blog.ivrpowers.com/post/technologies/what-is-ivr/) and [RTC](http://blog.ivrpowers.com/post/technologies/what-is-rtc/) Cloud Hosting platforms even better than ever. Our company is pleased to announce our new [US Store - Europe CPaaS](https://us.store.ivrpowers.com) ecommerce portal offering Communications Platform as a Service for all regions in Europe and others countries.
+Now, it's time for a new change, to work with our [IVR](http://blog.ivrpowers.com/post/technologies/what-is-ivr/) and [RTC](http://blog.ivrpowers.com/post/technologies/what-is-rtc/) cloud hosting services even better than ever. Our company is pleased to announce our new [US Store - Europe CPaaS](https://us.store.ivrpowers.com) ecommerce portal offering **Communications Platform as a Service** ([CPaaS](http://blog.ivrpowers.com/post/technologies/what-is-cpaas/) | [SaaS](http://blog.ivrpowers.com/post/technologies/what-is-saas/)) for all regions in Europe and others countries.
 
-* VoiceXML IVR · CPaaS | SaaS
-* Video RTC · CPaaS | SaaS
+* Interactive Voice Response: VoiceXML IVR
+* Video Gateways: Video RTC
 * Turnkey Solutions: Web Dialer, Video SPLIT, Remote Viewer
 * Professional Services
 * Support Services
