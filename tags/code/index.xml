@@ -71,7 +71,7 @@ Step one: Setting up the basic structure As we have explained in previous posts,
       
       <guid>http://blog.ivrpowers.com/post/coding/videortc-build-mobile-app/</guid>
       <description>Photo Source: Interactive Powers, Pexels. Creative Commons In this post we will show you how to build a video call service in your mobile by using the Ionic Framework 2 and VideoRTC.js.
-Step 1: Setting up the basic structure Firstly, you need to install a project Ionic in your system. If you don’t have it, you can download and follow the official guide from the Ionic Framework 2 web site.</description>
+Step 1: Setting up the basic structure Firstly, you need to install an Ionic project in your system. If you don’t have it, you can download and follow the official guide from the Ionic Framework 2 web site.</description>
     </item>
     
     <item>
