@@ -22,14 +22,14 @@ In this post we will show you how to build a video call service in your mobile b
 
 ## Step 1: Setting up the basic structure
 
-Firstly, you need to install a project Ionic in your system. If you don’t have it, you can download and follow the official guide from the Ionic Framework 2 web site.
+Firstly, you need to install an Ionic project in your system. If you don’t have it, you can download and follow the official guide from the Ionic Framework 2 web site.
 
-After it, the library [VideoRTC.js](http://blog.ivrpowers.com/post/development/introducing-videortcjs-developers/) must be included in your project. It requires to copy the library inside the folder **node_modules** of your project. Then, with the command, the dependencies must be installed inside folder videoRTC using **npm install.**
+After it, the library [VideoRTC.js](http://blog.ivrpowers.com/post/development/introducing-videortcjs-developers/) must be included in your project. 
 
-To import our library into the project, we add the following text in the file  *.ts:
+You can easily add the following script tag at the entry point of your application `src/index.html` like this:
 	
-~~~typescript
-import videortc from 'videortc/src/core';
+~~~html
+<script src="assets/js/videortc.min.js"></script>
 ~~~
 
 Next, we have to establish the connection to the desired video server, following these steps: 
