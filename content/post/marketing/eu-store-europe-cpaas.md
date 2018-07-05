@@ -1,10 +1,10 @@
 +++
 categories = ["marketing"]
-date = "2018-06-21T18:00:00+02:00"
+date = "2018-07-04T20:00:00+02:00"
 description = "Cloud Hosting"
-draft = true
+draft = false
 tags = ["saas","businessstrategy", "cloud", "cpaas", "ecommerce"]
-title = "US Store · Europe CPaaS"
+title = "EU Store · Europe CPaaS"
 image = "/postimages/marketing/stores-ivrpowers.003.jpeg"
 comments = true
 
@@ -17,7 +17,7 @@ comments = true
 ##	We have very exciting news for you!
 ---
 
-Now, it's time for a new change, to work with our [IVR](http://blog.ivrpowers.com/post/technologies/what-is-ivr/) and [RTC](http://blog.ivrpowers.com/post/technologies/what-is-rtc/) cloud hosting services even better than ever. Our company is pleased to announce our new [US Store - Europe CPaaS](https://us.store.ivrpowers.com) ecommerce portal offering **Communications Platform as a Service** ([CPaaS](http://blog.ivrpowers.com/post/technologies/what-is-cpaas/) | [SaaS](http://blog.ivrpowers.com/post/technologies/what-is-saas/)) for all regions in Europe and others countries.
+Now, it's time for a new change, to work with our [IVR](http://blog.ivrpowers.com/post/technologies/what-is-ivr/) and [RTC](http://blog.ivrpowers.com/post/technologies/what-is-rtc/) cloud hosting services even better than ever. Our company is pleased to announce our new [EU Store - Europe CPaaS](https://eu.store.ivrpowers.com) ecommerce portal offering **Communications Platform as a Service** ([CPaaS](http://blog.ivrpowers.com/post/technologies/what-is-cpaas/) | [SaaS](http://blog.ivrpowers.com/post/technologies/what-is-saas/)) for all regions in Europe and others countries.
 
 * Interactive Voice Response: VoiceXML IVR
 * Video Gateways: Video RTC
