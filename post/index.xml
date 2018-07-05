@@ -31,11 +31,21 @@ Interactive Powers delivers communication platforms that enables advanced real-t
     </item>
     
     <item>
-      <title>Video RTC · Webclient</title>
-      <link>http://blog.ivrpowers.com/post/development/videortc-webclient-configuration/</link>
+      <title>Real-Time Communications applications</title>
+      <link>http://blog.ivrpowers.com/post/products/real-time-communications-applications/</link>
+      <pubDate>Thu, 05 Jul 2018 20:30:00 +0200</pubDate>
+      
+      <guid>http://blog.ivrpowers.com/post/products/real-time-communications-applications/</guid>
+      <description>Photo source: Pixabay. Creative Commons Real-time Communications applications to streamline your online business. Video RTC platforms are changing the way real-time communications are developed and delivered. It is fast becoming the platform of choice for rapidly building enterprise class real-time voice and video applications. Our communications platform is 100% cloud ready, offering continuous evolution, scalability and high availability.
+ Video chat is a clearer and modern way to communicate for online businesses</description>
+    </item>
+    
+    <item>
+      <title>How to configure and customise your Webclient</title>
+      <link>http://blog.ivrpowers.com/post/coding/videortc-webclient-configuration/</link>
       <pubDate>Thu, 05 Jul 2018 09:00:00 +0200</pubDate>
       
-      <guid>http://blog.ivrpowers.com/post/development/videortc-webclient-configuration/</guid>
+      <guid>http://blog.ivrpowers.com/post/coding/videortc-webclient-configuration/</guid>
       <description>Photo source: Interactive Powers, Pexels Creative Commons Webclient (WebRTC) provides a user-friendly webphone that allows all your customers and users to make phone calls directly from a website to your business IVR or PBX from any desktop native WebRTC compliant web browser (Firefox, Chrome, Opera,…). In this post we will show you how to customize the Webclient using the different configuration options at flavour/theme level.
 The design of our webclient is composed by a logo and a main default color.</description>
     </item>

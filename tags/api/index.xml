@@ -12,11 +12,11 @@
     
     
     <item>
-      <title>Video RTC · Webclient</title>
-      <link>http://blog.ivrpowers.com/post/development/videortc-webclient-configuration/</link>
+      <title>How to configure and customise your Webclient</title>
+      <link>http://blog.ivrpowers.com/post/coding/videortc-webclient-configuration/</link>
       <pubDate>Thu, 05 Jul 2018 09:00:00 +0200</pubDate>
       
-      <guid>http://blog.ivrpowers.com/post/development/videortc-webclient-configuration/</guid>
+      <guid>http://blog.ivrpowers.com/post/coding/videortc-webclient-configuration/</guid>
       <description>Photo source: Interactive Powers, Pexels Creative Commons Webclient (WebRTC) provides a user-friendly webphone that allows all your customers and users to make phone calls directly from a website to your business IVR or PBX from any desktop native WebRTC compliant web browser (Firefox, Chrome, Opera,…). In this post we will show you how to customize the Webclient using the different configuration options at flavour/theme level.
 The design of our webclient is composed by a logo and a main default color.</description>
     </item>
