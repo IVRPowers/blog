@@ -30,7 +30,7 @@ Features:
 * **Peer Monitoring**, show if each remote peer is connected
 * **Video Calling**, add face-to-face communications.. (Option)
 
-##	Enhance yout Call Center Agent Productivity
+##	Enhance your Call Center Agent Productivity
 
 Any existing Call Center can add Remote Viewer to empower all agents prodructivity, avoiding multiple call or reschedule meetings after sending files or documents. Remote Viewer allows agents to create a web session from a simple button or panel.
 

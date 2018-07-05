@@ -6,7 +6,7 @@ draft = false
 tags = ["videocall","code","mobileapp","videortc"]
 title = "How to Build a Mobile Video Application (WebRTC)"
 image = "/postimages/coding/ivrpowers-videortc-features.033.jpeg"
-
+comments = true
 +++
 
 

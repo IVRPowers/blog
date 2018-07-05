@@ -1,15 +1,15 @@
 +++
-categories = ["Development"]
+categories = ["coding"]
 date = "2018-07-05T09:00:00+02:00"
 description = "Coding & Settings"
 draft = false
 tags = ["api","code", "rtc", "webclient","webrtc"]
-title = "Video RTC · Webclient"
-image = "/postimages/development/ivrpowers-videortc-coding.033.jpeg"
+title = "How to configure and customise your Webclient"
+image = "/postimages/coding/ivrpowers-videortc-features.033.jpeg"
 comments = true
 +++
 
-![VideoRTC.js](/postimages/development/ivrpowers-videortc-coding.033.jpeg)
+![development](/postimages/coding/ivrpowers-videortc-features.033.jpeg)
 -------
 ###### Photo source: Interactive Powers, Pexels Creative Commons
 
@@ -21,17 +21,18 @@ Within a Flavour configuration, there is a folder called "webclient" that contai
 
 * **configWebclient.js** - WebClient configuration file.
 * **loading.gif** - Calling animation.
-* **overprint.png** - Overprint feature (company logo over Video).
+* **overprint.png** - Overprint feature (company or service Logo over video).
 * **waiting-video-agent.png** - Logo until the agent accept the Video.
 * **webclient-logo.png** - Logo for WebClient Use Case.
 * **webclient-logo-btn.png** - Company Icon Webclient Toolbar.
 
-The file called configWebclient.js contains a JSON object with different parameters that can be easily configured in the usecase. Here a list of features available:
+The file called configWebclient.js contains a JSON object with different parameters that can be easily configured in the usecase. 
+Here a list of interesting features available to update your Webclient:
 
-* **Auto Call** - The call starts when the popup is opened.
-* **Auto Close** - The popup is closed when the call is finished.
-* **Call Settings** - Local video may start muted or may not be displayed on the screen.
-* **Controls** - We currently have three design modes (toolbar-top, toolbar-bottom, classic).
+* **autoCall** - The call starts when the popup is opened.
+* **autoClose** - The popup is closed when the call is finished.
+* **callSettings** - Local video may start muted or may not be displayed on the screen.
+* **controls** - We currently have three design modes (toolbar-top, toolbar-bottom, classic).
 
 ### Mode: toolbar-top
 
@@ -51,12 +52,12 @@ The file called configWebclient.js contains a JSON object with different paramet
 
 In the classic mode you can play to place the buttons in any desired positions. You can also hide any uninteresting icon too.
 
-* **Calling** - Set a text and animation during the calling establishement.
-* **LiveChat** - Set chat, emoticons, sound notifications, type of data, maximum sizes in files.
-* **Overprint** - Add an [Over Printing](http://blog.ivrpowers.com/post/products/video-rtc-over-printing/) logo image in a corner of the screen is offered. 
-* **Phone Color** - Set the main color of the Webclient Use Case.
-* **Texts** - Set all messages modifications or translations into any language.
-* **Type Call** - Set Webclient as audio call only or video call.
+* **calling** - Set a text and animation during the calling establishement.
+* **liveChat** - Set chat, emoticons, sound notifications, type of data, maximum sizes in files.
+* **overprint** - Add an [Over Printing](http://blog.ivrpowers.com/post/products/video-rtc-over-printing/) logo image in a corner of the screen is offered. 
+* **phoneColor** - Set the main color of the Webclient Use Case.
+* **texts** - Set all messages modifications or translations into any language.
+* **typeCall** - Set Webclient as audio call only or video call.
 
 configWebclient.js - JavaScript:
 
