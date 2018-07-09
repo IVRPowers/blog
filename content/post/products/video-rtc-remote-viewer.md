@@ -1,9 +1,9 @@
 +++
 categories = ["products"]
 date = "2018-05-01T18:00:00+02:00"
-description = "Empowering your Call Center"
+description = "Turnkey Solution"
 draft = false
-tags = ["rtc","videortc"]
+tags = ["rtc","videortc","turnkey"]
 title = "Video RTC · Remote Viewer"
 image = "/postimages/products/ivrpowers-videortc-remote-viewer-screen.001.jpeg"
 comments = true
@@ -11,16 +11,18 @@ comments = true
 
 ![Video RTC Remote Viewer](/postimages/products/ivrpowers-videortc-remote-viewer-screen.001.jpeg)
 ------------
-###### Photo Source: Interactive Powers.
+###### Photo Source: Shutterstock · Interactive Powers.
 
 #	Dramatically improves Customer Experience (CX) extending phone calls with Live Chat,  Dual File Sharing, Dual Screen Sharing…
 ---
 
 Sometime, you don't have to change all things to build something new and really better to improve your existing Business Communications. **Remote Viewer** is a new [Video RTC](http://blog.ivrpowers.com/post/products/video-rtc/) Use Case and solution that allows to **add advanced powers both to your call center agents and phone callers**. Have you think about reducing customer care or support interactions, time spend during phone calls or **improve your customer experience and confidence**. Remote Viewer create easilty smart web interactions during any call, to improve your business processes for any call center and industry.
 
+Powered by Video RTC (WebRTC) - [Interactive Powers](http://www.ivrpowers.com/)
+
 How it works:
 
-![Remote Viewer](/postimages/products/ivrpowers-videortc-remote-viewer-screen.007.jpeg)
+![Remote Viewer](/postimages/products/ivrpowers-turnkey-screen.001.jpeg)
 
 Features:
 
