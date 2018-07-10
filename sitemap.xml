@@ -13,6 +13,11 @@
   </url>
   
   <url>
+    <loc>http://blog.ivrpowers.com/post/technologies/what-is-stun-turn-server/</loc>
+    <lastmod>2018-07-10T09:00:05+02:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://blog.ivrpowers.com/post/products/real-time-communications-applications/</loc>
     <lastmod>2018-07-05T20:30:00+02:00</lastmod>
   </url>
@@ -1304,7 +1309,7 @@
   
   <url>
     <loc>http://blog.ivrpowers.com/tags/rtc/</loc>
-    <lastmod>2018-07-05T20:30:00+02:00</lastmod>
+    <lastmod>2018-07-10T09:00:05+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1340,7 +1345,7 @@
   
   <url>
     <loc>http://blog.ivrpowers.com/tags/security/</loc>
-    <lastmod>2018-04-11T09:30:00+01:00</lastmod>
+    <lastmod>2018-07-10T09:00:05+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1412,7 +1417,7 @@
   
   <url>
     <loc>http://blog.ivrpowers.com/categories/technologies/</loc>
-    <lastmod>2018-06-10T01:00:00+02:00</lastmod>
+    <lastmod>2018-07-10T09:00:05+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1496,7 +1501,7 @@
   
   <url>
     <loc>http://blog.ivrpowers.com/tags/videortc/</loc>
-    <lastmod>2018-05-10T00:00:05+02:00</lastmod>
+    <lastmod>2018-07-10T09:00:05+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1550,7 +1555,7 @@
   
   <url>
     <loc>http://blog.ivrpowers.com/tags/webrtc/</loc>
-    <lastmod>2018-07-05T20:30:00+02:00</lastmod>
+    <lastmod>2018-07-10T09:00:05+02:00</lastmod>
     <priority>0</priority>
   </url>
   

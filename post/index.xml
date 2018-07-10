@@ -31,6 +31,16 @@ Interactive Powers delivers communication platforms that enables advanced real-t
     </item>
     
     <item>
+      <title>What is a STUN/TURN server?</title>
+      <link>http://blog.ivrpowers.com/post/technologies/what-is-stun-turn-server/</link>
+      <pubDate>Tue, 10 Jul 2018 09:00:05 +0200</pubDate>
+      
+      <guid>http://blog.ivrpowers.com/post/technologies/what-is-stun-turn-server/</guid>
+      <description>Photo Source: Pixabay · Interactive Powers Creative Commons. Our Video Gateway (WebRTC) platform offers all customers an advanced video real-tine communication solution through which all audio/video/data streams are transmitted. Generally, a Video Gateway has to be deployed over a public Internet so any user must connect and send media fragments over RTP (Real-time Transport Protocol) ports without specific issues.
+Why you should require a STUN/TURN Server? However, sometimes this is not enough.</description>
+    </item>
+    
+    <item>
       <title>Real-Time Communications applications</title>
       <link>http://blog.ivrpowers.com/post/products/real-time-communications-applications/</link>
       <pubDate>Thu, 05 Jul 2018 20:30:00 +0200</pubDate>
