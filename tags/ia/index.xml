@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ia on Blog</title>
+    <link>http://blog.ivrpowers.com/tags/ia/</link>
+    <description>Recent content in Ia on Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 13 Jul 2018 10:00:00 +0100</lastBuildDate>
+    
+	<atom:link href="http://blog.ivrpowers.com/tags/ia/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Voicebots are the new IVR for Contact Centers</title>
+      <link>http://blog.ivrpowers.com/post/trends/voicebots-ivr-call-center-voice-channel/</link>
+      <pubDate>Fri, 13 Jul 2018 10:00:00 +0100</pubDate>
+      
+      <guid>http://blog.ivrpowers.com/post/trends/voicebots-ivr-call-center-voice-channel/</guid>
+      <description>Photo source: Pixabay. Creative Commons. The Contact Center Voice Channel may not going away in the &amp;ldquo;short time&amp;rdquo;, but it will be progressively supplemented by Voicebots in the next few years&amp;hellip; Past months, Google’s Duplex demo forced us to think more about a world where we might get a random call from a business and not realize it is a robot making the call. Recent proof of concepts have verified that this technology is not just a staged demo but it actually works.</description>
+    </item>
+    
+  </channel>
+</rss>

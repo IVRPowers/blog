@@ -6,10 +6,28 @@
     <description>Recent content in Ivr on Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 04 Jul 2018 13:30:00 +0200</lastBuildDate>
+    <lastBuildDate>Sun, 15 Jul 2018 00:18:00 +0200</lastBuildDate>
     
 	<atom:link href="http://blog.ivrpowers.com/tags/ivr/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>A Successful Combination for Business: IVR &#43; RTC</title>
+      <link>http://blog.ivrpowers.com/post/marketing/successfull-combination-ivr-rtc/</link>
+      <pubDate>Sun, 15 Jul 2018 00:18:00 +0200</pubDate>
+      
+      <guid>http://blog.ivrpowers.com/post/marketing/successfull-combination-ivr-rtc/</guid>
+      <description>Photo source: Unsplash. Creative Commons Improve customer experience (CX), while reducing telecommunication costs and increasing customer satisfaction. Our Vision for your Business Communications. Interactive Powers vision is to streamline your business communications with the help of our two core technologies called IVR (Interactive Voice Response) and RTC (Real-Time Communications). Our platforms embrace open standards like SIP (Session Initialization Protocol), VoiceXML (Voice eXtended Meta Language), RTMP (Real-Time Messaging Protocol) and WebRTC (Web Real-Time Communications) allowing businesses to directly embed audio-only or audio &amp;amp; video conversations and collaboration functionality within their website or mobile customer care apps.</description>
+    </item>
+    
+    <item>
+      <title>Voicebots are the new IVR for Contact Centers</title>
+      <link>http://blog.ivrpowers.com/post/trends/voicebots-ivr-call-center-voice-channel/</link>
+      <pubDate>Fri, 13 Jul 2018 10:00:00 +0100</pubDate>
+      
+      <guid>http://blog.ivrpowers.com/post/trends/voicebots-ivr-call-center-voice-channel/</guid>
+      <description>Photo source: Pixabay. Creative Commons. The Contact Center Voice Channel may not going away in the &amp;ldquo;short time&amp;rdquo;, but it will be progressively supplemented by Voicebots in the next few years&amp;hellip; Past months, Google’s Duplex demo forced us to think more about a world where we might get a random call from a business and not realize it is a robot making the call. Recent proof of concepts have verified that this technology is not just a staged demo but it actually works.</description>
+    </item>
     
     <item>
       <title>Conversational IVR applications</title>
