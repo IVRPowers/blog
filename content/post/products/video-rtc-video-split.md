@@ -26,33 +26,39 @@ How it works:
 
 Features:
 
-* **Video Calling**, add face-to-face communications 
+* **Voice & Video Calling**, add face-to-face communications 
 * **Live Chat**, chat using text, smilleys and web links 
-* **File Sharing**, send and receive files 
+* **File Sharing**, send and receive documents and files
 * **Screen Sharing**, share any screen or application in real-time
-* **SIP Trunking**, connect easily your PBX or Call Center
+* **SIP Connect**, connect easily your PBX or Call Center
 
-##	Video Calling
+##	Voice & Video Calling
 
-[Enter content]
+[Video SPLIT](http://blog.ivrpowers.com/post/technologies/what-is-split/) allows to create a complete Voice & Video experience for your Call Center. It uses a specific technology approach called SPLIT inside our Video RTC platforms.
 
 ![blank](/postimages/products/ivrpowers-slide.blank.jpeg)
 
 ##	Live Chat
 
-[Enter content]
+[Live Chat](http://blog.ivrpowers.com/post/products/video-rtc-live-chat/) supplement your video and voice communication with advanced text chat capabilities using the WebRTC datachannel. Live Chat feature allows to send and receive text messages simultaneously, without any lag at a single click.
+
+![blank](/postimages/products/ivrpowers-slide.blank.jpeg)
+
+##	File Sharing
+
+[File Sharing](http://blog.ivrpowers.com/post/products/video-rtc-file-sharing/) functionality makes it possible to share and receive documents during your voice or video call. No longer limited to web based content, now you can upload and share documents and files during your mobile meetings too. 
 
 ![blank](/postimages/products/ivrpowers-slide.blank.jpeg)
 
 ##	Screen Sharing
 
-[Enter content]
+[Screen Sharing](http://blog.ivrpowers.com/post/products/video-rtc-screen-sharing/) allows you to share live screen over the web or mobile instantly. Most business processes can take benefit of using Screen Sharing feature. With just the click of a button, you can provide additional information or assistance.
 
 ![blank](/postimages/products/ivrpowers-slide.blank.jpeg)
 
-##	SIP Trunking
+##	SIP Connect
 
-[Enter content]
+[SIP Connect](http://blog.ivrpowers.com/post/products/video-rtc-sip-connect/) feature is designed to make traditional calls across web or mobile phones. It enables interoperability and SIP trunking between WebRTC endpoints and existing telephony system, like your current PBX or phone lines.
 
 ![blank](/postimages/products/ivrpowers-slide.blank.jpeg)
 

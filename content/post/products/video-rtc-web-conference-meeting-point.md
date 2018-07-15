@@ -30,35 +30,35 @@ Features:
 * **User Management**, manage multiple user accounts easily
 * **Voice & Video conferencing**, create easily web conferencing with multiple peers.
 * **Video Quality**, select the right quality acording to your own needs
-* **Private Area**, create a private user meeting point
+* **Private Profile Area**, create a private user meeting point
 
 ##	Open Authentication, OAuth
 
-[Enter content]
+Meeting Point is powered by OAuth technology to login and authenticate any user. You don't have to take care about password storage or updates all will be managed externaly.
 
 ![blank](/postimages/products/ivrpowers-slide.blank.jpeg)
 
 ##	User Management
 
-[Enter content]
+Meeting Point includes a powerful user management to allows easy creation and edition of all users you want to connect to your services.
 
 ![blank](/postimages/products/ivrpowers-slide.blank.jpeg)
 
 ##	Voice Conferencing
 
-[Enter content]
+Meeting Point can make Voice Confering through the web browser without any phone call requirement. You can easily know who is speaking thanks a user's speaker effect.
 
 ![blank](/postimages/products/ivrpowers-slide.blank.jpeg)
 
 ##	Video Conferencing
 
-[Enter content]
+Meeting Point can make Video Conferencing through the web browser in different quality settings HD, SD, Lowres. The RTC platform will adjust the quality to each peer bandwidth.
 
 ![blank](/postimages/products/ivrpowers-slide.blank.jpeg)
 
-##	Private Area
+##	Private Profile Area
 
-[Enter content]
+Meeting Point create a private area for each user. Each one can send his private URL to send invites to a web conference and all users will see a summary of his profile.
 
 ![blank](/postimages/products/ivrpowers-slide.blank.jpeg)
 

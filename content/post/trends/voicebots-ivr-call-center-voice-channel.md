@@ -1,8 +1,8 @@
 +++
 categories = ["trends"]
-date = "2018-07-08T10:00:00+01:00"
+date = "2018-07-13T10:00:00+01:00"
 description = "Artificial Intelligence"
-draft = true
+draft = false
 tags = ["nlu","ivr","ia","contactcenter"]
 title = "Voicebots are the new IVR for Contact Centers"
 image = "/postimages/trends/ivrpowers-slide.014.jpeg"
@@ -19,15 +19,15 @@ Past months, [Google’s Duplex demo](https://youtu.be/ogfYd705cRs) forced us to
 
 {{<  youtube ogfYd705cRs >}}
 
-##	What is the Next Evolution Step for Contact Centers?
+##	What is the Next Evolution for Contact Centers?
 
 Contact Center owners have to think quickly about this new Evolution trend in their day a day tasks. A recent Deloitte 2017 study of **450 diverse contact centers showed that customer interactions on the voice channel will fall by 17% by 2019**, but still remain significant at 47%, three times more than web chat and email, the next largest channels. More importantly, their respondents expect customer interactions to get more complex and that voice is by far the leader in dealing with complex interactions. Supporting this, the US Bureau of Labor Statistics predicts the larger “Telephone call centers” category will increase in headcount by 27.4% between 2016 and 2026.
 
-##	Voicebots for Interactive Voice Response (IVR)
+##	Voicebots for Interactive Voice Response (IVR).
 
 Voicebots itself are not really new technology, there are is actually derived from text-based Chatbots. [Interactive Voice Response (IVR)](http://blog.ivrpowers.com/post/technologies/what-is-ivr/) systems have been able to handle basic voice interactions for years. However, these systems were heavy and complex to manage and therefore tended to be used only in large, well-funded call centers. **More recently new IA machine learning approaches have fueled some major advancements for chatbots** and speech technology which has in turn created a new, rapidly growing ecosystem.
 
-##	The Rise of Natural Language Understanding (NLU)
+##	The Rise of Natural Language Understanding (NLU).
 
 The main improvement of current Voicebots is around [Natural Language Understanding (NLU)](http://blog.ivrpowers.com/post/technologies/what-is-nlu/) - capabilities that let software match the vagaries of human speech to specific actions while extracting the right objects and figures from speech. **The methodologies for programming bots are converging**, helping to spread best practices and reduce the learning curve. Platforms like **Google’s Dialogflow (formerly api.ai), Wit.ai (owned by Facebook), Microsoft’s LUIS, IBM’s Watson, and Amazon’s Lex** provide, along with a few yet-to-be acquired start-ups and some open source projects, provide relatively easy platforms for building your own voicebots.
 
