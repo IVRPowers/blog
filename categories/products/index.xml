@@ -6,10 +6,20 @@
     <description>Recent content in Products on Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 14 Jul 2018 15:00:00 +0200</lastBuildDate>
+    <lastBuildDate>Sat, 21 Jul 2018 23:00:00 +0200</lastBuildDate>
     
 	<atom:link href="http://blog.ivrpowers.com/categories/products/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Video RTC · Mobile SDK</title>
+      <link>http://blog.ivrpowers.com/post/products/video-rtc-mobile-sdk/</link>
+      <pubDate>Sat, 21 Jul 2018 23:00:00 +0200</pubDate>
+      
+      <guid>http://blog.ivrpowers.com/post/products/video-rtc-mobile-sdk/</guid>
+      <description>Photo Source: Interactive Powers. Build easily WebRTC-powered video calling into your mobile app with a simple JavaScript library for our Video RTC communication platforms. With our Video RTC · Mobile SDK, you can easily add real-time video calling over a data connection or WiFi from your website or app. Interactive Powers offers high quality video communication and seamless integration into any existing app.
+Add Real-Time Communications to your app.</description>
+    </item>
     
     <item>
       <title>Video RTC · Web Dialer</title>
