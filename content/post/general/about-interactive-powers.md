@@ -14,7 +14,7 @@ weight = 5
 ---------
 ###### Photo source: Interactive Powers
 
-**Interactive Powers** develops technology that helps your organization connect, communicate and engage with you customers, employees and stakeholders. Contact with us to find out more about how we can help you achieve your business communication goals. 
+**Interactive Powers** develops technology that helps your organization connect, communicate and engage with your customers, employees and stakeholders. Contact with us to find out more about how we can help you achieve your business communication goals. 
 
 **Interactive Powers** delivers communication platforms that enables advanced real-time interactions over public or private networks. We allow to deploy secure channels with unified voice, video, live chat and screen sharing capabilities for web, apps, and kiosk-based customer engagement to sale or support faster than ever.
 

@@ -28,14 +28,14 @@ Enhance the in-app [RTC](http://blog.ivrpowers.com/post/technologies/what-is-rtc
 
 Our SDK is based on our [videortc.js](http://blog.ivrpowers.com/post/development/introducing-videortcjs-developers/) library and supports:
 
-* **Cross-Platform Integration**,  Seamless integration across  iOS, Android &  Web Javascript platforms.
+* **Cross-Platform**, Seamless integration across  iOS, Android & Web Javascript platforms.
 * **Video & Audio Calling**,  Mute or Unmute audio and video calling as needed throughout a call.
 * **Adaptive Resolution**, Video will automatically adjust based on available bandwidth and usage.
 * **Snapshot Captures**, Capture views during the video stream for effective collaboration.
 * **Live Chat**, Send secure text messages, emoticons, and files during any interaction.
 * **File Sharing**, Dual Share files in any kind of format to create business collaboration with users.
 * **Screen Sharing**, Dual Screen Sharing from a desktop browser to improve your communications.
-* **Video Recording**, Video calling is on demand and controlled by the user with functional recording.
+* **Video Recording**, Video Recording is activated in settings or controlled by the user.
 
 ##	WebRTC Technology Made Easy
 
