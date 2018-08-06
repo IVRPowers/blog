@@ -13,6 +13,21 @@
   </url>
   
   <url>
+    <loc>http://blog.ivrpowers.com/post/technologies/screensharing-or-cobrowsing/</loc>
+    <lastmod>2018-08-05T01:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://blog.ivrpowers.com/post/updates/update-video-rtc-js-2.4.0/</loc>
+    <lastmod>2018-08-03T12:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://blog.ivrpowers.com/post/general/interactive-powers-gdpr/</loc>
+    <lastmod>2018-07-29T20:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://blog.ivrpowers.com/post/products/video-rtc-web-conference-meeting-point/</loc>
     <lastmod>2018-07-25T15:00:00+02:00</lastmod>
   </url>
@@ -455,6 +470,11 @@
   <url>
     <loc>http://blog.ivrpowers.com/post/coding/videortc-build-videoconference/</loc>
     <lastmod>2017-10-04T10:45:24+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://blog.ivrpowers.com/post/updates/update-video-rtc-js-2.0.0/</loc>
+    <lastmod>2017-10-03T12:00:00+02:00</lastmod>
   </url>
   
   <url>
@@ -1029,13 +1049,13 @@
   
   <url>
     <loc>http://blog.ivrpowers.com/tags/changelog/</loc>
-    <lastmod>2018-06-10T12:00:00+02:00</lastmod>
+    <lastmod>2018-08-03T12:00:00+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://blog.ivrpowers.com/tags/cloud/</loc>
-    <lastmod>2018-07-04T20:00:00+02:00</lastmod>
+    <lastmod>2018-08-05T01:00:00+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1107,7 +1127,7 @@
   
   <url>
     <loc>http://blog.ivrpowers.com/tags/data/</loc>
-    <lastmod>2017-09-26T12:06:30+02:00</lastmod>
+    <lastmod>2018-07-29T20:00:00+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1156,6 +1176,12 @@
   <url>
     <loc>http://blog.ivrpowers.com/categories/financial/</loc>
     <lastmod>2017-06-30T13:13:32+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://blog.ivrpowers.com/tags/gdpr/</loc>
+    <lastmod>2018-07-29T20:00:00+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1371,7 +1397,7 @@
   
   <url>
     <loc>http://blog.ivrpowers.com/tags/rtc/</loc>
-    <lastmod>2018-07-25T15:00:00+02:00</lastmod>
+    <lastmod>2018-08-05T01:00:00+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1479,7 +1505,7 @@
   
   <url>
     <loc>http://blog.ivrpowers.com/categories/technologies/</loc>
-    <lastmod>2018-07-10T09:00:05+02:00</lastmod>
+    <lastmod>2018-08-05T01:00:00+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1533,7 +1559,7 @@
   
   <url>
     <loc>http://blog.ivrpowers.com/categories/updates/</loc>
-    <lastmod>2018-06-10T12:00:00+02:00</lastmod>
+    <lastmod>2018-08-03T12:00:00+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1569,7 +1595,7 @@
   
   <url>
     <loc>http://blog.ivrpowers.com/tags/videortc/</loc>
-    <lastmod>2018-07-25T15:00:00+02:00</lastmod>
+    <lastmod>2018-08-05T01:00:00+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1623,7 +1649,7 @@
   
   <url>
     <loc>http://blog.ivrpowers.com/tags/webrtc/</loc>
-    <lastmod>2018-07-10T09:00:05+02:00</lastmod>
+    <lastmod>2018-08-03T12:00:00+02:00</lastmod>
     <priority>0</priority>
   </url>
   

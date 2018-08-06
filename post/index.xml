@@ -31,6 +31,36 @@ Interactive Powers delivers communication platforms that enables advanced real-t
     </item>
     
     <item>
+      <title>Screen Sharing or Co-Browsing?</title>
+      <link>http://blog.ivrpowers.com/post/technologies/screensharing-or-cobrowsing/</link>
+      <pubDate>Sun, 05 Aug 2018 01:00:00 +0200</pubDate>
+      
+      <guid>http://blog.ivrpowers.com/post/technologies/screensharing-or-cobrowsing/</guid>
+      <description>Discover Screen Sharing and Co-Browsing advantages, the secure new ‘no download’ complementary interactions improving phone calls for onboarding, sales and support. Screen Sharing and Co-Browsing (or Collaborative Browsing) are a relatively new technologies for Call Centers propelled by a Cloud evolution. However, customer experience professionals seem to think that CoBrowsing and Screen Sharing are one and the same when in reality, they’re not. So what is the difference between these two features and how does adapting your VideoRTC solution improve the overall customer experience?</description>
+    </item>
+    
+    <item>
+      <title>VideoRTC.js (API) v2.4.0</title>
+      <link>http://blog.ivrpowers.com/post/updates/update-video-rtc-js-2.4.0/</link>
+      <pubDate>Fri, 03 Aug 2018 12:00:00 +0200</pubDate>
+      
+      <guid>http://blog.ivrpowers.com/post/updates/update-video-rtc-js-2.4.0/</guid>
+      <description>Release Note We are pleased to announce that our API Framework for Javascript VideoRTC.js v2.4.0 has been released for suitable for Web Developments and Mobile SDK . All users with previous maintained versions can upgrade today. Please contact our support!
+ChangeLog Version 2.1.0 · 2.4.0:
+## [2.1.0] - 2018-01-16 ### Added - Added `videoStream` and `videoEnabled` option parameters in the SplitAgent module - Added `onReadyLocalAudio`, `onAcceptedData` and `onScreensharingClosed` events in the SplitClient module - Added `onAcceptedData` and `onReadyLocalStream` events in the SplitAgent module - Added a mechanism that guarantees the sending of files through the Datachannel - Added `onFileTransferOk` and `onFileTransferKo` events in the modules that use the Datachannel - Added `startScreensharing` and `stopScreensharing` actions in the SplitClient module - Added `notify` method in the following modules: SplitClient and SplitAgent - Added Safari iOS 11 support in the SplitClient module (Audio mode) ### Changed - Updated recording mode in the SPLIT modules ### Fixed - Fixed the use of the debug parameter at library level ## [2.</description>
+    </item>
+    
+    <item>
+      <title>Interactive Powers and GDPR</title>
+      <link>http://blog.ivrpowers.com/post/general/interactive-powers-gdpr/</link>
+      <pubDate>Sun, 29 Jul 2018 20:00:00 +0200</pubDate>
+      
+      <guid>http://blog.ivrpowers.com/post/general/interactive-powers-gdpr/</guid>
+      <description>Photo source: Interactive Powers At Interactive Powers we have always taken care of your data with the seriousness it deserves and having the General Data Protection Regulation (GDPR) becoming effective on May 25th 2018, we have revised our internal operations, security, and legal documents to ensure we are compliant with this new set of rules.
+Policy Updates  Terms of Service: were updated to reflect GDPR requirements. Privacy Policy: added data we collect and how we use it.</description>
+    </item>
+    
+    <item>
       <title>Video RTC · Meeting Point</title>
       <link>http://blog.ivrpowers.com/post/products/video-rtc-web-conference-meeting-point/</link>
       <pubDate>Wed, 25 Jul 2018 15:00:00 +0200</pubDate>
@@ -891,6 +921,17 @@ ChangeLog Version 3.0.0:
       <description>Photo Source: Interactive Powers, Pexels. Creative Commons Today we bring you this interesting article on How to build your own videoconference service based on HTML5 technology by using our API Framework with VideoRTC.js.
 Step one: Setting up the basic structure As we have explained in previous posts, first of all it is important that you include dependency within your project or web page.
 &amp;lt;script type=&amp;quot;text/javascript&amp;quot; src=&amp;quot;videortc.js&amp;quot;&amp;gt;&amp;lt;/script&amp;gt;  You can insert a minimized version if you prefer so:</description>
+    </item>
+    
+    <item>
+      <title>VideoRTC.js (API) v2.0.0</title>
+      <link>http://blog.ivrpowers.com/post/updates/update-video-rtc-js-2.0.0/</link>
+      <pubDate>Tue, 03 Oct 2017 12:00:00 +0200</pubDate>
+      
+      <guid>http://blog.ivrpowers.com/post/updates/update-video-rtc-js-2.0.0/</guid>
+      <description>Release Note We are pleased to announce that our API Framework for Javascript VideoRTC.js v2.0.0 has been released for suitable for Web Developments and Mobile SDK . All users with previous maintained versions can upgrade today. Please contact our support!
+ChangeLog Version 1.0.0 · 2.0.0:
+# Change Log All notable changes to this project will be documented in this file. ## [1.0.0] - 2017-02-10 ### First release ## [1.1.0] - 2017-04-17 ### Added - Added VoiceProcessor feature in the Videoroom module - Added `disconnect()` method for destroy a session with the VideoGateway - Added `closeUsecase()` method for close a use case with the VideoGateway (All usecases) - Added download link of VideoRTC Screensharing extension for Chrome - Added `videoRate` and `screenRate` parameters in the `call()` method (Split Client) - Added timestamp in Videomail messages to achieve multiple records with the same id/name ### Changed - Updated `webrtc-adapter` version release to `3.</description>
     </item>
     
     <item>

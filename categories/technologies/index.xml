@@ -6,10 +6,19 @@
     <description>Recent content in Technologies on Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 10 Jul 2018 09:00:05 +0200</lastBuildDate>
+    <lastBuildDate>Sun, 05 Aug 2018 01:00:00 +0200</lastBuildDate>
     
 	<atom:link href="http://blog.ivrpowers.com/categories/technologies/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Screen Sharing or Co-Browsing?</title>
+      <link>http://blog.ivrpowers.com/post/technologies/screensharing-or-cobrowsing/</link>
+      <pubDate>Sun, 05 Aug 2018 01:00:00 +0200</pubDate>
+      
+      <guid>http://blog.ivrpowers.com/post/technologies/screensharing-or-cobrowsing/</guid>
+      <description>Discover Screen Sharing and Co-Browsing advantages, the secure new ‘no download’ complementary interactions improving phone calls for onboarding, sales and support. Screen Sharing and Co-Browsing (or Collaborative Browsing) are a relatively new technologies for Call Centers propelled by a Cloud evolution. However, customer experience professionals seem to think that CoBrowsing and Screen Sharing are one and the same when in reality, they’re not. So what is the difference between these two features and how does adapting your VideoRTC solution improve the overall customer experience?</description>
+    </item>
     
     <item>
       <title>What is a STUN/TURN Server?</title>
