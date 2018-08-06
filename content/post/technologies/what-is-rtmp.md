@@ -1,7 +1,7 @@
 +++
 categories = ["technologies"]
 date = "2017-06-14T00:19:54+02:00"
-description = "Technology Word Definition"
+description = "Technology Definition"
 draft = false
 tags = ["rtmp","rtc"]
 title = "What is RTMP?"

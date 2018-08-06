@@ -1,7 +1,7 @@
 +++
 categories = ["technologies"]
 date = "2017-06-12T00:20:05+02:00"
-description = "Technology Word Definition"
+description = "Technology Definition"
 draft = false
 tags = ["ivr","rtc"]
 title = "What is IVR?"
