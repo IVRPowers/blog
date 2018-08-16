@@ -6,10 +6,19 @@
     <description>Recent content in Coding on Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 05 Jul 2018 09:00:00 +0200</lastBuildDate>
+    <lastBuildDate>Thu, 16 Aug 2018 10:00:00 +0200</lastBuildDate>
     
 	<atom:link href="http://blog.ivrpowers.com/categories/coding/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Logging with Log Rotation</title>
+      <link>http://blog.ivrpowers.com/post/coding/videortc-log-rotation/</link>
+      <pubDate>Thu, 16 Aug 2018 10:00:00 +0200</pubDate>
+      
+      <guid>http://blog.ivrpowers.com/post/coding/videortc-log-rotation/</guid>
+      <description>Photo Source: Interactive Powers, Pexels. Creative Commons Improve your Video RTC debugging tasks and platform monitoring for all your applications Logging takes place in the execution of your Video RTC applications to provide an audit trail that can be used to understand the activity of the system and to diagnose problems to find and fix bugs. We are pleased to talk a bout a very useful tool for managing log files called Log Rotation.</description>
+    </item>
     
     <item>
       <title>How to configure and customise your Webclient</title>

@@ -13,6 +13,11 @@
   </url>
   
   <url>
+    <loc>http://blog.ivrpowers.com/post/coding/videortc-log-rotation/</loc>
+    <lastmod>2018-08-16T10:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://blog.ivrpowers.com/post/technologies/screensharing-or-cobrowsing/</loc>
     <lastmod>2018-08-05T01:00:00+02:00</lastmod>
   </url>
@@ -1061,13 +1066,13 @@
   
   <url>
     <loc>http://blog.ivrpowers.com/tags/code/</loc>
-    <lastmod>2018-07-05T09:00:00+02:00</lastmod>
+    <lastmod>2018-08-16T10:00:00+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://blog.ivrpowers.com/categories/coding/</loc>
-    <lastmod>2018-07-05T09:00:00+02:00</lastmod>
+    <lastmod>2018-08-16T10:00:00+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1134,6 +1139,12 @@
   <url>
     <loc>http://blog.ivrpowers.com/tags/datachannel/</loc>
     <lastmod>2017-10-26T10:45:24+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://blog.ivrpowers.com/tags/debugging/</loc>
+    <lastmod>2018-08-16T10:00:00+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1595,7 +1606,7 @@
   
   <url>
     <loc>http://blog.ivrpowers.com/tags/videortc/</loc>
-    <lastmod>2018-08-05T01:00:00+02:00</lastmod>
+    <lastmod>2018-08-16T10:00:00+02:00</lastmod>
     <priority>0</priority>
   </url>
   
