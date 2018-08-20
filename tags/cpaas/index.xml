@@ -6,10 +6,19 @@
     <description>Recent content in Cpaas on Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 04 Jul 2018 20:00:00 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 21 Aug 2018 09:00:00 +0200</lastBuildDate>
     
 	<atom:link href="http://blog.ivrpowers.com/tags/cpaas/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Video RTC · Web Panel Plugin</title>
+      <link>http://blog.ivrpowers.com/post/products/video-rtc-video-gateway-web-panel/</link>
+      <pubDate>Tue, 21 Aug 2018 09:00:00 +0200</pubDate>
+      
+      <guid>http://blog.ivrpowers.com/post/products/video-rtc-video-gateway-web-panel/</guid>
+      <description>Photo Source: Jon Flobrant on Unsplash. Manage logs and adjust easily main settings of your Video RTC Gateway. At Interactive Powers, we have spent many months making all our solutions better than ever, and one of our products at the very heart of our customers is our Video RTC Gateway. We have made significant improvements on visualizing all information in the Console. We’d love any and all feedback you have on this new monitoring experience.</description>
+    </item>
     
     <item>
       <title>EU Store · Europe CPaaS</title>
