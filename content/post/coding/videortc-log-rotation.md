@@ -18,13 +18,13 @@ comments = true
 
 Logging takes place in the execution of your [Video RTC applications](http://blog.ivrpowers.com/post/products/real-time-communications-applications/) to provide an audit trail that can be used to understand the activity of the system and to diagnose problems to find and fix bugs. We are pleased to talk a bout a very useful tool for managing log files called **Log Rotation**. We have decided to incorporate this tool to improve coding, monitoring and debbuging with all our [Video Gateway](http://www.ivrpowers.com/videortc/) solutions. This new internal feature allows automatic rotation, compression and removal of log history files. Each log file may be created *daily*, *weekly*, *monthly*, or when it grows too large.
 
-~~~typescript
+~~~bash
 /etc/logrotate.d/webrtc-gateway
 ~~~
 
 The default configuration we have set up next to the package is as follows:
 
-~~~typescript
+~~~bash
 /var/log/webrtc-gateway.log {
 	weekly
 	rotate 12
@@ -39,7 +39,7 @@ The default configuration we have set up next to the package is as follows:
 
 Options:
 
-* **weekly**: Log files are rotated
+* **weekly**: Log files are rotated weekly
 * **rotate**: Log files are rotated 12 times (3 last months)
 * **compress**: Log files are compressed (.gz)
 * **notifempty**: Do not rotate the log if it is empty
