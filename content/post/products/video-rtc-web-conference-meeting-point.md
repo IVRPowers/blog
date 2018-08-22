@@ -13,10 +13,10 @@ comments = true
 ------------
 ###### Photo Source: Unsplash · Interactive Powers. Creative Commons.
 
-#	Dramatically improves Customer Experience (CX) extending phone calls with Live Chat,  Dual File Sharing, Dual Screen Sharing…
+#	Make secure business online meetings with a standard OAuth authentication.
 ---
 
-Sometime, you don't have to change all things to build something new and really better to improve your existing Business Communications. **Remote Viewer** is a new [Video RTC](http://blog.ivrpowers.com/post/products/video-rtc/) Use Case and solution that allows to **add advanced powers both to your call center agents and phone callers**. Have you think about reducing customer care or support interactions, time spend during phone calls or **improve your customer experience and confidence**. Remote Viewer create easilty smart web interactions during any call, to improve your business processes for any call center and industry.
+Communications can be a critical part of your own business and cannot be outsourced to any kind of OTT or public cloud service. **Meeting Point** is a new [Video RTC](http://blog.ivrpowers.com/post/products/video-rtc/) Use Case and solution that allows to **create advanced Video Conferences from any modern browser** and your own mobile app (on demand). Have you think about helping to protect your employees' meetings or support interactions. Meeting Point create easilty smart video & audio meeting in a web environements that improves your business processes security for any industry.
 
 Powered by Video RTC (WebRTC) - [Interactive Powers](http://www.ivrpowers.com/)
 
