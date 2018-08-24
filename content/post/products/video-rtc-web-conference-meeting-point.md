@@ -16,7 +16,7 @@ comments = true
 #	Make secure business online meetings with a standard OAuth authentication.
 ---
 
-Communications can be a critical part of your own business and cannot be outsourced to any kind of OTT or public cloud service. **Meeting Point** is a new [Video RTC](http://blog.ivrpowers.com/post/products/video-rtc/) Use Case and solution that allows to **create advanced Video Conferences from any modern browser** and your own mobile app (on demand). Have you think about helping to protect your employees' meetings or support interactions. Meeting Point create easilty smart video & audio meeting in a web environements that improves your business processes security for any industry.
+Communications can be a critical part of your own business and cannot be outsourced to any kind of OTT or public cloud service. **Meeting Point** is a new [Video RTC](http://blog.ivrpowers.com/post/products/video-rtc/) Use Case and solution that allows to **create Video Conferences from any modern browser** and your own mobile app (on demand). Have you think about helping to protect your employees' meetings or support interactions. Meeting Point manage easily video & audio meetings in a secure WebRTC environment to improve your business processes.
 
 Powered by Video RTC (WebRTC) - [Interactive Powers](http://www.ivrpowers.com/)
 
