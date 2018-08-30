@@ -19,23 +19,23 @@ comments = true
 
 A large number of businesses can benefit from offering [WebRTC](http://blog.ivrpowers.com/post/technologies/what-is-webrtc/) services to get a better Customer Experience (CX) with their sales, support or any kind of interactions. And both customers and companies can obtain plenty of advantages by using [Real-time Communications](http://blog.ivrpowers.com/post/technologies/what-is-rtc/). Here, we present five of the most visible ones.
 
-##	Easy Business integration
+##	Easy Business Integration.
 
 **WebRTC** can be integrated within your existing communication infrastructure for voice and video, so you don't need to buy new equipments.
 
-##	Unifed Communications
+##	Unifed Communications.
 
 **WebRTC** allows an end-to-end integrated customer journey and a better CX accross multiple RTC channels, for sales and services use.
 
-##	Improved User Experience
+##	Improved User Experience.
 
 **WebRTC** gives customers the opportunity to reach out your company through the most convenient communication channel or device.
 
-##	Reduced Operational Costs
+##	Reduced Operational Costs.
 
 **WebRTC** can be delivered in a pay per use modality and cloud environnement without any specific new IT or infrastructure investment.
 
-##	Realiable and Secure
+##	Realiable and Secure.
 
 **WebRTC** comes with in-built security features that work to protect web browser and apps communications with secure encryption.
 
