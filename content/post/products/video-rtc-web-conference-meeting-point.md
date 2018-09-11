@@ -3,7 +3,7 @@ categories = ["products"]
 date = "2018-07-25T15:00:00+02:00"
 description = "Turnkey Solution"
 draft = false
-tags = ["rtc","videortc"]
+tags = ["turnkey","rtc","videortc"]
 title = "Video RTC · Meeting Point"
 image = "/postimages/products/ivrpowers-slide.010.jpeg"
 comments = true
@@ -71,6 +71,8 @@ Meeting Point can make Video Conferencing through the web browser in different q
 #	Streamline your business communications
 
 **Interactive Powers** can help you to turn easily customer experience into a competitive advantage, as our solutions are integrated into your existing processes. Being so, escalation to video is naturally incorporated into your business’s workflow.
+
+Please [contact our sales](https://www.ivrpowers.com/support-services/) for more information.
 
 ---
 [Interactive Powers](http://www.ivrpowers.com/ ) - Streamline your business communications
