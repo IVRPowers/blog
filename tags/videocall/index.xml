@@ -6,10 +6,19 @@
     <description>Recent content in Videocall on Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 21 Jul 2018 22:00:00 +0100</lastBuildDate>
+    <lastBuildDate>Tue, 11 Sep 2018 13:00:00 +0200</lastBuildDate>
     
 	<atom:link href="http://blog.ivrpowers.com/tags/videocall/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Video RTC · Videocall</title>
+      <link>http://blog.ivrpowers.com/post/products/video-rtc-videocall/</link>
+      <pubDate>Tue, 11 Sep 2018 13:00:00 +0200</pubDate>
+      
+      <guid>http://blog.ivrpowers.com/post/products/video-rtc-videocall/</guid>
+      <description>Peer-to-Peer Communication has never been so easy to build into a Website, Mobile App or Kiosks. Videocall provides a simpler way for companies to build their own video calling service via web or mobile application. It integrates seamlessly into the workflows, functions and it is easy to manage. Agents, users or customers can communicate instantly over video without downloading software or installing plugins. It also enables multi-party calls for team collaboration.</description>
+    </item>
     
     <item>
       <title>Video Calling, as a new game changer</title>
