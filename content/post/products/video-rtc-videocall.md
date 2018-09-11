@@ -16,7 +16,7 @@ image = "/postimages/products/ivrpowers-videocall.001.jpeg"
 
 **Videocall** provides a simpler way for companies to build their own video calling service via web or mobile application. It integrates seamlessly into the workflows, functions and it is easy to manage. Agents, users or customers can communicate instantly over video without downloading software or installing plugins. It also enables multi-party calls for team collaboration.
 
-Powered by Video RTC (WebRTC) - Interactive Powers
+Powered by Video RTC (WebRTC) - [Interactive Powers](https://www.ivrpowers.com/)
 
 Main Features:
 
@@ -50,7 +50,14 @@ Videocall allow to mute, audio or video and run Live Chat functions too.
 
 ![VideoRTC Video Calling](/postimages/products/ivrpowers-videocall.006.jpeg)
 
-**Videocall** Use Case makes it easy to create real-time communications (RTC) for your business applications and processes. This feature allows you to stay connected with your business team all the time, and it helps to make a stronger personal connection with the help of real-time and human face communication.
+**Videocall** Use Case makes it easy to create real-time communications (RTC) for your own applications and processes. This feature allows you to stay connected with your business team all the time, and it helps to make a stronger personal connection with the help of **a real-time and human face communication**.
+
+# Streamline your business communications
+
+**Interactive Powers** can help you to turn easily customer experience into a competitive advantage, as our solutions are integrated into your existing processes. Being so, videocall can be naturally incorporated into your business’s workflow.
+
+
+Please [contact our sales](https://www.ivrpowers.com/support-services/) for more information.
 
 ---
 [Interactive Powers](http://www.ivrpowers.com/) - Streamline your business communications
