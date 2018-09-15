@@ -6,7 +6,7 @@
     <description>Recent content in Rtc on Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 16 Sep 2018 12:00:00 +0200</lastBuildDate>
+    <lastBuildDate>Sat, 15 Sep 2018 12:00:00 +0200</lastBuildDate>
     
 	<atom:link href="http://blog.ivrpowers.com/tags/rtc/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,7 +14,7 @@
     <item>
       <title>Video RTC (WebRTC) v3.3.0</title>
       <link>http://blog.ivrpowers.com/post/updates/update-video-rtc-webrtc-3.3.0/</link>
-      <pubDate>Sun, 16 Sep 2018 12:00:00 +0200</pubDate>
+      <pubDate>Sat, 15 Sep 2018 12:00:00 +0200</pubDate>
       
       <guid>http://blog.ivrpowers.com/post/updates/update-video-rtc-webrtc-3.3.0/</guid>
       <description>Release Note We are pleased to announce that our new Video RTC (Gateway WebRTC) v3.3.0 has been released for suitable production services. This new version includes a lot of improvements and new features. All users with previous maintained versions can upgrade today. Please contact our support!
