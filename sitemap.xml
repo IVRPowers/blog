@@ -13,6 +13,21 @@
   </url>
   
   <url>
+    <loc>http://blog.ivrpowers.com/post/products/video-rtc-cobrowsing/</loc>
+    <lastmod>2018-10-08T12:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://blog.ivrpowers.com/post/products/turnkey-cloud-hosting/</loc>
+    <lastmod>2018-10-07T20:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://blog.ivrpowers.com/post/products/turnkey-auto-dialer/</loc>
+    <lastmod>2018-10-07T15:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://blog.ivrpowers.com/post/updates/update-video-rtc-webrtc-3.3.0/</loc>
     <lastmod>2018-09-15T12:00:00+02:00</lastmod>
   </url>
@@ -1283,7 +1298,7 @@
   
   <url>
     <loc>http://blog.ivrpowers.com/tags/ivr/</loc>
-    <lastmod>2018-09-11T15:00:00+02:00</lastmod>
+    <lastmod>2018-10-07T20:00:00+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1415,13 +1430,13 @@
   
   <url>
     <loc>http://blog.ivrpowers.com/post/</loc>
-    <lastmod>2017-06-12T09:42:42+02:00</lastmod>
+    <lastmod>2018-10-08T12:00:00+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://blog.ivrpowers.com/categories/products/</loc>
-    <lastmod>2018-09-11T15:00:00+02:00</lastmod>
+    <lastmod>2018-10-08T12:00:00+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1433,7 +1448,7 @@
   
   <url>
     <loc>http://blog.ivrpowers.com/tags/rtc/</loc>
-    <lastmod>2018-09-15T12:00:00+02:00</lastmod>
+    <lastmod>2018-10-08T12:00:00+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1589,7 +1604,7 @@
   
   <url>
     <loc>http://blog.ivrpowers.com/tags/turnkey/</loc>
-    <lastmod>2018-09-11T15:00:00+02:00</lastmod>
+    <lastmod>2018-10-07T20:00:00+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1631,7 +1646,7 @@
   
   <url>
     <loc>http://blog.ivrpowers.com/tags/videortc/</loc>
-    <lastmod>2018-09-11T15:00:00+02:00</lastmod>
+    <lastmod>2018-10-08T12:00:00+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1649,7 +1664,7 @@
   
   <url>
     <loc>http://blog.ivrpowers.com/tags/voicexml/</loc>
-    <lastmod>2018-07-04T13:30:00+02:00</lastmod>
+    <lastmod>2018-10-07T15:00:00+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1685,7 +1700,7 @@
   
   <url>
     <loc>http://blog.ivrpowers.com/tags/webrtc/</loc>
-    <lastmod>2018-09-15T12:00:00+02:00</lastmod>
+    <lastmod>2018-10-08T12:00:00+02:00</lastmod>
     <priority>0</priority>
   </url>
   
