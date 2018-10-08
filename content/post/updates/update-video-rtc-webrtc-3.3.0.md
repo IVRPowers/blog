@@ -1,6 +1,6 @@
 +++
 categories = ["updates"]
-date = "2018-09-16T12:00:00+02:00"
+date = "2018-09-15T12:00:00+02:00"
 description = "Release Note"
 draft = false
 tags = ["webrtc","rtc","ivrpowers","changelog"]
