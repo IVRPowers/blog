@@ -21,7 +21,7 @@ Powered by Video RTC (WebRTC) - [Interactive Powers](http://www.ivrpowers.com/)
 
 How it works:
 
-![Turnkey · Interactive Powers](/postimages/products/ivrpowers-turnkey-screen.006.jpeg)
+![Turnkey · Interactive Powers](/postimages/products/ivrpowers-turnkey-screen.006.png)
 
 Main features:
 
@@ -72,7 +72,7 @@ Call Center is a special extension of Video RTC, ready for Face-to-Face Video Co
 
 ![Turnkey · Call Center](/postimages/products/ivrpowers-callcenter.011.jpeg)
 
-## Streamline your business communications.
+# Streamline your business communications.
 
 Interactive Powers can help you to turn easily customer experience into a competitive advantage, as our solutions are integrated into your existing processes. Being so, escalation to video is naturally incorporated into your business’s workflow.
 
