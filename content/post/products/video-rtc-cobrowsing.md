@@ -11,7 +11,7 @@ image = "/postimages/products/ivrpowers-videortc-features.036.jpeg"
 
 ![VideoRTC Screen Sharing](/postimages/products/ivrpowers-videortc-features.035.jpeg)
 
-#	Secure screen share your desktop or any application in Real-Time Communications.
+#	Cobrowsing enables agents to assist users when they are browsing on your web page.
 ---
 
 ## Overview
