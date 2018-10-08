@@ -4,7 +4,7 @@ date = "2018-09-15T12:00:00+02:00"
 description = "Release Note"
 draft = false
 tags = ["webrtc","rtc","ivrpowers","changelog"]
-title = "Video RTC (WebRTC) v3.3.0"
+title = "Video RTC (WebRTC) v3.3"
 image = "/postimages/updates/ivrpowers-posts-01.088.jpeg"
 featured = true
 +++

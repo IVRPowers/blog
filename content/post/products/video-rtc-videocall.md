@@ -10,6 +10,8 @@ image = "/postimages/products/ivrpowers-videocall.001.jpeg"
 +++
 
 ![VideoRTC Video Calling](/postimages/products/ivrpowers-videocall.001.jpeg)
+-------
+###### Photo source: Pixabay. Creative Commons
 
 #	Peer-to-Peer Communication has never been so easy to build into a Website, Mobile App or Kiosks.
 ---
@@ -18,7 +20,12 @@ image = "/postimages/products/ivrpowers-videocall.001.jpeg"
 
 Powered by Video RTC (WebRTC) - [Interactive Powers](https://www.ivrpowers.com/)
 
-Main Features:
+Default Features:
+
+* Live Chat
+* File Sharing
+* Mute Video
+* Mute Audio
 
 ##	Setting your Session ID
 

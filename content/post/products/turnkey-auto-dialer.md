@@ -11,13 +11,13 @@ image = "/postimages/technologies/ivrpowers-posts-01.082.jpeg"
 +++
 
 ![Turnkey · Interactive Powers](/postimages/technologies/ivrpowers-posts-01.082.jpeg)
+-------
+###### Photo source: Pixabay. Creative Commons
 
 #	Calling all your business contacts at once.
 ---
 
-Auto Dialer is multi-channel dialing platform to send important alerts, promotions, updates, payment collection, political campaigns, phone surveys or notifications to your customers, employees, voters, and more. it instantly turns your browser into a complete outbound call center with an Intuitive user interface, advanced multi-campaign management and reporting. It can be easily connected to our VoiceXML IVR.
-
-Powered by VoiceXML IVR - [Interactive Powers](http://www.ivrpowers.com/)
+**Auto Dialer** is multi-channel dialing platform to send important alerts, promotions, updates, payment collection, political campaigns, phone surveys or notifications to your customers, employees, voters, and more. it instantly turns your browser into a complete outbound call center with an Intuitive user interface, advanced multi-campaign management and reporting. It can be easily connected to our VoiceXML IVR.
 
 How it works:
 
@@ -80,7 +80,7 @@ Create or store any specific list of phones and recorded audio files for your ow
 
 # Streamline your business communications.
 
-Interactive Powers can help you to turn easily customer experience into a competitive advantage, as our solutions are integrated into your existing processes. Being so, Audi Dialer can be naturally incorporated into your business’s workflow and extend your VoiceXML IVR.
+Interactive Powers can help you to turn easily customer experience into a competitive advantage, as our solutions are integrated into your existing processes. Being so, Audi Dialer can be naturally incorporated into your business’s workflow and extend your [VoiceXML IVR](https://www.ivrpowers.com/voicexml/).
 
 Please [contact our sales](https://www.ivrpowers.com/support-services/) for more information.
 
