@@ -29,7 +29,7 @@ image = "/postimages/products/ivrpowers-videortc-features.036.jpeg"
 	
 ## System Requirements
 
-**CoBrowsing** feature requires [Video RTC](http://blog.ivrpowers.com/post/products/video-rtc/) (WebRTC) Gateway On Premise or Cloud CPaaS.  It requires our special Chrome Extension in only one peer side to stream all your desktop or any selected application windows.
+**CoBrowsing** feature requires [Video RTC](http://blog.ivrpowers.com/post/products/video-rtc/) (WebRTC) Gateway On Premise or Cloud CPaaS.  For the targeted website, you only requires to setup our special HTML5 code widget to start cobrowsing with an agent.
 
 ## Website Addon
 

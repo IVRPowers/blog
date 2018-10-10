@@ -80,7 +80,7 @@ Create or store any specific list of phones and recorded audio files for your ow
 
 # Streamline your business communications.
 
-Interactive Powers can help you to turn easily customer experience into a competitive advantage, as our solutions are integrated into your existing processes. Being so, Audi Dialer can be naturally incorporated into your business’s workflow and extend your [VoiceXML IVR](https://www.ivrpowers.com/voicexml/).
+Interactive Powers can help you to turn easily customer experience into a competitive advantage, as our solutions are integrated into your existing processes. Being so, **Auto Dialer** can be naturally incorporated into your business’s workflow and extend your [VoiceXML IVR](https://www.ivrpowers.com/voicexml/).
 
 Please [contact our sales](https://www.ivrpowers.com/support-services/) for more information.
 
