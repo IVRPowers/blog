@@ -39,7 +39,7 @@ You can easily activate **CoBrowsing** without changing all your business logic.
 
 ## API Framework
 
-**CoBrowsing** feature is powered by specific JS functions inside our specific Video RTC Addon.
+**CoBrowsing** feature is powered by specific JS functions inside a specific HTML5 code Widget.
 
 ---
 [Interactive Powers](http://www.ivrpowers.com/) - Streamline your business communications
