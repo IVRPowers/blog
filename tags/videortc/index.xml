@@ -6,10 +6,28 @@
     <description>Recent content in Videortc on Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 12 Oct 2018 15:00:00 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 31 Oct 2018 22:00:00 +0100</lastBuildDate>
     
 	<atom:link href="http://blog.ivrpowers.com/tags/videortc/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Total Cost of Ownership</title>
+      <link>http://blog.ivrpowers.com/post/trends/total-cost-of-ownership/</link>
+      <pubDate>Wed, 31 Oct 2018 22:00:00 +0100</pubDate>
+      
+      <guid>http://blog.ivrpowers.com/post/trends/total-cost-of-ownership/</guid>
+      <description>Photo source: Unsplash Creative Commons. TCO is particularly important when you’re deploying Video RTC solutions, and it allows companies to gain substantial cost advantages in implementation, training, maintenance, and system management. Most analysts agree that on-premises will cost you less up front. You pay a one-time license fee, along with a maintenance subscription covering things like vendor support. These are far cheaper than the cost of your cloud subscription over time.</description>
+    </item>
+    
+    <item>
+      <title>On Premise vs Cloud</title>
+      <link>http://blog.ivrpowers.com/post/trends/on-premise-vs-cloud/</link>
+      <pubDate>Tue, 30 Oct 2018 22:00:00 +0100</pubDate>
+      
+      <guid>http://blog.ivrpowers.com/post/trends/on-premise-vs-cloud/</guid>
+      <description>Photo source: Unsplash Creative Commons. There is many reasons to consider replacing an on-premises infrastructure with a cloud-based video real-time communication platform as a service. If your communication infrastructure don’t supports modern video communications or faces end-of-life, you need to plan your migration strategy now to avoid pitfalls down the road. Also consider the seasonality of your business and the best time to be upgraded. For reference, on-premises solutions typically require more time to procure, generally weeks or months.</description>
+    </item>
     
     <item>
       <title>Video RTC · CoBrowsing</title>

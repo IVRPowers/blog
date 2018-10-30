@@ -6,10 +6,19 @@
     <description>Recent content in Cloud on Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 05 Aug 2018 01:00:00 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 30 Oct 2018 22:00:00 +0100</lastBuildDate>
     
 	<atom:link href="http://blog.ivrpowers.com/tags/cloud/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>On Premise vs Cloud</title>
+      <link>http://blog.ivrpowers.com/post/trends/on-premise-vs-cloud/</link>
+      <pubDate>Tue, 30 Oct 2018 22:00:00 +0100</pubDate>
+      
+      <guid>http://blog.ivrpowers.com/post/trends/on-premise-vs-cloud/</guid>
+      <description>Photo source: Unsplash Creative Commons. There is many reasons to consider replacing an on-premises infrastructure with a cloud-based video real-time communication platform as a service. If your communication infrastructure don’t supports modern video communications or faces end-of-life, you need to plan your migration strategy now to avoid pitfalls down the road. Also consider the seasonality of your business and the best time to be upgraded. For reference, on-premises solutions typically require more time to procure, generally weeks or months.</description>
+    </item>
     
     <item>
       <title>Screen Sharing or Co-Browsing?</title>

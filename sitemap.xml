@@ -13,6 +13,21 @@
   </url>
   
   <url>
+    <loc>http://blog.ivrpowers.com/post/trends/total-cost-of-ownership/</loc>
+    <lastmod>2018-10-31T22:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://blog.ivrpowers.com/post/general/happy-halloween-2018/</loc>
+    <lastmod>2018-10-31T09:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://blog.ivrpowers.com/post/trends/on-premise-vs-cloud/</loc>
+    <lastmod>2018-10-30T22:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://blog.ivrpowers.com/post/products/turnkey-cobrowsing/</loc>
     <lastmod>2018-10-12T15:00:00+02:00</lastmod>
   </url>
@@ -1110,7 +1125,7 @@
   
   <url>
     <loc>http://blog.ivrpowers.com/tags/cloud/</loc>
-    <lastmod>2018-08-05T01:00:00+02:00</lastmod>
+    <lastmod>2018-10-30T22:00:00+01:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1440,7 +1455,7 @@
   
   <url>
     <loc>http://blog.ivrpowers.com/post/</loc>
-    <lastmod>2018-10-12T15:00:00+02:00</lastmod>
+    <lastmod>2018-10-31T22:00:00+01:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1565,6 +1580,12 @@
   </url>
   
   <url>
+    <loc>http://blog.ivrpowers.com/tags/tco/</loc>
+    <lastmod>2018-10-31T22:00:00+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://blog.ivrpowers.com/categories/technologies/</loc>
     <lastmod>2018-08-05T01:00:00+02:00</lastmod>
     <priority>0</priority>
@@ -1596,13 +1617,13 @@
   
   <url>
     <loc>http://blog.ivrpowers.com/tags/trends/</loc>
-    <lastmod>2018-07-22T20:00:00+02:00</lastmod>
+    <lastmod>2018-10-31T22:00:00+01:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://blog.ivrpowers.com/categories/trends/</loc>
-    <lastmod>2018-07-25T11:30:18+02:00</lastmod>
+    <lastmod>2018-10-31T22:00:00+01:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1656,7 +1677,7 @@
   
   <url>
     <loc>http://blog.ivrpowers.com/tags/videortc/</loc>
-    <lastmod>2018-10-12T15:00:00+02:00</lastmod>
+    <lastmod>2018-10-31T22:00:00+01:00</lastmod>
     <priority>0</priority>
   </url>
   
