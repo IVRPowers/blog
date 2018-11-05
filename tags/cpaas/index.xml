@@ -6,10 +6,19 @@
     <description>Recent content in Cpaas on Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 21 Aug 2018 09:00:00 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 05 Nov 2018 16:00:00 +0200</lastBuildDate>
     
 	<atom:link href="http://blog.ivrpowers.com/tags/cpaas/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Interactive Powers is a Communications Platform-as-a-Service Company</title>
+      <link>http://blog.ivrpowers.com/post/marketing/interactive-powers-cpaas/</link>
+      <pubDate>Mon, 05 Nov 2018 16:00:00 +0200</pubDate>
+      
+      <guid>http://blog.ivrpowers.com/post/marketing/interactive-powers-cpaas/</guid>
+      <description>Photo source: Interactive Powers The future of communications is driven by the cloud. Interactive Powers was created to help companies embed voice and video communication into the software applications and web applications that are part of their workflow and how they do business with the same communication options and convenience that mobile devices provide for their customers and employees in their person lives. With Interactive Powers, communication becomes more immediate and contextual resulting in better business outcomes.</description>
+    </item>
     
     <item>
       <title>Video RTC · Web Panel</title>

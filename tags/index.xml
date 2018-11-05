@@ -149,7 +149,7 @@
     <item>
       <title>Cloud</title>
       <link>http://blog.ivrpowers.com/tags/cloud/</link>
-      <pubDate>Tue, 30 Oct 2018 22:00:00 +0100</pubDate>
+      <pubDate>Mon, 05 Nov 2018 16:00:00 +0200</pubDate>
       
       <guid>http://blog.ivrpowers.com/tags/cloud/</guid>
       <description></description>
@@ -185,7 +185,7 @@
     <item>
       <title>Cpaas</title>
       <link>http://blog.ivrpowers.com/tags/cpaas/</link>
-      <pubDate>Tue, 21 Aug 2018 09:00:00 +0200</pubDate>
+      <pubDate>Mon, 05 Nov 2018 16:00:00 +0200</pubDate>
       
       <guid>http://blog.ivrpowers.com/tags/cpaas/</guid>
       <description></description>
@@ -282,6 +282,24 @@
     </item>
     
     <item>
+      <title>Event</title>
+      <link>http://blog.ivrpowers.com/tags/event/</link>
+      <pubDate>Mon, 05 Nov 2018 12:00:00 +0100</pubDate>
+      
+      <guid>http://blog.ivrpowers.com/tags/event/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Exevi</title>
+      <link>http://blog.ivrpowers.com/tags/exevi/</link>
+      <pubDate>Mon, 05 Nov 2018 12:00:00 +0100</pubDate>
+      
+      <guid>http://blog.ivrpowers.com/tags/exevi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Gdpr</title>
       <link>http://blog.ivrpowers.com/tags/gdpr/</link>
       <pubDate>Sun, 29 Jul 2018 20:00:00 +0200</pubDate>
@@ -356,7 +374,7 @@
     <item>
       <title>Ivr</title>
       <link>http://blog.ivrpowers.com/tags/ivr/</link>
-      <pubDate>Sun, 07 Oct 2018 20:00:00 +0200</pubDate>
+      <pubDate>Mon, 05 Nov 2018 16:00:00 +0200</pubDate>
       
       <guid>http://blog.ivrpowers.com/tags/ivr/</guid>
       <description></description>
@@ -545,7 +563,7 @@
     <item>
       <title>Rtc</title>
       <link>http://blog.ivrpowers.com/tags/rtc/</link>
-      <pubDate>Fri, 12 Oct 2018 15:00:00 +0200</pubDate>
+      <pubDate>Mon, 05 Nov 2018 16:00:00 +0200</pubDate>
       
       <guid>http://blog.ivrpowers.com/tags/rtc/</guid>
       <description></description>
@@ -800,6 +818,15 @@
       <pubDate>Wed, 31 Oct 2018 22:00:00 +0100</pubDate>
       
       <guid>http://blog.ivrpowers.com/tags/videortc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Voicebots</title>
+      <link>http://blog.ivrpowers.com/tags/voicebots/</link>
+      <pubDate>Mon, 05 Nov 2018 12:00:00 +0100</pubDate>
+      
+      <guid>http://blog.ivrpowers.com/tags/voicebots/</guid>
       <description></description>
     </item>
     

@@ -6,10 +6,29 @@
     <description>Recent content in Posts on Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 02 Nov 2018 09:00:00 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 05 Nov 2018 16:00:00 +0200</lastBuildDate>
     
 	<atom:link href="http://blog.ivrpowers.com/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Interactive Powers is a Communications Platform-as-a-Service Company</title>
+      <link>http://blog.ivrpowers.com/post/marketing/interactive-powers-cpaas/</link>
+      <pubDate>Mon, 05 Nov 2018 16:00:00 +0200</pubDate>
+      
+      <guid>http://blog.ivrpowers.com/post/marketing/interactive-powers-cpaas/</guid>
+      <description>Photo source: Interactive Powers The future of communications is driven by the cloud. Interactive Powers was created to help companies embed voice and video communication into the software applications and web applications that are part of their workflow and how they do business with the same communication options and convenience that mobile devices provide for their customers and employees in their person lives. With Interactive Powers, communication becomes more immediate and contextual resulting in better business outcomes.</description>
+    </item>
+    
+    <item>
+      <title>Thank you, Exevi!</title>
+      <link>http://blog.ivrpowers.com/post/general/thank-itsmf-vision18/</link>
+      <pubDate>Mon, 05 Nov 2018 12:00:00 +0100</pubDate>
+      
+      <guid>http://blog.ivrpowers.com/post/general/thank-itsmf-vision18/</guid>
+      <description>Image source: Interactive Powers Interactive Powers attended itSMF VISION18, Conferences, on October 25th, at LA NAVE del Ayuntamiento de Madrid. Iván Sixto, founder of Interactive Powers, talked about Voicebots for OTRS in the presentation entitled “OTRS and Voicebots: First Steps for the IA Automation of the Service Desk”
+We are delighted with the success of the event and the warm welcome of our participation. Interest of the public in Voicebots exceeded all our expectations.</description>
+    </item>
     
     <item>
       <title>VoIP2Day 2018: 11th Freak Conferences</title>
