@@ -4,7 +4,7 @@ date = "2018-11-05T16:00:00+02:00"
 description = "Technology Trend"
 draft = false
 tags = ["cpaas","rtc","ivr","cloud"]
-title = "Interactive Powers is a Communications Platform-as-a-Service Company"
+title = "Interactive Powers is a Communications Platform as a Service Company"
 image = "/postimages/marketing/ivrpowers-slides-post.007.jpeg"
 comments = true
 
