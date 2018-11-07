@@ -1,8 +1,8 @@
 +++
 categories = ["general"]
-date = "2018-11-05T20:00:00+01:00"
+date = "2018-11-07T20:00:00+01:00"
 description = "VoIP2DAY2018 Conferences"
-draft = true
+draft = false
 tags = ["ivrpowers","webrtc","api","voip2day","businesstrends"]
 title = "Talking about Communications Platform as a Service for VoIP"
 image = "/postimages/general/ivrpowers-slides-post.008.jpeg"
