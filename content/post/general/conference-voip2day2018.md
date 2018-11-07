@@ -4,7 +4,7 @@ date = "2018-11-07T20:00:00+01:00"
 description = "VoIP2DAY2018 Conferences"
 draft = false
 tags = ["ivrpowers","webrtc","api","voip2day","businesstrends"]
-title = "Talking about Communications Platform as a Service for VoIP"
+title = "Join us at VoIP2Day to talk about Communications Platform as a Service"
 image = "/postimages/general/ivrpowers-slides-post.008.jpeg"
 
 +++
