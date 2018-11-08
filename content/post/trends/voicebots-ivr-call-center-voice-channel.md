@@ -8,6 +8,8 @@ title = "Voicebots are the new IVR for Contact Centers"
 image = "/postimages/trends/ivrpowers-slide.014.jpeg"
 +++
 
+{{<  youtube ogfYd705cRs >}}
+
 ![Artificial Intelligence AI](/postimages/trends/ivrpowers-slide.014.jpeg)
 -----------
 ###### Photo source: Pixabay. Creative Commons.
