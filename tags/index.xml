@@ -743,7 +743,7 @@
     <item>
       <title>Trends</title>
       <link>http://blog.ivrpowers.com/tags/trends/</link>
-      <pubDate>Wed, 31 Oct 2018 22:00:00 +0100</pubDate>
+      <pubDate>Thu, 08 Nov 2018 22:00:00 +0100</pubDate>
       
       <guid>http://blog.ivrpowers.com/tags/trends/</guid>
       <description></description>
@@ -764,6 +764,15 @@
       <pubDate>Fri, 12 Oct 2018 15:00:00 +0200</pubDate>
       
       <guid>http://blog.ivrpowers.com/tags/turnkey/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Videobot</title>
+      <link>http://blog.ivrpowers.com/tags/videobot/</link>
+      <pubDate>Thu, 08 Nov 2018 22:00:00 +0100</pubDate>
+      
+      <guid>http://blog.ivrpowers.com/tags/videobot/</guid>
       <description></description>
     </item>
     
@@ -815,9 +824,18 @@
     <item>
       <title>Videortc</title>
       <link>http://blog.ivrpowers.com/tags/videortc/</link>
-      <pubDate>Wed, 31 Oct 2018 22:00:00 +0100</pubDate>
+      <pubDate>Thu, 08 Nov 2018 22:00:00 +0100</pubDate>
       
       <guid>http://blog.ivrpowers.com/tags/videortc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Voicebot</title>
+      <link>http://blog.ivrpowers.com/tags/voicebot/</link>
+      <pubDate>Thu, 08 Nov 2018 22:00:00 +0100</pubDate>
+      
+      <guid>http://blog.ivrpowers.com/tags/voicebot/</guid>
       <description></description>
     </item>
     
