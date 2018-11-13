@@ -1,21 +1,34 @@
+
 <!DOCTYPE html>
 <html lang="en-us">
 
     <head>
-	<meta name="generator" content="Hugo 0.21" />
 
         <meta charset="utf-8" />
         <meta http-equiv="X-UA-Compatible" content="IE=edge" />
 
-        <meta property="og:title" content=" Blog" />
+        <meta property="og:title" content=" Video RTC (WebRTC) v3.3.1 &middot;  Blog" />
         <meta property="og:site_name" content="Blog" />
-        <meta property="og:url" content="http://blog.ivrpowers.com/" />
+        <meta property="og:url" content="http://blog.ivrpowers.com/post/updates/update-video-rtc-webrtc-3.3.1/" />
 
     
-        <meta property="og:type" content="website" />
+        <meta property="og:type" content="article" />
+        <meta property="og:article:published_time" content="2018-11-13T12:00:00&#43;02:00" />
+        <meta property="og:article:tag" content="webrtc" />
+        <meta property="og:article:tag" content="rtc" />
+        <meta property="og:article:tag" content="ivrpowers" />
+        <meta property="og:article:tag" content="changelog" />
+        
+
+        <meta name="twitter:card" content="summary" />
+        <meta name="twitter:site" content="@https://twitter.com/ivrpowers" />
+        <meta name="twitter:creator" content="@https://twitter.com/ivrpowers" />
+        <meta name="twitter:title" content="Video RTC (WebRTC) v3.3.1" />
+        <meta name="twitter:description" content="Release Note" />
+        <meta name="twitter:url" content="http://blog.ivrpowers.com/post/updates/update-video-rtc-webrtc-3.3.1/" />
     
 
-        <title> Blog</title>
+        <title> Video RTC (WebRTC) v3.3.1 &middot;  Blog</title>
 
         <link rel="preload" href="http://blog.ivrpowers.com/js/main.js" as="script" />
         <link rel="preload" href="http://blog.ivrpowers.com/css/main.css" as="style" />
@@ -27,7 +40,7 @@
     
 
     
-        <meta name="description" content="Discover all the latest about our products, technology, and Interactive Powers culture on our official blog." />
+        <meta name="description" content="Release Note" />
     
 
     
@@ -42,12 +55,58 @@
         
 
     
-
-    
         <link href="http://blog.ivrpowers.com/index.xml" rel="alternate" type="application/rss+xml" title="Blog" />
     
-        <link rel="canonical" href="http://blog.ivrpowers.com/" />
 
+    
+        <link rel="canonical" href="http://blog.ivrpowers.com/post/updates/update-video-rtc-webrtc-3.3.1/" />
+
+
+    <script type="application/ld+json">
+    {
+        "@context": "http://schema.org",
+        "@type": "BlogPosting",
+        "mainEntityOfPage": {
+          "@type": "WebPage",
+          "@id": "http://blog.ivrpowers.com/post/updates/update-video-rtc-webrtc-3.3.1/"
+        },
+        "headline": "Video RTC (WebRTC) v3.3.1",
+        "description": "Release Note",
+        "author": {
+            "@type": "Person",
+            "name": "IVRPowers Team",
+            "url": "http://profiles.google.com/https://plus.google.com/110474380379482164317/?rel=author",
+            "image": {
+              "@type": "ImageObject",
+              "url": "https:/images/avatar.png",
+              "height": 80,
+              "width": 80
+            }
+        },
+        "publisher": {
+          "@type": "Organization",
+          "@id": "http://blog.ivrpowers.com/",
+          "name": "Blog",
+          "url": "http://blog.ivrpowers.com/",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https:/images/avatar.png",
+            "height": 80,
+            "width": 80
+          }
+        },
+        "image": {
+          "@type": "ImageObject",
+          "url": "http://blog.ivrpowers.com/postimages/updates/ivrpowers-posts-01.088.jpeg",
+          "height": 133,
+          "width": 200
+        },
+        "datePublished": "2018-11-13",
+        "dateModified": "2018-11-13",
+        "wordCount": 88,
+        "keywords": ["webrtc","rtc","ivrpowers","changelog"] 
+    }
+    </script>
 
 
     
@@ -55,9 +114,9 @@
     
     
       var disqus_shortname = 'ivrpowers';
-      var disqus_identifier = 'http:\/\/blog.ivrpowers.com\/';
-      var disqus_title = 'Blog';
-      var disqus_url = 'http:\/\/blog.ivrpowers.com\/';
+      var disqus_identifier = 'http:\/\/blog.ivrpowers.com\/post\/updates\/update-video-rtc-webrtc-3.3.1\/';
+      var disqus_title = 'Video RTC (WebRTC) v3.3.1';
+      var disqus_url = 'http:\/\/blog.ivrpowers.com\/post\/updates\/update-video-rtc-webrtc-3.3.1\/';
     
     </script>
     
@@ -98,260 +157,115 @@ html{font-family:sans-serif;line-height:1.15;-ms-text-size-adjust:100%;-webkit-t
               </a>
             </div>
             <div class="nav-menu">
-              <a class="rss" href="http://blog.ivrpowers.com/index.xml">
+              <a class="rss" href="">
                 <i class="icon-rss"></i>
               </a>
+                
+                <a class="menu" data-action="toc" data-target="toc"><i class="icon-location"></i></a>
                 
                 
             </div>
           </nav>
 
 
-	<header id="header" class="header has-cover">
+<main class="content" role="main">
+	<article class="post">
 		<div class="inner">
-			<a class="header-title" href="http://blog.ivrpowers.com/">
-				<h1 class="header-name">Blog</h1>
-				
-					<span class="header-description">Streamline your business communications</span>
-				
-			</a>
-		</div>
-		<div class="header-cover blured-image" style="background-color: #163039;"></div>
-	</header>
 
-	<div id="post-index" class="container">
+			<div id="push">
 
-		<main class="content" role="main">
+  			<header class="post-header">
+  				<span class="post-meta">
+						<span class="post-date">13 Nov 2018</span> <span class="reading-time">| <span class="estimated-reading-time">1 min.</span> (<span class="word-count">88</span> words)</span></span>
+  				</span>
+  				<div class="clear"></div>
+  				<h1 class="post-title">Video RTC (WebRTC) v3.3.1</h1>
+  			</header>
 
-			<div class="post-list">
-				<div id="push">
+  			<section class="post-content">
+  				
 
-			
+<h1 id="release-note">Release Note</h1>
 
-			
-			  
-<article class="post">
+<p>We are pleased to announce that our new <strong>Video RTC (Gateway WebRTC) v3.3.1</strong> has been released for suitable production services. This new version includes a hot fix for Firefox Web Browsers. All users with previous maintained versions can upgrade today. Please contact our support!</p>
 
-	<div class="inner">
-		<a class="post-link" href="http://blog.ivrpowers.com/post/trends/technavio-trend/"></a>
-		
-		<figure class="post-image">
-			<a href="http://blog.ivrpowers.com/post/trends/technavio-trend/"><img src="/postimages/trends/ivrpowers-cctr-trends-2017.013.jpeg" alt="" /></a>
-		</figure>
-		
-		<span class="post-meta">
-			<span class="post-date">7 Sep 2017</span>
-		</span>
-		<h2 class="post-title"><a href="http://blog.ivrpowers.com/post/trends/technavio-trend/">Technavio: IVR market, will see a growth of around 13% between this year, and 2021</a></h2>
-		<p class="post-excerpt">Market Trend&hellip;</p>
-		<span class="post-more"><a href="http://blog.ivrpowers.com/post/trends/technavio-trend/">Read More <i class="icon-arrow-right"></i></a></span>
-	</div>
-</article>
+<h1 id="changelog">ChangeLog</h1>
 
-			
-			  
-<article class="post">
+<p>Version 3.3.1:</p>
 
-	<div class="inner">
-		<a class="post-link" href="http://blog.ivrpowers.com/post/products/video-rtc-complementary-functions/"></a>
-		
-		<figure class="post-image">
-			<a href="http://blog.ivrpowers.com/post/products/video-rtc-complementary-functions/"><img src="/postimages/products/ivrpowers-videortc-features.030.jpeg" alt="" /></a>
-		</figure>
-		
-		<span class="post-meta">
-			<span class="post-date">6 Sep 2017</span>
-		</span>
-		<h2 class="post-title"><a href="http://blog.ivrpowers.com/post/products/video-rtc-complementary-functions/">Video RTC · Complementary Functions</a></h2>
-		<p class="post-excerpt">Video Real-Time Communications&hellip;</p>
-		<span class="post-more"><a href="http://blog.ivrpowers.com/post/products/video-rtc-complementary-functions/">Read More <i class="icon-arrow-right"></i></a></span>
-	</div>
-</article>
+<pre><code class="language-bash">## [3.3.1] - 2018-11-13
+### Added
+- If the Videoplayer only finds one record, it's preselected
 
-			
-			  
-<article class="post">
+### Fixed
+- Resized calling message for mobile devices
+- Fixed SDP negotiations from Firefox 63+
+</code></pre>
 
-	<div class="inner">
-		<a class="post-link" href="http://blog.ivrpowers.com/post/products/video-rtc-pop-up-agent/"></a>
-		
-		<figure class="post-image">
-			<a href="http://blog.ivrpowers.com/post/products/video-rtc-pop-up-agent/"><img src="/postimages/products/ivrpowers-videortc-features.022.jpeg" alt="" /></a>
-		</figure>
-		
-		<span class="post-meta">
-			<span class="post-date">5 Sep 2017</span>
-		</span>
-		<h2 class="post-title"><a href="http://blog.ivrpowers.com/post/products/video-rtc-pop-up-agent/">Video RTC · Pop-up Agent</a></h2>
-		<p class="post-excerpt">Product Data sheet&hellip;</p>
-		<span class="post-more"><a href="http://blog.ivrpowers.com/post/products/video-rtc-pop-up-agent/">Read More <i class="icon-arrow-right"></i></a></span>
-	</div>
-</article>
+<hr />
 
-			
-			  
-<article class="post">
+<p><a href="http://www.ivrpowers.com/">Interactive Powers</a> - Streamline your business communications</p>
 
-	<div class="inner">
-		<a class="post-link" href="http://blog.ivrpowers.com/post/products/video-rtc-api-framework/"></a>
-		
-		<figure class="post-image">
-			<a href="http://blog.ivrpowers.com/post/products/video-rtc-api-framework/"><img src="/postimages/products/ivrpowers-videortc-features.026.jpeg" alt="" /></a>
-		</figure>
-		
-		<span class="post-meta">
-			<span class="post-date">4 Sep 2017</span>
-		</span>
-		<h2 class="post-title"><a href="http://blog.ivrpowers.com/post/products/video-rtc-api-framework/">Video RTC · API Framework</a></h2>
-		<p class="post-excerpt">Product Data sheet&hellip;</p>
-		<span class="post-more"><a href="http://blog.ivrpowers.com/post/products/video-rtc-api-framework/">Read More <i class="icon-arrow-right"></i></a></span>
-	</div>
-</article>
+  			</section>
 
-			
-			  
-<article class="post">
+  			<footer class="post-footer">
+  				<div class="post-tags">
+            
+            
+                <a href="http://blog.ivrpowers.com//tags/webrtc/">webrtc</a>
+            
+                <a href="http://blog.ivrpowers.com//tags/rtc/">rtc</a>
+            
+                <a href="http://blog.ivrpowers.com//tags/ivrpowers/">ivrpowers</a>
+            
+                <a href="http://blog.ivrpowers.com//tags/changelog/">changelog</a>
+            
+            
+  				</div>
+  				<div class="post-share">
+  					<a class="icon-twitter" href="https://twitter.com/share?text=Video%20RTC%20%28WebRTC%29%20v3.3.1&url=http%3a%2f%2fblog.ivrpowers.com%2fpost%2fupdates%2fupdate-video-rtc-webrtc-3.3.1%2f" onclick="window.open(this.href, 'twitter-share', 'width=550,height=235');return false;">
+  						<span>Twitter</span>
+  					</a>
+  					<a class="icon-facebook" href="https://www.facebook.com/sharer/sharer.php?u=http%3a%2f%2fblog.ivrpowers.com%2fpost%2fupdates%2fupdate-video-rtc-webrtc-3.3.1%2f" onclick="window.open(this.href, 'facebook-share','width=580,height=296');return false;">
+  						<span>Facebook</span>
+  					</a>
+  					<a class="icon-gplus" href="https://plus.google.com/share?url=http%3a%2f%2fblog.ivrpowers.com%2fpost%2fupdates%2fupdate-video-rtc-webrtc-3.3.1%2f" onclick="window.open(this.href, 'google-plus-share', 'width=490,height=530');return false;">
+  						<span>Google+</span>
+  					</a>
+  				</div>
+  			</footer>
 
-	<div class="inner">
-		<a class="post-link" href="http://blog.ivrpowers.com/post/coding/videortc-build-videocall/"></a>
-		
-		<figure class="post-image">
-			<a href="http://blog.ivrpowers.com/post/coding/videortc-build-videocall/"><img src="/postimages/coding/ivrpowers-videortc-features.033.jpeg" alt="" /></a>
-		</figure>
-		
-		<span class="post-meta">
-			<span class="post-date">1 Sep 2017</span>
-		</span>
-		<h2 class="post-title"><a href="http://blog.ivrpowers.com/post/coding/videortc-build-videocall/">How to Build a Videocall Service (WebRTC)</a></h2>
-		<p class="post-excerpt">Coding&hellip;</p>
-		<span class="post-more"><a href="http://blog.ivrpowers.com/post/coding/videortc-build-videocall/">Read More <i class="icon-arrow-right"></i></a></span>
-	</div>
-</article>
+  			<aside class="post-comments">
+    
+    
+    <div id="disqus_thread"></div>
+    <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+    
+    
+</aside>
 
-			
-			  
-<article class="post">
 
-	<div class="inner">
-		<a class="post-link" href="http://blog.ivrpowers.com/post/products/video-rtc-video-id/"></a>
-		
-		<figure class="post-image">
-			<a href="http://blog.ivrpowers.com/post/products/video-rtc-video-id/"><img src="/postimages/products/ivrpowers-videortc-features.018.jpeg" alt="" /></a>
-		</figure>
-		
-		<span class="post-meta">
-			<span class="post-date">1 Sep 2017</span>
-		</span>
-		<h2 class="post-title"><a href="http://blog.ivrpowers.com/post/products/video-rtc-video-id/">Video RTC · Video ID</a></h2>
-		<p class="post-excerpt">Product Data Sheet&hellip;</p>
-		<span class="post-more"><a href="http://blog.ivrpowers.com/post/products/video-rtc-video-id/">Read More <i class="icon-arrow-right"></i></a></span>
-	</div>
-</article>
-
-			
-			  
-<article class="post">
-
-	<div class="inner">
-		<a class="post-link" href="http://blog.ivrpowers.com/post/products/video-rtc-industries/"></a>
-		
-		<figure class="post-image">
-			<a href="http://blog.ivrpowers.com/post/products/video-rtc-industries/"><img src="/postimages/products/ivrpowers-posts-01.186.jpeg" alt="" /></a>
-		</figure>
-		
-		<span class="post-meta">
-			<span class="post-date">31 Aug 2017</span>
-		</span>
-		<h2 class="post-title"><a href="http://blog.ivrpowers.com/post/products/video-rtc-industries/">Video RTC · Industries</a></h2>
-		<p class="post-excerpt">Business Cases&hellip;</p>
-		<span class="post-more"><a href="http://blog.ivrpowers.com/post/products/video-rtc-industries/">Read More <i class="icon-arrow-right"></i></a></span>
-	</div>
-</article>
-
-			
-			  
-<article class="post">
-
-	<div class="inner">
-		<a class="post-link" href="http://blog.ivrpowers.com/post/trends/gartner-trend/"></a>
-		
-		<figure class="post-image">
-			<a href="http://blog.ivrpowers.com/post/trends/gartner-trend/"><img src="/postimages/trends/ivrpowers-cctr-trends-2017.005.jpeg" alt="" /></a>
-		</figure>
-		
-		<span class="post-meta">
-			<span class="post-date">31 Aug 2017</span>
-		</span>
-		<h2 class="post-title"><a href="http://blog.ivrpowers.com/post/trends/gartner-trend/">Gartner: 20 percent of Global Businesses will deploy Video Chat for Customer Engagement</a></h2>
-		<p class="post-excerpt">Market Trend&hellip;</p>
-		<span class="post-more"><a href="http://blog.ivrpowers.com/post/trends/gartner-trend/">Read More <i class="icon-arrow-right"></i></a></span>
-	</div>
-</article>
-
-			
-			  
-<article class="post">
-
-	<div class="inner">
-		<a class="post-link" href="http://blog.ivrpowers.com/post/products/video-rtc-video-recording/"></a>
-		
-		<figure class="post-image">
-			<a href="http://blog.ivrpowers.com/post/products/video-rtc-video-recording/"><img src="/postimages/products/ivrpowers-videortc-features.016.jpeg" alt="" /></a>
-		</figure>
-		
-		<span class="post-meta">
-			<span class="post-date">30 Aug 2017</span>
-		</span>
-		<h2 class="post-title"><a href="http://blog.ivrpowers.com/post/products/video-rtc-video-recording/">Video RTC · Video Recording</a></h2>
-		<p class="post-excerpt">Product Data sheet&hellip;</p>
-		<span class="post-more"><a href="http://blog.ivrpowers.com/post/products/video-rtc-video-recording/">Read More <i class="icon-arrow-right"></i></a></span>
-	</div>
-</article>
-
-			
-			  
-<article class="post">
-
-	<div class="inner">
-		<a class="post-link" href="http://blog.ivrpowers.com/post/trends/forrester-trend/"></a>
-		
-		<figure class="post-image">
-			<a href="http://blog.ivrpowers.com/post/trends/forrester-trend/"><img src="/postimages/trends/ivrpowers-cctr-trends-2017.007.jpeg" alt="" /></a>
-		</figure>
-		
-		<span class="post-meta">
-			<span class="post-date">29 Aug 2017</span>
-		</span>
-		<h2 class="post-title"><a href="http://blog.ivrpowers.com/post/trends/forrester-trend/">Forrester: Voice Channel as Self-service</a></h2>
-		<p class="post-excerpt">Market Trend&hellip;</p>
-		<span class="post-more"><a href="http://blog.ivrpowers.com/post/trends/forrester-trend/">Read More <i class="icon-arrow-right"></i></a></span>
-	</div>
-</article>
-
-			
-
-				</div>
 			</div>
 
-			<nav id="pagination" class="pagination" role="pagination">
-	<div class="inner">
-	
-		
-	  <a class="pagination-item pagination-next" href="http://blog.ivrpowers.com//page/13/"><i class="icon-arrow-left"></i> <span>Newer Posts</span></a>
-	
-		<span class="pagination-info">Page 14 of 21</span>
-	
-		
-	  <a class="pagination-item pagination-prev" href="http://blog.ivrpowers.com//page/15/"><span>Older Posts</span> <i class="icon-arrow-right"></i></a>
-	
-		<div class="clear"></div>
-	</div>
-</nav>
+			<nav class="post-nav">
+				
+				
+					<a class="post-nav-item post-nav-prev" href="http://blog.ivrpowers.com/post/trends/videobots-are-coming/">
+						<section class="post-nav-teaser">
+							<span class="post-nav-icon"><i class="icon-arrow-right"></i></span>
+							<span class="post-nav-info">
+								<h4 class="post-nav-title">Videobots are coming…</h4>
+								<p class="post-nav-excerpt">Trends&hellip;</p>
+							</span>
+						</section>
+					</a>
+				
+				<div class="clear"></div>
+			</nav>
 
-
-		</main>
-
-	</div>
+		</div>
+	</article>
+</main>
 
 				<div id="body-class" style="display: none;"></div>
 				<footer id="footer">
@@ -362,6 +276,21 @@ html{font-family:sans-serif;line-height:1.15;-ms-text-size-adjust:100%;-webkit-t
 				</footer>
 				
 				
+<div id="tocMenu" data-target="toc">
+    <div class="menu-header">
+        <span class="menu-label">Menu</span>
+        <a class="menu-close" data-action="toc" data-target="toc"></a>
+    </div>
+    <div id="toc" class="menu-list">
+        <nav id="TableOfContents">
+<ul>
+<li><a href="#release-note">Release Note</a></li>
+<li><a href="#changelog">ChangeLog</a></li>
+</ul>
+</nav>
+    </div>
+</div>
+
 
 				<div class="overlay"></div>
 			</div>

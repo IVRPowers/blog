@@ -31,6 +31,17 @@ Interactive Powers delivers communication platforms that enables advanced real-t
     </item>
     
     <item>
+      <title>Video RTC (WebRTC) v3.3.1</title>
+      <link>http://blog.ivrpowers.com/post/updates/update-video-rtc-webrtc-3.3.1/</link>
+      <pubDate>Tue, 13 Nov 2018 12:00:00 +0200</pubDate>
+      
+      <guid>http://blog.ivrpowers.com/post/updates/update-video-rtc-webrtc-3.3.1/</guid>
+      <description>Release Note We are pleased to announce that our new Video RTC (Gateway WebRTC) v3.3.1 has been released for suitable production services. This new version includes a hot fix for Firefox Web Browsers. All users with previous maintained versions can upgrade today. Please contact our support!
+ChangeLog Version 3.3.1:
+## [3.3.1] - 2018-11-13 ### Added - If the Videoplayer only finds one record, it&#39;s preselected ### Fixed - Resized calling message for mobile devices - Fixed SDP negotiations from Firefox 63+  Interactive Powers - Streamline your business communications</description>
+    </item>
+    
+    <item>
       <title>Join us at VoIP2Day to talk about Communications Platform as a Service</title>
       <link>http://blog.ivrpowers.com/post/general/conference-voip2day2018/</link>
       <pubDate>Wed, 07 Nov 2018 20:00:00 +0100</pubDate>
