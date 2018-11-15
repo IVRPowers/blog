@@ -6,10 +6,20 @@
     <description>Recent content in Webrtc on Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 13 Nov 2018 12:00:00 +0200</lastBuildDate>
+    <lastBuildDate>Thu, 15 Nov 2018 19:00:00 +0100</lastBuildDate>
     
 	<atom:link href="http://blog.ivrpowers.com/tags/webrtc/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Mozzila Firefox 63&#43; fix for SDP format</title>
+      <link>http://blog.ivrpowers.com/post/news/firefox63-spd-format-fix/</link>
+      <pubDate>Thu, 15 Nov 2018 19:00:00 +0100</pubDate>
+      
+      <guid>http://blog.ivrpowers.com/post/news/firefox63-spd-format-fix/</guid>
+      <description>Photo Source: Mozzila Foundation Avoiding the Datachannel breaking in Firefox 63+ Nowadays, it is common for web browsers to make updates and changes to their implementations. This is even more common when we talk about modern technologies like WebRTC. A new web browser update that confirms this theory is the last change on Firefox 63 when negotiating the Datachannel.
+If you are negotiating a Datachannel with a Firefox version lower than 63, the Session Description Protocol (SDP) will looks something like this:</description>
+    </item>
     
     <item>
       <title>Video RTC (WebRTC) v3.3.1</title>

@@ -13,6 +13,16 @@
   </url>
   
   <url>
+    <loc>http://blog.ivrpowers.com/post/general/thank-voip2day-2018/</loc>
+    <lastmod>2018-11-15T20:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://blog.ivrpowers.com/post/news/firefox63-spd-format-fix/</loc>
+    <lastmod>2018-11-15T19:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://blog.ivrpowers.com/post/updates/update-video-rtc-webrtc-3.3.1/</loc>
     <lastmod>2018-11-13T12:00:00+02:00</lastmod>
   </url>
@@ -1126,7 +1136,7 @@
   
   <url>
     <loc>http://blog.ivrpowers.com/tags/businesstrends/</loc>
-    <lastmod>2018-11-07T20:00:00+01:00</lastmod>
+    <lastmod>2018-11-15T20:00:00+01:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1197,7 +1207,7 @@
   
   <url>
     <loc>http://blog.ivrpowers.com/tags/cpaas/</loc>
-    <lastmod>2018-11-05T16:00:00+02:00</lastmod>
+    <lastmod>2018-11-15T20:00:00+01:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1449,7 +1459,7 @@
   
   <url>
     <loc>http://blog.ivrpowers.com/categories/news/</loc>
-    <lastmod>2018-05-10T00:00:05+02:00</lastmod>
+    <lastmod>2018-11-15T19:00:00+01:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1497,7 +1507,7 @@
   
   <url>
     <loc>http://blog.ivrpowers.com/post/</loc>
-    <lastmod>2018-11-13T12:00:00+02:00</lastmod>
+    <lastmod>2018-11-15T20:00:00+01:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1515,7 +1525,7 @@
   
   <url>
     <loc>http://blog.ivrpowers.com/tags/rtc/</loc>
-    <lastmod>2018-11-13T12:00:00+02:00</lastmod>
+    <lastmod>2018-11-15T19:00:00+01:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1539,7 +1549,7 @@
   
   <url>
     <loc>http://blog.ivrpowers.com/tags/screensharing/</loc>
-    <lastmod>2017-11-10T11:46:54+01:00</lastmod>
+    <lastmod>2018-11-15T19:00:00+01:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1725,7 +1735,7 @@
   
   <url>
     <loc>http://blog.ivrpowers.com/tags/videortc/</loc>
-    <lastmod>2018-11-08T22:00:00+01:00</lastmod>
+    <lastmod>2018-11-15T19:00:00+01:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1767,7 +1777,7 @@
   
   <url>
     <loc>http://blog.ivrpowers.com/tags/voip2day/</loc>
-    <lastmod>2018-11-07T20:00:00+01:00</lastmod>
+    <lastmod>2018-11-15T20:00:00+01:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1791,7 +1801,7 @@
   
   <url>
     <loc>http://blog.ivrpowers.com/tags/webrtc/</loc>
-    <lastmod>2018-11-13T12:00:00+02:00</lastmod>
+    <lastmod>2018-11-15T19:00:00+01:00</lastmod>
     <priority>0</priority>
   </url>
   
