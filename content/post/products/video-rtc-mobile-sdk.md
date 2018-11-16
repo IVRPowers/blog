@@ -45,7 +45,7 @@ Our SDK is based on our [videortc.js](http://blog.ivrpowers.com/post/development
 
 ##	Video RTC Communication Platforms 
 
-Interactive Powers [Video RTC](http://blog.ivrpowers.com/post/products/video-rtc/) communications platforms reach the correct “peer” anywhere, anytime, with consideration for hardware diversity across devices. Interactive Powers [STUN Server](http://blog.ivrpowers.com/post/technologies/what-is-stun-turn-server/#what-is-a-stun-server) facilitates discover of external IP addresses and facilitates communication between all connected devices. When a P2P session is not possible, the [TURN Server](http://blog.ivrpowers.com/post/technologies/what-is-stun-turn-server/#what-is-a-turn-server) will establish connections between NAT and asymmetric firewalls.
+Interactive Powers [Video RTC](http://blog.ivrpowers.com/post/products/video-rtc/) communications platforms reach the correct “peer” anywhere, anytime, with consideration for hardware diversity across devices. Interactive Powers [STUN Server](http://blog.ivrpowers.com/post/technologies/what-is-stun-turn-server/) facilitates discover of external IP addresses and facilitates communication between all connected devices. When a P2P session is not possible, the [TURN Server](http://blog.ivrpowers.com/post/technologies/what-is-stun-turn-server/) will establish connections between NAT and asymmetric firewalls.
 
 ##	Get Started
 
