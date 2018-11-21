@@ -4,13 +4,13 @@ date = "2018-11-15T19:00:00+01:00"
 description = "Technology Update"
 draft = false
 tags = ["screensharing","videortc","webrtc","rtc"]
-title = "Mozzila Firefox 63+ fix for SDP format"
+title = "Mozilla Firefox 63+ fix for SDP format"
 image = "/postimages/news/ivrpowers-slides-post.015.jpeg"
 +++
 
-![Mozzila Firefox 63](/postimages/news/ivrpowers-slides-post.015.jpeg)
+![Mozilla Firefox 63](/postimages/news/ivrpowers-slides-post.015.jpeg)
 ------------
-###### Photo Source: Mozzila Foundation
+###### Photo Source: Mozilla Foundation
 
 # Avoiding the Datachannel breaking in Firefox 63+
 ---
