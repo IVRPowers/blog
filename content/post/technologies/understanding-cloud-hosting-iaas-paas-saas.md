@@ -28,7 +28,7 @@ comments = true
 
 **PaaS (or Platform as a Service)** provides you computing platforms which typically includes operating system, programming language execution environment, database, web server. technically It is a layer on top of IaaS as the second thing you demand after Infrastructure is platform. At Interactive Powers, we understand PaaS as CPaaS or Communications Platform as a Service. [Learn More...](http://blog.ivrpowers.com/post/technologies/what-is-cpaas/)
 
-##	What is SaaS
+##	What is SaaS?
 
 **SaaS (or Software as a service)** provides an access to an application and data installed in a server or multiples servers. You don’t have to worry about installation, maintenance or coding of that software. You can access and operate the software with just your browser or any other device. The software maintenance is included and you will only have to pay for your usage. [Learn more...](http://blog.ivrpowers.com/post/technologies/what-is-saas/)
 
