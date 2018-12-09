@@ -16,7 +16,7 @@ image = "/postimages/products/ivrpowers-videortc-features.036.jpeg"
 
 ## Overview
 
-**CoBrowsing** allows you to share your browser in real-time with another alowed peer. Most business processes can take benefit of using CoBrowsing feature. For instance, it is a very powerful tool to improve online shopping, telesales, remote work or support services.
+**CoBrowsing** allows you to share your browser in real-time with another remote peer. Most business processes can take benefit of using CoBrowsing feature. For instance, it is a very powerful tool to improve online shopping, telesales, remote work or support services.
 
 **CoBrowsing** functionality makes it easy to enhance your real-time communications experience with the power of a web browsing. You just need to share a link from the click of a button, to provide access to  agents for this assistance.
 

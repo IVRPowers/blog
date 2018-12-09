@@ -32,7 +32,7 @@ comments = true
 
 **SaaS (or Software as a service)** provides an access to an application and data installed in a server or multiples servers. You don’t have to worry about installation, maintenance or coding of that software. You can access and operate the software with just your browser or any other device. The software maintenance is included and you will only have to pay for your usage. [Learn more...](http://blog.ivrpowers.com/post/technologies/what-is-saas/)
 
-To learn more about our SaaS Solutions: Please, [contact our Sales](http://www.ivrpowers.com/support-services/).
+To learn more about our CPaaS and SaaS Solutions: Please, [contact our Sales](http://www.ivrpowers.com/support-services/).
 
 ---
 [Interactive Powers](http://www.ivrpowers.com/) - Streamline your business communications
