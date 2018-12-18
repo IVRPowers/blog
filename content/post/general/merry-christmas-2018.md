@@ -2,7 +2,7 @@
 categories = ["general"]
 date = "2018-12-20T12:00:00+02:00"
 description = "Season Greetings"
-draft = false
+draft = true
 tags = ["marketing","ivrpowers"]
 title = "Merry Christmas & Happy Holidays!"
 image = "/postimages/general/ivrpowers-posts-02.022.jpeg"

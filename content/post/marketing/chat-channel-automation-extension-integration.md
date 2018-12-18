@@ -1,8 +1,8 @@
 +++
 categories = ["marketing"]
-date = "2018-12-06T18:00:00+02:00"
-description = "Live Communications Benefits"
-draft = true
+date = "2018-12-17T18:00:00+02:00"
+description = "Live Communications"
+draft = false
 tags = ["livechat", "businessstrategy", "cx", "custexp"]
 title = "What about your Chat channel automation, extension and integration?"
 image = "/postimages/marketing/ivrpowers-post-04.003.jpeg"
@@ -36,7 +36,7 @@ Any Live Chat conversation have to be smoothly escalated to a more convenient co
 Interactive Powers can help you to turn easily customer experience into a competitive advantage, as our solutions are integrated into your existing processes.
 
 
-Please contact our [sales]() for more information.
+Please contact our [sales](https://www.ivrpowers.com/support-services/) for more information.
 
 ---
 [Interactive Powers](http://www.ivrpowers.com/) - Streamline your business communications
