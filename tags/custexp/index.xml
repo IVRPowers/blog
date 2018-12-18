@@ -6,10 +6,28 @@
     <description>Recent content in Custexp on Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 15 Jan 2018 20:23:11 +0100</lastBuildDate>
+    <lastBuildDate>Tue, 18 Dec 2018 18:00:00 +0200</lastBuildDate>
     
 	<atom:link href="http://blog.ivrpowers.com/tags/custexp/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Web Chat vs Live Chat</title>
+      <link>http://blog.ivrpowers.com/post/marketing/web-chat-vs-live-chat/</link>
+      <pubDate>Tue, 18 Dec 2018 18:00:00 +0200</pubDate>
+      
+      <guid>http://blog.ivrpowers.com/post/marketing/web-chat-vs-live-chat/</guid>
+      <description>Photo source: Pixabay. Creative Commons What are the difference about these two chat modalities, and considerations to have during a text typed business communication? Most existing Contact Centers have added a Chat Channel to connect their agents with online connected users without the help of a phone. Today, It’s really important to understand properly what is the best way to use any Chat modality in order to avoid an integration nightmare in the future or less integration reworks for your business processes.</description>
+    </item>
+    
+    <item>
+      <title>What about your Chat channel automation, extension and integration?</title>
+      <link>http://blog.ivrpowers.com/post/marketing/chat-channel-automation-extension-integration/</link>
+      <pubDate>Mon, 17 Dec 2018 18:00:00 +0200</pubDate>
+      
+      <guid>http://blog.ivrpowers.com/post/marketing/chat-channel-automation-extension-integration/</guid>
+      <description>Photo source: Pixabay. Creative Commons Existing business chat features have to be properly automated, connected and extended to provide a right value for any business application. It’s not just only a question of adding another channel, chat is a really poor conversation modality for humans. Of course, it provide very interesting advantages, because of its simplicity, quick adoption and low bandwidth requirements but it steel being a limited communication feature in a continuous evolution of online customers or consumers requirements.</description>
+    </item>
     
     <item>
       <title>Contact Centers and Customer Experience in 2018</title>
