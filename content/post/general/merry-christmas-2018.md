@@ -1,14 +1,14 @@
 +++
 categories = ["general"]
-date = "2018-12-20T12:00:00+02:00"
+date = "2018-12-21T16:00:00+02:00"
 description = "Season Greetings"
-draft = true
+draft = false
 tags = ["marketing","ivrpowers"]
-title = "Merry Christmas & Happy Holidays!"
-image = "/postimages/general/ivrpowers-posts-02.022.jpeg"
+title = "Merry Christmas & Happy New Year!"
+image = "/postimages/general/ivrpowers-merry-christmas-2018.jpeg"
 +++
 
-![Interactive Powers](/postimages/general/ivrpowers-posts-02.022.jpeg)
+![Interactive Powers](/postimages/general/ivrpowers-merry-christmas-2018.jpeg)
 ---------
 ###### Photo source: Interactive Powers
 
