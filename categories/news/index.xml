@@ -6,10 +6,19 @@
     <description>Recent content in News on Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 15 Nov 2018 19:00:00 +0100</lastBuildDate>
+    <lastBuildDate>Wed, 02 Jan 2019 20:00:00 +0200</lastBuildDate>
     
 	<atom:link href="http://blog.ivrpowers.com/categories/news/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Microsoft Edge moves to Chromium in 2019</title>
+      <link>http://blog.ivrpowers.com/post/news/microsoft-edge-chromium-announcement/</link>
+      <pubDate>Wed, 02 Jan 2019 20:00:00 +0200</pubDate>
+      
+      <guid>http://blog.ivrpowers.com/post/news/microsoft-edge-chromium-announcement/</guid>
+      <description>Image source: Interactive Powers&amp;rsquo; elaboration Microsoft annonces officialy that Edge will become a Chromium-based browser in early 2019! Microsoft is reworking its Edge browser on Windows 10 so that it will based on the Chromium open source project. Microsoft CVP Joe Belfiore made a big announcement and explained that it was all about creating “better web compatibility for our customers and less fragmentation of the web for all web developers.</description>
+    </item>
     
     <item>
       <title>Mozilla Firefox 63&#43; fix for SDP format</title>
