@@ -6,10 +6,20 @@
     <description>Recent content in Businesstrends on Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 15 Nov 2018 20:00:00 +0100</lastBuildDate>
+    <lastBuildDate>Sun, 13 Jan 2019 19:00:00 +0200</lastBuildDate>
     
 	<atom:link href="http://blog.ivrpowers.com/tags/businesstrends/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Communication Platform as a Service</title>
+      <link>http://blog.ivrpowers.com/post/general/conferencevoip2day2018/</link>
+      <pubDate>Sun, 13 Jan 2019 19:00:00 +0200</pubDate>
+      
+      <guid>http://blog.ivrpowers.com/post/general/conferencevoip2day2018/</guid>
+      <description>Interactive Powers (IVRPowers) founder CEO, Iván Sixto, gave a conference about min trends on &amp;ldquo;Communication Platform as a Service&amp;rdquo; or CPaaS at last year 2018 VoIP2Day Event. He provided a general overview of the current situation about the rise of a new generation of cloud resources and services.
+CPaaS is the new cloud&amp;rsquo;s Game Changer The level of maturity of the services in the cloud is reaching a new point of evolution for the telecommunications platforms.</description>
+    </item>
     
     <item>
       <title>Thank you, VoIP2Day 2018!</title>

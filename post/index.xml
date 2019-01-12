@@ -6,28 +6,19 @@
     <description>Recent content in Posts on Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 12 Jun 2017 09:42:42 +0200</lastBuildDate>
+    <lastBuildDate>Sun, 13 Jan 2019 19:00:00 +0200</lastBuildDate>
     
 	<atom:link href="http://blog.ivrpowers.com/post/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Welcome to our New Blog!</title>
-      <link>http://blog.ivrpowers.com/post/general/welcome-blog/</link>
-      <pubDate>Mon, 12 Jun 2017 09:42:42 +0200</pubDate>
+      <title>Communication Platform as a Service</title>
+      <link>http://blog.ivrpowers.com/post/general/conferencevoip2day2018/</link>
+      <pubDate>Sun, 13 Jan 2019 19:00:00 +0200</pubDate>
       
-      <guid>http://blog.ivrpowers.com/post/general/welcome-blog/</guid>
-      <description>Photo source: Pexels. Creative Commons Our Corporate Blog is build with Hugo and will give us a unique opportunity to better share news, updates and technology content, while also offering a place for us to interact with all our community. If you’re wondering what you can expect from the content you find on our blog, and how the information here differs from the information you may find on our website, read on.</description>
-    </item>
-    
-    <item>
-      <title>About Interactive Powers</title>
-      <link>http://blog.ivrpowers.com/post/general/about-interactive-powers/</link>
-      <pubDate>Mon, 12 Jun 2017 20:40:07 +0200</pubDate>
-      
-      <guid>http://blog.ivrpowers.com/post/general/about-interactive-powers/</guid>
-      <description>Photo source: Interactive Powers Interactive Powers develops technology that helps your organization connect, communicate and engage with your customers, employees and stakeholders. Contact with us to find out more about how we can help you achieve your business communication goals.
-Interactive Powers delivers communication platforms that enables advanced real-time interactions over public or private networks. We allow to deploy secure channels with unified voice, video, live chat and screen sharing capabilities for web, apps, and kiosk-based customer engagement to sale or support faster than ever.</description>
+      <guid>http://blog.ivrpowers.com/post/general/conferencevoip2day2018/</guid>
+      <description>Interactive Powers (IVRPowers) founder CEO, Iván Sixto, gave a conference about min trends on &amp;ldquo;Communication Platform as a Service&amp;rdquo; or CPaaS at last year 2018 VoIP2Day Event. He provided a general overview of the current situation about the rise of a new generation of cloud resources and services.
+CPaaS is the new cloud&amp;rsquo;s Game Changer The level of maturity of the services in the cloud is reaching a new point of evolution for the telecommunications platforms.</description>
     </item>
     
     <item>
@@ -2160,6 +2151,25 @@ RTC is any mode of telecommunications in which all users can exchange informatio
       
       <guid>http://blog.ivrpowers.com/post/technologies/what-is-voicexml/</guid>
       <description>The Voice eXtensible Markup Language (VoiceXML) is an XML-based markup language for creating distributed voice applications, much as HTML is a markup language for creating distributed visual applications. It is an industry standard defined by the World Wide Web Consortium (W3C) at http://www.w3.org/TR/voicexml21/ (for VoiceXML V2.1) and http://www.w3.org/TR/voicexml20/ (for VoiceXML V2.0). The VoiceXML language enables IVR developers to use a familiar markup style and Web server-side logic to deliver applications for use over telephone lines.</description>
+    </item>
+    
+    <item>
+      <title>Welcome to our New Blog!</title>
+      <link>http://blog.ivrpowers.com/post/general/welcome-blog/</link>
+      <pubDate>Mon, 12 Jun 2017 09:42:42 +0200</pubDate>
+      
+      <guid>http://blog.ivrpowers.com/post/general/welcome-blog/</guid>
+      <description>Photo source: Pexels. Creative Commons Our Corporate Blog is build with Hugo and will give us a unique opportunity to better share news, updates and technology content, while also offering a place for us to interact with all our community. If you’re wondering what you can expect from the content you find on our blog, and how the information here differs from the information you may find on our website, read on.</description>
+    </item>
+    
+    <item>
+      <title>About Interactive Powers</title>
+      <link>http://blog.ivrpowers.com/post/general/about-interactive-powers/</link>
+      <pubDate>Mon, 12 Jun 2017 20:40:07 +0200</pubDate>
+      
+      <guid>http://blog.ivrpowers.com/post/general/about-interactive-powers/</guid>
+      <description>Photo source: Interactive Powers Interactive Powers develops technology that helps your organization connect, communicate and engage with your customers, employees and stakeholders. Contact with us to find out more about how we can help you achieve your business communication goals.
+Interactive Powers delivers communication platforms that enables advanced real-time interactions over public or private networks. We allow to deploy secure channels with unified voice, video, live chat and screen sharing capabilities for web, apps, and kiosk-based customer engagement to sale or support faster than ever.</description>
     </item>
     
   </channel>
