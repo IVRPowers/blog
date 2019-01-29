@@ -29,7 +29,7 @@ Video Gateway works in common hardware or Cloud VM servers configurations, provi
 |-----------|-----------|-----------|
 |**Operating System**|CentOS 6|Debian 8, 9|
 |**Kernel**|x86 64-bit|x86 64-bit|
-|**Version**|1.9 EOL|3.3.1|
+|**Version**|1.3.0 EOL|3.3.1|
 |**CPU**|> 2 cores|> 2 cores|
 |**RAM**|> 2 Gb|> 2 Gb|
 |**HDD/SDD**|> 10 Gb|> 10 Gb|
