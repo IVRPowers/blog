@@ -6,10 +6,20 @@
     <description>Recent content in Rtmp on Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 08 Jan 2018 00:20:05 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 29 Jan 2019 16:00:00 +0200</lastBuildDate>
     
 	<atom:link href="http://blog.ivrpowers.com/tags/rtmp/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Video Gateway: RTMP &amp; WebRTC comparison</title>
+      <link>http://blog.ivrpowers.com/post/technologies/webrtc-vs-rtmp/</link>
+      <pubDate>Tue, 29 Jan 2019 16:00:00 +0200</pubDate>
+      
+      <guid>http://blog.ivrpowers.com/post/technologies/webrtc-vs-rtmp/</guid>
+      <description>Image source: Interactive Powers What are the main differences between RTMP and WebRTC gateway models? Currently, Video RTC is our flagship product line for any RTC project&amp;rsquo;s deployments. We have prepared this summary to clarify what are the main features and how to move forward for your business.
+Our Video Gateway connects peers or endpoints between WebRTC, RTMP and SIP technology to create advanced Video services. RTMP is an open protocol for Adobe Flash Player that allows to connect flash compliant browsers.</description>
+    </item>
     
     <item>
       <title>Video RTC (RTMP) v1.3</title>
