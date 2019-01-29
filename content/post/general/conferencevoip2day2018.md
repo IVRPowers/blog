@@ -25,8 +25,4 @@ English
 You can get the original [spanish](https://vimeo.com/302409743) version here.
 	
 ---
-[Interactive Powers](http://www.ivrpowers.com/) - Streamline your business communications
-
-
-
-
+[Interactive Powers](https://ivrpowers.com/) · spanish [IntDigitales](https://interaccionesdigitales.com/) · *Streamline your business communications*

@@ -21,7 +21,7 @@ Our [Turnkey Portfolio](http://www.ivrpowers.com/turnkey/) offers flexibility an
 
 ##	Forget technology, it's about business.
 
-Turnkey offers flexibility and deliver significant savings to your business.These services can be standalone or used in combination to improve your processes.
+Our Turnkey Solutions are designed to deploy an advanced business communications and dialog experience with an affordable cost and running most of existing PBX. CTI, or VoIP systems.
 
 ![Turnkey · Interactive Powers](/postimages/products/ivrpowers-posts.006.jpeg)
 
