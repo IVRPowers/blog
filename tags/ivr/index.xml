@@ -6,19 +6,10 @@
     <description>Recent content in Ivr on Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 18 Jan 2019 09:00:00 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 05 Dec 2018 00:18:00 +0200</lastBuildDate>
     
 	<atom:link href="http://blog.ivrpowers.com/tags/ivr/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Video RTC · Call Center</title>
-      <link>http://blog.ivrpowers.com/post/products/voicexml-ivr-speech-recognition/</link>
-      <pubDate>Fri, 18 Jan 2019 09:00:00 +0200</pubDate>
-      
-      <guid>http://blog.ivrpowers.com/post/products/voicexml-ivr-speech-recognition/</guid>
-      <description>Manage Smart Text Message interactions in Real-Time Communications. Overview Speech Recognition supplement your video and voice communication with advanced text chat capabilities using the WebRTC datachannel. Live Chat feature allows to send and receive text messages simultaneously, without any lag at a single click. It is the perfect tool to use for the customer and an agent conversation. Live chat integrates seamlessly into your application, eliminating the need for clunky third-party APIs.</description>
-    </item>
     
     <item>
       <title>The Merge of IVR and RTC into the Contact Center</title>
