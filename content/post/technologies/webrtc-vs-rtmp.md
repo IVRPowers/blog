@@ -22,13 +22,16 @@ Our Video Gateway connects peers or endpoints between [WebRTC](http://blog.ivrpo
 
 Video Gateway works in common hardware or Cloud VM servers configurations, providing a highly scalable base system to meet all customers’ business and technical requirements. 
 
+> Last modified date: January, 30 2019
+
 
 ##	System Requirements
 
 |1️⃣ **Video RTC**|Video Gateway (RTMP)	|Video Gateway (WebRTC)	|
 |-----------|-----------|-----------|
-|**Operating System**|CentOS 6|Debian 8, 9|
+|**Operating System**|Linux CentOS 6|Linux Debian 8, 9|
 |**Kernel**|x86 64-bit|x86 64-bit|
+|**Cloud Ready**|AWS, Google Cloud, Azure|AWS, Google Cloud, Azure|
 |**Version**|1.3.0 EOL|3.3.1|
 |**CPU**|> 2 cores|> 2 cores|
 |**RAM**|> 2 Gb|> 2 Gb|
@@ -53,11 +56,12 @@ Video Gateway works in common hardware or Cloud VM servers configurations, provi
 
 |3️⃣	**Video RTC**|Video Gateway (RTMP)	|Video Gateway (WebRTC)	|
 |-----------|-----------|-----------|
-|**Protocol**|ETF Open Standard Protocol|Adobe's Open Public Protocol|
+|**Protocol**|Adobe's Open Public Protocol|ETF Open Standard Protocol|
 |**Audio Codec**|G711, Speex|G711, Opus|
 |**Video Codec**|H263 Sorenson|VP8, VP9, H264|
 |**IP Packet**|TCP|UDP|
 |**DTMF**|◾️|◾️|
+|**Video Export Format**|◽️ Not Supported|.mweb .mp4|
 |**Autocall**|◾️|◾️|
 |**Autologin**|◾️|◾️|
 
@@ -87,10 +91,12 @@ Video Gateway works in common hardware or Cloud VM servers configurations, provi
 |**File Sharing**|Not supported|◾️|
 |**Screen Sharing**|Not supported|◾️|
 |**Snapshot**|Not supported|◾️|
+|**Video Recording**|Not supported|◾️|
 |**CoBrowsing**|Not supported|◾️|
 
 ◾️ Yes
 ◽️ Uncompleted
+
 
 ## Video Gateways 
 

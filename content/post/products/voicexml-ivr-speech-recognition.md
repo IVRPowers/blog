@@ -2,7 +2,7 @@
 categories = ["products"]
 date = "2019-01-18T09:00:00+02:00"
 description = "Turnkey Solution"
-draft = yes
+draft = true
 tags = ["turnkey", "ivr", "rtc","videortc"]
 title = "Video RTC · Call Center"
 featured = false
