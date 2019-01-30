@@ -20,7 +20,7 @@ Currently, Video RTC is our flagship product line for any [RTC](http://blog.ivrp
 
 Our Video Gateway connects peers or endpoints between [WebRTC](http://blog.ivrpowers.com/post/technologies/what-is-webrtc/), [RTMP](http://blog.ivrpowers.com/post/technologies/what-is-rtmp/) and SIP technology to create advanced Video services. RTMP is an open protocol for Adobe Flash Player that allows to connect flash compliant browsers. WebRTC (Web Real-Time Communication) is an API definition drafted by the World Wide Web Consortium (W3C) that supports browser-to-browser applications for voice calling, video chat, and messaging without the need of either internal or external plugins.
 
-Video Gateway works in common hardware or Cloud VM servers configurations, providing a highly scalable base system to meet all customers’ business and technical requirements. 
+Our Video Gateway platforms work in common hardware or Cloud VM servers configurations, providing a highly scalable base system to meet all customers’ business and technical requirements. 
 
 > Last modified date: January, 30 2019
 
@@ -33,6 +33,8 @@ Video Gateway works in common hardware or Cloud VM servers configurations, provi
 |**Kernel**|x86 64-bit|x86 64-bit|
 |**Cloud Ready**|AWS, Google Cloud, Azure|AWS, Google Cloud, Azure|
 |**Version**|1.3.0 EOL|3.3.1|
+|**Installer/Uninstaller**|◾️|◾️|
+|**Package**|.tgz|.tgz|
 |**CPU**|> 2 cores|> 2 cores|
 |**RAM**|> 2 Gb|> 2 Gb|
 |**HDD/SDD**|> 10 Gb|> 10 Gb|
@@ -46,8 +48,10 @@ Video Gateway works in common hardware or Cloud VM servers configurations, provi
 |**Web Plugin**|◾️ Flash Player | Not required|
 |**SIP Connect**|◾️ Version 11 | ◾️ Version 13|
 |**Voice over Video priority**|◾️|◾️|
-|**Mobile SDK**|Flash SWF Editor|◾️|
-|**API Framework**|Not supported|◾️|
+|**Mobile SDK**|Not supported|◾️ iOS & Android|
+|**API Framework**|◽️ Flash SWF Editor|◾️ VideoRTC.js · Ionic|
+|**Use Cases**|◽️ Prebuilt Webclient|◾️ Extended Use Cases|
+|**Web Panel**|Not Supported|◾️ Debugging & Monitoring|
 
 ◾️ Yes
 ◽️ Uncompleted
