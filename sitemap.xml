@@ -13,6 +13,11 @@
   </url>
   
   <url>
+    <loc>http://blog.ivrpowers.com/post/updates/update-video-rtc-js-2.5.1/</loc>
+    <lastmod>2019-02-01T12:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://blog.ivrpowers.com/post/technologies/webrtc-vs-rtmp/</loc>
     <lastmod>2019-01-29T16:00:00+02:00</lastmod>
   </url>
@@ -1199,7 +1204,7 @@
   
   <url>
     <loc>http://blog.ivrpowers.com/tags/changelog/</loc>
-    <lastmod>2018-11-13T12:00:00+02:00</lastmod>
+    <lastmod>2019-02-01T12:00:00+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1565,7 +1570,7 @@
   
   <url>
     <loc>http://blog.ivrpowers.com/post/</loc>
-    <lastmod>2019-01-29T16:00:00+02:00</lastmod>
+    <lastmod>2019-02-01T12:00:00+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1583,7 +1588,7 @@
   
   <url>
     <loc>http://blog.ivrpowers.com/tags/rtc/</loc>
-    <lastmod>2019-01-29T16:00:00+02:00</lastmod>
+    <lastmod>2019-02-01T12:00:00+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1751,7 +1756,7 @@
   
   <url>
     <loc>http://blog.ivrpowers.com/categories/updates/</loc>
-    <lastmod>2018-11-13T12:00:00+02:00</lastmod>
+    <lastmod>2019-02-01T12:00:00+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1859,7 +1864,7 @@
   
   <url>
     <loc>http://blog.ivrpowers.com/tags/webrtc/</loc>
-    <lastmod>2019-01-29T16:00:00+02:00</lastmod>
+    <lastmod>2019-02-01T12:00:00+02:00</lastmod>
     <priority>0</priority>
   </url>
   
