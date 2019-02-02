@@ -13,6 +13,11 @@
   </url>
   
   <url>
+    <loc>http://blog.ivrpowers.com/post/news/chrome72-sdp-phase3-update/</loc>
+    <lastmod>2019-02-02T16:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://blog.ivrpowers.com/post/updates/update-video-rtc-js-2.5.1/</loc>
     <lastmod>2019-02-01T12:00:00+02:00</lastmod>
   </url>
@@ -1209,6 +1214,12 @@
   </url>
   
   <url>
+    <loc>http://blog.ivrpowers.com/tags/chrome/</loc>
+    <lastmod>2019-02-02T16:00:00+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://blog.ivrpowers.com/tags/cloud/</loc>
     <lastmod>2019-01-13T19:00:00+02:00</lastmod>
     <priority>0</priority>
@@ -1516,7 +1527,7 @@
   
   <url>
     <loc>http://blog.ivrpowers.com/categories/news/</loc>
-    <lastmod>2019-01-02T20:00:00+02:00</lastmod>
+    <lastmod>2019-02-02T16:00:00+01:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1570,7 +1581,7 @@
   
   <url>
     <loc>http://blog.ivrpowers.com/post/</loc>
-    <lastmod>2019-02-01T12:00:00+02:00</lastmod>
+    <lastmod>2019-02-02T16:00:00+01:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1588,7 +1599,7 @@
   
   <url>
     <loc>http://blog.ivrpowers.com/tags/rtc/</loc>
-    <lastmod>2019-02-01T12:00:00+02:00</lastmod>
+    <lastmod>2019-02-02T16:00:00+01:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1798,7 +1809,7 @@
   
   <url>
     <loc>http://blog.ivrpowers.com/tags/videortc/</loc>
-    <lastmod>2019-01-29T16:00:00+02:00</lastmod>
+    <lastmod>2019-02-02T16:00:00+01:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1864,7 +1875,7 @@
   
   <url>
     <loc>http://blog.ivrpowers.com/tags/webrtc/</loc>
-    <lastmod>2019-02-01T12:00:00+02:00</lastmod>
+    <lastmod>2019-02-02T16:00:00+01:00</lastmod>
     <priority>0</priority>
   </url>
   

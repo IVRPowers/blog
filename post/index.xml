@@ -6,10 +6,20 @@
     <description>Recent content in Posts on Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 01 Feb 2019 12:00:00 +0200</lastBuildDate>
+    <lastBuildDate>Sat, 02 Feb 2019 16:00:00 +0100</lastBuildDate>
     
 	<atom:link href="http://blog.ivrpowers.com/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title> Unified Plan SDP format released in Chrome 72&#43; </title>
+      <link>http://blog.ivrpowers.com/post/news/chrome72-sdp-phase3-update/</link>
+      <pubDate>Sat, 02 Feb 2019 16:00:00 +0100</pubDate>
+      
+      <guid>http://blog.ivrpowers.com/post/news/chrome72-sdp-phase3-update/</guid>
+      <description>Photo Source: Unsplash Chrome 72+ goes into Unified Plan SDP (Phase 3) Google is planning to change the WebRTC implementation from the current SDP format called &amp;ldquo;Plan B&amp;rdquo; to a standards format &amp;ldquo;Unified Plan&amp;rdquo; over 4 phases.
+Chrome M72 version will be the first release to apply phase 3, and will require to upgrade sonn our Video RTC platform to run properly all this new SDP format. From Interactive Powers, we are working on a compatible plan with the Unified Plan SDP format.</description>
+    </item>
     
     <item>
       <title>VideoRTC.js (API) v2.5.1</title>
