@@ -1,6 +1,6 @@
 +++
 categories = ["news"]
-date = "2019-02-02T16:00:00+01:00"
+date = "2019-02-02T16:00:00+02:00"
 description = "Technology Update"
 draft = false
 tags = ["chrome","videortc","webrtc","rtc"]
@@ -10,7 +10,7 @@ image = "/postimages/news/ivrpowers-post-04.017.jpeg"
 
 ![Google Chrome 72](/postimages/news/ivrpowers-post-04.017.jpeg)
 ------------
-###### Photo Source: Unsplash
+###### Photo Source: Unsplash. Creative Commons
 
 # Chrome 72+ goes into Unified Plan SDP (Phase 3)
 ---
