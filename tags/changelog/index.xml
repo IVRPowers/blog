@@ -45,6 +45,17 @@ ChangeLog Version 3.3.0:
     </item>
     
     <item>
+      <title>VideoRTC.js (API) v2.5.0</title>
+      <link>http://blog.ivrpowers.com/post/updates/update-video-rtc-js-2.5.0/</link>
+      <pubDate>Fri, 14 Sep 2018 12:00:00 +0200</pubDate>
+      
+      <guid>http://blog.ivrpowers.com/post/updates/update-video-rtc-js-2.5.0/</guid>
+      <description>Release Note We are pleased to announce that our API Framework for Javascript VideoRTC.js v2.5.0 has been released for suitable for Web Developments and Mobile SDK . All users with previous maintained versions can upgrade today. Please contact our support!
+ChangeLog Version 2.1.0 · 2.5.0:
+## [2.1.0] - 2018-01-16 ### Added - Added `videoStream` and `videoEnabled` option parameters in the SplitAgent module - Added `onReadyLocalAudio`, `onAcceptedData` and `onScreensharingClosed` events in the SplitClient module - Added `onAcceptedData` and `onReadyLocalStream` events in the SplitAgent module - Added a mechanism that guarantees the sending of files through the Datachannel - Added `onFileTransferOk` and `onFileTransferKo` events in the modules that use the Datachannel - Added `startScreensharing` and `stopScreensharing` actions in the SplitClient module - Added `notify` method in the following modules: SplitClient and SplitAgent - Added Safari iOS 11 support in the SplitClient module (Audio mode) ### Changed - Updated recording mode in the SPLIT modules ### Fixed - Fixed the use of the debug parameter at library level ## [2.</description>
+    </item>
+    
+    <item>
       <title>VideoRTC.js (API) v2.4.0</title>
       <link>http://blog.ivrpowers.com/post/updates/update-video-rtc-js-2.4.0/</link>
       <pubDate>Fri, 03 Aug 2018 12:00:00 +0200</pubDate>
