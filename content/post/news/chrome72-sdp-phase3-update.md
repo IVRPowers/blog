@@ -12,7 +12,7 @@ image = "/postimages/news/ivrpowers-post-04.017.jpeg"
 ------------
 ###### Photo Source: Unsplash. Creative Commons
 
-# Chrome 72+ goes into Unified Plan SDP (Phase 3)
+# Chrome goes into Unified Plan SDP (Phase 3) for its WebRTC implementation
 ---
 
 Google is planning to change the [WebRTC](http://blog.ivrpowers.com/post/technologies/what-is-webrtc/) implementation from the current SDP format called "Plan B" to a standards format "Unified Plan" over [4 phases](https://webrtc.org/web-apis/chrome/unified-plan/).

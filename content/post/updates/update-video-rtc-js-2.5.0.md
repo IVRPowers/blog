@@ -1,21 +1,21 @@
 +++
 categories = ["updates"]
-date = "2019-02-01T12:00:00+02:00"
+date = "2018-09-14T12:00:00+02:00"
 description = "Release Note"
 draft = false
 tags = ["webrtc","rtc", "ivrpowers","changelog"]
-title = "VideoRTC.js (API) v2.5.1"
+title = "VideoRTC.js (API) v2.5.0"
 image = "/postimages/updates/ivrpowers-posts-01.101.jpeg"
 featured = true
 +++
 
 # Release Note
 
-We are pleased to announce that our API Framework for Javascript **VideoRTC.js v2.5.1** has been released for suitable for Web Developments and Mobile SDK . All users with previous maintained versions can upgrade today. Please contact our support!
+We are pleased to announce that our API Framework for Javascript **VideoRTC.js v2.5.0** has been released for suitable for Web Developments and Mobile SDK . All users with previous maintained versions can upgrade today. Please contact our support!
 
 # ChangeLog
 
-Version 2.1.0 · 2.5.1:
+Version 2.1.0 · 2.5.0:
 
 ```bash
 ## [2.1.0] - 2018-01-16
