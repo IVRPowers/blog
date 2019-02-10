@@ -55,11 +55,6 @@ Version 2.1.0 · 2.5.0:
 ## [2.5.0] - 2018-09-14
 ### Added
 - Added functionality to work with VideoGateway in multiple mode
-## [2.5.1] - 2019-02-01
-### Added
-- Added sdpSemantics flag `plan-b` value until the Unified Plan SDP is used
-### Fixed
-- Fixed compatibility of Videocall with Chrome72+
 ```
 
 ---

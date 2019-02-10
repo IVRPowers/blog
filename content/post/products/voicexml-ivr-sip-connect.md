@@ -2,16 +2,16 @@
 categories = ["products"]
 date = "2019-02-10T15:00:00+02:00"
 description = "Product Data sheet"
-draft = false
+draft = true
 tags = ["voicexml","ivr"]
-title = "VoiceXML IVR · Speech Recognition"
+title = "VoiceXML IVR · SIP Connect"
 featured = false
-image = "/postimages/products/ivrpowers-voicexml-ivr-features.006.jpeg"
+image = "/postimages/products/ivrpowers-voicexml-ivr-features.014.jpeg"
 +++
 
-![VoiceXML IVR Speech Recognition](/postimages/products/ivrpowers-voicexml-ivr-features.007.jpeg)
+![VoiceXML IVR SIP Connect](/postimages/products/ivrpowers-voicexml-ivr-features.015.jpeg)
 
-#	Convert spoken voice into machine-readable format.
+#	Manage Smart Text Message interactions in Real-Time Communications.
 ---
 
 ## Overview
@@ -27,10 +27,10 @@ VoiceXML IVR runs most existing Cloud Speech API and some MRCP v2 engines. These
 
 ## Use Cases
 
-* Call Stearing, Call Routing, Voice Search...
+* Enable to generate dynamic voice prompts
 * Support most languanges with several voices
-* Power advanced IVR applications
-* Power Voicebots and Voice Assistants 
+* Power advanced conversational applications
+* Power dates, numbers, names...
 	
 ## System Requirements
 
