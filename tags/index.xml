@@ -30,6 +30,15 @@
     </item>
     
     <item>
+      <title>Announcement</title>
+      <link>http://blog.ivrpowers.com/tags/announcement/</link>
+      <pubDate>Sat, 09 Feb 2019 14:00:00 +0200</pubDate>
+      
+      <guid>http://blog.ivrpowers.com/tags/announcement/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Api</title>
       <link>http://blog.ivrpowers.com/tags/api/</link>
       <pubDate>Wed, 07 Nov 2018 20:00:00 +0100</pubDate>
@@ -392,7 +401,7 @@
     <item>
       <title>Ivr</title>
       <link>http://blog.ivrpowers.com/tags/ivr/</link>
-      <pubDate>Wed, 05 Dec 2018 00:18:00 +0200</pubDate>
+      <pubDate>Sun, 10 Feb 2019 15:00:00 +0200</pubDate>
       
       <guid>http://blog.ivrpowers.com/tags/ivr/</guid>
       <description></description>
@@ -599,7 +608,7 @@
     <item>
       <title>Rtc</title>
       <link>http://blog.ivrpowers.com/tags/rtc/</link>
-      <pubDate>Sat, 02 Feb 2019 16:00:00 +0200</pubDate>
+      <pubDate>Sat, 09 Feb 2019 14:00:00 +0200</pubDate>
       
       <guid>http://blog.ivrpowers.com/tags/rtc/</guid>
       <description></description>
@@ -860,7 +869,7 @@
     <item>
       <title>Videortc</title>
       <link>http://blog.ivrpowers.com/tags/videortc/</link>
-      <pubDate>Sat, 02 Feb 2019 16:00:00 +0200</pubDate>
+      <pubDate>Sat, 09 Feb 2019 14:00:00 +0200</pubDate>
       
       <guid>http://blog.ivrpowers.com/tags/videortc/</guid>
       <description></description>
@@ -905,7 +914,7 @@
     <item>
       <title>Voicexml</title>
       <link>http://blog.ivrpowers.com/tags/voicexml/</link>
-      <pubDate>Sun, 07 Oct 2018 15:00:00 +0200</pubDate>
+      <pubDate>Sun, 10 Feb 2019 15:00:00 +0200</pubDate>
       
       <guid>http://blog.ivrpowers.com/tags/voicexml/</guid>
       <description></description>
@@ -959,7 +968,7 @@
     <item>
       <title>Webrtc</title>
       <link>http://blog.ivrpowers.com/tags/webrtc/</link>
-      <pubDate>Sat, 02 Feb 2019 16:00:00 +0200</pubDate>
+      <pubDate>Sat, 09 Feb 2019 14:00:00 +0200</pubDate>
       
       <guid>http://blog.ivrpowers.com/tags/webrtc/</guid>
       <description></description>

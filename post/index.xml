@@ -6,10 +6,52 @@
     <description>Recent content in Posts on Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 02 Feb 2019 16:00:00 +0200</lastBuildDate>
+    <lastBuildDate>Sun, 10 Feb 2019 15:00:00 +0200</lastBuildDate>
     
 	<atom:link href="http://blog.ivrpowers.com/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>VoiceXML IVR · Speech Recognition</title>
+      <link>http://blog.ivrpowers.com/post/products/voicexml-ivr-speech-recognition/</link>
+      <pubDate>Sun, 10 Feb 2019 15:00:00 +0200</pubDate>
+      
+      <guid>http://blog.ivrpowers.com/post/products/voicexml-ivr-speech-recognition/</guid>
+      <description>Convert spoken voice into machine-readable format. Overview VoiceXML IVR runs most existing Cloud Speech API and some MRCP v2 engines. These STT / ASR connectors allow to get a complete development abstraction of all your interactive phone services. In combination with Text-to-Speech, you can develop the most advanced interactive voice experience with the best platform management.
+Providers  Nuance Speech Recognizer Google Speech API Amazon Lex Microsoft Azure  Use Cases  Call Stearing, Call Routing, Voice Search&amp;hellip; Support most languanges with several voices Power advanced IVR applications Power Voicebots and Voice Assistants   System Requirements Speech Recognition feature requires VoiceXML IVR On Premise or Cloud CPaaS.</description>
+    </item>
+    
+    <item>
+      <title>VoiceXML IVR · Text-to-Speech</title>
+      <link>http://blog.ivrpowers.com/post/products/voicexml-ivr-text-to-speech/</link>
+      <pubDate>Sun, 10 Feb 2019 15:00:00 +0200</pubDate>
+      
+      <guid>http://blog.ivrpowers.com/post/products/voicexml-ivr-text-to-speech/</guid>
+      <description>Convert text into spoken voice outpout. Overview VoiceXML IVR runs most existing Text-to-Speech engines with many languages and voices powered by a cloud HTTP-API connector. This TTS connector is really fast &amp;amp; dynamic to improve the caller experience. Now, you can develop smart services with a dynamic voice response according to any kind of content: text, numbers, dates,…
+Providers  Nuance Vocalizer Google Text-to-Speech API Amazon Polly Microsoft Azure  Use Cases  Enable to generate dynamic voice prompts Support most languanges with several voices Power advanced conversational applications Generate dates, numbers, names&amp;hellip;   System Requirements Text-to-Speech feature requires VoiceXML IVR On Premise or Cloud CPaaS.</description>
+    </item>
+    
+    <item>
+      <title>Upcoming Video RTC 4.0</title>
+      <link>http://blog.ivrpowers.com/post/news/2019-02-rtc-upcoming-4/</link>
+      <pubDate>Sat, 09 Feb 2019 14:00:00 +0200</pubDate>
+      
+      <guid>http://blog.ivrpowers.com/post/news/2019-02-rtc-upcoming-4/</guid>
+      <description>Photo Source: Interactive Powers. Creative Commons Innovate. Rebuild your customer interactions&amp;hellip; Follow our socials and blog; be ready to discover our major release update about Video Real-Time Communications. We will pleased to show you soon our 4th generation of our Video Gateway platforms.
+Keep posted on February 2019!
+Interactive Powers - Streamline your business communications</description>
+    </item>
+    
+    <item>
+      <title>Upcoming VoiceXML IVR 2.0</title>
+      <link>http://blog.ivrpowers.com/post/news/2019-02-ivr-upcoming-2/</link>
+      <pubDate>Sat, 09 Feb 2019 10:00:00 +0200</pubDate>
+      
+      <guid>http://blog.ivrpowers.com/post/news/2019-02-ivr-upcoming-2/</guid>
+      <description>Photo Source: Interactive Powers. Creative Commons Sometimes, you have to reborn and change all&amp;hellip; Follow our socials and blog; be ready to discover our major release update since the born of Interactive Powers. Forget programming standards, IVR will become smart and conversational.
+Keep posted on February 2019!
+Interactive Powers - Streamline your business communications</description>
+    </item>
     
     <item>
       <title> Unified Plan SDP format released in Chrome 72&#43; </title>
