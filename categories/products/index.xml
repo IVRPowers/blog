@@ -6,10 +6,20 @@
     <description>Recent content in Products on Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 10 Feb 2019 15:00:00 +0200</lastBuildDate>
+    <lastBuildDate>Sun, 17 Feb 2019 20:00:00 +0200</lastBuildDate>
     
 	<atom:link href="http://blog.ivrpowers.com/categories/products/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Video RTC 4.0 Nightly!</title>
+      <link>http://blog.ivrpowers.com/post/products/video-rtc-4-nightly/</link>
+      <pubDate>Sun, 17 Feb 2019 20:00:00 +0200</pubDate>
+      
+      <guid>http://blog.ivrpowers.com/post/products/video-rtc-4-nightly/</guid>
+      <description>Photo Source: Interactive Powers. Creative Commons The future of Video RTC is coming soon! The fourth generation of our flagship RTC is the result of a engineering teamwork and great user experience. Video RTC 4.0 will provides more features, better performance with an upgrade of the best embedded WebRTC technology. We are currently enjoying tests of all new functions to generate our ultimate 4.0 packgage!
+What about all new Widgets 4.</description>
+    </item>
     
     <item>
       <title>VoiceXML IVR · Speech Recognition</title>
