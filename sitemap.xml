@@ -13,6 +13,11 @@
   </url>
   
   <url>
+    <loc>http://blog.ivrpowers.com/post/support/video-rtc-upgrade-debian9/</loc>
+    <lastmod>2019-02-19T15:00:26+02:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://blog.ivrpowers.com/post/products/video-rtc-4-nightly/</loc>
     <lastmod>2019-02-17T20:00:00+02:00</lastmod>
   </url>
@@ -1622,7 +1627,7 @@
   
   <url>
     <loc>http://blog.ivrpowers.com/post/</loc>
-    <lastmod>2019-02-17T20:00:00+02:00</lastmod>
+    <lastmod>2019-02-19T15:00:26+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1730,13 +1735,13 @@
   
   <url>
     <loc>http://blog.ivrpowers.com/tags/support/</loc>
-    <lastmod>2017-08-16T12:14:46+02:00</lastmod>
+    <lastmod>2019-02-19T15:00:26+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://blog.ivrpowers.com/categories/support/</loc>
-    <lastmod>2017-08-16T12:14:46+02:00</lastmod>
+    <lastmod>2019-02-19T15:00:26+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1850,7 +1855,7 @@
   
   <url>
     <loc>http://blog.ivrpowers.com/tags/videortc/</loc>
-    <lastmod>2019-02-17T20:00:00+02:00</lastmod>
+    <lastmod>2019-02-19T15:00:26+02:00</lastmod>
     <priority>0</priority>
   </url>
   
