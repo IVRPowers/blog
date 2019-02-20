@@ -13,7 +13,7 @@ image = "/postimages/support/ivrpowers-post-04.022.jpeg"
 ------------
 ###### Photo Source: Interactive Powers. Creative Commons
 
-# Running on Debian 8? Here’s how to go to Debian 9
+##	Here’s how to go from Debian 8 to Debian 9
 ---
 
 If you running a **Video RTC Gateway (WebRTC)** since 2017 or 2018, then your operating system is on Debian 8. To move up to the next update or [version 4.0](http://blog.ivrpowers.com/post/news/2019-02-rtc-upcoming-4/) you will have to upgrade to **Linux OS Debian 9 (Stretch) x86 64-bit**.
