@@ -17,7 +17,7 @@ comments = true
 # Building the future of Conversational IVR with a Natural Language Understanding NLU interfaces instead of Prompts or Menus with direct dialogs.
 ---
 
-We are please to share a very interesting video from Google about **Chatbots under the wood technology**. It’s really easy to understand it in few minutes, what is the new approach to build an advanced **Natural Language Understanding (NLU)** interfaces. Remember, all this technology powers our [Conversational IVR](http://blog.ivrpowers.com/post/products/conversational-ivr-applications/) to make easier human-to-machine communications developments for a phone self-service or advanced call steering or any kind of smart voice interactions.
+We are pleased to share a very interesting [video](https://www.youtube.com/watch?v=O00K10xP5MU) from Google about **Chatbots under the wood technology**. It’s really easy to understand it in few minutes, what is the new approach to build an advanced **Natural Language Understanding (NLU)** interfaces. Remember, all this technology powers our [Conversational IVR](http://blog.ivrpowers.com/post/products/conversational-ivr-applications/) to make easier human-to-machine communications developments for a phone self-service or advanced call steering or any kind of smart voice interactions.
 
 {{<  youtube O00K10xP5MU >}}
 
