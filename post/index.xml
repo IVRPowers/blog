@@ -6,18 +6,37 @@
     <description>Recent content in Posts on Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 20 Feb 2019 00:18:00 +0200</lastBuildDate>
+    <lastBuildDate>Thu, 21 Feb 2019 02:00:00 +0200</lastBuildDate>
     
 	<atom:link href="http://blog.ivrpowers.com/post/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>What is Chatbots NLU?</title>
+      <title>Getting Started with DialogFlow</title>
+      <link>http://blog.ivrpowers.com/post/marketing/getting-started-with-dialogflow/</link>
+      <pubDate>Thu, 21 Feb 2019 02:00:00 +0200</pubDate>
+      
+      <guid>http://blog.ivrpowers.com/post/marketing/getting-started-with-dialogflow/</guid>
+      <description>Photo source: Dialog Flow - Desconstructing Chatbots, Interactive Powers edited. Conversational IVR, is the Next Big Thing in Telephony and Internet of Things to connect better your customers with your business. Forget the technology, building the next generation of IVR self-services is more a question of business process to understand how your voice self-service has to manage the conversation. We are please to share this interesting video from Google about DialogFlow.</description>
+    </item>
+    
+    <item>
+      <title>VoiceXML IVR 2.0</title>
+      <link>http://blog.ivrpowers.com/post/products/voicexml-ivr-2-generation/</link>
+      <pubDate>Thu, 21 Feb 2019 00:00:00 +0200</pubDate>
+      
+      <guid>http://blog.ivrpowers.com/post/products/voicexml-ivr-2-generation/</guid>
+      <description>Photo Source: Interactive Powers. Creative Commons Interactive Voice Response refounded to becomes Conversational IVR. The second generation of our IVR product is now released after months of developments and continuous improvements. Discover how to integrate telephony and voicebots / conversational agents to transform your business processes, and how VoiceXML IVR can help you to facilitate more engaging interactions with your customers, users or employees.
+Welcome to VoiceXML IVR 2.</description>
+    </item>
+    
+    <item>
+      <title>What is NLU for Chatbots?</title>
       <link>http://blog.ivrpowers.com/post/marketing/what-about-chatbots/</link>
       <pubDate>Wed, 20 Feb 2019 00:18:00 +0200</pubDate>
       
       <guid>http://blog.ivrpowers.com/post/marketing/what-about-chatbots/</guid>
-      <description>Photo source: Dialog Flow - Desconstructing Chatbots, Interactive Powers edited. Building the future of Conversational IVR with a Natural Language Understanding NLU interfaces instead of Prompts or Menus with direct dialogs. We are pleased to share a very interesting video from Google about Chatbots under the wood technology. It’s really easy to understand it in few minutes, what is the new approach to build an advanced Natural Language Understanding (NLU) interfaces.</description>
+      <description>Photo source: Dialog Flow - Desconstructing Chatbots, Interactive Powers edited. Building the future of Conversational IVR with a Natural Language Understanding NLU interfaces instead of Prompts or Menus with direct dialogs. We are pleased to share a very interesting video from Google about Chatbots under the wood technology. It’s really easy to understand in just few minutes: what is the new approach to build an advanced Natural Language Understanding (NLU) interfaces.</description>
     </item>
     
     <item>

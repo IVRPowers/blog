@@ -6,10 +6,20 @@
     <description>Recent content in Voicexml on Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 10 Feb 2019 15:00:00 +0200</lastBuildDate>
+    <lastBuildDate>Thu, 21 Feb 2019 00:00:00 +0200</lastBuildDate>
     
 	<atom:link href="http://blog.ivrpowers.com/tags/voicexml/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>VoiceXML IVR 2.0</title>
+      <link>http://blog.ivrpowers.com/post/products/voicexml-ivr-2-generation/</link>
+      <pubDate>Thu, 21 Feb 2019 00:00:00 +0200</pubDate>
+      
+      <guid>http://blog.ivrpowers.com/post/products/voicexml-ivr-2-generation/</guid>
+      <description>Photo Source: Interactive Powers. Creative Commons Interactive Voice Response refounded to becomes Conversational IVR. The second generation of our IVR product is now released after months of developments and continuous improvements. Discover how to integrate telephony and voicebots / conversational agents to transform your business processes, and how VoiceXML IVR can help you to facilitate more engaging interactions with your customers, users or employees.
+Welcome to VoiceXML IVR 2.</description>
+    </item>
     
     <item>
       <title>VoiceXML IVR · Speech Recognition</title>
