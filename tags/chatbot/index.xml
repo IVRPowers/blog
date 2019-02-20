@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Chatbot on Blog</title>
+    <link>http://blog.ivrpowers.com/tags/chatbot/</link>
+    <description>Recent content in Chatbot on Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 20 Feb 2019 00:18:00 +0200</lastBuildDate>
+    
+	<atom:link href="http://blog.ivrpowers.com/tags/chatbot/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>What is Chatbots NLU?</title>
+      <link>http://blog.ivrpowers.com/post/marketing/what-about-chatbots/</link>
+      <pubDate>Wed, 20 Feb 2019 00:18:00 +0200</pubDate>
+      
+      <guid>http://blog.ivrpowers.com/post/marketing/what-about-chatbots/</guid>
+      <description>Photo source: Dialog Flow - Desconstructing Chatbots, Interactive Powers edited. Building the future of Conversational IVR with a Natural Language Understanding NLU interfaces instead of Prompts or Menus with direct dialogs. We are please to share a very interesting video from Google about Chatbots under the wood technology. It’s really easy to understand it in few minutes, what is the new approach to build an advanced Natural Language Understanding (NLU) interfaces.</description>
+    </item>
+    
+  </channel>
+</rss>

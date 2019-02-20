@@ -6,10 +6,19 @@
     <description>Recent content in Posts on Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 19 Feb 2019 15:00:26 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 20 Feb 2019 00:18:00 +0200</lastBuildDate>
     
 	<atom:link href="http://blog.ivrpowers.com/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>What is Chatbots NLU?</title>
+      <link>http://blog.ivrpowers.com/post/marketing/what-about-chatbots/</link>
+      <pubDate>Wed, 20 Feb 2019 00:18:00 +0200</pubDate>
+      
+      <guid>http://blog.ivrpowers.com/post/marketing/what-about-chatbots/</guid>
+      <description>Photo source: Dialog Flow - Desconstructing Chatbots, Interactive Powers edited. Building the future of Conversational IVR with a Natural Language Understanding NLU interfaces instead of Prompts or Menus with direct dialogs. We are please to share a very interesting video from Google about Chatbots under the wood technology. It’s really easy to understand it in few minutes, what is the new approach to build an advanced Natural Language Understanding (NLU) interfaces.</description>
+    </item>
     
     <item>
       <title>Ready for Video RTC 4.0 on Debian 9</title>
@@ -17,7 +26,7 @@
       <pubDate>Tue, 19 Feb 2019 15:00:26 +0200</pubDate>
       
       <guid>http://blog.ivrpowers.com/post/support/video-rtc-upgrade-debian9/</guid>
-      <description>Photo Source: Interactive Powers. Creative Commons Running on Debian 8? Here’s how to go to Debian 9 If you running a Video RTC Gateway (WebRTC) since 2017 or 2018, then your operating system is on Debian 8. To move up to the next update or version 4.0 you will have to upgrade to Linux OS Debian 9 (Stretch) x86 64-bit.
+      <description>Photo Source: Interactive Powers. Creative Commons Here’s how to go from Debian 8 to Debian 9 If you running a Video RTC Gateway (WebRTC) since 2017 or 2018, then your operating system is on Debian 8. To move up to the next update or version 4.0 you will have to upgrade to Linux OS Debian 9 (Stretch) x86 64-bit.
 Our next binary packages or CPaaS instances will now includes an installer script to automatically take you to Debian 9.</description>
     </item>
     
