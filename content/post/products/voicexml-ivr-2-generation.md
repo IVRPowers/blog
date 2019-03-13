@@ -59,9 +59,9 @@ Binary Packages ready for:
  
 ## ChangeLog
 
-Video RTC (WebRTC) lastest releases were:
+VoiceXML IVR lastest releases were:
 
-* VoiceXML IVR v2.0 · 2019-02-19 *New
+* [VoiceXML IVR v2.0](http://blog.ivrpowers.com/post/updates/update-voicexml-ivr-2.0.0/) · 2019-02-19 *New
 * [VoiceXML IVR v1.3](http://blog.ivrpowers.com/post/updates/update-voicexml-ivr-13.1/) · 2016-06-01
 * VoiceXML IVR v1.2 · 2015-07-01
 

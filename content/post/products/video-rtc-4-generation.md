@@ -1,11 +1,12 @@
 +++
 categories = ["products"]
-date = "2019-02-21T09:00:00+02:00"
+date = "2019-03-12T22:00:00+02:00"
 description = "Rebuild your customer interactions"
-draft = true
+draft = false
 tags = ["rtc","videortc"]
 title = "Video RTC 4.0"
 image = "/postimages/products/ivrpowers-videortc-3.009.jpeg"
+featured = true
 comments = true
 +++
 
@@ -30,11 +31,15 @@ The fourth generation of our flagship [RTC](http://blog.ivrpowers.com/post/techn
 
 First of all, Video RTC deployement includes several Use Cases to quick start your RTC project without reinventing everything. This approach is always part of our Video Gateway platform toolkit.
 
-* **Video Room**, multipeer public or private videoroom
+* **Video Room**, multipeer public videoroom
+* **Private Room**, multipeer private videoroom
 * **Video SPLIT**, integration for your PBX or Contact Center
 * **Video Mail**, record video messages
 * **Video Player**, play recorded video messages
 * **Video Call**, direct peer to peer video calls
+* **Remote Viewer**, direct peer to peer web collaboration
+* **Escalating**, alternate chat, voice, video
+* **Tester**, check peer-to-peer before webrtc connection
 
 ##	Video RTC · Protocols
 
@@ -50,7 +55,8 @@ The Web Real Time Communication (WebRTC) is an API definition drafted by the Wor
 ####	RTMP
 The Real Time Messaging Protocol (RTMP) is an open protocol developed by Macromedia / Adobe for streaming audio, video and data over the Internet, and ready to run with any Web Browser with a Flash Player installed.
 
-![Video RTC 1.2](/postimages/products/ivrpowers-videortc-3.012.jpeg)
+![Video RTC 4.0](/postimages/products/ivrpowers-videortc-3.012.jpeg)
+
 
 > Video RTC (RTMP) Release 1.3 · End of Live
 
@@ -58,7 +64,14 @@ The Real Time Messaging Protocol (RTMP) is an open protocol developed by Macrome
 
 Webclient includes a clic-to-call tool kit to built any front-end RTC interface ready for customisation. Buttons, bars, sizes are all definited in HTML5 to created any kind of video frame and options.
 
-![Video RTC 4.0](/postimages/products/ivrpowers-videortc-3.005.jpeg)
+![Video RTC 4.0 screenshot](/postimages/products/ivrpowers-videortc-3.022.jpeg)
+
+![Video RTC 4.0 screenshot](/postimages/products/ivrpowers-videortc-3.023.jpeg)
+
+![Video RTC 4.0 screenshot](/postimages/products/ivrpowers-videortc-3.024.jpeg)
+
+![Video RTC 4.0 screenshot](/postimages/products/ivrpowers-videortc-3.025.jpeg)
+
 
 ## Video RTC · Special Modules
 
@@ -89,14 +102,13 @@ Our Video Gateways are packaged and ready to be installed on minimal-instances o
 
 Packages for:
 
-* Linux Debian 8 64bit Server
 * Linux Debian 9 64bit Server
  
 ## ChangeLog
 
 Video RTC (WebRTC) lastest releases were:
 
-* [Video RTC v4.0](http://blog.ivrpowers.com/post/updates/update-video-rtc-webrtc-2.2.0/) · 2019-02-14
+* [Video RTC v4.0](http://blog.ivrpowers.com/post/updates/update-video-rtc-webrtc-4.0.0/) · 2019-03-12
 * [Video RTC v3.3](http://blog.ivrpowers.com/post/updates/update-video-rtc-webrtc-3.3.1/) · 2018-11-13
 * [Video RTC v3.2](http://blog.ivrpowers.com/post/updates/update-video-rtc-webrtc-3.2.0/) · 2018-05-15
 * [Video RTC v3.1](http://blog.ivrpowers.com/post/updates/update-video-rtc-webrtc-3.1.0/) · 2018-01-17
