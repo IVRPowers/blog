@@ -6,10 +6,20 @@
     <description>Recent content in Products on Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 21 Feb 2019 00:00:00 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 12 Mar 2019 22:00:00 +0200</lastBuildDate>
     
 	<atom:link href="http://blog.ivrpowers.com/categories/products/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Video RTC 4.0</title>
+      <link>http://blog.ivrpowers.com/post/products/video-rtc-4-generation/</link>
+      <pubDate>Tue, 12 Mar 2019 22:00:00 +0200</pubDate>
+      
+      <guid>http://blog.ivrpowers.com/post/products/video-rtc-4-generation/</guid>
+      <description>Photo Source: Interactive Powers. Creative Commons Whatever your business, Real-Time Communications cam improve your services. The fourth generation of our flagship RTC product is now released after months of developments and continuous improvements. Discover how to integrate live-video, voice, and messaging technology to transform your business processes, and how Video RTC it can help you facilitate more engaging interactions with your customers or employees.
+Welcome to Video RTC 4.</description>
+    </item>
     
     <item>
       <title>VoiceXML IVR 2.0</title>

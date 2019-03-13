@@ -22,6 +22,17 @@ Welcome to VoiceXML IVR 2.</description>
     </item>
     
     <item>
+      <title>VoiceXML IVR v2.0</title>
+      <link>http://blog.ivrpowers.com/post/updates/update-voicexml-ivr-2.0.0/</link>
+      <pubDate>Mon, 18 Feb 2019 00:20:05 +0200</pubDate>
+      
+      <guid>http://blog.ivrpowers.com/post/updates/update-voicexml-ivr-2.0.0/</guid>
+      <description>Release Note We are pleased to announce that our new VoiceXML IVR 2.0 has been released for suitable production services. This new version includes a lot of improvements and new features. All users with previous maintained versions can upgrade today. Please contact our support!
+ChangeLog Version 2.0:
+## [2.0] - 2019-02-29 ### New - First release of VoiceXML IVR 2.0 - New PBX-SIP Connect - New TTS-HTTP/MRCP - New ASR-HTTP/MRCP  Interactive Powers - Streamline your business communications</description>
+    </item>
+    
+    <item>
       <title>VoiceXML IVR · Speech Recognition</title>
       <link>http://blog.ivrpowers.com/post/products/voicexml-ivr-speech-recognition/</link>
       <pubDate>Sun, 10 Feb 2019 15:00:00 +0200</pubDate>

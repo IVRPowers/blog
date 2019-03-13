@@ -13,6 +13,21 @@
   </url>
   
   <url>
+    <loc>http://blog.ivrpowers.com/post/products/video-rtc-4-generation/</loc>
+    <lastmod>2019-03-12T22:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://blog.ivrpowers.com/post/updates/update-video-rtc-webrtc-4.0.0/</loc>
+    <lastmod>2019-03-12T12:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://blog.ivrpowers.com/post/updates/update-video-rtc-js-3.0.0/</loc>
+    <lastmod>2019-03-12T12:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://blog.ivrpowers.com/post/marketing/getting-started-with-dialogflow/</loc>
     <lastmod>2019-02-21T02:00:00+02:00</lastmod>
   </url>
@@ -30,6 +45,11 @@
   <url>
     <loc>http://blog.ivrpowers.com/post/support/video-rtc-upgrade-debian9/</loc>
     <lastmod>2019-02-19T15:00:26+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://blog.ivrpowers.com/post/updates/update-voicexml-ivr-2.0.0/</loc>
+    <lastmod>2019-02-18T00:20:05+02:00</lastmod>
   </url>
   
   <url>
@@ -1270,7 +1290,7 @@
   
   <url>
     <loc>http://blog.ivrpowers.com/tags/changelog/</loc>
-    <lastmod>2019-02-01T12:00:00+02:00</lastmod>
+    <lastmod>2019-03-12T12:00:00+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1648,13 +1668,13 @@
   
   <url>
     <loc>http://blog.ivrpowers.com/post/</loc>
-    <lastmod>2019-02-21T02:00:00+02:00</lastmod>
+    <lastmod>2019-03-12T22:00:00+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://blog.ivrpowers.com/categories/products/</loc>
-    <lastmod>2019-02-21T00:00:00+02:00</lastmod>
+    <lastmod>2019-03-12T22:00:00+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1666,7 +1686,7 @@
   
   <url>
     <loc>http://blog.ivrpowers.com/tags/rtc/</loc>
-    <lastmod>2019-02-17T20:00:00+02:00</lastmod>
+    <lastmod>2019-03-12T22:00:00+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1834,7 +1854,7 @@
   
   <url>
     <loc>http://blog.ivrpowers.com/categories/updates/</loc>
-    <lastmod>2019-02-01T12:00:00+02:00</lastmod>
+    <lastmod>2019-03-12T12:00:00+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1876,7 +1896,7 @@
   
   <url>
     <loc>http://blog.ivrpowers.com/tags/videortc/</loc>
-    <lastmod>2019-02-19T15:00:26+02:00</lastmod>
+    <lastmod>2019-03-12T22:00:00+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1942,7 +1962,7 @@
   
   <url>
     <loc>http://blog.ivrpowers.com/tags/webrtc/</loc>
-    <lastmod>2019-02-09T14:00:00+02:00</lastmod>
+    <lastmod>2019-03-12T12:00:00+02:00</lastmod>
     <priority>0</priority>
   </url>
   
