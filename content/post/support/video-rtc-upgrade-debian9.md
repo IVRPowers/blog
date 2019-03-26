@@ -4,7 +4,7 @@ date = "2019-02-19T15:00:26+02:00"
 description = "Operating System Upgrade"
 draft = false
 tags = ["support","videortc"]
-title = "Ready for Video RTC 4.0 on Debian 9"
+title = "Video RTC 4.0: Ready for Debian 9"
 image = "/postimages/support/ivrpowers-post-04.022.jpeg"
 
 +++

@@ -27,8 +27,8 @@ Version 4.0.0:
 - OS System required has gone up to Debian 9
 - Core configuration file are now in `.jcfg` file format
 ### Updated
-- Updated usecase 
 - Updated VideoRTC.js library (v3.0.0)
+- Updated PHP version to v7.3 
 - Updated the webrtc-gateway internal core
 - Updated Asterisk release version to v13.21.1
 ```
