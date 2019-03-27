@@ -44,8 +44,6 @@ Escalating can be redifined according to your own procedure to connect with the 
 
 ## In Summary... 
 
-
-
 Throughout the entire escalation process, the chat, which was the initial channel, remains active. Therefore, clients and agents can continue to use it, for example, to send documents, links or even share a live screen, during voice call or videoconference.. Because in any of the given steps, **the functions of [capturing images](http://blog.ivrpowers.com/post/products/video-rtc-snapshot/), [sharing documents](http://blog.ivrpowers.com/post/products/video-rtc-file-sharing/), [sharing screens](http://blog.ivrpowers.com/post/products/video-rtc-screen-sharing/) and [cobrowsing](http://blog.ivrpowers.com/post/products/video-rtc-cobrowsing/) are kept available.**
  
 Each customer can increase gradualy the communications features, depending on the needs of the business process or conversation modality. Thus, with the [integration of all channels](http://blog.ivrpowers.com/post/contactcenter/video-integration/) efficiency is improved and maximum benefit is obtained from advanced RTC solutions.
