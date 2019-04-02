@@ -20,12 +20,6 @@ If you have the opportunity to check how children understand Live Communications
 
 > Children cannot being wrong, they are the Future.  
 
-## Evolution is not an option.
-
-Companies that are not yet concidering a progresive transition of their phone channel to [Real-Time Communications (RTC)](http://blog.ivrpowers.com/post/technologies/what-is-rtc/) within the next years for their customer care, sales or support will quickly become old fashioned and irrelevant for these new consumers. The next customer generation will never accept to downgrade their high speed interactions and rich communication expectations.
-
-> It's not a question of Fashion, it'a a question of Evolution.
-
 ## Streamline your business communications
 
 Interactive Powers can help you to turn easily customer experience into a competitive advantage, our [Video RTC](https://www.ivrpowers.com/videortc/) solutions getting all integrated today into your existing Contact Center.
