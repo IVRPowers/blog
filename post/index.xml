@@ -6,10 +6,20 @@
     <description>Recent content in Posts on Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 02 Apr 2019 22:00:00 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 07 May 2019 20:40:07 +0200</lastBuildDate>
     
 	<atom:link href="http://blog.ivrpowers.com/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>We are moving to a new Office!</title>
+      <link>http://blog.ivrpowers.com/post/general/new-alcobendas-madrid-office-2019/</link>
+      <pubDate>Tue, 07 May 2019 20:40:07 +0200</pubDate>
+      
+      <guid>http://blog.ivrpowers.com/post/general/new-alcobendas-madrid-office-2019/</guid>
+      <description>Photo source: Interactive Powers We are excited to announce that Interactive Powers has moved to a new location in the fast growing city of Alcobendas in Madrid (Spain). We spent the previous three years in Madrid Downtown &amp;ndash; our old office served us well, and we made great memories there, but we couldn&amp;rsquo;t be more excited about our new modern space.
+The new office is actually in Alcobendas business park, putting us in a really nice place for growing and looking toward the Madrid&amp;rsquo;s Skyline.</description>
+    </item>
     
     <item>
       <title>Video is no longuer a &#39;nice to have&#39; for Call Centers</title>
@@ -688,7 +698,7 @@ The design of our webclient is composed by a logo and a main default color.</des
       <pubDate>Sun, 10 Jun 2018 15:00:00 +0200</pubDate>
       
       <guid>http://blog.ivrpowers.com/post/products/turnkey-solutions/</guid>
-      <description>The Turnkey Solutions for your business Our Trunkey Portfolio offers flexibility and deliver significant savings to enterprises or service providers. These pay-as-you-go products can be standalone or used in combination to provide an end to end communication services for many kind of businesses over WebRTC, RTMP, VoIP to PSTN networks.
+      <description>The Turnkey Solutions for your business Our Turnkey Portfolio offers flexibility and deliver significant savings to enterprises or service providers. These pay-as-you-go products can be standalone or used in combination to provide an end to end communication services for many kind of businesses over WebRTC, RTMP, VoIP to PSTN networks.
 Forget technology, it&amp;rsquo;s about business. Web Dialer.  Make Voice Calls from any modern Web Browser
  Web Dialer allows all your customers and users to make phone calls directly to your PBX, IVR, Call Center from any desktop web browser (Firefox, Chrome, IE, Safari, Opera,…).</description>
     </item>
