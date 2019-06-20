@@ -14,7 +14,7 @@ comments = true
 ------------
 ###### Photo Source: Interactive Powers. Creative Commons
 
-# Whatever your business, Real-Time Communications cam improve your services.
+# Whatever your business, Real-Time Communications can improve your services.
 ---
 
 The fourth generation of our flagship [RTC](http://blog.ivrpowers.com/post/technologies/what-is-rtc/) product is now released after months of developments and continuous improvements. Discover how to integrate live-video, voice, and messaging technology to transform your business processes, and how [Video RTC](http://blog.ivrpowers.com/post/products/video-rtc/) it can help you facilitate more engaging interactions with your customers or employees. 
