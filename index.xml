@@ -31,6 +31,15 @@ Interactive Powers delivers communication platforms that enables advanced real-t
     </item>
     
     <item>
+      <title>Security improvement for WebRTC in Firefox 68</title>
+      <link>http://blog.ivrpowers.com/post/news/firefox68-requires-https-in-all-sources/</link>
+      <pubDate>Tue, 23 Jul 2019 20:00:00 +0200</pubDate>
+      
+      <guid>http://blog.ivrpowers.com/post/news/firefox68-requires-https-in-all-sources/</guid>
+      <description>Photo Source: Creative Commons Firefox 68 will now only expose camera and microphone in secure contexts. As of Firefox 68 — releasing past weeks — WebRTC camera and microphone will require an https connection to work. Access from insecure http will cease to work, matching how Chrome works. Camera and microhone are powerful features, and Firefox will now only expose them in secure contexts, a security and privacy improvement.</description>
+    </item>
+    
+    <item>
       <title>We are moving to a new Office!</title>
       <link>http://blog.ivrpowers.com/post/general/new-alcobendas-madrid-office-2019/</link>
       <pubDate>Tue, 07 May 2019 20:40:07 +0200</pubDate>
