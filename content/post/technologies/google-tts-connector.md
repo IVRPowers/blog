@@ -2,7 +2,7 @@
 categories = ["technologies"]
 date = "2019-09-03T12:00:00+01:00"
 description = "Text-to-Speech"
-draft = false
+draft = true
 tags = ["text-to-speech","ivr","tts","speech"]
 title = "Google Text-to-Speech"
 image = "/postimages/technologies/google-tts.002.jpeg"
