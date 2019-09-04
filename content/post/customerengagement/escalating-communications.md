@@ -20,6 +20,8 @@ Current developments of [RTC technology](http://blog.ivrpowers.com/post/technolo
  
 In many websites **it is already possible to access advanced services in real time,** such as chat or video. However, these solutions are often presented as separate and isolated channels. So, if a customer contacts customer service, for example, via chat, he must explain again and again the whole problem over the phone or in the store. To avoid that customers are forced to repeat the processes, it is essential to conceive the new communication channels in real time as **a single escalation process.** Thus, the move from one channel to another takes place naturally.
 
+![escalating chat-voice-video](/postimages/customerengagement/ivrpowers-post-04.015.jpeg)
+
 ## Step 1. Live Chat.
 
 The customer may have contacted the customer service via [Live Chat](http://blog.ivrpowers.com/post/products/video-rtc-live-chat/). It is a simple and comfortable option. Clients can talk to an agent from a laptop or mobile phone. This channel is one of the most popular, since it is very **effective for selling, for exchange accurate data or document links.** But let's imagine that at any given time, the client needs to provide a more detailed explanation of the problem by voice interaction.

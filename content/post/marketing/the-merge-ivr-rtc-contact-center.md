@@ -19,7 +19,7 @@ comments = true
 
 ![RTC IVR](/postimages/marketing/ivrpowers-post-04.006.jpeg)
 
-At Interactive Powers, when we launched our first products, we had always considered the Contact Center as a primary technology platform that requires to connect many and new channels to become a **Multi-channel** system  or much better ever an **Omnichannel** system. In the early stage of the **Digital Transformation**, we couldn’t imagine our main business product lines [IVR](https://www.ivrpowers.com/voicexml/) and [RTC](https://www.ivrpowers.com/video-rtc/) to become so close that they are now just part of a whole strategic approach for any Contact Center evolution. Let us show, how powerful it is without leaving existing channels or services witch are already running. We always understand integration as a complementary function and value not a replacement.
+At Interactive Powers, when we launched our first products, we had always considered the Contact Center as a primary technology platform that requires to connect many and new channels to become a **Multi-channel** system  or much better ever an **Omnichannel** system. In the early stage of the **Digital Transformation**, we couldn’t imagine our main business product lines [IVR](https://www.ivrpowers.com/voicexml/) and [RTC](https://www.ivrpowers.com/videortc/) to become so close that they are now just part of a whole strategic approach for any Contact Center evolution. Let us show, how powerful it is without leaving existing channels or services witch are already running. We always understand integration as a complementary function and value not a replacement.
 
 ## IVR · Interactive Voice Response
 

@@ -15,7 +15,7 @@ image = "/postimages/products/ivrpowers-cloud-hosting.006.jpeg"
 # The Turnkey Solutions for your business
 ---
 
-Our [Trunkey Portfolio](http://www.ivrpowers.com/turnkey/) offers flexibility and deliver significant savings to enterprises or service providers. These pay-as-you-go products can be standalone or used in combination to provide an end to end communication services for many kind of businesses over WebRTC, RTMP, VoIP to PSTN networks.
+Our [Turnkey Portfolio](http://www.ivrpowers.com/turnkey/) offers flexibility and deliver significant savings to enterprises or service providers. These pay-as-you-go products can be standalone or used in combination to provide an end to end communication services for many kind of businesses over WebRTC, RTMP, VoIP to PSTN networks.
 
 ##	Forget technology, it's about business.
 
