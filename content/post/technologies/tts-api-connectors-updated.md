@@ -26,9 +26,9 @@ We are excited to announce that **Interactive Powers is adding more than 300 voi
 
 Text-to-Speech has been an important tool in developer’s armory. It allows developers to create interactive voice applications by generating speech dynamically, rather than playing static, pre-recorded media files. Plivo platform supports this capability through our [VoiceXML IVR](https://www.ivrpowers.com/voicexml/) platforms  < prompt > VoiceXML. Today, with normal text-to-speech, developers can only choose from a basic male or female voice in a subset of languages, without pauses, tonal modulations or other qualities that a natural speech possesses. 
 
-* HTTP-TTS connector for [Amazon Polly TTS]()
-* HTTP-TTS connector for [Google Cloud TTS]()
-* HTTP-TTS connector for [Microsoft Azure TTS]()
+* HTTP-TTS connector for [Amazon Polly TTS](http://blog.ivrpowers.com/post/technologies/amazon-tts-connector/)
+* HTTP-TTS connector for [Google Cloud TTS](http://blog.ivrpowers.com/post/technologies/google-tts-connector/)
+* HTTP-TTS connector for [Microsoft Azure TTS](http://blog.ivrpowers.com/post/technologies/microsoft-tts-connector/)
 
 # Integrating Text-to-Speech in your Application
 
