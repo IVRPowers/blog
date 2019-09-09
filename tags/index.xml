@@ -21,6 +21,15 @@
     </item>
     
     <item>
+      <title>Amazon</title>
+      <link>http://blog.ivrpowers.com/tags/amazon/</link>
+      <pubDate>Tue, 03 Sep 2019 12:00:00 +0100</pubDate>
+      
+      <guid>http://blog.ivrpowers.com/tags/amazon/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Android</title>
       <link>http://blog.ivrpowers.com/tags/android/</link>
       <pubDate>Fri, 16 Feb 2018 21:00:00 +0200</pubDate>
@@ -41,7 +50,7 @@
     <item>
       <title>Api</title>
       <link>http://blog.ivrpowers.com/tags/api/</link>
-      <pubDate>Wed, 07 Nov 2018 20:00:00 +0100</pubDate>
+      <pubDate>Sun, 08 Sep 2019 12:00:00 +0100</pubDate>
       
       <guid>http://blog.ivrpowers.com/tags/api/</guid>
       <description></description>
@@ -62,6 +71,15 @@
       <pubDate>Sun, 21 Jan 2018 21:00:00 +0200</pubDate>
       
       <guid>http://blog.ivrpowers.com/tags/apple/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Aws</title>
+      <link>http://blog.ivrpowers.com/tags/aws/</link>
+      <pubDate>Sun, 08 Sep 2019 12:00:00 +0100</pubDate>
+      
+      <guid>http://blog.ivrpowers.com/tags/aws/</guid>
       <description></description>
     </item>
     
@@ -345,6 +363,15 @@
     </item>
     
     <item>
+      <title>Google</title>
+      <link>http://blog.ivrpowers.com/tags/google/</link>
+      <pubDate>Sun, 08 Sep 2019 12:00:00 +0100</pubDate>
+      
+      <guid>http://blog.ivrpowers.com/tags/google/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Healthcare</title>
       <link>http://blog.ivrpowers.com/tags/healthcare/</link>
       <pubDate>Thu, 23 Nov 2017 10:10:39 +0100</pubDate>
@@ -419,7 +446,7 @@
     <item>
       <title>Ivr</title>
       <link>http://blog.ivrpowers.com/tags/ivr/</link>
-      <pubDate>Thu, 21 Feb 2019 02:00:00 +0200</pubDate>
+      <pubDate>Sun, 08 Sep 2019 12:00:00 +0100</pubDate>
       
       <guid>http://blog.ivrpowers.com/tags/ivr/</guid>
       <description></description>
@@ -491,7 +518,7 @@
     <item>
       <title>Microsoft</title>
       <link>http://blog.ivrpowers.com/tags/microsoft/</link>
-      <pubDate>Wed, 02 Jan 2019 20:00:00 +0200</pubDate>
+      <pubDate>Sun, 08 Sep 2019 12:00:00 +0100</pubDate>
       
       <guid>http://blog.ivrpowers.com/tags/microsoft/</guid>
       <description></description>
@@ -716,7 +743,7 @@
     <item>
       <title>Speech</title>
       <link>http://blog.ivrpowers.com/tags/speech/</link>
-      <pubDate>Tue, 10 Apr 2018 09:30:00 +0100</pubDate>
+      <pubDate>Sun, 08 Sep 2019 12:00:00 +0100</pubDate>
       
       <guid>http://blog.ivrpowers.com/tags/speech/</guid>
       <description></description>
@@ -788,7 +815,7 @@
     <item>
       <title>Text to Speech</title>
       <link>http://blog.ivrpowers.com/tags/text-to-speech/</link>
-      <pubDate>Tue, 10 Apr 2018 09:30:00 +0100</pubDate>
+      <pubDate>Sun, 08 Sep 2019 12:00:00 +0100</pubDate>
       
       <guid>http://blog.ivrpowers.com/tags/text-to-speech/</guid>
       <description></description>
@@ -815,7 +842,7 @@
     <item>
       <title>Tts</title>
       <link>http://blog.ivrpowers.com/tags/tts/</link>
-      <pubDate>Tue, 10 Apr 2018 09:30:00 +0100</pubDate>
+      <pubDate>Sun, 08 Sep 2019 12:00:00 +0100</pubDate>
       
       <guid>http://blog.ivrpowers.com/tags/tts/</guid>
       <description></description>

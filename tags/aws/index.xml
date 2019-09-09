@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Aws on Blog</title>
+    <link>http://blog.ivrpowers.com/tags/aws/</link>
+    <description>Recent content in Aws on Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 08 Sep 2019 12:00:00 +0100</lastBuildDate>
+    
+	<atom:link href="http://blog.ivrpowers.com/tags/aws/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>TTS-API connectors updated!</title>
+      <link>http://blog.ivrpowers.com/post/technologies/cloud-tts-connector-update/</link>
+      <pubDate>Sun, 08 Sep 2019 12:00:00 +0100</pubDate>
+      
+      <guid>http://blog.ivrpowers.com/post/technologies/cloud-tts-connector-update/</guid>
+      <description>Image source: Interactive Powers Interactive Powers introduces 45+ Languages &amp;amp; 300+ additional Text-to-Speech voices with Amazon, Google and Microsoft Cloud TTS-API Integration. Natural Language over the Phone&amp;hellip; All of you know that cognitive services are growing this days, and that&amp;rsquo;s why today we&amp;rsquo;re going to talk about a brand-new API, &amp;ldquo;Text to speech&amp;rdquo;. This API can convert text into natural voice in just a few seconds even less. There are a lot of Cloud Speech APIs for Text To Speech, but we will focus on the Cloud Giants: Google Cloud, Microsoft Azure and Amazon Web Services.</description>
+    </item>
+    
+    <item>
+      <title>Amazon Polly TTS connector</title>
+      <link>http://blog.ivrpowers.com/post/technologies/amazon-tts-connector/</link>
+      <pubDate>Tue, 03 Sep 2019 12:00:00 +0100</pubDate>
+      
+      <guid>http://blog.ivrpowers.com/post/technologies/amazon-tts-connector/</guid>
+      <description>Image source: Interactive Powers Interactive Powers introduces 27 Languages &amp;amp; 60+ additional Text-to-Speech voices with Amazon Polly Integration About Amazon&amp;hellip; Amazon Polly is a Text-to-Speech (TTS) service that uses advanced deep learning technologies to synthesize speech that sounds like a human voice. It&amp;rsquo;s part of the voice of Alexa and can do much more for your business too.
+ Amazon has arround 60 voices across 30 languages and variants.</description>
+    </item>
+    
+  </channel>
+</rss>
