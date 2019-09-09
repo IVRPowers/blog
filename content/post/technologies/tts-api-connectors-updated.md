@@ -48,7 +48,7 @@ For example:
 </vxml>
 ~~~
 
-To learn more about how IVR solutions, please contact us at our [website](htttps://www.ivrpowers.com/)
+To learn more about how IVR solutions, please contact us at our [website](https://www.ivrpowers.com/)
 
 ---
 [Interactive Powers](http://www.ivrpowers.com/) - Streamline your business communications
