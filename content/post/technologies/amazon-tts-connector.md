@@ -2,18 +2,19 @@
 categories = ["technologies"]
 date = "2019-09-03T12:00:00+01:00"
 description = "Text-to-Speech"
-draft = true
-tags = ["text-to-speech","ivr","tts","speech"]
+draft = false
+tags = ["text-to-speech","ivr","tts","speech","api","amazon", "aws"]
 title = "Amazon Polly TTS connector"
-image = "/postimages/technologies/google-tts.002.jpeg"
+image = "/postimages/technologies/post-connector-tts.001.jpeg"
 
 +++
 
-![Amazon TTS](/postimages/technologies/google-tts.001.jpeg)
+![Amazon Polly TTS](/postimages/technologies/post-connector-tts.001.jpeg)
 ---------
-###### Image source: Amazon
+###### Image source: Interactive Powers
 
-#	New Amazon Polly Text-to-Speech update!
+#	Interactive Powers introduces 27 Languages & 60+ additional Text-to-Speech voices with Amazon Polly Integration
+---
 
 ##	About Amazon...
 
@@ -31,7 +32,7 @@ It is a relatively advanced technology, it sounds great for many kind of project
 * NTTS Newscaster Style voices which are very similar to human voices.
 * Great documentation, very clear approach and scalability
 
-## How to Start... with Amazon TTS
+## How to start with Amazon Polly TTS
 
 ###	Step 0: System Requirements
 
@@ -79,7 +80,7 @@ Codec =
 
 Start coding your first VoiceXML script setting the right voice and language like this:
 
-~~~javascript
+~~~xml
 <?xml version="1.0"?>
 <vxml version="2.1" xmlns="http://www.w3.org/2001/vxml" xml:lang="en-US">
    <property name="promptvoice" value="Justin"/>

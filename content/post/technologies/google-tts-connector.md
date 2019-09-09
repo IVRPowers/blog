@@ -2,18 +2,19 @@
 categories = ["technologies"]
 date = "2019-09-03T12:00:00+01:00"
 description = "Text-to-Speech"
-draft = true
-tags = ["text-to-speech","ivr","tts","speech"]
+draft = false
+tags = ["text-to-speech","ivr","tts","speech","api","google"]
 title = "Google TTS connector"
-image = "/postimages/technologies/google-tts.002.jpeg"
+image = "/postimages/technologies/post-connector-tts.002.jpeg"
 
 +++
 
-![Google Cloud TTS](/postimages/technologies/google-tts.001.jpeg)
+![Google Cloud TTS](/postimages/technologies/post-connector-tts.002.jpeg)
 ---------
-###### Image source: Google Speech API
+###### Image source: Interactive Powers
 
-# New Google Text-to-Speech connector update!
+# Interactive Powers introduces 30+ Languages & 180+ additional Text-to-Speech voices with Google TTS Integration
+---
 
 ##	About Google...
 
@@ -29,7 +30,7 @@ To understand all of previous elements you can read the Google documentation. It
 * WaveNet voices which are very similar to human voices.
 * Great documentation, very simple and clear.
 
-## How to Start... with Google TTS
+## How to start with Google TTS
 
 ###	Step 0: System Requirements
 
@@ -78,10 +79,10 @@ Codec =
 
 Start coding your first VoiceXML script setting the right voice and language like this:
 
-~~~javascript
+~~~xml
 <?xml version="1.0"?>
 <vxml version="2.1" xmlns="http://www.w3.org/2001/vxml" xml:lang="en-US">
-   <property name="promptvoice" value="Justin"/>
+   <property name="promptvoice" value="Standard-A"/>
    <form>
        <block>
            <prompt>Hello World! I am the Google Voice</prompt>

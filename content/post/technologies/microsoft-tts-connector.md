@@ -2,18 +2,19 @@
 categories = ["technologies"]
 date = "2019-09-03T12:00:00+01:00"
 description = "Text-to-Speech"
-draft = true
-tags = ["text-to-speech","ivr","tts","speech"]
+draft = false
+tags = ["text-to-speech","ivr","tts","speech","api","microsoft"]
 title = "Microsoft TTS connector"
-image = "/postimages/technologies/google-tts.002.jpeg"
+image = "/postimages/technologies/post-connector-tts.003.jpeg"
 
 +++
 
-![Microsoft Azure TTS](/postimages/technologies/google-tts.001.jpeg)
+![Microsoft Azure TTS](/postimages/technologies/post-connector-tts.003.jpeg)
 ---------
-###### Image source: Microsoft Azure
+###### Image source: Interactive Powers
 
-#	New Microsoft Text-to-Speech update!
+#	Interactive Powers introduces 45 Languages & 75+ additional Text-to-Speech voices with Microsoft Azure TTS Integration
+---
 
 ##	About Microsoft...
 
@@ -30,7 +31,7 @@ For more information, read the Microsoft Documentation. Microsoft Text-To- Speec
 * Neural voices that mimic the human voice almost perfectly.
 * Each language at least have 2 different type of voice where you can choose.
 
-## How to Start...
+## How to start with Microsoft Azure TTS
 
 ###	Step 0: System Requirements
 
@@ -80,10 +81,10 @@ Codec =
 
 Start coding your first VoiceXML script setting the right voice and language like this:
 
-~~~javascript
+~~~xml
 <?xml version="1.0"?>
 <vxml version="2.1" xmlns="http://www.w3.org/2001/vxml" xml:lang="en-US">
-   <property name="promptvoice" value="Justin"/>
+   <property name="promptvoice" value="Jessa"/>
    <form>
        <block>
            <prompt>Hello World! I am the Microsoft Azure Voice.</prompt>
