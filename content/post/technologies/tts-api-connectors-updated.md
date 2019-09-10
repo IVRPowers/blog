@@ -18,13 +18,13 @@ image = "/postimages/technologies/post-connector-tts.004.jpeg"
 
 ##  Natural Language over the Phone...
 
-All of you know that cognitive services are growing this days, and that's why today we're going to talk about a brand-new API, "Text to speech".  This API can convert text into natural voice in just a few seconds even less. There are a lot of Cloud Speech APIs for Text To Speech, but we will focus on the Cloud Giants: [Google Cloud](https://cloud.google.com/), [Microsoft Azure](https://azure.microsoft.com/) and [Amazon Web Services](https://aws.amazon.com/).
-
-We are excited to announce that **Interactive Powers is adding more than 300 voices, 45 languages, and new APIs to give developers more control over synthesized speech output in applications** that need text-to-speech voice. With Amazon Polly, Google Cloud, Microsoft Azure developers now have control over the volume, pitch, rate, and pronunciation of the voices that interact with their phone users.
+All of you know about cognitive services is growing these days, and that's why today we're going to talk about our new TTS-API  for "Text to speech". This connector converts text into a dynamic natural voice in just a few milliseconds. There are a lot of Cloud Speech APIs, but we will focus on the Cloud Giants: [Google Cloud](https://cloud.google.com/), [Microsoft Azure](https://azure.microsoft.com/) and [Amazon Web Services](https://aws.amazon.com/).
 
 ##  What is really important?
 
-Text-to-Speech has been an important tool in developer’s armory. It allows developers to create interactive voice applications by generating speech dynamically, rather than playing static, pre-recorded media files. Plivo platform supports this capability through our [VoiceXML IVR](https://www.ivrpowers.com/voicexml/) platforms  < prompt > VoiceXML. Today, with normal text-to-speech, developers can only choose from a basic male or female voice in a subset of languages, without pauses, tonal modulations or other qualities that a natural speech possesses. 
+Text-to-Speech has been an important tool in developer’s armory. It allows developers to create interactive voice applications by generating speech dynamically, rather than playing static, pre-recorded media files. Our solutions supports this capability through our [VoiceXML IVR](https://www.ivrpowers.com/voicexml/) platforms  < prompt >.
+
+We are excited to announce that **Interactive Powers is adding more than 300 voices, 45 languages, and new APIs to give developers more control over synthesized speech output in applications** that need text-to-speech voice. With Amazon Polly, Google Cloud, Microsoft Azure developers now have control over the volume, pitch, rate, and pronunciation of the voices that interact with their phone users.
 
 * HTTP-TTS connector for [Amazon Polly TTS](http://blog.ivrpowers.com/post/technologies/amazon-tts-connector/)
 * HTTP-TTS connector for [Google Cloud TTS](http://blog.ivrpowers.com/post/technologies/google-tts-connector/)
