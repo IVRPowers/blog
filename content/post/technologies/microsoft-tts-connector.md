@@ -3,7 +3,7 @@ categories = ["technologies"]
 date = "2019-09-03T12:00:00+01:00"
 description = "Text-to-Speech"
 draft = false
-tags = ["text-to-speech","ivr","tts","speech","api","microsoft"]
+tags = ["ivr","tts","speech","api","microsoft"]
 title = "Microsoft TTS connector"
 image = "/postimages/technologies/post-connector-tts.003.jpeg"
 
@@ -18,7 +18,7 @@ image = "/postimages/technologies/post-connector-tts.003.jpeg"
 
 ##	About Microsoft...
 
-[Microsoft Azure](https://azure.microsoft.com/) like Google Cloud provides his own Text To Speech API. It is quite big and here are some of its main features with more than 75 voices over 45 languages.
+[Microsoft Azure](https://azure.microsoft.com/) like Google Cloud provides his own Text To Speech API. It is quite big and here are some of its main features with **more than 75 voices over 45 languages**.
 
 * Parameters for speed, pitch, volume, pronunciation, and additional pauses
 * Custom voice models for developers and enterprises
@@ -36,7 +36,7 @@ To get more information, you can read [Microsoft TTS documentation](https://azur
 
 You may check first you have all of this:
 
-* **Apache Web Server** installed with **PHP 7** and at least the curl and mbstring PHP extension installed.
+* **Apache Web Server** installed with **PHP 7** and at least the curl / mbstring PHP extension.
 * **FFmpeg** binary program installed.
 * **Microsoft Azure** account.
 * **Speech resource** created. 

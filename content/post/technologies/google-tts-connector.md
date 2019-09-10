@@ -3,7 +3,7 @@ categories = ["technologies"]
 date = "2019-09-03T12:00:00+01:00"
 description = "Text-to-Speech"
 draft = false
-tags = ["text-to-speech","ivr","tts","speech","api","google"]
+tags = ["ivr","tts","speech","api","google"]
 title = "Google TTS connector"
 image = "/postimages/technologies/post-connector-tts.002.jpeg"
 
@@ -36,7 +36,7 @@ To understand all of previous elements, you can read [Google TTS documentation](
 
 You may check first you have all of this:
 
-* **Apache Web Server** installed with **PHP 7** and at least the curl and the mbstring extension.
+* **Apache Web Server** installed with **PHP 7** and at least the curl / mbstring PHP extension.
 * **FFmpeg** binary program installed (open scource).
 * **Google Cloud** account.
 

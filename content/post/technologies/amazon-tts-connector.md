@@ -3,7 +3,7 @@ categories = ["technologies"]
 date = "2019-09-03T12:00:00+01:00"
 description = "Text-to-Speech"
 draft = false
-tags = ["text-to-speech","ivr","tts","speech","api","amazon", "aws"]
+tags = ["ivr","tts","speech","api","amazon", "aws"]
 title = "Amazon Polly TTS connector"
 image = "/postimages/technologies/post-connector-tts.001.jpeg"
 
@@ -18,7 +18,7 @@ image = "/postimages/technologies/post-connector-tts.001.jpeg"
 
 ##	About Amazon...
 
-[Amazon Polly](https://aws.amazon.com/polly/)is a Text-to-Speech (TTS) service that uses advanced deep learning technologies to synthesize speech that sounds like a human voice. It's part of the voice of Alexa and can do much more for your business too.
+[Amazon Polly](https://aws.amazon.com/polly/) is a Text-to-Speech (TTS) service that uses advanced deep learning technologies to synthesize speech that sounds like a human voice. **It's part of the voice of Alexa and can do much more for your business too.**
 
 * Amazon has arround 60 voices across 30 languages and variants.
 * Amazon Polly offers Neural Text-to-Speech (NTTS) voices through Machine Learning approach.
@@ -36,7 +36,7 @@ To get more information, you can read [AWS documentation](https://docs.aws.amazo
 
 You may check first you have all of this:
 
-* **Apache Web Server** installed with **PHP 7** and at least the curl and mbstring PHP extension installed.
+* **Apache Web Server** installed with **PHP 7** and at least the curl / mbstring PHP extension.
 * **FFmpeg** binary program installed.
 * **Amazon AWS** account.
 * **Amazon IAM User** with *AmazonPollyReadOnlyAccess* attached policy. 

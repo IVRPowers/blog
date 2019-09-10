@@ -3,7 +3,7 @@ categories = ["technologies"]
 date = "2019-09-08T12:00:00+01:00"
 description = "Text-to-Speech"
 draft = false
-tags = ["text-to-speech","ivr","tts","speech","api","google", "aws", "microsoft"]
+tags = ["ivr","tts","speech","api","google", "amazon", "microsoft"]
 title = "TTS-API connectors updated!"
 image = "/postimages/technologies/post-connector-tts.004.jpeg"
 
@@ -18,7 +18,7 @@ image = "/postimages/technologies/post-connector-tts.004.jpeg"
 
 ##  Natural Language over the Phone...
 
-All of you know about cognitive services is growing these days, and that's why today we're going to talk about our new TTS-API  for "Text to speech". This connector converts text into a dynamic natural voice in just a few milliseconds. There are a lot of Cloud Speech APIs, but we will focus on the Cloud Giants: [Google Cloud](https://cloud.google.com/), [Microsoft Azure](https://azure.microsoft.com/) and [Amazon Web Services](https://aws.amazon.com/).
+All of you know about cognitive services is growing these days, and that's why today **we're going to talk about our new TTS-API  for "Text to speech"**. This connector converts text into a dynamic natural voice in just a few milliseconds. There are a lot of Cloud Speech API, but we will focus on the Cloud Services main giants: [Google Cloud](https://cloud.google.com/), [Microsoft Azure](https://azure.microsoft.com/) and [Amazon Web Services](https://aws.amazon.com/).
 
 ##  What is really important?
 
@@ -26,9 +26,9 @@ Text-to-Speech has been an important tool in developer’s armory. It allows dev
 
 We are excited to announce that **Interactive Powers is adding more than 300 voices, 45 languages, and new APIs to give developers more control over synthesized speech output in applications** that need text-to-speech voice. With Amazon Polly, Google Cloud, Microsoft Azure developers now have control over the volume, pitch, rate, and pronunciation of the voices that interact with their phone users.
 
-* TTS-API connector for [Amazon Polly TTS](http://blog.ivrpowers.com/post/technologies/amazon-tts-connector/)
-* TTS-API connector for [Google Cloud TTS](http://blog.ivrpowers.com/post/technologies/google-tts-connector/)
-* TTS-API connector for [Microsoft Azure TTS](http://blog.ivrpowers.com/post/technologies/microsoft-tts-connector/)
+* [TTS-API connector for Amazon Polly TTS](http://blog.ivrpowers.com/post/technologies/amazon-tts-connector/)
+* [TTS-API connector for Google Cloud TTS](http://blog.ivrpowers.com/post/technologies/google-tts-connector/)
+* [TTS-API connector for Microsoft Azure TTS](http://blog.ivrpowers.com/post/technologies/microsoft-tts-connector/)
 
 # Integrating Text-to-Speech in your Application
 
