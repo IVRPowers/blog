@@ -18,15 +18,13 @@ image = "/postimages/technologies/post-connector-tts.001.jpeg"
 
 ##	About Amazon...
 
-Amazon Polly is a Text-to-Speech (TTS) service that uses advanced deep learning technologies to synthesize speech that sounds like a human voice. It's part of the voice of Alexa and can do much more for your business too.
+[Amazon Polly](https://aws.amazon.com/polly/)is a Text-to-Speech (TTS) service that uses advanced deep learning technologies to synthesize speech that sounds like a human voice. It's part of the voice of Alexa and can do much more for your business too.
 
 * Amazon has arround 60 voices across 30 languages and variants.
 * Amazon Polly offers Neural Text-to-Speech (NTTS) voices through Machine Learning approach.
 * Any device or application support with REST request.
 
-To see all of them you can watch AWS documentation.
-
-It is a relatively advanced technology, it sounds great for many kind of projects. Some of the main languages are not yet enough developed with Neural TTS technology to provide any kind of voices.
+To get more information, you can read [AWS documentation](https://docs.aws.amazon.com/polly/index.html). It is a relatively advanced technology, it sounds great for many kind of projects. Some of the main languages are not yet enough developed with Neural TTS technology to provide any kind of voices.
 
 * Over 60 voices across 30 languages.
 * NTTS Newscaster Style voices which are very similar to human voices.
@@ -39,7 +37,7 @@ It is a relatively advanced technology, it sounds great for many kind of project
 You may check first you have all of this:
 
 * **Apache Web Server** installed with **PHP 7** and at least the curl and mbstring PHP extension installed.
-* **ffmpeg** binary program installed.
+* **FFmpeg** binary program installed.
 * **Amazon AWS** account.
 * **Amazon IAM User** with *AmazonPollyReadOnlyAccess* attached policy. 
 

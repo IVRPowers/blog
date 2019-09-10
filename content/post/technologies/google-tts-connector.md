@@ -18,13 +18,13 @@ image = "/postimages/technologies/post-connector-tts.002.jpeg"
 
 ##	About Google...
 
-Google is one of the biggest enterprises in the world, so its API does not fall short. There are lots of features that are worth of mention, but we don’t have that time so, here are some of main features we consider:
+[Google Cloud](https://cloud.google.com/) is one of the major Enterprise Cloud Services in the world, so its API does not fall short. There are a lot of features that are worth of mention, but we don’t have that time so, here are some of main features we consider:
 
 * Google has over 180 voices across 30+ languages and variants.
 * WaveNet is a new Neural technology that provides better natural voices.
 * Any device or application support with REST or gRPC request.
 
-To understand all of previous elements you can read the Google documentation. It is a relatively new technology, so it is not perfect nor a disaster. Some of the main languages are not yet enough developed like Spanish, that only count with the standard voice meanwhile English has 32 voices (standard and WaveNet).
+To understand all of previous elements, you can read [Google TTS documentation](https://cloud.google.com/text-to-speech/docs/). It is a relatively new technology, so it is not perfect nor a disaster. Some of the main languages are not yet enough developed like Spanish, that only count with the standard voice meanwhile English has 32 voices (standard and WaveNet).
 
 * Over 180 voices across 30+ languages.
 * WaveNet voices which are very similar to human voices.
@@ -37,7 +37,7 @@ To understand all of previous elements you can read the Google documentation. It
 You may check first you have all of this:
 
 * **Apache Web Server** installed with **PHP 7** and at least the curl and the mbstring extension.
-* **ffmpeg** binary program installed (open scource).
+* **FFmpeg** binary program installed (open scource).
 * **Google Cloud** account.
 
 ###	Step 1: Installation

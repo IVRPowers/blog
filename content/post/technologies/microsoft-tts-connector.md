@@ -18,14 +18,13 @@ image = "/postimages/technologies/post-connector-tts.003.jpeg"
 
 ##	About Microsoft...
 
-Microsoft like Google provides his own Text To Speech API. It is quite big and here are some of its features:
-More than 75 voices over 45 languages.
+[Microsoft Azure](https://azure.microsoft.com/) like Google Cloud provides his own Text To Speech API. It is quite big and here are some of its main features with more than 75 voices over 45 languages.
 
 * Parameters for speed, pitch, volume, pronunciation, and additional pauses
 * Custom voice models for developers and enterprises
 * Neural Voices technology
 
-For more information, read the Microsoft Documentation. Microsoft Text-To- Speech API is a brand-new technology, so it has pros and cons. The online support is basic and could be improved for developers. Anyway, you can build quickly an REST API with all the information provided by Microsoft.
+To get more information, you can read [Microsoft TTS documentation](https://azure.microsoft.com/en-us/services/cognitive-services/text-to-speech/). Microsoft Text-To- Speech API is a brand-new technology, so it has pros and cons. The online support is basic and could be improved for developers. Anyway, you can build quickly an REST API with all the information provided by Microsoft.
 
 * Over 75 voices across 45 languages.
 * Neural voices that mimic the human voice almost perfectly.
@@ -38,7 +37,7 @@ For more information, read the Microsoft Documentation. Microsoft Text-To- Speec
 You may check first you have all of this:
 
 * **Apache Web Server** installed with **PHP 7** and at least the curl and mbstring PHP extension installed.
-* **ffmpeg** binary program installed.
+* **FFmpeg** binary program installed.
 * **Microsoft Azure** account.
 * **Speech resource** created. 
 
