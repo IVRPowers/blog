@@ -26,9 +26,9 @@ Text-to-Speech has been an important tool in developer’s armory. It allows dev
 
 We are excited to announce that **Interactive Powers is adding more than 300 voices, 45 languages, and new APIs to give developers more control over synthesized speech output in applications** that need text-to-speech voice. With Amazon Polly, Google Cloud, Microsoft Azure developers now have control over the volume, pitch, rate, and pronunciation of the voices that interact with their phone users.
 
-* HTTP-TTS connector for [Amazon Polly TTS](http://blog.ivrpowers.com/post/technologies/amazon-tts-connector/)
-* HTTP-TTS connector for [Google Cloud TTS](http://blog.ivrpowers.com/post/technologies/google-tts-connector/)
-* HTTP-TTS connector for [Microsoft Azure TTS](http://blog.ivrpowers.com/post/technologies/microsoft-tts-connector/)
+* TTS-API connector for [Amazon Polly TTS](http://blog.ivrpowers.com/post/technologies/amazon-tts-connector/)
+* TTS-API connector for [Google Cloud TTS](http://blog.ivrpowers.com/post/technologies/google-tts-connector/)
+* TTS-API connector for [Microsoft Azure TTS](http://blog.ivrpowers.com/post/technologies/microsoft-tts-connector/)
 
 # Integrating Text-to-Speech in your Application
 
