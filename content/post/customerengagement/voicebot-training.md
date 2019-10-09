@@ -4,7 +4,7 @@ date = "2019-10-06T20:00:00+02:00"
 description = "Artificial Intelligence"
 draft = false
 tags = ["ivr","voicebot","custexp","AI"]
-title = "Any Voicebot  requires a good training"
+title = "Don't forget to train your Voicebot"
 image = "/postimages/customerengagement/slides-blog.006.jpeg"
 +++
 
