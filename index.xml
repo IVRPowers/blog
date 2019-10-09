@@ -31,6 +31,16 @@ Interactive Powers delivers communication platforms that enables advanced real-t
     </item>
     
     <item>
+      <title>Any Voicebot  requires a good training</title>
+      <link>http://blog.ivrpowers.com/post/customerengagement/voicebot-training/</link>
+      <pubDate>Sun, 06 Oct 2019 20:00:00 +0200</pubDate>
+      
+      <guid>http://blog.ivrpowers.com/post/customerengagement/voicebot-training/</guid>
+      <description>Photo source: Unsplash. Creative Commons Like any human performance, your IA powered system requires to be properly trained. Training is the most important thing to consider to make your Voicebot IVR smart enough when it goes in production. Many projects forgot to review continuously learning rules, intents and transactions logs.
+When a Voicebot or conversational agent does not understand you, it is because, in reality, he does not have been properly trained.</description>
+    </item>
+    
+    <item>
       <title>TTS-API connectors updated!</title>
       <link>http://blog.ivrpowers.com/post/technologies/tts-api-connectors-updated/</link>
       <pubDate>Sun, 08 Sep 2019 12:00:00 +0100</pubDate>
