@@ -31,6 +31,28 @@ Interactive Powers delivers communication platforms that enables advanced real-t
     </item>
     
     <item>
+      <title>Video RTC (WebRTC) v4.1.0</title>
+      <link>http://blog.ivrpowers.com/post/updates/update-video-rtc-webrtc-4.1.0/</link>
+      <pubDate>Mon, 21 Oct 2019 12:00:00 +0200</pubDate>
+      
+      <guid>http://blog.ivrpowers.com/post/updates/update-video-rtc-webrtc-4.1.0/</guid>
+      <description>Release Note We are pleased to announce that our new Video RTC (Gateway WebRTC) v4.1.0 has been released for suitable production services. This new version includes a hot fix for Firefox Web Browsers. All users with previous maintained versions can upgrade today. Please contact our support!
+ChangeLog Version 4.1.0:
+## [4.1.0] - 2019-10-21 ### Added - Added support for Safari &amp;gt;= 12.1 - Added possibility to choose the default quality of the Webclient through theme configuration - Added autocall, autoclose and hangup button in the Escalating - Added a new config param in the Webclient and Escalating usecases to redirect when a call ends (e.</description>
+    </item>
+    
+    <item>
+      <title>VideoRTC.js (API) v3.1.0</title>
+      <link>http://blog.ivrpowers.com/post/updates/update-video-rtc-js-3.1.0/</link>
+      <pubDate>Mon, 21 Oct 2019 12:00:00 +0200</pubDate>
+      
+      <guid>http://blog.ivrpowers.com/post/updates/update-video-rtc-js-3.1.0/</guid>
+      <description>Release Note We are pleased to announce that our API Framework for Javascript VideoRTC.js v3.1.0 has been released for suitable for Web Developments and Mobile SDK . All users with previous maintained versions can upgrade today. Please contact our support!
+ChangeLog Version 3.1.0:
+## [3.1.0] - 2019-10-21 ### Added - Added device field in the Opaque ID object - Added support for Safari &amp;gt;= 12.1 ### Changed - Aligned to the new VideoGateway `v4.</description>
+    </item>
+    
+    <item>
       <title>Don&#39;t forget to train your Voicebot</title>
       <link>http://blog.ivrpowers.com/post/customerengagement/voicebot-training/</link>
       <pubDate>Sun, 06 Oct 2019 20:00:00 +0200</pubDate>

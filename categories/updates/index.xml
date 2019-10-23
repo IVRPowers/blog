@@ -6,10 +6,32 @@
     <description>Recent content in Updates on Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 12 Mar 2019 12:00:00 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 21 Oct 2019 12:00:00 +0200</lastBuildDate>
     
 	<atom:link href="http://blog.ivrpowers.com/categories/updates/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Video RTC (WebRTC) v4.1.0</title>
+      <link>http://blog.ivrpowers.com/post/updates/update-video-rtc-webrtc-4.1.0/</link>
+      <pubDate>Mon, 21 Oct 2019 12:00:00 +0200</pubDate>
+      
+      <guid>http://blog.ivrpowers.com/post/updates/update-video-rtc-webrtc-4.1.0/</guid>
+      <description>Release Note We are pleased to announce that our new Video RTC (Gateway WebRTC) v4.1.0 has been released for suitable production services. This new version includes a hot fix for Firefox Web Browsers. All users with previous maintained versions can upgrade today. Please contact our support!
+ChangeLog Version 4.1.0:
+## [4.1.0] - 2019-10-21 ### Added - Added support for Safari &amp;gt;= 12.1 - Added possibility to choose the default quality of the Webclient through theme configuration - Added autocall, autoclose and hangup button in the Escalating - Added a new config param in the Webclient and Escalating usecases to redirect when a call ends (e.</description>
+    </item>
+    
+    <item>
+      <title>VideoRTC.js (API) v3.1.0</title>
+      <link>http://blog.ivrpowers.com/post/updates/update-video-rtc-js-3.1.0/</link>
+      <pubDate>Mon, 21 Oct 2019 12:00:00 +0200</pubDate>
+      
+      <guid>http://blog.ivrpowers.com/post/updates/update-video-rtc-js-3.1.0/</guid>
+      <description>Release Note We are pleased to announce that our API Framework for Javascript VideoRTC.js v3.1.0 has been released for suitable for Web Developments and Mobile SDK . All users with previous maintained versions can upgrade today. Please contact our support!
+ChangeLog Version 3.1.0:
+## [3.1.0] - 2019-10-21 ### Added - Added device field in the Opaque ID object - Added support for Safari &amp;gt;= 12.1 ### Changed - Aligned to the new VideoGateway `v4.</description>
+    </item>
     
     <item>
       <title>Video RTC (WebRTC) v4.0.0</title>

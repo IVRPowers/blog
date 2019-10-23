@@ -13,6 +13,16 @@
   </url>
   
   <url>
+    <loc>http://blog.ivrpowers.com/post/updates/update-video-rtc-webrtc-4.1.0/</loc>
+    <lastmod>2019-10-21T12:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://blog.ivrpowers.com/post/updates/update-video-rtc-js-3.1.0/</loc>
+    <lastmod>2019-10-21T12:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://blog.ivrpowers.com/post/customerengagement/voicebot-training/</loc>
     <lastmod>2019-10-06T20:00:00+02:00</lastmod>
   </url>
@@ -1352,7 +1362,7 @@
   
   <url>
     <loc>http://blog.ivrpowers.com/tags/changelog/</loc>
-    <lastmod>2019-03-12T12:00:00+02:00</lastmod>
+    <lastmod>2019-10-21T12:00:00+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1760,7 +1770,7 @@
   
   <url>
     <loc>http://blog.ivrpowers.com/tags/rtc/</loc>
-    <lastmod>2019-07-23T20:00:00+02:00</lastmod>
+    <lastmod>2019-10-21T12:00:00+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1928,7 +1938,7 @@
   
   <url>
     <loc>http://blog.ivrpowers.com/categories/updates/</loc>
-    <lastmod>2019-03-12T12:00:00+02:00</lastmod>
+    <lastmod>2019-10-21T12:00:00+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -2036,7 +2046,7 @@
   
   <url>
     <loc>http://blog.ivrpowers.com/tags/webrtc/</loc>
-    <lastmod>2019-07-23T20:00:00+02:00</lastmod>
+    <lastmod>2019-10-21T12:00:00+02:00</lastmod>
     <priority>0</priority>
   </url>
   
