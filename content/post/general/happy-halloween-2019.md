@@ -1,6 +1,6 @@
 +++
 categories = ["general"]
-date = "2019-10-31T18:00:00+02:00"
+date = "2019-10-31T09:00:00+02:00"
 description = "Season Greetings"
 draft = false
 tags = ["marketing","ivrpowers", "startup"]
