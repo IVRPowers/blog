@@ -75,7 +75,7 @@ Webclient includes a clic-to-call tool kit to built any front-end RTC interface 
 
 ## Video RTC · Special Modules
 
-Video RTC Includes many extended modules to provide specific features like [Meeting Point](http://blog.ivrpowers.com/post/products/video-rtc-meeting-point/), [CoBrowsing]() for OAuth services and a Configurator system to set specific services configuration.
+Video RTC Includes many extended modules to provide specific features like [Meeting Point](http://blog.ivrpowers.com/post/products/video-rtc-meeting-point/), [CoBrowsing](http://blog.ivrpowers.com/post/products/video-rtc-cobrowsing/) for OAuth services and a Configurator system to set specific services configuration.
 
 ## Video RTC · Features
 

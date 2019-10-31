@@ -12,7 +12,7 @@ image = "/postimages/customerengagement/slides-blog.006.jpeg"
 -----------
 ###### Photo source: Unsplash. Creative Commons
 
-# Like any human performance, your IA powered system requires to be properly trained.
+# Like any human performance, your AI powered system requires to be properly trained.
 --- 
 
 Training is the most important thing to consider to make your [Voicebot IVR](https://www.ivrpowers.com/portfolio/voicebot/) smart enough when it goes in production. Many projects forgot to review continuously learning rules, intents and transactions logs.
