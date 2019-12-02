@@ -1,0 +1,29 @@
++++
+categories = ["updates"]
+date = "2019-12-01T12:00:00+02:00"
+description = "Release Note"
+draft = false
+tags = ["webrtc","rtc", "ivrpowers","changelog"]
+title = "VideoRTC.js (API) v3.2.0"
+image = "/postimages/updates/ivrpowers-posts-01.101.jpeg"
+featured = true
++++
+
+# Release Note
+
+We are pleased to announce that our API Framework for Javascript **VideoRTC.js v3.2.0** has been released for suitable for Web Developments and Mobile SDK . All users with previous maintained versions can upgrade today. Please contact our support!
+
+# ChangeLog
+
+Version 3.2.0:
+
+```bash
+## [3.2.0] - 2019-11-28
+### Added
+- Added new events on the Videocall and SPLIT modules
+ to detect slow links with the remote video
+```
+
+---
+[Interactive Powers](http://www.ivrpowers.com/) - Streamline your business communications
+
