@@ -6,10 +6,21 @@
     <description>Recent content in Updates on Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 21 Oct 2019 12:00:00 +0200</lastBuildDate>
+    <lastBuildDate>Sun, 01 Dec 2019 12:00:00 +0200</lastBuildDate>
     
 	<atom:link href="http://blog.ivrpowers.com/categories/updates/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>VideoRTC.js (API) v3.2.0</title>
+      <link>http://blog.ivrpowers.com/post/updates/update-video-rtc-js-3.2.0/</link>
+      <pubDate>Sun, 01 Dec 2019 12:00:00 +0200</pubDate>
+      
+      <guid>http://blog.ivrpowers.com/post/updates/update-video-rtc-js-3.2.0/</guid>
+      <description>Release Note We are pleased to announce that our API Framework for Javascript VideoRTC.js v3.2.0 has been released for suitable for Web Developments and Mobile SDK . All users with previous maintained versions can upgrade today. Please contact our support!
+ChangeLog Version 3.2.0:
+## [3.2.0] - 2019-11-28 ### Added - Added new events on the Videocall and SPLIT modules to detect slow links with the remote video  Interactive Powers - Streamline your business communications</description>
+    </item>
     
     <item>
       <title>Video RTC (WebRTC) v4.1.0</title>
