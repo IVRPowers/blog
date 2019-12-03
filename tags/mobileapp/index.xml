@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Mobileapp on Blog</title>
-    <link>http://blog.ivrpowers.com/tags/mobileapp/</link>
+    <link>https://blog.ivrpowers.com/tags/mobileapp/</link>
     <description>Recent content in Mobileapp on Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 16 Jan 2018 21:00:00 +0100</lastBuildDate>
     
-	<atom:link href="http://blog.ivrpowers.com/tags/mobileapp/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://blog.ivrpowers.com/tags/mobileapp/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Five Steps to quickly make your own Videocalling application with VideoRTC.js (WebRTC)</title>
-      <link>http://blog.ivrpowers.com/post/coding/five-steps-build-mobile-application/</link>
+      <link>https://blog.ivrpowers.com/post/coding/five-steps-build-mobile-application/</link>
       <pubDate>Tue, 16 Jan 2018 21:00:00 +0100</pubDate>
       
-      <guid>http://blog.ivrpowers.com/post/coding/five-steps-build-mobile-application/</guid>
+      <guid>https://blog.ivrpowers.com/post/coding/five-steps-build-mobile-application/</guid>
       <description>Photo Source: Interactive Powers, Pexels. Creative Commons Users have asked us about our post on how to build a video call service in your mobile by using the Ionic Framework 2 and VideoRTC.js.
 In this new release we offer you a more detailed explanation of the steps to take, so that you can successfully build your mobile video application.
 Introduction. From the moment you established a VideoRTC interaction, by connecting with the video gateway, until the call is finished, library’s range of events are executed.</description>
@@ -24,10 +24,10 @@ Introduction. From the moment you established a VideoRTC interaction, by connect
     
     <item>
       <title>It&#39;s time for companies to use Web and Mobile RTC Applications</title>
-      <link>http://blog.ivrpowers.com/post/news/linkedin-article6/</link>
+      <link>https://blog.ivrpowers.com/post/news/linkedin-article6/</link>
       <pubDate>Wed, 18 Oct 2017 12:58:21 +0200</pubDate>
       
-      <guid>http://blog.ivrpowers.com/post/news/linkedin-article6/</guid>
+      <guid>https://blog.ivrpowers.com/post/news/linkedin-article6/</guid>
       <description>Photo Source: Pixabay. Creative Commons Ivan Sixto Founder, CEO, Business Development
 Follow me on Linkedin
 Telephone bills with voice call minutes have been reduced or even disappeared both at home and in businesses. We communicate at work writing emails, tweets, posts, notifying by Skype, Google Hangout, LinkedIn or Facebook, and get in touch with our friends via Whatsapp or Snapchat, sharing multimedia content in real time. Phone calls are no longer a relevant channel in our personal communications.</description>
@@ -35,10 +35,10 @@ Telephone bills with voice call minutes have been reduced or even disappeared bo
     
     <item>
       <title>How to Build a Mobile Video Application (WebRTC)</title>
-      <link>http://blog.ivrpowers.com/post/coding/videortc-build-mobile-app/</link>
+      <link>https://blog.ivrpowers.com/post/coding/videortc-build-mobile-app/</link>
       <pubDate>Mon, 11 Sep 2017 10:45:24 +0200</pubDate>
       
-      <guid>http://blog.ivrpowers.com/post/coding/videortc-build-mobile-app/</guid>
+      <guid>https://blog.ivrpowers.com/post/coding/videortc-build-mobile-app/</guid>
       <description>Photo Source: Interactive Powers, Pexels. Creative Commons In this post we will show you how to build a video call service in your mobile by using the Ionic Framework 2 and VideoRTC.js.
 Step 1: Setting up the basic structure Firstly, you need to install an Ionic project in your system. If you don’t have it, you can download and follow the official guide from the Ionic Framework 2 web site.</description>
     </item>

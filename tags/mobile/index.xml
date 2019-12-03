@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Mobile on Blog</title>
-    <link>http://blog.ivrpowers.com/tags/mobile/</link>
+    <link>https://blog.ivrpowers.com/tags/mobile/</link>
     <description>Recent content in Mobile on Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 20 Nov 2017 18:01:23 +0100</lastBuildDate>
     
-	<atom:link href="http://blog.ivrpowers.com/tags/mobile/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://blog.ivrpowers.com/tags/mobile/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Video Real-Time Communications Endpoints</title>
-      <link>http://blog.ivrpowers.com/post/general/videortc-endpoints/</link>
+      <link>https://blog.ivrpowers.com/post/general/videortc-endpoints/</link>
       <pubDate>Mon, 20 Nov 2017 18:01:23 +0100</pubDate>
       
-      <guid>http://blog.ivrpowers.com/post/general/videortc-endpoints/</guid>
+      <guid>https://blog.ivrpowers.com/post/general/videortc-endpoints/</guid>
       <description>Photo source: Interactive Powers Real-Time communication technology represents a qualitative leap in any communication process. One of the most outstanding advantages is VideoRTC. But what platforms can we use to benefit from this innovative technology? Web browsers, mobile devices and interactive kiosks are the main endpoints from which to interact in real time.
 Web Browsers. Browsers are still the most important terminals from which to access the Internet when it comes to everyday work.</description>
     </item>

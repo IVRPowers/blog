@@ -2,145 +2,145 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Custexp on Blog</title>
-    <link>http://blog.ivrpowers.com/tags/custexp/</link>
+    <link>https://blog.ivrpowers.com/tags/custexp/</link>
     <description>Recent content in Custexp on Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 06 Oct 2019 20:00:00 +0200</lastBuildDate>
     
-	<atom:link href="http://blog.ivrpowers.com/tags/custexp/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://blog.ivrpowers.com/tags/custexp/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Don&#39;t forget to train your Voicebot</title>
-      <link>http://blog.ivrpowers.com/post/customerengagement/voicebot-training/</link>
+      <link>https://blog.ivrpowers.com/post/customerengagement/voicebot-training/</link>
       <pubDate>Sun, 06 Oct 2019 20:00:00 +0200</pubDate>
       
-      <guid>http://blog.ivrpowers.com/post/customerengagement/voicebot-training/</guid>
+      <guid>https://blog.ivrpowers.com/post/customerengagement/voicebot-training/</guid>
       <description>Photo source: Unsplash. Creative Commons Like any human performance, your AI powered system requires to be properly trained. Training is the most important thing to consider to make your Voicebot IVR smart enough when it goes in production. Many projects forgot to review continuously learning rules, intents and transactions logs.
 When a Voicebot or conversational agent does not understand you, it is because, in reality, he does not have been properly trained.</description>
     </item>
     
     <item>
       <title>Video RTC · Escalating</title>
-      <link>http://blog.ivrpowers.com/post/customerengagement/videortc-escalating/</link>
+      <link>https://blog.ivrpowers.com/post/customerengagement/videortc-escalating/</link>
       <pubDate>Tue, 19 Mar 2019 20:00:00 +0100</pubDate>
       
-      <guid>http://blog.ivrpowers.com/post/customerengagement/videortc-escalating/</guid>
+      <guid>https://blog.ivrpowers.com/post/customerengagement/videortc-escalating/</guid>
       <description>Photo source: Unsplash Creative Commons Lastest 4.0 developments of RTC technology gives now companies the possibility to offer their customers a wide variety of channels and tools to contact them. Voice, Chat, Messaging, Video, Documents and Shared Screen, Instant Photos&amp;hellip; but, how can all these services improve your customer&amp;rsquo;s experience with your business?
 Escalating Communications: Text, Voice &amp;amp; Video. In many websites it is already possible to access advanced services in real time, such as chat or video.</description>
     </item>
     
     <item>
       <title>Web Chat vs Live Chat</title>
-      <link>http://blog.ivrpowers.com/post/marketing/web-chat-vs-live-chat/</link>
+      <link>https://blog.ivrpowers.com/post/marketing/web-chat-vs-live-chat/</link>
       <pubDate>Tue, 18 Dec 2018 18:00:00 +0200</pubDate>
       
-      <guid>http://blog.ivrpowers.com/post/marketing/web-chat-vs-live-chat/</guid>
+      <guid>https://blog.ivrpowers.com/post/marketing/web-chat-vs-live-chat/</guid>
       <description>Photo source: Pixabay. Creative Commons What are the difference about these two chat modalities, and considerations to have during a text typed business communication? Most existing Contact Centers have added a Chat Channel to connect their agents with online connected users without the help of a phone. Today, It’s really important to understand properly what is the best way to use any Chat modality in order to avoid an integration nightmare in the future or less integration reworks for your business processes.</description>
     </item>
     
     <item>
       <title>What about your Chat channel automation, extension and integration?</title>
-      <link>http://blog.ivrpowers.com/post/marketing/chat-channel-automation-extension-integration/</link>
+      <link>https://blog.ivrpowers.com/post/marketing/chat-channel-automation-extension-integration/</link>
       <pubDate>Mon, 17 Dec 2018 18:00:00 +0200</pubDate>
       
-      <guid>http://blog.ivrpowers.com/post/marketing/chat-channel-automation-extension-integration/</guid>
+      <guid>https://blog.ivrpowers.com/post/marketing/chat-channel-automation-extension-integration/</guid>
       <description>Photo source: Pixabay. Creative Commons Existing business chat features have to be properly automated, connected and extended to provide a right value for any business application. It’s not just only a question of adding another channel, chat is a really poor conversation modality for humans. Of course, it provide very interesting advantages, because of its simplicity, quick adoption and low bandwidth requirements but it steel being a limited communication feature in a continuous evolution of online customers or consumers requirements.</description>
     </item>
     
     <item>
       <title>Contact Centers and Customer Experience in 2018</title>
-      <link>http://blog.ivrpowers.com/post/trends/2018-customer-experience/</link>
+      <link>https://blog.ivrpowers.com/post/trends/2018-customer-experience/</link>
       <pubDate>Mon, 15 Jan 2018 20:23:11 +0100</pubDate>
       
-      <guid>http://blog.ivrpowers.com/post/trends/2018-customer-experience/</guid>
+      <guid>https://blog.ivrpowers.com/post/trends/2018-customer-experience/</guid>
       <description>Photo Source: Pexels. Creative Commons Companies must recognize CX as a key competitive differentiator and make sweeping changes in Channels to keep up this year. In the last years, digital technologies have changed the way we work and relate to each other. These changes have also impacted on customers’ expectations. Clients increasingly demand a more personalized, accessible and comfortable attention.
 Daily Business Communications. Clients expect from companies the possibility of contacting them through the same variety of channels they use in their everyday life communications.</description>
     </item>
     
     <item>
       <title>AI in the Contact Center</title>
-      <link>http://blog.ivrpowers.com/post/trends/ai-contact-center/</link>
+      <link>https://blog.ivrpowers.com/post/trends/ai-contact-center/</link>
       <pubDate>Tue, 02 Jan 2018 21:00:00 +0100</pubDate>
       
-      <guid>http://blog.ivrpowers.com/post/trends/ai-contact-center/</guid>
+      <guid>https://blog.ivrpowers.com/post/trends/ai-contact-center/</guid>
       <description>Photo source: Pixabay. Creative Commons. By 2030, AI solutions will surpass the services provided by agents. Just a few years ago, talking about Artificial Intelligence (AI) meant talking about a futuristic scenario. Today, AI is everywhere and, directly or indirectly, we are starting to use it almost every day. The rapid evolution of AI allows it to be increasingly applied to more sophisticated processes which require a high precision like customer services.</description>
     </item>
     
     <item>
       <title>Is it Possible to Enhance In-store Experiences?</title>
-      <link>http://blog.ivrpowers.com/post/customerengagement/kiosk-custexp/</link>
+      <link>https://blog.ivrpowers.com/post/customerengagement/kiosk-custexp/</link>
       <pubDate>Tue, 12 Dec 2017 12:08:43 +0200</pubDate>
       
-      <guid>http://blog.ivrpowers.com/post/customerengagement/kiosk-custexp/</guid>
+      <guid>https://blog.ivrpowers.com/post/customerengagement/kiosk-custexp/</guid>
       <description>Photo source: Kazuhisa OTSUBO. Creative Commons WebRTC is a transformative technology. It means a shift in the way we think about communications. WebRTC makes it possible a real-time engagement by integrating voice, video, data, messaging and more. Applications of WebRTC are endless and they can play a major role in the way businesses operate.
 The in-store customer experience In-store experiences are not always perceived by clients as satisfactory ones.</description>
     </item>
     
     <item>
       <title>79% of Consumers Want the Opportunity to Contact Businesses Online</title>
-      <link>http://blog.ivrpowers.com/post/trends/enghouse-business-online/</link>
+      <link>https://blog.ivrpowers.com/post/trends/enghouse-business-online/</link>
       <pubDate>Fri, 01 Dec 2017 09:03:53 +0100</pubDate>
       
-      <guid>http://blog.ivrpowers.com/post/trends/enghouse-business-online/</guid>
+      <guid>https://blog.ivrpowers.com/post/trends/enghouse-business-online/</guid>
       <description>Photo Source: Interactive Powers, Pexels. Creative Commons In a recent Enghouse Interactive survey, customers have made it clear that they want online communication channels with companies. 79% of consumers believe that businesses should provide a way for customers to contact them online.
 It is also interesting to compare this figure with the responses to the very same question in previous years&amp;rsquo; surveys. In 2014, only 29% of respondents answered that the possibility to contact a company online was relevant.</description>
     </item>
     
     <item>
       <title>Three Steps on Escalating Real-Time Communications: Text, Voice and Video</title>
-      <link>http://blog.ivrpowers.com/post/customerengagement/escalating-communications/</link>
+      <link>https://blog.ivrpowers.com/post/customerengagement/escalating-communications/</link>
       <pubDate>Wed, 29 Nov 2017 11:35:05 +0100</pubDate>
       
-      <guid>http://blog.ivrpowers.com/post/customerengagement/escalating-communications/</guid>
+      <guid>https://blog.ivrpowers.com/post/customerengagement/escalating-communications/</guid>
       <description>Photo source: Interactive Powers Current developments of RTC technology gives companies the possibility to offer their customers a wide variety of channels and tools to contact them. Voice, Chat, Messaging, Video, Documents and Shared Screen, Instant Photos&amp;hellip; but, how can all these services and tools be integrated?
 Escalating Real-Time Communications to improve Customer Engagement. In many websites it is already possible to access advanced services in real time, such as chat or video.</description>
     </item>
     
     <item>
       <title>Video Integration in the Contact Center</title>
-      <link>http://blog.ivrpowers.com/post/contactcenter/video-integration/</link>
+      <link>https://blog.ivrpowers.com/post/contactcenter/video-integration/</link>
       <pubDate>Thu, 23 Nov 2017 10:09:51 +0200</pubDate>
       
-      <guid>http://blog.ivrpowers.com/post/contactcenter/video-integration/</guid>
+      <guid>https://blog.ivrpowers.com/post/contactcenter/video-integration/</guid>
       <description>Photo source: Pixabay. Creative Commons The Video Channel is the next level Customer Experience frontier for existing Contact Centers Video is not a separate solution from the services that contact centers have been providing until now and it is not a substitute for voice calls. The key to the Video in Real-time communications lies in the possibility of offering a new channel, whose use is progressively increasing in customer care services for most industries.</description>
     </item>
     
     <item>
       <title>Interactive Kiosks: RTC Technology to Boost your Business</title>
-      <link>http://blog.ivrpowers.com/post/customerengagement/businesses-kiosk-2/</link>
+      <link>https://blog.ivrpowers.com/post/customerengagement/businesses-kiosk-2/</link>
       <pubDate>Fri, 17 Nov 2017 09:14:56 +0100</pubDate>
       
-      <guid>http://blog.ivrpowers.com/post/customerengagement/businesses-kiosk-2/</guid>
+      <guid>https://blog.ivrpowers.com/post/customerengagement/businesses-kiosk-2/</guid>
       <description>Photo source: Mk2010. Creative Commons Video calls are being very well received by users. Minutes dedicated to video calls grow on social networks and more and more companies include this feature. It&amp;rsquo;s just a matter of time before the video becomes a predominant tool in customer services. The video allows to establish communications in a more natural way, with the human touch of the in-person visits and making communications clearer and more efficient.</description>
     </item>
     
     <item>
       <title>The Rise of Public Cloud API Services</title>
-      <link>http://blog.ivrpowers.com/post/trends/cloud-api-trend/</link>
+      <link>https://blog.ivrpowers.com/post/trends/cloud-api-trend/</link>
       <pubDate>Fri, 10 Nov 2017 20:30:18 +0200</pubDate>
       
-      <guid>http://blog.ivrpowers.com/post/trends/cloud-api-trend/</guid>
+      <guid>https://blog.ivrpowers.com/post/trends/cloud-api-trend/</guid>
       <description>Photo Source: Interactive Powers The public cloud computing market is raising earnings for Internet&amp;rsquo;s giants Google, Amazon, Microsoft&amp;hellip; One of the major trend that is working behind the scenes and driving many of the most successful businesses these past few years is: Cloud Application Programming Interfaces (API). APIs are a technology that allow firms to interact and share information with other firms at an unprecedented scale, taking advantage of the far-reaching progress in digitization and the rising influence of software in our day-to-day lives.</description>
     </item>
     
     <item>
       <title>Which Businesses could benefit more from Interactive Kiosks?</title>
-      <link>http://blog.ivrpowers.com/post/customerengagement/businesses-kiosk/</link>
+      <link>https://blog.ivrpowers.com/post/customerengagement/businesses-kiosk/</link>
       <pubDate>Mon, 30 Oct 2017 12:07:08 +0200</pubDate>
       
-      <guid>http://blog.ivrpowers.com/post/customerengagement/businesses-kiosk/</guid>
+      <guid>https://blog.ivrpowers.com/post/customerengagement/businesses-kiosk/</guid>
       <description>Photo source: Metropolitan Transportation Authority, NY. Creative Commons Interactive Kiosks are changing consumer experience thanks to WebRTC technology. They allow immediate connections between advisers and customers, sharing documents and paying for products or services, among other different applications. Let’s see which businesses can remarkably improve their customer services through Interactive Kiosks:
 Retail Stores. Interactive Kiosks can critically enhance efficiency and customer retention in retail stores. They allow clients to talk to a salesperson immediately in real-time.</description>
     </item>
     
     <item>
       <title>It&#39;s time for companies to use Web and Mobile RTC Applications</title>
-      <link>http://blog.ivrpowers.com/post/news/linkedin-article6/</link>
+      <link>https://blog.ivrpowers.com/post/news/linkedin-article6/</link>
       <pubDate>Wed, 18 Oct 2017 12:58:21 +0200</pubDate>
       
-      <guid>http://blog.ivrpowers.com/post/news/linkedin-article6/</guid>
+      <guid>https://blog.ivrpowers.com/post/news/linkedin-article6/</guid>
       <description>Photo Source: Pixabay. Creative Commons Ivan Sixto Founder, CEO, Business Development
 Follow me on Linkedin
 Telephone bills with voice call minutes have been reduced or even disappeared both at home and in businesses. We communicate at work writing emails, tweets, posts, notifying by Skype, Google Hangout, LinkedIn or Facebook, and get in touch with our friends via Whatsapp or Snapchat, sharing multimedia content in real time. Phone calls are no longer a relevant channel in our personal communications.</description>
@@ -148,20 +148,20 @@ Telephone bills with voice call minutes have been reduced or even disappeared bo
     
     <item>
       <title>4 Key Benefits of Interactive Kiosks</title>
-      <link>http://blog.ivrpowers.com/post/customerengagement/key-benefits-kiosk/</link>
+      <link>https://blog.ivrpowers.com/post/customerengagement/key-benefits-kiosk/</link>
       <pubDate>Tue, 10 Oct 2017 12:16:22 +0200</pubDate>
       
-      <guid>http://blog.ivrpowers.com/post/customerengagement/key-benefits-kiosk/</guid>
+      <guid>https://blog.ivrpowers.com/post/customerengagement/key-benefits-kiosk/</guid>
       <description>Photo source: Interactive Powers WebRTC technology has disrupted traditional communications, but we have barely experienced its potential yet. One of the most relevant applications is going to take place at points of sale. Thanks to the latest breakthroughs in video technology, customer experience can be dramatically enhanced. Let’s see the main benefits of an Interactive Kiosk:
 Immediate Real-Time Communications. Kiosks enable a personalized and immediate communication between an expert or a salesperson and a customer.</description>
     </item>
     
     <item>
       <title>Digital Transformation: Doors of Opportunity for Contact Centers</title>
-      <link>http://blog.ivrpowers.com/post/news/linkedin-article4/</link>
+      <link>https://blog.ivrpowers.com/post/news/linkedin-article4/</link>
       <pubDate>Fri, 29 Sep 2017 13:02:33 +0200</pubDate>
       
-      <guid>http://blog.ivrpowers.com/post/news/linkedin-article4/</guid>
+      <guid>https://blog.ivrpowers.com/post/news/linkedin-article4/</guid>
       <description>Photo Source: Interactive Powers Ivan Sixto Founder, CEO, Business Development
 Follow me on Linkedin
 All interactions cannot be managed by bots, since users, when facing with certain problems, need to contact a real agent. If consumer is not allowed to communicate with a person, it leads to frustration and the relation client-company is seriously damaged. At this point, video offers contact centers the possibility of developing a very differential customer experience management.</description>
@@ -169,19 +169,19 @@ All interactions cannot be managed by bots, since users, when facing with certai
     
     <item>
       <title>What is a Kiosk?</title>
-      <link>http://blog.ivrpowers.com/post/technologies/what-is-kiosk/</link>
+      <link>https://blog.ivrpowers.com/post/technologies/what-is-kiosk/</link>
       <pubDate>Thu, 28 Sep 2017 11:05:38 +0200</pubDate>
       
-      <guid>http://blog.ivrpowers.com/post/technologies/what-is-kiosk/</guid>
+      <guid>https://blog.ivrpowers.com/post/technologies/what-is-kiosk/</guid>
       <description>Image source: Mattes. Creative Commons An interactive kiosk is a computer terminal that is placed in a public setting. The aim of a kiosk is to provide information to customers and users. They have an integrated touch screen, usually with a user-friendly interface to facilitate interactions. Thanks to computing technology it is possible to offer a wide range of functions and applications, from brand information, to product catalogues or real-time interactions with sales consultants.</description>
     </item>
     
     <item>
       <title>Video is Transforming Contact Centers</title>
-      <link>http://blog.ivrpowers.com/post/news/linkedin-article3/</link>
+      <link>https://blog.ivrpowers.com/post/news/linkedin-article3/</link>
       <pubDate>Wed, 27 Sep 2017 12:04:26 +0200</pubDate>
       
-      <guid>http://blog.ivrpowers.com/post/news/linkedin-article3/</guid>
+      <guid>https://blog.ivrpowers.com/post/news/linkedin-article3/</guid>
       <description>Photo Source: Shutterstock licensed to Interactive Powers Ivan Sixto Founder, CEO, Business Development
 Follow me on Linkedin
 Companies must understand that the processes of digital transformation driven by society are inevitable. In the last years, the improvement of customer support services accelerates the pace of adaptation to digital processes. The reason is the good results obtained by companies that have already integrated advanced digital tools, based, for instance, on WebRTC technology for real-time communication via the web or mobile applications.</description>
@@ -189,163 +189,163 @@ Companies must understand that the processes of digital transformation driven by
     
     <item>
       <title>Does VideoRTC fit in my Contact Center?</title>
-      <link>http://blog.ivrpowers.com/post/contactcenter/contact-center-videortc/</link>
+      <link>https://blog.ivrpowers.com/post/contactcenter/contact-center-videortc/</link>
       <pubDate>Tue, 19 Sep 2017 12:36:01 +0200</pubDate>
       
-      <guid>http://blog.ivrpowers.com/post/contactcenter/contact-center-videortc/</guid>
+      <guid>https://blog.ivrpowers.com/post/contactcenter/contact-center-videortc/</guid>
       <description>Photo Source: Pexels. Creative Commons Call Centers have to upgrade their services to the next level implementing new advanced interactions The ever-growing digital world can give new opportunities for existing contact centers to provide a superior customer experience. Nowadays new technologies drive clients to ask for multiple options when looking for support. It is here where VideoRTC can help your contact center to enhance its services.
 Save time providing the right channel.</description>
     </item>
     
     <item>
       <title>Technavio: IVR market, will see a growth of around 13% between this year, and 2021</title>
-      <link>http://blog.ivrpowers.com/post/trends/technavio-trend/</link>
+      <link>https://blog.ivrpowers.com/post/trends/technavio-trend/</link>
       <pubDate>Thu, 07 Sep 2017 22:00:00 +0200</pubDate>
       
-      <guid>http://blog.ivrpowers.com/post/trends/technavio-trend/</guid>
+      <guid>https://blog.ivrpowers.com/post/trends/technavio-trend/</guid>
       <description>Photo Source: Interactive Powers, Pexels. Creative Commons The Interactive Voice Response (IVR) market is growing, but what’s driving that growth? Market research analysts from Technavio suggest that the IVR, or Interactive Voice Response market, will see a growth of around 13% between this year, and 2021. For those who are new to the industry, IVR systems are the solutions that give companies a stronger way of engaging their customers through various customer service solutions.</description>
     </item>
     
     <item>
       <title>Gartner: 20 percent of Global Businesses will deploy Video Chat for Customer Engagement</title>
-      <link>http://blog.ivrpowers.com/post/trends/gartner-trend/</link>
+      <link>https://blog.ivrpowers.com/post/trends/gartner-trend/</link>
       <pubDate>Thu, 31 Aug 2017 10:30:18 +0200</pubDate>
       
-      <guid>http://blog.ivrpowers.com/post/trends/gartner-trend/</guid>
+      <guid>https://blog.ivrpowers.com/post/trends/gartner-trend/</guid>
       <description>Photo Source: Interactive Powers, Pexels. Creative Commons By 2018, more than 100 out of the 500 largest Global Businesses will implement Video Chat. Time is the new currency for your customers who are looking for painless and informed solutions to their issues. We are also starting, growing and running companies in an &amp;ldquo;attention economy,&amp;rdquo; which is defined by the view that human attention is a scarce commodity. By 2018, according to research from Gartner, more than 100 out of the 500 largest global businesses will have implemented video chat.</description>
     </item>
     
     <item>
       <title>Dimension Data: Contact Centers expect to deploy Video Chat for Customer Engagement</title>
-      <link>http://blog.ivrpowers.com/post/trends/dimensiondata-trend/</link>
+      <link>https://blog.ivrpowers.com/post/trends/dimensiondata-trend/</link>
       <pubDate>Fri, 25 Aug 2017 11:30:18 +0200</pubDate>
       
-      <guid>http://blog.ivrpowers.com/post/trends/dimensiondata-trend/</guid>
+      <guid>https://blog.ivrpowers.com/post/trends/dimensiondata-trend/</guid>
       <description>Photo Source: Interactive Powers, Creative Commons Nearly one-third of Contact Centers expect to deploy Video Chat to improve Customer Engagement According to a research from Dimension Data, nearly one-third of contact centers expect to deploy video chat for customer engagement. The research says that giving customers the additional option to remotely connect face-to-face, at moments that are important to them (and on their terms), can make their customer experience even more powerful.</description>
     </item>
     
     <item>
       <title>How to introduce New Channels into a Contact Center</title>
-      <link>http://blog.ivrpowers.com/post/contactcenter/how-to-introduce-new-channels-contact-center/</link>
+      <link>https://blog.ivrpowers.com/post/contactcenter/how-to-introduce-new-channels-contact-center/</link>
       <pubDate>Tue, 22 Aug 2017 09:00:00 +0200</pubDate>
       
-      <guid>http://blog.ivrpowers.com/post/contactcenter/how-to-introduce-new-channels-contact-center/</guid>
+      <guid>https://blog.ivrpowers.com/post/contactcenter/how-to-introduce-new-channels-contact-center/</guid>
       <description>Photo source: Interactive Powers Last years, we have implemented several New Channels projects based on Video RTC to existing Contact Centers. At times, it was the result of Innovation, but most often it was to enhance the Customer Experience and your services according to a new Market demand. After all, any Contact Center should interact with the customer anywhere they are! Phone, Email, and Chat are making way for emerging channels such as Social media, Video, Text, Mobile apps and IVR self services.</description>
     </item>
     
     <item>
       <title>Improving the Contact Center with WebRTC</title>
-      <link>http://blog.ivrpowers.com/post/contactcenter/webrtc-for-contact-center/</link>
+      <link>https://blog.ivrpowers.com/post/contactcenter/webrtc-for-contact-center/</link>
       <pubDate>Mon, 21 Aug 2017 13:30:40 +0200</pubDate>
       
-      <guid>http://blog.ivrpowers.com/post/contactcenter/webrtc-for-contact-center/</guid>
+      <guid>https://blog.ivrpowers.com/post/contactcenter/webrtc-for-contact-center/</guid>
       <description>Photo Source: Interactive Powers, Pexels. Creative Commons The way people access customer service is changing. If existing they want to survive in a highly competitive digital market, Contact Centers must adapt properly their services and make a continuious effort to provide greater customer experiences.
 Poor Customer Services Practices Today, Contact Centers cannot always provide the best customer service only over the phone channel. Clients who call in for specific support are usually kept on hold for long periods of time – considering that call centers numbers are not always included in phone price plans – they have to repeat information or if they write an email or if they interact on a web content they never receive an answer in real-time.</description>
     </item>
     
     <item>
       <title>Let&#39;s E-commerce become a Better Customer Experience</title>
-      <link>http://blog.ivrpowers.com/post/support/e-commerce-customer-experience/</link>
+      <link>https://blog.ivrpowers.com/post/support/e-commerce-customer-experience/</link>
       <pubDate>Wed, 16 Aug 2017 12:14:46 +0200</pubDate>
       
-      <guid>http://blog.ivrpowers.com/post/support/e-commerce-customer-experience/</guid>
+      <guid>https://blog.ivrpowers.com/post/support/e-commerce-customer-experience/</guid>
       <description>Photo Source: Pexels. Creative Commons Latest Video Real-Time Communications can be decisive to improve e-commerce services. First of all, because they are becoming very accessible and easy to use through web browsers or most of mobile devices. Plugin downloads are no longer required, you just click and your are connected. Secondly, remember that creating a live interaction with your customers like a live chat or video call channels is a proven way to increase your sales.</description>
     </item>
     
     <item>
       <title>Live Video Calling: The New Eye Witness for Insurance Companies</title>
-      <link>http://blog.ivrpowers.com/post/support/live-video-calling-insurance/</link>
+      <link>https://blog.ivrpowers.com/post/support/live-video-calling-insurance/</link>
       <pubDate>Thu, 03 Aug 2017 13:49:40 +0200</pubDate>
       
-      <guid>http://blog.ivrpowers.com/post/support/live-video-calling-insurance/</guid>
+      <guid>https://blog.ivrpowers.com/post/support/live-video-calling-insurance/</guid>
       <description>Photo source: Pexels. Creative Commons The popularity of Live Video Calling is increasing quickly in the view of the fact that it can help to provide a better customer service and reduce costs. One of the most growing sectors in applying live video is insurance businesses.
 Access to convenience. Customers expect to use the more convenient channel at every moment. Thanks to new technologies like WebRTC it is not necessary to make a prior appointment and move to a real office.</description>
     </item>
     
     <item>
       <title>IVR plays a Key Role for an Effective Omnichannel Strategy</title>
-      <link>http://blog.ivrpowers.com/post/contactcenter/ivr-role-omnichannel/</link>
+      <link>https://blog.ivrpowers.com/post/contactcenter/ivr-role-omnichannel/</link>
       <pubDate>Mon, 31 Jul 2017 12:29:40 +0200</pubDate>
       
-      <guid>http://blog.ivrpowers.com/post/contactcenter/ivr-role-omnichannel/</guid>
+      <guid>https://blog.ivrpowers.com/post/contactcenter/ivr-role-omnichannel/</guid>
       <description>Photo source: Pexels. Creative Commons Customer experience is the current battleground for differentiation. In order to stay relevant and even survive in an increasingly competitive market, contact centers must think different and deploy more advanced communication solutions. The primary path for improving customer experience is enhancing time response and quality of service. Customers expect companies to resolve issues easily and quickly and there is a lot to lose in a disappointing customer expectations.</description>
     </item>
     
     <item>
       <title>5 Trends Impacting Customer Experience</title>
-      <link>http://blog.ivrpowers.com/post/trends/5-trends-customer-experience/</link>
+      <link>https://blog.ivrpowers.com/post/trends/5-trends-customer-experience/</link>
       <pubDate>Mon, 24 Jul 2017 12:30:37 +0200</pubDate>
       
-      <guid>http://blog.ivrpowers.com/post/trends/5-trends-customer-experience/</guid>
+      <guid>https://blog.ivrpowers.com/post/trends/5-trends-customer-experience/</guid>
       <description>Photo source: Pexels. Creative Commons Customer experience is more important than ever. While brands that focus on getting an excellent service are immediately rewarded, a poor customer service highly damages companies: disloyalty, bad image and loss of money are some of the serious consequences. Because of it, according to Forrester, 72% of businesses say improving customer experience is their top priority
 Some challenges present an opportunity to add strategic value to your business.</description>
     </item>
     
     <item>
       <title>The Secret is the Emotion</title>
-      <link>http://blog.ivrpowers.com/post/customerengagement/secret-emotion/</link>
+      <link>https://blog.ivrpowers.com/post/customerengagement/secret-emotion/</link>
       <pubDate>Wed, 19 Jul 2017 13:10:11 +0200</pubDate>
       
-      <guid>http://blog.ivrpowers.com/post/customerengagement/secret-emotion/</guid>
+      <guid>https://blog.ivrpowers.com/post/customerengagement/secret-emotion/</guid>
       <description>Photo source: Pexels. Creative Commons New technologies make it possible than ever to resolve problems on multiple channels. And because of new digital behaviors, users also expect a better customer experience: faster and easier. Therefore, companies need to ensure a differentiated customer service that keeps clients satisfied.
 Selfservice is not the answer to all situations Digital services, such as IVR, are a good supplement and, if company employs efficient technology, customers enjoy self-service.</description>
     </item>
     
     <item>
       <title>Contact Centers: Digital Transformation, is not an Option</title>
-      <link>http://blog.ivrpowers.com/post/contactcenter/contact-centers-digital-transformation/</link>
+      <link>https://blog.ivrpowers.com/post/contactcenter/contact-centers-digital-transformation/</link>
       <pubDate>Thu, 13 Jul 2017 10:34:40 +0200</pubDate>
       
-      <guid>http://blog.ivrpowers.com/post/contactcenter/contact-centers-digital-transformation/</guid>
+      <guid>https://blog.ivrpowers.com/post/contactcenter/contact-centers-digital-transformation/</guid>
       <description>Photo source: Unplash. Creative Commons We know the way people communicate has changed, and therefore, the way customers want to communicate with organizations is also changing. Technology becomes more important to our day to day living. For instance, the phone is the most used platform but customers expect to engage with companies across multiple channels.
 Phone usage is changing According to Dimension Data’s “2016 global contact center benchmarking report”, digital interactions account for over 42% of all interactions.</description>
     </item>
     
     <item>
       <title>Time is Money on Customer Experience</title>
-      <link>http://blog.ivrpowers.com/post/customerengagement/time-is-money/</link>
+      <link>https://blog.ivrpowers.com/post/customerengagement/time-is-money/</link>
       <pubDate>Wed, 12 Jul 2017 12:04:07 +0200</pubDate>
       
-      <guid>http://blog.ivrpowers.com/post/customerengagement/time-is-money/</guid>
+      <guid>https://blog.ivrpowers.com/post/customerengagement/time-is-money/</guid>
       <description>Photo source: Unplash. Creative Commons Customer expectations are growing every day and two of the key factors are time and effort. Customers can be frustrated if they need to spend a lot of time resolving an issue or jumping hoops to do it. They hate being transferred and feel tired of repeating themselves. Difficult or high effort experiences make the customer feel exhausted and are the main cause of disloyalty.</description>
     </item>
     
     <item>
       <title>Contact Centers should Know Video is Here to Stay</title>
-      <link>http://blog.ivrpowers.com/post/trends/video-call-centers/</link>
+      <link>https://blog.ivrpowers.com/post/trends/video-call-centers/</link>
       <pubDate>Fri, 07 Jul 2017 16:15:59 +0200</pubDate>
       
-      <guid>http://blog.ivrpowers.com/post/trends/video-call-centers/</guid>
+      <guid>https://blog.ivrpowers.com/post/trends/video-call-centers/</guid>
       <description>Photo source: Pexels. Creative Commons Video in Real-Time Communication (RTC) is changing the image of the customer service industry. The success of pioneers who provide video chat customer service marked the dawning of a new era, because offering a good customer service is a key part for any business success.
 Humanifying Customer Care But despite the good results, video has not been widely adopted in contact centers. Maybe it’s time for the industry to consider how the use of video can enhance the effectiveness of customer services and solve some of the big issues of contact centers.</description>
     </item>
     
     <item>
       <title>The Age of the Customer in Contact Centers</title>
-      <link>http://blog.ivrpowers.com/post/customerengagement/age-of-consumer/</link>
+      <link>https://blog.ivrpowers.com/post/customerengagement/age-of-consumer/</link>
       <pubDate>Thu, 06 Jul 2017 14:08:06 +0200</pubDate>
       
-      <guid>http://blog.ivrpowers.com/post/customerengagement/age-of-consumer/</guid>
+      <guid>https://blog.ivrpowers.com/post/customerengagement/age-of-consumer/</guid>
       <description>Surveys say customers highly value great customer experiences. But companies should take into account that customer expectations are rising. A shift is taking place. The explosion of digital and technological innovations is having a profound impact on Customer Empowerment. Therefore, the need for a great Customer Experience is higher than ever.
 Many companies are worried when customer satisfaction with Contact Centers declines. And they are right, Contact Centers are directly responsible for maintaining the company’s image.</description>
     </item>
     
     <item>
       <title>New Approaches on Ecommerce Customer Service</title>
-      <link>http://blog.ivrpowers.com/post/marketing/new-approaches-ecommerce-customer-service/</link>
+      <link>https://blog.ivrpowers.com/post/marketing/new-approaches-ecommerce-customer-service/</link>
       <pubDate>Tue, 20 Jun 2017 12:46:41 +0200</pubDate>
       
-      <guid>http://blog.ivrpowers.com/post/marketing/new-approaches-ecommerce-customer-service/</guid>
+      <guid>https://blog.ivrpowers.com/post/marketing/new-approaches-ecommerce-customer-service/</guid>
       <description>Photo source: Unsplash. Creative Commons Exceptional customer service is critical in e-commerce. Surveys show that customer experience highly affect purchases. 70% of buying experiences are based on how the customers feel they are being treated. The impact is so high that 91% of unhappy customers will not willingly do business with the company again.
 Feedback and Personalization. Customers appreciate a good service, which is an essential part of ecommerce businesses.</description>
     </item>
     
     <item>
       <title>Amazon&#39;s Mayday Button. The Road to the Future</title>
-      <link>http://blog.ivrpowers.com/post/support/amazon-mayday-button/</link>
+      <link>https://blog.ivrpowers.com/post/support/amazon-mayday-button/</link>
       <pubDate>Fri, 16 Jun 2017 10:42:26 +0200</pubDate>
       
-      <guid>http://blog.ivrpowers.com/post/support/amazon-mayday-button/</guid>
+      <guid>https://blog.ivrpowers.com/post/support/amazon-mayday-button/</guid>
       <description>Five years ago, Amazon launched the Mayday button to its line of Kindle Fire tablets. It provides on-device tech support all day, every day. Just by tapping the Mayday button the Kindle user is put in direct contact with an Amazon technician.
 In less than six months, the feature became the most popular way for Kindle customers to contact Amazon’s customer service. What are the ingredients for success?
 First of all, it gives customers the option of reaching out to a real person.</description>
@@ -353,10 +353,10 @@ First of all, it gives customers the option of reaching out to a real person.</d
     
     <item>
       <title>Is Video Chat a good Strategy for my Business?</title>
-      <link>http://blog.ivrpowers.com/post/marketing/video-chat-good-strategy-business/</link>
+      <link>https://blog.ivrpowers.com/post/marketing/video-chat-good-strategy-business/</link>
       <pubDate>Thu, 15 Jun 2017 13:49:56 +0200</pubDate>
       
-      <guid>http://blog.ivrpowers.com/post/marketing/video-chat-good-strategy-business/</guid>
+      <guid>https://blog.ivrpowers.com/post/marketing/video-chat-good-strategy-business/</guid>
       <description>Photo source: Pixabay. Creative Commons More than ever businesses need to pay attention to customer experience and provide them with quality support. In addition to phone, email and self-service, Live Communications are an excellent tool to improve customer satisfaction. Video Chat makes available an efficient and immediate support. And it is a cost-saving option to companies that provide personalized services.
 Some Benefits of a Video Chat are:
 Seeing is believing.</description>

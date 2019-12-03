@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tco on Blog</title>
-    <link>http://blog.ivrpowers.com/tags/tco/</link>
+    <link>https://blog.ivrpowers.com/tags/tco/</link>
     <description>Recent content in Tco on Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 31 Oct 2018 22:00:00 +0100</lastBuildDate>
     
-	<atom:link href="http://blog.ivrpowers.com/tags/tco/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://blog.ivrpowers.com/tags/tco/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Total Cost of Ownership</title>
-      <link>http://blog.ivrpowers.com/post/trends/total-cost-of-ownership/</link>
+      <link>https://blog.ivrpowers.com/post/trends/total-cost-of-ownership/</link>
       <pubDate>Wed, 31 Oct 2018 22:00:00 +0100</pubDate>
       
-      <guid>http://blog.ivrpowers.com/post/trends/total-cost-of-ownership/</guid>
+      <guid>https://blog.ivrpowers.com/post/trends/total-cost-of-ownership/</guid>
       <description>Photo source: Unsplash Creative Commons. TCO is particularly important when you’re deploying Video RTC solutions, and it allows companies to gain substantial cost advantages in implementation, training, maintenance, and system management. Most analysts agree that on-premises will cost you less up front. You pay a one-time license fee, along with a maintenance subscription covering things like vendor support. These are far cheaper than the cost of your cloud subscription over time.</description>
     </item>
     

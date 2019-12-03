@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Exevi on Blog</title>
-    <link>http://blog.ivrpowers.com/tags/exevi/</link>
+    <link>https://blog.ivrpowers.com/tags/exevi/</link>
     <description>Recent content in Exevi on Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 05 Nov 2018 12:00:00 +0100</lastBuildDate>
     
-	<atom:link href="http://blog.ivrpowers.com/tags/exevi/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://blog.ivrpowers.com/tags/exevi/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Thank you, Exevi!</title>
-      <link>http://blog.ivrpowers.com/post/general/thank-itsmf-vision18/</link>
+      <link>https://blog.ivrpowers.com/post/general/thank-itsmf-vision18/</link>
       <pubDate>Mon, 05 Nov 2018 12:00:00 +0100</pubDate>
       
-      <guid>http://blog.ivrpowers.com/post/general/thank-itsmf-vision18/</guid>
+      <guid>https://blog.ivrpowers.com/post/general/thank-itsmf-vision18/</guid>
       <description>Image source: Interactive Powers Interactive Powers attended itSMF VISION18, Conferences, on October 25th, at LA NAVE del Ayuntamiento de Madrid. Iván Sixto, founder of Interactive Powers, talked about Voicebots for OTRS in the presentation entitled “OTRS and Voicebots: First Steps for the IA Automation of the Service Desk”
 We are delighted with the success of the event and the warm welcome of our participation. Interest of the public in Voicebots exceeded all our expectations.</description>
     </item>

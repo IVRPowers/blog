@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Rtmp on Blog</title>
-    <link>http://blog.ivrpowers.com/tags/rtmp/</link>
+    <link>https://blog.ivrpowers.com/tags/rtmp/</link>
     <description>Recent content in Rtmp on Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 29 Jan 2019 16:00:00 +0200</lastBuildDate>
     
-	<atom:link href="http://blog.ivrpowers.com/tags/rtmp/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://blog.ivrpowers.com/tags/rtmp/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Video Gateway: RTMP &amp; WebRTC comparison</title>
-      <link>http://blog.ivrpowers.com/post/technologies/webrtc-vs-rtmp/</link>
+      <link>https://blog.ivrpowers.com/post/technologies/webrtc-vs-rtmp/</link>
       <pubDate>Tue, 29 Jan 2019 16:00:00 +0200</pubDate>
       
-      <guid>http://blog.ivrpowers.com/post/technologies/webrtc-vs-rtmp/</guid>
+      <guid>https://blog.ivrpowers.com/post/technologies/webrtc-vs-rtmp/</guid>
       <description>Image source: Interactive Powers What are the main differences between RTMP and WebRTC gateway models? Currently, Video RTC is our flagship product line for any RTC project&amp;rsquo;s deployments. We have prepared this summary to clarify what are the main features and how to move forward for your business.
 Our Video Gateway connects peers or endpoints between WebRTC, RTMP and SIP technology to create advanced Video services. RTMP is an open protocol for Adobe Flash Player that allows to connect flash compliant browsers.</description>
     </item>
     
     <item>
       <title>Video RTC (RTMP) v1.3</title>
-      <link>http://blog.ivrpowers.com/post/updates/update-video-rtc-rtmp-1.3.0/</link>
+      <link>https://blog.ivrpowers.com/post/updates/update-video-rtc-rtmp-1.3.0/</link>
       <pubDate>Mon, 08 Jan 2018 00:20:05 +0200</pubDate>
       
-      <guid>http://blog.ivrpowers.com/post/updates/update-video-rtc-rtmp-1.3.0/</guid>
+      <guid>https://blog.ivrpowers.com/post/updates/update-video-rtc-rtmp-1.3.0/</guid>
       <description>Release Note We are pleased to announce that our new Video RTC (Gateway RTMP) v1.3.0 has been released for suitable production services. This new version includes a lot of improvements and new features. All users with previous maintained versions can upgrade today. Please contact our support!
 ChangeLog Version 1.3.0:
 ## [1.3.0] - 2018-01-08 ### Added - Favicon in Split Use Case (Webclient and Agent) ### Changed - The default look for the agent webphone is now &#39;agent&#39; - Removed extra HTML code that was in the index.</description>
@@ -34,39 +34,39 @@ ChangeLog Version 1.3.0:
     
     <item>
       <title>Video RTC · Voice Calling</title>
-      <link>http://blog.ivrpowers.com/post/products/video-rtc-voice-calling/</link>
+      <link>https://blog.ivrpowers.com/post/products/video-rtc-voice-calling/</link>
       <pubDate>Mon, 21 Aug 2017 14:00:00 +0200</pubDate>
       
-      <guid>http://blog.ivrpowers.com/post/products/video-rtc-voice-calling/</guid>
+      <guid>https://blog.ivrpowers.com/post/products/video-rtc-voice-calling/</guid>
       <description>Make advanced Voice Call or Web Phone applications for Real-Time Communications. Overview Voice Calling functionality ensures that no one misses out on the full application experience. It helps to provide an effective customer care, offering the option to hear voices in real-time. Voice Calling keeps interactions as easy, simply and fast as possible.
 Voice Calling application makes it easy to create real-time communications (RTC) for your business applications and processes.</description>
     </item>
     
     <item>
       <title>Video RTC · Video Calling</title>
-      <link>http://blog.ivrpowers.com/post/products/video-rtc-video-calling/</link>
+      <link>https://blog.ivrpowers.com/post/products/video-rtc-video-calling/</link>
       <pubDate>Sun, 20 Aug 2017 13:00:00 +0200</pubDate>
       
-      <guid>http://blog.ivrpowers.com/post/products/video-rtc-video-calling/</guid>
+      <guid>https://blog.ivrpowers.com/post/products/video-rtc-video-calling/</guid>
       <description>Create amazing Real-Time Communications with Dual-band Voice and Video capabilities Overview Video Calling functionality provides a simpler way for people to communicate via web. It integrates seamlessly into the workflows and it is easy to manage. Agents or customers can communicate instantly over video without downloading software or installing plugins. It also enables multi-party calls for team collaboration.
 Video Calling application makes it easy to create real-time communications (RTC) for your business applications and processes.</description>
     </item>
     
     <item>
       <title>Web Browser to SIP Calling?</title>
-      <link>http://blog.ivrpowers.com/post/technologies/webrtc-rtmp-to-sip-calling/</link>
+      <link>https://blog.ivrpowers.com/post/technologies/webrtc-rtmp-to-sip-calling/</link>
       <pubDate>Sun, 09 Jul 2017 00:20:05 +0200</pubDate>
       
-      <guid>http://blog.ivrpowers.com/post/technologies/webrtc-rtmp-to-sip-calling/</guid>
+      <guid>https://blog.ivrpowers.com/post/technologies/webrtc-rtmp-to-sip-calling/</guid>
       <description>Image source: Interactive Powers&amp;rsquo; elaboration How can you call a Desk Phone from any Web Browser? Our both Video Gateways (WebRTC | RTMP) can convert web browser media streams (video - audio - data) to SIP from WebRTC or RTMP peers communications. This interesting feature allows to connect easily web services to existing VoIP telephony channels of your IVR or PBX. We can consider all of this approach like a direct calling webphone or like a WebRTC-DDI or RTMP-DDI in a SIP trunk from an operator service configuration.</description>
     </item>
     
     <item>
       <title>What is SPLIT?</title>
-      <link>http://blog.ivrpowers.com/post/technologies/what-is-split/</link>
+      <link>https://blog.ivrpowers.com/post/technologies/what-is-split/</link>
       <pubDate>Wed, 21 Jun 2017 00:20:05 +0200</pubDate>
       
-      <guid>http://blog.ivrpowers.com/post/technologies/what-is-split/</guid>
+      <guid>https://blog.ivrpowers.com/post/technologies/what-is-split/</guid>
       <description>All Video Gateways (WebRTC | RTMP) developed by IVRPowers include a special plugin which allows separate the media streams (video - audio - data) for any communication between users and agents. This development is based on SIP and WebRTC | RTMP peers communications for the integration of voice, video and data in Contact Centers.
 How does SPLIT work? The Audio-Video SPLIT mode works as following:
 A Videocall is initiated by a customer endpoint and comes into the Video Gateway.</description>
@@ -74,10 +74,10 @@ A Videocall is initiated by a customer endpoint and comes into the Video Gateway
     
     <item>
       <title>Video RTC (RTMP) v1.2</title>
-      <link>http://blog.ivrpowers.com/post/updates/update-video-rtc-rtmp-1.2.0/</link>
+      <link>https://blog.ivrpowers.com/post/updates/update-video-rtc-rtmp-1.2.0/</link>
       <pubDate>Fri, 16 Jun 2017 00:20:05 +0200</pubDate>
       
-      <guid>http://blog.ivrpowers.com/post/updates/update-video-rtc-rtmp-1.2.0/</guid>
+      <guid>https://blog.ivrpowers.com/post/updates/update-video-rtc-rtmp-1.2.0/</guid>
       <description>Release Note We are pleased to announce that our new Video RTC (Gateway RTMP) v1.2.0 has been released for suitable production services. This new version includes a lot of improvements and new features. All users with previous maintained versions can upgrade today. Please contact our support!
 ChangeLog Version 1.2.0:
 ## [1.2.0] - 2017-01-18 ### Added - GET parameters to customize some variables of the client and agent flashphones { Action: parameter=[possible values] (default) ---------------------------------------------- Enable video: video=[true|false] (false) Video quality: quality=[1.</description>
@@ -85,20 +85,20 @@ ChangeLog Version 1.2.0:
     
     <item>
       <title>What is RTMP?</title>
-      <link>http://blog.ivrpowers.com/post/technologies/what-is-rtmp/</link>
+      <link>https://blog.ivrpowers.com/post/technologies/what-is-rtmp/</link>
       <pubDate>Wed, 14 Jun 2017 00:19:54 +0200</pubDate>
       
-      <guid>http://blog.ivrpowers.com/post/technologies/what-is-rtmp/</guid>
+      <guid>https://blog.ivrpowers.com/post/technologies/what-is-rtmp/</guid>
       <description>Real Time Messaging Protocol or RTMP is mainly serving for high speed transmission of audio, video and data between flash player and a server. Initially developed by Macromedia, the protocol is now owned by Adobe, and specifications about it have only partially been released for public use.
 According to those specifications, the RTMP protocol has multiple variations, i.e. the “plain” RTMP protocol, RTMPS which is RTMP over an TLS/SSL connection, RTMPE which is RTMP encrypted using Adobe’s own security mechanism, and RTMPT which is encapsulated within HTTP requests to traverse firewalls.</description>
     </item>
     
     <item>
       <title>Know our Products: VideoRTC</title>
-      <link>http://blog.ivrpowers.com/post/products/video-rtc/</link>
+      <link>https://blog.ivrpowers.com/post/products/video-rtc/</link>
       <pubDate>Tue, 13 Jun 2017 11:22:18 +0200</pubDate>
       
-      <guid>http://blog.ivrpowers.com/post/products/video-rtc/</guid>
+      <guid>https://blog.ivrpowers.com/post/products/video-rtc/</guid>
       <description>The Video Real Time Communications Platform Our Video Gateway connects peers or endpoints between WebRTC, RTMP and SIP technology to create advanced Video services. It works in common hardware or Cloud VM servers configurations, providing a highly scalable base system to meet all customers’ business and technical requirements.
 Cloud Ready. Our Video Gateway solutions are software based and ready to run over Cloud environments and Virtual Servers. You can setup our Video RTC platforms over Amazon EC2 servers or any Private/Public Cloud.</description>
     </item>

@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Voicebot on Blog</title>
-    <link>http://blog.ivrpowers.com/tags/voicebot/</link>
+    <link>https://blog.ivrpowers.com/tags/voicebot/</link>
     <description>Recent content in Voicebot on Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 06 Oct 2019 20:00:00 +0200</lastBuildDate>
     
-	<atom:link href="http://blog.ivrpowers.com/tags/voicebot/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://blog.ivrpowers.com/tags/voicebot/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Don&#39;t forget to train your Voicebot</title>
-      <link>http://blog.ivrpowers.com/post/customerengagement/voicebot-training/</link>
+      <link>https://blog.ivrpowers.com/post/customerengagement/voicebot-training/</link>
       <pubDate>Sun, 06 Oct 2019 20:00:00 +0200</pubDate>
       
-      <guid>http://blog.ivrpowers.com/post/customerengagement/voicebot-training/</guid>
+      <guid>https://blog.ivrpowers.com/post/customerengagement/voicebot-training/</guid>
       <description>Photo source: Unsplash. Creative Commons Like any human performance, your AI powered system requires to be properly trained. Training is the most important thing to consider to make your Voicebot IVR smart enough when it goes in production. Many projects forgot to review continuously learning rules, intents and transactions logs.
 When a Voicebot or conversational agent does not understand you, it is because, in reality, he does not have been properly trained.</description>
     </item>
     
     <item>
       <title>Videobots are coming…</title>
-      <link>http://blog.ivrpowers.com/post/trends/videobots-are-coming/</link>
+      <link>https://blog.ivrpowers.com/post/trends/videobots-are-coming/</link>
       <pubDate>Thu, 08 Nov 2018 22:00:00 +0100</pubDate>
       
-      <guid>http://blog.ivrpowers.com/post/trends/videobots-are-coming/</guid>
+      <guid>https://blog.ivrpowers.com/post/trends/videobots-are-coming/</guid>
       <description>Video AI agents with an human like behaviour are closer than you may think… Today, Xinhua, China’s state-run press agency, has unveiled new “AI anchors” — digital composites created from footage of human hosts that read the news using synthesised voices.
 The news anchor, based on the latest AI technology, has a male image with a voice, facial expressions and actions of a real person. &amp;ldquo;He&amp;rdquo; learns from live broadcasting videos by himself and can read texts as naturally as a human.</description>
     </item>

@@ -2,49 +2,49 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Cctr on Blog</title>
-    <link>http://blog.ivrpowers.com/tags/cctr/</link>
+    <link>https://blog.ivrpowers.com/tags/cctr/</link>
     <description>Recent content in Cctr on Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 05 Dec 2018 00:18:00 +0200</lastBuildDate>
     
-	<atom:link href="http://blog.ivrpowers.com/tags/cctr/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://blog.ivrpowers.com/tags/cctr/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>The Merge of IVR and RTC into the Contact Center</title>
-      <link>http://blog.ivrpowers.com/post/marketing/the-merge-ivr-rtc-contact-center/</link>
+      <link>https://blog.ivrpowers.com/post/marketing/the-merge-ivr-rtc-contact-center/</link>
       <pubDate>Wed, 05 Dec 2018 00:18:00 +0200</pubDate>
       
-      <guid>http://blog.ivrpowers.com/post/marketing/the-merge-ivr-rtc-contact-center/</guid>
+      <guid>https://blog.ivrpowers.com/post/marketing/the-merge-ivr-rtc-contact-center/</guid>
       <description>Photo source: Unsplash. Creative Commons Contact Center: Artificial Inteligence and Omnichannel strategies will require to upgrade and rethink all your IVR and RTC technology or services. At Interactive Powers, when we launched our first products, we had always considered the Contact Center as a primary technology platform that requires to connect many and new channels to become a Multi-channel system or much better ever an Omnichannel system. In the early stage of the Digital Transformation, we couldn’t imagine our main business product lines IVR and RTC to become so close that they are now just part of a whole strategic approach for any Contact Center evolution.</description>
     </item>
     
     <item>
       <title>Web Browser to SIP Calling?</title>
-      <link>http://blog.ivrpowers.com/post/technologies/webrtc-rtmp-to-sip-calling/</link>
+      <link>https://blog.ivrpowers.com/post/technologies/webrtc-rtmp-to-sip-calling/</link>
       <pubDate>Sun, 09 Jul 2017 00:20:05 +0200</pubDate>
       
-      <guid>http://blog.ivrpowers.com/post/technologies/webrtc-rtmp-to-sip-calling/</guid>
+      <guid>https://blog.ivrpowers.com/post/technologies/webrtc-rtmp-to-sip-calling/</guid>
       <description>Image source: Interactive Powers&amp;rsquo; elaboration How can you call a Desk Phone from any Web Browser? Our both Video Gateways (WebRTC | RTMP) can convert web browser media streams (video - audio - data) to SIP from WebRTC or RTMP peers communications. This interesting feature allows to connect easily web services to existing VoIP telephony channels of your IVR or PBX. We can consider all of this approach like a direct calling webphone or like a WebRTC-DDI or RTMP-DDI in a SIP trunk from an operator service configuration.</description>
     </item>
     
     <item>
       <title>The Age of the Customer in Contact Centers</title>
-      <link>http://blog.ivrpowers.com/post/customerengagement/age-of-consumer/</link>
+      <link>https://blog.ivrpowers.com/post/customerengagement/age-of-consumer/</link>
       <pubDate>Thu, 06 Jul 2017 14:08:06 +0200</pubDate>
       
-      <guid>http://blog.ivrpowers.com/post/customerengagement/age-of-consumer/</guid>
+      <guid>https://blog.ivrpowers.com/post/customerengagement/age-of-consumer/</guid>
       <description>Surveys say customers highly value great customer experiences. But companies should take into account that customer expectations are rising. A shift is taking place. The explosion of digital and technological innovations is having a profound impact on Customer Empowerment. Therefore, the need for a great Customer Experience is higher than ever.
 Many companies are worried when customer satisfaction with Contact Centers declines. And they are right, Contact Centers are directly responsible for maintaining the company’s image.</description>
     </item>
     
     <item>
       <title>What is SPLIT?</title>
-      <link>http://blog.ivrpowers.com/post/technologies/what-is-split/</link>
+      <link>https://blog.ivrpowers.com/post/technologies/what-is-split/</link>
       <pubDate>Wed, 21 Jun 2017 00:20:05 +0200</pubDate>
       
-      <guid>http://blog.ivrpowers.com/post/technologies/what-is-split/</guid>
+      <guid>https://blog.ivrpowers.com/post/technologies/what-is-split/</guid>
       <description>All Video Gateways (WebRTC | RTMP) developed by IVRPowers include a special plugin which allows separate the media streams (video - audio - data) for any communication between users and agents. This development is based on SIP and WebRTC | RTMP peers communications for the integration of voice, video and data in Contact Centers.
 How does SPLIT work? The Audio-Video SPLIT mode works as following:
 A Videocall is initiated by a customer endpoint and comes into the Video Gateway.</description>
@@ -52,10 +52,10 @@ A Videocall is initiated by a customer endpoint and comes into the Video Gateway
     
     <item>
       <title>Updating the Inbound Phone Channel</title>
-      <link>http://blog.ivrpowers.com/post/trends/updating-inbound-phone-channel/</link>
+      <link>https://blog.ivrpowers.com/post/trends/updating-inbound-phone-channel/</link>
       <pubDate>Tue, 13 Jun 2017 10:55:18 +0200</pubDate>
       
-      <guid>http://blog.ivrpowers.com/post/trends/updating-inbound-phone-channel/</guid>
+      <guid>https://blog.ivrpowers.com/post/trends/updating-inbound-phone-channel/</guid>
       <description>Most Call Centers are only managing standard inbound phone calls with the addition of &amp;ldquo;Click-to-call&amp;rdquo; or &amp;ldquo;Call-me-back&amp;rdquo; buttons. It&amp;rsquo;s a very interesting &amp;ldquo;work around&amp;rdquo; option but it&amp;rsquo;s not enough. More and more users don&amp;rsquo;t like to make a phone call when they are browsing the net.
 Users just want to keep on the same channel for many reasons:
  they don&amp;rsquo;t want to unveils their phone number…

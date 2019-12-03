@@ -2,229 +2,229 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Technologies on Blog</title>
-    <link>http://blog.ivrpowers.com/categories/technologies/</link>
+    <link>https://blog.ivrpowers.com/categories/technologies/</link>
     <description>Recent content in Technologies on Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 08 Sep 2019 12:00:00 +0100</lastBuildDate>
     
-	<atom:link href="http://blog.ivrpowers.com/categories/technologies/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://blog.ivrpowers.com/categories/technologies/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>TTS-API connectors updated!</title>
-      <link>http://blog.ivrpowers.com/post/technologies/tts-api-connectors-updated/</link>
+      <link>https://blog.ivrpowers.com/post/technologies/tts-api-connectors-updated/</link>
       <pubDate>Sun, 08 Sep 2019 12:00:00 +0100</pubDate>
       
-      <guid>http://blog.ivrpowers.com/post/technologies/tts-api-connectors-updated/</guid>
+      <guid>https://blog.ivrpowers.com/post/technologies/tts-api-connectors-updated/</guid>
       <description>Image source: Interactive Powers Interactive Powers introduces 45+ Languages &amp;amp; 300+ additional Text-to-Speech voices with Amazon, Google and Microsoft Cloud TTS-API Integration. Natural Language over the Phone&amp;hellip; All of you know about cognitive services is growing these days, and that&amp;rsquo;s why today we&amp;rsquo;re going to talk about our new TTS-API for &amp;ldquo;Text to speech&amp;rdquo;. This connector converts text into a dynamic natural voice in just a few milliseconds. There are a lot of Cloud Speech API, but we will focus on the Cloud Services main giants: Google Cloud, Microsoft Azure and Amazon Web Services.</description>
     </item>
     
     <item>
       <title>Amazon Polly TTS connector</title>
-      <link>http://blog.ivrpowers.com/post/technologies/amazon-tts-connector/</link>
+      <link>https://blog.ivrpowers.com/post/technologies/amazon-tts-connector/</link>
       <pubDate>Tue, 03 Sep 2019 12:00:00 +0100</pubDate>
       
-      <guid>http://blog.ivrpowers.com/post/technologies/amazon-tts-connector/</guid>
+      <guid>https://blog.ivrpowers.com/post/technologies/amazon-tts-connector/</guid>
       <description>Image source: Interactive Powers Interactive Powers introduces 27 Languages &amp;amp; 60+ additional Text-to-Speech voices with Amazon Polly Integration About Amazon&amp;hellip; Amazon Polly is a Text-to-Speech (TTS) service that uses advanced deep learning technologies to synthesize speech that sounds like a human voice. It&amp;rsquo;s part of the voice of Alexa and can do much more for your business too.
  Amazon has arround 60 voices across 30 languages and variants.</description>
     </item>
     
     <item>
       <title>Google TTS connector</title>
-      <link>http://blog.ivrpowers.com/post/technologies/google-tts-connector/</link>
+      <link>https://blog.ivrpowers.com/post/technologies/google-tts-connector/</link>
       <pubDate>Tue, 03 Sep 2019 12:00:00 +0100</pubDate>
       
-      <guid>http://blog.ivrpowers.com/post/technologies/google-tts-connector/</guid>
+      <guid>https://blog.ivrpowers.com/post/technologies/google-tts-connector/</guid>
       <description>Image source: Interactive Powers Interactive Powers introduces 30+ Languages &amp;amp; 180+ additional Text-to-Speech voices with Google TTS Integration About Google&amp;hellip; Google Cloud is one of the major Enterprise Cloud Services in the world, so its API does not fall short. There are a lot of features that are worth of mention, but we don’t have that time so, here are some of main features we consider:
  Google has over 180 voices across 30+ languages and variants.</description>
     </item>
     
     <item>
       <title>Microsoft TTS connector</title>
-      <link>http://blog.ivrpowers.com/post/technologies/microsoft-tts-connector/</link>
+      <link>https://blog.ivrpowers.com/post/technologies/microsoft-tts-connector/</link>
       <pubDate>Tue, 03 Sep 2019 12:00:00 +0100</pubDate>
       
-      <guid>http://blog.ivrpowers.com/post/technologies/microsoft-tts-connector/</guid>
+      <guid>https://blog.ivrpowers.com/post/technologies/microsoft-tts-connector/</guid>
       <description>Image source: Interactive Powers Interactive Powers introduces 45 Languages &amp;amp; 75+ additional Text-to-Speech voices with Microsoft Azure TTS Integration About Microsoft&amp;hellip; Microsoft Azure like Google Cloud provides his own Text To Speech API. It is quite big and here are some of its main features with more than 75 voices over 45 languages.
  Parameters for speed, pitch, volume, pronunciation, and additional pauses Custom voice models for developers and enterprises Neural Voices technology  To get more information, you can read Microsoft TTS documentation.</description>
     </item>
     
     <item>
       <title>Video Gateway: RTMP &amp; WebRTC comparison</title>
-      <link>http://blog.ivrpowers.com/post/technologies/webrtc-vs-rtmp/</link>
+      <link>https://blog.ivrpowers.com/post/technologies/webrtc-vs-rtmp/</link>
       <pubDate>Tue, 29 Jan 2019 16:00:00 +0200</pubDate>
       
-      <guid>http://blog.ivrpowers.com/post/technologies/webrtc-vs-rtmp/</guid>
+      <guid>https://blog.ivrpowers.com/post/technologies/webrtc-vs-rtmp/</guid>
       <description>Image source: Interactive Powers What are the main differences between RTMP and WebRTC gateway models? Currently, Video RTC is our flagship product line for any RTC project&amp;rsquo;s deployments. We have prepared this summary to clarify what are the main features and how to move forward for your business.
 Our Video Gateway connects peers or endpoints between WebRTC, RTMP and SIP technology to create advanced Video services. RTMP is an open protocol for Adobe Flash Player that allows to connect flash compliant browsers.</description>
     </item>
     
     <item>
       <title>Understanding Cloud Services: IaaS, PaaS, SaaS</title>
-      <link>http://blog.ivrpowers.com/post/technologies/understanding-cloud-hosting-iaas-paas-saas/</link>
+      <link>https://blog.ivrpowers.com/post/technologies/understanding-cloud-hosting-iaas-paas-saas/</link>
       <pubDate>Wed, 21 Nov 2018 01:00:00 +0200</pubDate>
       
-      <guid>http://blog.ivrpowers.com/post/technologies/understanding-cloud-hosting-iaas-paas-saas/</guid>
+      <guid>https://blog.ivrpowers.com/post/technologies/understanding-cloud-hosting-iaas-paas-saas/</guid>
       <description>Image source: Pixabay. Creative Commons What are the differences between IaaS, SaaS, and PaaS, the three main Cloud Computing models? IaaS, PaaS, SaaS are three Cloud computing models popular in the market. Depending upon the requirement a company can opt for any of the three models. Here we explain IaaS, PaaS, SaaS model in the best possible way so that anyone can understand and differential among them.
 What is IaaS?</description>
     </item>
     
     <item>
       <title>Screen Sharing or Co-Browsing?</title>
-      <link>http://blog.ivrpowers.com/post/technologies/screensharing-or-cobrowsing/</link>
+      <link>https://blog.ivrpowers.com/post/technologies/screensharing-or-cobrowsing/</link>
       <pubDate>Sun, 05 Aug 2018 01:00:00 +0200</pubDate>
       
-      <guid>http://blog.ivrpowers.com/post/technologies/screensharing-or-cobrowsing/</guid>
+      <guid>https://blog.ivrpowers.com/post/technologies/screensharing-or-cobrowsing/</guid>
       <description>Discover Screen Sharing and Co-Browsing advantages, the secure new ‘no download’ complementary interactions improving phone calls for onboarding, sales and support. Screen Sharing and Co-Browsing (or Collaborative Browsing) are a relatively new technologies for Call Centers propelled by a Cloud evolution. However, customer experience professionals seem to think that CoBrowsing and Screen Sharing are one and the same when in reality, they’re not. So what is the difference between these two features and how does adapting your VideoRTC solution improve the overall customer experience?</description>
     </item>
     
     <item>
       <title>What is a STUN/TURN Server?</title>
-      <link>http://blog.ivrpowers.com/post/technologies/what-is-stun-turn-server/</link>
+      <link>https://blog.ivrpowers.com/post/technologies/what-is-stun-turn-server/</link>
       <pubDate>Tue, 10 Jul 2018 09:00:05 +0200</pubDate>
       
-      <guid>http://blog.ivrpowers.com/post/technologies/what-is-stun-turn-server/</guid>
+      <guid>https://blog.ivrpowers.com/post/technologies/what-is-stun-turn-server/</guid>
       <description>Photo Source: Pixabay · Interactive Powers Creative Commons. WebRTC communications in real-world connectivity require to handle multi-party calls and interact with STUN and TURN servers. Our Video Gateway (WebRTC) platform offers all customers an advanced video real-time communications solution through all audio/video/data streams are transmitted. Generally, a Video Gateway has to be deployed over a public Internet so any user must connect and send media fragments over RTP (Real-time Transport Protocol) ports without specific network issues.</description>
     </item>
     
     <item>
       <title>What is CPaaS?</title>
-      <link>http://blog.ivrpowers.com/post/technologies/what-is-cpaas/</link>
+      <link>https://blog.ivrpowers.com/post/technologies/what-is-cpaas/</link>
       <pubDate>Sun, 10 Jun 2018 01:00:00 +0200</pubDate>
       
-      <guid>http://blog.ivrpowers.com/post/technologies/what-is-cpaas/</guid>
+      <guid>https://blog.ivrpowers.com/post/technologies/what-is-cpaas/</guid>
       <description>Communication Platform as a Service (CPaaS) Communication Platform as a Service (CPaaS) is a form of cloud computing that is utilized to deliver communication applications like IVR or RTC to users over the internet. But, unlike SaaS which delivers specific apps and programs, Communication Platform as a Service is a bit closer related to IaaS. So, while IaaS is delivering the infrastructure, like servers and management tools, CPaaS is what delivers the entire communication platform for users to build and develop their own applications.</description>
     </item>
     
     <item>
       <title>What is SaaS?</title>
-      <link>http://blog.ivrpowers.com/post/technologies/what-is-saas/</link>
+      <link>https://blog.ivrpowers.com/post/technologies/what-is-saas/</link>
       <pubDate>Sun, 10 Jun 2018 01:00:00 +0200</pubDate>
       
-      <guid>http://blog.ivrpowers.com/post/technologies/what-is-saas/</guid>
+      <guid>https://blog.ivrpowers.com/post/technologies/what-is-saas/</guid>
       <description>Photo source: Interactive Powers Software as a Service (SaaS) Software as a Service (SaaS) directly refers to any software that your business is using just about everyday. SaaS is of course a form of cloud computing, which allows for increase flexibility by relying on a third-party vendor to host and maintain the service — in this case, that service is that software. Since the software is hosted by a cloud provider, your business does not need to install and run applications on their own computers, or host their own servers in expensive data centers, yet still gains access to these powerful tools.</description>
     </item>
     
     <item>
       <title>New Web Browser Standard for an universal Password-free sign-in</title>
-      <link>http://blog.ivrpowers.com/post/trends/web-standard-password-free/</link>
+      <link>https://blog.ivrpowers.com/post/trends/web-standard-password-free/</link>
       <pubDate>Wed, 11 Apr 2018 09:30:00 +0100</pubDate>
       
-      <guid>http://blog.ivrpowers.com/post/trends/web-standard-password-free/</guid>
+      <guid>https://blog.ivrpowers.com/post/trends/web-standard-password-free/</guid>
       <description>Image source: Pixabay. Creative Commons A new web standard makes it possible to sign into virtually any web service without needing a password! This Authentication standard from W3C will use your fingerprint reader or inside camera in a wide variety of web browsers. That, in turn, lets you access virtually any online service in a PC or mobile device through password-free FIDO Authentication, not just specific services. You can continue to use familiar biometrics methods like fingerprint readers, cameras and USB keys, and it can serve both in place of and in addition to passwords.</description>
     </item>
     
     <item>
       <title>Google Text-to-Speech</title>
-      <link>http://blog.ivrpowers.com/post/technologies/google-tts/</link>
+      <link>https://blog.ivrpowers.com/post/technologies/google-tts/</link>
       <pubDate>Tue, 10 Apr 2018 09:30:00 +0100</pubDate>
       
-      <guid>http://blog.ivrpowers.com/post/technologies/google-tts/</guid>
+      <guid>https://blog.ivrpowers.com/post/technologies/google-tts/</guid>
       <description>Image source: Google Speech API New Google Cloud Speech API Text-to-Speech for Developers has been released! Google is launching a new AI voice synthesizer as part of its suite of machine learning cloud tools. This new Cloud Speech API behind Google Assistant works really fast and use amazing voices to run your own advanced IVR or RTC services. For now, it’s only available in Beta version for Developers and already includes more than 30+ voices but this first cloud service aproach will probably grow quickly thanks to the AI WaveNet technology.</description>
     </item>
     
     <item>
       <title>Calling with WebRTC on Android</title>
-      <link>http://blog.ivrpowers.com/post/technologies/videortc-android/</link>
+      <link>https://blog.ivrpowers.com/post/technologies/videortc-android/</link>
       <pubDate>Fri, 16 Feb 2018 21:00:00 +0200</pubDate>
       
-      <guid>http://blog.ivrpowers.com/post/technologies/videortc-android/</guid>
+      <guid>https://blog.ivrpowers.com/post/technologies/videortc-android/</guid>
       <description>Image source: Interactive Powers Make direct voice and video calls from Android devices thanks to VideoRTC.js and its native WebRTC based tecnology In previous posts, we have looked at some key considerations for building apps for video calling on web browsers and mobile devices, and some of the features you can include to make sure your users have a great experience.
 Now any modern Android works with all compliant Smartphone, TV and Tablet devices which is an important component for creating frictionless, delightful apps, especially voice &amp;amp; video calling.</description>
     </item>
     
     <item>
       <title>Calling with WebRTC on iOS</title>
-      <link>http://blog.ivrpowers.com/post/technologies/videortc-ios/</link>
+      <link>https://blog.ivrpowers.com/post/technologies/videortc-ios/</link>
       <pubDate>Sun, 21 Jan 2018 21:00:00 +0200</pubDate>
       
-      <guid>http://blog.ivrpowers.com/post/technologies/videortc-ios/</guid>
+      <guid>https://blog.ivrpowers.com/post/technologies/videortc-ios/</guid>
       <description>Image source: Interactive Powers Make direct voice calls from Apple iOS devices thanks to VideoRTC.js and its native WebRTC based tecnology In previous posts, we have looked at some key considerations for building apps for video calling on web browsers and mobile devices, and some of the features you can include to make sure your users have a great experience.
 Now iOS 11 works with all compliant Apple iPhone and iPad devices which is an important component for creating frictionless, delightful apps, especially voice calling.</description>
     </item>
     
     <item>
       <title>What is NLU?</title>
-      <link>http://blog.ivrpowers.com/post/technologies/what-is-nlu/</link>
+      <link>https://blog.ivrpowers.com/post/technologies/what-is-nlu/</link>
       <pubDate>Thu, 04 Jan 2018 01:00:00 +0200</pubDate>
       
-      <guid>http://blog.ivrpowers.com/post/technologies/what-is-nlu/</guid>
+      <guid>https://blog.ivrpowers.com/post/technologies/what-is-nlu/</guid>
       <description>Photo source: “Her” (movie) – A man talking to a machine… Natural Language Understanding (NLU) can be a complementary in-side programing feature or a specific engine for an IVR. Currently, NLU is still an emerging technology but its nearest evolution is already starting to change the business of Customer Service.
  Natural Language Understanding (NLU) is a branch of artificial intelligence (AI) that uses computer software to understand input made in the form of sentences in text or speech format.</description>
     </item>
     
     <item>
       <title>Video ID · Facial Recognition Plugins</title>
-      <link>http://blog.ivrpowers.com/post/technologies/facial-recognition/</link>
+      <link>https://blog.ivrpowers.com/post/technologies/facial-recognition/</link>
       <pubDate>Tue, 05 Dec 2017 09:28:03 +0100</pubDate>
       
-      <guid>http://blog.ivrpowers.com/post/technologies/facial-recognition/</guid>
+      <guid>https://blog.ivrpowers.com/post/technologies/facial-recognition/</guid>
       <description>Image source: Pexels. Creative Commons Facial recognition is a biometric method of identifying an individual by comparing live capture or digital image data with the stored record for that person. Facial recognition systems are commonly used for security purposes but they are increasingly applied in a wide variety of fields, like in mobile technology, online to shopping, even in medicine.
 In a previous post we talked about secure identification API integrations and some of their uses.</description>
     </item>
     
     <item>
       <title>Desktop Web Browsers for Video RTC</title>
-      <link>http://blog.ivrpowers.com/post/technologies/videortc-desktop-web-browser/</link>
+      <link>https://blog.ivrpowers.com/post/technologies/videortc-desktop-web-browser/</link>
       <pubDate>Tue, 28 Nov 2017 21:00:00 +0200</pubDate>
       
-      <guid>http://blog.ivrpowers.com/post/technologies/videortc-desktop-web-browser/</guid>
+      <guid>https://blog.ivrpowers.com/post/technologies/videortc-desktop-web-browser/</guid>
       <description>Image source: Interactive Powers&amp;rsquo; elaboration The Video RTC Gateway, is ready to run with most modern Web Browsers and Desktop Operating Systems. We can observe the success of WebRTC Technology through the evolution of web browsers. Increasingly more and more browsers are WebRTC-enabled, having incorporated the possibility of making video calls. In most of them users do not need even to install special applications or plugins. Let&amp;rsquo;s see what four of the most important web browsers on the market currently offer.</description>
     </item>
     
     <item>
       <title>What is a Kiosk?</title>
-      <link>http://blog.ivrpowers.com/post/technologies/what-is-kiosk/</link>
+      <link>https://blog.ivrpowers.com/post/technologies/what-is-kiosk/</link>
       <pubDate>Thu, 28 Sep 2017 11:05:38 +0200</pubDate>
       
-      <guid>http://blog.ivrpowers.com/post/technologies/what-is-kiosk/</guid>
+      <guid>https://blog.ivrpowers.com/post/technologies/what-is-kiosk/</guid>
       <description>Image source: Mattes. Creative Commons An interactive kiosk is a computer terminal that is placed in a public setting. The aim of a kiosk is to provide information to customers and users. They have an integrated touch screen, usually with a user-friendly interface to facilitate interactions. Thanks to computing technology it is possible to offer a wide range of functions and applications, from brand information, to product catalogues or real-time interactions with sales consultants.</description>
     </item>
     
     <item>
       <title>Working on Safari 11 for Video RTC</title>
-      <link>http://blog.ivrpowers.com/post/technologies/videortc-safari11/</link>
+      <link>https://blog.ivrpowers.com/post/technologies/videortc-safari11/</link>
       <pubDate>Wed, 27 Sep 2017 21:00:00 +0200</pubDate>
       
-      <guid>http://blog.ivrpowers.com/post/technologies/videortc-safari11/</guid>
+      <guid>https://blog.ivrpowers.com/post/technologies/videortc-safari11/</guid>
       <description>Image source: Interactive Powers&amp;rsquo; elaboration The Video RTC Gateway, Now ready run with Apple Safari 11 over MacOS computers and iOS devices Interactive Powers is proud to announce Video RTC support for Safari 11 over MacOS and iOS. It was a demand from all the market for a long time, know it becomes a reality past week. Safari 11 works fine on the basis of WebRTC to allow Apple users community to connect most features but with some specific web browser limitations that we will comment shortly&amp;hellip;</description>
     </item>
     
     <item>
       <title>Real-Time Communications: The Security Factor</title>
-      <link>http://blog.ivrpowers.com/post/trends/security-factor/</link>
+      <link>https://blog.ivrpowers.com/post/trends/security-factor/</link>
       <pubDate>Tue, 26 Sep 2017 12:06:30 +0200</pubDate>
       
-      <guid>http://blog.ivrpowers.com/post/trends/security-factor/</guid>
+      <guid>https://blog.ivrpowers.com/post/trends/security-factor/</guid>
       <description>Photo Source: Pixabay, Creative Commons Communications Security is more important ever than ever to handle properly any business. Security tops the list on concerns about RTC. Considering the risks of new exposed system vulnerabilities and the increasing scope and scale of breaches, security is more important than ever. In fact, uncertainty about which device provides privacy and security has become a hindrance to purchasing an IoT device. But despite the increasing concerns among consumers, researches show that security is still one of the major challenges that companies need to deal with.</description>
     </item>
     
     <item>
       <title>WebRTC built-in Security Features</title>
-      <link>http://blog.ivrpowers.com/post/technologies/webrtc-security/</link>
+      <link>https://blog.ivrpowers.com/post/technologies/webrtc-security/</link>
       <pubDate>Tue, 01 Aug 2017 10:04:37 +0200</pubDate>
       
-      <guid>http://blog.ivrpowers.com/post/technologies/webrtc-security/</guid>
+      <guid>https://blog.ivrpowers.com/post/technologies/webrtc-security/</guid>
       <description>Photo source: Pexels. Creative Commons In essence, any software in the Internet is an inherent risk that your PC may become infected by a virus, malware, spyware or various other ‘bugs’ that threaten the security of your data. As such, the principal solution to combat viruses is to install firewalls and anti-malware software that work to defend your computer against any potential threats.
 With WebRTC however, there’s no need to worry about any of that.</description>
     </item>
     
     <item>
       <title>Web Browser to SIP Calling?</title>
-      <link>http://blog.ivrpowers.com/post/technologies/webrtc-rtmp-to-sip-calling/</link>
+      <link>https://blog.ivrpowers.com/post/technologies/webrtc-rtmp-to-sip-calling/</link>
       <pubDate>Sun, 09 Jul 2017 00:20:05 +0200</pubDate>
       
-      <guid>http://blog.ivrpowers.com/post/technologies/webrtc-rtmp-to-sip-calling/</guid>
+      <guid>https://blog.ivrpowers.com/post/technologies/webrtc-rtmp-to-sip-calling/</guid>
       <description>Image source: Interactive Powers&amp;rsquo; elaboration How can you call a Desk Phone from any Web Browser? Our both Video Gateways (WebRTC | RTMP) can convert web browser media streams (video - audio - data) to SIP from WebRTC or RTMP peers communications. This interesting feature allows to connect easily web services to existing VoIP telephony channels of your IVR or PBX. We can consider all of this approach like a direct calling webphone or like a WebRTC-DDI or RTMP-DDI in a SIP trunk from an operator service configuration.</description>
     </item>
     
     <item>
       <title>What is SPLIT?</title>
-      <link>http://blog.ivrpowers.com/post/technologies/what-is-split/</link>
+      <link>https://blog.ivrpowers.com/post/technologies/what-is-split/</link>
       <pubDate>Wed, 21 Jun 2017 00:20:05 +0200</pubDate>
       
-      <guid>http://blog.ivrpowers.com/post/technologies/what-is-split/</guid>
+      <guid>https://blog.ivrpowers.com/post/technologies/what-is-split/</guid>
       <description>All Video Gateways (WebRTC | RTMP) developed by IVRPowers include a special plugin which allows separate the media streams (video - audio - data) for any communication between users and agents. This development is based on SIP and WebRTC | RTMP peers communications for the integration of voice, video and data in Contact Centers.
 How does SPLIT work? The Audio-Video SPLIT mode works as following:
 A Videocall is initiated by a customer endpoint and comes into the Video Gateway.</description>
@@ -232,39 +232,39 @@ A Videocall is initiated by a customer endpoint and comes into the Video Gateway
     
     <item>
       <title>What is WebRTC?</title>
-      <link>http://blog.ivrpowers.com/post/technologies/what-is-webrtc/</link>
+      <link>https://blog.ivrpowers.com/post/technologies/what-is-webrtc/</link>
       <pubDate>Mon, 19 Jun 2017 00:20:05 +0200</pubDate>
       
-      <guid>http://blog.ivrpowers.com/post/technologies/what-is-webrtc/</guid>
+      <guid>https://blog.ivrpowers.com/post/technologies/what-is-webrtc/</guid>
       <description>WebRTC (Web Real-Time Communication) is a collection of communications protocols and application programming interfaces that enable real-time communication over peer-to-peer connections. This allows web browsers to not only request resources from backend servers, but also real-time information from browsers of other users.
 This enables applications such as video conferencing, file transfer, chat, or desktop sharing without the need of either internal or external plugins. WebRTC is being standardized by the World Wide Web Consortium (W3C) and the Internet Engineering Task Force (IETF).</description>
     </item>
     
     <item>
       <title>What is RTMP?</title>
-      <link>http://blog.ivrpowers.com/post/technologies/what-is-rtmp/</link>
+      <link>https://blog.ivrpowers.com/post/technologies/what-is-rtmp/</link>
       <pubDate>Wed, 14 Jun 2017 00:19:54 +0200</pubDate>
       
-      <guid>http://blog.ivrpowers.com/post/technologies/what-is-rtmp/</guid>
+      <guid>https://blog.ivrpowers.com/post/technologies/what-is-rtmp/</guid>
       <description>Real Time Messaging Protocol or RTMP is mainly serving for high speed transmission of audio, video and data between flash player and a server. Initially developed by Macromedia, the protocol is now owned by Adobe, and specifications about it have only partially been released for public use.
 According to those specifications, the RTMP protocol has multiple variations, i.e. the “plain” RTMP protocol, RTMPS which is RTMP over an TLS/SSL connection, RTMPE which is RTMP encrypted using Adobe’s own security mechanism, and RTMPT which is encapsulated within HTTP requests to traverse firewalls.</description>
     </item>
     
     <item>
       <title>What is IVR?</title>
-      <link>http://blog.ivrpowers.com/post/technologies/what-is-ivr/</link>
+      <link>https://blog.ivrpowers.com/post/technologies/what-is-ivr/</link>
       <pubDate>Mon, 12 Jun 2017 00:20:05 +0200</pubDate>
       
-      <guid>http://blog.ivrpowers.com/post/technologies/what-is-ivr/</guid>
+      <guid>https://blog.ivrpowers.com/post/technologies/what-is-ivr/</guid>
       <description>Interactive Voice Response (IVR) is a technology that allows a computer to interact with humans through the use of voice and DTMF tones input via keypad. In telecommunications, IVR allows customers to interact with a company’s host system via a telephone keypad or by speech recognition, after which services can be inquired about through the IVR dialogue. IVR systems can respond with prerecorded or dynamically generated audio to further direct users on how to proceed.</description>
     </item>
     
     <item>
       <title>What is VoiceXML?</title>
-      <link>http://blog.ivrpowers.com/post/technologies/what-is-voicexml/</link>
+      <link>https://blog.ivrpowers.com/post/technologies/what-is-voicexml/</link>
       <pubDate>Mon, 12 Jun 2017 00:20:05 +0200</pubDate>
       
-      <guid>http://blog.ivrpowers.com/post/technologies/what-is-voicexml/</guid>
+      <guid>https://blog.ivrpowers.com/post/technologies/what-is-voicexml/</guid>
       <description>The Voice eXtensible Markup Language (VoiceXML) is an XML-based markup language for creating distributed voice applications, much as HTML is a markup language for creating distributed visual applications. It is an industry standard defined by the World Wide Web Consortium (W3C) at http://www.w3.org/TR/voicexml21/ (for VoiceXML V2.1) and http://www.w3.org/TR/voicexml20/ (for VoiceXML V2.0). The VoiceXML language enables IVR developers to use a familiar markup style and Web server-side logic to deliver applications for use over telephone lines.</description>
     </item>
     

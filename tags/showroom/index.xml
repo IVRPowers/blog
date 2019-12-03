@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Showroom on Blog</title>
-    <link>http://blog.ivrpowers.com/tags/showroom/</link>
+    <link>https://blog.ivrpowers.com/tags/showroom/</link>
     <description>Recent content in Showroom on Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 28 Sep 2017 11:06:30 +0200</lastBuildDate>
     
-	<atom:link href="http://blog.ivrpowers.com/tags/showroom/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://blog.ivrpowers.com/tags/showroom/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Showroom · VoiceXML IVR</title>
-      <link>http://blog.ivrpowers.com/post/general/showroom-voicexml-ivr/</link>
+      <link>https://blog.ivrpowers.com/post/general/showroom-voicexml-ivr/</link>
       <pubDate>Thu, 28 Sep 2017 11:06:30 +0200</pubDate>
       
-      <guid>http://blog.ivrpowers.com/post/general/showroom-voicexml-ivr/</guid>
+      <guid>https://blog.ivrpowers.com/post/general/showroom-voicexml-ivr/</guid>
       <description>Photo source: Interactive Powers Request your Demo Get in touch today and meet online one of our sales consultant or manager. We will be pleased to show you our latest VoiceXML IVR features and applications.
 Showroom:
 http://www.ivrpowers.com/showroom/
@@ -26,10 +26,10 @@ List of main features (VoiceXML):
     
     <item>
       <title>Showroom · Video RTC Gateway (RTMP)</title>
-      <link>http://blog.ivrpowers.com/post/general/showroom-rtmp/</link>
+      <link>https://blog.ivrpowers.com/post/general/showroom-rtmp/</link>
       <pubDate>Thu, 21 Sep 2017 15:00:42 +0200</pubDate>
       
-      <guid>http://blog.ivrpowers.com/post/general/showroom-rtmp/</guid>
+      <guid>https://blog.ivrpowers.com/post/general/showroom-rtmp/</guid>
       <description>Photo source: Interactive Powers Request your Demo Get in touch today and meet online one of our sales consultant or manager. We will be pleased to show you our latest Video RTC Gateway (RTMP) features and applications.
 Showroom:
 http://www.ivrpowers.com/showroom/
@@ -39,10 +39,10 @@ List of Use Cases (RTMP):
     
     <item>
       <title>Showroom · Video RTC Gateway (WebRTC)</title>
-      <link>http://blog.ivrpowers.com/post/general/showroom-videortc-webrtc/</link>
+      <link>https://blog.ivrpowers.com/post/general/showroom-videortc-webrtc/</link>
       <pubDate>Mon, 18 Sep 2017 00:00:30 +0200</pubDate>
       
-      <guid>http://blog.ivrpowers.com/post/general/showroom-videortc-webrtc/</guid>
+      <guid>https://blog.ivrpowers.com/post/general/showroom-videortc-webrtc/</guid>
       <description>Photo source: Interactive Powers Request your Demo Get in touch today and meet online one of our sales consultant or manager. We will be pleased to show you our latest Video RTC Gateway (WebRTC) features and applications.
 Showroom:
 http://www.ivrpowers.com/showroom/

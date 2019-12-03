@@ -2,50 +2,50 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Coding on Blog</title>
-    <link>http://blog.ivrpowers.com/categories/coding/</link>
+    <link>https://blog.ivrpowers.com/categories/coding/</link>
     <description>Recent content in Coding on Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 16 Aug 2018 10:00:00 +0200</lastBuildDate>
     
-	<atom:link href="http://blog.ivrpowers.com/categories/coding/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://blog.ivrpowers.com/categories/coding/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Logging with Log Rotation</title>
-      <link>http://blog.ivrpowers.com/post/coding/videortc-log-rotation/</link>
+      <link>https://blog.ivrpowers.com/post/coding/videortc-log-rotation/</link>
       <pubDate>Thu, 16 Aug 2018 10:00:00 +0200</pubDate>
       
-      <guid>http://blog.ivrpowers.com/post/coding/videortc-log-rotation/</guid>
+      <guid>https://blog.ivrpowers.com/post/coding/videortc-log-rotation/</guid>
       <description>Photo Source: Interactive Powers, Pexels. Creative Commons Improve your Video RTC debugging tasks and platform monitoring for all your applications Logging takes place in the execution of your Video RTC applications to provide an audit trail that can be used to understand the activity of the system and to diagnose problems to find and fix bugs. We are pleased to talk a bout a very useful tool for managing log files called Log Rotation.</description>
     </item>
     
     <item>
       <title>How to configure and customise your Webclient</title>
-      <link>http://blog.ivrpowers.com/post/coding/videortc-webclient-configuration/</link>
+      <link>https://blog.ivrpowers.com/post/coding/videortc-webclient-configuration/</link>
       <pubDate>Thu, 05 Jul 2018 09:00:00 +0200</pubDate>
       
-      <guid>http://blog.ivrpowers.com/post/coding/videortc-webclient-configuration/</guid>
+      <guid>https://blog.ivrpowers.com/post/coding/videortc-webclient-configuration/</guid>
       <description>Photo source: Interactive Powers, Pexels Creative Commons Webclient (WebRTC) provides a user-friendly webphone that allows all your customers and users to make phone calls directly from a website to your business IVR or PBX from any desktop native WebRTC compliant web browser (Firefox, Chrome, Opera,…). In this post we will show you how to customize the Webclient using the different configuration options at flavour/theme level.
 The design of our webclient is composed by a logo and a main default color.</description>
     </item>
     
     <item>
       <title>How to insert a Webphone into an iFrame</title>
-      <link>http://blog.ivrpowers.com/post/coding/webclient-website-iframe/</link>
+      <link>https://blog.ivrpowers.com/post/coding/webclient-website-iframe/</link>
       <pubDate>Mon, 07 May 2018 20:00:00 +0200</pubDate>
       
-      <guid>http://blog.ivrpowers.com/post/coding/webclient-website-iframe/</guid>
+      <guid>https://blog.ivrpowers.com/post/coding/webclient-website-iframe/</guid>
       <description>Photo Source: Interactive Powers, Pexels. Creative Commons In a previous post we explained how to include a Webphone button to launch our Webclient (Webphone) in a popup window. In this case, we want to include the Webclient directly in a website as an iFrame and not in an external page.
 Including an iFrame element First of all, you need to include an iFrame HTML5 element in your website like this:</description>
     </item>
     
     <item>
       <title>Five Steps to quickly make your own Videocalling application with VideoRTC.js (WebRTC)</title>
-      <link>http://blog.ivrpowers.com/post/coding/five-steps-build-mobile-application/</link>
+      <link>https://blog.ivrpowers.com/post/coding/five-steps-build-mobile-application/</link>
       <pubDate>Tue, 16 Jan 2018 21:00:00 +0100</pubDate>
       
-      <guid>http://blog.ivrpowers.com/post/coding/five-steps-build-mobile-application/</guid>
+      <guid>https://blog.ivrpowers.com/post/coding/five-steps-build-mobile-application/</guid>
       <description>Photo Source: Interactive Powers, Pexels. Creative Commons Users have asked us about our post on how to build a video call service in your mobile by using the Ionic Framework 2 and VideoRTC.js.
 In this new release we offer you a more detailed explanation of the steps to take, so that you can successfully build your mobile video application.
 Introduction. From the moment you established a VideoRTC interaction, by connecting with the video gateway, until the call is finished, library’s range of events are executed.</description>
@@ -53,30 +53,30 @@ Introduction. From the moment you established a VideoRTC interaction, by connect
     
     <item>
       <title>How to detect if your Browser is WebRTC compliant?</title>
-      <link>http://blog.ivrpowers.com/post/coding/browser-webrtc/</link>
+      <link>https://blog.ivrpowers.com/post/coding/browser-webrtc/</link>
       <pubDate>Mon, 18 Dec 2017 10:18:15 +0100</pubDate>
       
-      <guid>http://blog.ivrpowers.com/post/coding/browser-webrtc/</guid>
+      <guid>https://blog.ivrpowers.com/post/coding/browser-webrtc/</guid>
       <description>Photo Source: Interactive Powers, Pexels. Creative Commons WebRTC is currently supported by Mozilla Firefox, Google Chrome and Opera, in both desktop and Android versions. Microsoft Internet Explorer and Edge and Apple Safari still have to add support for WebRTC. Currently, support in these browsers is provided by third-party plug-ins, which are not an ideal solution.
 Here, we provide you with an easy javascript code to check if your browser is supported by WebRTC.</description>
     </item>
     
     <item>
       <title>How it Works our Datachannel with VideoRTC.js</title>
-      <link>http://blog.ivrpowers.com/post/coding/datachannel-videortc/</link>
+      <link>https://blog.ivrpowers.com/post/coding/datachannel-videortc/</link>
       <pubDate>Thu, 26 Oct 2017 10:45:24 +0200</pubDate>
       
-      <guid>http://blog.ivrpowers.com/post/coding/datachannel-videortc/</guid>
+      <guid>https://blog.ivrpowers.com/post/coding/datachannel-videortc/</guid>
       <description>Photo Source: Interactive Powers, Pexels. Creative Commons In this post, we will show you how it works with Datachannel using VideoRTC.js and how to code quickly a simple service for a specific purpose.
 Introduction First of all you need to know the modules in which we currently have available the Datachannel: These are the Videocall and the SPLIT. In this example we will use the first one, though the operation would be the same in both.</description>
     </item>
     
     <item>
       <title>How to Add a Webphone Button in your Website</title>
-      <link>http://blog.ivrpowers.com/post/coding/webphonebutton-website/</link>
+      <link>https://blog.ivrpowers.com/post/coding/webphonebutton-website/</link>
       <pubDate>Wed, 11 Oct 2017 11:30:24 +0200</pubDate>
       
-      <guid>http://blog.ivrpowers.com/post/coding/webphonebutton-website/</guid>
+      <guid>https://blog.ivrpowers.com/post/coding/webphonebutton-website/</guid>
       <description>Photo Source: Interactive Powers, Pexels. Creative Commons In this post we will show you how to add a Webphone button in your website using our customizable webcall widget.
 Step one: Installation To install the Webphone Button in your web­page you need to download our webcall widget webcall_widget_noflash.zip and uncompress it in the directory of your website.
 To insert it, you first need to add the CSS Stylesheet file to your webpage.</description>
@@ -84,10 +84,10 @@ To insert it, you first need to add the CSS Stylesheet file to your webpage.</de
     
     <item>
       <title>How to Build your Own Videoconference Service</title>
-      <link>http://blog.ivrpowers.com/post/coding/videortc-build-videoconference/</link>
+      <link>https://blog.ivrpowers.com/post/coding/videortc-build-videoconference/</link>
       <pubDate>Wed, 04 Oct 2017 10:45:24 +0200</pubDate>
       
-      <guid>http://blog.ivrpowers.com/post/coding/videortc-build-videoconference/</guid>
+      <guid>https://blog.ivrpowers.com/post/coding/videortc-build-videoconference/</guid>
       <description>Photo Source: Interactive Powers, Pexels. Creative Commons Today we bring you this interesting article on How to build your own videoconference service based on HTML5 technology by using our API Framework with VideoRTC.js.
 Step one: Setting up the basic structure As we have explained in previous posts, first of all it is important that you include dependency within your project or web page.
 &amp;lt;script type=&amp;quot;text/javascript&amp;quot; src=&amp;quot;videortc.js&amp;quot;&amp;gt;&amp;lt;/script&amp;gt;  You can insert a minimized version if you prefer so:</description>
@@ -95,20 +95,20 @@ Step one: Setting up the basic structure As we have explained in previous posts,
     
     <item>
       <title>How to Build a Mobile Video Application (WebRTC)</title>
-      <link>http://blog.ivrpowers.com/post/coding/videortc-build-mobile-app/</link>
+      <link>https://blog.ivrpowers.com/post/coding/videortc-build-mobile-app/</link>
       <pubDate>Mon, 11 Sep 2017 10:45:24 +0200</pubDate>
       
-      <guid>http://blog.ivrpowers.com/post/coding/videortc-build-mobile-app/</guid>
+      <guid>https://blog.ivrpowers.com/post/coding/videortc-build-mobile-app/</guid>
       <description>Photo Source: Interactive Powers, Pexels. Creative Commons In this post we will show you how to build a video call service in your mobile by using the Ionic Framework 2 and VideoRTC.js.
 Step 1: Setting up the basic structure Firstly, you need to install an Ionic project in your system. If you don’t have it, you can download and follow the official guide from the Ionic Framework 2 web site.</description>
     </item>
     
     <item>
       <title>How to Build a Videocall Service (WebRTC)</title>
-      <link>http://blog.ivrpowers.com/post/coding/videortc-build-videocall/</link>
+      <link>https://blog.ivrpowers.com/post/coding/videortc-build-videocall/</link>
       <pubDate>Fri, 01 Sep 2017 11:59:22 +0200</pubDate>
       
-      <guid>http://blog.ivrpowers.com/post/coding/videortc-build-videocall/</guid>
+      <guid>https://blog.ivrpowers.com/post/coding/videortc-build-videocall/</guid>
       <description>Photo Source: Interactive Powers, Pexels. Creative Commons In this post we will show you how to build your videocall service based on HTML5 technology by using our API Framework with VideoRTC.js.
 Step 1: Setting up the basic structure Firstly, you will need to include dependency within your project or web page:
 &amp;lt;script type=&amp;quot;text/javascript&amp;quot; src=&amp;quot;videortc.js&amp;quot;&amp;gt;&amp;lt;/script&amp;gt;  You can insert a minimized version if you prefer so:

@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Popupagent on Blog</title>
-    <link>http://blog.ivrpowers.com/tags/popupagent/</link>
+    <link>https://blog.ivrpowers.com/tags/popupagent/</link>
     <description>Recent content in Popupagent on Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 05 Sep 2017 10:00:00 +0200</lastBuildDate>
     
-	<atom:link href="http://blog.ivrpowers.com/tags/popupagent/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://blog.ivrpowers.com/tags/popupagent/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Video RTC · Pop-up Agent</title>
-      <link>http://blog.ivrpowers.com/post/products/video-rtc-pop-up-agent/</link>
+      <link>https://blog.ivrpowers.com/post/products/video-rtc-pop-up-agent/</link>
       <pubDate>Tue, 05 Sep 2017 10:00:00 +0200</pubDate>
       
-      <guid>http://blog.ivrpowers.com/post/products/video-rtc-pop-up-agent/</guid>
+      <guid>https://blog.ivrpowers.com/post/products/video-rtc-pop-up-agent/</guid>
       <description>Extend Existing Call Centers with advanced Video RTC Capabilities. Overview Pop-up Agent is a specific peer component designed to add Video RTC services to an existing Call Center. It can operate over full WebRTC options or RTMP with limited functions. Pop-up Agent works with standard web browser or with an MS Windows executable application.
 Pop-up Agent functionality is easily configurable with a set of buttons and toolkit. Main options are Live Chat, File Sharing, Screen Sharing, Video Recording, Snapshot.</description>
     </item>

@@ -2,50 +2,50 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Support on Blog</title>
-    <link>http://blog.ivrpowers.com/categories/support/</link>
+    <link>https://blog.ivrpowers.com/categories/support/</link>
     <description>Recent content in Support on Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 19 Feb 2019 15:00:26 +0200</lastBuildDate>
     
-	<atom:link href="http://blog.ivrpowers.com/categories/support/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://blog.ivrpowers.com/categories/support/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Video RTC 4.0: Ready for Debian 9</title>
-      <link>http://blog.ivrpowers.com/post/support/video-rtc-upgrade-debian9/</link>
+      <link>https://blog.ivrpowers.com/post/support/video-rtc-upgrade-debian9/</link>
       <pubDate>Tue, 19 Feb 2019 15:00:26 +0200</pubDate>
       
-      <guid>http://blog.ivrpowers.com/post/support/video-rtc-upgrade-debian9/</guid>
+      <guid>https://blog.ivrpowers.com/post/support/video-rtc-upgrade-debian9/</guid>
       <description>Photo Source: Interactive Powers. Creative Commons Here’s how to go from Debian 8 to Debian 9 If you running a Video RTC Gateway (WebRTC) since 2017 or 2018, then your operating system is on Debian 8. To move up to the next update or version 4.0 you will have to upgrade to Linux OS Debian 9 (Stretch) x86 64-bit.
 Our next binary packages or CPaaS instances will now includes an installer script to automatically take you to Debian 9.</description>
     </item>
     
     <item>
       <title>Let&#39;s E-commerce become a Better Customer Experience</title>
-      <link>http://blog.ivrpowers.com/post/support/e-commerce-customer-experience/</link>
+      <link>https://blog.ivrpowers.com/post/support/e-commerce-customer-experience/</link>
       <pubDate>Wed, 16 Aug 2017 12:14:46 +0200</pubDate>
       
-      <guid>http://blog.ivrpowers.com/post/support/e-commerce-customer-experience/</guid>
+      <guid>https://blog.ivrpowers.com/post/support/e-commerce-customer-experience/</guid>
       <description>Photo Source: Pexels. Creative Commons Latest Video Real-Time Communications can be decisive to improve e-commerce services. First of all, because they are becoming very accessible and easy to use through web browsers or most of mobile devices. Plugin downloads are no longer required, you just click and your are connected. Secondly, remember that creating a live interaction with your customers like a live chat or video call channels is a proven way to increase your sales.</description>
     </item>
     
     <item>
       <title>Live Video Calling: The New Eye Witness for Insurance Companies</title>
-      <link>http://blog.ivrpowers.com/post/support/live-video-calling-insurance/</link>
+      <link>https://blog.ivrpowers.com/post/support/live-video-calling-insurance/</link>
       <pubDate>Thu, 03 Aug 2017 13:49:40 +0200</pubDate>
       
-      <guid>http://blog.ivrpowers.com/post/support/live-video-calling-insurance/</guid>
+      <guid>https://blog.ivrpowers.com/post/support/live-video-calling-insurance/</guid>
       <description>Photo source: Pexels. Creative Commons The popularity of Live Video Calling is increasing quickly in the view of the fact that it can help to provide a better customer service and reduce costs. One of the most growing sectors in applying live video is insurance businesses.
 Access to convenience. Customers expect to use the more convenient channel at every moment. Thanks to new technologies like WebRTC it is not necessary to make a prior appointment and move to a real office.</description>
     </item>
     
     <item>
       <title>Amazon&#39;s Mayday Button. The Road to the Future</title>
-      <link>http://blog.ivrpowers.com/post/support/amazon-mayday-button/</link>
+      <link>https://blog.ivrpowers.com/post/support/amazon-mayday-button/</link>
       <pubDate>Fri, 16 Jun 2017 10:42:26 +0200</pubDate>
       
-      <guid>http://blog.ivrpowers.com/post/support/amazon-mayday-button/</guid>
+      <guid>https://blog.ivrpowers.com/post/support/amazon-mayday-button/</guid>
       <description>Five years ago, Amazon launched the Mayday button to its line of Kindle Fire tablets. It provides on-device tech support all day, every day. Just by tapping the Mayday button the Kindle user is put in direct contact with an Amazon technician.
 In less than six months, the feature became the most popular way for Kindle customers to contact Amazon’s customer service. What are the ingredients for success?
 First of all, it gives customers the option of reaching out to a real person.</description>

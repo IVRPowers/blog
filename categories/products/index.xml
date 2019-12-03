@@ -2,183 +2,183 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Products on Blog</title>
-    <link>http://blog.ivrpowers.com/categories/products/</link>
+    <link>https://blog.ivrpowers.com/categories/products/</link>
     <description>Recent content in Products on Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 12 Mar 2019 22:00:00 +0200</lastBuildDate>
     
-	<atom:link href="http://blog.ivrpowers.com/categories/products/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://blog.ivrpowers.com/categories/products/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Video RTC 4.0</title>
-      <link>http://blog.ivrpowers.com/post/products/video-rtc-4-generation/</link>
+      <link>https://blog.ivrpowers.com/post/products/video-rtc-4-generation/</link>
       <pubDate>Tue, 12 Mar 2019 22:00:00 +0200</pubDate>
       
-      <guid>http://blog.ivrpowers.com/post/products/video-rtc-4-generation/</guid>
+      <guid>https://blog.ivrpowers.com/post/products/video-rtc-4-generation/</guid>
       <description>Photo Source: Interactive Powers. Creative Commons Whatever your business, Real-Time Communications can improve your services. The fourth generation of our flagship RTC product is now released after months of developments and continuous improvements. Discover how to integrate live-video, voice, and messaging technology to transform your business processes, and how Video RTC it can help you facilitate more engaging interactions with your customers or employees.
 Welcome to Video RTC 4.</description>
     </item>
     
     <item>
       <title>VoiceXML IVR 2.0</title>
-      <link>http://blog.ivrpowers.com/post/products/voicexml-ivr-2-generation/</link>
+      <link>https://blog.ivrpowers.com/post/products/voicexml-ivr-2-generation/</link>
       <pubDate>Thu, 21 Feb 2019 00:00:00 +0200</pubDate>
       
-      <guid>http://blog.ivrpowers.com/post/products/voicexml-ivr-2-generation/</guid>
+      <guid>https://blog.ivrpowers.com/post/products/voicexml-ivr-2-generation/</guid>
       <description>Photo Source: Interactive Powers. Creative Commons Interactive Voice Response refounded to becomes Conversational IVR. The second generation of our IVR product is now released after months of developments and continuous improvements. Discover how to integrate telephony and voicebots / conversational agents to transform your business processes, and how VoiceXML IVR can help you to facilitate more engaging interactions with your customers, users or employees.
 Welcome to VoiceXML IVR 2.</description>
     </item>
     
     <item>
       <title>Video RTC 4.0 Nightly!</title>
-      <link>http://blog.ivrpowers.com/post/products/video-rtc-4-nightly/</link>
+      <link>https://blog.ivrpowers.com/post/products/video-rtc-4-nightly/</link>
       <pubDate>Sun, 17 Feb 2019 20:00:00 +0200</pubDate>
       
-      <guid>http://blog.ivrpowers.com/post/products/video-rtc-4-nightly/</guid>
+      <guid>https://blog.ivrpowers.com/post/products/video-rtc-4-nightly/</guid>
       <description>Photo Source: Interactive Powers. Creative Commons The future of Video RTC is coming soon! The fourth generation of our flagship RTC is the result of a engineering teamwork and great user experience. Video RTC 4.0 will provides more features, better performance with an upgrade of the best embedded WebRTC technology. We are currently enjoying tests of all new functions to generate our ultimate 4.0 packgage!
 What about all new Widgets 4.</description>
     </item>
     
     <item>
       <title>VoiceXML IVR · Speech Recognition</title>
-      <link>http://blog.ivrpowers.com/post/products/voicexml-ivr-speech-recognition/</link>
+      <link>https://blog.ivrpowers.com/post/products/voicexml-ivr-speech-recognition/</link>
       <pubDate>Sun, 10 Feb 2019 15:00:00 +0200</pubDate>
       
-      <guid>http://blog.ivrpowers.com/post/products/voicexml-ivr-speech-recognition/</guid>
+      <guid>https://blog.ivrpowers.com/post/products/voicexml-ivr-speech-recognition/</guid>
       <description>Convert spoken voice into machine-readable format. Overview VoiceXML IVR runs most existing Cloud Speech API and some MRCP v2 engines. These STT / ASR connectors allow to get a complete development abstraction of all your interactive phone services. In combination with Text-to-Speech, you can develop the most advanced interactive voice experience with the best platform management.
 Providers  Nuance Speech Recognizer Google Speech API Amazon Lex Microsoft Azure  Use Cases  Call Stearing, Call Routing, Voice Search&amp;hellip; Support most languanges with several voices Power advanced IVR applications Power Voicebots and Voice Assistants   System Requirements Speech Recognition feature requires VoiceXML IVR On Premise or Cloud CPaaS.</description>
     </item>
     
     <item>
       <title>VoiceXML IVR · Text-to-Speech</title>
-      <link>http://blog.ivrpowers.com/post/products/voicexml-ivr-text-to-speech/</link>
+      <link>https://blog.ivrpowers.com/post/products/voicexml-ivr-text-to-speech/</link>
       <pubDate>Sun, 10 Feb 2019 15:00:00 +0200</pubDate>
       
-      <guid>http://blog.ivrpowers.com/post/products/voicexml-ivr-text-to-speech/</guid>
+      <guid>https://blog.ivrpowers.com/post/products/voicexml-ivr-text-to-speech/</guid>
       <description>Convert text into spoken voice outpout. Overview VoiceXML IVR runs most existing Text-to-Speech engines with many languages and voices powered by a cloud HTTP-API connector. This TTS connector is really fast &amp;amp; dynamic to improve the caller experience. Now, you can develop smart services with a dynamic voice response according to any kind of content: text, numbers, dates,…
 Providers  Nuance Vocalizer Google Text-to-Speech API Amazon Polly Microsoft Azure  Use Cases  Enable to generate dynamic voice prompts Support most languanges with several voices Power advanced conversational applications Generate dates, numbers, names&amp;hellip;   System Requirements Text-to-Speech feature requires VoiceXML IVR On Premise or Cloud CPaaS.</description>
     </item>
     
     <item>
       <title>Video RTC · CoBrowsing</title>
-      <link>http://blog.ivrpowers.com/post/products/turnkey-cobrowsing/</link>
+      <link>https://blog.ivrpowers.com/post/products/turnkey-cobrowsing/</link>
       <pubDate>Fri, 12 Oct 2018 15:00:00 +0200</pubDate>
       
-      <guid>http://blog.ivrpowers.com/post/products/turnkey-cobrowsing/</guid>
+      <guid>https://blog.ivrpowers.com/post/products/turnkey-cobrowsing/</guid>
       <description>Photo source: Pixabay. Creative Commons Add easily CoBrowsing to your Customer Interactions and better connect in real-time your agents and remote support teams. CoBrowsing, can help you transform the way you interact with your customers in real-time. CoBrowsing is a Video RTC extension that allows to add advanced powers both to your agents and users getting better and faster online interactions. Improve your customer care or any support interactions, time spend during phone calls or your support performance and confidence?</description>
     </item>
     
     <item>
       <title>Video RTC · CoBrowsing</title>
-      <link>http://blog.ivrpowers.com/post/products/video-rtc-cobrowsing/</link>
+      <link>https://blog.ivrpowers.com/post/products/video-rtc-cobrowsing/</link>
       <pubDate>Mon, 08 Oct 2018 12:00:00 +0200</pubDate>
       
-      <guid>http://blog.ivrpowers.com/post/products/video-rtc-cobrowsing/</guid>
+      <guid>https://blog.ivrpowers.com/post/products/video-rtc-cobrowsing/</guid>
       <description>Cobrowsing enables agents to assist users when they are browsing on your web page. Overview CoBrowsing allows you to share your browser in real-time with another remote peer. Most business processes can take benefit of using CoBrowsing feature. For instance, it is a very powerful tool to improve online shopping, telesales, remote work or support services.
 CoBrowsing functionality makes it easy to enhance your real-time communications experience with the power of a web browsing.</description>
     </item>
     
     <item>
       <title>Cloud Hosting: Turnkey Solutions</title>
-      <link>http://blog.ivrpowers.com/post/products/turnkey-cloud-hosting/</link>
+      <link>https://blog.ivrpowers.com/post/products/turnkey-cloud-hosting/</link>
       <pubDate>Sun, 07 Oct 2018 20:00:00 +0200</pubDate>
       
-      <guid>http://blog.ivrpowers.com/post/products/turnkey-cloud-hosting/</guid>
+      <guid>https://blog.ivrpowers.com/post/products/turnkey-cloud-hosting/</guid>
       <description>Photo source: Unsplash. Creative Commons Turnkey Solutions are designed to provide a quick startup without any IT requirement for your business. Our Turnkey Portfolio offers flexibility and deliver significant savings to enterprises or service providers. These pay-as-you-go products can be standalone or used in combination to provide an end to end communication services for many kind of businesses over WebRTC, RTMP, VoIP to PSTN networks.
 Forget technology, it&amp;rsquo;s about business.</description>
     </item>
     
     <item>
       <title>Voice Broadcast · Auto Dialer</title>
-      <link>http://blog.ivrpowers.com/post/products/turnkey-auto-dialer/</link>
+      <link>https://blog.ivrpowers.com/post/products/turnkey-auto-dialer/</link>
       <pubDate>Sun, 07 Oct 2018 15:00:00 +0200</pubDate>
       
-      <guid>http://blog.ivrpowers.com/post/products/turnkey-auto-dialer/</guid>
+      <guid>https://blog.ivrpowers.com/post/products/turnkey-auto-dialer/</guid>
       <description>Photo source: Pixabay. Creative Commons Calling all your business contacts at once. Auto Dialer is multi-channel dialing platform to send important alerts, promotions, updates, payment collection, political campaigns, phone surveys or notifications to your customers, employees, voters, and more. it instantly turns your browser into a complete outbound call center with an Intuitive user interface, advanced multi-campaign management and reporting. It can be easily connected to our VoiceXML IVR.</description>
     </item>
     
     <item>
       <title>Video RTC · Call Center</title>
-      <link>http://blog.ivrpowers.com/post/products/turnkey-call-center/</link>
+      <link>https://blog.ivrpowers.com/post/products/turnkey-call-center/</link>
       <pubDate>Tue, 11 Sep 2018 15:00:00 +0200</pubDate>
       
-      <guid>http://blog.ivrpowers.com/post/products/turnkey-call-center/</guid>
+      <guid>https://blog.ivrpowers.com/post/products/turnkey-call-center/</guid>
       <description>Manage your own Call Center extension for Video RTC without any more technical requirements than just a Web Browser and Internet Access. Sometimes, changing all things doesn’t mean to build something totally new to improve the way you manage your Business Communications. Call Center is a Video RTC extension or standalone Omminchannel Call Center solution that allows to add advanced powers both to your agents and customers getting better and faster interactions.</description>
     </item>
     
     <item>
       <title>Video RTC · Videocall</title>
-      <link>http://blog.ivrpowers.com/post/products/video-rtc-videocall/</link>
+      <link>https://blog.ivrpowers.com/post/products/video-rtc-videocall/</link>
       <pubDate>Tue, 11 Sep 2018 13:00:00 +0200</pubDate>
       
-      <guid>http://blog.ivrpowers.com/post/products/video-rtc-videocall/</guid>
+      <guid>https://blog.ivrpowers.com/post/products/video-rtc-videocall/</guid>
       <description>Photo source: Pixabay. Creative Commons Peer-to-Peer Communication has never been so easy to build into a Website, Mobile App or Kiosks. Videocall provides a simpler way for companies to build their own video calling service via web or mobile application. It integrates seamlessly into the workflows, functions and it is easy to manage. Agents, users or customers can communicate instantly over video without downloading software or installing plugins. It also enables multi-party calls for team collaboration.</description>
     </item>
     
     <item>
       <title>Video RTC · Web Panel</title>
-      <link>http://blog.ivrpowers.com/post/products/video-rtc-video-gateway-web-panel/</link>
+      <link>https://blog.ivrpowers.com/post/products/video-rtc-video-gateway-web-panel/</link>
       <pubDate>Tue, 21 Aug 2018 09:00:00 +0200</pubDate>
       
-      <guid>http://blog.ivrpowers.com/post/products/video-rtc-video-gateway-web-panel/</guid>
+      <guid>https://blog.ivrpowers.com/post/products/video-rtc-video-gateway-web-panel/</guid>
       <description>Photo Source: Jon Flobrant on Unsplash. Manage all logs and adjust easily main settings of your Video RTC Gateway. At Interactive Powers, we have spent many months making all our solutions better than ever, and one of our products at the very heart of our customers is our Video RTC Gateway. We have made significant improvements on visualizing all information in the Console. We’d love any and all feedback you have on this new monitoring experience.</description>
     </item>
     
     <item>
       <title>Video RTC · Meeting Point</title>
-      <link>http://blog.ivrpowers.com/post/products/video-rtc-web-conference-meeting-point/</link>
+      <link>https://blog.ivrpowers.com/post/products/video-rtc-web-conference-meeting-point/</link>
       <pubDate>Wed, 25 Jul 2018 15:00:00 +0200</pubDate>
       
-      <guid>http://blog.ivrpowers.com/post/products/video-rtc-web-conference-meeting-point/</guid>
+      <guid>https://blog.ivrpowers.com/post/products/video-rtc-web-conference-meeting-point/</guid>
       <description>Photo Source: Unsplash · Interactive Powers. Creative Commons. Make secure business online meetings with a standard OAuth authentication. Communications can be a critical part of your own business and cannot be outsourced to any kind of OTT or public cloud service. Meeting Point is a new Video RTC Use Case and solution that allows to create Video Conferences from any modern browser and your own mobile app (on demand).</description>
     </item>
     
     <item>
       <title>Video RTC · Mobile SDK</title>
-      <link>http://blog.ivrpowers.com/post/products/video-rtc-mobile-sdk/</link>
+      <link>https://blog.ivrpowers.com/post/products/video-rtc-mobile-sdk/</link>
       <pubDate>Sat, 21 Jul 2018 23:00:00 +0200</pubDate>
       
-      <guid>http://blog.ivrpowers.com/post/products/video-rtc-mobile-sdk/</guid>
+      <guid>https://blog.ivrpowers.com/post/products/video-rtc-mobile-sdk/</guid>
       <description>Photo Source: Interactive Powers. Build easily WebRTC-powered video calling into your mobile app with a simple JavaScript library for our Video RTC communication platforms. With our Video RTC · Mobile SDK, you can easily add real-time video calling over a data connection or WiFi from your website or app. Interactive Powers offers high quality video communication and seamless integration into any existing app.
 Add Real-Time Communications to your app.</description>
     </item>
     
     <item>
       <title>Video RTC · Web Dialer</title>
-      <link>http://blog.ivrpowers.com/post/products/video-rtc-web-dialer/</link>
+      <link>https://blog.ivrpowers.com/post/products/video-rtc-web-dialer/</link>
       <pubDate>Sat, 14 Jul 2018 15:00:00 +0200</pubDate>
       
-      <guid>http://blog.ivrpowers.com/post/products/video-rtc-web-dialer/</guid>
+      <guid>https://blog.ivrpowers.com/post/products/video-rtc-web-dialer/</guid>
       <description>Photo Source: Unsplash · Interactive Powers Creative Commons. Make calls from any Web Browser and easily connect your Call Center or PBX to improve your business communications. Click-to-call converts your website&amp;rsquo;s users into engaged customers by creating an easy way for your customers to contact your sales and support teams right on your website without using their phone. Today&amp;rsquo;s sales and support teams expect to be able to make calls directly from their modern web browser, and their efficiency improves when they can.</description>
     </item>
     
     <item>
       <title>Real-Time Communications applications</title>
-      <link>http://blog.ivrpowers.com/post/products/real-time-communications-applications/</link>
+      <link>https://blog.ivrpowers.com/post/products/real-time-communications-applications/</link>
       <pubDate>Thu, 05 Jul 2018 20:30:00 +0200</pubDate>
       
-      <guid>http://blog.ivrpowers.com/post/products/real-time-communications-applications/</guid>
+      <guid>https://blog.ivrpowers.com/post/products/real-time-communications-applications/</guid>
       <description>Photo source: Pixabay. Creative Commons Real-time Communications applications to streamline your online business. Video RTC platforms are changing the way real-time communications are developed and delivered. It is fast becoming the platform of choice for rapidly building enterprise class real-time voice and video applications. Our communications platform is 100% cloud ready, offering continuous evolution, scalability and high availability.
  Video chat is a clearer and modern way to communicate for online businesses</description>
     </item>
     
     <item>
       <title>Conversational IVR applications</title>
-      <link>http://blog.ivrpowers.com/post/products/conversational-ivr-applications/</link>
+      <link>https://blog.ivrpowers.com/post/products/conversational-ivr-applications/</link>
       <pubDate>Wed, 04 Jul 2018 13:30:00 +0200</pubDate>
       
-      <guid>http://blog.ivrpowers.com/post/products/conversational-ivr-applications/</guid>
+      <guid>https://blog.ivrpowers.com/post/products/conversational-ivr-applications/</guid>
       <description>Photo source: Pixabay. Creative Commons Conversational IVR applications to improve your customer experience in phone services. Tradicional IVR systems have been built as limited DTMF and direct IVR dialogs for a long time. Yet it is not a secret that the experience using those solutions has is rather poor. In 70% of those interactions, the end users end up frustrated; at “best” case scenario are rerouted to a human agent.</description>
     </item>
     
     <item>
       <title>Know our Products: Turnkey</title>
-      <link>http://blog.ivrpowers.com/post/products/turnkey-solutions/</link>
+      <link>https://blog.ivrpowers.com/post/products/turnkey-solutions/</link>
       <pubDate>Sun, 10 Jun 2018 15:00:00 +0200</pubDate>
       
-      <guid>http://blog.ivrpowers.com/post/products/turnkey-solutions/</guid>
+      <guid>https://blog.ivrpowers.com/post/products/turnkey-solutions/</guid>
       <description>The Turnkey Solutions for your business Our Turnkey Portfolio offers flexibility and deliver significant savings to enterprises or service providers. These pay-as-you-go products can be standalone or used in combination to provide an end to end communication services for many kind of businesses over WebRTC, RTMP, VoIP to PSTN networks.
 Forget technology, it&amp;rsquo;s about business. Web Dialer.  Make Voice Calls from any modern Web Browser
  Web Dialer allows all your customers and users to make phone calls directly to your PBX, IVR, Call Center from any desktop web browser (Firefox, Chrome, IE, Safari, Opera,…).</description>
@@ -186,28 +186,28 @@ Forget technology, it&amp;rsquo;s about business. Web Dialer.  Make Voice Calls 
     
     <item>
       <title>Video RTC · Remote Viewer</title>
-      <link>http://blog.ivrpowers.com/post/products/video-rtc-remote-viewer/</link>
+      <link>https://blog.ivrpowers.com/post/products/video-rtc-remote-viewer/</link>
       <pubDate>Tue, 01 May 2018 18:00:00 +0200</pubDate>
       
-      <guid>http://blog.ivrpowers.com/post/products/video-rtc-remote-viewer/</guid>
+      <guid>https://blog.ivrpowers.com/post/products/video-rtc-remote-viewer/</guid>
       <description>Photo Source: Shutterstock · Interactive Powers. Dramatically improves Customer Experience (CX) extending phone calls with Live Chat, Dual File Sharing, Dual Screen Sharing… Sometime, you don&amp;rsquo;t have to change all things to build something new and really better to improve your existing Business Communications. Remote Viewer is a new Video RTC Use Case and solution that allows to add advanced powers both to your call center agents and phone callers.</description>
     </item>
     
     <item>
       <title>Video RTC 3.0</title>
-      <link>http://blog.ivrpowers.com/post/products/video-rtc-3-generation/</link>
+      <link>https://blog.ivrpowers.com/post/products/video-rtc-3-generation/</link>
       <pubDate>Mon, 09 Oct 2017 11:06:16 +0200</pubDate>
       
-      <guid>http://blog.ivrpowers.com/post/products/video-rtc-3-generation/</guid>
+      <guid>https://blog.ivrpowers.com/post/products/video-rtc-3-generation/</guid>
       <description>Photo Source: Interactive Powers. Creative Commons Whatever your business is, you may require Real-Time Communications to improve your services. The third generation of our flagship RTC product is now released after months and years of continuous improvements. Discover how to integrate live-video, voice, and messaging technology to transform your business processes, and how Video RTC it can help you facilitate more engaging interactions with your customers or employees.</description>
     </item>
     
     <item>
       <title>Video RTC · Complementary Functions</title>
-      <link>http://blog.ivrpowers.com/post/products/video-rtc-complementary-functions/</link>
+      <link>https://blog.ivrpowers.com/post/products/video-rtc-complementary-functions/</link>
       <pubDate>Wed, 06 Sep 2017 09:30:00 +0200</pubDate>
       
-      <guid>http://blog.ivrpowers.com/post/products/video-rtc-complementary-functions/</guid>
+      <guid>https://blog.ivrpowers.com/post/products/video-rtc-complementary-functions/</guid>
       <description>Video Gateway (WebRTC) includes complementary features that you can run according to your business requirements . All of this, is part of capabilities of our Video RTC solution suite.
 Know more about our Video RTC core features here:
 SIP Connect. Video Gateway ensures interoperability between WebRTC endpoints and existing telephony systems. It integrates seamlessly advanced web phones or mobile apps into previous infraestructure. Learn more.
@@ -216,140 +216,140 @@ Meeting Point. Video Gateway provides an additional OAuth plugin that makes it e
     
     <item>
       <title>Video RTC · Pop-up Agent</title>
-      <link>http://blog.ivrpowers.com/post/products/video-rtc-pop-up-agent/</link>
+      <link>https://blog.ivrpowers.com/post/products/video-rtc-pop-up-agent/</link>
       <pubDate>Tue, 05 Sep 2017 10:00:00 +0200</pubDate>
       
-      <guid>http://blog.ivrpowers.com/post/products/video-rtc-pop-up-agent/</guid>
+      <guid>https://blog.ivrpowers.com/post/products/video-rtc-pop-up-agent/</guid>
       <description>Extend Existing Call Centers with advanced Video RTC Capabilities. Overview Pop-up Agent is a specific peer component designed to add Video RTC services to an existing Call Center. It can operate over full WebRTC options or RTMP with limited functions. Pop-up Agent works with standard web browser or with an MS Windows executable application.
 Pop-up Agent functionality is easily configurable with a set of buttons and toolkit. Main options are Live Chat, File Sharing, Screen Sharing, Video Recording, Snapshot.</description>
     </item>
     
     <item>
       <title>Video RTC · API Framework</title>
-      <link>http://blog.ivrpowers.com/post/products/video-rtc-api-framework/</link>
+      <link>https://blog.ivrpowers.com/post/products/video-rtc-api-framework/</link>
       <pubDate>Mon, 04 Sep 2017 22:00:00 +0200</pubDate>
       
-      <guid>http://blog.ivrpowers.com/post/products/video-rtc-api-framework/</guid>
+      <guid>https://blog.ivrpowers.com/post/products/video-rtc-api-framework/</guid>
       <description>Provide Core Functions to easily develop any Video RTC application for Web and Mobile. Overview API Framework feature helps to make your job easier, adapting services to your needs and personalizing them. Our platform provides developers with a wide range of possible solutions, through a flexible and powerful toolkit for building Web APIs.
 API Framework feature enables developers to design new APIs or edit existing ones. You can also customize all the way down, just using basic regular features.</description>
     </item>
     
     <item>
       <title>Video RTC · Video ID</title>
-      <link>http://blog.ivrpowers.com/post/products/video-rtc-video-id/</link>
+      <link>https://blog.ivrpowers.com/post/products/video-rtc-video-id/</link>
       <pubDate>Fri, 01 Sep 2017 09:52:47 +0200</pubDate>
       
-      <guid>http://blog.ivrpowers.com/post/products/video-rtc-video-id/</guid>
+      <guid>https://blog.ivrpowers.com/post/products/video-rtc-video-id/</guid>
       <description>Protect your Real-Time Communications with Secure Identification API integrations. Overview Video ID feature helps you to improve security in your real-time communication services. Our solutions include partner options for ID Verification through an external provider certified API. This capability enables to comply with identity verification processes required, for instance, by banks, insurances, e-commerces or telemedicine.
 Video ID functionality captures and validates users’ information, whilst conducting a real-time check. Video ID capability is a set of API, which can optionally include Facial Recognition.</description>
     </item>
     
     <item>
       <title>Video RTC · Industries</title>
-      <link>http://blog.ivrpowers.com/post/products/video-rtc-industries/</link>
+      <link>https://blog.ivrpowers.com/post/products/video-rtc-industries/</link>
       <pubDate>Thu, 31 Aug 2017 11:00:16 +0200</pubDate>
       
-      <guid>http://blog.ivrpowers.com/post/products/video-rtc-industries/</guid>
+      <guid>https://blog.ivrpowers.com/post/products/video-rtc-industries/</guid>
       <description>Photo Source: Interactive Powers, Pexels. Creative Commons Whatever your business, product, or service is you can require real-time communications technologies. Discover how organizations like yours are integrating live-video, voice, and messaging technology to transform their industries, and how Video RTC can help you facilitate more engaging interactions with your customers or employees.
 Call Centers. Contact Centers continue to evolve rapidly as consumers expect a highly personalized and engaging experience.</description>
     </item>
     
     <item>
       <title>Video RTC · Video Recording</title>
-      <link>http://blog.ivrpowers.com/post/products/video-rtc-video-recording/</link>
+      <link>https://blog.ivrpowers.com/post/products/video-rtc-video-recording/</link>
       <pubDate>Wed, 30 Aug 2017 22:00:00 +0200</pubDate>
       
-      <guid>http://blog.ivrpowers.com/post/products/video-rtc-video-recording/</guid>
+      <guid>https://blog.ivrpowers.com/post/products/video-rtc-video-recording/</guid>
       <description>Easily record secure Live Video Calls for later playback. Overview Video Recording capability enables to record your video calls in real-time. Files are securely stored and you can immediately access to content following your demands. Call records are directly pushed to your own secure file system storage or any web service, such as Amazon S3, Windows Azure, Google accounts… Enjoy playback with high-quality WebM recordings.
 Video Recording functionality includes converter tools to automatically live-convert video streams to MP4 for easy access with no post-processing required on your end.</description>
     </item>
     
     <item>
       <title>Video RTC · SIP Connect</title>
-      <link>http://blog.ivrpowers.com/post/products/video-rtc-sip-connect/</link>
+      <link>https://blog.ivrpowers.com/post/products/video-rtc-sip-connect/</link>
       <pubDate>Tue, 29 Aug 2017 10:00:00 +0200</pubDate>
       
-      <guid>http://blog.ivrpowers.com/post/products/video-rtc-sip-connect/</guid>
+      <guid>https://blog.ivrpowers.com/post/products/video-rtc-sip-connect/</guid>
       <description>Connect WebRTC or RTMP to traditional SIP telephony systems or devices. Overview SIP Connect feature is designed to make traditional calls across web or mobile phones. It enables interoperability between WebRTC endpoints and existing telephony systems, like your current PBX or phone lines. For instance, a Call Center can send and receive SIP-based calls, using SPLIT function as well.
 SIP Connect functionality allows you to send Dual-tone multi-frequency signalling (DTMF) or in-band telecommunication signalling system using the voice-frequency band over SIP.</description>
     </item>
     
     <item>
       <title>Video RTC · Meeting Point</title>
-      <link>http://blog.ivrpowers.com/post/products/video-rtc-meeting-point/</link>
+      <link>https://blog.ivrpowers.com/post/products/video-rtc-meeting-point/</link>
       <pubDate>Sun, 27 Aug 2017 09:00:00 +0200</pubDate>
       
-      <guid>http://blog.ivrpowers.com/post/products/video-rtc-meeting-point/</guid>
+      <guid>https://blog.ivrpowers.com/post/products/video-rtc-meeting-point/</guid>
       <description>Make secure business online meetings with a standard OAuth authentication. Overview Meeting Point feature is an additional OAuth plugin to make easier user authentication for Internet services without retrieving passwords. It includes many tested methods for different social networks like Google, Linkedin or Twitter. However, you can create your own OAuth interface too.
 Meeting Point functionality allows to easily connect users to your real-time services without having to add third-party components.</description>
     </item>
     
     <item>
       <title>Video RTC · Over Printing</title>
-      <link>http://blog.ivrpowers.com/post/products/video-rtc-over-printing/</link>
+      <link>https://blog.ivrpowers.com/post/products/video-rtc-over-printing/</link>
       <pubDate>Thu, 24 Aug 2017 19:00:00 +0200</pubDate>
       
-      <guid>http://blog.ivrpowers.com/post/products/video-rtc-over-printing/</guid>
+      <guid>https://blog.ivrpowers.com/post/products/video-rtc-over-printing/</guid>
       <description>Create Multi-tenant Video Services over WebRTC for your Contact Center. Overview Over Printing feature allows to print a logo inside the remote frame. Instead of specific customisation you can use it to distribute video calls to several services with their own service logo. It’s very useful for a Call Center with many services operated with different profiles.
 Over Printing functionality is easy to configure inside our multi-flavor settings without specific coding.</description>
     </item>
     
     <item>
       <title>Video RTC · Snapshot</title>
-      <link>http://blog.ivrpowers.com/post/products/video-rtc-snapshot/</link>
+      <link>https://blog.ivrpowers.com/post/products/video-rtc-snapshot/</link>
       <pubDate>Wed, 23 Aug 2017 22:00:00 +0200</pubDate>
       
-      <guid>http://blog.ivrpowers.com/post/products/video-rtc-snapshot/</guid>
+      <guid>https://blog.ivrpowers.com/post/products/video-rtc-snapshot/</guid>
       <description>Take or get pictures dynamically during your remote video conversations. Overview Snapshot feature allows you to take easily a picture within the video. This functionality helps to enhance your real-time communications experience with the power of content. For instance, you can get Jpeg pictures from agents or users frames during a process, retrieving them later or share them to an external application interface.
 Snapshot makes it possible to save a picture from the middle of a video, all within the context of your website or application.</description>
     </item>
     
     <item>
       <title>Video RTC · Voice Calling</title>
-      <link>http://blog.ivrpowers.com/post/products/video-rtc-voice-calling/</link>
+      <link>https://blog.ivrpowers.com/post/products/video-rtc-voice-calling/</link>
       <pubDate>Mon, 21 Aug 2017 14:00:00 +0200</pubDate>
       
-      <guid>http://blog.ivrpowers.com/post/products/video-rtc-voice-calling/</guid>
+      <guid>https://blog.ivrpowers.com/post/products/video-rtc-voice-calling/</guid>
       <description>Make advanced Voice Call or Web Phone applications for Real-Time Communications. Overview Voice Calling functionality ensures that no one misses out on the full application experience. It helps to provide an effective customer care, offering the option to hear voices in real-time. Voice Calling keeps interactions as easy, simply and fast as possible.
 Voice Calling application makes it easy to create real-time communications (RTC) for your business applications and processes.</description>
     </item>
     
     <item>
       <title>Video RTC · Video Calling</title>
-      <link>http://blog.ivrpowers.com/post/products/video-rtc-video-calling/</link>
+      <link>https://blog.ivrpowers.com/post/products/video-rtc-video-calling/</link>
       <pubDate>Sun, 20 Aug 2017 13:00:00 +0200</pubDate>
       
-      <guid>http://blog.ivrpowers.com/post/products/video-rtc-video-calling/</guid>
+      <guid>https://blog.ivrpowers.com/post/products/video-rtc-video-calling/</guid>
       <description>Create amazing Real-Time Communications with Dual-band Voice and Video capabilities Overview Video Calling functionality provides a simpler way for people to communicate via web. It integrates seamlessly into the workflows and it is easy to manage. Agents or customers can communicate instantly over video without downloading software or installing plugins. It also enables multi-party calls for team collaboration.
 Video Calling application makes it easy to create real-time communications (RTC) for your business applications and processes.</description>
     </item>
     
     <item>
       <title>Video RTC · Screen Sharing</title>
-      <link>http://blog.ivrpowers.com/post/products/video-rtc-screen-sharing/</link>
+      <link>https://blog.ivrpowers.com/post/products/video-rtc-screen-sharing/</link>
       <pubDate>Fri, 18 Aug 2017 12:00:00 +0200</pubDate>
       
-      <guid>http://blog.ivrpowers.com/post/products/video-rtc-screen-sharing/</guid>
+      <guid>https://blog.ivrpowers.com/post/products/video-rtc-screen-sharing/</guid>
       <description>Secure screen share your desktop or any application in Real-Time Communications. Overview Screen Sharing application allows you to share live screen over the web or mobile instantly. Most business processes can take benefit of using Screen Sharing feature. For instance, it is a very powerful tool to improve online meetings, presentations, remote work or support services.
 Screen Sharing functionality makes it easy to enhance your real-time communications experience with the power of content, all within the context of your website or application.</description>
     </item>
     
     <item>
       <title>Video RTC · File Sharing</title>
-      <link>http://blog.ivrpowers.com/post/products/video-rtc-file-sharing/</link>
+      <link>https://blog.ivrpowers.com/post/products/video-rtc-file-sharing/</link>
       <pubDate>Fri, 18 Aug 2017 10:00:00 +0200</pubDate>
       
-      <guid>http://blog.ivrpowers.com/post/products/video-rtc-file-sharing/</guid>
+      <guid>https://blog.ivrpowers.com/post/products/video-rtc-file-sharing/</guid>
       <description>Send and Receive Files or Documents in Real-Time Communications. Overview File Sharing application helps you to enhance your real-time communications experience with the power of content. It allows you to instantly transfer any file establishing a peer connection all within the context of your website or application. With the file sharing feature you can send and receive unlimited files just dragging them in the chat window.
 File Sharing functionality makes it possible to share and receive documents during your voice or video call.</description>
     </item>
     
     <item>
       <title>Video RTC · Core Features</title>
-      <link>http://blog.ivrpowers.com/post/products/video-rtc-core-features/</link>
+      <link>https://blog.ivrpowers.com/post/products/video-rtc-core-features/</link>
       <pubDate>Thu, 17 Aug 2017 09:30:00 +0200</pubDate>
       
-      <guid>http://blog.ivrpowers.com/post/products/video-rtc-core-features/</guid>
+      <guid>https://blog.ivrpowers.com/post/products/video-rtc-core-features/</guid>
       <description>Photo source: Interactive Powers Video Gateway (WebRTC) includes core features that you can activate according to your own business requirements . All of this, is part of the main capabilities of our Video RTC solution suite.
 Know more about our Video RTC core features here:
 Video Calling. Video Gateway provides a simpler way for people to communicate via web. It integrates seamlessly into the workflows and it is easy to manage.</description>
@@ -357,19 +357,19 @@ Video Calling. Video Gateway provides a simpler way for people to communicate vi
     
     <item>
       <title>Video RTC · Live Chat</title>
-      <link>http://blog.ivrpowers.com/post/products/video-rtc-live-chat/</link>
+      <link>https://blog.ivrpowers.com/post/products/video-rtc-live-chat/</link>
       <pubDate>Thu, 17 Aug 2017 09:00:00 +0200</pubDate>
       
-      <guid>http://blog.ivrpowers.com/post/products/video-rtc-live-chat/</guid>
+      <guid>https://blog.ivrpowers.com/post/products/video-rtc-live-chat/</guid>
       <description>Manage Smart Text Message interactions in Real-Time Communications. Overview Live Chat supplement your video and voice communication with advanced text chat capabilities using the WebRTC datachannel. Live Chat feature allows to send and receive text messages simultaneously, without any lag at a single click. It is the perfect tool to use for the customer and an agent conversation. Live chat integrates seamlessly into your application, eliminating the need for clunky third-party APIs.</description>
     </item>
     
     <item>
       <title>Interactive Powers · Microsites</title>
-      <link>http://blog.ivrpowers.com/post/products/products-microsites/</link>
+      <link>https://blog.ivrpowers.com/post/products/products-microsites/</link>
       <pubDate>Wed, 16 Aug 2017 23:22:18 +0200</pubDate>
       
-      <guid>http://blog.ivrpowers.com/post/products/products-microsites/</guid>
+      <guid>https://blog.ivrpowers.com/post/products/products-microsites/</guid>
       <description>Photo source: Interactive Powers We are pleased to share our nice product microsite links in this post. You will find a summary of all features and an easier way to talk about them from socials networks and email.
 Microsite - VoiceXML IVR Refining IVR with Software · http://voicexml.ivrpowers.com
 Microsite - Video RTC Video Real Time Communications · http://videortc.ivrpowers.com
@@ -378,29 +378,29 @@ Microsite - Webclient Calling from any Web Browser · http://webclient.ivrpowers
     
     <item>
       <title>Video RTC (WebRTC) Roadmap 2017!</title>
-      <link>http://blog.ivrpowers.com/post/products/video-rtc-roadmap-2017/</link>
+      <link>https://blog.ivrpowers.com/post/products/video-rtc-roadmap-2017/</link>
       <pubDate>Mon, 07 Aug 2017 23:22:18 +0200</pubDate>
       
-      <guid>http://blog.ivrpowers.com/post/products/video-rtc-roadmap-2017/</guid>
+      <guid>https://blog.ivrpowers.com/post/products/video-rtc-roadmap-2017/</guid>
       <description>Photo source: Pixabay. Creative Commons We are pleased to unveil some key elements of our Video RTC (WebRTC) evolution until 2017. Major changes will follow WebRTC’s evolution itself. Our primary goal is to provide improved features to all Special Extensions like SPLIT, Video Calling, Live Chat, File Sharing, Screen Sharing, Video Recording, Snapshot&amp;hellip; In the next quarter, we will make significant improvements like adding a better Customer Experience with Video Real-Time Communications&amp;hellip;</description>
     </item>
     
     <item>
       <title>Know our Products: VideoRTC</title>
-      <link>http://blog.ivrpowers.com/post/products/video-rtc/</link>
+      <link>https://blog.ivrpowers.com/post/products/video-rtc/</link>
       <pubDate>Tue, 13 Jun 2017 11:22:18 +0200</pubDate>
       
-      <guid>http://blog.ivrpowers.com/post/products/video-rtc/</guid>
+      <guid>https://blog.ivrpowers.com/post/products/video-rtc/</guid>
       <description>The Video Real Time Communications Platform Our Video Gateway connects peers or endpoints between WebRTC, RTMP and SIP technology to create advanced Video services. It works in common hardware or Cloud VM servers configurations, providing a highly scalable base system to meet all customers’ business and technical requirements.
 Cloud Ready. Our Video Gateway solutions are software based and ready to run over Cloud environments and Virtual Servers. You can setup our Video RTC platforms over Amazon EC2 servers or any Private/Public Cloud.</description>
     </item>
     
     <item>
       <title>Video RTC: Special Extensions</title>
-      <link>http://blog.ivrpowers.com/post/products/video-rtc-special-extensions/</link>
+      <link>https://blog.ivrpowers.com/post/products/video-rtc-special-extensions/</link>
       <pubDate>Tue, 13 Jun 2017 11:22:18 +0200</pubDate>
       
-      <guid>http://blog.ivrpowers.com/post/products/video-rtc-special-extensions/</guid>
+      <guid>https://blog.ivrpowers.com/post/products/video-rtc-special-extensions/</guid>
       <description>Video Gateway (WebRTC) includes many features or special extensions that you can activate according to your own business processes. All of this, is part of the capabilities of our Video RTC solution suite.
 Video RTC special extensions are:
 Live Chat. Video Gateway supports Live Chat feature thru a DataChannel. You can customize all the User or Agent front-end in Flash or HTML5 according the gateway mode you have deployed for your service.</description>
@@ -408,10 +408,10 @@ Live Chat. Video Gateway supports Live Chat feature thru a DataChannel. You can 
     
     <item>
       <title>Know our Products: VoiceXML IVR</title>
-      <link>http://blog.ivrpowers.com/post/products/voicexml-ivr/</link>
+      <link>https://blog.ivrpowers.com/post/products/voicexml-ivr/</link>
       <pubDate>Mon, 12 Jun 2017 13:25:21 +0200</pubDate>
       
-      <guid>http://blog.ivrpowers.com/post/products/voicexml-ivr/</guid>
+      <guid>https://blog.ivrpowers.com/post/products/voicexml-ivr/</guid>
       <description>The Interactive Voice Response Platform Our VoiceXML IVR software platform gives operators and solution providers the ability to rapidly develop and deploy innovative voice applications from VoIP to PSTN networks.
 This powerful IVR solution is fully compliant with the W3C’s VoiceXML 2.1 specification and is integrated with automatic speech recognition (ASR) and text-to-speech (TTS) software to enable advanced interactive services, and real-time calling applications.
 It can be installed in common hardware or Cloud VM servers configurations, providing a highly scalable base system to meet all customers’ business and technical requirements.</description>

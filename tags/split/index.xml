@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Split on Blog</title>
-    <link>http://blog.ivrpowers.com/tags/split/</link>
+    <link>https://blog.ivrpowers.com/tags/split/</link>
     <description>Recent content in Split on Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 21 Jun 2017 00:20:05 +0200</lastBuildDate>
     
-	<atom:link href="http://blog.ivrpowers.com/tags/split/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://blog.ivrpowers.com/tags/split/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>What is SPLIT?</title>
-      <link>http://blog.ivrpowers.com/post/technologies/what-is-split/</link>
+      <link>https://blog.ivrpowers.com/post/technologies/what-is-split/</link>
       <pubDate>Wed, 21 Jun 2017 00:20:05 +0200</pubDate>
       
-      <guid>http://blog.ivrpowers.com/post/technologies/what-is-split/</guid>
+      <guid>https://blog.ivrpowers.com/post/technologies/what-is-split/</guid>
       <description>All Video Gateways (WebRTC | RTMP) developed by IVRPowers include a special plugin which allows separate the media streams (video - audio - data) for any communication between users and agents. This development is based on SIP and WebRTC | RTMP peers communications for the integration of voice, video and data in Contact Centers.
 How does SPLIT work? The Audio-Video SPLIT mode works as following:
 A Videocall is initiated by a customer endpoint and comes into the Video Gateway.</description>

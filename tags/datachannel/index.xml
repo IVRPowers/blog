@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Datachannel on Blog</title>
-    <link>http://blog.ivrpowers.com/tags/datachannel/</link>
+    <link>https://blog.ivrpowers.com/tags/datachannel/</link>
     <description>Recent content in Datachannel on Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 26 Oct 2017 10:45:24 +0200</lastBuildDate>
     
-	<atom:link href="http://blog.ivrpowers.com/tags/datachannel/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://blog.ivrpowers.com/tags/datachannel/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>How it Works our Datachannel with VideoRTC.js</title>
-      <link>http://blog.ivrpowers.com/post/coding/datachannel-videortc/</link>
+      <link>https://blog.ivrpowers.com/post/coding/datachannel-videortc/</link>
       <pubDate>Thu, 26 Oct 2017 10:45:24 +0200</pubDate>
       
-      <guid>http://blog.ivrpowers.com/post/coding/datachannel-videortc/</guid>
+      <guid>https://blog.ivrpowers.com/post/coding/datachannel-videortc/</guid>
       <description>Photo Source: Interactive Powers, Pexels. Creative Commons In this post, we will show you how it works with Datachannel using VideoRTC.js and how to code quickly a simple service for a specific purpose.
 Introduction First of all you need to know the modules in which we currently have available the Datachannel: These are the Videocall and the SPLIT. In this example we will use the first one, though the operation would be the same in both.</description>
     </item>

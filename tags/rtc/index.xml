@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Rtc on Blog</title>
-    <link>http://blog.ivrpowers.com/tags/rtc/</link>
+    <link>https://blog.ivrpowers.com/tags/rtc/</link>
     <description>Recent content in Rtc on Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 01 Dec 2019 12:00:00 +0200</lastBuildDate>
     
-	<atom:link href="http://blog.ivrpowers.com/tags/rtc/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://blog.ivrpowers.com/tags/rtc/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>VideoRTC.js (API) v3.2.0</title>
-      <link>http://blog.ivrpowers.com/post/updates/update-video-rtc-js-3.2.0/</link>
+      <link>https://blog.ivrpowers.com/post/updates/update-video-rtc-js-3.2.0/</link>
       <pubDate>Sun, 01 Dec 2019 12:00:00 +0200</pubDate>
       
-      <guid>http://blog.ivrpowers.com/post/updates/update-video-rtc-js-3.2.0/</guid>
+      <guid>https://blog.ivrpowers.com/post/updates/update-video-rtc-js-3.2.0/</guid>
       <description>Release Note We are pleased to announce that our API Framework for Javascript VideoRTC.js v3.2.0 has been released for suitable for Web Developments and Mobile SDK . All users with previous maintained versions can upgrade today. Please contact our support!
 ChangeLog Version 3.2.0:
 ## [3.2.0] - 2019-11-28 ### Added - Added new events on the Videocall and SPLIT modules to detect slow links with the remote video  Interactive Powers - Streamline your business communications</description>
@@ -24,19 +24,19 @@ ChangeLog Version 3.2.0:
     
     <item>
       <title>Why WebRTC makes VoIP services more attractive?</title>
-      <link>http://blog.ivrpowers.com/post/marketing/why-webrtc-makes-voip-services-more-attractive/</link>
+      <link>https://blog.ivrpowers.com/post/marketing/why-webrtc-makes-voip-services-more-attractive/</link>
       <pubDate>Tue, 12 Nov 2019 17:00:00 +0200</pubDate>
       
-      <guid>http://blog.ivrpowers.com/post/marketing/why-webrtc-makes-voip-services-more-attractive/</guid>
+      <guid>https://blog.ivrpowers.com/post/marketing/why-webrtc-makes-voip-services-more-attractive/</guid>
       <description>Photo source: Unsplash - Interactive Powers Nowadays telephony is still used under a specific network integration that is not all IP powered like PSTN numbering and specific rules to manage its traffic with operators. Until this day, Voice over IP has disrupted the telephony but still providing the same phone user experience; at the end, users are still dialing to a 9-10 digits number and all the call process is mostly the same.</description>
     </item>
     
     <item>
       <title>Video RTC (WebRTC) v4.1.0</title>
-      <link>http://blog.ivrpowers.com/post/updates/update-video-rtc-webrtc-4.1.0/</link>
+      <link>https://blog.ivrpowers.com/post/updates/update-video-rtc-webrtc-4.1.0/</link>
       <pubDate>Mon, 21 Oct 2019 12:00:00 +0200</pubDate>
       
-      <guid>http://blog.ivrpowers.com/post/updates/update-video-rtc-webrtc-4.1.0/</guid>
+      <guid>https://blog.ivrpowers.com/post/updates/update-video-rtc-webrtc-4.1.0/</guid>
       <description>Release Note We are pleased to announce that our new Video RTC (Gateway WebRTC) v4.1.0 has been released for suitable production services. This new version includes a hot fix for Firefox Web Browsers. All users with previous maintained versions can upgrade today. Please contact our support!
 ChangeLog Version 4.1.0:
 ## [4.1.0] - 2019-10-21 ### Added - Added support for Safari &amp;gt;= 12.1 - Added possibility to choose the default quality of the Webclient through theme configuration - Added autocall, autoclose and hangup button in the Escalating - Added a new config param in the Webclient and Escalating usecases to redirect when a call ends (e.</description>
@@ -44,10 +44,10 @@ ChangeLog Version 4.1.0:
     
     <item>
       <title>VideoRTC.js (API) v3.1.0</title>
-      <link>http://blog.ivrpowers.com/post/updates/update-video-rtc-js-3.1.0/</link>
+      <link>https://blog.ivrpowers.com/post/updates/update-video-rtc-js-3.1.0/</link>
       <pubDate>Mon, 21 Oct 2019 12:00:00 +0200</pubDate>
       
-      <guid>http://blog.ivrpowers.com/post/updates/update-video-rtc-js-3.1.0/</guid>
+      <guid>https://blog.ivrpowers.com/post/updates/update-video-rtc-js-3.1.0/</guid>
       <description>Release Note We are pleased to announce that our API Framework for Javascript VideoRTC.js v3.1.0 has been released for suitable for Web Developments and Mobile SDK . All users with previous maintained versions can upgrade today. Please contact our support!
 ChangeLog Version 3.1.0:
 ## [3.1.0] - 2019-10-21 ### Added - Added device field in the Opaque ID object - Added support for Safari &amp;gt;= 12.1 ### Changed - Aligned to the new VideoGateway `v4.</description>
@@ -55,29 +55,29 @@ ChangeLog Version 3.1.0:
     
     <item>
       <title>Security improvement for WebRTC in Firefox 68</title>
-      <link>http://blog.ivrpowers.com/post/news/firefox68-requires-https-in-all-sources/</link>
+      <link>https://blog.ivrpowers.com/post/news/firefox68-requires-https-in-all-sources/</link>
       <pubDate>Tue, 23 Jul 2019 20:00:00 +0200</pubDate>
       
-      <guid>http://blog.ivrpowers.com/post/news/firefox68-requires-https-in-all-sources/</guid>
+      <guid>https://blog.ivrpowers.com/post/news/firefox68-requires-https-in-all-sources/</guid>
       <description>Photo Source: Creative Commons Firefox 68 will now only expose camera and microphone in secure contexts. As of Firefox 68 — releasing past weeks — WebRTC camera and microphone will require an https connection to work. Access from insecure http will cease to work, matching how Chrome works. Camera and microhone are powerful features, and Firefox will now only expose them in secure contexts, a security and privacy improvement.</description>
     </item>
     
     <item>
       <title>Video RTC 4.0</title>
-      <link>http://blog.ivrpowers.com/post/products/video-rtc-4-generation/</link>
+      <link>https://blog.ivrpowers.com/post/products/video-rtc-4-generation/</link>
       <pubDate>Tue, 12 Mar 2019 22:00:00 +0200</pubDate>
       
-      <guid>http://blog.ivrpowers.com/post/products/video-rtc-4-generation/</guid>
+      <guid>https://blog.ivrpowers.com/post/products/video-rtc-4-generation/</guid>
       <description>Photo Source: Interactive Powers. Creative Commons Whatever your business, Real-Time Communications can improve your services. The fourth generation of our flagship RTC product is now released after months of developments and continuous improvements. Discover how to integrate live-video, voice, and messaging technology to transform your business processes, and how Video RTC it can help you facilitate more engaging interactions with your customers or employees.
 Welcome to Video RTC 4.</description>
     </item>
     
     <item>
       <title>Video RTC (WebRTC) v4.0.0</title>
-      <link>http://blog.ivrpowers.com/post/updates/update-video-rtc-webrtc-4.0.0/</link>
+      <link>https://blog.ivrpowers.com/post/updates/update-video-rtc-webrtc-4.0.0/</link>
       <pubDate>Tue, 12 Mar 2019 12:00:00 +0200</pubDate>
       
-      <guid>http://blog.ivrpowers.com/post/updates/update-video-rtc-webrtc-4.0.0/</guid>
+      <guid>https://blog.ivrpowers.com/post/updates/update-video-rtc-webrtc-4.0.0/</guid>
       <description>Release Note We are pleased to announce that our new Video RTC (Gateway WebRTC) v4.0.0 has been released for suitable production services. This new version includes a hot fix for Firefox Web Browsers. All users with previous maintained versions can upgrade today. Please contact our support!
 ChangeLog Version 4.0.0:
 ## [4.0.0] - 2019-03-12 ### Added - Added Escalating usecase - Added Tester usecase - Added Remote Viewer usecase ### Changed - Web developments have been created with a modern tech stack using Webpack, Vue and Bulma.</description>
@@ -85,10 +85,10 @@ ChangeLog Version 4.0.0:
     
     <item>
       <title>VideoRTC.js (API) v3.0.0</title>
-      <link>http://blog.ivrpowers.com/post/updates/update-video-rtc-js-3.0.0/</link>
+      <link>https://blog.ivrpowers.com/post/updates/update-video-rtc-js-3.0.0/</link>
       <pubDate>Tue, 12 Mar 2019 12:00:00 +0200</pubDate>
       
-      <guid>http://blog.ivrpowers.com/post/updates/update-video-rtc-js-3.0.0/</guid>
+      <guid>https://blog.ivrpowers.com/post/updates/update-video-rtc-js-3.0.0/</guid>
       <description>Release Note We are pleased to announce that our API Framework for Javascript VideoRTC.js v3.0.0 has been released for suitable for Web Developments and Mobile SDK . All users with previous maintained versions can upgrade today. Please contact our support!
 ChangeLog Version 3.0.0:
 ## [2.1.0] - 2018-01-16 ### Added - Added `videoStream` and `videoEnabled` option parameters in the SplitAgent module - Added `onReadyLocalAudio`, `onAcceptedData` and `onScreensharingClosed` events in the SplitClient module - Added `onAcceptedData` and `onReadyLocalStream` events in the SplitAgent module - Added a mechanism that guarantees the sending of files through the Datachannel - Added `onFileTransferOk` and `onFileTransferKo` events in the modules that use the Datachannel - Added `startScreensharing` and `stopScreensharing` actions in the SplitClient module - Added `notify` method in the following modules: SplitClient and SplitAgent - Added Safari iOS 11 support in the SplitClient module (Audio mode) ### Changed - Updated recording mode in the SPLIT modules ### Fixed - Fixed the use of the debug parameter at library level ## [2.</description>
@@ -96,20 +96,20 @@ ChangeLog Version 3.0.0:
     
     <item>
       <title>Video RTC 4.0 Nightly!</title>
-      <link>http://blog.ivrpowers.com/post/products/video-rtc-4-nightly/</link>
+      <link>https://blog.ivrpowers.com/post/products/video-rtc-4-nightly/</link>
       <pubDate>Sun, 17 Feb 2019 20:00:00 +0200</pubDate>
       
-      <guid>http://blog.ivrpowers.com/post/products/video-rtc-4-nightly/</guid>
+      <guid>https://blog.ivrpowers.com/post/products/video-rtc-4-nightly/</guid>
       <description>Photo Source: Interactive Powers. Creative Commons The future of Video RTC is coming soon! The fourth generation of our flagship RTC is the result of a engineering teamwork and great user experience. Video RTC 4.0 will provides more features, better performance with an upgrade of the best embedded WebRTC technology. We are currently enjoying tests of all new functions to generate our ultimate 4.0 packgage!
 What about all new Widgets 4.</description>
     </item>
     
     <item>
       <title>Upcoming Video RTC 4.0</title>
-      <link>http://blog.ivrpowers.com/post/news/2019-02-rtc-upcoming-4/</link>
+      <link>https://blog.ivrpowers.com/post/news/2019-02-rtc-upcoming-4/</link>
       <pubDate>Sat, 09 Feb 2019 14:00:00 +0200</pubDate>
       
-      <guid>http://blog.ivrpowers.com/post/news/2019-02-rtc-upcoming-4/</guid>
+      <guid>https://blog.ivrpowers.com/post/news/2019-02-rtc-upcoming-4/</guid>
       <description>Photo Source: Interactive Powers. Creative Commons Innovate. Rebuild your customer interactions&amp;hellip; Follow our socials and blog; be ready to discover our major release update about Video Real-Time Communications. We will pleased to show you soon our 4th generation of our Video Gateway platforms.
 Keep posted on February 2019!
 Interactive Powers - Streamline your business communications</description>
@@ -117,20 +117,20 @@ Interactive Powers - Streamline your business communications</description>
     
     <item>
       <title> Unified Plan SDP format released in Chrome 72&#43; </title>
-      <link>http://blog.ivrpowers.com/post/news/chrome72-sdp-phase3-update/</link>
+      <link>https://blog.ivrpowers.com/post/news/chrome72-sdp-phase3-update/</link>
       <pubDate>Sat, 02 Feb 2019 16:00:00 +0200</pubDate>
       
-      <guid>http://blog.ivrpowers.com/post/news/chrome72-sdp-phase3-update/</guid>
+      <guid>https://blog.ivrpowers.com/post/news/chrome72-sdp-phase3-update/</guid>
       <description>Photo Source: Unsplash. Creative Commons Chrome goes into Unified Plan SDP (Phase 3) for its WebRTC implementation Google is planning to change the WebRTC implementation from the current SDP format called &amp;ldquo;Plan B&amp;rdquo; to a standards format &amp;ldquo;Unified Plan&amp;rdquo; over 4 phases.
 Chrome M72 version will be the first release to apply phase 3, and will require to upgrade sonn our Video RTC platform to run properly all this new SDP format.</description>
     </item>
     
     <item>
       <title>VideoRTC.js (API) v2.5.1</title>
-      <link>http://blog.ivrpowers.com/post/updates/update-video-rtc-js-2.5.1/</link>
+      <link>https://blog.ivrpowers.com/post/updates/update-video-rtc-js-2.5.1/</link>
       <pubDate>Fri, 01 Feb 2019 12:00:00 +0200</pubDate>
       
-      <guid>http://blog.ivrpowers.com/post/updates/update-video-rtc-js-2.5.1/</guid>
+      <guid>https://blog.ivrpowers.com/post/updates/update-video-rtc-js-2.5.1/</guid>
       <description>Release Note We are pleased to announce that our API Framework for Javascript VideoRTC.js v2.5.1 has been released for suitable for Web Developments and Mobile SDK . All users with previous maintained versions can upgrade today. Please contact our support!
 ChangeLog Version 2.1.0 · 2.5.1:
 ## [2.1.0] - 2018-01-16 ### Added - Added `videoStream` and `videoEnabled` option parameters in the SplitAgent module - Added `onReadyLocalAudio`, `onAcceptedData` and `onScreensharingClosed` events in the SplitClient module - Added `onAcceptedData` and `onReadyLocalStream` events in the SplitAgent module - Added a mechanism that guarantees the sending of files through the Datachannel - Added `onFileTransferOk` and `onFileTransferKo` events in the modules that use the Datachannel - Added `startScreensharing` and `stopScreensharing` actions in the SplitClient module - Added `notify` method in the following modules: SplitClient and SplitAgent - Added Safari iOS 11 support in the SplitClient module (Audio mode) ### Changed - Updated recording mode in the SPLIT modules ### Fixed - Fixed the use of the debug parameter at library level ## [2.</description>
@@ -138,49 +138,49 @@ ChangeLog Version 2.1.0 · 2.5.1:
     
     <item>
       <title>Video Gateway: RTMP &amp; WebRTC comparison</title>
-      <link>http://blog.ivrpowers.com/post/technologies/webrtc-vs-rtmp/</link>
+      <link>https://blog.ivrpowers.com/post/technologies/webrtc-vs-rtmp/</link>
       <pubDate>Tue, 29 Jan 2019 16:00:00 +0200</pubDate>
       
-      <guid>http://blog.ivrpowers.com/post/technologies/webrtc-vs-rtmp/</guid>
+      <guid>https://blog.ivrpowers.com/post/technologies/webrtc-vs-rtmp/</guid>
       <description>Image source: Interactive Powers What are the main differences between RTMP and WebRTC gateway models? Currently, Video RTC is our flagship product line for any RTC project&amp;rsquo;s deployments. We have prepared this summary to clarify what are the main features and how to move forward for your business.
 Our Video Gateway connects peers or endpoints between WebRTC, RTMP and SIP technology to create advanced Video services. RTMP is an open protocol for Adobe Flash Player that allows to connect flash compliant browsers.</description>
     </item>
     
     <item>
       <title>The Merge of IVR and RTC into the Contact Center</title>
-      <link>http://blog.ivrpowers.com/post/marketing/the-merge-ivr-rtc-contact-center/</link>
+      <link>https://blog.ivrpowers.com/post/marketing/the-merge-ivr-rtc-contact-center/</link>
       <pubDate>Wed, 05 Dec 2018 00:18:00 +0200</pubDate>
       
-      <guid>http://blog.ivrpowers.com/post/marketing/the-merge-ivr-rtc-contact-center/</guid>
+      <guid>https://blog.ivrpowers.com/post/marketing/the-merge-ivr-rtc-contact-center/</guid>
       <description>Photo source: Unsplash. Creative Commons Contact Center: Artificial Inteligence and Omnichannel strategies will require to upgrade and rethink all your IVR and RTC technology or services. At Interactive Powers, when we launched our first products, we had always considered the Contact Center as a primary technology platform that requires to connect many and new channels to become a Multi-channel system or much better ever an Omnichannel system. In the early stage of the Digital Transformation, we couldn’t imagine our main business product lines IVR and RTC to become so close that they are now just part of a whole strategic approach for any Contact Center evolution.</description>
     </item>
     
     <item>
       <title>Understanding Cloud Services: IaaS, PaaS, SaaS</title>
-      <link>http://blog.ivrpowers.com/post/technologies/understanding-cloud-hosting-iaas-paas-saas/</link>
+      <link>https://blog.ivrpowers.com/post/technologies/understanding-cloud-hosting-iaas-paas-saas/</link>
       <pubDate>Wed, 21 Nov 2018 01:00:00 +0200</pubDate>
       
-      <guid>http://blog.ivrpowers.com/post/technologies/understanding-cloud-hosting-iaas-paas-saas/</guid>
+      <guid>https://blog.ivrpowers.com/post/technologies/understanding-cloud-hosting-iaas-paas-saas/</guid>
       <description>Image source: Pixabay. Creative Commons What are the differences between IaaS, SaaS, and PaaS, the three main Cloud Computing models? IaaS, PaaS, SaaS are three Cloud computing models popular in the market. Depending upon the requirement a company can opt for any of the three models. Here we explain IaaS, PaaS, SaaS model in the best possible way so that anyone can understand and differential among them.
 What is IaaS?</description>
     </item>
     
     <item>
       <title>Mozilla Firefox 63&#43; fix for SDP format</title>
-      <link>http://blog.ivrpowers.com/post/news/firefox63-spd-format-fix/</link>
+      <link>https://blog.ivrpowers.com/post/news/firefox63-spd-format-fix/</link>
       <pubDate>Thu, 15 Nov 2018 19:00:00 +0100</pubDate>
       
-      <guid>http://blog.ivrpowers.com/post/news/firefox63-spd-format-fix/</guid>
+      <guid>https://blog.ivrpowers.com/post/news/firefox63-spd-format-fix/</guid>
       <description>Photo Source: Mozilla Foundation Avoiding the Datachannel breaking in Firefox 63+ Nowadays, it is common for web browsers to make updates and changes to their implementations. This is even more common when we talk about modern technologies like WebRTC. A new web browser update that confirms this theory is the last change on Firefox 63 when negotiating the Datachannel.
 If you are negotiating a Datachannel with a Firefox version lower than 63, the Session Description Protocol (SDP) will looks something like this:</description>
     </item>
     
     <item>
       <title>Video RTC (WebRTC) v3.3.1</title>
-      <link>http://blog.ivrpowers.com/post/updates/update-video-rtc-webrtc-3.3.1/</link>
+      <link>https://blog.ivrpowers.com/post/updates/update-video-rtc-webrtc-3.3.1/</link>
       <pubDate>Tue, 13 Nov 2018 12:00:00 +0200</pubDate>
       
-      <guid>http://blog.ivrpowers.com/post/updates/update-video-rtc-webrtc-3.3.1/</guid>
+      <guid>https://blog.ivrpowers.com/post/updates/update-video-rtc-webrtc-3.3.1/</guid>
       <description>Release Note We are pleased to announce that our new Video RTC (Gateway WebRTC) v3.3.1 has been released for suitable production services. This new version includes a hot fix for Firefox Web Browsers. All users with previous maintained versions can upgrade today. Please contact our support!
 ChangeLog Version 3.3.1:
 ## [3.3.1] - 2018-11-13 ### Added - If the Videoplayer only finds one record, it&#39;s preselected ### Fixed - Resized calling message for mobile devices - Fixed SDP negotiations from Firefox 63+  Interactive Powers - Streamline your business communications</description>
@@ -188,48 +188,48 @@ ChangeLog Version 3.3.1:
     
     <item>
       <title>Interactive Powers is a Communications Platform as a Service Company</title>
-      <link>http://blog.ivrpowers.com/post/marketing/interactive-powers-cpaas/</link>
+      <link>https://blog.ivrpowers.com/post/marketing/interactive-powers-cpaas/</link>
       <pubDate>Mon, 05 Nov 2018 16:00:00 +0200</pubDate>
       
-      <guid>http://blog.ivrpowers.com/post/marketing/interactive-powers-cpaas/</guid>
+      <guid>https://blog.ivrpowers.com/post/marketing/interactive-powers-cpaas/</guid>
       <description>Photo source: Interactive Powers The future of communications is driven by the cloud. Interactive Powers was created to help companies embed voice and video communication into the software applications and web applications that are part of their workflow and how they do business with the same communication options and convenience that mobile devices provide for their customers and employees in their person lives. With Interactive Powers, communication becomes more immediate and contextual resulting in better business outcomes.</description>
     </item>
     
     <item>
       <title>Video RTC · CoBrowsing</title>
-      <link>http://blog.ivrpowers.com/post/products/turnkey-cobrowsing/</link>
+      <link>https://blog.ivrpowers.com/post/products/turnkey-cobrowsing/</link>
       <pubDate>Fri, 12 Oct 2018 15:00:00 +0200</pubDate>
       
-      <guid>http://blog.ivrpowers.com/post/products/turnkey-cobrowsing/</guid>
+      <guid>https://blog.ivrpowers.com/post/products/turnkey-cobrowsing/</guid>
       <description>Photo source: Pixabay. Creative Commons Add easily CoBrowsing to your Customer Interactions and better connect in real-time your agents and remote support teams. CoBrowsing, can help you transform the way you interact with your customers in real-time. CoBrowsing is a Video RTC extension that allows to add advanced powers both to your agents and users getting better and faster online interactions. Improve your customer care or any support interactions, time spend during phone calls or your support performance and confidence?</description>
     </item>
     
     <item>
       <title>Video RTC · CoBrowsing</title>
-      <link>http://blog.ivrpowers.com/post/products/video-rtc-cobrowsing/</link>
+      <link>https://blog.ivrpowers.com/post/products/video-rtc-cobrowsing/</link>
       <pubDate>Mon, 08 Oct 2018 12:00:00 +0200</pubDate>
       
-      <guid>http://blog.ivrpowers.com/post/products/video-rtc-cobrowsing/</guid>
+      <guid>https://blog.ivrpowers.com/post/products/video-rtc-cobrowsing/</guid>
       <description>Cobrowsing enables agents to assist users when they are browsing on your web page. Overview CoBrowsing allows you to share your browser in real-time with another remote peer. Most business processes can take benefit of using CoBrowsing feature. For instance, it is a very powerful tool to improve online shopping, telesales, remote work or support services.
 CoBrowsing functionality makes it easy to enhance your real-time communications experience with the power of a web browsing.</description>
     </item>
     
     <item>
       <title>Cloud Hosting: Turnkey Solutions</title>
-      <link>http://blog.ivrpowers.com/post/products/turnkey-cloud-hosting/</link>
+      <link>https://blog.ivrpowers.com/post/products/turnkey-cloud-hosting/</link>
       <pubDate>Sun, 07 Oct 2018 20:00:00 +0200</pubDate>
       
-      <guid>http://blog.ivrpowers.com/post/products/turnkey-cloud-hosting/</guid>
+      <guid>https://blog.ivrpowers.com/post/products/turnkey-cloud-hosting/</guid>
       <description>Photo source: Unsplash. Creative Commons Turnkey Solutions are designed to provide a quick startup without any IT requirement for your business. Our Turnkey Portfolio offers flexibility and deliver significant savings to enterprises or service providers. These pay-as-you-go products can be standalone or used in combination to provide an end to end communication services for many kind of businesses over WebRTC, RTMP, VoIP to PSTN networks.
 Forget technology, it&amp;rsquo;s about business.</description>
     </item>
     
     <item>
       <title>Video RTC (WebRTC) v3.3</title>
-      <link>http://blog.ivrpowers.com/post/updates/update-video-rtc-webrtc-3.3.0/</link>
+      <link>https://blog.ivrpowers.com/post/updates/update-video-rtc-webrtc-3.3.0/</link>
       <pubDate>Sat, 15 Sep 2018 12:00:00 +0200</pubDate>
       
-      <guid>http://blog.ivrpowers.com/post/updates/update-video-rtc-webrtc-3.3.0/</guid>
+      <guid>https://blog.ivrpowers.com/post/updates/update-video-rtc-webrtc-3.3.0/</guid>
       <description>Release Note We are pleased to announce that our new Video RTC (Gateway WebRTC) v3.3.0 has been released for suitable production services. This new version includes a lot of improvements and new features. All users with previous maintained versions can upgrade today. Please contact our support!
 ChangeLog Version 3.3.0:
 ## [3.3.0] - 2018-09-14 ### Added - Added Log rotation utility ### Changed - Updated VideoRTC.js library (v2.5.0) - Updated Videocall usecase (UX improvement) - Updated the webrtc-gateway internal core  Interactive Powers - Streamline your business communications</description>
@@ -237,10 +237,10 @@ ChangeLog Version 3.3.0:
     
     <item>
       <title>VideoRTC.js (API) v2.5.0</title>
-      <link>http://blog.ivrpowers.com/post/updates/update-video-rtc-js-2.5.0/</link>
+      <link>https://blog.ivrpowers.com/post/updates/update-video-rtc-js-2.5.0/</link>
       <pubDate>Fri, 14 Sep 2018 12:00:00 +0200</pubDate>
       
-      <guid>http://blog.ivrpowers.com/post/updates/update-video-rtc-js-2.5.0/</guid>
+      <guid>https://blog.ivrpowers.com/post/updates/update-video-rtc-js-2.5.0/</guid>
       <description>Release Note We are pleased to announce that our API Framework for Javascript VideoRTC.js v2.5.0 has been released for suitable for Web Developments and Mobile SDK . All users with previous maintained versions can upgrade today. Please contact our support!
 ChangeLog Version 2.1.0 · 2.5.0:
 ## [2.1.0] - 2018-01-16 ### Added - Added `videoStream` and `videoEnabled` option parameters in the SplitAgent module - Added `onReadyLocalAudio`, `onAcceptedData` and `onScreensharingClosed` events in the SplitClient module - Added `onAcceptedData` and `onReadyLocalStream` events in the SplitAgent module - Added a mechanism that guarantees the sending of files through the Datachannel - Added `onFileTransferOk` and `onFileTransferKo` events in the modules that use the Datachannel - Added `startScreensharing` and `stopScreensharing` actions in the SplitClient module - Added `notify` method in the following modules: SplitClient and SplitAgent - Added Safari iOS 11 support in the SplitClient module (Audio mode) ### Changed - Updated recording mode in the SPLIT modules ### Fixed - Fixed the use of the debug parameter at library level ## [2.</description>
@@ -248,37 +248,37 @@ ChangeLog Version 2.1.0 · 2.5.0:
     
     <item>
       <title>Video RTC · Call Center</title>
-      <link>http://blog.ivrpowers.com/post/products/turnkey-call-center/</link>
+      <link>https://blog.ivrpowers.com/post/products/turnkey-call-center/</link>
       <pubDate>Tue, 11 Sep 2018 15:00:00 +0200</pubDate>
       
-      <guid>http://blog.ivrpowers.com/post/products/turnkey-call-center/</guid>
+      <guid>https://blog.ivrpowers.com/post/products/turnkey-call-center/</guid>
       <description>Manage your own Call Center extension for Video RTC without any more technical requirements than just a Web Browser and Internet Access. Sometimes, changing all things doesn’t mean to build something totally new to improve the way you manage your Business Communications. Call Center is a Video RTC extension or standalone Omminchannel Call Center solution that allows to add advanced powers both to your agents and customers getting better and faster interactions.</description>
     </item>
     
     <item>
       <title>Video RTC · Web Panel</title>
-      <link>http://blog.ivrpowers.com/post/products/video-rtc-video-gateway-web-panel/</link>
+      <link>https://blog.ivrpowers.com/post/products/video-rtc-video-gateway-web-panel/</link>
       <pubDate>Tue, 21 Aug 2018 09:00:00 +0200</pubDate>
       
-      <guid>http://blog.ivrpowers.com/post/products/video-rtc-video-gateway-web-panel/</guid>
+      <guid>https://blog.ivrpowers.com/post/products/video-rtc-video-gateway-web-panel/</guid>
       <description>Photo Source: Jon Flobrant on Unsplash. Manage all logs and adjust easily main settings of your Video RTC Gateway. At Interactive Powers, we have spent many months making all our solutions better than ever, and one of our products at the very heart of our customers is our Video RTC Gateway. We have made significant improvements on visualizing all information in the Console. We’d love any and all feedback you have on this new monitoring experience.</description>
     </item>
     
     <item>
       <title>Screen Sharing or Co-Browsing?</title>
-      <link>http://blog.ivrpowers.com/post/technologies/screensharing-or-cobrowsing/</link>
+      <link>https://blog.ivrpowers.com/post/technologies/screensharing-or-cobrowsing/</link>
       <pubDate>Sun, 05 Aug 2018 01:00:00 +0200</pubDate>
       
-      <guid>http://blog.ivrpowers.com/post/technologies/screensharing-or-cobrowsing/</guid>
+      <guid>https://blog.ivrpowers.com/post/technologies/screensharing-or-cobrowsing/</guid>
       <description>Discover Screen Sharing and Co-Browsing advantages, the secure new ‘no download’ complementary interactions improving phone calls for onboarding, sales and support. Screen Sharing and Co-Browsing (or Collaborative Browsing) are a relatively new technologies for Call Centers propelled by a Cloud evolution. However, customer experience professionals seem to think that CoBrowsing and Screen Sharing are one and the same when in reality, they’re not. So what is the difference between these two features and how does adapting your VideoRTC solution improve the overall customer experience?</description>
     </item>
     
     <item>
       <title>VideoRTC.js (API) v2.4.0</title>
-      <link>http://blog.ivrpowers.com/post/updates/update-video-rtc-js-2.4.0/</link>
+      <link>https://blog.ivrpowers.com/post/updates/update-video-rtc-js-2.4.0/</link>
       <pubDate>Fri, 03 Aug 2018 12:00:00 +0200</pubDate>
       
-      <guid>http://blog.ivrpowers.com/post/updates/update-video-rtc-js-2.4.0/</guid>
+      <guid>https://blog.ivrpowers.com/post/updates/update-video-rtc-js-2.4.0/</guid>
       <description>Release Note We are pleased to announce that our API Framework for Javascript VideoRTC.js v2.4.0 has been released for suitable for Web Developments and Mobile SDK . All users with previous maintained versions can upgrade today. Please contact our support!
 ChangeLog Version 2.1.0 · 2.4.0:
 ## [2.1.0] - 2018-01-16 ### Added - Added `videoStream` and `videoEnabled` option parameters in the SplitAgent module - Added `onReadyLocalAudio`, `onAcceptedData` and `onScreensharingClosed` events in the SplitClient module - Added `onAcceptedData` and `onReadyLocalStream` events in the SplitAgent module - Added a mechanism that guarantees the sending of files through the Datachannel - Added `onFileTransferOk` and `onFileTransferKo` events in the modules that use the Datachannel - Added `startScreensharing` and `stopScreensharing` actions in the SplitClient module - Added `notify` method in the following modules: SplitClient and SplitAgent - Added Safari iOS 11 support in the SplitClient module (Audio mode) ### Changed - Updated recording mode in the SPLIT modules ### Fixed - Fixed the use of the debug parameter at library level ## [2.</description>
@@ -286,104 +286,104 @@ ChangeLog Version 2.1.0 · 2.4.0:
     
     <item>
       <title>Video RTC · Meeting Point</title>
-      <link>http://blog.ivrpowers.com/post/products/video-rtc-web-conference-meeting-point/</link>
+      <link>https://blog.ivrpowers.com/post/products/video-rtc-web-conference-meeting-point/</link>
       <pubDate>Wed, 25 Jul 2018 15:00:00 +0200</pubDate>
       
-      <guid>http://blog.ivrpowers.com/post/products/video-rtc-web-conference-meeting-point/</guid>
+      <guid>https://blog.ivrpowers.com/post/products/video-rtc-web-conference-meeting-point/</guid>
       <description>Photo Source: Unsplash · Interactive Powers. Creative Commons. Make secure business online meetings with a standard OAuth authentication. Communications can be a critical part of your own business and cannot be outsourced to any kind of OTT or public cloud service. Meeting Point is a new Video RTC Use Case and solution that allows to create Video Conferences from any modern browser and your own mobile app (on demand).</description>
     </item>
     
     <item>
       <title>McKinsey: Banks branch in the Digital Age</title>
-      <link>http://blog.ivrpowers.com/post/trends/mckinsey-bank-branch-digital-age/</link>
+      <link>https://blog.ivrpowers.com/post/trends/mckinsey-bank-branch-digital-age/</link>
       <pubDate>Wed, 25 Jul 2018 11:30:18 +0200</pubDate>
       
-      <guid>http://blog.ivrpowers.com/post/trends/mckinsey-bank-branch-digital-age/</guid>
+      <guid>https://blog.ivrpowers.com/post/trends/mckinsey-bank-branch-digital-age/</guid>
       <description>Photo Source: Interactive Powers, Pexels. Creative Commons Smart-branch in the digital age will dedicated 70% of services areas to self-services thank to advanced technologies.  Digital technology holds the key to the branch of the future.
  Changing customer behavior and the emergence of new technologies spell not the end of the branch but rather the advent of the “smart branch.” Smart branches use technology to boost sales and improve customer experience significantly.</description>
     </item>
     
     <item>
       <title>Voice services are driven to increase the value of human interactions.</title>
-      <link>http://blog.ivrpowers.com/post/marketing/voice-services-value-human-interactions/</link>
+      <link>https://blog.ivrpowers.com/post/marketing/voice-services-value-human-interactions/</link>
       <pubDate>Sun, 22 Jul 2018 20:00:00 +0200</pubDate>
       
-      <guid>http://blog.ivrpowers.com/post/marketing/voice-services-value-human-interactions/</guid>
+      <guid>https://blog.ivrpowers.com/post/marketing/voice-services-value-human-interactions/</guid>
       <description>Photo source: Pexels. Creative Commons Digital Transformation in Contact Center is not about Voice over IP, it&amp;rsquo;s about IA automation and more advanced human-to-human online collaboration. If the leading brands Google, Amazon, IBM and Microsoft are going to stay ahead of the competition, they need to quickly learn how to engage with customers using voice command technology in a meaningful way. All automated customer service platforms work using the same basic principle: process a question, crunch the relevant data, and deliver a response.</description>
     </item>
     
     <item>
       <title>Voice Services are facing their biggest upgrade</title>
-      <link>http://blog.ivrpowers.com/post/marketing/voice-services-facing-biggest-upgrade/</link>
+      <link>https://blog.ivrpowers.com/post/marketing/voice-services-facing-biggest-upgrade/</link>
       <pubDate>Sun, 22 Jul 2018 13:00:00 +0200</pubDate>
       
-      <guid>http://blog.ivrpowers.com/post/marketing/voice-services-facing-biggest-upgrade/</guid>
+      <guid>https://blog.ivrpowers.com/post/marketing/voice-services-facing-biggest-upgrade/</guid>
       <description>Photo source: Pexels. Creative Commons Today’s consumers are rekindling their love of voice and are learning to talk with machines better than ever. Automated text-based customer services, delivered through platforms such as WhatsApp, Messenger, Skype or any other Chat Service are still on the rise, but they aren’t dominating the conversation anymore. People are turning to Voice Assistants like Amazon Echo and Google Home Hub for quick answers to simple questions that are spoken, not typed.</description>
     </item>
     
     <item>
       <title>Video RTC · Mobile SDK</title>
-      <link>http://blog.ivrpowers.com/post/products/video-rtc-mobile-sdk/</link>
+      <link>https://blog.ivrpowers.com/post/products/video-rtc-mobile-sdk/</link>
       <pubDate>Sat, 21 Jul 2018 23:00:00 +0200</pubDate>
       
-      <guid>http://blog.ivrpowers.com/post/products/video-rtc-mobile-sdk/</guid>
+      <guid>https://blog.ivrpowers.com/post/products/video-rtc-mobile-sdk/</guid>
       <description>Photo Source: Interactive Powers. Build easily WebRTC-powered video calling into your mobile app with a simple JavaScript library for our Video RTC communication platforms. With our Video RTC · Mobile SDK, you can easily add real-time video calling over a data connection or WiFi from your website or app. Interactive Powers offers high quality video communication and seamless integration into any existing app.
 Add Real-Time Communications to your app.</description>
     </item>
     
     <item>
       <title>A Successful Combination for Business: IVR &#43; RTC</title>
-      <link>http://blog.ivrpowers.com/post/marketing/successfull-combination-ivr-rtc/</link>
+      <link>https://blog.ivrpowers.com/post/marketing/successfull-combination-ivr-rtc/</link>
       <pubDate>Sun, 15 Jul 2018 00:18:00 +0200</pubDate>
       
-      <guid>http://blog.ivrpowers.com/post/marketing/successfull-combination-ivr-rtc/</guid>
+      <guid>https://blog.ivrpowers.com/post/marketing/successfull-combination-ivr-rtc/</guid>
       <description>Photo source: Unsplash. Creative Commons Improve customer experience (CX), while reducing telecommunication costs and increasing customer satisfaction. Our Vision for your Business Communications. Interactive Powers vision is to streamline your business communications with the help of our two core technologies called IVR (Interactive Voice Response) and RTC (Real-Time Communications). Our platforms embrace open standards like SIP (Session Initialization Protocol), VoiceXML (Voice eXtended Meta Language), RTMP (Real-Time Messaging Protocol) and WebRTC (Web Real-Time Communications) allowing businesses to directly embed audio-only or audio &amp;amp; video conversations and collaboration functionality within their website or mobile customer care apps.</description>
     </item>
     
     <item>
       <title>Video RTC · Web Dialer</title>
-      <link>http://blog.ivrpowers.com/post/products/video-rtc-web-dialer/</link>
+      <link>https://blog.ivrpowers.com/post/products/video-rtc-web-dialer/</link>
       <pubDate>Sat, 14 Jul 2018 15:00:00 +0200</pubDate>
       
-      <guid>http://blog.ivrpowers.com/post/products/video-rtc-web-dialer/</guid>
+      <guid>https://blog.ivrpowers.com/post/products/video-rtc-web-dialer/</guid>
       <description>Photo Source: Unsplash · Interactive Powers Creative Commons. Make calls from any Web Browser and easily connect your Call Center or PBX to improve your business communications. Click-to-call converts your website&amp;rsquo;s users into engaged customers by creating an easy way for your customers to contact your sales and support teams right on your website without using their phone. Today&amp;rsquo;s sales and support teams expect to be able to make calls directly from their modern web browser, and their efficiency improves when they can.</description>
     </item>
     
     <item>
       <title>What is a STUN/TURN Server?</title>
-      <link>http://blog.ivrpowers.com/post/technologies/what-is-stun-turn-server/</link>
+      <link>https://blog.ivrpowers.com/post/technologies/what-is-stun-turn-server/</link>
       <pubDate>Tue, 10 Jul 2018 09:00:05 +0200</pubDate>
       
-      <guid>http://blog.ivrpowers.com/post/technologies/what-is-stun-turn-server/</guid>
+      <guid>https://blog.ivrpowers.com/post/technologies/what-is-stun-turn-server/</guid>
       <description>Photo Source: Pixabay · Interactive Powers Creative Commons. WebRTC communications in real-world connectivity require to handle multi-party calls and interact with STUN and TURN servers. Our Video Gateway (WebRTC) platform offers all customers an advanced video real-time communications solution through all audio/video/data streams are transmitted. Generally, a Video Gateway has to be deployed over a public Internet so any user must connect and send media fragments over RTP (Real-time Transport Protocol) ports without specific network issues.</description>
     </item>
     
     <item>
       <title>Real-Time Communications applications</title>
-      <link>http://blog.ivrpowers.com/post/products/real-time-communications-applications/</link>
+      <link>https://blog.ivrpowers.com/post/products/real-time-communications-applications/</link>
       <pubDate>Thu, 05 Jul 2018 20:30:00 +0200</pubDate>
       
-      <guid>http://blog.ivrpowers.com/post/products/real-time-communications-applications/</guid>
+      <guid>https://blog.ivrpowers.com/post/products/real-time-communications-applications/</guid>
       <description>Photo source: Pixabay. Creative Commons Real-time Communications applications to streamline your online business. Video RTC platforms are changing the way real-time communications are developed and delivered. It is fast becoming the platform of choice for rapidly building enterprise class real-time voice and video applications. Our communications platform is 100% cloud ready, offering continuous evolution, scalability and high availability.
  Video chat is a clearer and modern way to communicate for online businesses</description>
     </item>
     
     <item>
       <title>How to configure and customise your Webclient</title>
-      <link>http://blog.ivrpowers.com/post/coding/videortc-webclient-configuration/</link>
+      <link>https://blog.ivrpowers.com/post/coding/videortc-webclient-configuration/</link>
       <pubDate>Thu, 05 Jul 2018 09:00:00 +0200</pubDate>
       
-      <guid>http://blog.ivrpowers.com/post/coding/videortc-webclient-configuration/</guid>
+      <guid>https://blog.ivrpowers.com/post/coding/videortc-webclient-configuration/</guid>
       <description>Photo source: Interactive Powers, Pexels Creative Commons Webclient (WebRTC) provides a user-friendly webphone that allows all your customers and users to make phone calls directly from a website to your business IVR or PBX from any desktop native WebRTC compliant web browser (Firefox, Chrome, Opera,…). In this post we will show you how to customize the Webclient using the different configuration options at flavour/theme level.
 The design of our webclient is composed by a logo and a main default color.</description>
     </item>
     
     <item>
       <title>Know our Products: Turnkey</title>
-      <link>http://blog.ivrpowers.com/post/products/turnkey-solutions/</link>
+      <link>https://blog.ivrpowers.com/post/products/turnkey-solutions/</link>
       <pubDate>Sun, 10 Jun 2018 15:00:00 +0200</pubDate>
       
-      <guid>http://blog.ivrpowers.com/post/products/turnkey-solutions/</guid>
+      <guid>https://blog.ivrpowers.com/post/products/turnkey-solutions/</guid>
       <description>The Turnkey Solutions for your business Our Turnkey Portfolio offers flexibility and deliver significant savings to enterprises or service providers. These pay-as-you-go products can be standalone or used in combination to provide an end to end communication services for many kind of businesses over WebRTC, RTMP, VoIP to PSTN networks.
 Forget technology, it&amp;rsquo;s about business. Web Dialer.  Make Voice Calls from any modern Web Browser
  Web Dialer allows all your customers and users to make phone calls directly to your PBX, IVR, Call Center from any desktop web browser (Firefox, Chrome, IE, Safari, Opera,…).</description>
@@ -391,10 +391,10 @@ Forget technology, it&amp;rsquo;s about business. Web Dialer.  Make Voice Calls 
     
     <item>
       <title>Video RTC (WebRTC) v3.2.1</title>
-      <link>http://blog.ivrpowers.com/post/updates/update-video-rtc-webrtc-3.2.1/</link>
+      <link>https://blog.ivrpowers.com/post/updates/update-video-rtc-webrtc-3.2.1/</link>
       <pubDate>Sun, 10 Jun 2018 12:00:00 +0200</pubDate>
       
-      <guid>http://blog.ivrpowers.com/post/updates/update-video-rtc-webrtc-3.2.1/</guid>
+      <guid>https://blog.ivrpowers.com/post/updates/update-video-rtc-webrtc-3.2.1/</guid>
       <description>Release Note We are pleased to announce that our new Video RTC (Gateway WebRTC) v3.2.1 has been released for suitable production services. This new version includes some improvements and a crital &amp;ldquo;hot fix&amp;rdquo; for Firefox 6+ Web Browsers. All users with previous maintained versions can upgrade today. Please contact our support!
 ChangeLog Version 3.2.1:
 ## [3.2.1] - 2018-06-08 ### Fixed - Fixed compatibility of all modules with Firefox 60+ ### Changed - Updated VideoRTC.</description>
@@ -402,28 +402,28 @@ ChangeLog Version 3.2.1:
     
     <item>
       <title>What is CPaaS?</title>
-      <link>http://blog.ivrpowers.com/post/technologies/what-is-cpaas/</link>
+      <link>https://blog.ivrpowers.com/post/technologies/what-is-cpaas/</link>
       <pubDate>Sun, 10 Jun 2018 01:00:00 +0200</pubDate>
       
-      <guid>http://blog.ivrpowers.com/post/technologies/what-is-cpaas/</guid>
+      <guid>https://blog.ivrpowers.com/post/technologies/what-is-cpaas/</guid>
       <description>Communication Platform as a Service (CPaaS) Communication Platform as a Service (CPaaS) is a form of cloud computing that is utilized to deliver communication applications like IVR or RTC to users over the internet. But, unlike SaaS which delivers specific apps and programs, Communication Platform as a Service is a bit closer related to IaaS. So, while IaaS is delivering the infrastructure, like servers and management tools, CPaaS is what delivers the entire communication platform for users to build and develop their own applications.</description>
     </item>
     
     <item>
       <title>What is SaaS?</title>
-      <link>http://blog.ivrpowers.com/post/technologies/what-is-saas/</link>
+      <link>https://blog.ivrpowers.com/post/technologies/what-is-saas/</link>
       <pubDate>Sun, 10 Jun 2018 01:00:00 +0200</pubDate>
       
-      <guid>http://blog.ivrpowers.com/post/technologies/what-is-saas/</guid>
+      <guid>https://blog.ivrpowers.com/post/technologies/what-is-saas/</guid>
       <description>Photo source: Interactive Powers Software as a Service (SaaS) Software as a Service (SaaS) directly refers to any software that your business is using just about everyday. SaaS is of course a form of cloud computing, which allows for increase flexibility by relying on a third-party vendor to host and maintain the service — in this case, that service is that software. Since the software is hosted by a cloud provider, your business does not need to install and run applications on their own computers, or host their own servers in expensive data centers, yet still gains access to these powerful tools.</description>
     </item>
     
     <item>
       <title>Video RTC (WebRTC) v3.2</title>
-      <link>http://blog.ivrpowers.com/post/updates/update-video-rtc-webrtc-3.2.0/</link>
+      <link>https://blog.ivrpowers.com/post/updates/update-video-rtc-webrtc-3.2.0/</link>
       <pubDate>Tue, 15 May 2018 10:00:00 +0200</pubDate>
       
-      <guid>http://blog.ivrpowers.com/post/updates/update-video-rtc-webrtc-3.2.0/</guid>
+      <guid>https://blog.ivrpowers.com/post/updates/update-video-rtc-webrtc-3.2.0/</guid>
       <description>Release Note We are pleased to announce that our new Video RTC (Gateway WebRTC) v3.2.0 has been released for suitable production services. This new version includes a lot of improvements and new features. All users with previous maintained versions can upgrade today. Please contact our support!
 ChangeLog Version 3.2.0:
 ## [3.2.0] - 2018-05-15 ### Added - Added Remote Viewer usecase as extension - Added WebRTC communication verification functions - Added possibility to transfer a call using the SPLIT usecases - Added a GET parameter to set the CallerID from the URL in the Webclient usecase ### Changed - Updated VideoRTC.</description>
@@ -431,19 +431,19 @@ ChangeLog Version 3.2.0:
     
     <item>
       <title>Video RTC · Remote Viewer</title>
-      <link>http://blog.ivrpowers.com/post/products/video-rtc-remote-viewer/</link>
+      <link>https://blog.ivrpowers.com/post/products/video-rtc-remote-viewer/</link>
       <pubDate>Tue, 01 May 2018 18:00:00 +0200</pubDate>
       
-      <guid>http://blog.ivrpowers.com/post/products/video-rtc-remote-viewer/</guid>
+      <guid>https://blog.ivrpowers.com/post/products/video-rtc-remote-viewer/</guid>
       <description>Photo Source: Shutterstock · Interactive Powers. Dramatically improves Customer Experience (CX) extending phone calls with Live Chat, Dual File Sharing, Dual Screen Sharing… Sometime, you don&amp;rsquo;t have to change all things to build something new and really better to improve your existing Business Communications. Remote Viewer is a new Video RTC Use Case and solution that allows to add advanced powers both to your call center agents and phone callers.</description>
     </item>
     
     <item>
       <title>Video RTC (WebRTC) v3.1</title>
-      <link>http://blog.ivrpowers.com/post/updates/update-video-rtc-webrtc-3.1.0/</link>
+      <link>https://blog.ivrpowers.com/post/updates/update-video-rtc-webrtc-3.1.0/</link>
       <pubDate>Wed, 17 Jan 2018 09:00:00 +0200</pubDate>
       
-      <guid>http://blog.ivrpowers.com/post/updates/update-video-rtc-webrtc-3.1.0/</guid>
+      <guid>https://blog.ivrpowers.com/post/updates/update-video-rtc-webrtc-3.1.0/</guid>
       <description>Release Note We are pleased to announce that our new Video RTC (Gateway WebRTC) v3.1.0 has been released for suitable production services. This new version includes a lot of improvements and new features. All users with previous maintained versions can upgrade today. Please contact our support!
 ChangeLog Version 3.1.0:
 ## [3.1.0] - 2018-01-16 ### Added - Added the possibility of configuring different SPLIT scenarios at Flavour level - Added `autoRecording` option in the SPLIT Agent usecase - Added texts option in the SPLIT usecase - Added FileSharing in the Webclient usecase - Added ScreenSharing in the Webclient usecase - Added possibility to show a message until the Video agent is accepted - Added `split_id_strategy` in the VideoGateway - Added Safari iOS 11 support in the SplitClient module (Audio mode) ### Changed - Updated VideoRTC.</description>
@@ -451,10 +451,10 @@ ChangeLog Version 3.1.0:
     
     <item>
       <title>Video RTC (RTMP) v1.3</title>
-      <link>http://blog.ivrpowers.com/post/updates/update-video-rtc-rtmp-1.3.0/</link>
+      <link>https://blog.ivrpowers.com/post/updates/update-video-rtc-rtmp-1.3.0/</link>
       <pubDate>Mon, 08 Jan 2018 00:20:05 +0200</pubDate>
       
-      <guid>http://blog.ivrpowers.com/post/updates/update-video-rtc-rtmp-1.3.0/</guid>
+      <guid>https://blog.ivrpowers.com/post/updates/update-video-rtc-rtmp-1.3.0/</guid>
       <description>Release Note We are pleased to announce that our new Video RTC (Gateway RTMP) v1.3.0 has been released for suitable production services. This new version includes a lot of improvements and new features. All users with previous maintained versions can upgrade today. Please contact our support!
 ChangeLog Version 1.3.0:
 ## [1.3.0] - 2018-01-08 ### Added - Favicon in Split Use Case (Webclient and Agent) ### Changed - The default look for the agent webphone is now &#39;agent&#39; - Removed extra HTML code that was in the index.</description>
@@ -462,57 +462,57 @@ ChangeLog Version 1.3.0:
     
     <item>
       <title>101 Reasons Why You Need To Embrace Live Chat</title>
-      <link>http://blog.ivrpowers.com/post/customerengagement/101-reasons-to-embrace-live-chat/</link>
+      <link>https://blog.ivrpowers.com/post/customerengagement/101-reasons-to-embrace-live-chat/</link>
       <pubDate>Wed, 03 Jan 2018 09:00:00 +0200</pubDate>
       
-      <guid>http://blog.ivrpowers.com/post/customerengagement/101-reasons-to-embrace-live-chat/</guid>
+      <guid>https://blog.ivrpowers.com/post/customerengagement/101-reasons-to-embrace-live-chat/</guid>
       <description>Photo source: WebBuilder Live chat is the way to go! You are undoubtedly aware of the importance of customer service on your online business’ road to success. But, what you may not know is that customers’ expectations have now reached new heights, demanding instant support and fast acting. In order to keep up with the latest trends, it is essential to improve customer experience. If you cannot think of an innovative way to do so – we have the answer.</description>
     </item>
     
     <item>
       <title>Video ID · Facial Recognition Plugins</title>
-      <link>http://blog.ivrpowers.com/post/technologies/facial-recognition/</link>
+      <link>https://blog.ivrpowers.com/post/technologies/facial-recognition/</link>
       <pubDate>Tue, 05 Dec 2017 09:28:03 +0100</pubDate>
       
-      <guid>http://blog.ivrpowers.com/post/technologies/facial-recognition/</guid>
+      <guid>https://blog.ivrpowers.com/post/technologies/facial-recognition/</guid>
       <description>Image source: Pexels. Creative Commons Facial recognition is a biometric method of identifying an individual by comparing live capture or digital image data with the stored record for that person. Facial recognition systems are commonly used for security purposes but they are increasingly applied in a wide variety of fields, like in mobile technology, online to shopping, even in medicine.
 In a previous post we talked about secure identification API integrations and some of their uses.</description>
     </item>
     
     <item>
       <title>79% of Consumers Want the Opportunity to Contact Businesses Online</title>
-      <link>http://blog.ivrpowers.com/post/trends/enghouse-business-online/</link>
+      <link>https://blog.ivrpowers.com/post/trends/enghouse-business-online/</link>
       <pubDate>Fri, 01 Dec 2017 09:03:53 +0100</pubDate>
       
-      <guid>http://blog.ivrpowers.com/post/trends/enghouse-business-online/</guid>
+      <guid>https://blog.ivrpowers.com/post/trends/enghouse-business-online/</guid>
       <description>Photo Source: Interactive Powers, Pexels. Creative Commons In a recent Enghouse Interactive survey, customers have made it clear that they want online communication channels with companies. 79% of consumers believe that businesses should provide a way for customers to contact them online.
 It is also interesting to compare this figure with the responses to the very same question in previous years&amp;rsquo; surveys. In 2014, only 29% of respondents answered that the possibility to contact a company online was relevant.</description>
     </item>
     
     <item>
       <title>Screen Sharing reloaded for Firefox</title>
-      <link>http://blog.ivrpowers.com/post/news/screensharing-firefox/</link>
+      <link>https://blog.ivrpowers.com/post/news/screensharing-firefox/</link>
       <pubDate>Fri, 10 Nov 2017 11:46:54 +0100</pubDate>
       
-      <guid>http://blog.ivrpowers.com/post/news/screensharing-firefox/</guid>
+      <guid>https://blog.ivrpowers.com/post/news/screensharing-firefox/</guid>
       <description>Photo Source: Pixabay. Creative Commons Screen Sharing: now, without installing any plugin for all Firefox Web Browsers! Screen Sharing is a very powerful feature that allows users to share in a screen or a window of any documents or application including images, videos, forms… among other capabilities. However, in order to build screen sharing capabilities, first, it is necessary to build screen capture. Until now, it was only supported in one browser, Chrome, which gives access to screen capture by writing an extension.</description>
     </item>
     
     <item>
       <title>Video RTC 3.0</title>
-      <link>http://blog.ivrpowers.com/post/products/video-rtc-3-generation/</link>
+      <link>https://blog.ivrpowers.com/post/products/video-rtc-3-generation/</link>
       <pubDate>Mon, 09 Oct 2017 11:06:16 +0200</pubDate>
       
-      <guid>http://blog.ivrpowers.com/post/products/video-rtc-3-generation/</guid>
+      <guid>https://blog.ivrpowers.com/post/products/video-rtc-3-generation/</guid>
       <description>Photo Source: Interactive Powers. Creative Commons Whatever your business is, you may require Real-Time Communications to improve your services. The third generation of our flagship RTC product is now released after months and years of continuous improvements. Discover how to integrate live-video, voice, and messaging technology to transform your business processes, and how Video RTC it can help you facilitate more engaging interactions with your customers or employees.</description>
     </item>
     
     <item>
       <title>Video RTC (WebRTC) v3.0</title>
-      <link>http://blog.ivrpowers.com/post/updates/update-video-rtc-webrtc-3.0.0/</link>
+      <link>https://blog.ivrpowers.com/post/updates/update-video-rtc-webrtc-3.0.0/</link>
       <pubDate>Fri, 06 Oct 2017 09:00:00 +0200</pubDate>
       
-      <guid>http://blog.ivrpowers.com/post/updates/update-video-rtc-webrtc-3.0.0/</guid>
+      <guid>https://blog.ivrpowers.com/post/updates/update-video-rtc-webrtc-3.0.0/</guid>
       <description>Release Note We are pleased to announce that our new Video RTC (Gateway WebRTC) v3.0.0 has been released for suitable production services. This new version includes a lot of improvements and new features. All users with previous maintained versions can upgrade today. Please contact our support!
 ChangeLog Version 3.0.0:
 ## [3.0.0] - 2017-10-03 ### Added - Added a new usecase: Videocall - Added return button inside the usecases - Added list of platform extensions in the landing page ### Changed - Updated VideoRTC.</description>
@@ -520,10 +520,10 @@ ChangeLog Version 3.0.0:
     
     <item>
       <title>VideoRTC.js (API) v2.0.0</title>
-      <link>http://blog.ivrpowers.com/post/updates/update-video-rtc-js-2.0.0/</link>
+      <link>https://blog.ivrpowers.com/post/updates/update-video-rtc-js-2.0.0/</link>
       <pubDate>Tue, 03 Oct 2017 12:00:00 +0200</pubDate>
       
-      <guid>http://blog.ivrpowers.com/post/updates/update-video-rtc-js-2.0.0/</guid>
+      <guid>https://blog.ivrpowers.com/post/updates/update-video-rtc-js-2.0.0/</guid>
       <description>Release Note We are pleased to announce that our API Framework for Javascript VideoRTC.js v2.0.0 has been released for suitable for Web Developments and Mobile SDK . All users with previous maintained versions can upgrade today. Please contact our support!
 ChangeLog Version 1.0.0 · 2.0.0:
 # Change Log All notable changes to this project will be documented in this file. ## [1.0.0] - 2017-02-10 ### First release ## [1.1.0] - 2017-04-17 ### Added - Added VoiceProcessor feature in the Videoroom module - Added `disconnect()` method for destroy a session with the VideoGateway - Added `closeUsecase()` method for close a use case with the VideoGateway (All usecases) - Added download link of VideoRTC Screensharing extension for Chrome - Added `videoRate` and `screenRate` parameters in the `call()` method (Split Client) - Added timestamp in Videomail messages to achieve multiple records with the same id/name ### Changed - Updated `webrtc-adapter` version release to `3.</description>
@@ -531,30 +531,30 @@ ChangeLog Version 1.0.0 · 2.0.0:
     
     <item>
       <title>3 Reasons to embrace Cloud Hosting</title>
-      <link>http://blog.ivrpowers.com/post/trends/cloud-hosting-ivr-rtc/</link>
+      <link>https://blog.ivrpowers.com/post/trends/cloud-hosting-ivr-rtc/</link>
       <pubDate>Wed, 20 Sep 2017 12:50:49 +0200</pubDate>
       
-      <guid>http://blog.ivrpowers.com/post/trends/cloud-hosting-ivr-rtc/</guid>
+      <guid>https://blog.ivrpowers.com/post/trends/cloud-hosting-ivr-rtc/</guid>
       <description>Photo source: Pixabay. Creative Commons. Upgrade your business communications to the Cloud to deliver more value with less costs Computing based on the internet is booming business. The global cloud communication market is projected to reach $4.45 by 2021. Why are more and more companies turning to the cloud for their business communications needs?
 Communications solutions at a lower cost. Cloud computing is a cost saver since it can reduce or even eliminate the need for a company to buy an expensive hardware and software.</description>
     </item>
     
     <item>
       <title>Does VideoRTC fit in my Contact Center?</title>
-      <link>http://blog.ivrpowers.com/post/contactcenter/contact-center-videortc/</link>
+      <link>https://blog.ivrpowers.com/post/contactcenter/contact-center-videortc/</link>
       <pubDate>Tue, 19 Sep 2017 12:36:01 +0200</pubDate>
       
-      <guid>http://blog.ivrpowers.com/post/contactcenter/contact-center-videortc/</guid>
+      <guid>https://blog.ivrpowers.com/post/contactcenter/contact-center-videortc/</guid>
       <description>Photo Source: Pexels. Creative Commons Call Centers have to upgrade their services to the next level implementing new advanced interactions The ever-growing digital world can give new opportunities for existing contact centers to provide a superior customer experience. Nowadays new technologies drive clients to ask for multiple options when looking for support. It is here where VideoRTC can help your contact center to enhance its services.
 Save time providing the right channel.</description>
     </item>
     
     <item>
       <title>Video RTC · Complementary Functions</title>
-      <link>http://blog.ivrpowers.com/post/products/video-rtc-complementary-functions/</link>
+      <link>https://blog.ivrpowers.com/post/products/video-rtc-complementary-functions/</link>
       <pubDate>Wed, 06 Sep 2017 09:30:00 +0200</pubDate>
       
-      <guid>http://blog.ivrpowers.com/post/products/video-rtc-complementary-functions/</guid>
+      <guid>https://blog.ivrpowers.com/post/products/video-rtc-complementary-functions/</guid>
       <description>Video Gateway (WebRTC) includes complementary features that you can run according to your business requirements . All of this, is part of capabilities of our Video RTC solution suite.
 Know more about our Video RTC core features here:
 SIP Connect. Video Gateway ensures interoperability between WebRTC endpoints and existing telephony systems. It integrates seamlessly advanced web phones or mobile apps into previous infraestructure. Learn more.
@@ -563,20 +563,20 @@ Meeting Point. Video Gateway provides an additional OAuth plugin that makes it e
     
     <item>
       <title>Video RTC · Pop-up Agent</title>
-      <link>http://blog.ivrpowers.com/post/products/video-rtc-pop-up-agent/</link>
+      <link>https://blog.ivrpowers.com/post/products/video-rtc-pop-up-agent/</link>
       <pubDate>Tue, 05 Sep 2017 10:00:00 +0200</pubDate>
       
-      <guid>http://blog.ivrpowers.com/post/products/video-rtc-pop-up-agent/</guid>
+      <guid>https://blog.ivrpowers.com/post/products/video-rtc-pop-up-agent/</guid>
       <description>Extend Existing Call Centers with advanced Video RTC Capabilities. Overview Pop-up Agent is a specific peer component designed to add Video RTC services to an existing Call Center. It can operate over full WebRTC options or RTMP with limited functions. Pop-up Agent works with standard web browser or with an MS Windows executable application.
 Pop-up Agent functionality is easily configurable with a set of buttons and toolkit. Main options are Live Chat, File Sharing, Screen Sharing, Video Recording, Snapshot.</description>
     </item>
     
     <item>
       <title>How to Build a Videocall Service (WebRTC)</title>
-      <link>http://blog.ivrpowers.com/post/coding/videortc-build-videocall/</link>
+      <link>https://blog.ivrpowers.com/post/coding/videortc-build-videocall/</link>
       <pubDate>Fri, 01 Sep 2017 11:59:22 +0200</pubDate>
       
-      <guid>http://blog.ivrpowers.com/post/coding/videortc-build-videocall/</guid>
+      <guid>https://blog.ivrpowers.com/post/coding/videortc-build-videocall/</guid>
       <description>Photo Source: Interactive Powers, Pexels. Creative Commons In this post we will show you how to build your videocall service based on HTML5 technology by using our API Framework with VideoRTC.js.
 Step 1: Setting up the basic structure Firstly, you will need to include dependency within your project or web page:
 &amp;lt;script type=&amp;quot;text/javascript&amp;quot; src=&amp;quot;videortc.js&amp;quot;&amp;gt;&amp;lt;/script&amp;gt;  You can insert a minimized version if you prefer so:
@@ -585,50 +585,50 @@ Step 1: Setting up the basic structure Firstly, you will need to include depende
     
     <item>
       <title>Video RTC · Video ID</title>
-      <link>http://blog.ivrpowers.com/post/products/video-rtc-video-id/</link>
+      <link>https://blog.ivrpowers.com/post/products/video-rtc-video-id/</link>
       <pubDate>Fri, 01 Sep 2017 09:52:47 +0200</pubDate>
       
-      <guid>http://blog.ivrpowers.com/post/products/video-rtc-video-id/</guid>
+      <guid>https://blog.ivrpowers.com/post/products/video-rtc-video-id/</guid>
       <description>Protect your Real-Time Communications with Secure Identification API integrations. Overview Video ID feature helps you to improve security in your real-time communication services. Our solutions include partner options for ID Verification through an external provider certified API. This capability enables to comply with identity verification processes required, for instance, by banks, insurances, e-commerces or telemedicine.
 Video ID functionality captures and validates users’ information, whilst conducting a real-time check. Video ID capability is a set of API, which can optionally include Facial Recognition.</description>
     </item>
     
     <item>
       <title>Video RTC · Industries</title>
-      <link>http://blog.ivrpowers.com/post/products/video-rtc-industries/</link>
+      <link>https://blog.ivrpowers.com/post/products/video-rtc-industries/</link>
       <pubDate>Thu, 31 Aug 2017 11:00:16 +0200</pubDate>
       
-      <guid>http://blog.ivrpowers.com/post/products/video-rtc-industries/</guid>
+      <guid>https://blog.ivrpowers.com/post/products/video-rtc-industries/</guid>
       <description>Photo Source: Interactive Powers, Pexels. Creative Commons Whatever your business, product, or service is you can require real-time communications technologies. Discover how organizations like yours are integrating live-video, voice, and messaging technology to transform their industries, and how Video RTC can help you facilitate more engaging interactions with your customers or employees.
 Call Centers. Contact Centers continue to evolve rapidly as consumers expect a highly personalized and engaging experience.</description>
     </item>
     
     <item>
       <title>Video RTC · Screen Sharing</title>
-      <link>http://blog.ivrpowers.com/post/products/video-rtc-screen-sharing/</link>
+      <link>https://blog.ivrpowers.com/post/products/video-rtc-screen-sharing/</link>
       <pubDate>Fri, 18 Aug 2017 12:00:00 +0200</pubDate>
       
-      <guid>http://blog.ivrpowers.com/post/products/video-rtc-screen-sharing/</guid>
+      <guid>https://blog.ivrpowers.com/post/products/video-rtc-screen-sharing/</guid>
       <description>Secure screen share your desktop or any application in Real-Time Communications. Overview Screen Sharing application allows you to share live screen over the web or mobile instantly. Most business processes can take benefit of using Screen Sharing feature. For instance, it is a very powerful tool to improve online meetings, presentations, remote work or support services.
 Screen Sharing functionality makes it easy to enhance your real-time communications experience with the power of content, all within the context of your website or application.</description>
     </item>
     
     <item>
       <title>Video RTC · File Sharing</title>
-      <link>http://blog.ivrpowers.com/post/products/video-rtc-file-sharing/</link>
+      <link>https://blog.ivrpowers.com/post/products/video-rtc-file-sharing/</link>
       <pubDate>Fri, 18 Aug 2017 10:00:00 +0200</pubDate>
       
-      <guid>http://blog.ivrpowers.com/post/products/video-rtc-file-sharing/</guid>
+      <guid>https://blog.ivrpowers.com/post/products/video-rtc-file-sharing/</guid>
       <description>Send and Receive Files or Documents in Real-Time Communications. Overview File Sharing application helps you to enhance your real-time communications experience with the power of content. It allows you to instantly transfer any file establishing a peer connection all within the context of your website or application. With the file sharing feature you can send and receive unlimited files just dragging them in the chat window.
 File Sharing functionality makes it possible to share and receive documents during your voice or video call.</description>
     </item>
     
     <item>
       <title>Video RTC · Core Features</title>
-      <link>http://blog.ivrpowers.com/post/products/video-rtc-core-features/</link>
+      <link>https://blog.ivrpowers.com/post/products/video-rtc-core-features/</link>
       <pubDate>Thu, 17 Aug 2017 09:30:00 +0200</pubDate>
       
-      <guid>http://blog.ivrpowers.com/post/products/video-rtc-core-features/</guid>
+      <guid>https://blog.ivrpowers.com/post/products/video-rtc-core-features/</guid>
       <description>Photo source: Interactive Powers Video Gateway (WebRTC) includes core features that you can activate according to your own business requirements . All of this, is part of the main capabilities of our Video RTC solution suite.
 Know more about our Video RTC core features here:
 Video Calling. Video Gateway provides a simpler way for people to communicate via web. It integrates seamlessly into the workflows and it is easy to manage.</description>
@@ -636,19 +636,19 @@ Video Calling. Video Gateway provides a simpler way for people to communicate vi
     
     <item>
       <title>Video RTC · Live Chat</title>
-      <link>http://blog.ivrpowers.com/post/products/video-rtc-live-chat/</link>
+      <link>https://blog.ivrpowers.com/post/products/video-rtc-live-chat/</link>
       <pubDate>Thu, 17 Aug 2017 09:00:00 +0200</pubDate>
       
-      <guid>http://blog.ivrpowers.com/post/products/video-rtc-live-chat/</guid>
+      <guid>https://blog.ivrpowers.com/post/products/video-rtc-live-chat/</guid>
       <description>Manage Smart Text Message interactions in Real-Time Communications. Overview Live Chat supplement your video and voice communication with advanced text chat capabilities using the WebRTC datachannel. Live Chat feature allows to send and receive text messages simultaneously, without any lag at a single click. It is the perfect tool to use for the customer and an agent conversation. Live chat integrates seamlessly into your application, eliminating the need for clunky third-party APIs.</description>
     </item>
     
     <item>
       <title>Interactive Powers · Microsites</title>
-      <link>http://blog.ivrpowers.com/post/products/products-microsites/</link>
+      <link>https://blog.ivrpowers.com/post/products/products-microsites/</link>
       <pubDate>Wed, 16 Aug 2017 23:22:18 +0200</pubDate>
       
-      <guid>http://blog.ivrpowers.com/post/products/products-microsites/</guid>
+      <guid>https://blog.ivrpowers.com/post/products/products-microsites/</guid>
       <description>Photo source: Interactive Powers We are pleased to share our nice product microsite links in this post. You will find a summary of all features and an easier way to talk about them from socials networks and email.
 Microsite - VoiceXML IVR Refining IVR with Software · http://voicexml.ivrpowers.com
 Microsite - Video RTC Video Real Time Communications · http://videortc.ivrpowers.com
@@ -657,19 +657,19 @@ Microsite - Webclient Calling from any Web Browser · http://webclient.ivrpowers
     
     <item>
       <title>Let&#39;s E-commerce become a Better Customer Experience</title>
-      <link>http://blog.ivrpowers.com/post/support/e-commerce-customer-experience/</link>
+      <link>https://blog.ivrpowers.com/post/support/e-commerce-customer-experience/</link>
       <pubDate>Wed, 16 Aug 2017 12:14:46 +0200</pubDate>
       
-      <guid>http://blog.ivrpowers.com/post/support/e-commerce-customer-experience/</guid>
+      <guid>https://blog.ivrpowers.com/post/support/e-commerce-customer-experience/</guid>
       <description>Photo Source: Pexels. Creative Commons Latest Video Real-Time Communications can be decisive to improve e-commerce services. First of all, because they are becoming very accessible and easy to use through web browsers or most of mobile devices. Plugin downloads are no longer required, you just click and your are connected. Secondly, remember that creating a live interaction with your customers like a live chat or video call channels is a proven way to increase your sales.</description>
     </item>
     
     <item>
       <title>Interactive Powers is on Google&#43;</title>
-      <link>http://blog.ivrpowers.com/post/socials/follow-googleplus/</link>
+      <link>https://blog.ivrpowers.com/post/socials/follow-googleplus/</link>
       <pubDate>Mon, 14 Aug 2017 22:00:00 +0200</pubDate>
       
-      <guid>http://blog.ivrpowers.com/post/socials/follow-googleplus/</guid>
+      <guid>https://blog.ivrpowers.com/post/socials/follow-googleplus/</guid>
       <description>Interactive Powers has its own Google+ page! Meet more people interested on the latest collections and trends. And if you have any questions feel free to contact us.
 Follow our Google+ page at https://plus.google.com/110474380379482164317/
 Interactive Powers - Streamline your business communications</description>
@@ -677,29 +677,29 @@ Interactive Powers - Streamline your business communications</description>
     
     <item>
       <title>Video RTC (WebRTC) Roadmap 2017!</title>
-      <link>http://blog.ivrpowers.com/post/products/video-rtc-roadmap-2017/</link>
+      <link>https://blog.ivrpowers.com/post/products/video-rtc-roadmap-2017/</link>
       <pubDate>Mon, 07 Aug 2017 23:22:18 +0200</pubDate>
       
-      <guid>http://blog.ivrpowers.com/post/products/video-rtc-roadmap-2017/</guid>
+      <guid>https://blog.ivrpowers.com/post/products/video-rtc-roadmap-2017/</guid>
       <description>Photo source: Pixabay. Creative Commons We are pleased to unveil some key elements of our Video RTC (WebRTC) evolution until 2017. Major changes will follow WebRTC’s evolution itself. Our primary goal is to provide improved features to all Special Extensions like SPLIT, Video Calling, Live Chat, File Sharing, Screen Sharing, Video Recording, Snapshot&amp;hellip; In the next quarter, we will make significant improvements like adding a better Customer Experience with Video Real-Time Communications&amp;hellip;</description>
     </item>
     
     <item>
       <title>Videochat Support Channel Recommendations</title>
-      <link>http://blog.ivrpowers.com/post/customerengagement/videochat-support/</link>
+      <link>https://blog.ivrpowers.com/post/customerengagement/videochat-support/</link>
       <pubDate>Fri, 28 Jul 2017 13:13:47 +0200</pubDate>
       
-      <guid>http://blog.ivrpowers.com/post/customerengagement/videochat-support/</guid>
+      <guid>https://blog.ivrpowers.com/post/customerengagement/videochat-support/</guid>
       <description>Photo source: Pixabay. Creative Commons Video Real-Time Communications (RTC) is increasingly becoming a popular support channel. According to report from Gartner, more than 100 of the 500 largest global businesses will introduce video-based chat by 2018. But bringing online chat to website is not enough. To obtain good results, it should also be implemented correctly.
 Humanized Interactions. Self-service-tools are not always the best option. Customers can feel frustrated trying to reach a live agent or jumping from bot to bot.</description>
     </item>
     
     <item>
       <title>Video RTC (WebRTC) v2.2</title>
-      <link>http://blog.ivrpowers.com/post/updates/update-video-rtc-webrtc-2.2.0/</link>
+      <link>https://blog.ivrpowers.com/post/updates/update-video-rtc-webrtc-2.2.0/</link>
       <pubDate>Thu, 27 Jul 2017 09:00:00 +0200</pubDate>
       
-      <guid>http://blog.ivrpowers.com/post/updates/update-video-rtc-webrtc-2.2.0/</guid>
+      <guid>https://blog.ivrpowers.com/post/updates/update-video-rtc-webrtc-2.2.0/</guid>
       <description>Release Note We are pleased to announce that our new Video RTC (Gateway WebRTC) v2.2.0 has been released for suitable production services. This new version includes a lot of improvements and new features. All users with previous maintained versions can upgrade today. Please contact our support!
 ChangeLog Version 2.2.0:
 ## [2.2.0] - 2017-07-27 ### Added - Added interval Watchdog - Added autocall GET parameter to the Webclient URL usecase - Added overprint logo in the Webclient usecase  Interactive Powers - Streamline your business communications</description>
@@ -707,66 +707,66 @@ ChangeLog Version 2.2.0:
     
     <item>
       <title>Telehealth: When Technology Meets Medicine</title>
-      <link>http://blog.ivrpowers.com/post/healthcare/technology-meets-medicine/</link>
+      <link>https://blog.ivrpowers.com/post/healthcare/technology-meets-medicine/</link>
       <pubDate>Tue, 18 Jul 2017 11:31:50 +0200</pubDate>
       
-      <guid>http://blog.ivrpowers.com/post/healthcare/technology-meets-medicine/</guid>
+      <guid>https://blog.ivrpowers.com/post/healthcare/technology-meets-medicine/</guid>
       <description>Photo source: Flickr. Creative Commons Telemedicine exists since long time ago. In 19th century, Sigmund Freud used to write letters to his patients. It was a primitive distance doctor-patient relationship. However, in the next century telemedicine did not change a lot. Just few years ago, doctors would pick up the phone, and that was about as far as we have got in terms of telemedicine. But things have evolved in the last decade.</description>
     </item>
     
     <item>
       <title>Web Browser to SIP Calling?</title>
-      <link>http://blog.ivrpowers.com/post/technologies/webrtc-rtmp-to-sip-calling/</link>
+      <link>https://blog.ivrpowers.com/post/technologies/webrtc-rtmp-to-sip-calling/</link>
       <pubDate>Sun, 09 Jul 2017 00:20:05 +0200</pubDate>
       
-      <guid>http://blog.ivrpowers.com/post/technologies/webrtc-rtmp-to-sip-calling/</guid>
+      <guid>https://blog.ivrpowers.com/post/technologies/webrtc-rtmp-to-sip-calling/</guid>
       <description>Image source: Interactive Powers&amp;rsquo; elaboration How can you call a Desk Phone from any Web Browser? Our both Video Gateways (WebRTC | RTMP) can convert web browser media streams (video - audio - data) to SIP from WebRTC or RTMP peers communications. This interesting feature allows to connect easily web services to existing VoIP telephony channels of your IVR or PBX. We can consider all of this approach like a direct calling webphone or like a WebRTC-DDI or RTMP-DDI in a SIP trunk from an operator service configuration.</description>
     </item>
     
     <item>
       <title>Your Next Doctor&#39;s Appointment will be Online</title>
-      <link>http://blog.ivrpowers.com/post/healthcare/next-doctor-appointment/</link>
+      <link>https://blog.ivrpowers.com/post/healthcare/next-doctor-appointment/</link>
       <pubDate>Wed, 05 Jul 2017 13:39:50 +0200</pubDate>
       
-      <guid>http://blog.ivrpowers.com/post/healthcare/next-doctor-appointment/</guid>
+      <guid>https://blog.ivrpowers.com/post/healthcare/next-doctor-appointment/</guid>
       <description>Telemedicine services are increasing year by year. The main reason is Real-time communications (RTC) technology is becoming a great way to connect doctors and medical facilities with patients. Through a video conference session the patient can show his swollen ankle, and on basis of that image, doctor can decide whether an appointment is advisable.
 Telemedicine Telemedicine is not an answer to everything, but consumers see web-based or mobile application visits more convenient to get treated for minor ailments, such as allergy symptoms, coughs, flu or bug bites.</description>
     </item>
     
     <item>
       <title>Video Online Onboarding</title>
-      <link>http://blog.ivrpowers.com/post/financial/video-online-onboarding/</link>
+      <link>https://blog.ivrpowers.com/post/financial/video-online-onboarding/</link>
       <pubDate>Fri, 30 Jun 2017 13:13:32 +0200</pubDate>
       
-      <guid>http://blog.ivrpowers.com/post/financial/video-online-onboarding/</guid>
+      <guid>https://blog.ivrpowers.com/post/financial/video-online-onboarding/</guid>
       <description>Video Online Onboarding allows anyone to open an account or become customer in just a few minutes and start banking, getting a service or insurance contract right away. This new approach uses an innovative procedure that verifies a customer’s identity through a selfie and a video call. Video Online Onboarding is combining Video ID to verify the authenticity of identity documents with facial recognition and Video RTC to have a video call with an agent to approve the process.</description>
     </item>
     
     <item>
       <title>The Benefits of a WebRTC System</title>
-      <link>http://blog.ivrpowers.com/post/marketing/webrtc-system-benefits/</link>
+      <link>https://blog.ivrpowers.com/post/marketing/webrtc-system-benefits/</link>
       <pubDate>Thu, 29 Jun 2017 00:20:05 +0200</pubDate>
       
-      <guid>http://blog.ivrpowers.com/post/marketing/webrtc-system-benefits/</guid>
+      <guid>https://blog.ivrpowers.com/post/marketing/webrtc-system-benefits/</guid>
       <description>Photo source: Unsplash. Creative Commons A WebRTC System can bring several benefits to all types of enterprises and users. For different market segments, the benefit would really be overwhelming, as the app would give them the power to open up a wealth of opportunities to serve their clients and customers, in a very innovative way. Using the network, companies can open up real-time and live video chats sessions with customers, and vice-versa, to provide their help and support.</description>
     </item>
     
     <item>
       <title>Introducing VideoRTC.js for Developers</title>
-      <link>http://blog.ivrpowers.com/post/development/introducing-videortcjs-developers/</link>
+      <link>https://blog.ivrpowers.com/post/development/introducing-videortcjs-developers/</link>
       <pubDate>Wed, 28 Jun 2017 00:30:56 +0200</pubDate>
       
-      <guid>http://blog.ivrpowers.com/post/development/introducing-videortcjs-developers/</guid>
+      <guid>https://blog.ivrpowers.com/post/development/introducing-videortcjs-developers/</guid>
       <description>Photo source: Interactive Powers elaboration Since 2015, Interactive Powers has been diligently refining its Video RTC solutions, API Framework and SDKs to make embedded video much more accessible for developers and enterprises who are looking to rapidly integrate reliable video chat into their own applications.
 VideoRTC.js library Today, we’re thrilled to officially announce a new VideoRTC.js library – the launch of our self-service API Framework developer tools, which lets developers quickly and easily embed this same enterprise-grade, cloud-hosted, multiparty RTC video collaboration into any web, mobile or native application on virtually any device.</description>
     </item>
     
     <item>
       <title>Interactive Powers is on LinkedIn</title>
-      <link>http://blog.ivrpowers.com/post/socials/follow-linkedin/</link>
+      <link>https://blog.ivrpowers.com/post/socials/follow-linkedin/</link>
       <pubDate>Tue, 27 Jun 2017 12:40:31 +0200</pubDate>
       
-      <guid>http://blog.ivrpowers.com/post/socials/follow-linkedin/</guid>
+      <guid>https://blog.ivrpowers.com/post/socials/follow-linkedin/</guid>
       <description>Interactive Powers has its own LinkedIn page! Meet more people interested on the latest trends on #RTC and #IVR. And if you have any questions feel free to contact us.
 Follow our Linkedin page at https://www.linkedin.com/company/ivrpowers
 Interactive Powers - Streamline your business communications</description>
@@ -774,10 +774,10 @@ Interactive Powers - Streamline your business communications</description>
     
     <item>
       <title>Join us on Instagram</title>
-      <link>http://blog.ivrpowers.com/post/socials/join-instagram/</link>
+      <link>https://blog.ivrpowers.com/post/socials/join-instagram/</link>
       <pubDate>Wed, 21 Jun 2017 11:44:03 +0200</pubDate>
       
-      <guid>http://blog.ivrpowers.com/post/socials/join-instagram/</guid>
+      <guid>https://blog.ivrpowers.com/post/socials/join-instagram/</guid>
       <description>You can now follow us on Instagram!. We want to share our best tech pictures with you. Products, trends, promotions, innovations, conferences, updates&amp;hellip;
 We are waiting you! at https://www.instagram.com/ivrpowers/
 Interactive Powers - Streamline your business communications</description>
@@ -785,10 +785,10 @@ Interactive Powers - Streamline your business communications</description>
     
     <item>
       <title>What is SPLIT?</title>
-      <link>http://blog.ivrpowers.com/post/technologies/what-is-split/</link>
+      <link>https://blog.ivrpowers.com/post/technologies/what-is-split/</link>
       <pubDate>Wed, 21 Jun 2017 00:20:05 +0200</pubDate>
       
-      <guid>http://blog.ivrpowers.com/post/technologies/what-is-split/</guid>
+      <guid>https://blog.ivrpowers.com/post/technologies/what-is-split/</guid>
       <description>All Video Gateways (WebRTC | RTMP) developed by IVRPowers include a special plugin which allows separate the media streams (video - audio - data) for any communication between users and agents. This development is based on SIP and WebRTC | RTMP peers communications for the integration of voice, video and data in Contact Centers.
 How does SPLIT work? The Audio-Video SPLIT mode works as following:
 A Videocall is initiated by a customer endpoint and comes into the Video Gateway.</description>
@@ -796,10 +796,10 @@ A Videocall is initiated by a customer endpoint and comes into the Video Gateway
     
     <item>
       <title>Follow us on Facebook</title>
-      <link>http://blog.ivrpowers.com/post/socials/followfacebook/</link>
+      <link>https://blog.ivrpowers.com/post/socials/followfacebook/</link>
       <pubDate>Tue, 20 Jun 2017 11:23:01 +0200</pubDate>
       
-      <guid>http://blog.ivrpowers.com/post/socials/followfacebook/</guid>
+      <guid>https://blog.ivrpowers.com/post/socials/followfacebook/</guid>
       <description>Do not forget to follow us on Facebook. You can contact us and stay updated on all that’s going on our company and on the latest news about #RTC or #IVR.
 Join us and stay tuned for new information at https://www.facebook.com/ivrpowers/
 Interactive Powers - Streamline your business communications</description>
@@ -807,10 +807,10 @@ Interactive Powers - Streamline your business communications</description>
     
     <item>
       <title>Join us on Tumblr</title>
-      <link>http://blog.ivrpowers.com/post/socials/join-tumblr/</link>
+      <link>https://blog.ivrpowers.com/post/socials/join-tumblr/</link>
       <pubDate>Mon, 19 Jun 2017 12:47:15 +0200</pubDate>
       
-      <guid>http://blog.ivrpowers.com/post/socials/join-tumblr/</guid>
+      <guid>https://blog.ivrpowers.com/post/socials/join-tumblr/</guid>
       <description>You can easily track what’s happening by following us on Tumblr. Keep up to date about the most advanced #RTC and #IVR solutions and breakthrough technologies.
 Follow us at http://tumblr.ivrpowers.com/
 Interactive Powers - Streamline your business communications</description>
@@ -818,10 +818,10 @@ Interactive Powers - Streamline your business communications</description>
     
     <item>
       <title>Video RTC (WebRTC) v2.1</title>
-      <link>http://blog.ivrpowers.com/post/updates/update-video-rtc-webrtc-2.1.0/</link>
+      <link>https://blog.ivrpowers.com/post/updates/update-video-rtc-webrtc-2.1.0/</link>
       <pubDate>Mon, 19 Jun 2017 00:20:05 +0200</pubDate>
       
-      <guid>http://blog.ivrpowers.com/post/updates/update-video-rtc-webrtc-2.1.0/</guid>
+      <guid>https://blog.ivrpowers.com/post/updates/update-video-rtc-webrtc-2.1.0/</guid>
       <description>Release Note We are pleased to announce that our new Video RTC (Gateway WebRTC) v2.1.0 has been released for suitable production services. This new version includes a lot of improvements and new features. All users with previous maintained versions can upgrade today. Please contact our support!
 ChangeLog Version 2.1.0:
 ## [2.1.0] - 2017-04-17 ### Added - Added Snapshot feature in the Split Agent usecase - VideoGateway notifies to participants when a Split session is finished - Added Autoclose feature in the Split Agent usecase - Added `split_screen_bitrate` in the Split configuration file - Added `videorate` and `screenrate` parameters in the `call_split` request - Added Quality selector in the Webclient usecase - Added sound notification when a message is received in the Split Agent usecase - Added sound notificator handle (Mute/Unmute) in LiveChat mode - Added visual notificacion when a file is sent in the Split Agent usecase - Added icon that identifies the file type sent/received - Added Drop feature for File Sharing (Agent -&amp;gt; Client) - Added Emoji feature in LiveChat (Webclient and Split Agent) - Added FullScreen mode in ScreenSharing (Webclient) - Added SplitAgent configuration feature via Flavour (Autoclose, Emoji.</description>
@@ -829,20 +829,20 @@ ChangeLog Version 2.1.0:
     
     <item>
       <title>What is WebRTC?</title>
-      <link>http://blog.ivrpowers.com/post/technologies/what-is-webrtc/</link>
+      <link>https://blog.ivrpowers.com/post/technologies/what-is-webrtc/</link>
       <pubDate>Mon, 19 Jun 2017 00:20:05 +0200</pubDate>
       
-      <guid>http://blog.ivrpowers.com/post/technologies/what-is-webrtc/</guid>
+      <guid>https://blog.ivrpowers.com/post/technologies/what-is-webrtc/</guid>
       <description>WebRTC (Web Real-Time Communication) is a collection of communications protocols and application programming interfaces that enable real-time communication over peer-to-peer connections. This allows web browsers to not only request resources from backend servers, but also real-time information from browsers of other users.
 This enables applications such as video conferencing, file transfer, chat, or desktop sharing without the need of either internal or external plugins. WebRTC is being standardized by the World Wide Web Consortium (W3C) and the Internet Engineering Task Force (IETF).</description>
     </item>
     
     <item>
       <title>Follow us on Twitter</title>
-      <link>http://blog.ivrpowers.com/post/socials/followus-twitter/</link>
+      <link>https://blog.ivrpowers.com/post/socials/followus-twitter/</link>
       <pubDate>Fri, 16 Jun 2017 00:20:05 +0200</pubDate>
       
-      <guid>http://blog.ivrpowers.com/post/socials/followus-twitter/</guid>
+      <guid>https://blog.ivrpowers.com/post/socials/followus-twitter/</guid>
       <description>Be sure to follow us on Twitter with great brand updates, promotions and news about all things RTC or IVR. Our hand is @ivrpowers and our favorite hashtags right now are #RTC and #IVR.
 Give us a shout out! https://twitter.com/ivrpowers
 Interactive Powers - Streamline your business communications</description>
@@ -850,10 +850,10 @@ Interactive Powers - Streamline your business communications</description>
     
     <item>
       <title>Video RTC (RTMP) v1.2</title>
-      <link>http://blog.ivrpowers.com/post/updates/update-video-rtc-rtmp-1.2.0/</link>
+      <link>https://blog.ivrpowers.com/post/updates/update-video-rtc-rtmp-1.2.0/</link>
       <pubDate>Fri, 16 Jun 2017 00:20:05 +0200</pubDate>
       
-      <guid>http://blog.ivrpowers.com/post/updates/update-video-rtc-rtmp-1.2.0/</guid>
+      <guid>https://blog.ivrpowers.com/post/updates/update-video-rtc-rtmp-1.2.0/</guid>
       <description>Release Note We are pleased to announce that our new Video RTC (Gateway RTMP) v1.2.0 has been released for suitable production services. This new version includes a lot of improvements and new features. All users with previous maintained versions can upgrade today. Please contact our support!
 ChangeLog Version 1.2.0:
 ## [1.2.0] - 2017-01-18 ### Added - GET parameters to customize some variables of the client and agent flashphones { Action: parameter=[possible values] (default) ---------------------------------------------- Enable video: video=[true|false] (false) Video quality: quality=[1.</description>
@@ -861,40 +861,40 @@ ChangeLog Version 1.2.0:
     
     <item>
       <title>4 Key factors to select a Telehealth Solution</title>
-      <link>http://blog.ivrpowers.com/post/healthcare/4-factors-select-telehealth-solution/</link>
+      <link>https://blog.ivrpowers.com/post/healthcare/4-factors-select-telehealth-solution/</link>
       <pubDate>Wed, 14 Jun 2017 10:55:18 +0200</pubDate>
       
-      <guid>http://blog.ivrpowers.com/post/healthcare/4-factors-select-telehealth-solution/</guid>
+      <guid>https://blog.ivrpowers.com/post/healthcare/4-factors-select-telehealth-solution/</guid>
       <description>Implementing telehealth can help physicians reach people in remote or rural areas who may not be able to travel to a particular facility or specialist as well as those in more densely populated urban areas who find inner-city mass transit insufficient for their needs. As a result, more organizations are turning to telehealth as a viable alternative to routine in-office physician visits.
 To implement properly the kind of telehealth solution that both clinicians and patients will trust and use takes a lot of up-front planning, you should consider these four key considerations before putting telehealth into practice:</description>
     </item>
     
     <item>
       <title>What is RTMP?</title>
-      <link>http://blog.ivrpowers.com/post/technologies/what-is-rtmp/</link>
+      <link>https://blog.ivrpowers.com/post/technologies/what-is-rtmp/</link>
       <pubDate>Wed, 14 Jun 2017 00:19:54 +0200</pubDate>
       
-      <guid>http://blog.ivrpowers.com/post/technologies/what-is-rtmp/</guid>
+      <guid>https://blog.ivrpowers.com/post/technologies/what-is-rtmp/</guid>
       <description>Real Time Messaging Protocol or RTMP is mainly serving for high speed transmission of audio, video and data between flash player and a server. Initially developed by Macromedia, the protocol is now owned by Adobe, and specifications about it have only partially been released for public use.
 According to those specifications, the RTMP protocol has multiple variations, i.e. the “plain” RTMP protocol, RTMPS which is RTMP over an TLS/SSL connection, RTMPE which is RTMP encrypted using Adobe’s own security mechanism, and RTMPT which is encapsulated within HTTP requests to traverse firewalls.</description>
     </item>
     
     <item>
       <title>Know our Products: VideoRTC</title>
-      <link>http://blog.ivrpowers.com/post/products/video-rtc/</link>
+      <link>https://blog.ivrpowers.com/post/products/video-rtc/</link>
       <pubDate>Tue, 13 Jun 2017 11:22:18 +0200</pubDate>
       
-      <guid>http://blog.ivrpowers.com/post/products/video-rtc/</guid>
+      <guid>https://blog.ivrpowers.com/post/products/video-rtc/</guid>
       <description>The Video Real Time Communications Platform Our Video Gateway connects peers or endpoints between WebRTC, RTMP and SIP technology to create advanced Video services. It works in common hardware or Cloud VM servers configurations, providing a highly scalable base system to meet all customers’ business and technical requirements.
 Cloud Ready. Our Video Gateway solutions are software based and ready to run over Cloud environments and Virtual Servers. You can setup our Video RTC platforms over Amazon EC2 servers or any Private/Public Cloud.</description>
     </item>
     
     <item>
       <title>Video RTC: Special Extensions</title>
-      <link>http://blog.ivrpowers.com/post/products/video-rtc-special-extensions/</link>
+      <link>https://blog.ivrpowers.com/post/products/video-rtc-special-extensions/</link>
       <pubDate>Tue, 13 Jun 2017 11:22:18 +0200</pubDate>
       
-      <guid>http://blog.ivrpowers.com/post/products/video-rtc-special-extensions/</guid>
+      <guid>https://blog.ivrpowers.com/post/products/video-rtc-special-extensions/</guid>
       <description>Video Gateway (WebRTC) includes many features or special extensions that you can activate according to your own business processes. All of this, is part of the capabilities of our Video RTC solution suite.
 Video RTC special extensions are:
 Live Chat. Video Gateway supports Live Chat feature thru a DataChannel. You can customize all the User or Agent front-end in Flash or HTML5 according the gateway mode you have deployed for your service.</description>
@@ -902,10 +902,10 @@ Live Chat. Video Gateway supports Live Chat feature thru a DataChannel. You can 
     
     <item>
       <title>Updating the Inbound Phone Channel</title>
-      <link>http://blog.ivrpowers.com/post/trends/updating-inbound-phone-channel/</link>
+      <link>https://blog.ivrpowers.com/post/trends/updating-inbound-phone-channel/</link>
       <pubDate>Tue, 13 Jun 2017 10:55:18 +0200</pubDate>
       
-      <guid>http://blog.ivrpowers.com/post/trends/updating-inbound-phone-channel/</guid>
+      <guid>https://blog.ivrpowers.com/post/trends/updating-inbound-phone-channel/</guid>
       <description>Most Call Centers are only managing standard inbound phone calls with the addition of &amp;ldquo;Click-to-call&amp;rdquo; or &amp;ldquo;Call-me-back&amp;rdquo; buttons. It&amp;rsquo;s a very interesting &amp;ldquo;work around&amp;rdquo; option but it&amp;rsquo;s not enough. More and more users don&amp;rsquo;t like to make a phone call when they are browsing the net.
 Users just want to keep on the same channel for many reasons:
  they don&amp;rsquo;t want to unveils their phone number…
@@ -914,19 +914,19 @@ Users just want to keep on the same channel for many reasons:
     
     <item>
       <title>What is IVR?</title>
-      <link>http://blog.ivrpowers.com/post/technologies/what-is-ivr/</link>
+      <link>https://blog.ivrpowers.com/post/technologies/what-is-ivr/</link>
       <pubDate>Mon, 12 Jun 2017 00:20:05 +0200</pubDate>
       
-      <guid>http://blog.ivrpowers.com/post/technologies/what-is-ivr/</guid>
+      <guid>https://blog.ivrpowers.com/post/technologies/what-is-ivr/</guid>
       <description>Interactive Voice Response (IVR) is a technology that allows a computer to interact with humans through the use of voice and DTMF tones input via keypad. In telecommunications, IVR allows customers to interact with a company’s host system via a telephone keypad or by speech recognition, after which services can be inquired about through the IVR dialogue. IVR systems can respond with prerecorded or dynamically generated audio to further direct users on how to proceed.</description>
     </item>
     
     <item>
       <title>What is RTC?</title>
-      <link>http://blog.ivrpowers.com/post/technologies/what-is-rtc/</link>
+      <link>https://blog.ivrpowers.com/post/technologies/what-is-rtc/</link>
       <pubDate>Mon, 12 Jun 2017 00:20:05 +0200</pubDate>
       
-      <guid>http://blog.ivrpowers.com/post/technologies/what-is-rtc/</guid>
+      <guid>https://blog.ivrpowers.com/post/technologies/what-is-rtc/</guid>
       <description>A clear definition of Real-time communications (RTC) is important to understand what will be the newest evolution of Internet applications and services for businesses and individuals. All is moving around to more real-time, more video, better sound quality, better screen resolution, easier human-interfaces… RTC technology helps to share together most of our senses thru digital networks at light’s speed:
 RTC is any mode of telecommunications in which all users can exchange information instantly or with negligible latency.</description>
     </item>

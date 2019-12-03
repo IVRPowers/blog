@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Voicexml on Blog</title>
-    <link>http://blog.ivrpowers.com/tags/voicexml/</link>
+    <link>https://blog.ivrpowers.com/tags/voicexml/</link>
     <description>Recent content in Voicexml on Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 21 Feb 2019 00:00:00 +0200</lastBuildDate>
     
-	<atom:link href="http://blog.ivrpowers.com/tags/voicexml/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://blog.ivrpowers.com/tags/voicexml/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>VoiceXML IVR 2.0</title>
-      <link>http://blog.ivrpowers.com/post/products/voicexml-ivr-2-generation/</link>
+      <link>https://blog.ivrpowers.com/post/products/voicexml-ivr-2-generation/</link>
       <pubDate>Thu, 21 Feb 2019 00:00:00 +0200</pubDate>
       
-      <guid>http://blog.ivrpowers.com/post/products/voicexml-ivr-2-generation/</guid>
+      <guid>https://blog.ivrpowers.com/post/products/voicexml-ivr-2-generation/</guid>
       <description>Photo Source: Interactive Powers. Creative Commons Interactive Voice Response refounded to becomes Conversational IVR. The second generation of our IVR product is now released after months of developments and continuous improvements. Discover how to integrate telephony and voicebots / conversational agents to transform your business processes, and how VoiceXML IVR can help you to facilitate more engaging interactions with your customers, users or employees.
 Welcome to VoiceXML IVR 2.</description>
     </item>
     
     <item>
       <title>VoiceXML IVR v2.0</title>
-      <link>http://blog.ivrpowers.com/post/updates/update-voicexml-ivr-2.0.0/</link>
+      <link>https://blog.ivrpowers.com/post/updates/update-voicexml-ivr-2.0.0/</link>
       <pubDate>Mon, 18 Feb 2019 00:20:05 +0200</pubDate>
       
-      <guid>http://blog.ivrpowers.com/post/updates/update-voicexml-ivr-2.0.0/</guid>
+      <guid>https://blog.ivrpowers.com/post/updates/update-voicexml-ivr-2.0.0/</guid>
       <description>Release Note We are pleased to announce that our new VoiceXML IVR 2.0 has been released for suitable production services. This new version includes a lot of improvements and new features. All users with previous maintained versions can upgrade today. Please contact our support!
 ChangeLog Version 2.0:
 ## [2.0] - 2019-02-29 ### New - First release of VoiceXML IVR 2.0 - New PBX-SIP Connect - New TTS-HTTP/MRCP - New ASR-HTTP/MRCP  Interactive Powers - Streamline your business communications</description>
@@ -34,30 +34,30 @@ ChangeLog Version 2.0:
     
     <item>
       <title>VoiceXML IVR · Speech Recognition</title>
-      <link>http://blog.ivrpowers.com/post/products/voicexml-ivr-speech-recognition/</link>
+      <link>https://blog.ivrpowers.com/post/products/voicexml-ivr-speech-recognition/</link>
       <pubDate>Sun, 10 Feb 2019 15:00:00 +0200</pubDate>
       
-      <guid>http://blog.ivrpowers.com/post/products/voicexml-ivr-speech-recognition/</guid>
+      <guid>https://blog.ivrpowers.com/post/products/voicexml-ivr-speech-recognition/</guid>
       <description>Convert spoken voice into machine-readable format. Overview VoiceXML IVR runs most existing Cloud Speech API and some MRCP v2 engines. These STT / ASR connectors allow to get a complete development abstraction of all your interactive phone services. In combination with Text-to-Speech, you can develop the most advanced interactive voice experience with the best platform management.
 Providers  Nuance Speech Recognizer Google Speech API Amazon Lex Microsoft Azure  Use Cases  Call Stearing, Call Routing, Voice Search&amp;hellip; Support most languanges with several voices Power advanced IVR applications Power Voicebots and Voice Assistants   System Requirements Speech Recognition feature requires VoiceXML IVR On Premise or Cloud CPaaS.</description>
     </item>
     
     <item>
       <title>VoiceXML IVR · Text-to-Speech</title>
-      <link>http://blog.ivrpowers.com/post/products/voicexml-ivr-text-to-speech/</link>
+      <link>https://blog.ivrpowers.com/post/products/voicexml-ivr-text-to-speech/</link>
       <pubDate>Sun, 10 Feb 2019 15:00:00 +0200</pubDate>
       
-      <guid>http://blog.ivrpowers.com/post/products/voicexml-ivr-text-to-speech/</guid>
+      <guid>https://blog.ivrpowers.com/post/products/voicexml-ivr-text-to-speech/</guid>
       <description>Convert text into spoken voice outpout. Overview VoiceXML IVR runs most existing Text-to-Speech engines with many languages and voices powered by a cloud HTTP-API connector. This TTS connector is really fast &amp;amp; dynamic to improve the caller experience. Now, you can develop smart services with a dynamic voice response according to any kind of content: text, numbers, dates,…
 Providers  Nuance Vocalizer Google Text-to-Speech API Amazon Polly Microsoft Azure  Use Cases  Enable to generate dynamic voice prompts Support most languanges with several voices Power advanced conversational applications Generate dates, numbers, names&amp;hellip;   System Requirements Text-to-Speech feature requires VoiceXML IVR On Premise or Cloud CPaaS.</description>
     </item>
     
     <item>
       <title>Upcoming VoiceXML IVR 2.0</title>
-      <link>http://blog.ivrpowers.com/post/news/2019-02-ivr-upcoming-2/</link>
+      <link>https://blog.ivrpowers.com/post/news/2019-02-ivr-upcoming-2/</link>
       <pubDate>Sat, 09 Feb 2019 10:00:00 +0200</pubDate>
       
-      <guid>http://blog.ivrpowers.com/post/news/2019-02-ivr-upcoming-2/</guid>
+      <guid>https://blog.ivrpowers.com/post/news/2019-02-ivr-upcoming-2/</guid>
       <description>Photo Source: Interactive Powers. Creative Commons Sometimes, you have to reborn and change all&amp;hellip; Follow our socials and blog; be ready to discover our major release update since the born of Interactive Powers. Forget programming standards, IVR will become smart and conversational.
 Keep posted on February 2019!
 Interactive Powers - Streamline your business communications</description>
@@ -65,47 +65,47 @@ Interactive Powers - Streamline your business communications</description>
     
     <item>
       <title>Voice Broadcast · Auto Dialer</title>
-      <link>http://blog.ivrpowers.com/post/products/turnkey-auto-dialer/</link>
+      <link>https://blog.ivrpowers.com/post/products/turnkey-auto-dialer/</link>
       <pubDate>Sun, 07 Oct 2018 15:00:00 +0200</pubDate>
       
-      <guid>http://blog.ivrpowers.com/post/products/turnkey-auto-dialer/</guid>
+      <guid>https://blog.ivrpowers.com/post/products/turnkey-auto-dialer/</guid>
       <description>Photo source: Pixabay. Creative Commons Calling all your business contacts at once. Auto Dialer is multi-channel dialing platform to send important alerts, promotions, updates, payment collection, political campaigns, phone surveys or notifications to your customers, employees, voters, and more. it instantly turns your browser into a complete outbound call center with an Intuitive user interface, advanced multi-campaign management and reporting. It can be easily connected to our VoiceXML IVR.</description>
     </item>
     
     <item>
       <title>Conversational IVR applications</title>
-      <link>http://blog.ivrpowers.com/post/products/conversational-ivr-applications/</link>
+      <link>https://blog.ivrpowers.com/post/products/conversational-ivr-applications/</link>
       <pubDate>Wed, 04 Jul 2018 13:30:00 +0200</pubDate>
       
-      <guid>http://blog.ivrpowers.com/post/products/conversational-ivr-applications/</guid>
+      <guid>https://blog.ivrpowers.com/post/products/conversational-ivr-applications/</guid>
       <description>Photo source: Pixabay. Creative Commons Conversational IVR applications to improve your customer experience in phone services. Tradicional IVR systems have been built as limited DTMF and direct IVR dialogs for a long time. Yet it is not a secret that the experience using those solutions has is rather poor. In 70% of those interactions, the end users end up frustrated; at “best” case scenario are rerouted to a human agent.</description>
     </item>
     
     <item>
       <title>3 Reasons to embrace Cloud Hosting</title>
-      <link>http://blog.ivrpowers.com/post/trends/cloud-hosting-ivr-rtc/</link>
+      <link>https://blog.ivrpowers.com/post/trends/cloud-hosting-ivr-rtc/</link>
       <pubDate>Wed, 20 Sep 2017 12:50:49 +0200</pubDate>
       
-      <guid>http://blog.ivrpowers.com/post/trends/cloud-hosting-ivr-rtc/</guid>
+      <guid>https://blog.ivrpowers.com/post/trends/cloud-hosting-ivr-rtc/</guid>
       <description>Photo source: Pixabay. Creative Commons. Upgrade your business communications to the Cloud to deliver more value with less costs Computing based on the internet is booming business. The global cloud communication market is projected to reach $4.45 by 2021. Why are more and more companies turning to the cloud for their business communications needs?
 Communications solutions at a lower cost. Cloud computing is a cost saver since it can reduce or even eliminate the need for a company to buy an expensive hardware and software.</description>
     </item>
     
     <item>
       <title>Technavio: IVR market, will see a growth of around 13% between this year, and 2021</title>
-      <link>http://blog.ivrpowers.com/post/trends/technavio-trend/</link>
+      <link>https://blog.ivrpowers.com/post/trends/technavio-trend/</link>
       <pubDate>Thu, 07 Sep 2017 22:00:00 +0200</pubDate>
       
-      <guid>http://blog.ivrpowers.com/post/trends/technavio-trend/</guid>
+      <guid>https://blog.ivrpowers.com/post/trends/technavio-trend/</guid>
       <description>Photo Source: Interactive Powers, Pexels. Creative Commons The Interactive Voice Response (IVR) market is growing, but what’s driving that growth? Market research analysts from Technavio suggest that the IVR, or Interactive Voice Response market, will see a growth of around 13% between this year, and 2021. For those who are new to the industry, IVR systems are the solutions that give companies a stronger way of engaging their customers through various customer service solutions.</description>
     </item>
     
     <item>
       <title>Interactive Powers · Microsites</title>
-      <link>http://blog.ivrpowers.com/post/products/products-microsites/</link>
+      <link>https://blog.ivrpowers.com/post/products/products-microsites/</link>
       <pubDate>Wed, 16 Aug 2017 23:22:18 +0200</pubDate>
       
-      <guid>http://blog.ivrpowers.com/post/products/products-microsites/</guid>
+      <guid>https://blog.ivrpowers.com/post/products/products-microsites/</guid>
       <description>Photo source: Interactive Powers We are pleased to share our nice product microsite links in this post. You will find a summary of all features and an easier way to talk about them from socials networks and email.
 Microsite - VoiceXML IVR Refining IVR with Software · http://voicexml.ivrpowers.com
 Microsite - Video RTC Video Real Time Communications · http://videortc.ivrpowers.com
@@ -114,10 +114,10 @@ Microsite - Webclient Calling from any Web Browser · http://webclient.ivrpowers
     
     <item>
       <title>VoiceXML IVR v1.3</title>
-      <link>http://blog.ivrpowers.com/post/updates/update-voicexml-ivr-13.1/</link>
+      <link>https://blog.ivrpowers.com/post/updates/update-voicexml-ivr-13.1/</link>
       <pubDate>Thu, 15 Jun 2017 00:20:05 +0200</pubDate>
       
-      <guid>http://blog.ivrpowers.com/post/updates/update-voicexml-ivr-13.1/</guid>
+      <guid>https://blog.ivrpowers.com/post/updates/update-voicexml-ivr-13.1/</guid>
       <description>Release Note We are pleased to announce that our new VoiceXML IVR 1.3 has been released for suitable production services. This new version includes a lot of improvements and new features. All users with previous maintained versions can upgrade today. Please contact our support!
 ChangeLog Version 1.3:
 ## [1.3] - 2016-06 ### Added - Initialization of the freepbx_security.log during the fail2ban installation if not exists - Added pagination for CDR results - Added Presence extras source files - Added the extras module installation to the installation process - Added the extras module update to the update process ### Changed - Fixed posible exploit in the vxml editor directory browser - Fixed a typo in the web uninstallation steps - Updated Openvxi V12.</description>
@@ -125,10 +125,10 @@ ChangeLog Version 1.3:
     
     <item>
       <title>Know our Products: VoiceXML IVR</title>
-      <link>http://blog.ivrpowers.com/post/products/voicexml-ivr/</link>
+      <link>https://blog.ivrpowers.com/post/products/voicexml-ivr/</link>
       <pubDate>Mon, 12 Jun 2017 13:25:21 +0200</pubDate>
       
-      <guid>http://blog.ivrpowers.com/post/products/voicexml-ivr/</guid>
+      <guid>https://blog.ivrpowers.com/post/products/voicexml-ivr/</guid>
       <description>The Interactive Voice Response Platform Our VoiceXML IVR software platform gives operators and solution providers the ability to rapidly develop and deploy innovative voice applications from VoIP to PSTN networks.
 This powerful IVR solution is fully compliant with the W3C’s VoiceXML 2.1 specification and is integrated with automatic speech recognition (ASR) and text-to-speech (TTS) software to enable advanced interactive services, and real-time calling applications.
 It can be installed in common hardware or Cloud VM servers configurations, providing a highly scalable base system to meet all customers’ business and technical requirements.</description>
@@ -136,10 +136,10 @@ It can be installed in common hardware or Cloud VM servers configurations, provi
     
     <item>
       <title>What is VoiceXML?</title>
-      <link>http://blog.ivrpowers.com/post/technologies/what-is-voicexml/</link>
+      <link>https://blog.ivrpowers.com/post/technologies/what-is-voicexml/</link>
       <pubDate>Mon, 12 Jun 2017 00:20:05 +0200</pubDate>
       
-      <guid>http://blog.ivrpowers.com/post/technologies/what-is-voicexml/</guid>
+      <guid>https://blog.ivrpowers.com/post/technologies/what-is-voicexml/</guid>
       <description>The Voice eXtensible Markup Language (VoiceXML) is an XML-based markup language for creating distributed voice applications, much as HTML is a markup language for creating distributed visual applications. It is an industry standard defined by the World Wide Web Consortium (W3C) at http://www.w3.org/TR/voicexml21/ (for VoiceXML V2.1) and http://www.w3.org/TR/voicexml20/ (for VoiceXML V2.0). The VoiceXML language enables IVR developers to use a familiar markup style and Web server-side logic to deliver applications for use over telephone lines.</description>
     </item>
     

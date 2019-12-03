@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>News on Blog</title>
-    <link>http://blog.ivrpowers.com/categories/news/</link>
+    <link>https://blog.ivrpowers.com/categories/news/</link>
     <description>Recent content in News on Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 23 Jul 2019 20:00:00 +0200</lastBuildDate>
     
-	<atom:link href="http://blog.ivrpowers.com/categories/news/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://blog.ivrpowers.com/categories/news/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Security improvement for WebRTC in Firefox 68</title>
-      <link>http://blog.ivrpowers.com/post/news/firefox68-requires-https-in-all-sources/</link>
+      <link>https://blog.ivrpowers.com/post/news/firefox68-requires-https-in-all-sources/</link>
       <pubDate>Tue, 23 Jul 2019 20:00:00 +0200</pubDate>
       
-      <guid>http://blog.ivrpowers.com/post/news/firefox68-requires-https-in-all-sources/</guid>
+      <guid>https://blog.ivrpowers.com/post/news/firefox68-requires-https-in-all-sources/</guid>
       <description>Photo Source: Creative Commons Firefox 68 will now only expose camera and microphone in secure contexts. As of Firefox 68 — releasing past weeks — WebRTC camera and microphone will require an https connection to work. Access from insecure http will cease to work, matching how Chrome works. Camera and microhone are powerful features, and Firefox will now only expose them in secure contexts, a security and privacy improvement.</description>
     </item>
     
     <item>
       <title>Upcoming Video RTC 4.0</title>
-      <link>http://blog.ivrpowers.com/post/news/2019-02-rtc-upcoming-4/</link>
+      <link>https://blog.ivrpowers.com/post/news/2019-02-rtc-upcoming-4/</link>
       <pubDate>Sat, 09 Feb 2019 14:00:00 +0200</pubDate>
       
-      <guid>http://blog.ivrpowers.com/post/news/2019-02-rtc-upcoming-4/</guid>
+      <guid>https://blog.ivrpowers.com/post/news/2019-02-rtc-upcoming-4/</guid>
       <description>Photo Source: Interactive Powers. Creative Commons Innovate. Rebuild your customer interactions&amp;hellip; Follow our socials and blog; be ready to discover our major release update about Video Real-Time Communications. We will pleased to show you soon our 4th generation of our Video Gateway platforms.
 Keep posted on February 2019!
 Interactive Powers - Streamline your business communications</description>
@@ -33,10 +33,10 @@ Interactive Powers - Streamline your business communications</description>
     
     <item>
       <title>Upcoming VoiceXML IVR 2.0</title>
-      <link>http://blog.ivrpowers.com/post/news/2019-02-ivr-upcoming-2/</link>
+      <link>https://blog.ivrpowers.com/post/news/2019-02-ivr-upcoming-2/</link>
       <pubDate>Sat, 09 Feb 2019 10:00:00 +0200</pubDate>
       
-      <guid>http://blog.ivrpowers.com/post/news/2019-02-ivr-upcoming-2/</guid>
+      <guid>https://blog.ivrpowers.com/post/news/2019-02-ivr-upcoming-2/</guid>
       <description>Photo Source: Interactive Powers. Creative Commons Sometimes, you have to reborn and change all&amp;hellip; Follow our socials and blog; be ready to discover our major release update since the born of Interactive Powers. Forget programming standards, IVR will become smart and conversational.
 Keep posted on February 2019!
 Interactive Powers - Streamline your business communications</description>
@@ -44,67 +44,67 @@ Interactive Powers - Streamline your business communications</description>
     
     <item>
       <title> Unified Plan SDP format released in Chrome 72&#43; </title>
-      <link>http://blog.ivrpowers.com/post/news/chrome72-sdp-phase3-update/</link>
+      <link>https://blog.ivrpowers.com/post/news/chrome72-sdp-phase3-update/</link>
       <pubDate>Sat, 02 Feb 2019 16:00:00 +0200</pubDate>
       
-      <guid>http://blog.ivrpowers.com/post/news/chrome72-sdp-phase3-update/</guid>
+      <guid>https://blog.ivrpowers.com/post/news/chrome72-sdp-phase3-update/</guid>
       <description>Photo Source: Unsplash. Creative Commons Chrome goes into Unified Plan SDP (Phase 3) for its WebRTC implementation Google is planning to change the WebRTC implementation from the current SDP format called &amp;ldquo;Plan B&amp;rdquo; to a standards format &amp;ldquo;Unified Plan&amp;rdquo; over 4 phases.
 Chrome M72 version will be the first release to apply phase 3, and will require to upgrade sonn our Video RTC platform to run properly all this new SDP format.</description>
     </item>
     
     <item>
       <title>Microsoft Edge moves to Chromium in 2019</title>
-      <link>http://blog.ivrpowers.com/post/news/microsoft-edge-chromium-announcement/</link>
+      <link>https://blog.ivrpowers.com/post/news/microsoft-edge-chromium-announcement/</link>
       <pubDate>Wed, 02 Jan 2019 20:00:00 +0200</pubDate>
       
-      <guid>http://blog.ivrpowers.com/post/news/microsoft-edge-chromium-announcement/</guid>
+      <guid>https://blog.ivrpowers.com/post/news/microsoft-edge-chromium-announcement/</guid>
       <description>Image source: Interactive Powers&amp;rsquo; elaboration Microsoft annonces officialy that Edge will become a Chromium-based browser in early 2019! Microsoft is reworking its Edge browser on Windows 10 so that it will based on the Chromium open source project. Microsoft CVP Joe Belfiore made a big announcement and explained that it was all about creating “better web compatibility for our customers and less fragmentation of the web for all web developers.</description>
     </item>
     
     <item>
       <title>Mozilla Firefox 63&#43; fix for SDP format</title>
-      <link>http://blog.ivrpowers.com/post/news/firefox63-spd-format-fix/</link>
+      <link>https://blog.ivrpowers.com/post/news/firefox63-spd-format-fix/</link>
       <pubDate>Thu, 15 Nov 2018 19:00:00 +0100</pubDate>
       
-      <guid>http://blog.ivrpowers.com/post/news/firefox63-spd-format-fix/</guid>
+      <guid>https://blog.ivrpowers.com/post/news/firefox63-spd-format-fix/</guid>
       <description>Photo Source: Mozilla Foundation Avoiding the Datachannel breaking in Firefox 63+ Nowadays, it is common for web browsers to make updates and changes to their implementations. This is even more common when we talk about modern technologies like WebRTC. A new web browser update that confirms this theory is the last change on Firefox 63 when negotiating the Datachannel.
 If you are negotiating a Datachannel with a Firefox version lower than 63, the Session Description Protocol (SDP) will looks something like this:</description>
     </item>
     
     <item>
       <title>Xenialab and Interactive Powers announce Integration Partnership</title>
-      <link>http://blog.ivrpowers.com/post/news/xenialab-interactive-powers-partnership/</link>
+      <link>https://blog.ivrpowers.com/post/news/xenialab-interactive-powers-partnership/</link>
       <pubDate>Thu, 10 May 2018 00:00:05 +0200</pubDate>
       
-      <guid>http://blog.ivrpowers.com/post/news/xenialab-interactive-powers-partnership/</guid>
+      <guid>https://blog.ivrpowers.com/post/news/xenialab-interactive-powers-partnership/</guid>
       <description>Photo Source: XCally - Interactive Powers Create amazing support and customer real-time interactions! Customer Experience and new channels integration is a key factor for any company inside the digital world. Thank to Open Channel and Interactive Powers you can connect better and improve your interaction processes with customers and prospects. Xenialab and Interactive Powers are pleased to announce the integration between the Xenialab&amp;rsquo;s XCally (Open Channel) system and Video RTC technologies from Interactive Powers.</description>
     </item>
     
     <item>
       <title>Screen Sharing reloaded for Firefox</title>
-      <link>http://blog.ivrpowers.com/post/news/screensharing-firefox/</link>
+      <link>https://blog.ivrpowers.com/post/news/screensharing-firefox/</link>
       <pubDate>Fri, 10 Nov 2017 11:46:54 +0100</pubDate>
       
-      <guid>http://blog.ivrpowers.com/post/news/screensharing-firefox/</guid>
+      <guid>https://blog.ivrpowers.com/post/news/screensharing-firefox/</guid>
       <description>Photo Source: Pixabay. Creative Commons Screen Sharing: now, without installing any plugin for all Firefox Web Browsers! Screen Sharing is a very powerful feature that allows users to share in a screen or a window of any documents or application including images, videos, forms… among other capabilities. However, in order to build screen sharing capabilities, first, it is necessary to build screen capture. Until now, it was only supported in one browser, Chrome, which gives access to screen capture by writing an extension.</description>
     </item>
     
     <item>
       <title>The Cloud API Services Revolution</title>
-      <link>http://blog.ivrpowers.com/post/news/cloud-apis/</link>
+      <link>https://blog.ivrpowers.com/post/news/cloud-apis/</link>
       <pubDate>Mon, 06 Nov 2017 12:19:05 +0200</pubDate>
       
-      <guid>http://blog.ivrpowers.com/post/news/cloud-apis/</guid>
+      <guid>https://blog.ivrpowers.com/post/news/cloud-apis/</guid>
       <description>Photo Source: Pixabay. Creative Commons Recent promotion of Cloud API services by the dominant Internet service providers can lead to a substantial change in the use of legacy systems and technologies. Cloud-based services, which enable high-value-added interactions with voice, natural language, artificial intelligence, etc., will make it possible to leave existing solutions behind.
 More Efficient and Cost-Saving. Google, Amazon, Apple and Microsoft are starting to provide amazing cloud-based services to enterprises, which were just available to developers until now.</description>
     </item>
     
     <item>
       <title>It&#39;s time for companies to use Web and Mobile RTC Applications</title>
-      <link>http://blog.ivrpowers.com/post/news/linkedin-article6/</link>
+      <link>https://blog.ivrpowers.com/post/news/linkedin-article6/</link>
       <pubDate>Wed, 18 Oct 2017 12:58:21 +0200</pubDate>
       
-      <guid>http://blog.ivrpowers.com/post/news/linkedin-article6/</guid>
+      <guid>https://blog.ivrpowers.com/post/news/linkedin-article6/</guid>
       <description>Photo Source: Pixabay. Creative Commons Ivan Sixto Founder, CEO, Business Development
 Follow me on Linkedin
 Telephone bills with voice call minutes have been reduced or even disappeared both at home and in businesses. We communicate at work writing emails, tweets, posts, notifying by Skype, Google Hangout, LinkedIn or Facebook, and get in touch with our friends via Whatsapp or Snapchat, sharing multimedia content in real time. Phone calls are no longer a relevant channel in our personal communications.</description>
@@ -112,10 +112,10 @@ Telephone bills with voice call minutes have been reduced or even disappeared bo
     
     <item>
       <title>3 Things you have to know about WebRTC on Apple Safari 11</title>
-      <link>http://blog.ivrpowers.com/post/technologies/webrtc-3-things-safari11/</link>
+      <link>https://blog.ivrpowers.com/post/technologies/webrtc-3-things-safari11/</link>
       <pubDate>Fri, 13 Oct 2017 13:09:34 +0200</pubDate>
       
-      <guid>http://blog.ivrpowers.com/post/technologies/webrtc-3-things-safari11/</guid>
+      <guid>https://blog.ivrpowers.com/post/technologies/webrtc-3-things-safari11/</guid>
       <description>Image source: Interactive Powers&amp;rsquo; elaboration After years, Apple has officially released a new version of Safari with support for WebRTC!
 These are the three essential things to know:
 Interoperability with other web browsers. Basics work fine. If you run a simple peer-to-peer call between any of the 4 browsers, you’ll get a call going. Voice and video work over the lowest common denominator Opus+H.264 in Safari. Although Opus+VP8 will be also a possibility in the future, it is not right now with the current release.</description>
@@ -123,10 +123,10 @@ Interoperability with other web browsers. Basics work fine. If you run a simple 
     
     <item>
       <title>In Real-Time Communications the Phone won&#39;t be the King anymore</title>
-      <link>http://blog.ivrpowers.com/post/news/linkedin-article5/</link>
+      <link>https://blog.ivrpowers.com/post/news/linkedin-article5/</link>
       <pubDate>Mon, 09 Oct 2017 10:45:02 +0200</pubDate>
       
-      <guid>http://blog.ivrpowers.com/post/news/linkedin-article5/</guid>
+      <guid>https://blog.ivrpowers.com/post/news/linkedin-article5/</guid>
       <description>Photo Source: Pixabay. Creative Commons Ivan Sixto Founder, CEO, Business Development
 Follow me on Linkedin
 Telephone dominated customer attention services of companies over any other channel, since its popularization during the first half of the twentieth century. The invention of the mobile phone did not particularly harm its leadership, as far as at first it was simply mobile phone handsets. Today, the mobile phone is a widespread device that has supplanted the use of fixed terminals.</description>
@@ -134,19 +134,19 @@ Telephone dominated customer attention services of companies over any other chan
     
     <item>
       <title>WebRTC on Safari11 for MacOS and iOS</title>
-      <link>http://blog.ivrpowers.com/post/news/webrtc-safari11/</link>
+      <link>https://blog.ivrpowers.com/post/news/webrtc-safari11/</link>
       <pubDate>Fri, 29 Sep 2017 13:09:34 +0200</pubDate>
       
-      <guid>http://blog.ivrpowers.com/post/news/webrtc-safari11/</guid>
+      <guid>https://blog.ivrpowers.com/post/news/webrtc-safari11/</guid>
       <description>Image source: Interactive Powers&amp;rsquo; elaboration At past WWDC 2017 in San Jose, California, Apple announced that it will include support for WebRTC in Safari 11 and WebKit for all iOS 11 and MacOS Sierra devices. Until now, 80% of all browsers supported WebRTC including Firefox and Chrome. Regarding Safari it grows to 95%. Apple’s announcement gives companies that use WebRTC applications and tools, such as our VideoRTC solutions, a broader range for choice and flexibility over which browser their rich multimedia communications services are delivered.</description>
     </item>
     
     <item>
       <title>Digital Transformation: Doors of Opportunity for Contact Centers</title>
-      <link>http://blog.ivrpowers.com/post/news/linkedin-article4/</link>
+      <link>https://blog.ivrpowers.com/post/news/linkedin-article4/</link>
       <pubDate>Fri, 29 Sep 2017 13:02:33 +0200</pubDate>
       
-      <guid>http://blog.ivrpowers.com/post/news/linkedin-article4/</guid>
+      <guid>https://blog.ivrpowers.com/post/news/linkedin-article4/</guid>
       <description>Photo Source: Interactive Powers Ivan Sixto Founder, CEO, Business Development
 Follow me on Linkedin
 All interactions cannot be managed by bots, since users, when facing with certain problems, need to contact a real agent. If consumer is not allowed to communicate with a person, it leads to frustration and the relation client-company is seriously damaged. At this point, video offers contact centers the possibility of developing a very differential customer experience management.</description>
@@ -154,10 +154,10 @@ All interactions cannot be managed by bots, since users, when facing with certai
     
     <item>
       <title>Video is Transforming Contact Centers</title>
-      <link>http://blog.ivrpowers.com/post/news/linkedin-article3/</link>
+      <link>https://blog.ivrpowers.com/post/news/linkedin-article3/</link>
       <pubDate>Wed, 27 Sep 2017 12:04:26 +0200</pubDate>
       
-      <guid>http://blog.ivrpowers.com/post/news/linkedin-article3/</guid>
+      <guid>https://blog.ivrpowers.com/post/news/linkedin-article3/</guid>
       <description>Photo Source: Shutterstock licensed to Interactive Powers Ivan Sixto Founder, CEO, Business Development
 Follow me on Linkedin
 Companies must understand that the processes of digital transformation driven by society are inevitable. In the last years, the improvement of customer support services accelerates the pace of adaptation to digital processes. The reason is the good results obtained by companies that have already integrated advanced digital tools, based, for instance, on WebRTC technology for real-time communication via the web or mobile applications.</description>
@@ -165,10 +165,10 @@ Companies must understand that the processes of digital transformation driven by
     
     <item>
       <title>Businesses need to Face Digital Challenges</title>
-      <link>http://blog.ivrpowers.com/post/news/linkedin-article2/</link>
+      <link>https://blog.ivrpowers.com/post/news/linkedin-article2/</link>
       <pubDate>Wed, 20 Sep 2017 11:30:18 +0200</pubDate>
       
-      <guid>http://blog.ivrpowers.com/post/news/linkedin-article2/</guid>
+      <guid>https://blog.ivrpowers.com/post/news/linkedin-article2/</guid>
       <description>Photo Source: Shutterstock licensed to Interactive Powers Ivan Sixto Founder, CEO, Business Development
 Follow me on Linkedin
 The spread of new communication behaviour among users is pushing companies to modify their contact channels with customers. At Interactive Powers we observe that adapting to an increasingly digitized market poses new challenges. However, it also opens one door of opportunity for companies to improve and differentiate themselves.
@@ -177,10 +177,10 @@ From our offices in Spain and the United States, we provide solutions that facil
     
     <item>
       <title>Digital Revolution in the Contact Center</title>
-      <link>http://blog.ivrpowers.com/post/news/linkedin-article1/</link>
+      <link>https://blog.ivrpowers.com/post/news/linkedin-article1/</link>
       <pubDate>Mon, 18 Sep 2017 12:00:08 +0200</pubDate>
       
-      <guid>http://blog.ivrpowers.com/post/news/linkedin-article1/</guid>
+      <guid>https://blog.ivrpowers.com/post/news/linkedin-article1/</guid>
       <description>Photo Source: Shutterstock licensed to Interactive Powers Ivan Sixto Founder, CEO, Business Development
 Follow me on Linkedin
 All of us, as consumers, are becoming increasingly familiar with the use of new channels. We must also take into account that the first generation of digital natives is entering into the market. However, phone continues to be the most widely used channel in customer service and voice over IP technology. This situation is specially extended in the Spanish business landscape.</description>

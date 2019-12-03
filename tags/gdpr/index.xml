@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Gdpr on Blog</title>
-    <link>http://blog.ivrpowers.com/tags/gdpr/</link>
+    <link>https://blog.ivrpowers.com/tags/gdpr/</link>
     <description>Recent content in Gdpr on Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 29 Jul 2018 20:00:00 +0200</lastBuildDate>
     
-	<atom:link href="http://blog.ivrpowers.com/tags/gdpr/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://blog.ivrpowers.com/tags/gdpr/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Interactive Powers and GDPR</title>
-      <link>http://blog.ivrpowers.com/post/general/interactive-powers-gdpr/</link>
+      <link>https://blog.ivrpowers.com/post/general/interactive-powers-gdpr/</link>
       <pubDate>Sun, 29 Jul 2018 20:00:00 +0200</pubDate>
       
-      <guid>http://blog.ivrpowers.com/post/general/interactive-powers-gdpr/</guid>
+      <guid>https://blog.ivrpowers.com/post/general/interactive-powers-gdpr/</guid>
       <description>Photo source: Interactive Powers At Interactive Powers we have always taken care of your data with the seriousness it deserves and having the General Data Protection Regulation (GDPR) becoming effective on May 25th 2018, we have revised our internal operations, security, and legal documents to ensure we are compliant with this new set of rules.
 Policy Updates  Terms of Service: were updated to reflect GDPR requirements. Privacy Policy: added data we collect and how we use it.</description>
     </item>

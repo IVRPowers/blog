@@ -2,50 +2,50 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Browser on Blog</title>
-    <link>http://blog.ivrpowers.com/tags/browser/</link>
+    <link>https://blog.ivrpowers.com/tags/browser/</link>
     <description>Recent content in Browser on Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 02 Jan 2019 20:00:00 +0200</lastBuildDate>
     
-	<atom:link href="http://blog.ivrpowers.com/tags/browser/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://blog.ivrpowers.com/tags/browser/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Microsoft Edge moves to Chromium in 2019</title>
-      <link>http://blog.ivrpowers.com/post/news/microsoft-edge-chromium-announcement/</link>
+      <link>https://blog.ivrpowers.com/post/news/microsoft-edge-chromium-announcement/</link>
       <pubDate>Wed, 02 Jan 2019 20:00:00 +0200</pubDate>
       
-      <guid>http://blog.ivrpowers.com/post/news/microsoft-edge-chromium-announcement/</guid>
+      <guid>https://blog.ivrpowers.com/post/news/microsoft-edge-chromium-announcement/</guid>
       <description>Image source: Interactive Powers&amp;rsquo; elaboration Microsoft annonces officialy that Edge will become a Chromium-based browser in early 2019! Microsoft is reworking its Edge browser on Windows 10 so that it will based on the Chromium open source project. Microsoft CVP Joe Belfiore made a big announcement and explained that it was all about creating “better web compatibility for our customers and less fragmentation of the web for all web developers.</description>
     </item>
     
     <item>
       <title>How to detect if your Browser is WebRTC compliant?</title>
-      <link>http://blog.ivrpowers.com/post/coding/browser-webrtc/</link>
+      <link>https://blog.ivrpowers.com/post/coding/browser-webrtc/</link>
       <pubDate>Mon, 18 Dec 2017 10:18:15 +0100</pubDate>
       
-      <guid>http://blog.ivrpowers.com/post/coding/browser-webrtc/</guid>
+      <guid>https://blog.ivrpowers.com/post/coding/browser-webrtc/</guid>
       <description>Photo Source: Interactive Powers, Pexels. Creative Commons WebRTC is currently supported by Mozilla Firefox, Google Chrome and Opera, in both desktop and Android versions. Microsoft Internet Explorer and Edge and Apple Safari still have to add support for WebRTC. Currently, support in these browsers is provided by third-party plug-ins, which are not an ideal solution.
 Here, we provide you with an easy javascript code to check if your browser is supported by WebRTC.</description>
     </item>
     
     <item>
       <title>Video Real-Time Communications Endpoints</title>
-      <link>http://blog.ivrpowers.com/post/general/videortc-endpoints/</link>
+      <link>https://blog.ivrpowers.com/post/general/videortc-endpoints/</link>
       <pubDate>Mon, 20 Nov 2017 18:01:23 +0100</pubDate>
       
-      <guid>http://blog.ivrpowers.com/post/general/videortc-endpoints/</guid>
+      <guid>https://blog.ivrpowers.com/post/general/videortc-endpoints/</guid>
       <description>Photo source: Interactive Powers Real-Time communication technology represents a qualitative leap in any communication process. One of the most outstanding advantages is VideoRTC. But what platforms can we use to benefit from this innovative technology? Web browsers, mobile devices and interactive kiosks are the main endpoints from which to interact in real time.
 Web Browsers. Browsers are still the most important terminals from which to access the Internet when it comes to everyday work.</description>
     </item>
     
     <item>
       <title>3 Things you have to know about WebRTC on Apple Safari 11</title>
-      <link>http://blog.ivrpowers.com/post/technologies/webrtc-3-things-safari11/</link>
+      <link>https://blog.ivrpowers.com/post/technologies/webrtc-3-things-safari11/</link>
       <pubDate>Fri, 13 Oct 2017 13:09:34 +0200</pubDate>
       
-      <guid>http://blog.ivrpowers.com/post/technologies/webrtc-3-things-safari11/</guid>
+      <guid>https://blog.ivrpowers.com/post/technologies/webrtc-3-things-safari11/</guid>
       <description>Image source: Interactive Powers&amp;rsquo; elaboration After years, Apple has officially released a new version of Safari with support for WebRTC!
 These are the three essential things to know:
 Interoperability with other web browsers. Basics work fine. If you run a simple peer-to-peer call between any of the 4 browsers, you’ll get a call going. Voice and video work over the lowest common denominator Opus+H.264 in Safari. Although Opus+VP8 will be also a possibility in the future, it is not right now with the current release.</description>
@@ -53,10 +53,10 @@ Interoperability with other web browsers. Basics work fine. If you run a simple 
     
     <item>
       <title>WebRTC on Safari11 for MacOS and iOS</title>
-      <link>http://blog.ivrpowers.com/post/news/webrtc-safari11/</link>
+      <link>https://blog.ivrpowers.com/post/news/webrtc-safari11/</link>
       <pubDate>Fri, 29 Sep 2017 13:09:34 +0200</pubDate>
       
-      <guid>http://blog.ivrpowers.com/post/news/webrtc-safari11/</guid>
+      <guid>https://blog.ivrpowers.com/post/news/webrtc-safari11/</guid>
       <description>Image source: Interactive Powers&amp;rsquo; elaboration At past WWDC 2017 in San Jose, California, Apple announced that it will include support for WebRTC in Safari 11 and WebKit for all iOS 11 and MacOS Sierra devices. Until now, 80% of all browsers supported WebRTC including Firefox and Chrome. Regarding Safari it grows to 95%. Apple’s announcement gives companies that use WebRTC applications and tools, such as our VideoRTC solutions, a broader range for choice and flexibility over which browser their rich multimedia communications services are delivered.</description>
     </item>
     

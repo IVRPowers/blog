@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>News on Blog</title>
-    <link>http://blog.ivrpowers.com/tags/news/</link>
+    <link>https://blog.ivrpowers.com/tags/news/</link>
     <description>Recent content in News on Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 10 May 2018 00:00:05 +0200</lastBuildDate>
     
-	<atom:link href="http://blog.ivrpowers.com/tags/news/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://blog.ivrpowers.com/tags/news/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Xenialab and Interactive Powers announce Integration Partnership</title>
-      <link>http://blog.ivrpowers.com/post/news/xenialab-interactive-powers-partnership/</link>
+      <link>https://blog.ivrpowers.com/post/news/xenialab-interactive-powers-partnership/</link>
       <pubDate>Thu, 10 May 2018 00:00:05 +0200</pubDate>
       
-      <guid>http://blog.ivrpowers.com/post/news/xenialab-interactive-powers-partnership/</guid>
+      <guid>https://blog.ivrpowers.com/post/news/xenialab-interactive-powers-partnership/</guid>
       <description>Photo Source: XCally - Interactive Powers Create amazing support and customer real-time interactions! Customer Experience and new channels integration is a key factor for any company inside the digital world. Thank to Open Channel and Interactive Powers you can connect better and improve your interaction processes with customers and prospects. Xenialab and Interactive Powers are pleased to announce the integration between the Xenialab&amp;rsquo;s XCally (Open Channel) system and Video RTC technologies from Interactive Powers.</description>
     </item>
     

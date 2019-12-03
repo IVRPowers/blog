@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Aws on Blog</title>
-    <link>http://blog.ivrpowers.com/tags/aws/</link>
+    <link>https://blog.ivrpowers.com/tags/aws/</link>
     <description>Recent content in Aws on Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 03 Sep 2019 12:00:00 +0100</lastBuildDate>
     
-	<atom:link href="http://blog.ivrpowers.com/tags/aws/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://blog.ivrpowers.com/tags/aws/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Amazon Polly TTS connector</title>
-      <link>http://blog.ivrpowers.com/post/technologies/amazon-tts-connector/</link>
+      <link>https://blog.ivrpowers.com/post/technologies/amazon-tts-connector/</link>
       <pubDate>Tue, 03 Sep 2019 12:00:00 +0100</pubDate>
       
-      <guid>http://blog.ivrpowers.com/post/technologies/amazon-tts-connector/</guid>
+      <guid>https://blog.ivrpowers.com/post/technologies/amazon-tts-connector/</guid>
       <description>Image source: Interactive Powers Interactive Powers introduces 27 Languages &amp;amp; 60+ additional Text-to-Speech voices with Amazon Polly Integration About Amazon&amp;hellip; Amazon Polly is a Text-to-Speech (TTS) service that uses advanced deep learning technologies to synthesize speech that sounds like a human voice. It&amp;rsquo;s part of the voice of Alexa and can do much more for your business too.
  Amazon has arround 60 voices across 30 languages and variants.</description>
     </item>

@@ -2,60 +2,60 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Api on Blog</title>
-    <link>http://blog.ivrpowers.com/tags/api/</link>
+    <link>https://blog.ivrpowers.com/tags/api/</link>
     <description>Recent content in Api on Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 08 Sep 2019 12:00:00 +0100</lastBuildDate>
     
-	<atom:link href="http://blog.ivrpowers.com/tags/api/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://blog.ivrpowers.com/tags/api/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>TTS-API connectors updated!</title>
-      <link>http://blog.ivrpowers.com/post/technologies/tts-api-connectors-updated/</link>
+      <link>https://blog.ivrpowers.com/post/technologies/tts-api-connectors-updated/</link>
       <pubDate>Sun, 08 Sep 2019 12:00:00 +0100</pubDate>
       
-      <guid>http://blog.ivrpowers.com/post/technologies/tts-api-connectors-updated/</guid>
+      <guid>https://blog.ivrpowers.com/post/technologies/tts-api-connectors-updated/</guid>
       <description>Image source: Interactive Powers Interactive Powers introduces 45+ Languages &amp;amp; 300+ additional Text-to-Speech voices with Amazon, Google and Microsoft Cloud TTS-API Integration. Natural Language over the Phone&amp;hellip; All of you know about cognitive services is growing these days, and that&amp;rsquo;s why today we&amp;rsquo;re going to talk about our new TTS-API for &amp;ldquo;Text to speech&amp;rdquo;. This connector converts text into a dynamic natural voice in just a few milliseconds. There are a lot of Cloud Speech API, but we will focus on the Cloud Services main giants: Google Cloud, Microsoft Azure and Amazon Web Services.</description>
     </item>
     
     <item>
       <title>Amazon Polly TTS connector</title>
-      <link>http://blog.ivrpowers.com/post/technologies/amazon-tts-connector/</link>
+      <link>https://blog.ivrpowers.com/post/technologies/amazon-tts-connector/</link>
       <pubDate>Tue, 03 Sep 2019 12:00:00 +0100</pubDate>
       
-      <guid>http://blog.ivrpowers.com/post/technologies/amazon-tts-connector/</guid>
+      <guid>https://blog.ivrpowers.com/post/technologies/amazon-tts-connector/</guid>
       <description>Image source: Interactive Powers Interactive Powers introduces 27 Languages &amp;amp; 60+ additional Text-to-Speech voices with Amazon Polly Integration About Amazon&amp;hellip; Amazon Polly is a Text-to-Speech (TTS) service that uses advanced deep learning technologies to synthesize speech that sounds like a human voice. It&amp;rsquo;s part of the voice of Alexa and can do much more for your business too.
  Amazon has arround 60 voices across 30 languages and variants.</description>
     </item>
     
     <item>
       <title>Google TTS connector</title>
-      <link>http://blog.ivrpowers.com/post/technologies/google-tts-connector/</link>
+      <link>https://blog.ivrpowers.com/post/technologies/google-tts-connector/</link>
       <pubDate>Tue, 03 Sep 2019 12:00:00 +0100</pubDate>
       
-      <guid>http://blog.ivrpowers.com/post/technologies/google-tts-connector/</guid>
+      <guid>https://blog.ivrpowers.com/post/technologies/google-tts-connector/</guid>
       <description>Image source: Interactive Powers Interactive Powers introduces 30+ Languages &amp;amp; 180+ additional Text-to-Speech voices with Google TTS Integration About Google&amp;hellip; Google Cloud is one of the major Enterprise Cloud Services in the world, so its API does not fall short. There are a lot of features that are worth of mention, but we don’t have that time so, here are some of main features we consider:
  Google has over 180 voices across 30+ languages and variants.</description>
     </item>
     
     <item>
       <title>Microsoft TTS connector</title>
-      <link>http://blog.ivrpowers.com/post/technologies/microsoft-tts-connector/</link>
+      <link>https://blog.ivrpowers.com/post/technologies/microsoft-tts-connector/</link>
       <pubDate>Tue, 03 Sep 2019 12:00:00 +0100</pubDate>
       
-      <guid>http://blog.ivrpowers.com/post/technologies/microsoft-tts-connector/</guid>
+      <guid>https://blog.ivrpowers.com/post/technologies/microsoft-tts-connector/</guid>
       <description>Image source: Interactive Powers Interactive Powers introduces 45 Languages &amp;amp; 75+ additional Text-to-Speech voices with Microsoft Azure TTS Integration About Microsoft&amp;hellip; Microsoft Azure like Google Cloud provides his own Text To Speech API. It is quite big and here are some of its main features with more than 75 voices over 45 languages.
  Parameters for speed, pitch, volume, pronunciation, and additional pauses Custom voice models for developers and enterprises Neural Voices technology  To get more information, you can read Microsoft TTS documentation.</description>
     </item>
     
     <item>
       <title>Join us at VoIP2Day to talk about Communications Platform as a Service</title>
-      <link>http://blog.ivrpowers.com/post/general/conference-voip2day2018/</link>
+      <link>https://blog.ivrpowers.com/post/general/conference-voip2day2018/</link>
       <pubDate>Wed, 07 Nov 2018 20:00:00 +0100</pubDate>
       
-      <guid>http://blog.ivrpowers.com/post/general/conference-voip2day2018/</guid>
+      <guid>https://blog.ivrpowers.com/post/general/conference-voip2day2018/</guid>
       <description>Photo source: Interactive Powers &amp;amp; VoIP2DAY Iván Sixto, founder of Interactive Powers will be pleased to speak about Communications Platform as a Service at next VoIP2DAY2018 11th Freak Conferences edition:
 Ivan Sixto Founder, CEO, Business Development
 Follow him on Linkedin
@@ -64,39 +64,39 @@ Follow him on Linkedin
     
     <item>
       <title>How to configure and customise your Webclient</title>
-      <link>http://blog.ivrpowers.com/post/coding/videortc-webclient-configuration/</link>
+      <link>https://blog.ivrpowers.com/post/coding/videortc-webclient-configuration/</link>
       <pubDate>Thu, 05 Jul 2018 09:00:00 +0200</pubDate>
       
-      <guid>http://blog.ivrpowers.com/post/coding/videortc-webclient-configuration/</guid>
+      <guid>https://blog.ivrpowers.com/post/coding/videortc-webclient-configuration/</guid>
       <description>Photo source: Interactive Powers, Pexels Creative Commons Webclient (WebRTC) provides a user-friendly webphone that allows all your customers and users to make phone calls directly from a website to your business IVR or PBX from any desktop native WebRTC compliant web browser (Firefox, Chrome, Opera,…). In this post we will show you how to customize the Webclient using the different configuration options at flavour/theme level.
 The design of our webclient is composed by a logo and a main default color.</description>
     </item>
     
     <item>
       <title>Thank you, VoIP2Day 2017!</title>
-      <link>http://blog.ivrpowers.com/post/general/thank-voip2day/</link>
+      <link>https://blog.ivrpowers.com/post/general/thank-voip2day/</link>
       <pubDate>Fri, 17 Nov 2017 12:12:48 +0100</pubDate>
       
-      <guid>http://blog.ivrpowers.com/post/general/thank-voip2day/</guid>
+      <guid>https://blog.ivrpowers.com/post/general/thank-voip2day/</guid>
       <description>Image source: Interactive Powers Interactive Powers attended VoIP2Day 2017, 10th Anniversary Conferences, on November 16th, at Wanda Metropolitano. Iván Sixto, founder of Interactive Powers, talked about Cloud API’s novelties for Voice over IP in the presentation entitled “The Cloud API revolution is coming.”
 We are delighted with the success of the event and the warm welcome of our participation. Interest of the public in voice integration APIs exceeded all our expectations.</description>
     </item>
     
     <item>
       <title>The Rise of Public Cloud API Services</title>
-      <link>http://blog.ivrpowers.com/post/trends/cloud-api-trend/</link>
+      <link>https://blog.ivrpowers.com/post/trends/cloud-api-trend/</link>
       <pubDate>Fri, 10 Nov 2017 20:30:18 +0200</pubDate>
       
-      <guid>http://blog.ivrpowers.com/post/trends/cloud-api-trend/</guid>
+      <guid>https://blog.ivrpowers.com/post/trends/cloud-api-trend/</guid>
       <description>Photo Source: Interactive Powers The public cloud computing market is raising earnings for Internet&amp;rsquo;s giants Google, Amazon, Microsoft&amp;hellip; One of the major trend that is working behind the scenes and driving many of the most successful businesses these past few years is: Cloud Application Programming Interfaces (API). APIs are a technology that allow firms to interact and share information with other firms at an unprecedented scale, taking advantage of the far-reaching progress in digitization and the rising influence of software in our day-to-day lives.</description>
     </item>
     
     <item>
       <title>The Cloud API Revolution is Coming to VoIP</title>
-      <link>http://blog.ivrpowers.com/post/general/conference-voip2day2017/</link>
+      <link>https://blog.ivrpowers.com/post/general/conference-voip2day2017/</link>
       <pubDate>Fri, 10 Nov 2017 12:14:39 +0100</pubDate>
       
-      <guid>http://blog.ivrpowers.com/post/general/conference-voip2day2017/</guid>
+      <guid>https://blog.ivrpowers.com/post/general/conference-voip2day2017/</guid>
       <description>Photo source: Interactive Powers &amp;amp; VoIP2DAY Iván Sixto, founder of Interactive Powers will be pleased to speak about Cloud API’s novelties for Voice over IP at next VoIP2DAY2017 10th Anniversary Conferences:
 Ivan Sixto Founder, CEO, Business Development
 Follow him on Linkedin
@@ -105,10 +105,10 @@ Follow him on Linkedin
     
     <item>
       <title>Businesses need to Face Digital Challenges</title>
-      <link>http://blog.ivrpowers.com/post/news/linkedin-article2/</link>
+      <link>https://blog.ivrpowers.com/post/news/linkedin-article2/</link>
       <pubDate>Wed, 20 Sep 2017 11:30:18 +0200</pubDate>
       
-      <guid>http://blog.ivrpowers.com/post/news/linkedin-article2/</guid>
+      <guid>https://blog.ivrpowers.com/post/news/linkedin-article2/</guid>
       <description>Photo Source: Shutterstock licensed to Interactive Powers Ivan Sixto Founder, CEO, Business Development
 Follow me on Linkedin
 The spread of new communication behaviour among users is pushing companies to modify their contact channels with customers. At Interactive Powers we observe that adapting to an increasingly digitized market poses new challenges. However, it also opens one door of opportunity for companies to improve and differentiate themselves.
@@ -117,40 +117,40 @@ From our offices in Spain and the United States, we provide solutions that facil
     
     <item>
       <title>Video RTC · Pop-up Agent</title>
-      <link>http://blog.ivrpowers.com/post/products/video-rtc-pop-up-agent/</link>
+      <link>https://blog.ivrpowers.com/post/products/video-rtc-pop-up-agent/</link>
       <pubDate>Tue, 05 Sep 2017 10:00:00 +0200</pubDate>
       
-      <guid>http://blog.ivrpowers.com/post/products/video-rtc-pop-up-agent/</guid>
+      <guid>https://blog.ivrpowers.com/post/products/video-rtc-pop-up-agent/</guid>
       <description>Extend Existing Call Centers with advanced Video RTC Capabilities. Overview Pop-up Agent is a specific peer component designed to add Video RTC services to an existing Call Center. It can operate over full WebRTC options or RTMP with limited functions. Pop-up Agent works with standard web browser or with an MS Windows executable application.
 Pop-up Agent functionality is easily configurable with a set of buttons and toolkit. Main options are Live Chat, File Sharing, Screen Sharing, Video Recording, Snapshot.</description>
     </item>
     
     <item>
       <title>Video RTC · API Framework</title>
-      <link>http://blog.ivrpowers.com/post/products/video-rtc-api-framework/</link>
+      <link>https://blog.ivrpowers.com/post/products/video-rtc-api-framework/</link>
       <pubDate>Mon, 04 Sep 2017 22:00:00 +0200</pubDate>
       
-      <guid>http://blog.ivrpowers.com/post/products/video-rtc-api-framework/</guid>
+      <guid>https://blog.ivrpowers.com/post/products/video-rtc-api-framework/</guid>
       <description>Provide Core Functions to easily develop any Video RTC application for Web and Mobile. Overview API Framework feature helps to make your job easier, adapting services to your needs and personalizing them. Our platform provides developers with a wide range of possible solutions, through a flexible and powerful toolkit for building Web APIs.
 API Framework feature enables developers to design new APIs or edit existing ones. You can also customize all the way down, just using basic regular features.</description>
     </item>
     
     <item>
       <title>Video RTC · Video ID</title>
-      <link>http://blog.ivrpowers.com/post/products/video-rtc-video-id/</link>
+      <link>https://blog.ivrpowers.com/post/products/video-rtc-video-id/</link>
       <pubDate>Fri, 01 Sep 2017 09:52:47 +0200</pubDate>
       
-      <guid>http://blog.ivrpowers.com/post/products/video-rtc-video-id/</guid>
+      <guid>https://blog.ivrpowers.com/post/products/video-rtc-video-id/</guid>
       <description>Protect your Real-Time Communications with Secure Identification API integrations. Overview Video ID feature helps you to improve security in your real-time communication services. Our solutions include partner options for ID Verification through an external provider certified API. This capability enables to comply with identity verification processes required, for instance, by banks, insurances, e-commerces or telemedicine.
 Video ID functionality captures and validates users’ information, whilst conducting a real-time check. Video ID capability is a set of API, which can optionally include Facial Recognition.</description>
     </item>
     
     <item>
       <title>Introducing VideoRTC.js for Developers</title>
-      <link>http://blog.ivrpowers.com/post/development/introducing-videortcjs-developers/</link>
+      <link>https://blog.ivrpowers.com/post/development/introducing-videortcjs-developers/</link>
       <pubDate>Wed, 28 Jun 2017 00:30:56 +0200</pubDate>
       
-      <guid>http://blog.ivrpowers.com/post/development/introducing-videortcjs-developers/</guid>
+      <guid>https://blog.ivrpowers.com/post/development/introducing-videortcjs-developers/</guid>
       <description>Photo source: Interactive Powers elaboration Since 2015, Interactive Powers has been diligently refining its Video RTC solutions, API Framework and SDKs to make embedded video much more accessible for developers and enterprises who are looking to rapidly integrate reliable video chat into their own applications.
 VideoRTC.js library Today, we’re thrilled to officially announce a new VideoRTC.js library – the launch of our self-service API Framework developer tools, which lets developers quickly and easily embed this same enterprise-grade, cloud-hosted, multiparty RTC video collaboration into any web, mobile or native application on virtually any device.</description>
     </item>

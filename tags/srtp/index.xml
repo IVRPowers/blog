@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Srtp on Blog</title>
-    <link>http://blog.ivrpowers.com/tags/srtp/</link>
+    <link>https://blog.ivrpowers.com/tags/srtp/</link>
     <description>Recent content in Srtp on Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 26 Sep 2017 12:06:30 +0200</lastBuildDate>
     
-	<atom:link href="http://blog.ivrpowers.com/tags/srtp/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://blog.ivrpowers.com/tags/srtp/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Real-Time Communications: The Security Factor</title>
-      <link>http://blog.ivrpowers.com/post/trends/security-factor/</link>
+      <link>https://blog.ivrpowers.com/post/trends/security-factor/</link>
       <pubDate>Tue, 26 Sep 2017 12:06:30 +0200</pubDate>
       
-      <guid>http://blog.ivrpowers.com/post/trends/security-factor/</guid>
+      <guid>https://blog.ivrpowers.com/post/trends/security-factor/</guid>
       <description>Photo Source: Pixabay, Creative Commons Communications Security is more important ever than ever to handle properly any business. Security tops the list on concerns about RTC. Considering the risks of new exposed system vulnerabilities and the increasing scope and scale of breaches, security is more important than ever. In fact, uncertainty about which device provides privacy and security has become a hindrance to purchasing an IoT device. But despite the increasing concerns among consumers, researches show that security is still one of the major challenges that companies need to deal with.</description>
     </item>
     
     <item>
       <title>WebRTC built-in Security Features</title>
-      <link>http://blog.ivrpowers.com/post/technologies/webrtc-security/</link>
+      <link>https://blog.ivrpowers.com/post/technologies/webrtc-security/</link>
       <pubDate>Tue, 01 Aug 2017 10:04:37 +0200</pubDate>
       
-      <guid>http://blog.ivrpowers.com/post/technologies/webrtc-security/</guid>
+      <guid>https://blog.ivrpowers.com/post/technologies/webrtc-security/</guid>
       <description>Photo source: Pexels. Creative Commons In essence, any software in the Internet is an inherent risk that your PC may become infected by a virus, malware, spyware or various other ‘bugs’ that threaten the security of your data. As such, the principal solution to combat viruses is to install firewalls and anti-malware software that work to defend your computer against any potential threats.
 With WebRTC however, there’s no need to worry about any of that.</description>
     </item>

@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Changelog on Blog</title>
-    <link>http://blog.ivrpowers.com/tags/changelog/</link>
+    <link>https://blog.ivrpowers.com/tags/changelog/</link>
     <description>Recent content in Changelog on Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 01 Dec 2019 12:00:00 +0200</lastBuildDate>
     
-	<atom:link href="http://blog.ivrpowers.com/tags/changelog/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://blog.ivrpowers.com/tags/changelog/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>VideoRTC.js (API) v3.2.0</title>
-      <link>http://blog.ivrpowers.com/post/updates/update-video-rtc-js-3.2.0/</link>
+      <link>https://blog.ivrpowers.com/post/updates/update-video-rtc-js-3.2.0/</link>
       <pubDate>Sun, 01 Dec 2019 12:00:00 +0200</pubDate>
       
-      <guid>http://blog.ivrpowers.com/post/updates/update-video-rtc-js-3.2.0/</guid>
+      <guid>https://blog.ivrpowers.com/post/updates/update-video-rtc-js-3.2.0/</guid>
       <description>Release Note We are pleased to announce that our API Framework for Javascript VideoRTC.js v3.2.0 has been released for suitable for Web Developments and Mobile SDK . All users with previous maintained versions can upgrade today. Please contact our support!
 ChangeLog Version 3.2.0:
 ## [3.2.0] - 2019-11-28 ### Added - Added new events on the Videocall and SPLIT modules to detect slow links with the remote video  Interactive Powers - Streamline your business communications</description>
@@ -24,10 +24,10 @@ ChangeLog Version 3.2.0:
     
     <item>
       <title>Video RTC (WebRTC) v4.1.0</title>
-      <link>http://blog.ivrpowers.com/post/updates/update-video-rtc-webrtc-4.1.0/</link>
+      <link>https://blog.ivrpowers.com/post/updates/update-video-rtc-webrtc-4.1.0/</link>
       <pubDate>Mon, 21 Oct 2019 12:00:00 +0200</pubDate>
       
-      <guid>http://blog.ivrpowers.com/post/updates/update-video-rtc-webrtc-4.1.0/</guid>
+      <guid>https://blog.ivrpowers.com/post/updates/update-video-rtc-webrtc-4.1.0/</guid>
       <description>Release Note We are pleased to announce that our new Video RTC (Gateway WebRTC) v4.1.0 has been released for suitable production services. This new version includes a hot fix for Firefox Web Browsers. All users with previous maintained versions can upgrade today. Please contact our support!
 ChangeLog Version 4.1.0:
 ## [4.1.0] - 2019-10-21 ### Added - Added support for Safari &amp;gt;= 12.1 - Added possibility to choose the default quality of the Webclient through theme configuration - Added autocall, autoclose and hangup button in the Escalating - Added a new config param in the Webclient and Escalating usecases to redirect when a call ends (e.</description>
@@ -35,10 +35,10 @@ ChangeLog Version 4.1.0:
     
     <item>
       <title>VideoRTC.js (API) v3.1.0</title>
-      <link>http://blog.ivrpowers.com/post/updates/update-video-rtc-js-3.1.0/</link>
+      <link>https://blog.ivrpowers.com/post/updates/update-video-rtc-js-3.1.0/</link>
       <pubDate>Mon, 21 Oct 2019 12:00:00 +0200</pubDate>
       
-      <guid>http://blog.ivrpowers.com/post/updates/update-video-rtc-js-3.1.0/</guid>
+      <guid>https://blog.ivrpowers.com/post/updates/update-video-rtc-js-3.1.0/</guid>
       <description>Release Note We are pleased to announce that our API Framework for Javascript VideoRTC.js v3.1.0 has been released for suitable for Web Developments and Mobile SDK . All users with previous maintained versions can upgrade today. Please contact our support!
 ChangeLog Version 3.1.0:
 ## [3.1.0] - 2019-10-21 ### Added - Added device field in the Opaque ID object - Added support for Safari &amp;gt;= 12.1 ### Changed - Aligned to the new VideoGateway `v4.</description>
@@ -46,10 +46,10 @@ ChangeLog Version 3.1.0:
     
     <item>
       <title>Video RTC (WebRTC) v4.0.0</title>
-      <link>http://blog.ivrpowers.com/post/updates/update-video-rtc-webrtc-4.0.0/</link>
+      <link>https://blog.ivrpowers.com/post/updates/update-video-rtc-webrtc-4.0.0/</link>
       <pubDate>Tue, 12 Mar 2019 12:00:00 +0200</pubDate>
       
-      <guid>http://blog.ivrpowers.com/post/updates/update-video-rtc-webrtc-4.0.0/</guid>
+      <guid>https://blog.ivrpowers.com/post/updates/update-video-rtc-webrtc-4.0.0/</guid>
       <description>Release Note We are pleased to announce that our new Video RTC (Gateway WebRTC) v4.0.0 has been released for suitable production services. This new version includes a hot fix for Firefox Web Browsers. All users with previous maintained versions can upgrade today. Please contact our support!
 ChangeLog Version 4.0.0:
 ## [4.0.0] - 2019-03-12 ### Added - Added Escalating usecase - Added Tester usecase - Added Remote Viewer usecase ### Changed - Web developments have been created with a modern tech stack using Webpack, Vue and Bulma.</description>
@@ -57,10 +57,10 @@ ChangeLog Version 4.0.0:
     
     <item>
       <title>VideoRTC.js (API) v3.0.0</title>
-      <link>http://blog.ivrpowers.com/post/updates/update-video-rtc-js-3.0.0/</link>
+      <link>https://blog.ivrpowers.com/post/updates/update-video-rtc-js-3.0.0/</link>
       <pubDate>Tue, 12 Mar 2019 12:00:00 +0200</pubDate>
       
-      <guid>http://blog.ivrpowers.com/post/updates/update-video-rtc-js-3.0.0/</guid>
+      <guid>https://blog.ivrpowers.com/post/updates/update-video-rtc-js-3.0.0/</guid>
       <description>Release Note We are pleased to announce that our API Framework for Javascript VideoRTC.js v3.0.0 has been released for suitable for Web Developments and Mobile SDK . All users with previous maintained versions can upgrade today. Please contact our support!
 ChangeLog Version 3.0.0:
 ## [2.1.0] - 2018-01-16 ### Added - Added `videoStream` and `videoEnabled` option parameters in the SplitAgent module - Added `onReadyLocalAudio`, `onAcceptedData` and `onScreensharingClosed` events in the SplitClient module - Added `onAcceptedData` and `onReadyLocalStream` events in the SplitAgent module - Added a mechanism that guarantees the sending of files through the Datachannel - Added `onFileTransferOk` and `onFileTransferKo` events in the modules that use the Datachannel - Added `startScreensharing` and `stopScreensharing` actions in the SplitClient module - Added `notify` method in the following modules: SplitClient and SplitAgent - Added Safari iOS 11 support in the SplitClient module (Audio mode) ### Changed - Updated recording mode in the SPLIT modules ### Fixed - Fixed the use of the debug parameter at library level ## [2.</description>
@@ -68,10 +68,10 @@ ChangeLog Version 3.0.0:
     
     <item>
       <title>VoiceXML IVR v2.0</title>
-      <link>http://blog.ivrpowers.com/post/updates/update-voicexml-ivr-2.0.0/</link>
+      <link>https://blog.ivrpowers.com/post/updates/update-voicexml-ivr-2.0.0/</link>
       <pubDate>Mon, 18 Feb 2019 00:20:05 +0200</pubDate>
       
-      <guid>http://blog.ivrpowers.com/post/updates/update-voicexml-ivr-2.0.0/</guid>
+      <guid>https://blog.ivrpowers.com/post/updates/update-voicexml-ivr-2.0.0/</guid>
       <description>Release Note We are pleased to announce that our new VoiceXML IVR 2.0 has been released for suitable production services. This new version includes a lot of improvements and new features. All users with previous maintained versions can upgrade today. Please contact our support!
 ChangeLog Version 2.0:
 ## [2.0] - 2019-02-29 ### New - First release of VoiceXML IVR 2.0 - New PBX-SIP Connect - New TTS-HTTP/MRCP - New ASR-HTTP/MRCP  Interactive Powers - Streamline your business communications</description>
@@ -79,10 +79,10 @@ ChangeLog Version 2.0:
     
     <item>
       <title>VideoRTC.js (API) v2.5.1</title>
-      <link>http://blog.ivrpowers.com/post/updates/update-video-rtc-js-2.5.1/</link>
+      <link>https://blog.ivrpowers.com/post/updates/update-video-rtc-js-2.5.1/</link>
       <pubDate>Fri, 01 Feb 2019 12:00:00 +0200</pubDate>
       
-      <guid>http://blog.ivrpowers.com/post/updates/update-video-rtc-js-2.5.1/</guid>
+      <guid>https://blog.ivrpowers.com/post/updates/update-video-rtc-js-2.5.1/</guid>
       <description>Release Note We are pleased to announce that our API Framework for Javascript VideoRTC.js v2.5.1 has been released for suitable for Web Developments and Mobile SDK . All users with previous maintained versions can upgrade today. Please contact our support!
 ChangeLog Version 2.1.0 · 2.5.1:
 ## [2.1.0] - 2018-01-16 ### Added - Added `videoStream` and `videoEnabled` option parameters in the SplitAgent module - Added `onReadyLocalAudio`, `onAcceptedData` and `onScreensharingClosed` events in the SplitClient module - Added `onAcceptedData` and `onReadyLocalStream` events in the SplitAgent module - Added a mechanism that guarantees the sending of files through the Datachannel - Added `onFileTransferOk` and `onFileTransferKo` events in the modules that use the Datachannel - Added `startScreensharing` and `stopScreensharing` actions in the SplitClient module - Added `notify` method in the following modules: SplitClient and SplitAgent - Added Safari iOS 11 support in the SplitClient module (Audio mode) ### Changed - Updated recording mode in the SPLIT modules ### Fixed - Fixed the use of the debug parameter at library level ## [2.</description>
@@ -90,10 +90,10 @@ ChangeLog Version 2.1.0 · 2.5.1:
     
     <item>
       <title>Video RTC (WebRTC) v3.3.1</title>
-      <link>http://blog.ivrpowers.com/post/updates/update-video-rtc-webrtc-3.3.1/</link>
+      <link>https://blog.ivrpowers.com/post/updates/update-video-rtc-webrtc-3.3.1/</link>
       <pubDate>Tue, 13 Nov 2018 12:00:00 +0200</pubDate>
       
-      <guid>http://blog.ivrpowers.com/post/updates/update-video-rtc-webrtc-3.3.1/</guid>
+      <guid>https://blog.ivrpowers.com/post/updates/update-video-rtc-webrtc-3.3.1/</guid>
       <description>Release Note We are pleased to announce that our new Video RTC (Gateway WebRTC) v3.3.1 has been released for suitable production services. This new version includes a hot fix for Firefox Web Browsers. All users with previous maintained versions can upgrade today. Please contact our support!
 ChangeLog Version 3.3.1:
 ## [3.3.1] - 2018-11-13 ### Added - If the Videoplayer only finds one record, it&#39;s preselected ### Fixed - Resized calling message for mobile devices - Fixed SDP negotiations from Firefox 63+  Interactive Powers - Streamline your business communications</description>
@@ -101,10 +101,10 @@ ChangeLog Version 3.3.1:
     
     <item>
       <title>Video RTC (WebRTC) v3.3</title>
-      <link>http://blog.ivrpowers.com/post/updates/update-video-rtc-webrtc-3.3.0/</link>
+      <link>https://blog.ivrpowers.com/post/updates/update-video-rtc-webrtc-3.3.0/</link>
       <pubDate>Sat, 15 Sep 2018 12:00:00 +0200</pubDate>
       
-      <guid>http://blog.ivrpowers.com/post/updates/update-video-rtc-webrtc-3.3.0/</guid>
+      <guid>https://blog.ivrpowers.com/post/updates/update-video-rtc-webrtc-3.3.0/</guid>
       <description>Release Note We are pleased to announce that our new Video RTC (Gateway WebRTC) v3.3.0 has been released for suitable production services. This new version includes a lot of improvements and new features. All users with previous maintained versions can upgrade today. Please contact our support!
 ChangeLog Version 3.3.0:
 ## [3.3.0] - 2018-09-14 ### Added - Added Log rotation utility ### Changed - Updated VideoRTC.js library (v2.5.0) - Updated Videocall usecase (UX improvement) - Updated the webrtc-gateway internal core  Interactive Powers - Streamline your business communications</description>
@@ -112,10 +112,10 @@ ChangeLog Version 3.3.0:
     
     <item>
       <title>VideoRTC.js (API) v2.5.0</title>
-      <link>http://blog.ivrpowers.com/post/updates/update-video-rtc-js-2.5.0/</link>
+      <link>https://blog.ivrpowers.com/post/updates/update-video-rtc-js-2.5.0/</link>
       <pubDate>Fri, 14 Sep 2018 12:00:00 +0200</pubDate>
       
-      <guid>http://blog.ivrpowers.com/post/updates/update-video-rtc-js-2.5.0/</guid>
+      <guid>https://blog.ivrpowers.com/post/updates/update-video-rtc-js-2.5.0/</guid>
       <description>Release Note We are pleased to announce that our API Framework for Javascript VideoRTC.js v2.5.0 has been released for suitable for Web Developments and Mobile SDK . All users with previous maintained versions can upgrade today. Please contact our support!
 ChangeLog Version 2.1.0 · 2.5.0:
 ## [2.1.0] - 2018-01-16 ### Added - Added `videoStream` and `videoEnabled` option parameters in the SplitAgent module - Added `onReadyLocalAudio`, `onAcceptedData` and `onScreensharingClosed` events in the SplitClient module - Added `onAcceptedData` and `onReadyLocalStream` events in the SplitAgent module - Added a mechanism that guarantees the sending of files through the Datachannel - Added `onFileTransferOk` and `onFileTransferKo` events in the modules that use the Datachannel - Added `startScreensharing` and `stopScreensharing` actions in the SplitClient module - Added `notify` method in the following modules: SplitClient and SplitAgent - Added Safari iOS 11 support in the SplitClient module (Audio mode) ### Changed - Updated recording mode in the SPLIT modules ### Fixed - Fixed the use of the debug parameter at library level ## [2.</description>
@@ -123,10 +123,10 @@ ChangeLog Version 2.1.0 · 2.5.0:
     
     <item>
       <title>VideoRTC.js (API) v2.4.0</title>
-      <link>http://blog.ivrpowers.com/post/updates/update-video-rtc-js-2.4.0/</link>
+      <link>https://blog.ivrpowers.com/post/updates/update-video-rtc-js-2.4.0/</link>
       <pubDate>Fri, 03 Aug 2018 12:00:00 +0200</pubDate>
       
-      <guid>http://blog.ivrpowers.com/post/updates/update-video-rtc-js-2.4.0/</guid>
+      <guid>https://blog.ivrpowers.com/post/updates/update-video-rtc-js-2.4.0/</guid>
       <description>Release Note We are pleased to announce that our API Framework for Javascript VideoRTC.js v2.4.0 has been released for suitable for Web Developments and Mobile SDK . All users with previous maintained versions can upgrade today. Please contact our support!
 ChangeLog Version 2.1.0 · 2.4.0:
 ## [2.1.0] - 2018-01-16 ### Added - Added `videoStream` and `videoEnabled` option parameters in the SplitAgent module - Added `onReadyLocalAudio`, `onAcceptedData` and `onScreensharingClosed` events in the SplitClient module - Added `onAcceptedData` and `onReadyLocalStream` events in the SplitAgent module - Added a mechanism that guarantees the sending of files through the Datachannel - Added `onFileTransferOk` and `onFileTransferKo` events in the modules that use the Datachannel - Added `startScreensharing` and `stopScreensharing` actions in the SplitClient module - Added `notify` method in the following modules: SplitClient and SplitAgent - Added Safari iOS 11 support in the SplitClient module (Audio mode) ### Changed - Updated recording mode in the SPLIT modules ### Fixed - Fixed the use of the debug parameter at library level ## [2.</description>
@@ -134,10 +134,10 @@ ChangeLog Version 2.1.0 · 2.4.0:
     
     <item>
       <title>Video RTC (WebRTC) v3.2.1</title>
-      <link>http://blog.ivrpowers.com/post/updates/update-video-rtc-webrtc-3.2.1/</link>
+      <link>https://blog.ivrpowers.com/post/updates/update-video-rtc-webrtc-3.2.1/</link>
       <pubDate>Sun, 10 Jun 2018 12:00:00 +0200</pubDate>
       
-      <guid>http://blog.ivrpowers.com/post/updates/update-video-rtc-webrtc-3.2.1/</guid>
+      <guid>https://blog.ivrpowers.com/post/updates/update-video-rtc-webrtc-3.2.1/</guid>
       <description>Release Note We are pleased to announce that our new Video RTC (Gateway WebRTC) v3.2.1 has been released for suitable production services. This new version includes some improvements and a crital &amp;ldquo;hot fix&amp;rdquo; for Firefox 6+ Web Browsers. All users with previous maintained versions can upgrade today. Please contact our support!
 ChangeLog Version 3.2.1:
 ## [3.2.1] - 2018-06-08 ### Fixed - Fixed compatibility of all modules with Firefox 60+ ### Changed - Updated VideoRTC.</description>
@@ -145,10 +145,10 @@ ChangeLog Version 3.2.1:
     
     <item>
       <title>Video RTC (WebRTC) v3.2</title>
-      <link>http://blog.ivrpowers.com/post/updates/update-video-rtc-webrtc-3.2.0/</link>
+      <link>https://blog.ivrpowers.com/post/updates/update-video-rtc-webrtc-3.2.0/</link>
       <pubDate>Tue, 15 May 2018 10:00:00 +0200</pubDate>
       
-      <guid>http://blog.ivrpowers.com/post/updates/update-video-rtc-webrtc-3.2.0/</guid>
+      <guid>https://blog.ivrpowers.com/post/updates/update-video-rtc-webrtc-3.2.0/</guid>
       <description>Release Note We are pleased to announce that our new Video RTC (Gateway WebRTC) v3.2.0 has been released for suitable production services. This new version includes a lot of improvements and new features. All users with previous maintained versions can upgrade today. Please contact our support!
 ChangeLog Version 3.2.0:
 ## [3.2.0] - 2018-05-15 ### Added - Added Remote Viewer usecase as extension - Added WebRTC communication verification functions - Added possibility to transfer a call using the SPLIT usecases - Added a GET parameter to set the CallerID from the URL in the Webclient usecase ### Changed - Updated VideoRTC.</description>
@@ -156,10 +156,10 @@ ChangeLog Version 3.2.0:
     
     <item>
       <title>Video RTC (WebRTC) v3.1</title>
-      <link>http://blog.ivrpowers.com/post/updates/update-video-rtc-webrtc-3.1.0/</link>
+      <link>https://blog.ivrpowers.com/post/updates/update-video-rtc-webrtc-3.1.0/</link>
       <pubDate>Wed, 17 Jan 2018 09:00:00 +0200</pubDate>
       
-      <guid>http://blog.ivrpowers.com/post/updates/update-video-rtc-webrtc-3.1.0/</guid>
+      <guid>https://blog.ivrpowers.com/post/updates/update-video-rtc-webrtc-3.1.0/</guid>
       <description>Release Note We are pleased to announce that our new Video RTC (Gateway WebRTC) v3.1.0 has been released for suitable production services. This new version includes a lot of improvements and new features. All users with previous maintained versions can upgrade today. Please contact our support!
 ChangeLog Version 3.1.0:
 ## [3.1.0] - 2018-01-16 ### Added - Added the possibility of configuring different SPLIT scenarios at Flavour level - Added `autoRecording` option in the SPLIT Agent usecase - Added texts option in the SPLIT usecase - Added FileSharing in the Webclient usecase - Added ScreenSharing in the Webclient usecase - Added possibility to show a message until the Video agent is accepted - Added `split_id_strategy` in the VideoGateway - Added Safari iOS 11 support in the SplitClient module (Audio mode) ### Changed - Updated VideoRTC.</description>
@@ -167,10 +167,10 @@ ChangeLog Version 3.1.0:
     
     <item>
       <title>Video RTC (RTMP) v1.3</title>
-      <link>http://blog.ivrpowers.com/post/updates/update-video-rtc-rtmp-1.3.0/</link>
+      <link>https://blog.ivrpowers.com/post/updates/update-video-rtc-rtmp-1.3.0/</link>
       <pubDate>Mon, 08 Jan 2018 00:20:05 +0200</pubDate>
       
-      <guid>http://blog.ivrpowers.com/post/updates/update-video-rtc-rtmp-1.3.0/</guid>
+      <guid>https://blog.ivrpowers.com/post/updates/update-video-rtc-rtmp-1.3.0/</guid>
       <description>Release Note We are pleased to announce that our new Video RTC (Gateway RTMP) v1.3.0 has been released for suitable production services. This new version includes a lot of improvements and new features. All users with previous maintained versions can upgrade today. Please contact our support!
 ChangeLog Version 1.3.0:
 ## [1.3.0] - 2018-01-08 ### Added - Favicon in Split Use Case (Webclient and Agent) ### Changed - The default look for the agent webphone is now &#39;agent&#39; - Removed extra HTML code that was in the index.</description>
@@ -178,10 +178,10 @@ ChangeLog Version 1.3.0:
     
     <item>
       <title>Video RTC (WebRTC) v3.0</title>
-      <link>http://blog.ivrpowers.com/post/updates/update-video-rtc-webrtc-3.0.0/</link>
+      <link>https://blog.ivrpowers.com/post/updates/update-video-rtc-webrtc-3.0.0/</link>
       <pubDate>Fri, 06 Oct 2017 09:00:00 +0200</pubDate>
       
-      <guid>http://blog.ivrpowers.com/post/updates/update-video-rtc-webrtc-3.0.0/</guid>
+      <guid>https://blog.ivrpowers.com/post/updates/update-video-rtc-webrtc-3.0.0/</guid>
       <description>Release Note We are pleased to announce that our new Video RTC (Gateway WebRTC) v3.0.0 has been released for suitable production services. This new version includes a lot of improvements and new features. All users with previous maintained versions can upgrade today. Please contact our support!
 ChangeLog Version 3.0.0:
 ## [3.0.0] - 2017-10-03 ### Added - Added a new usecase: Videocall - Added return button inside the usecases - Added list of platform extensions in the landing page ### Changed - Updated VideoRTC.</description>
@@ -189,10 +189,10 @@ ChangeLog Version 3.0.0:
     
     <item>
       <title>VideoRTC.js (API) v2.0.0</title>
-      <link>http://blog.ivrpowers.com/post/updates/update-video-rtc-js-2.0.0/</link>
+      <link>https://blog.ivrpowers.com/post/updates/update-video-rtc-js-2.0.0/</link>
       <pubDate>Tue, 03 Oct 2017 12:00:00 +0200</pubDate>
       
-      <guid>http://blog.ivrpowers.com/post/updates/update-video-rtc-js-2.0.0/</guid>
+      <guid>https://blog.ivrpowers.com/post/updates/update-video-rtc-js-2.0.0/</guid>
       <description>Release Note We are pleased to announce that our API Framework for Javascript VideoRTC.js v2.0.0 has been released for suitable for Web Developments and Mobile SDK . All users with previous maintained versions can upgrade today. Please contact our support!
 ChangeLog Version 1.0.0 · 2.0.0:
 # Change Log All notable changes to this project will be documented in this file. ## [1.0.0] - 2017-02-10 ### First release ## [1.1.0] - 2017-04-17 ### Added - Added VoiceProcessor feature in the Videoroom module - Added `disconnect()` method for destroy a session with the VideoGateway - Added `closeUsecase()` method for close a use case with the VideoGateway (All usecases) - Added download link of VideoRTC Screensharing extension for Chrome - Added `videoRate` and `screenRate` parameters in the `call()` method (Split Client) - Added timestamp in Videomail messages to achieve multiple records with the same id/name ### Changed - Updated `webrtc-adapter` version release to `3.</description>
@@ -200,10 +200,10 @@ ChangeLog Version 1.0.0 · 2.0.0:
     
     <item>
       <title>Video RTC (WebRTC) v2.2</title>
-      <link>http://blog.ivrpowers.com/post/updates/update-video-rtc-webrtc-2.2.0/</link>
+      <link>https://blog.ivrpowers.com/post/updates/update-video-rtc-webrtc-2.2.0/</link>
       <pubDate>Thu, 27 Jul 2017 09:00:00 +0200</pubDate>
       
-      <guid>http://blog.ivrpowers.com/post/updates/update-video-rtc-webrtc-2.2.0/</guid>
+      <guid>https://blog.ivrpowers.com/post/updates/update-video-rtc-webrtc-2.2.0/</guid>
       <description>Release Note We are pleased to announce that our new Video RTC (Gateway WebRTC) v2.2.0 has been released for suitable production services. This new version includes a lot of improvements and new features. All users with previous maintained versions can upgrade today. Please contact our support!
 ChangeLog Version 2.2.0:
 ## [2.2.0] - 2017-07-27 ### Added - Added interval Watchdog - Added autocall GET parameter to the Webclient URL usecase - Added overprint logo in the Webclient usecase  Interactive Powers - Streamline your business communications</description>
@@ -211,10 +211,10 @@ ChangeLog Version 2.2.0:
     
     <item>
       <title>Video RTC (WebRTC) v2.1</title>
-      <link>http://blog.ivrpowers.com/post/updates/update-video-rtc-webrtc-2.1.0/</link>
+      <link>https://blog.ivrpowers.com/post/updates/update-video-rtc-webrtc-2.1.0/</link>
       <pubDate>Mon, 19 Jun 2017 00:20:05 +0200</pubDate>
       
-      <guid>http://blog.ivrpowers.com/post/updates/update-video-rtc-webrtc-2.1.0/</guid>
+      <guid>https://blog.ivrpowers.com/post/updates/update-video-rtc-webrtc-2.1.0/</guid>
       <description>Release Note We are pleased to announce that our new Video RTC (Gateway WebRTC) v2.1.0 has been released for suitable production services. This new version includes a lot of improvements and new features. All users with previous maintained versions can upgrade today. Please contact our support!
 ChangeLog Version 2.1.0:
 ## [2.1.0] - 2017-04-17 ### Added - Added Snapshot feature in the Split Agent usecase - VideoGateway notifies to participants when a Split session is finished - Added Autoclose feature in the Split Agent usecase - Added `split_screen_bitrate` in the Split configuration file - Added `videorate` and `screenrate` parameters in the `call_split` request - Added Quality selector in the Webclient usecase - Added sound notification when a message is received in the Split Agent usecase - Added sound notificator handle (Mute/Unmute) in LiveChat mode - Added visual notificacion when a file is sent in the Split Agent usecase - Added icon that identifies the file type sent/received - Added Drop feature for File Sharing (Agent -&amp;gt; Client) - Added Emoji feature in LiveChat (Webclient and Split Agent) - Added FullScreen mode in ScreenSharing (Webclient) - Added SplitAgent configuration feature via Flavour (Autoclose, Emoji.</description>
@@ -222,10 +222,10 @@ ChangeLog Version 2.1.0:
     
     <item>
       <title>Video RTC (RTMP) v1.2</title>
-      <link>http://blog.ivrpowers.com/post/updates/update-video-rtc-rtmp-1.2.0/</link>
+      <link>https://blog.ivrpowers.com/post/updates/update-video-rtc-rtmp-1.2.0/</link>
       <pubDate>Fri, 16 Jun 2017 00:20:05 +0200</pubDate>
       
-      <guid>http://blog.ivrpowers.com/post/updates/update-video-rtc-rtmp-1.2.0/</guid>
+      <guid>https://blog.ivrpowers.com/post/updates/update-video-rtc-rtmp-1.2.0/</guid>
       <description>Release Note We are pleased to announce that our new Video RTC (Gateway RTMP) v1.2.0 has been released for suitable production services. This new version includes a lot of improvements and new features. All users with previous maintained versions can upgrade today. Please contact our support!
 ChangeLog Version 1.2.0:
 ## [1.2.0] - 2017-01-18 ### Added - GET parameters to customize some variables of the client and agent flashphones { Action: parameter=[possible values] (default) ---------------------------------------------- Enable video: video=[true|false] (false) Video quality: quality=[1.</description>
@@ -233,10 +233,10 @@ ChangeLog Version 1.2.0:
     
     <item>
       <title>VoiceXML IVR v1.3</title>
-      <link>http://blog.ivrpowers.com/post/updates/update-voicexml-ivr-13.1/</link>
+      <link>https://blog.ivrpowers.com/post/updates/update-voicexml-ivr-13.1/</link>
       <pubDate>Thu, 15 Jun 2017 00:20:05 +0200</pubDate>
       
-      <guid>http://blog.ivrpowers.com/post/updates/update-voicexml-ivr-13.1/</guid>
+      <guid>https://blog.ivrpowers.com/post/updates/update-voicexml-ivr-13.1/</guid>
       <description>Release Note We are pleased to announce that our new VoiceXML IVR 1.3 has been released for suitable production services. This new version includes a lot of improvements and new features. All users with previous maintained versions can upgrade today. Please contact our support!
 ChangeLog Version 1.3:
 ## [1.3] - 2016-06 ### Added - Initialization of the freepbx_security.log during the fail2ban installation if not exists - Added pagination for CDR results - Added Presence extras source files - Added the extras module installation to the installation process - Added the extras module update to the update process ### Changed - Fixed posible exploit in the vxml editor directory browser - Fixed a typo in the web uninstallation steps - Updated Openvxi V12.</description>

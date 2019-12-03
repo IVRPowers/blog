@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Videoconference on Blog</title>
-    <link>http://blog.ivrpowers.com/tags/videoconference/</link>
+    <link>https://blog.ivrpowers.com/tags/videoconference/</link>
     <description>Recent content in Videoconference on Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 04 Oct 2017 10:45:24 +0200</lastBuildDate>
     
-	<atom:link href="http://blog.ivrpowers.com/tags/videoconference/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://blog.ivrpowers.com/tags/videoconference/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>How to Build your Own Videoconference Service</title>
-      <link>http://blog.ivrpowers.com/post/coding/videortc-build-videoconference/</link>
+      <link>https://blog.ivrpowers.com/post/coding/videortc-build-videoconference/</link>
       <pubDate>Wed, 04 Oct 2017 10:45:24 +0200</pubDate>
       
-      <guid>http://blog.ivrpowers.com/post/coding/videortc-build-videoconference/</guid>
+      <guid>https://blog.ivrpowers.com/post/coding/videortc-build-videoconference/</guid>
       <description>Photo Source: Interactive Powers, Pexels. Creative Commons Today we bring you this interesting article on How to build your own videoconference service based on HTML5 technology by using our API Framework with VideoRTC.js.
 Step one: Setting up the basic structure As we have explained in previous posts, first of all it is important that you include dependency within your project or web page.
 &amp;lt;script type=&amp;quot;text/javascript&amp;quot; src=&amp;quot;videortc.js&amp;quot;&amp;gt;&amp;lt;/script&amp;gt;  You can insert a minimized version if you prefer so:</description>
