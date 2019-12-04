@@ -1,7 +1,7 @@
 +++
 categories = ["technologies"]
 date = "2019-01-29T16:00:00+02:00"
-description = "Video RTC"
+description = "Video RTC platforms"
 draft = false
 tags = ["rtc","rtmp","webrtc","videortc"]
 title = "Video Gateway: RTMP & WebRTC comparison"
@@ -20,7 +20,7 @@ Currently, Video RTC is our flagship product line for any [RTC](http://blog.ivrp
 
 Our Video Gateway connects peers or endpoints between [WebRTC](http://blog.ivrpowers.com/post/technologies/what-is-webrtc/), [RTMP](http://blog.ivrpowers.com/post/technologies/what-is-rtmp/) and SIP technology to create advanced Video services. RTMP is an open protocol for Adobe Flash Player that allows to connect flash compliant browsers. WebRTC (Web Real-Time Communication) is an API definition drafted by the World Wide Web Consortium (W3C) that supports browser-to-browser applications for voice calling, video chat, and messaging without the need of either internal or external plugins.
 
-Our Video Gateway platforms work in common hardware or Cloud VM servers configurations, providing a highly scalable base system to meet all customers’ business and technical requirements. 
+Our [Video Gateway platforms](https://www.ivrpowers.com/videortc/) work in common hardware or Cloud VM servers configurations, providing a highly scalable base system to meet all customers’ business and technical requirements. 
 
 > Last modified date: January, 30 2019
 
@@ -106,12 +106,13 @@ Our Video Gateway platforms work in common hardware or Cloud VM servers configur
 
 ###	RTMP
 
-The Real Time Messaging Protocol (RTMP) is an open protocol developed by Macromedia / Adobe for streaming audio, video and data over the Internet, and not only for a Flash player in any web browser. 
+The Real Time Messaging Protocol (RTMP) is an open protocol developed by Macromedia / Adobe for streaming audio, video and data over the Internet, and not only for a Flash player in any web browser.
+[Learn more...](https://www.ivrpowers.com/videortc/) 
 
 ###	WebRTC
 
 WebRTC (Web Real-Time Communication) is an API definition drafted by the World Wide Web Consortium (W3C) that supports browser-to-browser applications for voice calling, video chat, and P2P file sharing without plugins.
-
+[Learn more...](https://www.ivrpowers.com/videortc/) 
 
 To learn more, please [contact our Sales](http://www.ivrpowers.com/support-services/).
 
