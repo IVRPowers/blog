@@ -32,7 +32,7 @@ Sometimes, you can use a protocol called **STUN (Session Traversal Utilities for
 
 However, even if we setup properly a STUN server, there are very restrictive corporate networks (e.g: UDP traffic forbidden, only 443 TCP allowed…), which will require clients to use a TURN (Traversal Using Relays around NAT) server to relay traffic if direct (peer to Video Gateway) connection fails. In these cases, you can install our **TURN server** (in another instance) to solve these issues.
 
-The TURN server is really easy to add for all your [RTC](http://blog.ivrpowers.com/post/technologies/what-is-rtc/) developments, including it as another ICE server within the **Video Gateway (WebRTC)** connection array like this:
+The TURN server is really easy to add for all your [RTC](http://blog.ivrpowers.com/post/technologies/what-is-rtc/) developments, including it as another ICE server within the **[Video Gateway (WebRTC)](https://www.ivrpowers.com/videortc/)** connection array like this:
 
 ```javascript
 var endPoints = [
