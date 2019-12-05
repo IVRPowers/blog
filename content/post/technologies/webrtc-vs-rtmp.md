@@ -16,9 +16,9 @@ comments = true
 # What are the main differences between RTMP and WebRTC gateway models?
 ---
 
-Currently, Video RTC is our flagship product line for any [RTC](http://blog.ivrpowers.com/post/technologies/what-is-rtc/) project's deployments. We have prepared this summary to clarify what are the main features and how to move forward for your business.
+Currently, [Video RTC](https://ivrpowers.com/videortc) is our flagship product line for any [RTC](https://blog.ivrpowers.com/post/technologies/what-is-rtc/) project's deployments. We have prepared this summary to clarify what are the main features and how to move forward for your business.
 
-Our Video Gateway connects peers or endpoints between [WebRTC](http://blog.ivrpowers.com/post/technologies/what-is-webrtc/), [RTMP](http://blog.ivrpowers.com/post/technologies/what-is-rtmp/) and SIP technology to create advanced Video services. RTMP is an open protocol for Adobe Flash Player that allows to connect flash compliant browsers. WebRTC (Web Real-Time Communication) is an API definition drafted by the World Wide Web Consortium (W3C) that supports browser-to-browser applications for voice calling, video chat, and messaging without the need of either internal or external plugins.
+Our Video Gateway connects peers or endpoints between [WebRTC](http://blog.ivrpowers.com/post/technologies/what-is-webrtc/), [RTMP](https://blog.ivrpowers.com/post/technologies/what-is-rtmp/) and SIP technology to create advanced Video services. RTMP is an open protocol for Adobe Flash Player that allows to connect flash compliant browsers. WebRTC (Web Real-Time Communication) is an API definition drafted by the World Wide Web Consortium (W3C) that supports browser-to-browser applications for voice calling, video chat, and messaging without the need of either internal or external plugins.
 
 Our [Video Gateway platforms](https://www.ivrpowers.com/videortc/) work in common hardware or Cloud VM servers configurations, providing a highly scalable base system to meet all customers’ business and technical requirements. 
 
@@ -107,16 +107,18 @@ Our [Video Gateway platforms](https://www.ivrpowers.com/videortc/) work in commo
 ###	RTMP
 
 The Real Time Messaging Protocol (RTMP) is an open protocol developed by Macromedia / Adobe for streaming audio, video and data over the Internet, and not only for a Flash player in any web browser.
+
 [Learn more...](https://www.ivrpowers.com/videortc/) 
 
 ###	WebRTC
 
 WebRTC (Web Real-Time Communication) is an API definition drafted by the World Wide Web Consortium (W3C) that supports browser-to-browser applications for voice calling, video chat, and P2P file sharing without plugins.
+
 [Learn more...](https://www.ivrpowers.com/videortc/) 
 
-To learn more, please [contact our Sales](http://www.ivrpowers.com/support-services/).
+To learn more, please [contact our Sales](https://www.ivrpowers.com/support-services/).
 
 ---
-[Interactive Powers](http://www.ivrpowers.com/) - Streamline your business communications
+[Interactive Powers](https://www.ivrpowers.com/) - Streamline your business communications
 
 

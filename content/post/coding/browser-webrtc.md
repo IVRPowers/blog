@@ -14,7 +14,7 @@ image = "/postimages/coding/ivrpowers-videortc-features.034.jpeg"
 ###### Photo Source: Interactive Powers, Pexels. Creative Commons
 
 
-WebRTC is currently supported [by Mozilla Firefox, Google Chrome and Opera,](http://blog.ivrpowers.com/post/technologies/videortc-desktop-web-browser/) in both desktop and Android versions. Microsoft Internet Explorer and Edge and Apple Safari still have to add support for WebRTC. Currently, support in these browsers is provided by third-party plug-ins, which are not an ideal solution.
+WebRTC is currently supported [by Mozilla Firefox, Google Chrome and Opera,](http://blog.ivrpowers.com/post/technologies/videortc-desktop-web-browser/) in both desktop and Android versions. Microsoft Internet Explorer and Edge and Apple Safari still have to add support for [WebRTC](https://blog.ivrpowers.com/post/technologies/what-is-webrtc/). Currently, support in these browsers is provided by third-party plug-ins, which are not an ideal solution.
 
 Here, we provide you with **an easy javascript code to check if your browser is supported by WebRTC.** In this way, we can avoid unpleasant surprises and mistakes. In case your browser is not supported, the script will redirect to the page that you specified in the code.
 
@@ -70,7 +70,10 @@ The rest of the code checks the different browsers and the urls.
 
 
 
-Feel free to reach out if you have any questions or comments bellow or just want to show off what kind of cool stuff you’ve built with [VideoRTC.js](http://blog.ivrpowers.com/post/development/introducing-videortcjs-developers/).
+Feel free to reach out if you have any questions or comments bellow or just want to show off what kind of cool stuff you’ve built with [VideoRTC.js](https://blog.ivrpowers.com/post/development/introducing-videortcjs-developers/).
 
 Email: [support@ivrpowers.com](mailto:support@ivrpowers.com) · Twitter: [@ivrpowers](https://twitter.com/ivrpowers)
  · Github: [IVRPowers](https://github.com/ivrpowers)
+ 
+ ---
+[Interactive Powers](https://www.ivrpowers.com/) - Streamline your business communications

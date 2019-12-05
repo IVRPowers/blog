@@ -13,21 +13,21 @@ comments = true
 -------
 ###### Photo source: Interactive Powers elaboration
 
-Since 2015, Interactive Powers has been diligently refining its [Video RTC](http://blog.ivrpowers.com/post/products/video-rtc/) solutions, **API Framework** and **SDKs** to make embedded video much more accessible for developers and enterprises who are looking to rapidly integrate reliable video chat into their own applications.
+Since 2015, Interactive Powers has been diligently refining its [Video RTC](https://blog.ivrpowers.com/post/products/video-rtc/) solutions, **API Framework** and **SDKs** to make embedded video much more accessible for developers and enterprises who are looking to rapidly integrate reliable video chat into their own applications.
 
 ## VideoRTC.js library
 
-Today, we’re thrilled to officially announce a new **VideoRTC.js** library – the launch of our self-service API Framework developer tools, which lets developers quickly and easily embed this same enterprise-grade, cloud-hosted, multiparty [RTC](http://blog.ivrpowers.com/post/technologies/what-is-rtc/) video collaboration into any web, mobile or native application on virtually any device.
+Today, we’re thrilled to officially announce a new **VideoRTC.js** library – the launch of our self-service API Framework developer tools, which lets developers quickly and easily embed this same enterprise-grade, cloud-hosted, multiparty [RTC](https://blog.ivrpowers.com/post/technologies/what-is-rtc/) video collaboration into any web, mobile or native application on virtually any device.
 
 ## Android & iOS SDKs
 
-Whether you are developing for smartphones, or the latest connected hardware such as smart glasses or drones, we believe that enterprise-grade embedded video should be simple. We provides SDKs for iOS, Android and web browsers ([WebRTC](http://blog.ivrpowers.com/post/technologies/what-is-webrtc/) and plugin), with a consistent **API Framework** that speeds time to market and lowers costs.
+Whether you are developing for smartphones, or the latest connected hardware such as smart glasses or drones, we believe that enterprise-grade embedded video should be simple. We provides SDKs for iOS, Android and web browsers ([WebRTC](https://blog.ivrpowers.com/post/technologies/what-is-webrtc/) and plugin), with a consistent **API Framework** that speeds time to market and lowers costs.
 
 ## Follow us
 
 VideoRTC.js is available now – it’s fast and easy to get started – new users receive free support, and there is no credit card required for initial sign-up, creating a no-risk development environment. Be sure to join our Showroom, follow [@ivrpowers](https://twitter.com/ivrpowers) on Twitter, and keep checking back to the blog for more product updates.
 
-Read more about [VideoRTC.js](http://videortcjs.doc.ivrpowers.com) specifications
+Read more about [VideoRTC.js](https://videortcjs.doc.ivrpowers.com) specifications
 
 ---
 [Interactive Powers](http://www.ivrpowers.com/) - Streamline your business communications

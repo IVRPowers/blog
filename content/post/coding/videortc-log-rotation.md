@@ -48,9 +48,12 @@ Options:
 
 Of course, this feature is available by default for all our new **Video Gateway** services and  releases, and the system administrator can update its options at any time, or even deactivate it.
 
-Feel free to reach out if you have any questions or comments bellow or just want to show off what kind of cool stuff you’ve built with [VideoRTC.js](http://blog.ivrpowers.com/post/development/introducing-videortcjs-developers/).
+Feel free to reach out if you have any questions or comments bellow or just want to show off what kind of cool stuff you’ve built with [VideoRTC.js](https://blog.ivrpowers.com/post/development/introducing-videortcjs-developers/).
 
 Email: [support@ivrpowers.com](mailto:support@ivrpowers.com) · Twitter: [@ivrpowers](https://twitter.com/ivrpowers)
  · Github: [IVRPowers](https://github.com/ivrpowers)
+ 
+ ---
+[Interactive Powers](https://www.ivrpowers.com/) - Streamline your business communications
  
  

@@ -29,11 +29,11 @@ image = "/postimages/products/ivrpowers-videortc-features.006.jpeg"
 	
 ## System Requirements
 
-**Live Chat** feature requires [Video RTC](http://blog.ivrpowers.com/post/products/video-rtc/) (WebRTC) Gateway On Premise or Cloud CPaaS.
+**Live Chat** feature requires [Video RTC](https://blog.ivrpowers.com/post/products/video-rtc/) (WebRTC) Gateway On Premise or Cloud CPaaS.
 
 ## Web & Mobile
 
-**Live Chat** is available both for Web and Mobile endpoints for [WebRTC](http://blog.ivrpowers.com/post/technologies/what-is-webrtc/). It allows customers to easily contact you or create virtual workspaces within the context of web and mobile applications.
+**Live Chat** is available both for Web and Mobile endpoints for [WebRTC](https://blog.ivrpowers.com/post/technologies/what-is-webrtc/). It allows customers to easily contact you or create virtual workspaces within the context of web and mobile applications.
 
 You can create simultaneously dual-interfaces without changing your business logic.
 
@@ -42,6 +42,6 @@ You can create simultaneously dual-interfaces without changing your business log
 **Live Chat** feature is powered by specific functions inside our API Framework ([VideoRTC.js](http://blog.ivrpowers.com/post/development/introducing-videortcjs-developers/)).
 
 ---
-[Interactive Powers](http://www.ivrpowers.com/) - Streamline your business communications
+[Interactive Powers](https://www.ivrpowers.com/) - Streamline your business communications
 
 
