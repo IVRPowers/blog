@@ -19,7 +19,7 @@ comments = true
 
 ![RTC IVR](/postimages/marketing/ivrpowers-post-04.006.jpeg)
 
-At Interactive Powers, when we launched our first products, we had always considered the Contact Center as a primary technology platform that requires to connect many and new channels to become a **Multi-channel** system  or much better ever an **Omnichannel** system. In the early stage of the **Digital Transformation**, we couldn’t imagine our main business product lines [IVR](https://www.ivrpowers.com/voicexml/) and [RTC](https://www.ivrpowers.com/videortc/) to become so close that they are now just part of a whole strategic approach for any Contact Center evolution. Let us show, how powerful it is without leaving existing channels or services witch are already running. We always understand integration as a complementary function and value not a replacement.
+At Interactive Powers, when we launched our first products, we had always considered the Contact Center as a primary technology platform that requires to connect many and new channels to become a **Multi-channel** system  or much better ever an **Omnichannel** system. In the early stage of the **Digital Transformation**, we couldn’t imagine our main business product lines [Smart IVR](https://www.ivrpowers.com/voicexml/) and [Video RTC](https://www.ivrpowers.com/videortc/) to become so close that they are now just part of a whole strategic approach for any Contact Center evolution. Let us show, how powerful it is without leaving existing channels or services witch are already running. We always understand integration as a complementary function and value not a replacement.
 
 ## IVR · Interactive Voice Response
 
@@ -27,7 +27,7 @@ This technology is not really new for a Contact Center but it is now a new break
 
 > Agents are no longer the only way to interact properly and efficiently with your customers.
 
-What kind of features arre we expecting to use with [IVR](http://blog.ivrpowers.com/post/technologies/what-is-ivr/):
+What kind of features arre we expecting to use with [IVR](https://blog.ivrpowers.com/post/technologies/what-is-ivr/):
 
 * DTMF
 * Text-to-Speech
@@ -40,7 +40,7 @@ This technology provides a secure access to all new modern devices thanks to an 
 
 > Phone is not yet the only direct channel, you have to connect more devices and services.
 
-What kind of features are we expecting to use with [RTC](http://blog.ivrpowers.com/post/technologies/what-is-rtc/):
+What kind of features are we expecting to use with [RTC](https://blog.ivrpowers.com/post/technologies/what-is-rtc/):
 
 * Voice / Video streaming
 * Live Chat
@@ -51,7 +51,7 @@ What kind of features are we expecting to use with [RTC](http://blog.ivrpowers.c
 
 Interactive Powers can help you to turn easily customer experience into a competitive advantage, our IVR and RTC solutions can be integrated into your existing Contact Center.
 
-Please contact our [sales](http://www.ivrpowers.com/support-services/) for more information.
+Please contact our [sales](https://www.ivrpowers.com/support-services/) for more information.
 
 ---
-[Interactive Powers](http://www.ivrpowers.com/) - Streamline your business communications
+[Interactive Powers](https://www.ivrpowers.com/) - Streamline your business communications

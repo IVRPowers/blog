@@ -25,7 +25,7 @@ Forget the technology, building the next generation of [IVR](http://blog.ivrpowe
 
 ## Streamline your business communications
 
-Interactive Powers can help you to turn easily customer experience into a competitive advantage, as our [IVR solutions](https://www.ivrpowers.com/voicexml/) can be powered by DialogFlow for your business processes.
+Interactive Powers can help you to turn easily customer experience into a competitive advantage, as our [Smart IVR](https://www.ivrpowers.com/voicexml/) solutions can be powered by DialogFlow for your business processes.
 
 Please contact our [sales](http://www.ivrpowers.com/support-services/) for more information.
 

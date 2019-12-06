@@ -16,7 +16,7 @@ comments = true
 
 ## The future of communications is driven by  the cloud.
 
-[Interactive Powers](http://www.ivrpowers.com/) was created to help companies embed voice and video communication into the software applications and web applications that are part of their workflow and how they do business with the same communication options and convenience that mobile devices provide for their customers and employees in their person lives. With Interactive Powers, communication becomes more immediate and contextual resulting in better business outcomes.
+[Interactive Powers](https://www.ivrpowers.com/) was created to help companies embed voice and video communication into the software applications and web applications that are part of their workflow and how they do business with the same communication options and convenience that mobile devices provide for their customers and employees in their person lives. With Interactive Powers, communication becomes more immediate and contextual resulting in better business outcomes.
 
 ##	The power to engage customers and users from anywhere.
 
@@ -27,4 +27,4 @@ comments = true
 With our cloud hosting services, companies of all sizes and types can quickly embed real-time communications capabilities into their existing applications and business processes. 
 
 ---
-[Interactive Powers](http://www.ivrpowers.com/) - Streamline your business communications
+[Interactive Powers](https://www.ivrpowers.com/) - Streamline your business communications
