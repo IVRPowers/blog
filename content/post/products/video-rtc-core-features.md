@@ -13,7 +13,7 @@ image = "/postimages/products/ivrpowers-videortc-features.029.jpeg"
 ------------
 ###### Photo source: Interactive Powers
 
-**Video Gateway (WebRTC)** includes core features that you can activate according to your own business requirements . All of this, is part of the main capabilities of our [Video RTC](http://videortc.ivrpowers.com) solution suite.
+**[Video Gateway (WebRTC)](https://www.ivrpowers.com/videortc/)** includes core features that you can activate according to your own business requirements . All of this, is part of the main capabilities of our [Video RTC](https://www.ivrpowers.com/videortc/) solution suite.
 
 Know more about our Video RTC core features here:
 	
