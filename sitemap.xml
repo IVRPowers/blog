@@ -13,6 +13,11 @@
   </url>
   
   <url>
+    <loc>https://blog.ivrpowers.com/post/support/help-center/</loc>
+    <lastmod>2020-01-06T15:00:26+02:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://blog.ivrpowers.com/post/updates/update-video-rtc-js-3.2.0/</loc>
     <lastmod>2019-12-01T12:00:00+02:00</lastmod>
   </url>
@@ -1843,6 +1848,12 @@
   </url>
   
   <url>
+    <loc>https://blog.ivrpowers.com/tags/smartivr/</loc>
+    <lastmod>2020-01-06T15:00:26+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://blog.ivrpowers.com/tags/socialnetworking/</loc>
     <lastmod>2017-07-24T12:30:37+02:00</lastmod>
     <priority>0</priority>
@@ -1880,13 +1891,13 @@
   
   <url>
     <loc>https://blog.ivrpowers.com/tags/support/</loc>
-    <lastmod>2019-02-19T15:00:26+02:00</lastmod>
+    <lastmod>2020-01-06T15:00:26+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://blog.ivrpowers.com/categories/support/</loc>
-    <lastmod>2019-02-19T15:00:26+02:00</lastmod>
+    <lastmod>2020-01-06T15:00:26+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -2000,7 +2011,7 @@
   
   <url>
     <loc>https://blog.ivrpowers.com/tags/videortc/</loc>
-    <lastmod>2019-07-23T20:00:00+02:00</lastmod>
+    <lastmod>2020-01-06T15:00:26+02:00</lastmod>
     <priority>0</priority>
   </url>
   
