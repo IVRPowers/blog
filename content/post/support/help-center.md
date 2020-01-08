@@ -18,7 +18,7 @@ image = "/postimages/support/ivrpowers-post-help-center.001.jpeg"
 
 Help Center is only available for Customers and Partners that are deploying or running our platforms, if you are not registred please contact our Sales Team to get all information and partnerships. 
 
-Register and Login at: https://ivrpowers.atlassian.net/servicedesk/ 
+Register and Login at: https://support.ivrpowers.com
 
 Service Desk Portals:
 
@@ -34,7 +34,7 @@ Service Desk Portals:
 Channels available:
 
 * Email
-* When logged in at: https://ivrpowers.atlassian.net/servicedesk/ 
+* When logged in at: https://support.ivrpowers.com 
 * Widget 
 
 ##	Type of Requests...
