@@ -16,13 +16,13 @@ comments = true
 #   WebRTC communications in real-world connectivity require to handle multi-party calls and interact with STUN and TURN servers.
 ---
 
-Our [Video Gateway (WebRTC)](http://blog.ivrpowers.com/post/products/video-rtc-core-features/) platform offers all customers an advanced video real-time communications solution through all audio/video/data streams are transmitted. Generally, a **Video Gateway has to be deployed over a public Internet** so any user must connect and send media fragments over RTP (Real-time Transport Protocol) ports without specific network issues.
+Our [Video Gateway (WebRTC)](https://www.ivrpowers.com/videortc/) platform offers all customers an advanced video real-time communications solution through all audio/video/data streams are transmitted. Generally, a **Video Gateway has to be deployed over a public Internet** so any user must connect and send media fragments over RTP (Real-time Transport Protocol) ports without specific network issues.
 
 ![STUN/TURN Server](/postimages/technologies/ivrpowers-turn-stun-screen.005.jpeg)
 
 ##	Why you should require a STUN/TURN Server?
 
-However, sometimes this is not enough. Some users try to connect through different IP networks where Firewalls and NATs (Network Address Translators) could include specific policies that do not allow any kind of [RTC](http://blog.ivrpowers.com/post/technologies/what-is-rtc/) communications. **ICE (Interactive Connectivity Establishment)** protocol is used to find the best connection solution. It defines a systematic way of finding possible communication options between a peer and the **Video Gateway (WebRTC)**.
+However, sometimes this is not enough. Some users try to connect through different IP networks where Firewalls and NATs (Network Address Translators) could include specific policies that do not allow any kind of [RTC](http://blog.ivrpowers.com/post/technologies/what-is-rtc/) communications. **ICE (Interactive Connectivity Establishment)** protocol is used to find the best connection solution. It defines a systematic way of finding possible communication options between a peer and the [Video Gateway (WebRTC)](https://www.ivrpowers.com/videortc/).
 
 ##	What is a STUN Server?
 
@@ -51,7 +51,7 @@ var iceServers = [
 var myVideoApp = new VideoRTC(endPoints, iceServers, debugLevel);
 ```
 
-Feel free to reach out if you have any questions or comments bellow or just want to show off what kind of cool stuff you’ve built with our **Video RTC** solutions.
+Feel free to reach out if you have any questions or comments bellow or just want to show off what kind of cool stuff you’ve built with our [Video RTC](https://blog.ivrpowers.com/post/products/video-rtc/) solutions.
 
 Email: [support@ivrpowers.com](mailto:support@ivrpowers.com) · Twitter: [@ivrpowers](https://twitter.com/ivrpowers) · Github: [IVRPowers](https://github.com/ivrpowers)
 

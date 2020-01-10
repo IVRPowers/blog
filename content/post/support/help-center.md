@@ -13,8 +13,10 @@ image = "/postimages/support/ivrpowers-post-help-center.001.jpeg"
 ------------
 ###### Photo Source: Interactive Powers. Creative Commons
 
-##	Getting started...
+#	No software works without support.
 ---
+
+##	Getting started...
 
 Help Center is only available for Customers and Partners that are deploying or running our platforms, if you are not registred please contact our Sales Team to get all information and partnerships. 
 
@@ -24,8 +26,8 @@ Service Desk Portals:
 
 1. Smart IVR
 2. Video RTC
-3. Solutions
-4. Cloud Hosting
+3. Cloud Hosting
+4. Solutions
 
 ##	Get support with our team in a single place
 
@@ -36,6 +38,20 @@ Channels available:
 * Email
 * When logged in at: https://support.ivrpowers.com 
 * Widget 
+
+Software Platforms:
+
+* Smart IVR
+* Video RTC
+
+Solutions (Turnkey) included:
+
+* Web Dialer
+* Video SPLIT
+* Call Center
+* Voicebot IVR
+* Meeting Point
+* Remote Viewer
 
 ##	Type of Requests...
 
