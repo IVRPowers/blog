@@ -1,7 +1,7 @@
 +++
 categories = ["support"]
 date = "2020-01-06T15:00:26+02:00"
-description = "Service Desk"
+description = "No software works without support."
 draft = false
 tags = ["support","videortc","smartivr"]
 title = "Help Center"
@@ -12,9 +12,6 @@ image = "/postimages/support/ivrpowers-post-help-center.001.jpeg"
 ![Help Desk](/postimages/support/ivrpowers-post-help-center.001.jpeg)
 ------------
 ###### Photo Source: Interactive Powers. Creative Commons
-
-#	No software works without support.
----
 
 ##	Getting started...
 
@@ -36,13 +33,13 @@ Service Desk Portals:
 Channels available:
 
 * Email
-* When logged in at: https://support.ivrpowers.com 
+* Web Portal, when logged in at: https://support.ivrpowers.com 
 * Widget 
 
 Software Platforms:
 
-* Smart IVR
-* Video RTC
+* [Smart IVR](https:/ivrpowers.com/voicexml/) · Interactive Voice Response (VoiceXML)
+* [Video RTC](https:/ivrpowers.com/voicexml/) · Video Gateway (WebRTC)
 
 Solutions (Turnkey) included:
 

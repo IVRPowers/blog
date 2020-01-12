@@ -81,7 +81,7 @@ Our [Video Gateway platforms](https://www.ivrpowers.com/videortc/) work in commo
 |**MS Internet Explorer**|◾️|Not Supported|
 |**MS Edge**|◽️ Flash Blocked|◽️ Announced 03-2019|
 |**Opera**|◾️|◾️|
-|**Safari**|◽️ Flash Blocked|◾️ Audio Only|
+|**Safari**|◽️ Flash Blocked|◾️|
 
 
 ◾️ Yes
