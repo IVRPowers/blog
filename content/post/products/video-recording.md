@@ -15,7 +15,7 @@ image = "/postimages/products/video-recording-ivrpowers.001.jpeg"
 # Video & Audio Recording is designed as a Coud Hosting service for any Contact Center.
 ---
 
-Video RTC (WebRTC) platforms enable you to record all audio and video streams of your services in a secure, scalable and reliant mode. Video Recording is connect to the Video SPLIT functions to enable video & audio recording of a Contact Center agents-user interactions.
+[Video RTC (WebRTC)](https://www.ivrpowers.com/videortc/) platforms enable you to record all audio and video streams of your services in a secure, scalable and reliant mode. Video Recording is connect to the  [SPLIT](https://blog.ivrpowers.com/post/technologies/what-is-split/) functions to enable video & audio recording of a Contact Center agents-user interactions.
 
 ##	Service Conditions
 
