@@ -6,10 +6,20 @@
     <description>Recent content in Products on Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 12 Mar 2019 22:00:00 +0200</lastBuildDate>
+    <lastBuildDate>Sat, 11 Jan 2020 15:00:00 +0200</lastBuildDate>
     
 	<atom:link href="https://blog.ivrpowers.com/categories/products/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Video RTC Recording</title>
+      <link>https://blog.ivrpowers.com/post/products/video-recording/</link>
+      <pubDate>Sat, 11 Jan 2020 15:00:00 +0200</pubDate>
+      
+      <guid>https://blog.ivrpowers.com/post/products/video-recording/</guid>
+      <description>Video &amp;amp; Audio Recording is designed as a Coud Hosting service for any Contact Center. Video RTC (WebRTC) platforms enable you to record all audio and video streams of your services in a secure, scalable and reliant mode. Video Recording is connect to the Video SPLIT functions to enable video &amp;amp; audio recording of a Contact Center agents-user interactions.
+Service Conditions This recording service is available on Cloud Hosting CPaaS / SaaS modality for AWS.</description>
+    </item>
     
     <item>
       <title>Video RTC 4.0</title>

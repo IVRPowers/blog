@@ -13,6 +13,21 @@
   </url>
   
   <url>
+    <loc>https://blog.ivrpowers.com/post/products/video-recording/</loc>
+    <lastmod>2020-01-11T15:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.ivrpowers.com/post/support/smart-ivr-system-requirements/</loc>
+    <lastmod>2020-01-11T12:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.ivrpowers.com/post/support/video-rtc-system-requirements/</loc>
+    <lastmod>2020-01-11T12:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://blog.ivrpowers.com/post/support/help-center/</loc>
     <lastmod>2020-01-06T15:00:26+02:00</lastmod>
   </url>
@@ -1405,7 +1420,7 @@
   
   <url>
     <loc>https://blog.ivrpowers.com/tags/cloud/</loc>
-    <lastmod>2019-01-13T19:00:00+02:00</lastmod>
+    <lastmod>2020-01-11T15:00:00+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1447,7 +1462,7 @@
   
   <url>
     <loc>https://blog.ivrpowers.com/tags/cpaas/</loc>
-    <lastmod>2019-01-13T19:00:00+02:00</lastmod>
+    <lastmod>2020-01-11T15:00:00+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1633,7 +1648,7 @@
   
   <url>
     <loc>https://blog.ivrpowers.com/tags/ivr/</loc>
-    <lastmod>2019-11-12T18:00:00+02:00</lastmod>
+    <lastmod>2020-01-11T12:00:00+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1783,7 +1798,7 @@
   
   <url>
     <loc>https://blog.ivrpowers.com/categories/products/</loc>
-    <lastmod>2019-03-12T22:00:00+02:00</lastmod>
+    <lastmod>2020-01-11T15:00:00+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1795,7 +1810,7 @@
   
   <url>
     <loc>https://blog.ivrpowers.com/tags/rtc/</loc>
-    <lastmod>2019-12-01T12:00:00+02:00</lastmod>
+    <lastmod>2020-01-11T12:00:00+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1807,7 +1822,7 @@
   
   <url>
     <loc>https://blog.ivrpowers.com/tags/saas/</loc>
-    <lastmod>2018-11-21T01:00:00+02:00</lastmod>
+    <lastmod>2020-01-11T15:00:00+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1849,7 +1864,7 @@
   
   <url>
     <loc>https://blog.ivrpowers.com/tags/smartivr/</loc>
-    <lastmod>2020-01-06T15:00:26+02:00</lastmod>
+    <lastmod>2020-01-11T12:00:00+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1891,13 +1906,13 @@
   
   <url>
     <loc>https://blog.ivrpowers.com/tags/support/</loc>
-    <lastmod>2020-01-06T15:00:26+02:00</lastmod>
+    <lastmod>2020-01-11T12:00:00+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://blog.ivrpowers.com/categories/support/</loc>
-    <lastmod>2020-01-06T15:00:26+02:00</lastmod>
+    <lastmod>2020-01-11T12:00:00+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -2011,7 +2026,7 @@
   
   <url>
     <loc>https://blog.ivrpowers.com/tags/videortc/</loc>
-    <lastmod>2020-01-06T15:00:26+02:00</lastmod>
+    <lastmod>2020-01-11T15:00:00+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -2041,7 +2056,7 @@
   
   <url>
     <loc>https://blog.ivrpowers.com/tags/voicexml/</loc>
-    <lastmod>2019-02-21T00:00:00+02:00</lastmod>
+    <lastmod>2020-01-11T12:00:00+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -2077,7 +2092,7 @@
   
   <url>
     <loc>https://blog.ivrpowers.com/tags/webrtc/</loc>
-    <lastmod>2019-12-01T12:00:00+02:00</lastmod>
+    <lastmod>2020-01-11T15:00:00+02:00</lastmod>
     <priority>0</priority>
   </url>
   
