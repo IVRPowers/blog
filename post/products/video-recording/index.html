@@ -104,7 +104,7 @@
         },
         "datePublished": "2020-01-11",
         "dateModified": "2020-01-11",
-        "wordCount": 766,
+        "wordCount": 773,
         "keywords": ["cpaas","saas","cloud","videortc","webrtc"] 
     }
     </script>
@@ -177,7 +177,7 @@ html{font-family:sans-serif;line-height:1.15;-ms-text-size-adjust:100%;-webkit-t
 
   			<header class="post-header">
   				<span class="post-meta">
-						<span class="post-date">11 Jan 2020</span> <span class="reading-time">| <span class="estimated-reading-time">4 min.</span> (<span class="word-count">766</span> words)</span></span>
+						<span class="post-date">11 Jan 2020</span> <span class="reading-time">| <span class="estimated-reading-time">4 min.</span> (<span class="word-count">773</span> words)</span></span>
   				</span>
   				<div class="clear"></div>
   				<h1 class="post-title">Video RTC Recording</h1>
@@ -203,7 +203,9 @@ html{font-family:sans-serif;line-height:1.15;-ms-text-size-adjust:100%;-webkit-t
 <tr>
 <th>Type</th>
 <th>IaaS</th>
-<th> Mode</th>
+<th> Regions</th>
+<th> Storage</th>
+<th>Security</th>
 </tr>
 </thead>
 
@@ -211,13 +213,17 @@ html{font-family:sans-serif;line-height:1.15;-ms-text-size-adjust:100%;-webkit-t
 <tr>
 <td>CPaaS</td>
 <td>AWS</td>
-<td>Dedicated S3 Bucket </td>
+<td>US, EU</td>
+<td> S3 Bucket </td>
+<td>AES 256-bit</td>
 </tr>
 
 <tr>
 <td> SaaS</td>
 <td>AWS</td>
-<td>Dedicated S3 Bucket </td>
+<td>US, EU</td>
+<td> S3 Bucket </td>
+<td>AES 256-bit</td>
 </tr>
 </tbody>
 </table>
@@ -293,7 +299,7 @@ html{font-family:sans-serif;line-height:1.15;-ms-text-size-adjust:100%;-webkit-t
 </tbody>
 </table>
 
-<h2 id="storage-packs">Storage Packs</h2>
+<h2 id="storage-unit-packs">Storage Unit Packs</h2>
 
 <table>
 <thead>
@@ -308,19 +314,19 @@ html{font-family:sans-serif;line-height:1.15;-ms-text-size-adjust:100%;-webkit-t
 <tr>
 <td>RecStorage100</td>
 <td>100 Gb</td>
-<td>RAW + MP4</td>
+<td>RAW, MP4</td>
 </tr>
 
 <tr>
 <td>RecStorage500</td>
 <td>500 Gb</td>
-<td>RAW + MP4</td>
+<td>RAW, MP4</td>
 </tr>
 
 <tr>
 <td>RecStorage1000</td>
 <td>1 Tb</td>
-<td>RAW + MP4</td>
+<td>RAW, MP4</td>
 </tr>
 </tbody>
 </table>
@@ -333,7 +339,7 @@ html{font-family:sans-serif;line-height:1.15;-ms-text-size-adjust:100%;-webkit-t
 
 <p><img src="/postimages/products/video-recording-ivrpowers.025.jpeg" alt="Video Recording Process" /></p>
 
-<h3 id="step-1-stream-recording">Step 1. Stream recording</h3>
+<h3 id="step-1-streams-recording">Step 1. Streams recording</h3>
 
 <p>A Videocall is initiated by a user or agent into the Video Gateway.  This session will be composed of for media streams (agent-video, agent-audio, user-video, user-video) blended together in a single interaction with an info file.</p>
 
@@ -345,13 +351,13 @@ html{font-family:sans-serif;line-height:1.15;-ms-text-size-adjust:100%;-webkit-t
 
 <p>All Video Stream in RAW can only be played by the Video Gateway convertor or dual-player. To get a unique file in MP4 (video &amp; audio) or MP3 (audio) you can ask the Video Recording Service to generate it from the S3 bucket. This format can played on most existing video players and is easier to manage and store in an external system if required. The MP4 file includes both the agent and the user video mixed.</p>
 
-<h3 id="step-4-ssh-ftp-batch-exportation">Step 4. SSH / FTP Batch Exportation</h3>
+<h3 id="step-4-ssh-ftp-batch-exportation">Step 4. SSH / FTP batch exportation</h3>
 
 <p>Most quality insurance process in a Contact Center can require to play, access and export in MP4 / MP3 a specific conversation, the video recording service allow to make a batch exportation using an SSH or FTP from the S3 bucket.</p>
 
-<h3 id="step-5-s3-bucket-api-access">Step 5. S3 Bucket API access</h3>
+<h3 id="step-5-api-content-access">Step 5. API content access</h3>
 
-<p>Customers can have access to manage their own contents in order to get RAW or MP4 files recorded for external usages or systems. Each service has an account and all functions are running over AWS secure API and tools.</p>
+<p>Customers can have access to manage their own contents in order to get RAW or MP4 files recorded for external usages or other systems. Each service has an account and all functions are running over AWS secure API and secure tools.</p>
 
 <h2 id="key-benefits">Key Benefits</h2>
 
@@ -371,13 +377,13 @@ html{font-family:sans-serif;line-height:1.15;-ms-text-size-adjust:100%;-webkit-t
 
 <h3 id="encrypted-recording">Encrypted Recording</h3>
 
-<p>Recorded data is AES 256 bit encrypted at rest or in transit, providing the highest level of security to meet the most stringent of compliance and regulatory requirements.</p>
+<p>Recorded data is AES 256-bit encrypted at rest or in transit, providing the highest level of security to meet the most stringent of compliance and regulatory requirements.</p>
 
 <hr />
 
-<h2 id="video-split-for-contact-centers">Video SPLIT for Contact Centers</h2>
+<h2 id="video-recording-for-contact-centers">Video recording for Contact Centers</h2>
 
-<p>This operation mode has various advantages when integrating the video channel into an existing Contact Center strategy, namely: Agents can use their regular phone to receive the audio stream of video calls like any other regular call treatment, routing strategies, IVR flows, ACD distribution, etc.. Now, you can have all your recording data properly stored and avaiable at any time without any complex processes.</p>
+<p>This operation mode has various advantages when integrating the video channel into an existing Contact Center strategy, namely: Agents can use their regular phone to receive the audio stream of video calls like any other regular call treatment, routing strategies, IVR flows, ACD distribution, etc.. Now, you can have all video recording data properly stored, protected and available at any time without any complex procedures.</p>
 
 <hr />
 
@@ -478,14 +484,14 @@ html{font-family:sans-serif;line-height:1.15;-ms-text-size-adjust:100%;-webkit-t
 <li><a href="#service-conditions">Service Conditions</a></li>
 <li><a href="#video-formats">Video Formats</a></li>
 <li><a href="#recording-files-sizing">Recording Files Sizing</a></li>
-<li><a href="#storage-packs">Storage Packs</a></li>
+<li><a href="#storage-unit-packs">Storage Unit Packs</a></li>
 <li><a href="#how-does-it-work">How does it work?</a>
 <ul>
-<li><a href="#step-1-stream-recording">Step 1. Stream recording</a></li>
+<li><a href="#step-1-streams-recording">Step 1. Streams recording</a></li>
 <li><a href="#step-2-s3-bucket-archiving">Step 2. S3 Bucket archiving</a></li>
 <li><a href="#step-3-mp4-raw-on-demand-access">Step 3. MP4 / RAW on demand access</a></li>
-<li><a href="#step-4-ssh-ftp-batch-exportation">Step 4. SSH / FTP Batch Exportation</a></li>
-<li><a href="#step-5-s3-bucket-api-access">Step 5. S3 Bucket API access</a></li>
+<li><a href="#step-4-ssh-ftp-batch-exportation">Step 4. SSH / FTP batch exportation</a></li>
+<li><a href="#step-5-api-content-access">Step 5. API content access</a></li>
 </ul></li>
 <li><a href="#key-benefits">Key Benefits</a>
 <ul>
@@ -494,7 +500,7 @@ html{font-family:sans-serif;line-height:1.15;-ms-text-size-adjust:100%;-webkit-t
 <li><a href="#scalability-and-reliability">Scalability and Reliability</a></li>
 <li><a href="#encrypted-recording">Encrypted Recording</a></li>
 </ul></li>
-<li><a href="#video-split-for-contact-centers">Video SPLIT for Contact Centers</a></li>
+<li><a href="#video-recording-for-contact-centers">Video recording for Contact Centers</a></li>
 </ul></li>
 </ul>
 </nav>
