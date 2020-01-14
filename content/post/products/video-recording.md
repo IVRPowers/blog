@@ -46,11 +46,11 @@ Format: 640x480 (2 peers)
 
 ##	Storage Unit Packs
 
-| Unit Pack | Size | File Formats |
-|-----------|-----------|-----------|
-| RecStorage100 | 100 Gb | RAW, MP4   | 
-| RecStorage500 | 500 Gb | RAW, MP4  | 
-| RecStorage1000 | 1 Tb | RAW, MP4  | 
+| Unit Pack | Size | Formats | MP4 blended | SSH/FTP | MP4 stored |
+|-----------|-----------|-----------|-----------|-----------|-----------|
+| RecStorage1 | 100 Gb, 500 Gb, 1 Tb | RAW, MP4 |◾️ | ◽️ | ◽️ | 
+| RecStorage2 | 100 Gb, 500 Gb, 1 Tb  | RAW, MP4 |◾️ | ◾️ | ◽️ | 
+| RecStorage3 | 100 Gb, 500 Gb, 1 Tb  | RAW, MP4 |◾️ | ◾️ | ◾️ | 
 
 To request any more storage capacity, please contact our Sales team.
 
