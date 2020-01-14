@@ -21,10 +21,10 @@ image = "/postimages/products/video-recording-ivrpowers.001.jpeg"
 
 This recording service is available on [Cloud Hosting](https://www.ivrpowers.com/cloud-hosting/) CPaaS / SaaS modality for AWS. If your are targeting on-premise or specific IaaS deployment you can contact our Sales.
 
-| Type | IaaS | Mode |
-|-----------|-----------|-----------|
-| CPaaS | AWS | Dedicated S3 Bucket |
-| SaaS | AWS | Dedicated S3 Bucket |
+| Type | IaaS | Regions | Storage | Security |
+|-----------|-----------|-----------|-----------|-----------|
+| CPaaS | AWS | US, EU | S3 Bucket | AES 256-bit |
+| SaaS | AWS | US, EU | S3 Bucket | AES 256-bit |
 
 ##	Video Formats
 
@@ -44,13 +44,13 @@ Format: 640x480 (2 peers)
 | 1 day (24 h) | 2,16 Gb | 3,6 Gb | 24 Gb |
 | 1 month (30 days) | 64,8 Gb | 108 Gb | 720 Gb |
 
-##	Storage Packs
+##	Storage Unit Packs
 
 | Unit Pack | Size | File Formats |
 |-----------|-----------|-----------|
-| RecStorage100 | 100 Gb | RAW + MP4   | 
-| RecStorage500 | 500 Gb | RAW + MP4  | 
-| RecStorage1000 | 1 Tb | RAW + MP4  | 
+| RecStorage100 | 100 Gb | RAW, MP4   | 
+| RecStorage500 | 500 Gb | RAW, MP4  | 
+| RecStorage1000 | 1 Tb | RAW, MP4  | 
 
 To request any more storage capacity, please contact our Sales team.
 
@@ -60,7 +60,7 @@ All [Video Gateways](https://www.ivrpowers.com/videortc/) (WebRTC) developed by 
 
 ![Video Recording Process](/postimages/products/video-recording-ivrpowers.025.jpeg)
 
-###	Step 1. Stream recording
+###	Step 1. Streams recording
 
 A Videocall is initiated by a user or agent into the Video Gateway.  This session will be composed of for media streams (agent-video, agent-audio, user-video, user-video) blended together in a single interaction with an info file.
 
@@ -72,13 +72,13 @@ The Video Gateway converts each stream to a regular RAW files that can be transf
 
 All Video Stream in RAW can only be played by the Video Gateway convertor or dual-player. To get a unique file in MP4 (video & audio) or MP3 (audio) you can ask the Video Recording Service to generate it from the S3 bucket. This format can played on most existing video players and is easier to manage and store in an external system if required. The MP4 file includes both the agent and the user video mixed.
 
-###	Step 4. SSH / FTP Batch Exportation
+###	Step 4. SSH / FTP batch exportation
 
 Most quality insurance process in a Contact Center can require to play, access and export in MP4 / MP3 a specific conversation, the video recording service allow to make a batch exportation using an SSH or FTP from the S3 bucket.
 
-###	Step 5. S3 Bucket API access
+###	Step 5. API content access
 
-Customers can have access to manage their own contents in order to get RAW or MP4 files recorded for external usages or systems. Each service has an account and all functions are running over AWS secure API and tools.
+Customers can have access to manage their own contents in order to get RAW or MP4 files recorded for external usages or other systems. Each service has an account and all functions are running over AWS secure API and secure tools.
 
 ##	Key Benefits
 ---
@@ -97,12 +97,12 @@ Whether you need to record a 1:1 video call, video SPLIT with users and agents o
 
 ###	Encrypted Recording
 
-Recorded data is AES 256 bit encrypted at rest or in transit, providing the highest level of security to meet the most stringent of compliance and regulatory requirements.
+Recorded data is AES 256-bit encrypted at rest or in transit, providing the highest level of security to meet the most stringent of compliance and regulatory requirements.
 
 ---
-##	Video SPLIT for Contact Centers
+##	Video recording for Contact Centers
 
-This operation mode has various advantages when integrating the video channel into an existing Contact Center strategy, namely: Agents can use their regular phone to receive the audio stream of video calls like any other regular call treatment, routing strategies, IVR flows, ACD distribution, etc.. Now, you can have all your recording data properly stored and avaiable at any time without any complex processes.
+This operation mode has various advantages when integrating the video channel into an existing Contact Center strategy, namely: Agents can use their regular phone to receive the audio stream of video calls like any other regular call treatment, routing strategies, IVR flows, ACD distribution, etc.. Now, you can have all video recording data properly stored, protected and available at any time without any complex procedures.
 
 ---
 [Interactive Powers](http://www.ivrpowers.com/) - Streamline your business communications
