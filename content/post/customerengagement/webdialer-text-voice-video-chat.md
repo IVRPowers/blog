@@ -4,7 +4,7 @@ date = "2020-01-26T21:00:00+02:00"
 description = "Live Chat Communications"
 draft = false
 tags = ["rtc","videortc","voice","videocall","livechat", "webrtc"]
-title = "Live Chat with escalating Text, Voice, Video."
+title = "Web Dialer · Escalating Text, Voice, Video."
 image = "/postimages/customerengagement/Text-Voice-Video-Chat.013.jpeg"
 +++
 
