@@ -6,10 +6,39 @@
     <description>Recent content in Videortc on Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 11 Jan 2020 15:00:00 +0200</lastBuildDate>
+    <lastBuildDate>Sun, 26 Jan 2020 21:00:00 +0200</lastBuildDate>
     
 	<atom:link href="https://blog.ivrpowers.com/tags/videortc/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Build memorable responsive Real-Time Communications Widgets.</title>
+      <link>https://blog.ivrpowers.com/post/customerengagement/responsive-real-time-communications-widget/</link>
+      <pubDate>Sun, 26 Jan 2020 21:00:00 +0200</pubDate>
+      
+      <guid>https://blog.ivrpowers.com/post/customerengagement/responsive-real-time-communications-widget/</guid>
+      <description>There’s no question that live chat is getting huge. More and more, websites in every corner of the web are featuring that inviting little widget in the corner of their screens. Live chat support is a huge opportunity for businesses to add a powerful, customer-loved channel to their customer service strategy.
+We do not understand Live Chat just for texting. From the beginning, our Live Chat Widgets have been designed to provide Text, Voice and Video at any time.</description>
+    </item>
+    
+    <item>
+      <title>Live Chat with escalating Text, Voice, Video.</title>
+      <link>https://blog.ivrpowers.com/post/customerengagement/livechat-text-voice-video-chat/</link>
+      <pubDate>Sun, 26 Jan 2020 21:00:00 +0200</pubDate>
+      
+      <guid>https://blog.ivrpowers.com/post/customerengagement/livechat-text-voice-video-chat/</guid>
+      <description>Photo source: Unsplash. Creative Commons In the Digital Age, any business has to create the most advanced interactions with their customers. Add text, voice, and video chat to your business without reinventing communications and complexity. At Interactive powers, we understand business communications in real-time with a flexible, multi-channel and convergent approach that has to work on any device, any modern browser, any location or Internet access.
+Text Chat Some online businesses requires to make the first step enabling a text chat conversation for any device.</description>
+    </item>
+    
+    <item>
+      <title>8 Tips for Live Chat integration in your Website.</title>
+      <link>https://blog.ivrpowers.com/post/customerengagement/8-tips-for-livechat-integration-in-your-website/</link>
+      <pubDate>Sun, 26 Jan 2020 20:00:00 +0200</pubDate>
+      
+      <guid>https://blog.ivrpowers.com/post/customerengagement/8-tips-for-livechat-integration-in-your-website/</guid>
+      <description>Photo source: Unsplash. Creative Commons All good businesses seek to have amazing interactions with their customers. The quality of client relations is a sure indicator of the success of any company, no matter what industry or size. If you make your clients feel valued, communicate with them easily, faster and make available to answer all questions or concerns, you are more likely to build brand loyalty, and they are more likely to recommend your product or service to others.</description>
+    </item>
     
     <item>
       <title>Video RTC Recording</title>
@@ -17,7 +46,7 @@
       <pubDate>Sat, 11 Jan 2020 15:00:00 +0200</pubDate>
       
       <guid>https://blog.ivrpowers.com/post/products/video-recording/</guid>
-      <description>Video &amp;amp; Audio Recording is designed as a Coud Hosting service for any Contact Center. Video RTC (WebRTC) platforms enable you to record all audio and video streams of your services in a secure, scalable and reliant mode. Video Recording is connected to the SPLIT functions to process video &amp;amp; audio recording of a Contact Center agents-user interactions.
+      <description>Video &amp;amp; Audio Recording is designed as a Coud Hosting service for any Contact Center. Video RTC (WebRTC) platforms enable you to record all audio and video streams of your services in a secure, scalable and reliant mode. Video Recording is connected to the SPLIT functions to process all video &amp;amp; audio calls of a Contact Center agents-user interactions.
 Service Conditions This recording service is available on Cloud Hosting CPaaS / SaaS modality for AWS.</description>
     </item>
     
