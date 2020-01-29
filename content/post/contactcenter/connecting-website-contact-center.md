@@ -3,7 +3,7 @@ categories = ["contact center"]
 date = "2020-01-28T18:00:00+02:00"
 description = "Customer Engagement"
 draft = false
-tags = ["rtc","telephony","contactcenter","livechat","contactcenter",]
+tags = ["rtc","telephony","contactcenter","livechat"]
 title = "Connecting your Website and Contact Center"
 image = "/postimages/contactcenter/Text-Voice-Video-Chat.010.jpeg"
 
