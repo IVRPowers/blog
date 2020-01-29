@@ -39,7 +39,7 @@ Channels available:
 Software Platforms:
 
 * [Smart IVR](https://ivrpowers.com/voicexml/) · Interactive Voice Response (VoiceXML)
-* [Video RTC](https://ivrpowers.com/voicexml/) · Video Gateway (WebRTC)
+* [Video RTC](https://ivrpowers.com/videortc/) · Video Gateway (WebRTC)
 
 Solutions (Turnkey) included:
 

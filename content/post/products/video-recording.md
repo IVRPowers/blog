@@ -7,7 +7,6 @@ tags = ["cpaas", "saas", "cloud","videortc","webrtc"]
 title = "Video RTC Recording"
 featured = false
 image = "/postimages/products/video-recording-ivrpowers.001.jpeg"
-
 +++
 
 ![Video Recording](/postimages/products/video-recording-ivrpowers.001.jpeg)
@@ -15,7 +14,7 @@ image = "/postimages/products/video-recording-ivrpowers.001.jpeg"
 # Video & Audio Recording is designed as a Coud Hosting service for any Contact Center.
 ---
 
-[Video RTC](https://www.ivrpowers.com/videortc/) (WebRTC) platforms enable you to record all audio and video streams of your services in a secure, scalable and reliant mode. Video Recording is connected to the  [SPLIT](https://blog.ivrpowers.com/post/technologies/what-is-split/) functions to process video & audio recording of a Contact Center agents-user interactions.
+[Video RTC](https://www.ivrpowers.com/videortc/) (WebRTC) platforms enable you to record all audio and video streams of your services in a secure, scalable and reliant mode. Video Recording is connected to the  [SPLIT](https://blog.ivrpowers.com/post/technologies/what-is-split/) functions to process all video & audio calls of a Contact Center agents-user interactions.
 
 ##	Service Conditions
 
@@ -30,8 +29,8 @@ This recording service is available on [Cloud Hosting](https://www.ivrpowers.com
 
 | Format | Mode | Description |
 |-----------|-----------|-----------|
-| RAW | Default | Include 4 stream files + 1 info file, ready to be converted to WebM. |
-| MP4 | Generated | Include 1 file processed and converted with all streams mixed. |
+| RAW | Default | Include 4 streams + 1 info files, ready to be converted to WebM. |
+| MP4 | Generated | Include 1 blended file with all multimedia streams mixed in MP4. |
 
 ##	Recording Files Sizing
 
