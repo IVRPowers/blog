@@ -18,9 +18,9 @@ comments = true
 
 > The Video Channel (Outbound) for existing Call Centers without worries.
 
-## How does SPLIT Forward work?
+## How does SPLIT Reverse work?
 
-SPLIT Reverse is a multiplexed channel that enables to generate Video Real-Time Communications from your Call Center (Outbound) to any Web Browser or Mobile Device connected to the Internet and having a WS service or session running.
+**SPLIT Reverse** is a multiplexed channel that enables to generate Video Real-Time Communications from your Call Center (Outbound) to any Web Browser or Mobile Device connected to the Internet and having a WS service or session running.
 
 ![SPLIT Reverse Diagram](/postimages/technologies/ivrpowers-turnkey-screen.021.png)
 

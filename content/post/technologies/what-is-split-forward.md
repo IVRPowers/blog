@@ -20,7 +20,7 @@ comments = true
 
 ## How does SPLIT Forward work?
 
-SPLIT Forward is a special multiplexed channel that enables to receive Video Real-Time Communications from any Web Browsers or Mobile Devices to your Call Center (Inbound) using and keeping all existing VoIP channels already deployed.
+**SPLIT Forward** is a special multiplexed channel that enables to receive Video Real-Time Communications from any Web Browsers or Mobile Devices in a Call Center (Inbound) using and empowering all existing VoIP channels already deployed.
 
 ![SPLIT Forward Diagram](/postimages/technologies/ivrpowers-turnkey-screen.020.png)
 
