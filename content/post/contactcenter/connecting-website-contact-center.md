@@ -3,19 +3,21 @@ categories = ["contact center"]
 date = "2020-01-28T18:00:00+02:00"
 description = "Customer Engagement"
 draft = false
-tags = ["rtc","telephony","contactcenter","livechat"]
-title = "Connecting your Website and Contact Center"
+tags = ["rtc","telephony","contactcenter","livechat","widget"]
+title = "How to connect your Website to a Contact Center?"
 image = "/postimages/contactcenter/Text-Voice-Video-Chat.010.jpeg"
 
 +++
 
-#	The old way: What others still doing…
+#	The Old Way
+---
+Outdated technologies are weighing companies down by limiting their view of customers and making it difficult to connect with the new digital age interactions over IP.
 
 ![The Old Way](/postimages/contactcenter/Text-Voice-Video-Chat.011.jpeg)
 ------------
 ###### Photo source: Unplash. Creative Commons
 
-Outdated technologies are weighing companies down by limiting their view of customers and making it difficult to connect with the new digital age interactions over IP.
+> What others still doing…
 
 ###	Click-to-Call & Callback
 
@@ -34,21 +36,23 @@ This option is expensive for companies, they have to pay each minute spend to re
 This option is useful for the first asynchronous interaction but could be frustrating if the user can’t directly speak or get a face-to-face conversation.
 
 
-#	The New Way: What we recommend to do…
-
-Interactive Powers enables turnkey solutions for real-time communications widgets that transform the customer journey with customizable features for any devices.
+#	The New Way
+---
+Interactive Powers enables turnkey solutions for real-time communications widgets that transform the customer journey with customizable features for any devices. 
 
 ![The New Way](/postimages/contactcenter/Text-Voice-Video-Chat.012.jpeg)
 ------------
 ###### Photo source: Unplash. Creative Commons
 
+> What we recommend to do… 
+
 ###	Real-time Communications (WebRTC)
 
 Click-to-call has to be compliant with WebRTC to provide low latency interactions in modern browsers and get the best user experience for online users.
 
-###	Escalating Text, Voice, Video
+###	Escalate Text, Voice, Video
 
-Customers conversations require a flexible communication streams integrated or on demand activated for text, voice, video and data / web collaboration.
+Customers conversations require flexible communication streams: text, voice, video and data with on demand activation. Escalating improve significatly Customer Experience.
 
 ###	Omnichannel Call Center & CRM Integration
 

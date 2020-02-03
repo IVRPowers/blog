@@ -21,27 +21,27 @@ The quality of client relations is a sure indicator of the success of any compan
 
 Provide different kind of designs and get a white-label customization according to your brand preferences and business requirements. Any widget must provide settings and design for your company or services.
 
-##	2. Escalating Text, Voice, Video
+##	2. Escalate Text, Voice, Video
 
 Make your communications integrated and flexible, allow your users and agent to connect with text, voice and video anytime. Your service must enable micro, speaker o webcam according to the context.
 
 ##	3. Web Responsive Design
 
-Any existing design has to be responsive to provide a good look&feel on any screen size or device approach withour any specific plugin. Your service as to work on any modern web browser.
+Any web design has to be responsive to provide a good experience,for any screen size or mobile device without any specific plugin. Your service as to work with a modern look&feel on any updated web browser.
 
 ##	4. Click-to-Call floating buttons
 
-Provide floating buttons for a better user experience and connect better your website with your support and sales support. This buttons must be inserted with few lines of HTML or JavaScript code.
+Provide floating buttons for a better user experience and connect better your website with your support and sales support. Theses buttons have to be inserted with a short code, few lines of HTML or JavaScript.
 
 ##	5. Mobile iOS / Android enabled
 
-Mobile Devices are key for any properly connected company, most users consider them their first device. Most of them won’t spend anymore time with outdated webpages or not running directly on iOS or Android devices. 
+Mobile Devices are key for any connected company, most users consider their phone as their first Internet device. Most of customers won’t spend any time browsing outdated websistes that are not compliant with iOS or Android. 
 
 ##	6. HTML5 standard, WebRTC powered
 
-Open Standards are not an option to provide an advanced user interface, white-labeled or turnkey configured. WebRTC is the native protocol for modern web browser to get most efficient real-time communications.
+Open Standards are not an option to deliver an advanced user interface, white-labeled or turnkey configured. WebRTC is the native protocol for modern web browser to get most efficient real-time communications.
 
-##	7. Emojis, Links, Attachments, Screen Sharing enabled
+##	7. Emojis, Links, File or Screen Sharing enabled
 
 Express yourself with vibrant stickers and emojis, digital age customers connect better with your agents in a simplest way. Emojis, attachements,... help your processes to become more productive and reliable.
 

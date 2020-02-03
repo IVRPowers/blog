@@ -1,24 +1,26 @@
 +++
 categories = ["products"]
 date = "2020-01-11T15:00:00+02:00"
-description = "Recording Storage for Later Playback."
+description = "Cloud Storage for Later Playback."
 draft = false
 tags = ["cpaas", "saas", "cloud","videortc","webrtc"]
-title = "Video RTC Recording"
+title = "Cloud Storage · Video Recording"
 featured = false
-image = "/postimages/products/video-recording-ivrpowers.001.jpeg"
+image = "/postimages/products/video-recording-ivrpowers.004.png"
 +++
 
-![Video Recording](/postimages/products/video-recording-ivrpowers.001.jpeg)
+![Video Recording](/postimages/products/video-recording-ivrpowers.004.png)
 
-# Video & Audio Recording is designed as a Coud Hosting service for any Contact Center.
+# Securely archive all your audio / video streams in  MP4 blended file or as RAW separate files.
 ---
 
-[Video RTC](https://www.ivrpowers.com/videortc/) (WebRTC) platforms enable you to record all audio and video streams of your services in a secure, scalable and reliant mode. Video Recording is connected to the  [SPLIT](https://blog.ivrpowers.com/post/technologies/what-is-split/) functions to process all video & audio calls of a Contact Center agents-user interactions.
+[Video RTC](https://www.ivrpowers.com/videortc/) (WebRTC) platforms enable to record all audio and video streams of your services to a secure, scalable Cloud Storage. Video Recording is connected to the  [SPLIT](https://blog.ivrpowers.com/post/technologies/what-is-split/) Forward / Reverse in order to process all video calls of your Contact Center.
+
+![Video Recording](/postimages/products/video-recording-ivrpowers.001.png)
 
 ##	Service Conditions
 
-This recording service is available on [Cloud Hosting](https://www.ivrpowers.com/cloud-hosting/) CPaaS / SaaS modality for AWS. If your are targeting on-premise or specific IaaS deployment you can contact our Sales.
+This cloud recording service is available for [CPaaS / SaaS](https://www.ivrpowers.com/cloud-hosting/)) modality on AWS. If your are targeting on-premise or specific IaaS deployment you can contact our Sales.
 
 | Type | IaaS | Regions | Storage | Security |
 |-----------|-----------|-----------|-----------|-----------|
@@ -32,20 +34,20 @@ This recording service is available on [Cloud Hosting](https://www.ivrpowers.com
 | RAW | Default | Include 4 streams + 1 info files, ready to be converted to WebM. |
 | MP4 | Generated | Include 1 blended file with all multimedia streams mixed in MP4. |
 
-##	Recording Files Sizing
+##	Recording Sizing
 
 Format: 640x480 (2 peers)
 
-| Duration | Low <80 kbps | Medium 128 kbps | High >300 kbps |
+| Duration | LD <80 kbps | SD 128 kbps | HD >300 kbps |
 |-----------|-----------|-----------|-----------|
 | 1 min | 1,5 Mb | 2,5 Mb | 16 Mb |
 | 1 h (60 min) | 90 Mb | 150 Mb | 1 Gb |
 | 1 day (24 h) | 2,16 Gb | 3,6 Gb | 24 Gb |
 | 1 month (30 days) | 64,8 Gb | 108 Gb | 720 Gb |
 
-##	Storage Unit Packs
+##	Storage Packs
 
-| Unit Pack | Size | Formats | MP4 blended | SSH/FTP | MP4 stored |
+| Unit Pack | Size | Formats | MP4 blended | SSH / FTP | MP4 storage |
 |-----------|-----------|-----------|-----------|-----------|-----------|
 | RecStorage1 | 100 Gb, 500 Gb, 1 Tb | RAW, MP4 |◾️ | ◽️ | ◽️ | 
 | RecStorage2 | 100 Gb, 500 Gb, 1 Tb  | RAW, MP4 |◾️ | ◾️ | ◽️ | 
@@ -57,11 +59,11 @@ To request any more storage capacity, please contact our Sales team.
 
 All [Video Gateways](https://www.ivrpowers.com/videortc/) (WebRTC) developed by Interactive Powers include a special [SPLIT](https://blog.ivrpowers.com/post/technologies/what-is-split/) module which allows separate the media streams (video - audio - data) for any communication between users and agents. This development is based on SIP  and [WebRTC](https://blog.ivrpowers.com/post/technologies/what-is-webrtc/) peers communications for the integration of voice, video and data in Contact Centers.
 
-![Video Recording Process](/postimages/products/video-recording-ivrpowers.025.jpeg)
+![Video Recording Process](/postimages/products/video-recording-ivrpowers.025.png)
 
 ###	Step 1. Streams recording
 
-A Videocall is initiated by a user or agent into the Video Gateway.  This session will be composed of for media streams (agent-video, agent-audio, user-video, user-video) blended together in a single interaction with an info file.
+A Videocall is initiated by a user or agent into the Video Gateway.  This session will be composed of four media streams (agent-video, agent-audio, user-video, user-video) blended together in a single compressed RAW file.
 
 ###	Step 2. S3 Bucket archiving
 
@@ -69,22 +71,22 @@ The Video Gateway converts each stream to a regular RAW files that can be transf
 
 ###	Step 3. MP4 / RAW on demand access
 
-All Video Stream in RAW can only be played by the Video Gateway convertor or dual-player. To get a unique file in MP4 (video & audio) or MP3 (audio) you can ask the Video Recording Service to generate it from the S3 bucket. This format can played on most existing video players and is easier to manage and store in an external system if required. The MP4 file includes both the agent and the user video mixed.
+All Video Stream in RAW can only be played by the Video Gateway convertor or dual-player. To get a unique file in MP4 (video & audio) you can ask the Video Recording Service to generate it. The MP4 format can played on most existing video players and is easier to manage; it includes both the agent and the user video mixed.
 
 ###	Step 4. SSH / FTP batch exportation
 
-Most quality insurance process in a Contact Center can require to play, access and export in MP4 / MP3 a specific conversation, the video recording service allow to make a batch exportation using an SSH or FTP from the S3 bucket.
+Most quality insurance process in a Contact Center can require to play, access and export in MP4 / MP3 a list of video calls / conversations, the video recording service enables to make a batch exportation using an SSH or FTP from the S3 bucket.
 
 ###	Step 5. API content access
 
-Customers can have access to manage their own contents in order to get RAW or MP4 files recorded for external usages or other systems. Each service has an account and all functions are running over AWS secure API and secure tools.
+Customers can have access to manage their own contents in order to get RAW or MP4 files recorded for external usages or other systems. Each service has an account and all functions are running over AWS / API and secure S3 tools.
 
 ##	Key Benefits
 ---
 
-###	Real-time Video Recording
+###	Real-time Recording
 
-You can record all your calls in real time from the video gateway and access your archives immediately once released in the RAW format used by our WebRTC gateways.
+You can record all your video calls in real time from the video gateway and access your archives immediately once released in the RAW format used by our WebRTC gateways.
 
 ###	Storage Distribution
 
@@ -101,7 +103,7 @@ Recorded data is AES 256-bit encrypted at rest or in transit, providing the high
 ---
 ##	Video recording for Contact Centers
 
-This operation mode has various advantages when integrating the video channel into an existing Contact Center strategy, namely: Agents can use their regular phone to receive the audio stream of video calls like any other regular call treatment, routing strategies, IVR flows, ACD distribution, etc.. Now, you can have all video recording data properly stored, protected and available at any time without any complex procedures.
+This operation mode has various advantages when integrating the video channel into an existing Contact Center strategy, namely: Agents can use their regular phone to receive the audio stream of video calls like any other regular call treatment, routing strategies, IVR flows, CTI, PBX / ACD distribution, etc.. Now, you can have all video recording data properly stored, protected and available at any time without any complex procedures.
 
 ---
-[Interactive Powers](http://www.ivrpowers.com/) - Streamline your business communications
+[Interactive Powers](https://www.ivrpowers.com/) - Streamline your business communications
