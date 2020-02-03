@@ -14,7 +14,7 @@ comments = true
 #	Make Video calls from your Contact Center to Web Browsers or Mobile Devices.
 ---
 
-Video Gateways (WebRTC) developed by Interactive Powers include a special SPLIT module which enable to separate and synchronize media streams (video - audio - data) for any communication between users and agents. This development is based on SIP and WebRTC peers communications for the integration of voice, video and data in Contact Centers.
+[Video Gateways](https://ivrpowers.com/videortc) (WebRTC) developed by Interactive Powers include a special SPLIT module which enable to separate and synchronize media streams (video - audio - data) for any communication between users and agents. This development is based on SIP and WebRTC peers communications for the integration of voice, video and data in Contact Centers.
 
 > The Video Channel (Outbound) for existing Call Centers without worries.
 
@@ -22,15 +22,15 @@ Video Gateways (WebRTC) developed by Interactive Powers include a special SPLIT 
 
 SPLIT Reverse is a multiplexed channel that enables to generate Video Real-Time Communications from your Call Center (Outbound) to any Web Browser or Mobile Device connected to the Internet and having a WS service or session running.
 
-![SPLIT Reverse](/postimages/technologies/ivrpowers-turnkey-screen.021.png)
+![SPLIT Reverse Diagram](/postimages/technologies/ivrpowers-turnkey-screen.021.png)
 
-####	Step 1. Audio & Video Decouplexing
+####	Step 1. Callback Event (WS)
 
-####	Step 2. WebRTC to SIP Converting (SPLIT)
+####	Step 2. Join Audio Room (SWITCH)
 
-####	Step 3. Video Streaming
+####	Step 3. WebRTC to SIP Converting (SPLIT)
 
-####	Step 4. Escalating (Text, Audio, Video)
+####	Step 4. Video Streaming
 
 ##	What are Web Browsers supported?
 

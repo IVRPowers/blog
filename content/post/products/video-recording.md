@@ -20,7 +20,7 @@ image = "/postimages/products/video-recording-ivrpowers.004.png"
 
 ##	Service Conditions
 
-This cloud recording service is available for [CPaaS / SaaS](https://www.ivrpowers.com/cloud-hosting/)) modality on AWS. If your are targeting on-premise or specific IaaS deployment you can contact our Sales.
+This cloud recording service is available for [CPaaS / SaaS](https://www.ivrpowers.com/cloud-hosting/) on AWS. If your are targeting on-premise or specific IaaS deployment you can contact our Sales.
 
 | Type | IaaS | Regions | Storage | Security |
 |-----------|-----------|-----------|-----------|-----------|
