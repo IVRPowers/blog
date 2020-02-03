@@ -8,8 +8,28 @@
   </url>
   
   <url>
+    <loc>https://blog.ivrpowers.com/post/general/interactive-powers-brand-media-kit/</loc>
+    <lastmod>2020-01-30T20:40:07+02:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://blog.ivrpowers.com/post/general/about-interactive-powers/</loc>
     <lastmod>2017-06-12T20:40:07+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.ivrpowers.com/post/technologies/what-is-split-reverse/</loc>
+    <lastmod>2020-02-01T16:20:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.ivrpowers.com/post/technologies/videortc-microsoft-edge/</loc>
+    <lastmod>2020-02-01T14:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.ivrpowers.com/post/technologies/what-is-split-forward/</loc>
+    <lastmod>2020-02-01T10:00:00+02:00</lastmod>
   </url>
   
   <url>
@@ -1374,6 +1394,12 @@
   </url>
   
   <url>
+    <loc>https://blog.ivrpowers.com/tags/brand/</loc>
+    <lastmod>2020-01-30T20:40:07+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://blog.ivrpowers.com/tags/branding/</loc>
     <lastmod>2017-07-06T14:08:06+02:00</lastmod>
     <priority>0</priority>
@@ -1416,7 +1442,7 @@
   
   <url>
     <loc>https://blog.ivrpowers.com/tags/cctr/</loc>
-    <lastmod>2018-12-05T00:18:00+02:00</lastmod>
+    <lastmod>2020-02-01T16:20:00+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1555,6 +1581,12 @@
   <url>
     <loc>https://blog.ivrpowers.com/tags/ecommerce/</loc>
     <lastmod>2018-07-04T20:00:00+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.ivrpowers.com/tags/edge/</loc>
+    <lastmod>2020-02-01T14:00:00+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1704,7 +1736,7 @@
   
   <url>
     <loc>https://blog.ivrpowers.com/tags/marketing/</loc>
-    <lastmod>2017-06-12T20:40:07+02:00</lastmod>
+    <lastmod>2020-01-30T20:40:07+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1722,7 +1754,7 @@
   
   <url>
     <loc>https://blog.ivrpowers.com/tags/microsoft/</loc>
-    <lastmod>2019-09-08T12:00:00+01:00</lastmod>
+    <lastmod>2020-02-01T14:00:00+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1830,7 +1862,7 @@
   
   <url>
     <loc>https://blog.ivrpowers.com/tags/rtc/</loc>
-    <lastmod>2020-01-28T18:00:00+02:00</lastmod>
+    <lastmod>2020-02-01T16:20:00+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1908,7 +1940,7 @@
   
   <url>
     <loc>https://blog.ivrpowers.com/tags/split/</loc>
-    <lastmod>2017-06-21T00:20:05+02:00</lastmod>
+    <lastmod>2020-02-01T16:20:00+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1950,7 +1982,7 @@
   
   <url>
     <loc>https://blog.ivrpowers.com/categories/technologies/</loc>
-    <lastmod>2019-09-08T12:00:00+01:00</lastmod>
+    <lastmod>2020-02-01T16:20:00+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -2052,7 +2084,7 @@
   
   <url>
     <loc>https://blog.ivrpowers.com/tags/videortc/</loc>
-    <lastmod>2020-01-26T21:00:00+02:00</lastmod>
+    <lastmod>2020-02-01T14:00:00+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -2124,7 +2156,13 @@
   
   <url>
     <loc>https://blog.ivrpowers.com/tags/webrtc/</loc>
-    <lastmod>2020-01-26T21:00:00+02:00</lastmod>
+    <lastmod>2020-02-01T16:20:00+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.ivrpowers.com/tags/widget/</loc>
+    <lastmod>2020-01-28T18:00:00+02:00</lastmod>
     <priority>0</priority>
   </url>
   

@@ -6,10 +6,30 @@
     <description>Recent content in Split on Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 21 Jun 2017 00:20:05 +0200</lastBuildDate>
+    <lastBuildDate>Sat, 01 Feb 2020 16:20:00 +0200</lastBuildDate>
     
 	<atom:link href="https://blog.ivrpowers.com/tags/split/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>What is SPLIT Reverse?</title>
+      <link>https://blog.ivrpowers.com/post/technologies/what-is-split-reverse/</link>
+      <pubDate>Sat, 01 Feb 2020 16:20:00 +0200</pubDate>
+      
+      <guid>https://blog.ivrpowers.com/post/technologies/what-is-split-reverse/</guid>
+      <description>Receive Video calls from Web Browsers or Mobile Devices in your Contact Center. Video Gateways (WebRTC) developed by Interactive Powers include a special SPLIT module which enable to separate and synchronize media streams (video - audio - data) for any communication between users and agents. This development is based on SIP and WebRTC peers communications for the integration of voice, video and data in Contact Centers.
+ The Video Channel (Outbound) for existing Call Centers without worries.</description>
+    </item>
+    
+    <item>
+      <title>What is SPLIT Forward?</title>
+      <link>https://blog.ivrpowers.com/post/technologies/what-is-split-forward/</link>
+      <pubDate>Sat, 01 Feb 2020 10:00:00 +0200</pubDate>
+      
+      <guid>https://blog.ivrpowers.com/post/technologies/what-is-split-forward/</guid>
+      <description>Receive Video calls from Web Browsers or Mobile Devices in your Contact Center. Video Gateways (WebRTC) developed by Interactive Powers include a special SPLIT module which enable to separate and synchronize media streams (video - audio - data) for any communication between users and agents. This development is based on SIP and WebRTC peers communications for the integration of voice, video and data in Contact Centers.
+ The Video Channel (Inbound) for existing Call Centers without worries.</description>
+    </item>
     
     <item>
       <title>What is SPLIT?</title>

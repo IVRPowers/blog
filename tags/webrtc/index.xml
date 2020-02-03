@@ -6,10 +6,39 @@
     <description>Recent content in Webrtc on Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 26 Jan 2020 21:00:00 +0200</lastBuildDate>
+    <lastBuildDate>Sat, 01 Feb 2020 16:20:00 +0200</lastBuildDate>
     
 	<atom:link href="https://blog.ivrpowers.com/tags/webrtc/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>What is SPLIT Reverse?</title>
+      <link>https://blog.ivrpowers.com/post/technologies/what-is-split-reverse/</link>
+      <pubDate>Sat, 01 Feb 2020 16:20:00 +0200</pubDate>
+      
+      <guid>https://blog.ivrpowers.com/post/technologies/what-is-split-reverse/</guid>
+      <description>Receive Video calls from Web Browsers or Mobile Devices in your Contact Center. Video Gateways (WebRTC) developed by Interactive Powers include a special SPLIT module which enable to separate and synchronize media streams (video - audio - data) for any communication between users and agents. This development is based on SIP and WebRTC peers communications for the integration of voice, video and data in Contact Centers.
+ The Video Channel (Outbound) for existing Call Centers without worries.</description>
+    </item>
+    
+    <item>
+      <title>Announcing Microsoft Edge support for Video RTC</title>
+      <link>https://blog.ivrpowers.com/post/technologies/videortc-microsoft-edge/</link>
+      <pubDate>Sat, 01 Feb 2020 14:00:00 +0200</pubDate>
+      
+      <guid>https://blog.ivrpowers.com/post/technologies/videortc-microsoft-edge/</guid>
+      <description>Image source: Interactive Powers&amp;rsquo; elaboration The Video RTC Gateway is now ready to run with Edge Browser over Windows computers and devices. At Interactive Powers, we are really excited that Video RTC platforms and API Framework / Mobile SDK are now supporting Microsoft’s new Chromium based Edge Browser aka Edgium. From now, your real-time applications will work on Microsoft’s latest Edge browser released without any changes or updates in your existing code / services already deployed!</description>
+    </item>
+    
+    <item>
+      <title>What is SPLIT Forward?</title>
+      <link>https://blog.ivrpowers.com/post/technologies/what-is-split-forward/</link>
+      <pubDate>Sat, 01 Feb 2020 10:00:00 +0200</pubDate>
+      
+      <guid>https://blog.ivrpowers.com/post/technologies/what-is-split-forward/</guid>
+      <description>Receive Video calls from Web Browsers or Mobile Devices in your Contact Center. Video Gateways (WebRTC) developed by Interactive Powers include a special SPLIT module which enable to separate and synchronize media streams (video - audio - data) for any communication between users and agents. This development is based on SIP and WebRTC peers communications for the integration of voice, video and data in Contact Centers.
+ The Video Channel (Inbound) for existing Call Centers without worries.</description>
+    </item>
     
     <item>
       <title>Build memorable responsive Real-Time Communications Widgets.</title>
@@ -41,13 +70,13 @@ Text Chat Some online businesses requires to make the first step enabling a text
     </item>
     
     <item>
-      <title>Video RTC Recording</title>
+      <title>Cloud Storage · Video Recording</title>
       <link>https://blog.ivrpowers.com/post/products/video-recording/</link>
       <pubDate>Sat, 11 Jan 2020 15:00:00 +0200</pubDate>
       
       <guid>https://blog.ivrpowers.com/post/products/video-recording/</guid>
-      <description>Video &amp;amp; Audio Recording is designed as a Coud Hosting service for any Contact Center. Video RTC (WebRTC) platforms enable you to record all audio and video streams of your services in a secure, scalable and reliant mode. Video Recording is connected to the SPLIT functions to process all video &amp;amp; audio calls of a Contact Center agents-user interactions.
-Service Conditions This recording service is available on Cloud Hosting CPaaS / SaaS modality for AWS.</description>
+      <description>Securely archive all your audio / video streams in MP4 blended file or as RAW separate files. Video RTC (WebRTC) platforms enable to record all audio and video streams of your services to a secure, scalable Cloud Storage. Video Recording is connected to the SPLIT Forward / Reverse in order to process all video calls of your Contact Center.
+Service Conditions This cloud recording service is available for CPaaS / SaaS) modality on AWS.</description>
     </item>
     
     <item>

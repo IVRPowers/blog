@@ -6,19 +6,40 @@
     <description>Recent content in Rtc on Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 28 Jan 2020 18:00:00 +0200</lastBuildDate>
+    <lastBuildDate>Sat, 01 Feb 2020 16:20:00 +0200</lastBuildDate>
     
 	<atom:link href="https://blog.ivrpowers.com/tags/rtc/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Connecting your Website and Contact Center</title>
+      <title>What is SPLIT Reverse?</title>
+      <link>https://blog.ivrpowers.com/post/technologies/what-is-split-reverse/</link>
+      <pubDate>Sat, 01 Feb 2020 16:20:00 +0200</pubDate>
+      
+      <guid>https://blog.ivrpowers.com/post/technologies/what-is-split-reverse/</guid>
+      <description>Receive Video calls from Web Browsers or Mobile Devices in your Contact Center. Video Gateways (WebRTC) developed by Interactive Powers include a special SPLIT module which enable to separate and synchronize media streams (video - audio - data) for any communication between users and agents. This development is based on SIP and WebRTC peers communications for the integration of voice, video and data in Contact Centers.
+ The Video Channel (Outbound) for existing Call Centers without worries.</description>
+    </item>
+    
+    <item>
+      <title>What is SPLIT Forward?</title>
+      <link>https://blog.ivrpowers.com/post/technologies/what-is-split-forward/</link>
+      <pubDate>Sat, 01 Feb 2020 10:00:00 +0200</pubDate>
+      
+      <guid>https://blog.ivrpowers.com/post/technologies/what-is-split-forward/</guid>
+      <description>Receive Video calls from Web Browsers or Mobile Devices in your Contact Center. Video Gateways (WebRTC) developed by Interactive Powers include a special SPLIT module which enable to separate and synchronize media streams (video - audio - data) for any communication between users and agents. This development is based on SIP and WebRTC peers communications for the integration of voice, video and data in Contact Centers.
+ The Video Channel (Inbound) for existing Call Centers without worries.</description>
+    </item>
+    
+    <item>
+      <title>How to connect your Website to a Contact Center?</title>
       <link>https://blog.ivrpowers.com/post/contactcenter/connecting-website-contact-center/</link>
       <pubDate>Tue, 28 Jan 2020 18:00:00 +0200</pubDate>
       
       <guid>https://blog.ivrpowers.com/post/contactcenter/connecting-website-contact-center/</guid>
-      <description>The old way: What others still doing…  Photo source: Unplash. Creative Commons Outdated technologies are weighing companies down by limiting their view of customers and making it difficult to connect with the new digital age interactions over IP.
-Click-to-Call &amp;amp; Callback This option requires to get the user phone number in oder to make a call; remember all new digital customers don’t like to give up a cell or landline number anymore.</description>
+      <description>The Old Way Outdated technologies are weighing companies down by limiting their view of customers and making it difficult to connect with the new digital age interactions over IP.
+ Photo source: Unplash. Creative Commons  What others still doing…
+ Click-to-Call &amp;amp; Callback This option requires to get the user phone number in oder to make a call; remember all new digital customers don’t like to give up a cell or landline number anymore.</description>
     </item>
     
     <item>
