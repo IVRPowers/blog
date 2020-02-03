@@ -11,7 +11,7 @@ comments = true
 
 ![SPLIT Reverse](/postimages/technologies/ivrpowers-turnkey-screen.018.png)
 
-#	Receive Video calls from Web Browsers or Mobile Devices in your Contact Center.
+#	Make Video calls from your Contact Center to Web Browsers or Mobile Devices.
 ---
 
 Video Gateways (WebRTC) developed by Interactive Powers include a special SPLIT module which enable to separate and synchronize media streams (video - audio - data) for any communication between users and agents. This development is based on SIP and WebRTC peers communications for the integration of voice, video and data in Contact Centers.
