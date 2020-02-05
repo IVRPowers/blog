@@ -18,9 +18,9 @@ comments = true
 
 > The Video Channel (Inbound) for existing Call Centers without worries.
 
-## How does SPLIT Forward work?
+## How does Peer-to-Peer work?
 
-**Peer to Peer** (WebRTC) connection enables to make Real-Time Communications with many Web Browsers or Mobile Devices.
+**Peer-to-Peer** (WebRTC) enables to connect many Web Browsers or Mobile Devices with Real-Time Communications.
 
 ![Peer-to-Peer Diagram](/postimages/technologies/ivrpowers-turnkey-screen.030.png)
 
@@ -28,9 +28,9 @@ comments = true
 
 ####	Step 2. WebRTC to SIP Converting (SPLIT)
 
-####	Step 3. Video Streaming
+####	Step 3. DMF enabled
 
-####	Step 4. Escalating (Text, Audio, Video)
+####	Step 4. SIP Caller ID overload
 
 ##	What are Web Browsers supported?
 
@@ -69,7 +69,7 @@ You can connect any kind of SIP compliant PBX or ACD (Automatic Call Distributio
 
 ##	Need to add it right now?
 
-Please contact our Sales Support team for pricing and more information.
+Please contact our [Sales Support](https://www.ivrpowers.com/support-services/) team for pricing and more information.
 
 ---
 [Interactive Powers](http://www.ivrpowers.com/) - Streamline your business communications

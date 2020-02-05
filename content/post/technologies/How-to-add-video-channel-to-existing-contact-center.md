@@ -20,21 +20,21 @@ In today’s competitive market, companies need call center software to connect 
 
 ![Video RTC Empowered Omnichannel](/postimages/technologies/ivrpowers-turnkey-screen.024.png)
 
-Our Video Gateways (WebRTC) extend the capabilities of existing Call Center infrastructure without costly upgrades with four main interactions and use cases:
+Our [Video Gateway](https://www.ivrpowers.com/videortc/) (WebRTC) extends the capabilities of an existing Call Center infrastructure without costly upgrades with four main interactions and use cases:
 
-###	1️⃣ Video Channel (Inbound) · SPLIT Forward
+###	◾️	Video Channel (Inbound)
 Receive Video calls from Web Browsers or Mobile Devices in your Contact Center.
 This process is called [SPLIT Forward](https://blog.ivrpowers.com/post/technologies/what-is-split-forward/) in our Video Gateways (WebRTC).
 
-###	2️⃣ Video Channel (Outbound)  · SPLIT Reverse
+###	◾️	Video Channel (Outbound)
 Make Video calls from your Contact Center to Web Browsers or Mobile Devices.
 This process is called [SPLIT Reverse](https://blog.ivrpowers.com/post/technologies/what-is-split-reverse/) in our Video Gateway (WebRTC).
 
-###	3️⃣ Video Call · Peer-to-Peer (WebRTC)
+###	◾️	Video Call · Peer-to-Peer
 Make and Receive Video Calls between two peers connected within a WebRTC session to create a Live Communication.
 This process is called [Peer-to-Peer](https://blog.ivrpowers.com/post/technologies/what-is-peer-to-peer/) in our Video Gateways.
 
-###	4️⃣ Audio Call · WebRTC-to-SIP (Trunking)
+###	◾️	Audio Call · WebRTC-to-SIP
 Convert WebRTC Audio Calls from Web Browsers or Mobile Devices Users to a SIP Trunk to connect PSTN or VoIP networks.
 This process is called [WebRTC-to-SIP](https://blog.ivrpowers.com/post/technologies/what-is-webrtc-to-sip/) in our Video Gateways.
 

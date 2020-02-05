@@ -69,7 +69,7 @@ You can connect any kind of SIP compliant PBX or ACD (Automatic Call Distributio
 
 ##	Need to add it right now?
 
-Please contact our Sales Support team for pricing and more information.
+Please contact our [Sales Support](https://www.ivrpowers.com/support-services/) team for pricing and more information.
 
 ---
 [Interactive Powers](http://www.ivrpowers.com/) - Streamline your business communications

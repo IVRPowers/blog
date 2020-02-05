@@ -4,7 +4,7 @@ date = "2020-02-04T12:00:00+02:00"
 description = "Technology Update"
 draft = false
 tags = ["webrtc","videortc", "safari", "apple"]
-title = "Video RTC · Web Browsers support update in 2020!"
+title = "Video RTC · Web Browsers support in 2020!"
 image = "/postimages/technologies/ivrpowers-web-browsers-2020.013.jpeg"
 comments = true
 +++ 
