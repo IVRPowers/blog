@@ -6,10 +6,41 @@
     <description>Recent content in Split on Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 01 Feb 2020 16:20:00 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 04 Feb 2020 20:00:00 +0200</lastBuildDate>
     
 	<atom:link href="https://blog.ivrpowers.com/tags/split/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>How to add a Video Channel to your existing Contact Center?</title>
+      <link>https://blog.ivrpowers.com/post/technologies/how-to-add-video-channel-to-existing-contact-center/</link>
+      <pubDate>Tue, 04 Feb 2020 20:00:00 +0200</pubDate>
+      
+      <guid>https://blog.ivrpowers.com/post/technologies/how-to-add-video-channel-to-existing-contact-center/</guid>
+      <description>Transform your existing call center into a more engaging, customizable, and interactive solution with video calls. In today’s competitive market, companies need call center software to connect in real-time cross web browsers and mobile devices. Adding advanced video interactions such web call, video call, live chat, file sharing, co-browsing, screen sharing… give your clients and agents the option to communicate better than ever with your brand.
+ The Empowered Omnichannel: What any Contact Center in the Digital Age should be.</description>
+    </item>
+    
+    <item>
+      <title>What is Peer-to-Peer?</title>
+      <link>https://blog.ivrpowers.com/post/technologies/what-is-peer-to-peer/</link>
+      <pubDate>Tue, 04 Feb 2020 14:00:00 +0200</pubDate>
+      
+      <guid>https://blog.ivrpowers.com/post/technologies/what-is-peer-to-peer/</guid>
+      <description>Make and Receive Video Calls between Web Browsers or Mobile Devices. Video Gateways (WebRTC) developed by Interactive Powers include a SPLIT module which enable to manage and synchronize media streams (video - audio - data) between two peers. This connection is based on a WebRTC communication session running voice, video and data.
+ The Video Channel (Inbound) for existing Call Centers without worries.
+ How does SPLIT Forward work? Peer to Peer (WebRTC) connection enables to make Real-Time Communications with many Web Browsers or Mobile Devices.</description>
+    </item>
+    
+    <item>
+      <title>What is WebRTC-to-SIP?</title>
+      <link>https://blog.ivrpowers.com/post/technologies/what-is-webrt-to-sip/</link>
+      <pubDate>Mon, 03 Feb 2020 10:00:00 +0200</pubDate>
+      
+      <guid>https://blog.ivrpowers.com/post/technologies/what-is-webrt-to-sip/</guid>
+      <description>Receive Audio Calls from Web Browsers or Mobile Devices in your Contact Center. Video Gateways (WebRTC) developed by Interactive Powers include a SPLIT module which enable to control all media streams (video - audio - data) on any communication between users and a SIP softswitch or PBX/ACD. This development is based on SIP and WebRTC peers communications for the integration of voice and data.
+ Connect a Web Widget for any existing Call Centers.</description>
+    </item>
     
     <item>
       <title>What is SPLIT Reverse?</title>
