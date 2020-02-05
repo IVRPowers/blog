@@ -36,7 +36,7 @@ This process is called [Peer-to-Peer](https://blog.ivrpowers.com/post/technologi
 
 ###	◾️	Audio Call · WebRTC-to-SIP
 Convert WebRTC Audio Calls from Web Browsers or Mobile Devices Users to a SIP Trunk to connect PSTN or VoIP networks.
-This process is called [WebRTC-to-SIP](https://blog.ivrpowers.com/post/technologies/what-is-webrtc-to-sip/) in our Video Gateways.
+This process is called [WebRTC-to-SIP](https://blog.ivrpowers.com/post/technologies/what-is-webrt-to-sip/) in our Video Gateways.
 
 ##	Leading Call Centers Suites supported
 

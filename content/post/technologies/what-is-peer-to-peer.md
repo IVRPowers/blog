@@ -24,13 +24,13 @@ comments = true
 
 ![Peer-to-Peer Diagram](/postimages/technologies/ivrpowers-turnkey-screen.030.png)
 
-####	Step 1. Audio & Video Decouplexing
+####	Step 1. Select Destination Peer connected
 
-####	Step 2. WebRTC to SIP Converting (SPLIT)
+####	Step 2. Session establissement between Peers
 
-####	Step 3. DMF enabled
+####	Step 3. Datachannel connected
 
-####	Step 4. SIP Caller ID overload
+####	Step 4. Extensions enabled
 
 ##	What are Web Browsers supported?
 

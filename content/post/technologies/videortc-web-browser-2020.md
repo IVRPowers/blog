@@ -58,7 +58,7 @@ Opera, as well as Mozilla Firefox, implemented WebRTC standard in the 18th versi
 
 [Download Opera](https://www.opera.com/) | Opera Software
 
-##  What kind of devices are supported.
+##  What type of devices are supported.
 
 In 2020, all updated desktop computer and mobile devices can install a default Web Browser enabled to process WebRTC and without any plugin requirement!
 
