@@ -18,6 +18,11 @@
   </url>
   
   <url>
+    <loc>https://blog.ivrpowers.com/post/general/next-itexpo-2020/</loc>
+    <lastmod>2020-02-06T20:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://blog.ivrpowers.com/post/technologies/how-to-add-video-channel-to-existing-contact-center/</loc>
     <lastmod>2020-02-04T20:00:00+02:00</lastmod>
   </url>
@@ -1773,6 +1778,12 @@
   </url>
   
   <url>
+    <loc>https://blog.ivrpowers.com/tags/miami/</loc>
+    <lastmod>2020-02-06T20:00:00+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://blog.ivrpowers.com/tags/microsoft/</loc>
     <lastmod>2020-02-01T14:00:00+02:00</lastmod>
     <priority>0</priority>
@@ -2003,6 +2014,12 @@
   <url>
     <loc>https://blog.ivrpowers.com/categories/technologies/</loc>
     <lastmod>2020-02-04T20:00:00+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.ivrpowers.com/tags/techsupershow/</loc>
+    <lastmod>2020-02-06T20:00:00+02:00</lastmod>
     <priority>0</priority>
   </url>
   
