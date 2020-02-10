@@ -24,6 +24,8 @@ The [Interactive Powers](https://interactivepowers.com) brand is an expression o
 ![Interactive Powers Logo 1](/postimages/general/brand-kit.001.png)
 ![Interactive Powers Logo 2](/postimages/general/brand-kit.002.png)
 
+[Download · Brand Media Kit](https://downloads.ivrpowers.com/?dir=brand-kit)
+
 Our logo can only be used as permitted by our usage guidelines and with permission from our Marketing team. To make sure you are not misusing our brand, just follow these simple rules:
 
 * Don’t alter the Interactive Powers logo in any way.
