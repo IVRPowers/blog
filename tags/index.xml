@@ -6,7 +6,7 @@
     <description>Recent content in Tags on Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 06 Oct 2019 20:00:00 +0200</lastBuildDate>
+    <lastBuildDate>Sun, 09 Feb 2020 18:00:00 +0200</lastBuildDate>
     
 	<atom:link href="https://blog.ivrpowers.com/tags/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,7 +14,7 @@
     <item>
       <title>Ai</title>
       <link>https://blog.ivrpowers.com/tags/ai/</link>
-      <pubDate>Sun, 06 Oct 2019 20:00:00 +0200</pubDate>
+      <pubDate>Sun, 09 Feb 2020 18:00:00 +0200</pubDate>
       
       <guid>https://blog.ivrpowers.com/tags/ai/</guid>
       <description></description>
@@ -464,7 +464,7 @@
     <item>
       <title>Ivr</title>
       <link>https://blog.ivrpowers.com/tags/ivr/</link>
-      <pubDate>Sat, 11 Jan 2020 12:00:00 +0200</pubDate>
+      <pubDate>Sun, 09 Feb 2020 18:00:00 +0200</pubDate>
       
       <guid>https://blog.ivrpowers.com/tags/ivr/</guid>
       <description></description>
@@ -647,6 +647,15 @@
       <pubDate>Wed, 11 Apr 2018 09:30:00 +0100</pubDate>
       
       <guid>https://blog.ivrpowers.com/tags/password/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pbx</title>
+      <link>https://blog.ivrpowers.com/tags/pbx/</link>
+      <pubDate>Sun, 09 Feb 2020 18:00:00 +0200</pubDate>
+      
+      <guid>https://blog.ivrpowers.com/tags/pbx/</guid>
       <description></description>
     </item>
     
@@ -860,7 +869,7 @@
     <item>
       <title>Telephony</title>
       <link>https://blog.ivrpowers.com/tags/telephony/</link>
-      <pubDate>Tue, 28 Jan 2020 18:00:00 +0200</pubDate>
+      <pubDate>Sun, 09 Feb 2020 18:00:00 +0200</pubDate>
       
       <guid>https://blog.ivrpowers.com/tags/telephony/</guid>
       <description></description>
@@ -986,7 +995,7 @@
     <item>
       <title>Voicebot</title>
       <link>https://blog.ivrpowers.com/tags/voicebot/</link>
-      <pubDate>Sun, 06 Oct 2019 20:00:00 +0200</pubDate>
+      <pubDate>Sun, 09 Feb 2020 18:00:00 +0200</pubDate>
       
       <guid>https://blog.ivrpowers.com/tags/voicebot/</guid>
       <description></description>
