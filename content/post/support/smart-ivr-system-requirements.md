@@ -16,7 +16,7 @@ image = "/postimages/support/blogpost-ivrpowers.004.jpeg"
 
 ###	Operating System Requirements
 
-[Smart IVR](https:/ivrpowers.com/voicexml/) platforms are designed to run over a Linux CentOS 7 x86_64 distribution. Please make a minimal Linux Debian installation from Internet, USB or CD / DVD. To download the Linux distribution installation iso file go to: https://www.centos.org 
+[Smart IVR](https://ivrpowers.com/voicexml/) platforms are designed to run over a Linux CentOS 7 x86_64 distribution. Please make a minimal Linux Debian installation from Internet, USB or CD / DVD. To download the Linux distribution installation iso file go to: https://www.centos.org 
 
 | Requirement | Description |
 |-----------|-----------|

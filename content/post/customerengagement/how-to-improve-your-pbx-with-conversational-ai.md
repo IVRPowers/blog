@@ -37,7 +37,7 @@ Provide a human touch could be a warm customer care, but remember this option ma
 
 #	The New Way
 ---
-Enables Conversational AI (Artificial Intelligence) features with a [Voicebot IVR](https://www.ivrpowers.com/portfolio/voicebot/) that transform the customer journey of your phone services without wasting time and improving your business communications.
+Enables [Conversational AI](https://blog.ivrpowers.com/post/trends/ai-contact-center/) (Artificial Intelligence) features with a [Voicebot IVR](https://www.ivrpowers.com/portfolio/voicebot/) that transform the customer journey of your phone services without wasting time and improving your business communications.
 
 ![The New Way](/postimages/customerengagement/slides-2020-01.007.jpeg)
 ------------
@@ -47,15 +47,15 @@ Enables Conversational AI (Artificial Intelligence) features with a [Voicebot IV
 
 ###	Natural Language Understanding (NLU).
 
-Replace old DTMF menus by advanced NLU dialogs and deliver the best customer experience for your callers. It also enables to use Machine Learning in order to train and improve continuously your system.
+Replace old DTMF menus by advanced [NLU](https://blog.ivrpowers.com/post/technologies/what-is-nlu/) dialogs and deliver the best customer experience for your callers. It also enables to use Machine Learning in order to train and improve continuously your system.
 
 ###	Conversational IVR.
 
-Humans dialogs are mostly conversational, let your customers say as they want in order to be connected with a service or person of your company. Conversational IVR enables smarter interactions that will empower your PBX routing better than ever.
+Humans dialogs are mostly conversational, let your customers say as they want in order to be connected with a service or person of your company. [Conversational IVR](https://blog.ivrpowers.com/post/products/conversational-ivr-applications/) enables smarter interactions that will empower your PBX routing better than ever.
 
 ###	Automatic Call Transfer.
 
-Make call transfers to the right extension or to a cellular according to the destination context rules. Don’t think it’s always better to send the call to a human assistance. An IVR with AI can work even better, without any delay and never putting On Hold your callers.
+Make call transfers to the right extension or to a cellular according to the destination context rules. Don’t think it’s always better to send the call to a human assistance. An [IVR](https://blog.ivrpowers.com/post/technologies/what-is-ivr/) with AI can work even better, without any delay and never putting On Hold your callers.
 
 ###	Virtual Assistant.
 
