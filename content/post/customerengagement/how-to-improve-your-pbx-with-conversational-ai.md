@@ -21,11 +21,11 @@ In The New Digital Age, standards commons PBX functions used by most companies a
 
 ###	 DTMF Menus.
 
-Most PBX use touch tone menus to select departments, services or key an extension. Of course, everybody knows to press a key but it’s not really confortable to do with hand free, driving or when you don’t find your option…
+Most PBX use touch tone menus to select departments, services or key an extension. Of course, everybody may knows how to press a key, but it’s not really confortable to do with hands free, driving or when you don’t get the right option…
 
-###	Recording a Voicemail.
+###	Record a Voicemail.
 
-When an extension is not answering or out of time, your PBX system will probably generate a voicemail and hangup. It’s a frustrating siutation for users to leave a message without any more interacction with a company.
+When an extension is not answering or is out of time, your PBX system will probably generate a voicemail and hangup. It’s a very frustrating scenario for many users to leave a message without any chance to interact or get feedback.
 
 ###	 Call Queuing (Waiting On Hold).
 
@@ -33,7 +33,7 @@ Any PBX may use a queue when all agents or receptionist are busy; this situation
 
 ###	Call Receptionist (Human).
 
-Provide a human interaction could be a warm customer care, but remember this interaction may not be expected by users because it do not provide specific value to the call, get the right extension or service in a minimal time is the main customer requirement.
+Provide a human touch could be a warm customer care, but remember this option may not be expected by users because it doesn't provide a specific value to routing call, get the right extension or service in a minimal time is the main customer and business requirement.
 
 #	The New Way
 ---
@@ -45,19 +45,19 @@ Enables Conversational AI (Artificial Intelligence) features with a [Voicebot IV
 
 > What we recommend to do… 
 
-###	Natural Language Understanding.
+###	Natural Language Understanding (NLU).
 
-Replace old DTMF menus by Natural Language Understanding (NLU) interactions and deliver the best customer experience for your callers. NLU enables to use Machine Learning to train and improve continuously your system.
+Replace old DTMF menus by advanced NLU dialogs and deliver the best customer experience for your callers. It also enables to use Machine Learning in order to train and improve continuously your system.
 
-###	Conversational IVR (Dialog).
+###	Conversational IVR.
 
-Humans dialogs are mostly conversational, let your customers say as they want in order to be connected with a service or person of your company. Conversational IVR enables a smart interactions that process better your PBX routing than ever.
+Humans dialogs are mostly conversational, let your customers say as they want in order to be connected with a service or person of your company. Conversational IVR enables smarter interactions that will empower your PBX routing better than ever.
 
 ###	Automatic Call Transfer.
 
 Make call transfers to the right extension or to a cellular according to the destination context rules. Don’t think it’s always better to send the call to a human assistance. An IVR with AI can work even better, without any delay and never putting On Hold your callers.
 
-###	Virtual Assistant (AI).
+###	Virtual Assistant.
 
 Enable a Virtual Assistant (Voicebot) instead of processing low value interactions with your human agents. Remember the cost and availability of a manual call transfer really expensive and inefficient. In the Digital Age, AI integration for your PBX makes sense.
 
