@@ -21,7 +21,7 @@ In The New Digital Age, standards commons PBX functions used by most companies a
 
 ###	 DTMF Menus.
 
-Most PBX use touch tone menus to select departments, services or key an extension. Of course, everybody may knows how to press a key, but **it’s not really confortable to do with hands free**, driving or when you don’t get the right option…
+Most PBX use touch tone menus to select departments, services or key an extension. Of course, everybody may knows how to press a key, but **it’s not really confortable to do this with hands free**, driving or when you don’t get the right option…
 
 ###	Record a Voicemail.
 
@@ -29,11 +29,11 @@ When an extension is not answering or is out of time, your PBX system will proba
 
 ###	 Call Queuing (Waiting On Hold).
 
-Any PBX may use a queue when all agents or receptionist are busy; **this situation is wasting time for callers** and they'll only stay connected if they have a good reason to contact you, otherwise they could leave your phone service for ever.
+Any PBX may use a queue when all agents or receptionist are busy; **this situation is wasting your callers time** and they'll only stay connected if they have a good reason to contact you, otherwise they could leave your phone service for ever.
 
 ###	Call Receptionist (Human).
 
-Provide a human touch could be wonderful customer care, but remember this option may not be expected or valued by callers because it doesn't required during the call routing or getting the right extension. **Get connected easier and faster is the main customer's outcome**.
+Provide a human touch could be wonderful customer care, but remember this option may not be expected or valued by callers because it doesn't required during the call routing or getting the right extension. **Get connected easier and faster is the only first customer's outcome**.
 
 #	The New Way
 ---
@@ -51,7 +51,7 @@ Replace old DTMF menus by advanced [NLU](https://blog.ivrpowers.com/post/technol
 
 ###	Conversational IVR.
 
-**Humans dialogs are mostly conversational**, let your customers say as they want in order to be connected with a service or person of your company. [Conversational IVR](https://blog.ivrpowers.com/post/products/conversational-ivr-applications/) enables smarter interactions that will empower your PBX routing better than ever.
+**Humans dialogs are mostly conversational**, let your customers as they like to ask for a service or a person in your company. [Conversational IVR](https://blog.ivrpowers.com/post/products/conversational-ivr-applications/) enables smarter interactions that will empower your PBX routing better than ever.
 
 ###	Automatic Call Transfer.
 
