@@ -17,7 +17,7 @@
       <pubDate>Sat, 29 Feb 2020 19:00:00 +0200</pubDate>
       
       <guid>https://blog.ivrpowers.com/post/customerengagement/connecting-phone-calls-to-dialogflow/</guid>
-      <description>Photo source: Interactive Powers. Creative Commons What are main questions about connecting a Dialoglow agent to a telephony system? It’s important to get some important differences between the Google Phone Gateway and our DialogFlow Gateway powered by a Smart IVR platform.
+      <description>Photo source: Interactive Powers. Creative Commons What are main questions about connecting a DialogFlow agent to a telephony system? It’s important to get some important differences between the Google Phone Gateway and our DialogFlow Gateway powered by a Smart IVR platform.
 Can I get a Number (PSTN) from any country?  🟢 Phone Gateway = Yes, select a PSTN Number in the list of each available country. 🟢 DialogFlow Gateway = Yes, connect your own DDI Number or any IP PBX extensions.</description>
     </item>
     
