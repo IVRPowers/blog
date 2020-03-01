@@ -29,11 +29,11 @@ When an extension is not answering or is out of time, your PBX system will proba
 
 ###	 Call Queuing (Waiting On Hold).
 
-Any PBX may use a queue when all agents or receptionist are busy; **this situation is wasting your callers time** and they'll only stay connected if they have a good reason to contact you, otherwise they could leave your phone service for ever.
+Most PBX uses a call queue when all agents or receptionists are busy; **this situation is wasting your callers time** so they'll only still connected in the queue, if they have a good reason to contact you, otherwise they could leave your phone service for ever.
 
 ###	Call Receptionist (Human).
 
-Provide a human touch could be wonderful customer care, but remember this option may not be expected or valued by callers because it doesn't required during the call routing or getting the right extension. **Get connected easier and faster is the only first customer's outcome**.
+Provide a human touch could be wonderful customer care, but remember this option may not be expected by callers during the call routing to reach the requested extension or service. **Remember, get connected easier and faster is the only customer's outcome**.
 
 #	The New Way
 ---

@@ -78,7 +78,7 @@ We recommend a minimum dedicated 128kb/s down per downloaded stream, as well as 
 |-----------|-----------|-----------|-----------|
 | Acceptable | >80 kbps | VP8 / Opus | 320x240 @ 30 fps |
 | Acceptable | 128 | VP8 / Opus | 640x480 @ 30 fps |
-| Excelente | <256 | VP8 / Opus | 640x480 @ 30 fps |
+| Excellent | <256 | VP8 / Opus | 640x480 @ 30 fps |
 | Outstanding | 512 | VP8 / Opus | 1280x870 @ 30 fps |
 
 

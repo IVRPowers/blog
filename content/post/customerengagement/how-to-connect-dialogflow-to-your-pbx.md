@@ -1,18 +1,21 @@
 +++
 categories = ["customerengagement"]
-date = "2020-02-11T18:00:00+02:00"
+date = "2020-02-29T18:00:00+02:00"
 description = "Conversational AI"
-draft = true
+draft = false
 tags = ["ivr","voicebot","custexp","AI"]
-title = "How to connect a DialogFlow Voicebot to your PBX?"
-image = "/postimages/general/brand-kit.001.png"
+title = "How to connect DialogFlow to your PBX?"
+image = "/postimages/customerengagement/slides-2020-04.006.jpeg"
 +++
 
-![training](/postimages/general/brand-kit.001.png)
+![Voicebot IVR DialogFlow Gateway](/postimages/customerengagement/slides-diagram-01.005.png)
 -----------
 ###### Photo source: Interactive Powers. Creative Commons
 
-Continuing on our quest of better business communications, both old DTMF menus and *speech direct dialog* are outdated IVR options, we can replace them by the power of a DialogFlow advanced Conversational AI service. 
+#	Build a Voicebot IVR with DialogFlow for your existing PBX and telephony system.
+---
+
+Continuing on our quest of better business communications, both old DTMF menus and *speech direct dialog* are outdated IVR options, we can replace them by the power of a [DialogFlow](https://dialogflow.com/) advanced [Conversational AI](https://blog.ivrpowers.com/post/products/conversational-ivr-applications/) service.  
 
 ##	Prerequisities
 
@@ -20,41 +23,43 @@ Continuing on our quest of better business communications, both old DTMF menus a
 
 You can connect any TTS according to your language and voice preferences. It makes sense to use different voices than Google Assistant, it’s really better.
 
-> Tip: Amazon Polly or Azure, more languages and  voices 
+💡Amazon Polly or Azure provides more languages and voices.
 
 ###	2- Speech Recognition API account (ASR)
 
 You can connect many engines, like Alexa AWS or Azure Speech Recognition, both are good but Google is faster on DialogFlow integration using direct STT processing.
 
-> Tip: Use Google Speech Recognition to speed up your service with DialogFlow direct speech processing.
+💡Use Google Speech Recognition to speed up your service with DialogFlow direct speech processing.
 
 ###	3- Google DialogFlow account and agent (NLU)
 
 DialogFlow is the dialog manager, it will manage all rules, itents and will use AI Machine Learning to improve the conversation itself.
 
-> Tip: Activate Professional for more than…
+💡Activate Professional for more than…
 
 ###	4- Smart IVR subscription account (IVR)
 
 Nothing can work without this, it’s the core engine of the speech integration, the IVR server connects: NLU, TTS, ASR, PBX to get running the whole solution.
 
-> Tip: CPaaS IVR Plus features are required to create advanced phone services with DialogFlow.
+💡CPaaS IVR Plus features are required to create advanced phone services with DialogFlow.
 
 ###	5- Voicebot Framework (APP)
 
 We provide a Conversational App. Framework to manage a Dialogflow Agent interaction. 
 
-> Tip: You may start from scratch… the dialog is so easy!
+💡You may start from scratch… the dialog is so easy!
 
 ###	6- Your PBX or IP Operator (SIP Trunking, DDI Numbering)
 
-> Tip: It’s your own PBX, the main tip is to be SIP compliant.
+Configure a SIP trunk between the IVR server and your PBX or operator.
+
+💡It’s your own PBX, the main condition is to be SIP compliant.
 
 ##	Google Phone Gateway vs DialogFlow Gateway
 
-It’s important to get some important differences between the Google **Phone Gateway [1]** and our **Dialog Gateway [2]** powered by a Smart IVR platform.
+It’s important to get some important differences between the **Google - Phone Gateway** and our **Dialog Gateway** powered by a [Smart IVR](https://www.ivrpowers.com/voicexml) platform.
 
-[Read Gateways Comparision](/customerengagement/phone-gateway-vs-dialogflow-gateway-comparition/)
+[Questions & Answers](/post/customerengagement/connecting-phone-calls-to-dialogflow/)
 
 ##	How to process
 
@@ -105,5 +110,3 @@ Of course previous example can content transactions mixed inside the main Conver
 
 ---
 [Interactive Powers](http://www.ivrpowers.com/) - Streamline your business communications
-
-
