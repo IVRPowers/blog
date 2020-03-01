@@ -6,10 +6,30 @@
     <description>Recent content in Voicebot on Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 09 Feb 2020 18:00:00 +0200</lastBuildDate>
+    <lastBuildDate>Sat, 29 Feb 2020 19:00:00 +0200</lastBuildDate>
     
 	<atom:link href="https://blog.ivrpowers.com/tags/voicebot/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Connecting Phone Calls to DialogFlow</title>
+      <link>https://blog.ivrpowers.com/post/customerengagement/connecting-phone-calls-to-dialogflow/</link>
+      <pubDate>Sat, 29 Feb 2020 19:00:00 +0200</pubDate>
+      
+      <guid>https://blog.ivrpowers.com/post/customerengagement/connecting-phone-calls-to-dialogflow/</guid>
+      <description>Photo source: Interactive Powers. Creative Commons What are main questions about connecting a Dialoglow agent to a telephony system? It’s important to get some important differences between the Google Phone Gateway and our DialogFlow Gateway powered by a Smart IVR platform.
+Can I get a Number (PSTN) from any country?  🟢 Phone Gateway = Yes, select a PSTN Number in the list of each available country. 🟢 DialogFlow Gateway = Yes, connect your own DDI Number or any IP PBX extensions.</description>
+    </item>
+    
+    <item>
+      <title>How to connect DialogFlow to your PBX?</title>
+      <link>https://blog.ivrpowers.com/post/customerengagement/how-to-connect-dialogflow-to-your-pbx/</link>
+      <pubDate>Sat, 29 Feb 2020 18:00:00 +0200</pubDate>
+      
+      <guid>https://blog.ivrpowers.com/post/customerengagement/how-to-connect-dialogflow-to-your-pbx/</guid>
+      <description>Photo source: Interactive Powers. Creative Commons Build a Voicebot IVR with DialogFlow for your existing PBX and telephony system. Continuing on our quest of better business communications, both old DTMF menus and speech direct dialog are outdated IVR options, we can replace them by the power of a DialogFlow advanced Conversational AI service.
+Prerequisities 1- Text-to-Speech API account (TTS) You can connect any TTS according to your language and voice preferences.</description>
+    </item>
     
     <item>
       <title>How to improve your PBX with Conversational AI?</title>

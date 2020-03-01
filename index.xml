@@ -41,6 +41,53 @@ Interactive Powers delivers communication platforms that enables advanced real-t
     </item>
     
     <item>
+      <title>Interactive Powers at next eMerge Americas 2020</title>
+      <link>https://blog.ivrpowers.com/post/general/next-emerge-americas-2020/</link>
+      <pubDate>Sun, 01 Mar 2020 10:00:00 +0200</pubDate>
+      
+      <guid>https://blog.ivrpowers.com/post/general/next-emerge-americas-2020/</guid>
+      <description>Join us next days 30th - 31h March at eMerge Americas event at Miami Beach, Florida For the first time, Interactive Powers (ivrpowers.com) will be attending eMerge Americas, March 30 – 31, 2019 in Miami Beach - Convention Center. eMerge Americas is the premier technology event connecting the Americas. eMerge Americas is not just an event- it’s an ecosystem that is transforming Miami into the Tech Hub of the Americas.</description>
+    </item>
+    
+    <item>
+      <title>Connecting Phone Calls to DialogFlow</title>
+      <link>https://blog.ivrpowers.com/post/customerengagement/connecting-phone-calls-to-dialogflow/</link>
+      <pubDate>Sat, 29 Feb 2020 19:00:00 +0200</pubDate>
+      
+      <guid>https://blog.ivrpowers.com/post/customerengagement/connecting-phone-calls-to-dialogflow/</guid>
+      <description>Photo source: Interactive Powers. Creative Commons What are main questions about connecting a Dialoglow agent to a telephony system? It’s important to get some important differences between the Google Phone Gateway and our DialogFlow Gateway powered by a Smart IVR platform.
+Can I get a Number (PSTN) from any country?  🟢 Phone Gateway = Yes, select a PSTN Number in the list of each available country. 🟢 DialogFlow Gateway = Yes, connect your own DDI Number or any IP PBX extensions.</description>
+    </item>
+    
+    <item>
+      <title>How to connect DialogFlow to your PBX?</title>
+      <link>https://blog.ivrpowers.com/post/customerengagement/how-to-connect-dialogflow-to-your-pbx/</link>
+      <pubDate>Sat, 29 Feb 2020 18:00:00 +0200</pubDate>
+      
+      <guid>https://blog.ivrpowers.com/post/customerengagement/how-to-connect-dialogflow-to-your-pbx/</guid>
+      <description>Photo source: Interactive Powers. Creative Commons Build a Voicebot IVR with DialogFlow for your existing PBX and telephony system. Continuing on our quest of better business communications, both old DTMF menus and speech direct dialog are outdated IVR options, we can replace them by the power of a DialogFlow advanced Conversational AI service.
+Prerequisities 1- Text-to-Speech API account (TTS) You can connect any TTS according to your language and voice preferences.</description>
+    </item>
+    
+    <item>
+      <title>Video RTC (WebRTC) v4.1.1</title>
+      <link>https://blog.ivrpowers.com/post/updates/update-video-rtc-webrtc-4.1.1/</link>
+      <pubDate>Fri, 28 Feb 2020 17:00:00 +0200</pubDate>
+      
+      <guid>https://blog.ivrpowers.com/post/updates/update-video-rtc-webrtc-4.1.1/</guid>
+      <description>Release Note We are pleased to announce that our new Video RTC (Gateway WebRTC) v4.1.1 has been released for suitable production services. This new version includes a hot fix for Chrome Web Browsers. Security researchers from Google&amp;rsquo;s Project Zero found a vulnerability in usrsctplib that has already been fixed, so make sure you pull this latest release if you&amp;rsquo;re using data channels. All users with previous maintained versions can upgrade today.</description>
+    </item>
+    
+    <item>
+      <title>Smart IVR · Speech Recognition Reloaded</title>
+      <link>https://blog.ivrpowers.com/post/products/smart-ivr-speech-recognition-reloaded/</link>
+      <pubDate>Fri, 28 Feb 2020 15:00:00 +0200</pubDate>
+      
+      <guid>https://blog.ivrpowers.com/post/products/smart-ivr-speech-recognition-reloaded/</guid>
+      <description>More and better protocols to improve performance of your interactive phone services. Speech recognition is a key complementary feature for any IVR in order enables the recognition and translation of spoken language into text for your voice application coding. It is also known as automatic speech recognition (ASR) or speech to text (STT). Smart IVR support today three connectors since the last release 2.x and it has the ability to use them in perfect combination for all services.</description>
+    </item>
+    
+    <item>
       <title>How to improve your PBX with Conversational AI?</title>
       <link>https://blog.ivrpowers.com/post/customerengagement/how-to-improve-your-pbx-with-conversational-ai/</link>
       <pubDate>Sun, 09 Feb 2020 18:00:00 +0200</pubDate>

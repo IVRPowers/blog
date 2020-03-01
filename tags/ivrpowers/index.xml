@@ -41,6 +41,24 @@ Interactive Powers delivers communication platforms that enables advanced real-t
     </item>
     
     <item>
+      <title>Interactive Powers at next eMerge Americas 2020</title>
+      <link>https://blog.ivrpowers.com/post/general/next-emerge-americas-2020/</link>
+      <pubDate>Sun, 01 Mar 2020 10:00:00 +0200</pubDate>
+      
+      <guid>https://blog.ivrpowers.com/post/general/next-emerge-americas-2020/</guid>
+      <description>Join us next days 30th - 31h March at eMerge Americas event at Miami Beach, Florida For the first time, Interactive Powers (ivrpowers.com) will be attending eMerge Americas, March 30 – 31, 2019 in Miami Beach - Convention Center. eMerge Americas is the premier technology event connecting the Americas. eMerge Americas is not just an event- it’s an ecosystem that is transforming Miami into the Tech Hub of the Americas.</description>
+    </item>
+    
+    <item>
+      <title>Video RTC (WebRTC) v4.1.1</title>
+      <link>https://blog.ivrpowers.com/post/updates/update-video-rtc-webrtc-4.1.1/</link>
+      <pubDate>Fri, 28 Feb 2020 17:00:00 +0200</pubDate>
+      
+      <guid>https://blog.ivrpowers.com/post/updates/update-video-rtc-webrtc-4.1.1/</guid>
+      <description>Release Note We are pleased to announce that our new Video RTC (Gateway WebRTC) v4.1.1 has been released for suitable production services. This new version includes a hot fix for Chrome Web Browsers. Security researchers from Google&amp;rsquo;s Project Zero found a vulnerability in usrsctplib that has already been fixed, so make sure you pull this latest release if you&amp;rsquo;re using data channels. All users with previous maintained versions can upgrade today.</description>
+    </item>
+    
+    <item>
       <title>ITEXPO 2020</title>
       <link>https://blog.ivrpowers.com/post/general/next-itexpo-2020/</link>
       <pubDate>Thu, 06 Feb 2020 20:00:00 +0200</pubDate>

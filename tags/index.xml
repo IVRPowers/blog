@@ -6,7 +6,7 @@
     <description>Recent content in Tags on Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 09 Feb 2020 18:00:00 +0200</lastBuildDate>
+    <lastBuildDate>Sat, 29 Feb 2020 19:00:00 +0200</lastBuildDate>
     
 	<atom:link href="https://blog.ivrpowers.com/tags/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,7 +14,7 @@
     <item>
       <title>Ai</title>
       <link>https://blog.ivrpowers.com/tags/ai/</link>
-      <pubDate>Sun, 09 Feb 2020 18:00:00 +0200</pubDate>
+      <pubDate>Sat, 29 Feb 2020 19:00:00 +0200</pubDate>
       
       <guid>https://blog.ivrpowers.com/tags/ai/</guid>
       <description></description>
@@ -71,6 +71,15 @@
       <pubDate>Tue, 04 Feb 2020 12:00:00 +0200</pubDate>
       
       <guid>https://blog.ivrpowers.com/tags/apple/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Asr</title>
+      <link>https://blog.ivrpowers.com/tags/asr/</link>
+      <pubDate>Fri, 28 Feb 2020 15:00:00 +0200</pubDate>
+      
+      <guid>https://blog.ivrpowers.com/tags/asr/</guid>
       <description></description>
     </item>
     
@@ -176,7 +185,7 @@
     <item>
       <title>Changelog</title>
       <link>https://blog.ivrpowers.com/tags/changelog/</link>
-      <pubDate>Sun, 01 Dec 2019 12:00:00 +0200</pubDate>
+      <pubDate>Fri, 28 Feb 2020 17:00:00 +0200</pubDate>
       
       <guid>https://blog.ivrpowers.com/tags/changelog/</guid>
       <description></description>
@@ -248,7 +257,7 @@
     <item>
       <title>Custexp</title>
       <link>https://blog.ivrpowers.com/tags/custexp/</link>
-      <pubDate>Sun, 06 Oct 2019 20:00:00 +0200</pubDate>
+      <pubDate>Sat, 29 Feb 2020 19:00:00 +0200</pubDate>
       
       <guid>https://blog.ivrpowers.com/tags/custexp/</guid>
       <description></description>
@@ -347,7 +356,7 @@
     <item>
       <title>Event</title>
       <link>https://blog.ivrpowers.com/tags/event/</link>
-      <pubDate>Mon, 05 Nov 2018 12:00:00 +0100</pubDate>
+      <pubDate>Sun, 01 Mar 2020 10:00:00 +0200</pubDate>
       
       <guid>https://blog.ivrpowers.com/tags/event/</guid>
       <description></description>
@@ -464,7 +473,7 @@
     <item>
       <title>Ivr</title>
       <link>https://blog.ivrpowers.com/tags/ivr/</link>
-      <pubDate>Sun, 09 Feb 2020 18:00:00 +0200</pubDate>
+      <pubDate>Sat, 29 Feb 2020 19:00:00 +0200</pubDate>
       
       <guid>https://blog.ivrpowers.com/tags/ivr/</guid>
       <description></description>
@@ -536,7 +545,7 @@
     <item>
       <title>Miami</title>
       <link>https://blog.ivrpowers.com/tags/miami/</link>
-      <pubDate>Thu, 06 Feb 2020 20:00:00 +0200</pubDate>
+      <pubDate>Sun, 01 Mar 2020 10:00:00 +0200</pubDate>
       
       <guid>https://blog.ivrpowers.com/tags/miami/</guid>
       <description></description>
@@ -599,7 +608,7 @@
     <item>
       <title>Nlu</title>
       <link>https://blog.ivrpowers.com/tags/nlu/</link>
-      <pubDate>Thu, 21 Feb 2019 02:00:00 +0200</pubDate>
+      <pubDate>Fri, 28 Feb 2020 15:00:00 +0200</pubDate>
       
       <guid>https://blog.ivrpowers.com/tags/nlu/</guid>
       <description></description>
@@ -689,7 +698,7 @@
     <item>
       <title>Rtc</title>
       <link>https://blog.ivrpowers.com/tags/rtc/</link>
-      <pubDate>Tue, 04 Feb 2020 20:00:00 +0200</pubDate>
+      <pubDate>Fri, 28 Feb 2020 17:00:00 +0200</pubDate>
       
       <guid>https://blog.ivrpowers.com/tags/rtc/</guid>
       <description></description>
@@ -995,7 +1004,7 @@
     <item>
       <title>Voicebot</title>
       <link>https://blog.ivrpowers.com/tags/voicebot/</link>
-      <pubDate>Sun, 09 Feb 2020 18:00:00 +0200</pubDate>
+      <pubDate>Sat, 29 Feb 2020 19:00:00 +0200</pubDate>
       
       <guid>https://blog.ivrpowers.com/tags/voicebot/</guid>
       <description></description>
@@ -1031,7 +1040,7 @@
     <item>
       <title>Voicexml</title>
       <link>https://blog.ivrpowers.com/tags/voicexml/</link>
-      <pubDate>Sat, 11 Jan 2020 12:00:00 +0200</pubDate>
+      <pubDate>Fri, 28 Feb 2020 15:00:00 +0200</pubDate>
       
       <guid>https://blog.ivrpowers.com/tags/voicexml/</guid>
       <description></description>
@@ -1085,7 +1094,7 @@
     <item>
       <title>Webrtc</title>
       <link>https://blog.ivrpowers.com/tags/webrtc/</link>
-      <pubDate>Tue, 04 Feb 2020 20:00:00 +0200</pubDate>
+      <pubDate>Fri, 28 Feb 2020 17:00:00 +0200</pubDate>
       
       <guid>https://blog.ivrpowers.com/tags/webrtc/</guid>
       <description></description>

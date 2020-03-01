@@ -6,10 +6,19 @@
     <description>Recent content in Products on Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 11 Jan 2020 15:00:00 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 28 Feb 2020 15:00:00 +0200</lastBuildDate>
     
 	<atom:link href="https://blog.ivrpowers.com/categories/products/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Smart IVR · Speech Recognition Reloaded</title>
+      <link>https://blog.ivrpowers.com/post/products/smart-ivr-speech-recognition-reloaded/</link>
+      <pubDate>Fri, 28 Feb 2020 15:00:00 +0200</pubDate>
+      
+      <guid>https://blog.ivrpowers.com/post/products/smart-ivr-speech-recognition-reloaded/</guid>
+      <description>More and better protocols to improve performance of your interactive phone services. Speech recognition is a key complementary feature for any IVR in order enables the recognition and translation of spoken language into text for your voice application coding. It is also known as automatic speech recognition (ASR) or speech to text (STT). Smart IVR support today three connectors since the last release 2.x and it has the ability to use them in perfect combination for all services.</description>
+    </item>
     
     <item>
       <title>Cloud Storage · Video Recording</title>

@@ -18,6 +18,31 @@
   </url>
   
   <url>
+    <loc>https://blog.ivrpowers.com/post/general/next-emerge-americas-2020/</loc>
+    <lastmod>2020-03-01T10:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.ivrpowers.com/post/customerengagement/connecting-phone-calls-to-dialogflow/</loc>
+    <lastmod>2020-02-29T19:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.ivrpowers.com/post/customerengagement/how-to-connect-dialogflow-to-your-pbx/</loc>
+    <lastmod>2020-02-29T18:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.ivrpowers.com/post/updates/update-video-rtc-webrtc-4.1.1/</loc>
+    <lastmod>2020-02-28T17:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.ivrpowers.com/post/products/smart-ivr-speech-recognition-reloaded/</loc>
+    <lastmod>2020-02-28T15:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://blog.ivrpowers.com/post/customerengagement/how-to-improve-your-pbx-with-conversational-ai/</loc>
     <lastmod>2020-02-09T18:00:00+02:00</lastmod>
   </url>
@@ -1359,7 +1384,7 @@
   
   <url>
     <loc>https://blog.ivrpowers.com/tags/ai/</loc>
-    <lastmod>2020-02-09T18:00:00+02:00</lastmod>
+    <lastmod>2020-02-29T19:00:00+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1396,6 +1421,12 @@
   <url>
     <loc>https://blog.ivrpowers.com/tags/apple/</loc>
     <lastmod>2020-02-04T12:00:00+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.ivrpowers.com/tags/asr/</loc>
+    <lastmod>2020-02-28T15:00:00+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1478,7 +1509,7 @@
   
   <url>
     <loc>https://blog.ivrpowers.com/tags/changelog/</loc>
-    <lastmod>2019-12-01T12:00:00+02:00</lastmod>
+    <lastmod>2020-02-28T17:00:00+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1544,7 +1575,7 @@
   
   <url>
     <loc>https://blog.ivrpowers.com/tags/custexp/</loc>
-    <lastmod>2019-10-06T20:00:00+02:00</lastmod>
+    <lastmod>2020-02-29T19:00:00+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1562,7 +1593,7 @@
   
   <url>
     <loc>https://blog.ivrpowers.com/categories/customerengagement/</loc>
-    <lastmod>2020-01-26T21:00:00+02:00</lastmod>
+    <lastmod>2020-02-29T19:00:00+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1634,7 +1665,7 @@
   
   <url>
     <loc>https://blog.ivrpowers.com/tags/event/</loc>
-    <lastmod>2018-11-05T12:00:00+01:00</lastmod>
+    <lastmod>2020-03-01T10:00:00+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1736,7 +1767,7 @@
   
   <url>
     <loc>https://blog.ivrpowers.com/tags/ivr/</loc>
-    <lastmod>2020-02-09T18:00:00+02:00</lastmod>
+    <lastmod>2020-02-29T19:00:00+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1790,7 +1821,7 @@
   
   <url>
     <loc>https://blog.ivrpowers.com/tags/miami/</loc>
-    <lastmod>2020-02-06T20:00:00+02:00</lastmod>
+    <lastmod>2020-03-01T10:00:00+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1838,7 +1869,7 @@
   
   <url>
     <loc>https://blog.ivrpowers.com/tags/nlu/</loc>
-    <lastmod>2019-02-21T02:00:00+02:00</lastmod>
+    <lastmod>2020-02-28T15:00:00+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1898,7 +1929,7 @@
   
   <url>
     <loc>https://blog.ivrpowers.com/categories/products/</loc>
-    <lastmod>2020-01-11T15:00:00+02:00</lastmod>
+    <lastmod>2020-02-28T15:00:00+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1910,7 +1941,7 @@
   
   <url>
     <loc>https://blog.ivrpowers.com/tags/rtc/</loc>
-    <lastmod>2020-02-04T20:00:00+02:00</lastmod>
+    <lastmod>2020-02-28T17:00:00+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -2018,7 +2049,7 @@
   
   <url>
     <loc>https://blog.ivrpowers.com/tags/</loc>
-    <lastmod>2020-02-09T18:00:00+02:00</lastmod>
+    <lastmod>2020-02-29T19:00:00+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -2096,7 +2127,7 @@
   
   <url>
     <loc>https://blog.ivrpowers.com/categories/updates/</loc>
-    <lastmod>2019-12-01T12:00:00+02:00</lastmod>
+    <lastmod>2020-02-28T17:00:00+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -2150,7 +2181,7 @@
   
   <url>
     <loc>https://blog.ivrpowers.com/tags/voicebot/</loc>
-    <lastmod>2020-02-09T18:00:00+02:00</lastmod>
+    <lastmod>2020-02-29T19:00:00+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -2174,7 +2205,7 @@
   
   <url>
     <loc>https://blog.ivrpowers.com/tags/voicexml/</loc>
-    <lastmod>2020-01-11T12:00:00+02:00</lastmod>
+    <lastmod>2020-02-28T15:00:00+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -2210,7 +2241,7 @@
   
   <url>
     <loc>https://blog.ivrpowers.com/tags/webrtc/</loc>
-    <lastmod>2020-02-04T20:00:00+02:00</lastmod>
+    <lastmod>2020-02-28T17:00:00+02:00</lastmod>
     <priority>0</priority>
   </url>
   
