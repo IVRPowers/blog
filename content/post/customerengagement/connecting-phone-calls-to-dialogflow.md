@@ -12,7 +12,7 @@ image = "/postimages/customerengagement/slides-2020-03.005.jpeg"
 -----------
 ###### Photo source: Interactive Powers. Creative Commons
 
-#	What are main questions about connecting a Dialoglow agent to a telephony system?
+#	What are main questions about connecting a DialogFlow agent to a telephony system?
 ---
 
 It’s important to get some important differences between the **Google Phone Gateway** and our **DialogFlow Gateway** powered by a [Smart IVR](https://www.ivrpowers.com/voicexml/) platform.
