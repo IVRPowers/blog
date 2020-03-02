@@ -17,7 +17,9 @@
       <pubDate>Fri, 28 Feb 2020 17:00:00 +0200</pubDate>
       
       <guid>https://blog.ivrpowers.com/post/updates/update-video-rtc-webrtc-4.1.1/</guid>
-      <description>Release Note We are pleased to announce that our new Video RTC (Gateway WebRTC) v4.1.1 has been released for suitable production services. This new version includes a hot fix for Chrome Web Browsers. Security researchers from Google&amp;rsquo;s Project Zero found a vulnerability in usrsctplib that has already been fixed, so make sure you pull this latest release if you&amp;rsquo;re using data channels. All users with previous maintained versions can upgrade today.</description>
+      <description>Release Note We are pleased to announce that our new Video RTC (Gateway WebRTC) v4.1.1 has been released for suitable production services. This new version includes a hot fix a vulnerability in usrsctplib that has already been fixed, so make sure you pull this latest release if you&amp;rsquo;re using data channels. All users with previous maintained versions can upgrade today. Please contact our support!
+ChangeLog Version 4.1.1:
+## [4.1.1] - 2020-02-28 ### Fixed - Fixed critical vulnerability in `usrsctp` library  Interactive Powers - Streamline your business communications</description>
     </item>
     
     <item>
