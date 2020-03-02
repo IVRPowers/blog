@@ -11,7 +11,7 @@ featured = true
 
 # Release Note
 
-We are pleased to announce that our new **Video RTC (Gateway WebRTC) v4.1.1** has been released for suitable production services. This new version includes a hot fix for Chrome Web Browsers. Security researchers from Google's Project Zero found a [vulnerability in usrsctplib](https://bugs.chromium.org/p/project-zero/issues/detail?id=1992) that has already been fixed, so make sure you pull this latest release if you're using data channels. All users with previous maintained versions can upgrade today. Please contact our support!
+We are pleased to announce that our new **Video RTC (Gateway WebRTC) v4.1.1** has been released for suitable production services. This new version includes a hot fix a [vulnerability in usrsctplib](https://bugs.chromium.org/p/project-zero/issues/detail?id=1992) that has already been fixed, so make sure you pull this latest release if you're using data channels. All users with previous maintained versions can upgrade today. Please contact our support!
 
 # ChangeLog
 
