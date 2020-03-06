@@ -47,7 +47,7 @@ Format: 640x480 (2 peers)
 
 ##	Storage Packs
 
-| Unit Pack | Size | Formats | MP4 blended | SSH / FTP | MP4 storage |
+| Unit Pack | Size | Formats | RAW | SD | HD |
 |-----------|-----------|-----------|-----------|-----------|-----------|
 | RecStorage1 | 100 Gb, 500 Gb, 1 Tb | RAW, MP4 |◾️ | ◽️ | ◽️ | 
 | RecStorage2 | 100 Gb, 500 Gb, 1 Tb  | RAW, MP4 |◾️ | ◾️ | ◽️ | 

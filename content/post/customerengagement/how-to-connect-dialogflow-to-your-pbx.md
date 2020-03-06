@@ -47,7 +47,7 @@ Nothing can work without this, it’s the core engine of the speech integration,
 
 We provide a Conversational App. Framework to manage a Dialogflow Agent interaction. 
 
-💡You may start from scratch… the dialog is so easy!
+💡You could start from scratch… or with this App everthing becomes so easy!
 
 ###	6- Your PBX or IP Operator (SIP Trunking, DDI Numbering)
 
