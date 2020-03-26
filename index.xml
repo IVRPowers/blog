@@ -41,6 +41,28 @@ Interactive Powers delivers communication platforms that enables advanced real-t
     </item>
     
     <item>
+      <title>VideoRTC.js (API) v3.3.0</title>
+      <link>https://blog.ivrpowers.com/post/updates/update-video-rtc-js-3.3.0/</link>
+      <pubDate>Wed, 25 Mar 2020 13:00:00 +0200</pubDate>
+      
+      <guid>https://blog.ivrpowers.com/post/updates/update-video-rtc-js-3.3.0/</guid>
+      <description>Release Note We are pleased to announce that our API Framework for Javascript VideoRTC.js v3.3.0 has been released for suitable for Web Developments and Mobile SDK . All users with previous maintained versions can upgrade today. Please contact our support!
+ChangeLog Version 3.3.0:
+## [3.3.0] - 2020-03-25 ### Added - Added a new event `onSipMessage` on the SPLIT Client to receive SIP Messages - Added a new streamOption `resolution` in all modules where video is used - Added a new className `is-local-video` in all local video elements  Interactive Powers - Streamline your business communications</description>
+    </item>
+    
+    <item>
+      <title>Video RTC (WebRTC) v4.2.0</title>
+      <link>https://blog.ivrpowers.com/post/updates/update-video-rtc-webrtc-4.2.0/</link>
+      <pubDate>Wed, 25 Mar 2020 12:00:00 +0200</pubDate>
+      
+      <guid>https://blog.ivrpowers.com/post/updates/update-video-rtc-webrtc-4.2.0/</guid>
+      <description>Release Note We are pleased to announce that our new Video RTC (Gateway WebRTC) v4.2.0 has been released for suitable production services. This new version includes specific improvements and new features. All users with previous maintained versions can upgrade today. Please contact our support!
+ChangeLog Version 4.2.0:
+## [4.2.0] - 2020-03-25 ### Added - Enabled ScreenSharing in the WebClient for Chrome and Opera browsers - Added possibility to send links via chat - Added SPLIT reverse feature in the SPLIT Agent usecase - Added possibility to configure the autoclose option in &#39;forced&#39; mode for SPLIT usecases - Added a new URL parameter called `from` on the Webclient and Escalating usecases - Added a new theme parameter `resolution` in all usecases where video is used ### Updated - Updated VideoRTC.</description>
+    </item>
+    
+    <item>
       <title>Interactive Powers at next eMerge Americas 2020</title>
       <link>https://blog.ivrpowers.com/post/general/next-emerge-americas-2020/</link>
       <pubDate>Sun, 01 Mar 2020 10:00:00 +0200</pubDate>
