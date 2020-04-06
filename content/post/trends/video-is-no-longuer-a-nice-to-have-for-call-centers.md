@@ -4,7 +4,7 @@ date = "2019-04-02T22:00:00+02:00"
 description = "Digital Transformation Trends"
 draft = false
 tags = ["marketing","videochat","livechat","businesstrends","humaninteraction"]
-title = "Video is no longuer a 'nice to have' for Call Centers"
+title = "Video is no longer a 'nice to have' for Call Centers"
 image = "/postimages/trends/ivrpowers-post-05.025.jpeg"
 comments = true
 +++
@@ -15,7 +15,7 @@ comments = true
 
 #	It's not Fashion, it's a question of Evolution.
 ---
-Companies and brands that are not yet concidering a progresive transition of their phone channel to [Real-Time Communications (RTC)](http://blog.ivrpowers.com/post/technologies/what-is-rtc/) within the next years for their customer care, sales or support will quickly become old fashioned and irrelevant for [new consumers](http://blog.ivrpowers.com/post/trends/children-understand-video/). The next customers generation is no longuer accepting to downgrade their daily high speed interactions and expectations on advanced devices.
+Companies and brands that are not yet concidering a progresive transition of their phone channel to [Real-Time Communications (RTC)](http://blog.ivrpowers.com/post/technologies/what-is-rtc/) within the next years for their customer care, sales or support will quickly become old fashioned and irrelevant for [new consumers](http://blog.ivrpowers.com/post/trends/children-understand-video/). The next customers generation is no longer accepting to downgrade their daily high speed interactions and expectations on advanced devices.
 
 ## Streamline your business communications
 

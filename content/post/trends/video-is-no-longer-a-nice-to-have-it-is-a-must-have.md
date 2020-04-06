@@ -4,7 +4,7 @@ date = "2020-04-05T22:00:00+02:00"
 description = "Digital Transformation Trends"
 draft = false
 tags = ["marketing","videochat","livechat","businesstrends","humaninteraction","covid19"]
-title = "Video is no longuer a 'nice to have', it's a must have."
+title = "Video is no longer a 'nice to have', it's a must have."
 image = "/postimages/trends/ivrpowers-slide-20-04.001.jpeg"
 comments = true
 +++
