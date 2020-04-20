@@ -41,6 +41,17 @@ Interactive Powers delivers communication platforms that enables advanced real-t
     </item>
     
     <item>
+      <title>Smart IVR v2.2</title>
+      <link>https://blog.ivrpowers.com/post/updates/update-voicexml-ivr-2.2.0/</link>
+      <pubDate>Fri, 10 Apr 2020 00:20:00 +0200</pubDate>
+      
+      <guid>https://blog.ivrpowers.com/post/updates/update-voicexml-ivr-2.2.0/</guid>
+      <description>Release Note We are pleased to announce that our new Smart IVR 2.2.1 has been released for suitable production services. This new version includes a lot of improvements and new features. All users with previous maintained versions can upgrade today. Please contact our support!
+ChangeLog Version 2.2:
+## [2.2.1] - 10-04-2020 ### Fixed - The resizing of the history of recordings files was sometimes crashing the Asterisk. ## [2.2.0] - 30-03-2020 ### Added - New VoiceXML element &amp;lt;nlu&amp;gt; with support for Google GRPC Speech API - New Asterisk command to display current nlu sessions ### Changed - Project build now with c++11 version - Accounts information is now only loaded &amp;amp; displayed if the license loaded successfully ## [2.</description>
+    </item>
+    
+    <item>
       <title>Video is no longer a &#39;nice to have&#39;, it&#39;s a must have.</title>
       <link>https://blog.ivrpowers.com/post/trends/video-is-no-longer-a-nice-to-have-it-is-a-must-have/</link>
       <pubDate>Sun, 05 Apr 2020 22:00:00 +0200</pubDate>
@@ -180,6 +191,17 @@ ChangeLog Version 4.1.1:
       <guid>https://blog.ivrpowers.com/post/technologies/what-is-webrt-to-sip/</guid>
       <description>Receive Audio Calls from Web Browsers or Mobile Devices in your Contact Center. Video Gateways (WebRTC) developed by Interactive Powers include a SPLIT module which enable to control all media streams (video - audio - data) on any communication between users and a SIP softswitch or PBX/ACD. This development is based on SIP and WebRTC peers communications for the integration of voice and data.
  Connect a Web Widget for any existing Call Centers.</description>
+    </item>
+    
+    <item>
+      <title>Smart IVR v2.1</title>
+      <link>https://blog.ivrpowers.com/post/updates/update-voicexml-ivr-2.1.0/</link>
+      <pubDate>Mon, 03 Feb 2020 00:20:00 +0200</pubDate>
+      
+      <guid>https://blog.ivrpowers.com/post/updates/update-voicexml-ivr-2.1.0/</guid>
+      <description>Release Note We are pleased to announce that our new Smart IVR 2.1 has been released for suitable production services. This new version includes a lot of improvements and new features. All users with previous maintained versions can upgrade today. Please contact our support!
+ChangeLog Version 2.1:
+## [2.1.0] - 03-02-2020 ### Added - Support for the &amp;lt;data&amp;gt; element - Added noinputtimeout for the &amp;lt;record&amp;gt; element ## [2.0.3] - 03-12-2019 ### Fixed - Removed unnecessary error message when making a TTS request through HTTP - Added verification check for the existance of a cached file before trying to access it to avoid error messages - Fixed the conversion from interpreter value to JSI double numbers on subdialog return ## [2.</description>
     </item>
     
     <item>
@@ -521,14 +543,14 @@ Our next binary packages or CPaaS instances will now includes an installer scrip
     </item>
     
     <item>
-      <title>VoiceXML IVR v2.0</title>
+      <title>Smart IVR v2.0</title>
       <link>https://blog.ivrpowers.com/post/updates/update-voicexml-ivr-2.0.0/</link>
       <pubDate>Mon, 18 Feb 2019 00:20:05 +0200</pubDate>
       
       <guid>https://blog.ivrpowers.com/post/updates/update-voicexml-ivr-2.0.0/</guid>
-      <description>Release Note We are pleased to announce that our new VoiceXML IVR 2.0 has been released for suitable production services. This new version includes a lot of improvements and new features. All users with previous maintained versions can upgrade today. Please contact our support!
+      <description>Release Note We are pleased to announce that our new Smart IVR 2.0 has been released for suitable production services. This new version includes a lot of improvements and new features. All users with previous maintained versions can upgrade today. Please contact our support!
 ChangeLog Version 2.0:
-## [2.0] - 2019-02-29 ### New - First release of VoiceXML IVR 2.0 - New PBX-SIP Connect - New TTS-HTTP/MRCP - New ASR-HTTP/MRCP  Interactive Powers - Streamline your business communications</description>
+## [2.0] - 2019-02-29 ### New - First release of Smart IVR 2.0 - New PBX-SIP Connect - New TTS-HTTP/MRCP - New ASR-HTTP/MRCP  Interactive Powers - Streamline your business communications</description>
     </item>
     
     <item>
@@ -2664,7 +2686,7 @@ Video banking allows to deliver the best possible experience to online customers
     </item>
     
     <item>
-      <title>VoiceXML IVR v1.3</title>
+      <title>Smart IVR v1.3</title>
       <link>https://blog.ivrpowers.com/post/updates/update-voicexml-ivr-13.1/</link>
       <pubDate>Thu, 15 Jun 2017 00:20:05 +0200</pubDate>
       

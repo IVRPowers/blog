@@ -18,6 +18,11 @@
   </url>
   
   <url>
+    <loc>https://blog.ivrpowers.com/post/updates/update-voicexml-ivr-2.2.0/</loc>
+    <lastmod>2020-04-10T00:20:00+02:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://blog.ivrpowers.com/post/trends/video-is-no-longer-a-nice-to-have-it-is-a-must-have/</loc>
     <lastmod>2020-04-05T22:00:00+02:00</lastmod>
   </url>
@@ -85,6 +90,11 @@
   <url>
     <loc>https://blog.ivrpowers.com/post/technologies/what-is-webrt-to-sip/</loc>
     <lastmod>2020-02-03T10:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.ivrpowers.com/post/updates/update-voicexml-ivr-2.1.0/</loc>
+    <lastmod>2020-02-03T00:20:00+02:00</lastmod>
   </url>
   
   <url>
@@ -1524,7 +1534,7 @@
   
   <url>
     <loc>https://blog.ivrpowers.com/tags/changelog/</loc>
-    <lastmod>2020-03-25T13:00:00+02:00</lastmod>
+    <lastmod>2020-04-10T00:20:00+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1788,7 +1798,7 @@
   
   <url>
     <loc>https://blog.ivrpowers.com/tags/ivr/</loc>
-    <lastmod>2020-02-29T19:00:00+02:00</lastmod>
+    <lastmod>2020-04-10T00:20:00+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -2148,7 +2158,7 @@
   
   <url>
     <loc>https://blog.ivrpowers.com/categories/updates/</loc>
-    <lastmod>2020-03-25T13:00:00+02:00</lastmod>
+    <lastmod>2020-04-10T00:20:00+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -2226,7 +2236,7 @@
   
   <url>
     <loc>https://blog.ivrpowers.com/tags/voicexml/</loc>
-    <lastmod>2020-02-28T15:00:00+02:00</lastmod>
+    <lastmod>2020-04-10T00:20:00+02:00</lastmod>
     <priority>0</priority>
   </url>
   

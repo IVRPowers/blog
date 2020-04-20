@@ -6,10 +6,21 @@
     <description>Recent content in Voicexml on Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 28 Feb 2020 15:00:00 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 10 Apr 2020 00:20:00 +0200</lastBuildDate>
     
 	<atom:link href="https://blog.ivrpowers.com/tags/voicexml/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Smart IVR v2.2</title>
+      <link>https://blog.ivrpowers.com/post/updates/update-voicexml-ivr-2.2.0/</link>
+      <pubDate>Fri, 10 Apr 2020 00:20:00 +0200</pubDate>
+      
+      <guid>https://blog.ivrpowers.com/post/updates/update-voicexml-ivr-2.2.0/</guid>
+      <description>Release Note We are pleased to announce that our new Smart IVR 2.2.1 has been released for suitable production services. This new version includes a lot of improvements and new features. All users with previous maintained versions can upgrade today. Please contact our support!
+ChangeLog Version 2.2:
+## [2.2.1] - 10-04-2020 ### Fixed - The resizing of the history of recordings files was sometimes crashing the Asterisk. ## [2.2.0] - 30-03-2020 ### Added - New VoiceXML element &amp;lt;nlu&amp;gt; with support for Google GRPC Speech API - New Asterisk command to display current nlu sessions ### Changed - Project build now with c++11 version - Accounts information is now only loaded &amp;amp; displayed if the license loaded successfully ## [2.</description>
+    </item>
     
     <item>
       <title>Smart IVR · Speech Recognition Reloaded</title>
@@ -18,6 +29,17 @@
       
       <guid>https://blog.ivrpowers.com/post/products/smart-ivr-speech-recognition-reloaded/</guid>
       <description>More and better protocols to improve performance of your interactive phone services. Speech recognition is a key complementary feature for any IVR in order enables the recognition and translation of spoken language into text for your voice application coding. It is also known as automatic speech recognition (ASR) or speech to text (STT). Smart IVR support today three connectors since the last release 2.x and it has the ability to use them in perfect combination for all services.</description>
+    </item>
+    
+    <item>
+      <title>Smart IVR v2.1</title>
+      <link>https://blog.ivrpowers.com/post/updates/update-voicexml-ivr-2.1.0/</link>
+      <pubDate>Mon, 03 Feb 2020 00:20:00 +0200</pubDate>
+      
+      <guid>https://blog.ivrpowers.com/post/updates/update-voicexml-ivr-2.1.0/</guid>
+      <description>Release Note We are pleased to announce that our new Smart IVR 2.1 has been released for suitable production services. This new version includes a lot of improvements and new features. All users with previous maintained versions can upgrade today. Please contact our support!
+ChangeLog Version 2.1:
+## [2.1.0] - 03-02-2020 ### Added - Support for the &amp;lt;data&amp;gt; element - Added noinputtimeout for the &amp;lt;record&amp;gt; element ## [2.0.3] - 03-12-2019 ### Fixed - Removed unnecessary error message when making a TTS request through HTTP - Added verification check for the existance of a cached file before trying to access it to avoid error messages - Fixed the conversion from interpreter value to JSI double numbers on subdialog return ## [2.</description>
     </item>
     
     <item>
@@ -41,14 +63,14 @@ Welcome to VoiceXML IVR 2.</description>
     </item>
     
     <item>
-      <title>VoiceXML IVR v2.0</title>
+      <title>Smart IVR v2.0</title>
       <link>https://blog.ivrpowers.com/post/updates/update-voicexml-ivr-2.0.0/</link>
       <pubDate>Mon, 18 Feb 2019 00:20:05 +0200</pubDate>
       
       <guid>https://blog.ivrpowers.com/post/updates/update-voicexml-ivr-2.0.0/</guid>
-      <description>Release Note We are pleased to announce that our new VoiceXML IVR 2.0 has been released for suitable production services. This new version includes a lot of improvements and new features. All users with previous maintained versions can upgrade today. Please contact our support!
+      <description>Release Note We are pleased to announce that our new Smart IVR 2.0 has been released for suitable production services. This new version includes a lot of improvements and new features. All users with previous maintained versions can upgrade today. Please contact our support!
 ChangeLog Version 2.0:
-## [2.0] - 2019-02-29 ### New - First release of VoiceXML IVR 2.0 - New PBX-SIP Connect - New TTS-HTTP/MRCP - New ASR-HTTP/MRCP  Interactive Powers - Streamline your business communications</description>
+## [2.0] - 2019-02-29 ### New - First release of Smart IVR 2.0 - New PBX-SIP Connect - New TTS-HTTP/MRCP - New ASR-HTTP/MRCP  Interactive Powers - Streamline your business communications</description>
     </item>
     
     <item>
@@ -132,7 +154,7 @@ Microsite - Webclient Calling from any Web Browser · http://webclient.ivrpowers
     </item>
     
     <item>
-      <title>VoiceXML IVR v1.3</title>
+      <title>Smart IVR v1.3</title>
       <link>https://blog.ivrpowers.com/post/updates/update-voicexml-ivr-13.1/</link>
       <pubDate>Thu, 15 Jun 2017 00:20:05 +0200</pubDate>
       
