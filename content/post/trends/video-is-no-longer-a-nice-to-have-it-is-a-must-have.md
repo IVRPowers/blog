@@ -9,7 +9,7 @@ image = "/postimages/trends/ivrpowers-slide-20-04.001.jpeg"
 comments = true
 +++
 
-![Young people on the phone](/postimages/trends/ivrpowers-slide-20-04.001.jpeg)
+![videocall](/postimages/trends/ivrpowers-slide-20-04.001.jpeg)
 ------------
 ###### Photo source: Interactive Powers
 

@@ -4,8 +4,8 @@ date = "2017-06-15T00:20:05+02:00"
 description = "Release Note"
 draft = false
 tags = ["voicexml","ivr", "ivrpowers","changelog"]
-title = "VoiceXML IVR v1.3"
-image = "/postimages/updates/ivrpowers-posts-01.084.jpeg"
+title = "Smart IVR v1.3"
+image = "/postimages/updates/ivrpowers-posts-01.102.jpeg"
 featured = true
 
 +++
