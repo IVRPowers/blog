@@ -16,7 +16,7 @@ comments = true
 #	Now, It's won’t be an option. It's a question of business survival in post-COVID-19 society.
 ---
 
-Just one year ago, we had annouced that [Video was no longer "a nice to have" for Call Centers](https://blog.ivrpowers.com/post/trends/video-is-no-longuer-a-nice-to-have-for-call-centers/), now it will change the entire world market permanently.
+Just one year ago, we had annouced that [Video was no longer "a nice to have" for Call Centers](https://blog.ivrpowers.com/post/trends/video-is-no-longuer-a-nice-to-have-for-call-centers/), now it will change the entire world market.
 
 > Video was just representing no more than 8% or less of business communications
 
