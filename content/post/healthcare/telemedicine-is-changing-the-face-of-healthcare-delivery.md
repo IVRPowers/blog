@@ -22,7 +22,7 @@ The COVID-19 / Coronavirus is quickly spreading its tentacles across the globe. 
 
 Telemedicine is arguably the most covered healthcare trend that’s experiencing a massive expansion during the current crisis. It’s a no-brainer why patients would flock to telehealth solutions in a time when many physical doctors offices are closed, and hospitals/urgent care clinics are considered high-risk for transmitting infection.
 
-##	Patients and Physicians are requireing more virtual visits.
+##	Patients and Physicians are requiring more virtual visits.
 
 Telehealth is the exchange of medical that allows for “real time” communication between the patient and the clinician whether via phone, computer, or image sharing.  Clinicians who can provide these services  can be doctors, physician assistants, psychologists,  clinical social workers, dieticians, other nutrition professionals,...
 

@@ -33,10 +33,10 @@ A port or channel is an aggregation of multiple software communication interface
 
 | Server	| Size	| IaaS	| AWS Reference	|
 |-----------|-----------|-----------|-----------|
-| S	| Small	| AWS	| t2.micro |
-| M	| Medium	| AWS	| t2.small |
-| L	| Large	| AWS	| t2.medium |
-| XL	| Extra Large	| AWS	| t2.large |
+| S	| Small	| AWS	| t2.small |
+| M	| Medium	| AWS	| t2.medium |
+| L	| Large	| AWS	| t2.large |
+| XL	| Extra Large	| AWS	| t2.xlarge |
 
 ###	Server Requirements
 
