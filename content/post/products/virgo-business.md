@@ -1,6 +1,6 @@
 +++
 categories = ["products"]
-date = "2020-05-16T15:00:00+02:00"
+date = "2020-05-18T16:00:00+02:00"
 description = "New Solution"
 draft = true
 tags = ["solution","rtc","business"]
@@ -17,7 +17,7 @@ image = "/postimages/products/slide-virgo-business.001.jpeg"
 #	Times and habits have changed. Health and Safety are first. Simplify and Speed too.
 ---
 
-Interactive Powers has released Virgo Healthcare in response to the overwhelming increase virtual visits sparked by the COVID-19 global pandemic. The simplest,  accessible and secure Telehealth solution offers easy and immediate coverage of the consultation process, including collaboration and virtual attention optimizing the patient experience of the visit.  
+Interactive Powers has released **Virgo Business** in response to the overwhelming increase virtual visits sparked by the COVID-19 global pandemic. The simplest,  accessible and secure video calling solution offers easy and immediate coverage of a telework process, including collaboration and virtual attention optimizing the user experience of the visit.  
 
 Powered by Video RTC (WebRTC) - [Interactive Powers](http://www.ivrpowers.com/)
 
@@ -28,7 +28,8 @@ Key features:
 * Team View
 * Manager Role
 * Send a Link
-* Security
+
+Security: Encrypted and Secure. Compliant with GDPR data privacy requirements..
 
 ## Fully Responsive.
 
@@ -36,19 +37,19 @@ Key features:
 
 ## Video Push.
 
-![Virgo Business - Fully Responsive](/postimages/products/slide-virgo-business.003.jpeg)
+![Virgo Business - Video Push](/postimages/products/slide-virgo-business.003.jpeg)
 
 ## Team View.
 
-![Virgo Business - Fully Responsive](/postimages/products/slide-virgo-business.004.jpeg)
+![Virgo Business - Team View](/postimages/products/slide-virgo-business.004.jpeg)
 
 ## Manager Role.
 
-![Virgo Business - Fully Responsive](/postimages/products/slide-virgo-business.005.jpeg)
+![Virgo Business - Manager Role](/postimages/products/slide-virgo-business.005.jpeg)
 
 ## Send a Link.
 
-![Virgo Business - Fully Responsive](/postimages/products/slide-virgo-business.006.jpeg)
+![Virgo Business - Send a Link](/postimages/products/slide-virgo-business.006.jpeg)
 
 # Streamline your business communications.
 
