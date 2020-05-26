@@ -18,6 +18,11 @@
   </url>
   
   <url>
+    <loc>https://blog.ivrpowers.com/post/products/virgo-healthcare/</loc>
+    <lastmod>2020-05-16T15:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://blog.ivrpowers.com/post/healthcare/telehealth-evolution-in-times-of-covid-19/</loc>
     <lastmod>2020-05-13T22:00:00+02:00</lastmod>
   </url>
@@ -1759,7 +1764,7 @@
   
   <url>
     <loc>https://blog.ivrpowers.com/tags/healthcare/</loc>
-    <lastmod>2017-11-23T10:10:39+01:00</lastmod>
+    <lastmod>2020-05-16T15:00:00+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1981,7 +1986,7 @@
   
   <url>
     <loc>https://blog.ivrpowers.com/categories/products/</loc>
-    <lastmod>2020-02-28T15:00:00+02:00</lastmod>
+    <lastmod>2020-05-16T15:00:00+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1993,7 +1998,7 @@
   
   <url>
     <loc>https://blog.ivrpowers.com/tags/rtc/</loc>
-    <lastmod>2020-03-25T13:00:00+02:00</lastmod>
+    <lastmod>2020-05-16T15:00:00+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -2060,6 +2065,12 @@
   <url>
     <loc>https://blog.ivrpowers.com/categories/socials/</loc>
     <lastmod>2017-08-14T22:00:00+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.ivrpowers.com/tags/solution/</loc>
+    <lastmod>2020-05-16T15:00:00+02:00</lastmod>
     <priority>0</priority>
   </url>
   
