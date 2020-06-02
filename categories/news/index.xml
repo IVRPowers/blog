@@ -6,10 +6,29 @@
     <description>Recent content in News on Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 23 Jul 2019 20:00:00 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 01 Jun 2020 22:00:00 +0200</lastBuildDate>
     
 	<atom:link href="https://blog.ivrpowers.com/categories/news/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Ubiquo Technologies and Interactive Powers announce Integration Partnership</title>
+      <link>https://blog.ivrpowers.com/post/news/ubiquotechs-interactive-powers-partnership/</link>
+      <pubDate>Mon, 01 Jun 2020 22:00:00 +0200</pubDate>
+      
+      <guid>https://blog.ivrpowers.com/post/news/ubiquotechs-interactive-powers-partnership/</guid>
+      <description>Photo Source: Ubiquotechs - Interactive Powers Joining amazing eLearning Xlices tool with real-time experiences interactions MIAMI, June. 1, 2020 — Ubiquo Technologies a pioneer in the field of elearning slide sharing Xlices, announces partnership with Interactive Powers to improve user experiences with real-time communications. In coming weeks, Xlices will be offered with advanced web voice calling features over web responsive service as well as over the phone.
+Through this partnership, we will establish a framework for cooperation and work together to develop better software solutions, explore amazing Digital Transformation opportunities and amplify the impact along the eLearning on the customer journey.</description>
+    </item>
+    
+    <item>
+      <title>Interactive Powers announces Video RTC integration with Genesys Cloud™</title>
+      <link>https://blog.ivrpowers.com/post/news/genesys-appfoundry-interactive-powers-partnership/</link>
+      <pubDate>Mon, 01 Jun 2020 12:00:05 +0200</pubDate>
+      
+      <guid>https://blog.ivrpowers.com/post/news/genesys-appfoundry-interactive-powers-partnership/</guid>
+      <description>Photo Source: Genesys - Interactive Powers Interactive Powers solutions combines with Genesys platforms to provide scalable Video Communications to Call Centers MIAMI, June. 1, 2020 — Interactive Powers has announced Video RTC is now available on the Genesys AppFoundry®, the industry&amp;rsquo;s largest dedicated marketplace focused on customer experience solutions. The AppFoundry allows Genesys customers from all market segments to discover and rapidly deploy a broad range of solutions that make it easier to interact with consumers, engage employees and optimize their workforce.</description>
+    </item>
     
     <item>
       <title>Security improvement for WebRTC in Firefox 68</title>
