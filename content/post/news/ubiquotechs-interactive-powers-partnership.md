@@ -23,7 +23,7 @@ Through this partnership, we will establish a framework for cooperation and work
 
 ##	About Ubiquo Technologies - Xlices
 
-Ubiquo Technologies is a firm dedicated to creating global solutions that puts the focus on human beings and reality. Universal Accessibility is part of our philosophy and runs through all of our work. We approach each project from a single guiding principle: the inclusion of all people in a given environment. Ubicuo Techs provides Xlices, an innovative Slide Sharing solution for learning and have offices in Brussels, Madrid and Santo Domingo.
+Ubiquo Technologies is a firm dedicated to creating global solutions that puts the focus on human beings and reality. Universal Accessibility is part of our philosophy and runs through all of our work. We approach each project from a single guiding principle: the inclusion of all people in a given environment. Ubiquo Techs provides Xlices, an innovative Slide Sharing solution for learning and have offices in Brussels, Madrid and Santo Domingo.
 
 More information on: http://www.ubiquotechs.com  
 
