@@ -1,10 +1,10 @@
 +++
 categories = ["news"]
-date = "2020-05-30T09:00:05+02:00"
+date = "2020-05-02T09:00:05+02:00"
 description = "Announcement"
-draft = true
+draft = false
 tags = ["partnership","videortc","news"]
-title = "Altitude Software and Interactive Powers celebrates more than 5 years of Video interactions"
+title = "Altitude Software and Interactive Powers celebrate more than 5 years of Video interactions"
 image = "/postimages/news/ivrpowers-sides-31-05.004.jpeg"
 +++
 
@@ -12,16 +12,18 @@ image = "/postimages/news/ivrpowers-sides-31-05.004.jpeg"
 ------------
 ###### Photo Source: Altitude Software - Interactive Powers
 
-# Create amazing support and customer real-time interactions!
+# Create amazing support and customer real-time interactions for Altitude Xperience Hub!
 ---
 
-**MIAMI, June. 1, 2020** — [Interactive Powers](https://www.ivrpowers.com) has announced [Video RTC](https://www.ivrpowers.com/videortc/) is now available on the [Genesys AppFoundry®](https://appfoundry.genesys.com), the industry's largest dedicated marketplace focused on customer experience solutions. The AppFoundry allows Genesys customers from all market segments to discover and rapidly deploy a broad range of solutions that make it easier to interact with consumers, engage employees and optimize their workforce. [Genesys®](https://www.genesys.com)is the global leader in omnichannel customer experience and contact center solutions that delivers more than 70 billion remarkable customer experiences for organizations in over 100 countries. 
+**MIAMI, May 2, 2020** — [Interactive Powers](https://www.ivrpowers.com) and [Altitude Software](https://www.altitude.com) work together in complementary solutions since more than 5 years. That’s why we’re really excited to increase Altitude Software and Interactive Powers collaboration to offer the most complete **Omnichannel Contact Center** that powers limitless, continuous **CX conversations** that cross boundaries while raising the bar on real-time visibility and control.
 
-Video RTC easily integrates with Genesys Cloud™, to extend the contact center ACD and provide improved blended real-time communications to each interaction. With the ability to deliver advanced workflows and business rules, it can create a multitude of specialized and convergent video enabled services. Plus, the platform is compatible with any modern web browser or a mobile applications too. 
+This means consistent, effective, personalized engagements across all channels like **Bots, Social, Video, Messaging, Co-browsing, Screen Sharing, File Sharing, Web Chat, Email, Voice, SMS**. Meet your customers where they are. If you make it easy for them, they’re going to remember you for the customer experience you provide.
+
+[Video RTC](https://www.ivrpowers.com/videortc) platforms easily integrates with [Altitude Xperience Hub](https://www.altitude.com/marketplace/) marketplace, to **extend the contact center ACD and provide improved blended real-time communications** to each interaction. With the ability to deliver advanced workflows and business rules, it can create a multitude of specialized and convergent video enabled services. Plus, our video platforms are compatible with any modern web browser or mobile applications too. 
 
 ##	About Interactive Powers
 
-Interactive Powers provides Voice and Video Technologies for Cloud-based services and On Premises. Its Video RTC products provide easy-to-use, omnichannel, real-time communications, browser-driving interfaces, live chat, web collaboration, video calling, mobile app integration. Interactive Powers is a used in more than 30 countries and have offices in Europe in Madrid and United States of America in Miami.
+[Interactive Powers](https://www.ivrpowers.com) provides Voice and Video Technologies for Cloud-based services and On Premises. Its Video RTC products provide easy-to-use, omnichannel, real-time communications, browser-driving interfaces, live chat, web collaboration, video calling, mobile app integration. Interactive Powers is a used in more than 30 countries and have offices in Europe in Madrid and United States of America in Miami.
 
 More information on http://www.ivrpowers.com
 
