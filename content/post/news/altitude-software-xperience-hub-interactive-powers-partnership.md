@@ -19,7 +19,9 @@ image = "/postimages/news/ivrpowers-sides-31-05.004.jpeg"
 
 This means consistent, effective, personalized engagements across all channels like **Bots, Social, Video, Messaging, Co-browsing, Screen Sharing, File Sharing, Web Chat, Email, Voice, SMS**. Meet your customers where they are. If you make it easy for them, they’re going to remember you for the customer experience you provide.
 
-[Video RTC](https://www.ivrpowers.com/videortc) platforms easily integrates with [Altitude Xperience Hub](https://www.altitude.com/marketplace/) marketplace, to **extend the contact center ACD and provide improved blended real-time communications** to each interaction. With the ability to deliver advanced workflows and business rules, it can create a multitude of specialized and convergent video enabled services. Plus, our video platforms are compatible with any modern web browser or mobile applications too. 
+![Altitude-IntPowers](/postimages/news/ivrpowers-sides-31-05.012.jpeg)
+
+[Video RTC](https://www.ivrpowers.com/videortc) platforms easily integrates with [Altitude Xperience Hub](https://www.altitude.com/marketplace/marketplace_category/omnichannel-and-crm/) marketplace, to **extend the contact center ACD and provide improved blended real-time communications** to each interaction. With the ability to deliver advanced workflows and business rules, it can create a multitude of specialized and convergent video enabled services. Plus, our video platforms are compatible with any modern web browser or mobile applications too. 
 
 ##	About Interactive Powers
 
