@@ -6,10 +6,19 @@
     <description>Recent content in Rtc on Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 20 Jun 2020 16:00:00 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 03 Jul 2020 00:18:00 +0200</lastBuildDate>
     
 	<atom:link href="https://blog.ivrpowers.com/tags/rtc/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Video Calling On Queue</title>
+      <link>https://blog.ivrpowers.com/post/marketing/video-calling-on-queue/</link>
+      <pubDate>Fri, 03 Jul 2020 00:18:00 +0200</pubDate>
+      
+      <guid>https://blog.ivrpowers.com/post/marketing/video-calling-on-queue/</guid>
+      <description>Photo source: Interactive Powers edited. Video Calling has to be &amp;ldquo;On Queue&amp;rdquo; to reach the highest effectivity and productivity to ensure the best Customer Experience and ROI. Video RTC for Genesys a unique complementary solutions for Contact Center that allow to handle Video Calling “On Queue” for your Contact Center thanks to SPLIT Forward / SPLIT Reverse a convergent WebRTC / SIP communications integration. Most existing Video powered addons are only working “Off Queue” because these products do not control any ACD event during all digital interactions and obviously cannot manage both inbound / outbound phone calls and video calls.</description>
+    </item>
     
     <item>
       <title>Virgo Business</title>
