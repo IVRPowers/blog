@@ -6,10 +6,28 @@
     <description>Recent content in Voice on Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 26 Jan 2020 21:00:00 +0200</lastBuildDate>
+    <lastBuildDate>Sun, 19 Jul 2020 21:00:00 +0200</lastBuildDate>
     
 	<atom:link href="https://blog.ivrpowers.com/tags/voice/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Video Calls · Scheduled vs Queued</title>
+      <link>https://blog.ivrpowers.com/post/customerengagement/video-calls-scheduled-vs-queued/</link>
+      <pubDate>Sun, 19 Jul 2020 21:00:00 +0200</pubDate>
+      
+      <guid>https://blog.ivrpowers.com/post/customerengagement/video-calls-scheduled-vs-queued/</guid>
+      <description>Photo source: Interactive Powers. Creative Commons Why most companies have to change their mind about Video Calls productivity and integration? Existing “Video Meeting” solutions are used by most people for teleworking, remote business meeting or friends &amp;amp; family conversations (Zoom, Teams, LifeSize, Google Meet…). All these products are design to build conversations with a scheduled approach one-to-many or one-to-one. Companies that provide support to many customers do not work like this most of the time, they have to react in real-time to a massive inbound and outbound customers requests.</description>
+    </item>
+    
+    <item>
+      <title>Video Calls · Scheduled vs Team View</title>
+      <link>https://blog.ivrpowers.com/post/customerengagement/video-calls-scheduled-vs-team-view/</link>
+      <pubDate>Sun, 19 Jul 2020 11:00:00 +0200</pubDate>
+      
+      <guid>https://blog.ivrpowers.com/post/customerengagement/video-calls-scheduled-vs-team-view/</guid>
+      <description>Photo source: Interactive Powers. Creative Commons Why most companies have to change their mind about Video Calls productivity and integration? Most “Video Meeting” solutions (Zoom, Teams, LifeSize, Google Meet…) used for teleworking, remote business meetings, doctor visits or friends &amp;amp; family conversations are based on scheduled invitation for specific users. A scheduled approach can be one-to-many or one-to-one when you are sending an invite to connect. In real-time processes, you will need to manage quickly the following inbound videocall in real-time.</description>
+    </item>
     
     <item>
       <title>Build memorable responsive Real-Time Communications Widgets.</title>

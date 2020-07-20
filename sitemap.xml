@@ -18,6 +18,21 @@
   </url>
   
   <url>
+    <loc>https://blog.ivrpowers.com/post/customerengagement/video-calls-scheduled-vs-queued/</loc>
+    <lastmod>2020-07-19T21:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.ivrpowers.com/post/customerengagement/video-calls-scheduled-vs-team-view/</loc>
+    <lastmod>2020-07-19T11:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.ivrpowers.com/post/marketing/video-rtc-solutions-ecosystem/</loc>
+    <lastmod>2020-07-19T00:18:00+02:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://blog.ivrpowers.com/post/marketing/video-calling-on-queue/</loc>
     <lastmod>2020-07-03T00:18:00+02:00</lastmod>
   </url>
@@ -1685,13 +1700,13 @@
   
   <url>
     <loc>https://blog.ivrpowers.com/categories/customerengagement/</loc>
-    <lastmod>2020-02-29T19:00:00+02:00</lastmod>
+    <lastmod>2020-07-19T21:00:00+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://blog.ivrpowers.com/tags/cx/</loc>
-    <lastmod>2020-07-03T00:18:00+02:00</lastmod>
+    <lastmod>2020-07-19T00:18:00+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1907,7 +1922,7 @@
   
   <url>
     <loc>https://blog.ivrpowers.com/categories/marketing/</loc>
-    <lastmod>2020-07-03T00:18:00+02:00</lastmod>
+    <lastmod>2020-07-19T00:18:00+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -2039,7 +2054,7 @@
   
   <url>
     <loc>https://blog.ivrpowers.com/tags/rtc/</loc>
-    <lastmod>2020-07-03T00:18:00+02:00</lastmod>
+    <lastmod>2020-07-19T21:00:00+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -2243,7 +2258,7 @@
   
   <url>
     <loc>https://blog.ivrpowers.com/tags/videocall/</loc>
-    <lastmod>2020-06-02T20:00:00+02:00</lastmod>
+    <lastmod>2020-07-19T21:00:00+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -2273,13 +2288,13 @@
   
   <url>
     <loc>https://blog.ivrpowers.com/tags/videortc/</loc>
-    <lastmod>2020-07-03T00:18:00+02:00</lastmod>
+    <lastmod>2020-07-19T21:00:00+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://blog.ivrpowers.com/tags/voice/</loc>
-    <lastmod>2020-01-26T21:00:00+02:00</lastmod>
+    <lastmod>2020-07-19T21:00:00+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -2345,7 +2360,7 @@
   
   <url>
     <loc>https://blog.ivrpowers.com/tags/webrtc/</loc>
-    <lastmod>2020-03-25T13:00:00+02:00</lastmod>
+    <lastmod>2020-07-19T21:00:00+02:00</lastmod>
     <priority>0</priority>
   </url>
   
