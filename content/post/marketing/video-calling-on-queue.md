@@ -4,7 +4,7 @@ date = "2020-07-03T00:18:00+02:00"
 description = "Video RTC for Genesys"
 draft = false
 tags = ["rtc","contactcenter","cx","videortc"]
-title = "Video Calling On Queue"
+title = "Video Calling: On Queue"
 image = "/postimages/marketing/ivrpowers-sides-31-05.014.png"
 comments = true
 
