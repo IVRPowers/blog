@@ -24,7 +24,7 @@ Powered by Video RTC (WebRTC) - [Interactive Powers](http://www.ivrpowers.com/)
 Key features:
 
 * Fully Responsive
-* Video Push
+* Video Calling
 * Team View
 * Manager Role
 * Send a Link
@@ -37,7 +37,7 @@ Virgo Business is created to meet with your customer  by secure remote video, th
 
 ![Virgo Business - Fully Responsive](/postimages/products/slide-virgo-business.002.jpeg)
 
-## Video Push.
+## Video Calling.
 
 Virgo Business to make your collaboration experiences as simple and accessible as possible. A experience that allows you to work how you want from anywhere! Your agents & advisors, can talk to customers regardless of their physical location. Only the professional can start a videocall with your client – not the other way around.
 

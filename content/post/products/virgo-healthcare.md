@@ -24,7 +24,7 @@ Powered by Video RTC (WebRTC) - [Interactive Powers](http://www.ivrpowers.com/)
 Key features:
 
 * Fully Responsive
-* Video Push
+* Video Calling
 * Team View
 * Manager Role
 * Send a Link
@@ -37,7 +37,7 @@ Clinicians can expand their care and reach patients by secure remote video consu
 
 ![Virgo Healthcare - Fully Responsive](/postimages/products/slide-virgo-healthcare.002.jpeg)
 
-## Video Push.
+## Video Calling.
 
 With NO APPS accessibility always in mind, we have created Virgo Telehealth extremely simple and easy to use for both clinicians and patients.  Healthcare professionals in control: only the doctor can start a videocall with a patient – not the other way around.
 
