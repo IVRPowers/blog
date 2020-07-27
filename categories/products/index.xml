@@ -6,10 +6,19 @@
     <description>Recent content in Products on Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 20 Jun 2020 16:00:00 +0200</lastBuildDate>
+    <lastBuildDate>Sun, 26 Jul 2020 09:00:00 +0200</lastBuildDate>
     
 	<atom:link href="https://blog.ivrpowers.com/categories/products/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>CoBrowsing</title>
+      <link>https://blog.ivrpowers.com/post/products/cobrowsing/</link>
+      <pubDate>Sun, 26 Jul 2020 09:00:00 +0200</pubDate>
+      
+      <guid>https://blog.ivrpowers.com/post/products/cobrowsing/</guid>
+      <description>Photo source: Interactive Powers Creative Commons Securely share and browse in your web pages simultaneously with your customers. The Cobrowsing humanises the online sales and support experience, enabling your contact center agents to interact with your customers and assist them via a shared browser. Thanks to the use of the Cobrowsing, the communication becomes far more natural, effective, and efficient, bringing the customer-agent exchange closer to that of an in-store, in-person interaction.</description>
+    </item>
     
     <item>
       <title>Virgo Business</title>
