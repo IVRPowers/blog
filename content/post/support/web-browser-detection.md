@@ -1,9 +1,9 @@
 +++
 categories = ["support"]
-date = "2020-05-17T15:00:26+02:00"
-description = "No software works without support."
-draft = true
-tags = ["support","videortc","smartivr"]
+date = "2020-07-27T15:00:26+02:00"
+description = "WebRTC Testing"
+draft = false
+tags = ["support","videortc","webrtc"]
 title = "Device & Web Browser Detection"
 image = "/postimages/support/slides-healthcare.008.jpeg"
 
@@ -13,7 +13,7 @@ image = "/postimages/support/slides-healthcare.008.jpeg"
 ------------
 ###### Photo Source: Pexels. Creative Commons
 
-##	Check your device and web browser
+##	Check your Mobile Device and Web Browser
 
 Many modern devices and web browsers are fully compliant with a WebRTC connection...
 

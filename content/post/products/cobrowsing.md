@@ -41,13 +41,13 @@ Implementing CoBrowsing  solution with JS technology is simple and requires no d
 
 ## Phone or Video Calling.
 
-Starting from a Live Chat or while talking on the Phone, companies can marry inbound support calls with  collaborative browsing sessions. By combining Video Calling CoBrowsing, you can manage your customer’s browser and proactively guide them in the right direction. Visual engagement helps to accelerate business growth and sales conversions with personalized interactions. Live agent video brings a personal touch to customer interactions and web-collaboration tools  increase sales conversion.
+Starting from a Live Chat or while talking on the Phone, companies can marry inbound support calls with  collaborative browsing sessions. By combining Video Calling and CoBrowsing, you can manage your customer’s browser and proactively guide them in the right direction. Visual engagement helps to accelerate business growth and sales conversions with personalized interactions. Live agent video brings a personal touch to customer interactions and web-collaboration tools  increase sales conversion.
 
 ![CoBrowsing Video Calling](/postimages/products/cobrowsing-brochure.004.jpeg)
 
 ##  Action Button (FAB).
 
-CoBrowsing provides rich visual context, which creates a deeper level of engagement and more successful online sales and support conversations. Customize your Live Chat widget with preferable requirements that match your website branding. It helps customers to connect and interact with your website in an effective manner The true value of CoBrowsing shines when coupled with Video RTCsolutions, such as Video Calling, Live Chat, Screen Sharing...
+CoBrowsing provides rich visual context, which creates a deeper level of engagement and more successful online sales and support conversations. Customize your Live Chat widget with preferable requirements that match your website branding. It helps customers to connect and interact with your website in an effective manner The true value of CoBrowsing shines when coupled with Video RTC solutions, such as Video Calling, Live Chat, Screen Sharing...
 
 ![CoBrowsing Action Button](/postimages/products/cobrowsing-brochure.003.jpeg)
 
