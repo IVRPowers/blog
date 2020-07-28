@@ -41,6 +41,19 @@ Interactive Powers delivers communication platforms that enables advanced real-t
     </item>
     
     <item>
+      <title>Device &amp; Web Browser Detection</title>
+      <link>https://blog.ivrpowers.com/post/support/web-browser-detection/</link>
+      <pubDate>Mon, 27 Jul 2020 15:00:26 +0200</pubDate>
+      
+      <guid>https://blog.ivrpowers.com/post/support/web-browser-detection/</guid>
+      <description>Photo Source: Pexels. Creative Commons Check your Mobile Device and Web Browser Many modern devices and web browsers are fully compliant with a WebRTC connection&amp;hellip;
+https://webrtc.demo.ivrpowers.com/poc/detection/
+Please contact us, if you get specific device data that you need to black-list or white-list.
+Dump Sample:
+Browser: Firefox 76 76.0 OS: Mac OS X 10.15 1.4.0 Chrome check: undefined Microphone: true Speakers: false Webcam: true isApplyConstraintsSupported: true isCreateMediaStreamSourceSupported: true isGetUserMediaSupported: true isMobileDevice: false isPromisesSupported: true isRtpDataChannelsSupported: false isVideoSupportsStreamCapturing: true isWebRTCSupported: true isWebSocketsSupported: true isWebsiteHasMicrophonePermissions: false isWebsiteHasWebcamPermissions: false  Please, contact our support for more information.</description>
+    </item>
+    
+    <item>
       <title>CoBrowsing</title>
       <link>https://blog.ivrpowers.com/post/products/cobrowsing/</link>
       <pubDate>Sun, 26 Jul 2020 09:00:00 +0200</pubDate>
