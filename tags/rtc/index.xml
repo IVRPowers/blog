@@ -6,10 +6,19 @@
     <description>Recent content in Rtc on Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 26 Jul 2020 09:00:00 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 12 Aug 2020 18:00:00 +0100</lastBuildDate>
     
 	<atom:link href="https://blog.ivrpowers.com/tags/rtc/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Video RTC · PIN Access</title>
+      <link>https://blog.ivrpowers.com/post/technologies/pin-access/</link>
+      <pubDate>Wed, 12 Aug 2020 18:00:00 +0100</pubDate>
+      
+      <guid>https://blog.ivrpowers.com/post/technologies/pin-access/</guid>
+      <description>Image source: Interactive Powers Connect easily any real-time session from any device or browser with a PIN code. If you wish to utilize Video RTC / Solutions as part of your support efforts, a custom PIN access, where your customers can enter a unique pin code to connect with an agent is another way to start co-browsing, screen sharing or voice &amp;amp; video calling. You only have to redirects your customers to a landing page like our new one: https://pwrs.</description>
+    </item>
     
     <item>
       <title>CoBrowsing</title>
