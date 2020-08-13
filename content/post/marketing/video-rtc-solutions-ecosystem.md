@@ -49,7 +49,7 @@ Developed with peer-to-peer approach and powered by our own gateways:
 
 * [Virgo Healthcare](https://blog.ivrpowers.com/post/products/virgo-healthcare/)
 * [Virgo Business](https://blog.ivrpowers.com/post/products/virgo-business/)
-* CoBrowsing
+* [CoBrowsing](https://blog.ivrpowers.com/post/products/cobrowsing/)
 * Meeting Point
 * Remote Viewer
 
