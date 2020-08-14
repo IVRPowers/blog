@@ -41,6 +41,17 @@ Interactive Powers delivers communication platforms that enables advanced real-t
     </item>
     
     <item>
+      <title>Video RTC (WebRTC) v4.2.1</title>
+      <link>https://blog.ivrpowers.com/post/updates/update-video-rtc-webrtc-4.2.1/</link>
+      <pubDate>Thu, 13 Aug 2020 12:00:00 +0200</pubDate>
+      
+      <guid>https://blog.ivrpowers.com/post/updates/update-video-rtc-webrtc-4.2.1/</guid>
+      <description>Release Note We are pleased to announce that our new Video RTC (Gateway WebRTC) v4.2.1 has been released for suitable production services. This new version includes a specific security fix for data channel recommendations. All users with previous maintained versions can upgrade today. Please contact our support!
+ChangeLog Version 4.2.1:
+## [4.2.1] - 2020-08-13 ### Fixed - Fixed usrsctp vulnerability in SCTP module  Interactive Powers - Streamline your business communications</description>
+    </item>
+    
+    <item>
       <title>Video RTC · PIN Access</title>
       <link>https://blog.ivrpowers.com/post/technologies/pin-access/</link>
       <pubDate>Wed, 12 Aug 2020 18:00:00 +0100</pubDate>
