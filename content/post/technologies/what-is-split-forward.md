@@ -53,11 +53,12 @@ Leading Market Mobile OS are compliant without any plugin:
 
 ##	What ACD/PBX can be connected?
 
-You can connect any kind of SIP compliant PBX or ACD (Automatic Call Distribution) solution like and not limited to:
+You can connect following most SIP compliant CTI, PBX or ACD (Automatic Call Distribution) and not limited to:
 
 * Altitude Software
 * Enghouse / Presence
-* Genesys PureCloud
+* Genesys Cloud
+* Genesys Connect
 * Genesys Engage
 * Motion XCally
 * Cisco CM
@@ -67,7 +68,11 @@ You can connect any kind of SIP compliant PBX or ACD (Automatic Call Distributio
 * Kolmisoft
 * InConcert
 * 3CX PBX / Call Center
+* Vocalcom Hermes360
 * Asterisk PBX
+* Issabel
+* Xorcom
+* ...
 
 ##	Need to add it right now?
 

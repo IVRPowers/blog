@@ -40,13 +40,14 @@ This process is called [WebRTC-to-SIP](https://blog.ivrpowers.com/post/technolog
 
 ##	Leading Call Centers Suites supported
 
-[Interactive Powers](https://interactivepowers.com) connects and integrates seamlessly most leading Call Center suites. No matters, if you don’t find your solution below; you can easily add it using our standard SPLIT module compliant any SIP enabled CTI, PBX or ACD (Automatic Call Distribution):
+[Interactive Powers](https://interactivepowers.com) connects and integrates seamlessly most leading Call Center suites. No matters, if you don’t find your solution below; you can easily add it using our standard SPLIT module compliant with most SIP enabled CTI, PBX or ACD (Automatic Call Distribution) and not limited to:
 
 ![Contact Center Vendors](/postimages/technologies/ivrpowers-contact-center.005.jpeg)
 
 * Altitude Software
 * Enghouse / Presence
-* Genesys PureCloud
+* Genesys Cloud
+* Genesys Connect
 * Genesys Engage
 * Motion XCally
 * Cisco CM
@@ -56,11 +57,15 @@ This process is called [WebRTC-to-SIP](https://blog.ivrpowers.com/post/technolog
 * Kolmisoft
 * InConcert
 * 3CX PBX / Call Center
+* Vocalcom Hermes360
 * Asterisk PBX
+* Issabel
+* Xorcom
+* ...
 
 ##	Special Extensions
 
-Our Video Gateway (WebRTC) includes many features or special extensions that you can activate according to your own business processes. All of this, is part of the capabilities of our Video RTC solution suite.
+Our Video Gateway (WebRTC) includes many features or special extensions that you can activate according to your own business processes. All of this, is part of the capabilities of our Video RTC platform and solutions.
 
 * Live Chat
 * File Sharing
