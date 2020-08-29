@@ -6,10 +6,19 @@
     <description>Recent content in Videocall on Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 19 Jul 2020 21:00:00 +0200</lastBuildDate>
+    <lastBuildDate>Sat, 29 Aug 2020 09:00:00 +0200</lastBuildDate>
     
 	<atom:link href="https://blog.ivrpowers.com/tags/videocall/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Video RTC · Tester</title>
+      <link>https://blog.ivrpowers.com/post/products/video-rtc-tester/</link>
+      <pubDate>Sat, 29 Aug 2020 09:00:00 +0200</pubDate>
+      
+      <guid>https://blog.ivrpowers.com/post/products/video-rtc-tester/</guid>
+      <description>Photo source: Unsplash Add a Four Steps Tester for your Video RTC services to improve Customer Experience and QoS. Most users are not aware about their communications and hardware conditions to make video calls over an Internet access. If you don&amp;rsquo;t take care about this, some of them will be disappointed of been rejected by technical issues. In order to improve your Customer Journey and Experience, add a simple testing four steps process in front of your Video RTC communications services.</description>
+    </item>
     
     <item>
       <title>Video Calls · Scheduled vs Queued</title>
