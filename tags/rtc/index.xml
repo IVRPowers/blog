@@ -6,10 +6,22 @@
     <description>Recent content in Rtc on Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 29 Aug 2020 09:00:00 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 21 Sep 2020 16:20:00 +0200</lastBuildDate>
     
 	<atom:link href="https://blog.ivrpowers.com/tags/rtc/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Introducing Background Blur in Video RTC</title>
+      <link>https://blog.ivrpowers.com/post/technologies/background-blur/</link>
+      <pubDate>Mon, 21 Sep 2020 16:20:00 +0200</pubDate>
+      
+      <guid>https://blog.ivrpowers.com/post/technologies/background-blur/</guid>
+      <description>Allows you to blur the background during your business video calls. Improve your sales or business video calls blurring your background makes your surroundings appear out of focus so people can&amp;rsquo;t see the details of what&amp;rsquo;s going on behind you.
+Limit distractions and maintain privacy in your current surroundings by using a virtual background. You can blur your background during your meeting, event, or training session.
+Unretouched Screenshots:
+Need to add it right now?</description>
+    </item>
     
     <item>
       <title>Video RTC · Tester</title>
