@@ -59,7 +59,7 @@ To request any more storage capacity, please contact our Sales team.
 
 All [Video Gateways](https://www.ivrpowers.com/videortc/) (WebRTC) developed by Interactive Powers include a special [SPLIT](https://blog.ivrpowers.com/post/technologies/what-is-split/) module which allows separate the media streams (video - audio - data) for any communication between users and agents. This development is based on SIP  and [WebRTC](https://blog.ivrpowers.com/post/technologies/what-is-webrtc/) peers communications for the integration of voice, video and data in Contact Centers.
 
-![Video Recording Process](/postimages/products/video-recording-ivrpowers.025.png)
+![Video Recording Process](/postimages/products/ivrpowers-turnkey-screen.016.png)
 
 ###	Step 1. Streams recording
 
@@ -84,19 +84,25 @@ Customers can have access to manage their own contents in order to get RAW or MP
 ##	Key Benefits
 ---
 
-###	Real-time Recording
+![Video Recording Process](/postimages/products/ivrpowers-turnkey-screen.017.png)
+
+###	1. Privacy and Security
+
+You can select to deploy REC on your own AWS organization or choose the region EU / US. Please contact our sales for more information. 
+
+###	2. Real-time Recording
 
 You can record all your video calls in real time from the video gateway and access your archives immediately once released in the RAW format used by our WebRTC gateways.
 
-###	Storage Distribution
+###	3. Storage Distribution
 
 Archives are pushed directly to your storage account, with the Cloud Hosting as an 24-hour backup. Each account is dedicated for your services only and use long term storage on S3 buckets.
 
-###	Scalability and Reliability
+###	5. Scalability and Reliability
 
 Whether you need to record a 1:1 video call, video SPLIT with users and agents our robust and reliable archiving functionality scales to meet your needs.
 
-###	Encrypted Recording
+###	6. Encrypted Recording
 
 Recorded data is AES 256-bit encrypted at rest or in transit, providing the highest level of security to meet the most stringent of compliance and regulatory requirements.
 
