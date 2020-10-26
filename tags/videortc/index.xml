@@ -6,10 +6,49 @@
     <description>Recent content in Videortc on Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 21 Sep 2020 16:20:00 +0200</lastBuildDate>
+    <lastBuildDate>Sun, 25 Oct 2020 21:00:00 +0200</lastBuildDate>
     
 	<atom:link href="https://blog.ivrpowers.com/tags/videortc/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Video RTC · REC Storage</title>
+      <link>https://blog.ivrpowers.com/post/products/rec-storage-for-video-rtc/</link>
+      <pubDate>Sun, 25 Oct 2020 21:00:00 +0200</pubDate>
+      
+      <guid>https://blog.ivrpowers.com/post/products/rec-storage-for-video-rtc/</guid>
+      <description>Securely archive all your audio / video streams in MP4 blended file or as RAW separate files. Get elastic cloud storage for Video RTC recordings with enterprise-grade capabilities, reliability, and security that is as simple as one, two, three. Just log into secure S3 Sockets, pick the Gigabytes or Terabytes you need, and select the AWS region to use. That’s it. Then sit back and enjoy call center-grade cloud recording with no compromises.</description>
+    </item>
+    
+    <item>
+      <title>Introducing Background Image in Video RTC</title>
+      <link>https://blog.ivrpowers.com/post/technologies/background-image/</link>
+      <pubDate>Sun, 25 Oct 2020 20:20:00 +0200</pubDate>
+      
+      <guid>https://blog.ivrpowers.com/post/technologies/background-image/</guid>
+      <description>Allows you o display an image as your background during your business video calls. Improve your sales or business video calls replacing your background by a nice picture removes all your surroundings so people can&amp;rsquo;t see the details of what&amp;rsquo;s going on behind you.
+Limit distractions and maintain privacy in your current surroundings by using a virtual background. You can change your background, or add a background image during your video call sessions.</description>
+    </item>
+    
+    <item>
+      <title>Video Call switching to Mobile Device</title>
+      <link>https://blog.ivrpowers.com/post/marketing/video-call-switching-to-mobile-device/</link>
+      <pubDate>Sun, 25 Oct 2020 00:20:00 +0200</pubDate>
+      
+      <guid>https://blog.ivrpowers.com/post/marketing/video-call-switching-to-mobile-device/</guid>
+      <description>Photo source: Interactive Powers Creative Commons. Make better and safe local point of sales with Scan-to-Videocall in order to improve social distance and get face-to-face sales online support. You want your agents or sales representative to quickly move around a showroom with a video call using their smartphone with a wireless internet access.
+We recommend to connect your Agent with a desktop that enable to switch easily to their mobile device using our QR code in screen.</description>
+    </item>
+    
+    <item>
+      <title>Scan to Video Call with QR code</title>
+      <link>https://blog.ivrpowers.com/post/marketing/scan-to-videocall-with-qr-code/</link>
+      <pubDate>Sun, 25 Oct 2020 00:18:00 +0200</pubDate>
+      
+      <guid>https://blog.ivrpowers.com/post/marketing/scan-to-videocall-with-qr-code/</guid>
+      <description>Photo source: Interactive Powers Creative Commons. Make better and safe local point of sales with Scan-to-Videocall in order to improve social distance and get face-to-face sales online support. You want your customers to directly video call your contact center using their smartphone without any mobile app, registration, pluging or download.
+This Video RTC feature is very interesting to connect easily existing local services with a remote sales force team that will provide safe face-to-face support to users or customers.</description>
+    </item>
     
     <item>
       <title>Introducing Background Blur in Video RTC</title>

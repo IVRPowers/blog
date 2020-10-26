@@ -6,10 +6,20 @@
     <description>Recent content in Cctr on Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 21 Sep 2020 16:20:00 +0200</lastBuildDate>
+    <lastBuildDate>Sun, 25 Oct 2020 20:20:00 +0200</lastBuildDate>
     
 	<atom:link href="https://blog.ivrpowers.com/tags/cctr/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Introducing Background Image in Video RTC</title>
+      <link>https://blog.ivrpowers.com/post/technologies/background-image/</link>
+      <pubDate>Sun, 25 Oct 2020 20:20:00 +0200</pubDate>
+      
+      <guid>https://blog.ivrpowers.com/post/technologies/background-image/</guid>
+      <description>Allows you o display an image as your background during your business video calls. Improve your sales or business video calls replacing your background by a nice picture removes all your surroundings so people can&amp;rsquo;t see the details of what&amp;rsquo;s going on behind you.
+Limit distractions and maintain privacy in your current surroundings by using a virtual background. You can change your background, or add a background image during your video call sessions.</description>
+    </item>
     
     <item>
       <title>Introducing Background Blur in Video RTC</title>

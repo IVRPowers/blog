@@ -6,10 +6,19 @@
     <description>Recent content in Cpaas on Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 11 Jan 2020 15:00:00 +0200</lastBuildDate>
+    <lastBuildDate>Sun, 25 Oct 2020 21:00:00 +0200</lastBuildDate>
     
 	<atom:link href="https://blog.ivrpowers.com/tags/cpaas/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Video RTC · REC Storage</title>
+      <link>https://blog.ivrpowers.com/post/products/rec-storage-for-video-rtc/</link>
+      <pubDate>Sun, 25 Oct 2020 21:00:00 +0200</pubDate>
+      
+      <guid>https://blog.ivrpowers.com/post/products/rec-storage-for-video-rtc/</guid>
+      <description>Securely archive all your audio / video streams in MP4 blended file or as RAW separate files. Get elastic cloud storage for Video RTC recordings with enterprise-grade capabilities, reliability, and security that is as simple as one, two, three. Just log into secure S3 Sockets, pick the Gigabytes or Terabytes you need, and select the AWS region to use. That’s it. Then sit back and enjoy call center-grade cloud recording with no compromises.</description>
+    </item>
     
     <item>
       <title>Cloud Storage · Video Recording</title>
