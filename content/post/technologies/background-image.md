@@ -1,8 +1,8 @@
 +++
 categories = ["technologies"]
-date = "2020-09-21T18:20:00+02:00"
+date = "2020-10-25T20:20:00+02:00"
 description = "Complementary Software"
-draft = true
+draft = false
 tags = ["webrtc", "rtc", "cctr", "videortc"]
 title = "Introducing Background Image in Video RTC"
 image = "/postimages/technologies/slides.020.jpeg"
