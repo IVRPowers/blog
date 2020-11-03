@@ -18,6 +18,16 @@
   </url>
   
   <url>
+    <loc>https://blog.ivrpowers.com/post/products/video-rtc-call-transfer/</loc>
+    <lastmod>2020-11-01T19:30:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.ivrpowers.com/post/contactcenter/video-call-transferring-interoperability-for-contact-centers/</loc>
+    <lastmod>2020-11-01T19:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://blog.ivrpowers.com/post/general/happy-halloween-2020/</loc>
     <lastmod>2020-10-31T09:00:00+02:00</lastmod>
   </url>
@@ -1647,6 +1657,12 @@
   </url>
   
   <url>
+    <loc>https://blog.ivrpowers.com/tags/call-center/</loc>
+    <lastmod>2020-11-01T19:30:00+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://blog.ivrpowers.com/tags/callcenters/</loc>
     <lastmod>2017-11-13T00:20:05+02:00</lastmod>
     <priority>0</priority>
@@ -1707,13 +1723,13 @@
   
   <url>
     <loc>https://blog.ivrpowers.com/tags/contactcenter/</loc>
-    <lastmod>2020-07-03T00:18:00+02:00</lastmod>
+    <lastmod>2020-11-01T19:00:00+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://blog.ivrpowers.com/categories/contactcenter/</loc>
-    <lastmod>2018-01-22T19:00:00+02:00</lastmod>
+    <lastmod>2020-11-01T19:00:00+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -2097,7 +2113,7 @@
   
   <url>
     <loc>https://blog.ivrpowers.com/categories/products/</loc>
-    <lastmod>2020-10-25T21:00:00+02:00</lastmod>
+    <lastmod>2020-11-01T19:30:00+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -2115,7 +2131,7 @@
   
   <url>
     <loc>https://blog.ivrpowers.com/tags/rtc/</loc>
-    <lastmod>2020-10-25T20:20:00+02:00</lastmod>
+    <lastmod>2020-11-01T19:30:00+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -2319,7 +2335,7 @@
   
   <url>
     <loc>https://blog.ivrpowers.com/tags/videocall/</loc>
-    <lastmod>2020-10-25T00:20:00+02:00</lastmod>
+    <lastmod>2020-11-01T19:30:00+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -2349,7 +2365,7 @@
   
   <url>
     <loc>https://blog.ivrpowers.com/tags/videortc/</loc>
-    <lastmod>2020-10-25T21:00:00+02:00</lastmod>
+    <lastmod>2020-11-01T19:00:00+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -2421,7 +2437,7 @@
   
   <url>
     <loc>https://blog.ivrpowers.com/tags/webrtc/</loc>
-    <lastmod>2020-10-25T20:20:00+02:00</lastmod>
+    <lastmod>2020-11-01T19:30:00+02:00</lastmod>
     <priority>0</priority>
   </url>
   

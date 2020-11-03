@@ -6,10 +6,19 @@
     <description>Recent content in Products on Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 25 Oct 2020 21:00:00 +0200</lastBuildDate>
+    <lastBuildDate>Sun, 01 Nov 2020 19:30:00 +0200</lastBuildDate>
     
 	<atom:link href="https://blog.ivrpowers.com/categories/products/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Video RTC · Call Transfer</title>
+      <link>https://blog.ivrpowers.com/post/products/video-rtc-call-transfer/</link>
+      <pubDate>Sun, 01 Nov 2020 19:30:00 +0200</pubDate>
+      
+      <guid>https://blog.ivrpowers.com/post/products/video-rtc-call-transfer/</guid>
+      <description>Photo source: Interactive Powers Video RTC enables to transfer any video call by simply dialing the extension of a queue or agent. Video Call Transferring, or Video Call forwarding, is a process of relocating an inbound video call to another agent. Video Call Transfer is very useful for video agents and internally for contact center teams. Video agents use call transferring to instantly route incoming calls throughout the Contact Center or Organization.</description>
+    </item>
     
     <item>
       <title>Video RTC · REC Storage</title>
