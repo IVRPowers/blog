@@ -23,7 +23,7 @@ image = "/postimages/products/slides-2020-12.021.jpeg"
 
 ![Video RTC Tester](/postimages/products/slides-2020-12.022.jpeg)
 
-Let’s describe the any process of video call transfer on Video RTC is powered both by SIP and Web RTC.
+Let’s describe the any process of video call transfer on [Video RTC](https://www.ivrpowers.com/videortc/) is powered both by [SIP](https://blog.ivrpowers.com/post/products/video-rtc-sip-connect/) and [WebRTC](https://blog.ivrpowers.com/post/technologies/what-is-webrtc/).
 
 1. **Press Pause**, to keep the video call connected.
 2. **Dial to Extension**, to speak with a colleague and check information.
