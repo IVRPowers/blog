@@ -1,10 +1,10 @@
 +++
 categories = ["marketing"]
-date = "2020-11-02T00:20:30+02:00"
-description = "Use Case"
-draft = true
+date = "2020-11-05T00:20:30+02:00"
+description = "Video RTC Use Case"
+draft = false
 tags = ["rtc","videortc","cx","webrtc","videocall"]
-title = "Landing Web Page with Video Call Queueing"
+title = "Landing Page with Video Call Queueing"
 image = "/postimages/marketing/slides-2020-12.014.jpeg"
 comments = true
 
@@ -14,22 +14,26 @@ comments = true
 -------
 ###### Photo source: Interactive Powers Creative Commons.
 
-#	Flip your frontend webcam stream to a mobile device in order move arround during a Video Call without hangup.
+# Enable your landing page or website visitors to join video agents in just one-click.
 ---
 
-[Enter Content]
+![Landing Web Page & Video Call](/postimages/marketing/slides-2020-12.031.jpeg)
 
-##	Desktop Web Browser
+**Landing pages or Business Website receive visits from your customers at anytime**, you should improve your customer support connecting one-to-one at this moment. A Chatbot, Form, Email is required but it could be not enough to engage a customer with your product or brand. Adding a Video Call Queueing enables that any customer can react and talk face-to-face with one of the sales agents at this moment.
+
+> Video Call Queuing enables real-time communication for your Landing Page or Website.
+
+##	Web Browser View
 
 ![Landing Web Page & Video Call](/postimages/marketing/slides-2020-12.017.jpeg)
 
-[Enter Content]
+Web Responsive design will allow to generate a video call interaction from a side button or inside the landing page. This video call can be popup or full screen according to your communication approach.
 
-##	Mobile Devices
+##	Mobile Devices View
 
 ![Landing Web Page & Video Call](/postimages/marketing/slides-2020-12.018.jpeg)
 
-[Enter Content]
+We recommend a web responsive design for your landing page, both Live Streaming and Video Calling must run directly on most mobile screens without any app or plugin.
 
 #	Streamline your business communications.
 
