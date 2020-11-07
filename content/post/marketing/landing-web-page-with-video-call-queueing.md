@@ -1,7 +1,7 @@
 +++
 categories = ["marketing"]
 date = "2020-11-05T00:20:30+02:00"
-description = "Video RTC Use Case"
+description = "Use Case"
 draft = false
 tags = ["rtc","videortc","cx","webrtc","videocall"]
 title = "Landing Page with Video Call Queueing"
@@ -29,11 +29,15 @@ comments = true
 
 Web Responsive design will allow to generate a video call interaction from a side button or inside the landing page. This video call can be popup or full screen according to your communication approach.
 
+> Landing pages or Business Website receive visits from your customers at anytime.
+
 ##	Mobile Devices View
 
 ![Landing Web Page & Video Call](/postimages/marketing/slides-2020-12.018.jpeg)
 
 We recommend a web responsive design for your landing page, both Live Streaming and Video Calling must run directly on most mobile screens without any app or plugin.
+
+> Scan-to-Video Call with QR code can help users to connect faster without app.
 
 #	Streamline your business communications.
 

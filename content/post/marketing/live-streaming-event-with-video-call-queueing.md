@@ -1,7 +1,7 @@
 +++
 categories = ["marketing"]
 date = "2020-11-05T00:21:00+02:00"
-description = "Video RTC Use Case"
+description = "Use Case"
 draft = false
 tags = ["rtc","videortc","cx","webrtc","videocall"]
 title = "Live Streaming with Video Call Queueing"
@@ -29,11 +29,15 @@ comments = true
 
 Web Responsive design will allow to generate a video call interaction from a side button or inside the website. This video call can be popup or full screen according to your communication approach.
 
+> Live Streaming can be the perfect engaging virtual event for your brand.
+
 ##	Mobile Devices View
 
 ![Live Streaming & Video Call](/postimages/marketing/slides-2020-12.013.jpeg)
 
 We recommend a web responsive design for your landing page, both Live Streaming and Video Calling must run directly on most mobile screens without any app or plugin.
+
+> Scan-to-Video Call with QR code can help users to connect faster without app.
 
 #	Streamline your business communications.
 
