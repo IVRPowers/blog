@@ -26,12 +26,12 @@ More about Centribot integrations (spanish): https://youtu.be/RAGiQD1NfL4
 COVID-19 spread requires to introduce a new set of interactive experiences, connecting websites or chatbots with video communications and remote agents to provide live support to consumers. All this new solutions provide security and social distancing to ensure business re-opening and an effective customer experience (CX).
 
 ##	About Centribal
-Centribal is a technology consultants with more than 10 years of experience. We simplify the process of digital transformation for companies. We offer personalized technological solutions, that optimize management models, automate processes, and improve customer experience. Centribal provides Centribot and have offices in Barcelona, Madrid, Miami and Santiago de Chile.
+Centribal is a technology consultants with more than 10 years of experience. We simplify the process of digital transformation for companies. We offer personalized technological solutions, that optimize management models, automate processes, and improve customer experience. Centribal provides Centribot and have offices in Barcelona, Madrid, Bogota, Miami and Santiago de Chile.
 
 More information on: https://www.centribal.com/
 
 ##	About Interactive Powers
-Interactive Powers provides Voice and Video Technologies for Cloud-based services and On Premises. Its Video RTC products provide easy-to-use, omnichannel, real-time communications, browser-driving interfaces, live chat, web collaboration, video calling, mobile app integration. Interactive Powers is a used in more than 30 countries and have offices in Spain and United States.
+Interactive Powers provides Voice and Video Technologies for Cloud-based services and On Premises. Its Video RTC products provide easy-to-use, omnichannel, real-time communications, browser-driving interfaces, live chat, web collaboration, video calling, mobile app integration. Interactive Powers solutions are deployed by more than 30 partners and has offices in Spain and United States.
 
 More information on: https://www.interactivepowers.com
 
