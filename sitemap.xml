@@ -18,6 +18,21 @@
   </url>
   
   <url>
+    <loc>https://blog.ivrpowers.com/post/marketing/salesland-webinar/</loc>
+    <lastmod>2020-11-17T00:18:30+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.ivrpowers.com/post/marketing/video-channels-for-your-business/</loc>
+    <lastmod>2020-11-16T00:20:30+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.ivrpowers.com/post/marketing/centribot-chatbot-with-video-calling-integration/</loc>
+    <lastmod>2020-11-16T00:18:30+02:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://blog.ivrpowers.com/post/marketing/scheduled-video-calling/</loc>
     <lastmod>2020-11-06T00:20:30+02:00</lastmod>
   </url>
@@ -1702,7 +1717,7 @@
   
   <url>
     <loc>https://blog.ivrpowers.com/tags/chatbot/</loc>
-    <lastmod>2019-02-21T02:00:00+02:00</lastmod>
+    <lastmod>2020-11-16T00:18:30+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1858,7 +1873,7 @@
   
   <url>
     <loc>https://blog.ivrpowers.com/tags/event/</loc>
-    <lastmod>2020-03-01T10:00:00+02:00</lastmod>
+    <lastmod>2020-11-17T00:18:30+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1966,7 +1981,7 @@
   
   <url>
     <loc>https://blog.ivrpowers.com/tags/ivr/</loc>
-    <lastmod>2020-04-10T00:20:00+02:00</lastmod>
+    <lastmod>2020-11-16T00:20:30+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -2008,7 +2023,7 @@
   
   <url>
     <loc>https://blog.ivrpowers.com/categories/marketing/</loc>
-    <lastmod>2020-11-06T00:20:30+02:00</lastmod>
+    <lastmod>2020-11-17T00:18:30+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -2104,7 +2119,7 @@
   
   <url>
     <loc>https://blog.ivrpowers.com/tags/pbx/</loc>
-    <lastmod>2020-02-09T18:00:00+02:00</lastmod>
+    <lastmod>2020-11-16T00:20:30+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -2146,7 +2161,7 @@
   
   <url>
     <loc>https://blog.ivrpowers.com/tags/rtc/</loc>
-    <lastmod>2020-11-06T00:20:30+02:00</lastmod>
+    <lastmod>2020-11-16T00:20:30+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -2165,6 +2180,12 @@
   <url>
     <loc>https://blog.ivrpowers.com/tags/safari/</loc>
     <lastmod>2020-02-04T12:00:00+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.ivrpowers.com/tags/sales/</loc>
+    <lastmod>2020-11-17T00:18:30+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -2343,6 +2364,12 @@
   </url>
   
   <url>
+    <loc>https://blog.ivrpowers.com/tags/video/</loc>
+    <lastmod>2020-11-17T00:18:30+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://blog.ivrpowers.com/tags/videobot/</loc>
     <lastmod>2018-11-08T22:00:00+01:00</lastmod>
     <priority>0</priority>
@@ -2350,7 +2377,7 @@
   
   <url>
     <loc>https://blog.ivrpowers.com/tags/videocall/</loc>
-    <lastmod>2020-11-06T00:20:30+02:00</lastmod>
+    <lastmod>2020-11-16T00:20:30+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -2380,7 +2407,7 @@
   
   <url>
     <loc>https://blog.ivrpowers.com/tags/videortc/</loc>
-    <lastmod>2020-11-06T00:20:30+02:00</lastmod>
+    <lastmod>2020-11-16T00:20:30+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -2441,6 +2468,12 @@
   <url>
     <loc>https://blog.ivrpowers.com/tags/webclient/</loc>
     <lastmod>2018-07-05T09:00:00+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.ivrpowers.com/tags/webinar/</loc>
+    <lastmod>2020-11-17T00:18:30+02:00</lastmod>
     <priority>0</priority>
   </url>
   

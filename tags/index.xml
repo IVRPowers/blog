@@ -212,7 +212,7 @@
     <item>
       <title>Chatbot</title>
       <link>https://blog.ivrpowers.com/tags/chatbot/</link>
-      <pubDate>Thu, 21 Feb 2019 02:00:00 +0200</pubDate>
+      <pubDate>Mon, 16 Nov 2020 00:18:30 +0200</pubDate>
       
       <guid>https://blog.ivrpowers.com/tags/chatbot/</guid>
       <description></description>
@@ -383,7 +383,7 @@
     <item>
       <title>Event</title>
       <link>https://blog.ivrpowers.com/tags/event/</link>
-      <pubDate>Sun, 01 Mar 2020 10:00:00 +0200</pubDate>
+      <pubDate>Tue, 17 Nov 2020 00:18:30 +0200</pubDate>
       
       <guid>https://blog.ivrpowers.com/tags/event/</guid>
       <description></description>
@@ -509,7 +509,7 @@
     <item>
       <title>Ivr</title>
       <link>https://blog.ivrpowers.com/tags/ivr/</link>
-      <pubDate>Fri, 10 Apr 2020 00:20:00 +0200</pubDate>
+      <pubDate>Mon, 16 Nov 2020 00:20:30 +0200</pubDate>
       
       <guid>https://blog.ivrpowers.com/tags/ivr/</guid>
       <description></description>
@@ -698,7 +698,7 @@
     <item>
       <title>Pbx</title>
       <link>https://blog.ivrpowers.com/tags/pbx/</link>
-      <pubDate>Sun, 09 Feb 2020 18:00:00 +0200</pubDate>
+      <pubDate>Mon, 16 Nov 2020 00:20:30 +0200</pubDate>
       
       <guid>https://blog.ivrpowers.com/tags/pbx/</guid>
       <description></description>
@@ -743,7 +743,7 @@
     <item>
       <title>Rtc</title>
       <link>https://blog.ivrpowers.com/tags/rtc/</link>
-      <pubDate>Fri, 06 Nov 2020 00:20:30 +0200</pubDate>
+      <pubDate>Mon, 16 Nov 2020 00:20:30 +0200</pubDate>
       
       <guid>https://blog.ivrpowers.com/tags/rtc/</guid>
       <description></description>
@@ -773,6 +773,15 @@
       <pubDate>Tue, 04 Feb 2020 12:00:00 +0200</pubDate>
       
       <guid>https://blog.ivrpowers.com/tags/safari/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sales</title>
+      <link>https://blog.ivrpowers.com/tags/sales/</link>
+      <pubDate>Tue, 17 Nov 2020 00:18:30 +0200</pubDate>
+      
+      <guid>https://blog.ivrpowers.com/tags/sales/</guid>
       <description></description>
     </item>
     
@@ -984,6 +993,15 @@
     </item>
     
     <item>
+      <title>Video</title>
+      <link>https://blog.ivrpowers.com/tags/video/</link>
+      <pubDate>Tue, 17 Nov 2020 00:18:30 +0200</pubDate>
+      
+      <guid>https://blog.ivrpowers.com/tags/video/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Videobot</title>
       <link>https://blog.ivrpowers.com/tags/videobot/</link>
       <pubDate>Thu, 08 Nov 2018 22:00:00 +0100</pubDate>
@@ -995,7 +1013,7 @@
     <item>
       <title>Videocall</title>
       <link>https://blog.ivrpowers.com/tags/videocall/</link>
-      <pubDate>Fri, 06 Nov 2020 00:20:30 +0200</pubDate>
+      <pubDate>Mon, 16 Nov 2020 00:20:30 +0200</pubDate>
       
       <guid>https://blog.ivrpowers.com/tags/videocall/</guid>
       <description></description>
@@ -1040,7 +1058,7 @@
     <item>
       <title>Videortc</title>
       <link>https://blog.ivrpowers.com/tags/videortc/</link>
-      <pubDate>Fri, 06 Nov 2020 00:20:30 +0200</pubDate>
+      <pubDate>Mon, 16 Nov 2020 00:20:30 +0200</pubDate>
       
       <guid>https://blog.ivrpowers.com/tags/videortc/</guid>
       <description></description>
@@ -1133,6 +1151,15 @@
       <pubDate>Thu, 05 Jul 2018 09:00:00 +0200</pubDate>
       
       <guid>https://blog.ivrpowers.com/tags/webclient/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Webinar</title>
+      <link>https://blog.ivrpowers.com/tags/webinar/</link>
+      <pubDate>Tue, 17 Nov 2020 00:18:30 +0200</pubDate>
+      
+      <guid>https://blog.ivrpowers.com/tags/webinar/</guid>
       <description></description>
     </item>
     

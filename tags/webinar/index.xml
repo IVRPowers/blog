@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Webinar on Blog</title>
+    <link>https://blog.ivrpowers.com/tags/webinar/</link>
+    <description>Recent content in Webinar on Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 17 Nov 2020 00:18:30 +0200</lastBuildDate>
+    
+	<atom:link href="https://blog.ivrpowers.com/tags/webinar/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Salesland Webinar Event</title>
+      <link>https://blog.ivrpowers.com/post/marketing/salesland-webinar/</link>
+      <pubDate>Tue, 17 Nov 2020 00:18:30 +0200</pubDate>
+      
+      <guid>https://blog.ivrpowers.com/post/marketing/salesland-webinar/</guid>
+      <description>Photo source: Interactive Powers, Salesland. What if in COVID-19&amp;rsquo;s times, we could sell more? Join us at next 25th November, 16:00 CET at next Salesland 20 years event!
+With:
+ Javier Arellano, Sales Manager and Businesss Development at Salesland Group. Ivan Sixto, Founder and CEO at Interactive Powers.  The pandemic crisis caused by Covid-19 has created an acceleration in the digitalization processes of our society, but what about people?</description>
+    </item>
+    
+  </channel>
+</rss>
