@@ -25,7 +25,7 @@ We talked to our customers to learn about their experiences and more importantly
 
 ##	Video SPLIT for Contact Centers
 
-A chain of call center partners and software compliant vendors but not limited to:
+A chain of call center partners and software compliant vendors (but not limited to):
 
 ![Video RTC SPLIT Roadmap 2020](/postimages/marketing/ivrpowers-sides-31-05.040.jpeg)
 
@@ -40,6 +40,9 @@ A chain of call center partners and software compliant vendors but not limited t
 * 3CX Call Center
 * XCally Motion
 * Asterisk PBX/ACD
+* Vocalcom
+* Xorcom
+* ...
 
 ##	Peer-to-Peer Solutions
 

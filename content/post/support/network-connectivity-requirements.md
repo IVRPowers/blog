@@ -38,7 +38,9 @@ In a typical organization network setup, a firewall is used to protect the priva
 | RTC | TCP | 443 | HTTPS - Secure Web Access |
 | RTC | TCP | 8989 | 	WSS - Video Gateway |
 | RTC | TCP | 8089	 |  API - Video Gateway |
-| RTC | UDP | 19099 … 20099 | RTP Media (Video) |
+| RTC | UDP | 19099 … 20099 | RTP Media (Video) (1) |
+
+(1) RTP Media ports can be forwarded by STUN/TURN servers, to passthrough the router NAT (no recommended for Agents). If your network has a restrictive firewall you can avoid to set RTP ports range.
 
 ###	ACD Firewall Rules (Audio Streams)
 
@@ -47,7 +49,9 @@ In a typical organization network setup, a firewall is used to protect the priva
 | ACD | TCP | 80 | 	HTTP - Web Access (Forwarded) |
 | ACD | TCP | 443 | HTTPS - Secure Web Access |
 | ACD | TCP | 8089	 | Websocket VoIP |
-| ACD | UDP | 10000 … 20000 | RTP Media (Audio) |
+| ACD | UDP | 10000 … 20000 | RTP Media (Audio) (2) |
+
+(2) RTP Media ports can be forwarded by STUN/TURN servers, to passthrough the router NAT (no recommended for Agents). If your network has a restrictive firewall you can avoid to set RTP ports range.
 
 #	User Connectivity
 ---
@@ -61,7 +65,9 @@ In a typical organization network setup, a firewall is used to protect the priva
 | RTC | TCP | 443 | HTTPS - Secure Web Access |
 | RTC | TCP | 8989 | 	WSS - Video Gateway |
 | RTC | TCP | 8089	 |  API - Video Gateway |
-| RTC | UDP | 19099 … 20099 | RTP Media (Audio & Video) |
+| RTC | UDP | 19099 … 20099 | RTP Media (Audio & Video) (3) |
+
+(3) RTP Media ports can be forwarded by STUN/TURN servers, to passthrough the router NAT. If your network has a restrictive firewall you can avoid to set RTP ports range.
 
 #	Network Bandwidth Requirements
 ---
@@ -69,13 +75,13 @@ The following table lists the minimal network requirements to deliver reasonable
 
 | Network Parameter | Requirement |
 |-----------|-----------|
-| Audio Bandwidth (Uplink/Downlink) | 40 kbps / 40 kbps (Opus*) |
-| Audio & Video Bandwidth (Uplink/Downlink) | 80 kbps / 80 kbps (Opus/VP8/VP9*) |
+| Audio Bandwidth (Uplink/Downlink) | 40 kbps / 40 kbps (Opus) (4) |
+| Audio & Video Bandwidth (Uplink/Downlink) | 80 kbps / 80 kbps (Opus/VP8*) (5) |
 | Latency (RTT) | < 300ms |
 | Jitter | < 50ms |
 | Packet Loss	 | < 1,5 % |
 
-* Opus, VP8, VP9 codecs are available from RTC and ACD services
+(4) (5) Opus, VP8 codecs are both available from RTC and ACD services.
 
 ---
 [Interactive Powers](http://www.ivrpowers.com/) - Streamline your business communications
