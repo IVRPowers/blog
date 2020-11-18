@@ -6,10 +6,19 @@
     <description>Recent content in Tags on Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 29 Feb 2020 19:00:00 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 17 Nov 2020 20:00:00 +0200</lastBuildDate>
     
 	<atom:link href="https://blog.ivrpowers.com/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Acd</title>
+      <link>https://blog.ivrpowers.com/tags/acd/</link>
+      <pubDate>Tue, 17 Nov 2020 20:00:00 +0200</pubDate>
+      
+      <guid>https://blog.ivrpowers.com/tags/acd/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Ai</title>
@@ -743,7 +752,7 @@
     <item>
       <title>Rtc</title>
       <link>https://blog.ivrpowers.com/tags/rtc/</link>
-      <pubDate>Mon, 16 Nov 2020 00:20:30 +0200</pubDate>
+      <pubDate>Tue, 17 Nov 2020 20:00:00 +0200</pubDate>
       
       <guid>https://blog.ivrpowers.com/tags/rtc/</guid>
       <description></description>
@@ -896,7 +905,7 @@
     <item>
       <title>Support</title>
       <link>https://blog.ivrpowers.com/tags/support/</link>
-      <pubDate>Mon, 27 Jul 2020 15:00:26 +0200</pubDate>
+      <pubDate>Tue, 17 Nov 2020 20:00:00 +0200</pubDate>
       
       <guid>https://blog.ivrpowers.com/tags/support/</guid>
       <description></description>
@@ -1058,7 +1067,7 @@
     <item>
       <title>Videortc</title>
       <link>https://blog.ivrpowers.com/tags/videortc/</link>
-      <pubDate>Mon, 16 Nov 2020 00:20:30 +0200</pubDate>
+      <pubDate>Tue, 17 Nov 2020 20:00:00 +0200</pubDate>
       
       <guid>https://blog.ivrpowers.com/tags/videortc/</guid>
       <description></description>
@@ -1175,7 +1184,7 @@
     <item>
       <title>Webrtc</title>
       <link>https://blog.ivrpowers.com/tags/webrtc/</link>
-      <pubDate>Fri, 06 Nov 2020 00:20:30 +0200</pubDate>
+      <pubDate>Tue, 17 Nov 2020 20:00:00 +0200</pubDate>
       
       <guid>https://blog.ivrpowers.com/tags/webrtc/</guid>
       <description></description>

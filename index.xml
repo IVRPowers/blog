@@ -41,6 +41,15 @@ Interactive Powers delivers communication platforms that enables advanced real-t
     </item>
     
     <item>
+      <title>Network Connectivity Requirements</title>
+      <link>https://blog.ivrpowers.com/post/support/network-connectivity-requirements/</link>
+      <pubDate>Tue, 17 Nov 2020 20:00:00 +0200</pubDate>
+      
+      <guid>https://blog.ivrpowers.com/post/support/network-connectivity-requirements/</guid>
+      <description>Photo Source: Freepik. Creative Commons The following article outlines Video RTC and Mobile SDKs’ requirements for network connectivity. It lists the Interactive Powers CPaaS servers’ ports and IP addresses that the Widgets, Webclients or SDKs must be able to reach, and the bandwidth required for quality audio &amp;amp; video. As shown in the diagram below, two types of connections are required, Signalling and Media for Users and Agents sides.</description>
+    </item>
+    
+    <item>
       <title>Salesland Webinar Event</title>
       <link>https://blog.ivrpowers.com/post/marketing/salesland-webinar/</link>
       <pubDate>Tue, 17 Nov 2020 00:18:30 +0200</pubDate>
