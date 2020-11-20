@@ -37,7 +37,7 @@ Here are key features and capabilities:
 * **Video Customer Care and Co-Browsing**. Show and guide customers effectively.
 * **Real-time Control.** Customer-centric interactions empowered by technology.
 * **Extend agents** senses with collaborative features (video, screen sharing, live chat, file sharing).
-* **Video conferencing**, low latency, high quality and scalable gateweways that you can rely on.
+* **Video conferencing**, low latency, high quality and scalable gateways that you can rely on.
 * **Enable secure customer connection**, End-to-end encryption of all calls*
 * **Flexible, full customizable call functionalities**, billing and hosting
 * **Enable to transfer** or forward video calls.

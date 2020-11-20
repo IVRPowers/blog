@@ -12,7 +12,7 @@ image = "/postimages/support/slides-2020-13.021.jpeg"
 ------------
 ###### Photo Source: Freepik. Creative Commons
 
-The following article outlines Video RTC and Mobile SDKs’ requirements for network connectivity. It lists the Interactive Powers CPaaS servers’ ports and IP addresses that the Widgets, Webclients or SDKs must be able to reach, and the bandwidth required for quality audio & video. As shown in the diagram below, two types of connections are required, Signalling and Media for Users and Agents sides.
+The following article outlines [Video RTC](https://blog.ivrpowers.com/post/products/video-rtc/) and [Mobile SDK](https://blog.ivrpowers.com/post/products/video-rtc-mobile-sdk/)s’ requirements for network connectivity. It lists the Interactive Powers [CPaaS](https://blog.ivrpowers.com/post/marketing/interactive-powers-cpaas/) servers’ ports and IP addresses that the Widgets, Webclients or SDKs must be able to reach, and the bandwidth required for quality audio & video. As shown in the diagram below, two types of connections are required, Signalling and Media for Users and Agents sides.
 
 ![Network Connectivity Requirements](/postimages/support/slides-2020-13.022.jpeg)
 
@@ -36,8 +36,8 @@ In a typical organization network setup, a firewall is used to protect the priva
 |-----------|-----------|-----------|-----------|
 | RTC | TCP | 80 | 	HTTP - Web Access (Forwarded) |
 | RTC | TCP | 443 | HTTPS - Secure Web Access |
-| RTC | TCP | 8989 | 	WSS - Video Gateway |
-| RTC | TCP | 8089	 |  API - Video Gateway |
+| RTC | TCP | 8989 | 	Websocket - Video Gateway (Recommended) |
+| RTC | TCP | 8089	 |  HTTPS-API - Video Gateway (Alternative) |
 | RTC | UDP | 19099 … 20099 | RTP Media (Video) (1) |
 
 (1) RTP Media ports can be forwarded by STUN/TURN servers, to passthrough the router NAT (no recommended for Agents). If your network has a restrictive firewall you can avoid to set RTP ports range.
@@ -48,7 +48,7 @@ In a typical organization network setup, a firewall is used to protect the priva
 |-----------|-----------|-----------|-----------|
 | ACD | TCP | 80 | 	HTTP - Web Access (Forwarded) |
 | ACD | TCP | 443 | HTTPS - Secure Web Access |
-| ACD | TCP | 8089	 | Websocket VoIP |
+| ACD | TCP | 8089	 | Websocket - VoIP |
 | ACD | UDP | 10000 … 20000 | RTP Media (Audio) (2) |
 
 (2) RTP Media ports can be forwarded by STUN/TURN servers, to passthrough the router NAT (no recommended for Agents). If your network has a restrictive firewall you can avoid to set RTP ports range.
@@ -63,8 +63,8 @@ In a typical organization network setup, a firewall is used to protect the priva
 |-----------|-----------|-----------|-----------|
 | RTC | TCP | 80 | 	HTTP - Web Access (Forwarded) |
 | RTC | TCP | 443 | HTTPS - Secure Web Access |
-| RTC | TCP | 8989 | 	WSS - Video Gateway |
-| RTC | TCP | 8089	 |  API - Video Gateway |
+| RTC | TCP | 8989 | 	Websocket - Video Gateway (Recommended) |
+| RTC | TCP | 8089	 |  HTTPS-API - Video Gateway (Alternative) |
 | RTC | UDP | 19099 … 20099 | RTP Media (Audio & Video) (3) |
 
 (3) RTP Media ports can be forwarded by STUN/TURN servers, to passthrough the router NAT. If your network has a restrictive firewall you can avoid to set RTP ports range.
@@ -81,7 +81,7 @@ The following table lists the minimal network requirements to deliver reasonable
 | Jitter | < 50ms |
 | Packet Loss	 | < 1,5 % |
 
-(4) (5) Opus, VP8 codecs are both available from RTC and ACD services.
+(4) (5) Opus, VP8 codecs are both available for RTC and ACD services.
 
 ---
 [Interactive Powers](http://www.ivrpowers.com/) - Streamline your business communications
