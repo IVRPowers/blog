@@ -104,7 +104,7 @@
         },
         "datePublished": "2020-11-17",
         "dateModified": "2020-11-17",
-        "wordCount": 615,
+        "wordCount": 620,
         "keywords": ["support","videortc","rtc","webrtc","acd"] 
     }
     </script>
@@ -177,7 +177,7 @@ html{font-family:sans-serif;line-height:1.15;-ms-text-size-adjust:100%;-webkit-t
 
   			<header class="post-header">
   				<span class="post-meta">
-						<span class="post-date">17 Nov 2020</span> <span class="reading-time">| <span class="estimated-reading-time">3 min.</span> (<span class="word-count">615</span> words)</span></span>
+						<span class="post-date">17 Nov 2020</span> <span class="reading-time">| <span class="estimated-reading-time">3 min.</span> (<span class="word-count">620</span> words)</span></span>
   				</span>
   				<div class="clear"></div>
   				<h1 class="post-title">Network Connectivity Requirements</h1>
@@ -190,7 +190,7 @@ html{font-family:sans-serif;line-height:1.15;-ms-text-size-adjust:100%;-webkit-t
 
 <h6 id="photo-source-freepik-creative-commons">Photo Source: Freepik. Creative Commons</h6>
 
-<p>The following article outlines Video RTC and Mobile SDKs’ requirements for network connectivity. It lists the Interactive Powers CPaaS servers’ ports and IP addresses that the Widgets, Webclients or SDKs must be able to reach, and the bandwidth required for quality audio &amp; video. As shown in the diagram below, two types of connections are required, Signalling and Media for Users and Agents sides.</p>
+<p>The following article outlines <a href="https://blog.ivrpowers.com/post/products/video-rtc/">Video RTC</a> and <a href="https://blog.ivrpowers.com/post/products/video-rtc-mobile-sdk/">Mobile SDK</a>s’ requirements for network connectivity. It lists the Interactive Powers <a href="https://blog.ivrpowers.com/post/marketing/interactive-powers-cpaas/">CPaaS</a> servers’ ports and IP addresses that the Widgets, Webclients or SDKs must be able to reach, and the bandwidth required for quality audio &amp; video. As shown in the diagram below, two types of connections are required, Signalling and Media for Users and Agents sides.</p>
 
 <p><img src="/postimages/support/slides-2020-13.022.jpeg" alt="Network Connectivity Requirements" /></p>
 
@@ -245,14 +245,14 @@ html{font-family:sans-serif;line-height:1.15;-ms-text-size-adjust:100%;-webkit-t
 <td>RTC</td>
 <td>TCP</td>
 <td>8989</td>
-<td>WSS - Video Gateway</td>
+<td>Websocket - Video Gateway (Recommended)</td>
 </tr>
 
 <tr>
 <td>RTC</td>
 <td>TCP</td>
 <td>8089</td>
-<td>API - Video Gateway</td>
+<td>HTTPS-API - Video Gateway (Alternative)</td>
 </tr>
 
 <tr>
@@ -297,7 +297,7 @@ html{font-family:sans-serif;line-height:1.15;-ms-text-size-adjust:100%;-webkit-t
 <td>ACD</td>
 <td>TCP</td>
 <td>8089</td>
-<td>Websocket VoIP</td>
+<td>Websocket - VoIP</td>
 </tr>
 
 <tr>
@@ -348,14 +348,14 @@ html{font-family:sans-serif;line-height:1.15;-ms-text-size-adjust:100%;-webkit-t
 <td>RTC</td>
 <td>TCP</td>
 <td>8989</td>
-<td>WSS - Video Gateway</td>
+<td>Websocket - Video Gateway (Recommended)</td>
 </tr>
 
 <tr>
 <td>RTC</td>
 <td>TCP</td>
 <td>8089</td>
-<td>API - Video Gateway</td>
+<td>HTTPS-API - Video Gateway (Alternative)</td>
 </tr>
 
 <tr>
@@ -411,7 +411,7 @@ html{font-family:sans-serif;line-height:1.15;-ms-text-size-adjust:100%;-webkit-t
 </tbody>
 </table>
 
-<p>(4) (5) Opus, VP8 codecs are both available from RTC and ACD services.</p>
+<p>(4) (5) Opus, VP8 codecs are both available for RTC and ACD services.</p>
 
 <hr />
 
