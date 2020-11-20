@@ -36,8 +36,8 @@ In a typical organization network setup, a firewall is used to protect the priva
 |-----------|-----------|-----------|-----------|
 | RTC | TCP | 80 | 	HTTP - Web Access (Forwarded) |
 | RTC | TCP | 443 | HTTPS - Secure Web Access |
-| RTC | TCP | 8989 | 	Websocket - Video Gateway (Recommended) |
-| RTC | TCP | 8089	 |  HTTPS-API - Video Gateway (Alternative) |
+| RTC | TCP | 8989 | 	Websocket - Video GW (Recommended) |
+| RTC | TCP | 8089	 |  HTTPS-API - Video GW (Alternative) |
 | RTC | UDP | 19099 … 20099 | RTP Media (Video) (1) |
 
 (1) RTP Media ports can be forwarded by STUN/TURN servers, to passthrough the router NAT (no recommended for Agents). If your network has a restrictive firewall you can avoid to set RTP ports range.
@@ -48,7 +48,7 @@ In a typical organization network setup, a firewall is used to protect the priva
 |-----------|-----------|-----------|-----------|
 | ACD | TCP | 80 | 	HTTP - Web Access (Forwarded) |
 | ACD | TCP | 443 | HTTPS - Secure Web Access |
-| ACD | TCP | 8089	 | Websocket - VoIP |
+| ACD | TCP | 8089	 | Websocket - Voice over IP (Required) |
 | ACD | UDP | 10000 … 20000 | RTP Media (Audio) (2) |
 
 (2) RTP Media ports can be forwarded by STUN/TURN servers, to passthrough the router NAT (no recommended for Agents). If your network has a restrictive firewall you can avoid to set RTP ports range.
@@ -63,8 +63,8 @@ In a typical organization network setup, a firewall is used to protect the priva
 |-----------|-----------|-----------|-----------|
 | RTC | TCP | 80 | 	HTTP - Web Access (Forwarded) |
 | RTC | TCP | 443 | HTTPS - Secure Web Access |
-| RTC | TCP | 8989 | 	Websocket - Video Gateway (Recommended) |
-| RTC | TCP | 8089	 |  HTTPS-API - Video Gateway (Alternative) |
+| RTC | TCP | 8989 | 	Websocket - Video GW (Recommended) |
+| RTC | TCP | 8089	 |  HTTPS-API - Video GW (Alternative) |
 | RTC | UDP | 19099 … 20099 | RTP Media (Audio & Video) (3) |
 
 (3) RTP Media ports can be forwarded by STUN/TURN servers, to passthrough the router NAT. If your network has a restrictive firewall you can avoid to set RTP ports range.
