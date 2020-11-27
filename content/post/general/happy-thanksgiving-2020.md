@@ -4,7 +4,7 @@ date = "2020-11-26T09:00:00+02:00"
 description = "Season Greetings"
 draft = false
 tags = ["marketing","ivrpowers", "startup"]
-title = "Happy Thanks Giving!"
+title = "Happy Thanksgiving!"
 image = "/postimages/general/happy-thanksgiving-2020.jpeg"
 +++
 
