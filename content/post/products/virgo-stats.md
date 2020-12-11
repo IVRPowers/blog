@@ -14,7 +14,7 @@ image = "/postimages/products/slide-2020-14.003.jpeg"
 -------
 ###### Photo source: Interactive Powers
 
-#	Getting key analytics to follow Virgo Solution usage. 
+#	Getting key analytics to follow Virgo Solution data usage: Emails, SMS, Calls... 
 ---
 
 **Interactive Powers** has released a new update for [Virgo Business](https://blog.ivrpowers.com/post/products/virgo-business/) and [Virgo Healthcare](https://blog.ivrpowers.com/post/products/virgo-healthcare/) in response to the overwhelming increase virtual interactions sparked by the global pandemic. Now, administrators can check stats and export main account usage data.
@@ -25,7 +25,7 @@ Key features added with Stats:
 
 * Emails sent by month
 * SMS sent by month
-* Rescue Calls by month
+* Rescue Calls made by month
 * Year Selection
 * CSV Export
 
