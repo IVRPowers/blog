@@ -6,10 +6,20 @@
     <description>Recent content in Business on Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 29 Aug 2020 09:00:00 +0200</lastBuildDate>
+    <lastBuildDate>Thu, 10 Dec 2020 16:00:00 +0200</lastBuildDate>
     
 	<atom:link href="https://blog.ivrpowers.com/tags/business/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Virgo Stats *New release!</title>
+      <link>https://blog.ivrpowers.com/post/products/virgo-stats/</link>
+      <pubDate>Thu, 10 Dec 2020 16:00:00 +0200</pubDate>
+      
+      <guid>https://blog.ivrpowers.com/post/products/virgo-stats/</guid>
+      <description>Photo source: Interactive Powers Getting key analytics to follow Virgo Solution usage. Interactive Powers has released a new update for Virgo Business and Virgo Healthcare in response to the overwhelming increase virtual interactions sparked by the global pandemic. Now, administrators can check stats and export main account usage data.
+Virgo Solutions are the simplest, accessible and secure scheduled video calling solution that offers easy and immediate coverage of a telework process, including collaboration and virtual attention optimizing the user experience of any business visit.</description>
+    </item>
     
     <item>
       <title>Video RTC · Tester</title>
