@@ -33,7 +33,7 @@ Key features added with Stats:
 
 ![Virgo Stats](/postimages/products/slide-2020-14.004.jpeg)
 
-##	CVS Export
+##	CSV Export
 
 ![Virgo Stats](/postimages/products/slide-2020-14.005.jpeg)
 
