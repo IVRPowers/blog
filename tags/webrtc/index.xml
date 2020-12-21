@@ -6,10 +6,21 @@
     <description>Recent content in Webrtc on Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 23 Nov 2020 00:21:30 +0200</lastBuildDate>
+    <lastBuildDate>Sat, 19 Dec 2020 20:20:00 +0200</lastBuildDate>
     
 	<atom:link href="https://blog.ivrpowers.com/tags/webrtc/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Video RTC - Widgets *Update</title>
+      <link>https://blog.ivrpowers.com/post/technologies/video-rtc-widgets-update/</link>
+      <pubDate>Sat, 19 Dec 2020 20:20:00 +0200</pubDate>
+      
+      <guid>https://blog.ivrpowers.com/post/technologies/video-rtc-widgets-update/</guid>
+      <description>Deploy full web responsive widgets with a single script or URL in your website or apps. Today we are excited to announce that we are open sourcing a new Widget for Video RTC to handle incoming or outgoing video calls and prompt users for input, record calls, connect callers to agents, and more.
+Main features:
+ FAB Button enabled Flip Camera (new) Mute Camera Mute Audio Live Chat File Sharing Dual / Single Screen Sharing Snapshot (optional) Overprint Logo  More options:</description>
+    </item>
     
     <item>
       <title>Taking Customer Experience to the Next Level</title>
