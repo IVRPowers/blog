@@ -1,8 +1,8 @@
 +++
 categories = ["general"]
-date = "2020-12-19T16:00:00+02:00"
+date = "2020-12-21T16:00:00+02:00"
 description = "Season Greetings"
-draft = true
+draft = false
 tags = ["marketing","ivrpowers"]
 title = "Merry Christmas!"
 image = "/postimages/general/ivrpowers-merry-christmas-2020.jpeg"
@@ -12,10 +12,10 @@ image = "/postimages/general/ivrpowers-merry-christmas-2020.jpeg"
 ---------
 ###### Photo source: Interactive Powers
 
-# May peace, prosperity, and happiness be yours throughout Christmas and New Year!
+# Thank you for all your collaboration and support in our business relationship!
 ---
 
-At the close of another year, we gratefully want to wish you a warm and Christmas season! We are deeply grateful and thankful to all our partners, employees, providers, friends and customers for striving to succeed together. Thank you again for your confidence and loyalty and let season’s holidays be sweet and simple for you and your families.
+This year 2020 was hard for everyone and extra hard for many. Yet, we all must find a reason to be deeply thankful at these challenging times. Voice & video technologies have never been so important like now to transform businesses and ensure people safety.
 
 ---
 [Interactive Powers](http://www.ivrpowers.com/) - Streamline your business communications
