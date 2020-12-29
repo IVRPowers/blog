@@ -4,7 +4,7 @@ date = "2020-12-10T16:00:00+02:00"
 description = "Solution Update"
 draft = false
 tags = ["solution","rtc","business"]
-title = "Virgo Stats *New release!"
+title = "Virgo · Stats"
 featured = false
 image = "/postimages/products/slide-2020-14.003.jpeg"
 

@@ -4,7 +4,7 @@ date = "2020-12-19T20:20:00+02:00"
 description = "Complementary Software"
 draft = false
 tags = ["webrtc", "rtc", "cctr", "videortc"]
-title = "Video RTC - Widgets *Update"
+title = "Video RTC · Widgets"
 image = "/postimages/technologies/slide-2020-14.008.jpeg"
 comments = true
 +++
