@@ -41,6 +41,36 @@ Interactive Powers delivers communication platforms that enables advanced real-t
     </item>
     
     <item>
+      <title>Video RTC · Flip Camera</title>
+      <link>https://blog.ivrpowers.com/post/products/video-rtc-flip-camera/</link>
+      <pubDate>Mon, 28 Dec 2020 00:00:00 +0200</pubDate>
+      
+      <guid>https://blog.ivrpowers.com/post/products/video-rtc-flip-camera/</guid>
+      <description>Photo source: Interactive Powers Switching cameras with Video RTC We are pleased to announce a new feature called Flip Camera ready for all Video RTC widgets that enables switch to next available camera inside your device. In case you’re using a smartphone or tablet, this feature switch from front to back camera. In desktop web browsers, this feature will change to the next camera until you make a complete loop.</description>
+    </item>
+    
+    <item>
+      <title>Video RTC · Background Blur</title>
+      <link>https://blog.ivrpowers.com/post/products/video-rtc-blackground-blur/</link>
+      <pubDate>Sun, 27 Dec 2020 12:00:00 +0200</pubDate>
+      
+      <guid>https://blog.ivrpowers.com/post/products/video-rtc-blackground-blur/</guid>
+      <description>Photo source: Interactive Powers Defocusing agents background without plugins We are please to announce Background Blur powered by JS inside your browser for all Video RTC agents without any plugin or software installation. This new feature is now available for projects under special conditions according to the web browser and device deployed for the agent side.
+Unretouched Screenshots:
+System Requirements This feature do now use specific hardware and require to make real-time video procession on the top of WebRTC, we recommend to use it on desktop browsers with enough CPU/RAM.</description>
+    </item>
+    
+    <item>
+      <title>Video RTC · Geolocation</title>
+      <link>https://blog.ivrpowers.com/post/products/video-rtc-geolocation/</link>
+      <pubDate>Sun, 27 Dec 2020 09:00:00 +0200</pubDate>
+      
+      <guid>https://blog.ivrpowers.com/post/products/video-rtc-geolocation/</guid>
+      <description>Photo source: Interactive Powers Enable Geolocation detection for your Video Calls Knowing where your video callers location is a useful feature, that can help you provide a better support or customer service. For instance, you can show them results that are tailored to their location or display their location on the map or convert latitude/longitude to a street address.
+What is IP geolocation? IP geolocation is the mapping of an IP address to the geographic location of the internet from the connected device.</description>
+    </item>
+    
+    <item>
       <title>Merry Christmas!</title>
       <link>https://blog.ivrpowers.com/post/general/merry-christmas-2020/</link>
       <pubDate>Mon, 21 Dec 2020 16:00:00 +0200</pubDate>
@@ -50,7 +80,7 @@ Interactive Powers delivers communication platforms that enables advanced real-t
     </item>
     
     <item>
-      <title>Video RTC - Widgets *Update</title>
+      <title>Video RTC · Widgets</title>
       <link>https://blog.ivrpowers.com/post/technologies/video-rtc-widgets-update/</link>
       <pubDate>Sat, 19 Dec 2020 20:20:00 +0200</pubDate>
       
@@ -61,7 +91,7 @@ Main features:
     </item>
     
     <item>
-      <title>Virgo Stats *New release!</title>
+      <title>Virgo · Stats</title>
       <link>https://blog.ivrpowers.com/post/products/virgo-stats/</link>
       <pubDate>Thu, 10 Dec 2020 16:00:00 +0200</pubDate>
       
