@@ -1,8 +1,8 @@
 +++
 categories = ["general"]
-date = "2020-12-19T16:00:00+02:00"
+date = "2020-12-31T12:00:00+02:00"
 description = "Season Greetings"
-draft = true
+draft = false
 tags = ["marketing","ivrpowers"]
 title = "Happy New Year 2021!"
 image = "/postimages/general/ivrpowers-happy-new-year-2021.jpeg"
@@ -12,10 +12,12 @@ image = "/postimages/general/ivrpowers-happy-new-year-2021.jpeg"
 ---------
 ###### Photo source: Interactive Powers
 
-# May peace, prosperity, and happiness be yours throughout Christmas and New Year!
+# May peace, inspiration and happiness be yours throughout New Year 2021!
 ---
 
-At the close of another year, we gratefully want to wish you a warm and Christmas season! We are deeply grateful and thankful to all our partners, employees, providers, friends and customers for striving to succeed together. Thank you again for your confidence and loyalty and let season’s holidays be sweet and simple for you and your families.
+We are deeply grateful and thankful to all our clients, partners, employees, providers, and friends for striving to succeed together. Thank you again for your confidence and loyalty and let season’s holidays be sweet and simple for you and your families.
+
+We gratefully want to wish you a better New Year 2021! 🍾 🥂
 
 ---
 [Interactive Powers](http://www.ivrpowers.com/) - Streamline your business communications
