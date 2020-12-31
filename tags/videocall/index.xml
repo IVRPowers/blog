@@ -6,10 +6,20 @@
     <description>Recent content in Videocall on Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 23 Nov 2020 00:21:30 +0200</lastBuildDate>
+    <lastBuildDate>Sun, 27 Dec 2020 09:00:00 +0200</lastBuildDate>
     
 	<atom:link href="https://blog.ivrpowers.com/tags/videocall/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Video RTC · Geolocation</title>
+      <link>https://blog.ivrpowers.com/post/products/video-rtc-geolocation/</link>
+      <pubDate>Sun, 27 Dec 2020 09:00:00 +0200</pubDate>
+      
+      <guid>https://blog.ivrpowers.com/post/products/video-rtc-geolocation/</guid>
+      <description>Photo source: Interactive Powers Enable user geolocation detection for your business communications and video calls Knowing where your video callers location is a useful feature, that can help you provide a better support or customer service. For instance, you can show them results that are tailored to their location or display their location on the map or convert latitude/longitude to a street address.
+What is IP geolocation? IP geolocation is the mapping of an IP address to the geographic location of the internet from the connected device.</description>
+    </item>
     
     <item>
       <title>Taking Customer Experience to the Next Level</title>
