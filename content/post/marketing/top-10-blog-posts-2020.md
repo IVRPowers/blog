@@ -14,7 +14,7 @@ comments = true
 -------
 ###### Photo source: Interactive Powers, Freepik Creative Commons.
 
-**Video Real-Time Communications** and **Voicebot IVR** were key themes during this 2020. The most read posts in our blog this year are following some important updates of this challenging year. To prepare 2021, we share this TOP 10 list:
+**Video Real-Time Communications** and **Voicebot IVR** were key themes during this 2020. The most viewed posts in our blog this year are following some important updates of this challenging year. To prepare 2021, we share this TOP 10 list:
 
 
 ####	1- What is a STUN/TURN server (TOP)
