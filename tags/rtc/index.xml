@@ -6,10 +6,21 @@
     <description>Recent content in Rtc on Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 28 Dec 2020 00:00:00 +0200</lastBuildDate>
+    <lastBuildDate>Thu, 31 Dec 2020 20:00:00 +0200</lastBuildDate>
     
 	<atom:link href="https://blog.ivrpowers.com/tags/rtc/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Top 10 most popular blog posts in 2020</title>
+      <link>https://blog.ivrpowers.com/post/marketing/top-10-blog-posts-2020/</link>
+      <pubDate>Thu, 31 Dec 2020 20:00:00 +0200</pubDate>
+      
+      <guid>https://blog.ivrpowers.com/post/marketing/top-10-blog-posts-2020/</guid>
+      <description>Photo source: Interactive Powers, Freepik Creative Commons. Video Real-Time Communications and Voicebot IVR were key themes during this 2020. The most read posts in our blog this year are following some important updates of this challenging year. To prepare 2021, we share this TOP 10 list:
+1- What is a STUN/TURN server (TOP) The best description of what is a STUN/TURN server you where looking for… https://blog.ivrpowers.com/post/technologies/what-is-stun-turn-server/
+2- Video RTC - Web Browsers support in 2020!</description>
+    </item>
     
     <item>
       <title>Video RTC · Flip Camera</title>
@@ -17,7 +28,7 @@
       <pubDate>Mon, 28 Dec 2020 00:00:00 +0200</pubDate>
       
       <guid>https://blog.ivrpowers.com/post/products/video-rtc-flip-camera/</guid>
-      <description>Photo source: Interactive Powers Switching cameras with Video RTC We are pleased to announce a new feature called Flip Camera ready for all Video RTC widgets that enables switch to next available camera inside your device. In case you’re using a smartphone or tablet, this feature switch from front to back camera. In desktop web browsers, this feature will change to the next camera until you make a complete loop.</description>
+      <description>Photo source: Interactive Powers Switching cameras during any video call for your services on Video RTC We are pleased to announce a new feature called Flip Camera ready for all Video RTC widgets that enables switch to next available camera inside your device. In case you’re using a smartphone or tablet, this feature switch from front to back camera. In desktop web browsers, this feature will change to the next camera until you make a complete loop.</description>
     </item>
     
     <item>
