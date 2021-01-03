@@ -28,7 +28,7 @@
       <pubDate>Mon, 28 Dec 2020 00:00:00 +0200</pubDate>
       
       <guid>https://blog.ivrpowers.com/post/products/video-rtc-flip-camera/</guid>
-      <description>Photo source: Interactive Powers Switching cameras during any video call for your services on Video RTC We are pleased to announce a new feature called Flip Camera ready for all Video RTC widgets that enables switch to next available camera inside your device. In case you’re using a smartphone or tablet, this feature switch from front to back camera. In desktop web browsers, this feature will change to the next camera until you make a complete loop.</description>
+      <description>Photo source: Interactive Powers Switching all cameras during any video call for your services on Video RTC We are pleased to announce a new feature called Flip Camera ready for all Video RTC widgets that enables switch to next available camera inside your device. In case you’re using a smartphone or tablet, this feature switch from front to back camera. In desktop web browsers, this feature will change to the next camera until you make a complete loop.</description>
     </item>
     
     <item>
@@ -37,9 +37,9 @@
       <pubDate>Sun, 27 Dec 2020 12:00:00 +0200</pubDate>
       
       <guid>https://blog.ivrpowers.com/post/products/video-rtc-blackground-blur/</guid>
-      <description>Photo source: Interactive Powers Defocusing agents background without plugins We are please to announce Background Blur powered by JS inside your browser for all Video RTC agents without any plugin or software installation. This new feature is now available for projects under special conditions according to the web browser and device deployed for the agent side.
+      <description>Photo source: Interactive Powers Defocusing agents background without any plugin. We are pleased to announce Background Blur powered by JS inside your web browser for all Video RTC agents without any plugin or software installation. This new feature is now available for projects under special conditions according to your web browser performance and devices deployed in the agent side.
 Unretouched Screenshots:
-System Requirements This feature do now use specific hardware and require to make real-time video procession on the top of WebRTC, we recommend to use it on desktop browsers with enough CPU/RAM.</description>
+System Requirements. This feature do now require specific hardware and run real-time video processing on the top of WebRTC, we recommend to use it only on desktop web browsers with enough CPU/RAM.</description>
     </item>
     
     <item>
