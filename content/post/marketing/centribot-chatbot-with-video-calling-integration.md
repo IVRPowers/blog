@@ -17,7 +17,7 @@ comments = true
 #	Video RTC empowers Centribal chatbot platforms with real-time communications for any business.
 ---
 
-**MIAMI, November. 16, 2020** — Centribal the creators of [Centribot]() and Interactive Powers the creators of Video RTC announce new video real-time communications integration. The Centribal Platform is the conversational tool that allows the possibility of creating various chatbots from a single location, easily, quickly and with simplicity. Centribot will be able to create and train your chatbots in the way that best suits you, to make the most out of the communication management with your customers. In addition, it also allows the possibility of integrating with various channels such as WhatsApp, [Video RTC](https://www.ivrpowers.com/videortc/) and Zendesk amongst others CRM platforms.
+**MIAMI, November. 16, 2020** — **Centribal** the creators of [Centribot](https://centribal.com/es/soluciones/plataforma-centribal/centribot/) and **Interactive Powers** the creators of [Video RTC](https://www.ivrpowers.com/videortc/) announce new video real-time communications integration. The Centribal Platform is the conversational tool that allows the possibility of creating various chatbots from a single location, easily, quickly and with simplicity. Centribot will be able to create and train your chatbots in the way that best suits you, to make the most out of the communication management with your customers. In addition, it also allows the possibility of integrating with various channels such as WhatsApp, [Video RTC](https://www.ivrpowers.com/videortc/) and Zendesk amongst others CRM platforms.
 
 {{<  youtube RNHA0QCsV6M >}}
 
