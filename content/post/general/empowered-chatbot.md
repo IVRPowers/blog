@@ -48,9 +48,10 @@ Our Chatbot speaks in several languages according to our both portals:
 Our Chatbot is AI / NLU powered and interacts on many contents in natural language:
 
 * Welcome!
-* Products | Solutions
-* Business | Industries
-* Support requests
+* Products | Platforms
+* Solutions
+* Business
+* Support
 
 ###	◾️ Smart IVR Integration (Voicebot)
 
