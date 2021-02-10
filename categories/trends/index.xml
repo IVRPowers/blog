@@ -6,10 +6,19 @@
     <description>Recent content in Trends on Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 02 Jun 2020 20:00:00 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 09 Feb 2021 18:00:00 +0200</lastBuildDate>
     
 	<atom:link href="https://blog.ivrpowers.com/categories/trends/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>WebRTC: Open Standard Technology for Browsers</title>
+      <link>https://blog.ivrpowers.com/post/trends/webrtc-standard-technology-noapp/</link>
+      <pubDate>Tue, 09 Feb 2021 18:00:00 +0200</pubDate>
+      
+      <guid>https://blog.ivrpowers.com/post/trends/webrtc-standard-technology-noapp/</guid>
+      <description>Enabling embed Business Communications into any Web interface with Video RTC WebRTC (Web Real Time Communication) enables peer-to-peer communication with desktop and mobile browsers. In other words, WebRTC allows you to exchange any kind of media through the web (such as video, audio and data) without any required plugin or component. All our solutions are now following the #NOAPP approach avoid any requirement to download, install any app or plugin in any device to get live communications.</description>
+    </item>
     
     <item>
       <title>How COVID-19 pandemic is changing doctor visits.</title>

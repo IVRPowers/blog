@@ -6,10 +6,32 @@
     <description>Recent content in Rtc on Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 29 Jan 2021 13:09:34 +0200</lastBuildDate>
+    <lastBuildDate>Thu, 04 Feb 2021 13:00:00 +0200</lastBuildDate>
     
 	<atom:link href="https://blog.ivrpowers.com/tags/rtc/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>VideoRTC.js (API) v3.4.0</title>
+      <link>https://blog.ivrpowers.com/post/updates/update-video-rtc-js-3.4.0/</link>
+      <pubDate>Thu, 04 Feb 2021 13:00:00 +0200</pubDate>
+      
+      <guid>https://blog.ivrpowers.com/post/updates/update-video-rtc-js-3.4.0/</guid>
+      <description>Release Note We are pleased to announce that our API Framework for Javascript VideoRTC.js v3.4.0 has been released for suitable for Web Developments and Mobile SDK . All users with previous maintained versions can upgrade today. Please contact our support!
+ChangeLog Version 3.4.0:
+## [3.4.0] - 2021-02-04 ### Added - Added a new event `onReadyLocalStream` on the Videoroom module - Added video support in the SIP module - Added `replaceVideo` action for SPLIT modules - Added `fwvga` resolution for SPLIT modules ### Changed - Aligned to the new VideoGateway `v4.</description>
+    </item>
+    
+    <item>
+      <title>Video RTC (WebRTC) v4.3.0</title>
+      <link>https://blog.ivrpowers.com/post/updates/update-video-rtc-webrtc-4.3.0/</link>
+      <pubDate>Thu, 04 Feb 2021 12:00:00 +0200</pubDate>
+      
+      <guid>https://blog.ivrpowers.com/post/updates/update-video-rtc-webrtc-4.3.0/</guid>
+      <description>Release Note We are pleased to announce that our new Video RTC (Gateway WebRTC) v4.3.0 has been released for suitable production services. This new version includes a specific security fix for data channel recommendations. All users with previous maintained versions can upgrade today. Please contact our support!
+ChangeLog Version 4.3.0:
+## [4.3.0] - 2021-02-04 ### Added - Video feature in the Remote Viewer usecase - Parameter to set the bitrate when screensharing in the SPLIT usecases - Possibility to mute/unmute audio when using the RemoteViewer - Autoconnect feature in the RemoteViewer - Added a new usecase: SIPClient - Possibility to configure a shortener URL to the RemoteViewer - Possibility to start a RemoteViewer interaction without audio - Recording prefix parameter on the SPLIT Agent - Possibility to mute/unmute the local video automatically when screensharing - Added urlClose param on the SPLIT Agent usecase - File sharing as action on the Webclient - Possibility to customize the Max.</description>
+    </item>
     
     <item>
       <title>WebRTC becomes a W3C Recommendation and IETF standards.</title>
