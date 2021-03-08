@@ -18,6 +18,16 @@
   </url>
   
   <url>
+    <loc>https://blog.ivrpowers.com/post/products/rec-storage-updated/</loc>
+    <lastmod>2021-03-06T21:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.ivrpowers.com/post/customerengagement/video-calls-with-online-payment/</loc>
+    <lastmod>2021-03-06T11:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://blog.ivrpowers.com/post/trends/webrtc-standard-technology-noapp/</loc>
     <lastmod>2021-02-09T18:00:00+02:00</lastmod>
   </url>
@@ -1830,7 +1840,7 @@
   
   <url>
     <loc>https://blog.ivrpowers.com/tags/cloud/</loc>
-    <lastmod>2020-10-25T21:00:00+02:00</lastmod>
+    <lastmod>2021-03-06T21:00:00+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1853,13 +1863,13 @@
   </url>
   
   <url>
-    <loc>https://blog.ivrpowers.com/categories/contactcenter/</loc>
+    <loc>https://blog.ivrpowers.com/tags/contactcenter/</loc>
     <lastmod>2021-01-02T19:00:00+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://blog.ivrpowers.com/tags/contactcenter/</loc>
+    <loc>https://blog.ivrpowers.com/categories/contactcenter/</loc>
     <lastmod>2021-01-02T19:00:00+02:00</lastmod>
     <priority>0</priority>
   </url>
@@ -1878,7 +1888,7 @@
   
   <url>
     <loc>https://blog.ivrpowers.com/tags/cpaas/</loc>
-    <lastmod>2020-10-25T21:00:00+02:00</lastmod>
+    <lastmod>2021-03-06T21:00:00+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1895,14 +1905,14 @@
   </url>
   
   <url>
-    <loc>https://blog.ivrpowers.com/categories/customerengagement/</loc>
-    <lastmod>2020-07-19T21:00:00+02:00</lastmod>
+    <loc>https://blog.ivrpowers.com/tags/customerengagement/</loc>
+    <lastmod>2018-01-04T01:00:00+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://blog.ivrpowers.com/tags/customerengagement/</loc>
-    <lastmod>2018-01-04T01:00:00+02:00</lastmod>
+    <loc>https://blog.ivrpowers.com/categories/customerengagement/</loc>
+    <lastmod>2021-03-06T11:00:00+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1931,14 +1941,14 @@
   </url>
   
   <url>
-    <loc>https://blog.ivrpowers.com/categories/development/</loc>
-    <lastmod>2017-06-28T00:30:56+02:00</lastmod>
+    <loc>https://blog.ivrpowers.com/tags/development/</loc>
+    <lastmod>2018-07-21T23:00:00+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://blog.ivrpowers.com/tags/development/</loc>
-    <lastmod>2018-07-21T23:00:00+02:00</lastmod>
+    <loc>https://blog.ivrpowers.com/categories/development/</loc>
+    <lastmod>2017-06-28T00:30:56+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -2021,14 +2031,14 @@
   </url>
   
   <url>
-    <loc>https://blog.ivrpowers.com/categories/healthcare/</loc>
-    <lastmod>2017-11-23T10:10:39+01:00</lastmod>
+    <loc>https://blog.ivrpowers.com/tags/healthcare/</loc>
+    <lastmod>2020-05-16T15:00:00+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://blog.ivrpowers.com/tags/healthcare/</loc>
-    <lastmod>2020-05-16T15:00:00+02:00</lastmod>
+    <loc>https://blog.ivrpowers.com/categories/healthcare/</loc>
+    <lastmod>2017-11-23T10:10:39+01:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -2117,14 +2127,14 @@
   </url>
   
   <url>
-    <loc>https://blog.ivrpowers.com/categories/marketing/</loc>
-    <lastmod>2021-01-26T00:18:30+02:00</lastmod>
+    <loc>https://blog.ivrpowers.com/tags/marketing/</loc>
+    <lastmod>2020-01-30T20:40:07+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://blog.ivrpowers.com/tags/marketing/</loc>
-    <lastmod>2020-01-30T20:40:07+02:00</lastmod>
+    <loc>https://blog.ivrpowers.com/categories/marketing/</loc>
+    <lastmod>2021-01-26T00:18:30+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -2171,14 +2181,14 @@
   </url>
   
   <url>
-    <loc>https://blog.ivrpowers.com/categories/news/</loc>
-    <lastmod>2021-01-29T13:09:34+02:00</lastmod>
+    <loc>https://blog.ivrpowers.com/tags/news/</loc>
+    <lastmod>2020-07-01T22:00:00+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://blog.ivrpowers.com/tags/news/</loc>
-    <lastmod>2020-07-01T22:00:00+02:00</lastmod>
+    <loc>https://blog.ivrpowers.com/categories/news/</loc>
+    <lastmod>2021-01-29T13:09:34+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -2244,13 +2254,13 @@
   
   <url>
     <loc>https://blog.ivrpowers.com/categories/products/</loc>
-    <lastmod>2020-12-28T00:00:00+02:00</lastmod>
+    <lastmod>2021-03-06T21:00:00+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://blog.ivrpowers.com/tags/recording/</loc>
-    <lastmod>2020-10-25T21:00:00+02:00</lastmod>
+    <lastmod>2021-03-06T21:00:00+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -2262,7 +2272,7 @@
   
   <url>
     <loc>https://blog.ivrpowers.com/tags/rtc/</loc>
-    <lastmod>2021-02-04T13:00:00+02:00</lastmod>
+    <lastmod>2021-03-06T11:00:00+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -2369,13 +2379,13 @@
   </url>
   
   <url>
-    <loc>https://blog.ivrpowers.com/categories/support/</loc>
+    <loc>https://blog.ivrpowers.com/tags/support/</loc>
     <lastmod>2020-11-17T20:00:00+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://blog.ivrpowers.com/tags/support/</loc>
+    <loc>https://blog.ivrpowers.com/categories/support/</loc>
     <lastmod>2020-11-17T20:00:00+02:00</lastmod>
     <priority>0</priority>
   </url>
@@ -2435,14 +2445,14 @@
   </url>
   
   <url>
-    <loc>https://blog.ivrpowers.com/categories/trends/</loc>
-    <lastmod>2021-02-09T18:00:00+02:00</lastmod>
+    <loc>https://blog.ivrpowers.com/tags/trends/</loc>
+    <lastmod>2018-11-08T22:00:00+01:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://blog.ivrpowers.com/tags/trends/</loc>
-    <lastmod>2018-11-08T22:00:00+01:00</lastmod>
+    <loc>https://blog.ivrpowers.com/categories/trends/</loc>
+    <lastmod>2021-02-09T18:00:00+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -2478,7 +2488,7 @@
   
   <url>
     <loc>https://blog.ivrpowers.com/tags/videocall/</loc>
-    <lastmod>2021-01-26T00:18:30+02:00</lastmod>
+    <lastmod>2021-03-06T11:00:00+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -2508,13 +2518,13 @@
   
   <url>
     <loc>https://blog.ivrpowers.com/tags/videortc/</loc>
-    <lastmod>2021-01-26T00:18:30+02:00</lastmod>
+    <lastmod>2021-03-06T21:00:00+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://blog.ivrpowers.com/tags/voice/</loc>
-    <lastmod>2020-07-19T21:00:00+02:00</lastmod>
+    <lastmod>2021-03-06T11:00:00+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -2586,7 +2596,7 @@
   
   <url>
     <loc>https://blog.ivrpowers.com/tags/webrtc/</loc>
-    <lastmod>2021-02-09T18:00:00+02:00</lastmod>
+    <lastmod>2021-03-06T11:00:00+02:00</lastmod>
     <priority>0</priority>
   </url>
   

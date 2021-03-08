@@ -6,10 +6,21 @@
     <description>Recent content in Cpaas on Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 25 Oct 2020 21:00:00 +0200</lastBuildDate>
+    <lastBuildDate>Sat, 06 Mar 2021 21:00:00 +0200</lastBuildDate>
     
 	<atom:link href="https://blog.ivrpowers.com/tags/cpaas/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>REC Storage updated!</title>
+      <link>https://blog.ivrpowers.com/post/products/rec-storage-updated/</link>
+      <pubDate>Sat, 06 Mar 2021 21:00:00 +0200</pubDate>
+      
+      <guid>https://blog.ivrpowers.com/post/products/rec-storage-updated/</guid>
+      <description>Massive and Scalable Video Recording service for Contact Centers, new release! Video RTC (WebRTC) platforms enable to record all audio and video streams of your services to a secure, scalable , cloud REC Storage. Video Recording are connected to SPLIT Forward / Reverse functions in order to process massively all video calls of your Contact Center.
+New REC Storage features released are:
+1. Records Time stamp All video calls records are now showing the time stamp of your video calls with hh:mm:ss format in the web panel.</description>
+    </item>
     
     <item>
       <title>Video RTC · REC Storage</title>
