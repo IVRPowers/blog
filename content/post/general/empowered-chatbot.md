@@ -39,6 +39,10 @@ Our Chatbot speaks in several languages according to our both portals:
 
 ![Chatbot!](/postimages/general/slide-2020-15.004.jpeg)
 
+### Step 4: Voice & Video Call Center (Live Agent)
+
+![Chatbot!](/postimages/general/slide-2020-15.020.jpeg)
+
 ## Integrations
 
 ![Chatbot!](/postimages/general/slide-2020-15.005.jpeg)
