@@ -6,10 +6,20 @@
     <description>Recent content in Technologies on Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 19 Dec 2020 20:20:00 +0200</lastBuildDate>
+    <lastBuildDate>Thu, 06 May 2021 20:20:00 +0200</lastBuildDate>
     
 	<atom:link href="https://blog.ivrpowers.com/categories/technologies/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Video RTC · Screen Resolution</title>
+      <link>https://blog.ivrpowers.com/post/technologies/screen-resolution/</link>
+      <pubDate>Thu, 06 May 2021 20:20:00 +0200</pubDate>
+      
+      <guid>https://blog.ivrpowers.com/post/technologies/screen-resolution/</guid>
+      <description>Deploying High Quality and fully Bandwidth adaptative Video Communications Services Resolution is the number of pixels on a specific screen. A single pixel, the smallest unit to measure the video resolutions, is a tiny dot on the screen often no visible individually to the naken human eye. The more the number of pixels, the higher the sharpness of the video streaming.
+Resolution Settings Video RTC gateways manage the following resolution modes:</description>
+    </item>
     
     <item>
       <title>Video RTC · Widgets</title>
