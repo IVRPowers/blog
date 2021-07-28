@@ -6,10 +6,21 @@
     <description>Recent content in Ivr on Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 31 Dec 2020 20:00:00 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 19 Jul 2021 00:20:00 +0200</lastBuildDate>
     
 	<atom:link href="https://blog.ivrpowers.com/tags/ivr/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Smart IVR v2.4</title>
+      <link>https://blog.ivrpowers.com/post/updates/update-voicexml-ivr-2.4.0/</link>
+      <pubDate>Mon, 19 Jul 2021 00:20:00 +0200</pubDate>
+      
+      <guid>https://blog.ivrpowers.com/post/updates/update-voicexml-ivr-2.4.0/</guid>
+      <description>Release Note We are pleased to announce that our new Smart IVR 2.4.0 has been released for suitable production services. This new version includes a lot of improvements and new features. All users with previous maintained versions can upgrade today. Please contact our support!
+ChangeLog Version 2.4:
+## [2.4.0] - 04-03-2021 ### Added - Added res_srtp Asterisk module to support RTP over SSL - Added &amp;lt;context&amp;gt; support for the &amp;lt;nlu&amp;gt; recognition ### Changed - General internal updates to the NLU logic ### Fixed - Fixed a couple of scenarios where the NLU result was not properly detected - Properly cleaned the CompletionQueue of the GRPC NLU Google session by performing the needed tasks explicitly- Memory leak on the interpreter engine  Interactive Powers - Streamline your business communications</description>
+    </item>
     
     <item>
       <title>Top 10 most popular blog posts in 2020</title>
