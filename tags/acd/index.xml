@@ -6,10 +6,19 @@
     <description>Recent content in Acd on Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 17 Nov 2020 20:00:00 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 23 Aug 2021 00:20:05 +0200</lastBuildDate>
     
 	<atom:link href="https://blog.ivrpowers.com/tags/acd/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>What is ACD?</title>
+      <link>https://blog.ivrpowers.com/post/technologies/what-is-acd/</link>
+      <pubDate>Mon, 23 Aug 2021 00:20:05 +0200</pubDate>
+      
+      <guid>https://blog.ivrpowers.com/post/technologies/what-is-acd/</guid>
+      <description>An automated call distribution system, commonly known as Automatic Call Distributor (ACD), is a telecommunication system that answers incoming phone calls or video calls to distributes them within an organization. ACDs often provide some form of Automatic Customer/Caller Identification (ACIS), such as Direct Inward Dialing (DID), Dialed Number Identification Service (DNIS), Automatic Number Identification (ANI), or Video SPLIT ID (VSID) for use in routing calls based on a series of user-configured rules.</description>
+    </item>
     
     <item>
       <title>Network Connectivity Requirements</title>
