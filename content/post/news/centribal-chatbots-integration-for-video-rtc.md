@@ -32,10 +32,8 @@ Here are the top 4 benefits:
 ###	1. Best mix of chatbot automation with video agents.
 With the chatbot you can provide 24/7 support while still offering a human touch. Customers more easily understand and compare the information when agents both show and tell, leading to informed decision making, frictionless experiences, and speedier conversions.
 
-
 ###	2. Fast, accurate, and personalized customer service.
 With the chatbot automatically handling the most common customer first questions, agents can focus on quickly solving the more complex issues. This  will alleviate the strain on your agents and allow them to add visual, interactive content to enrich conversations and focus on only the most value-added inquiries.
-
 
 ###	3. Happier customers with more engaged agents.
 Allow you to provide efficient, scalable customer service while creating better experiences for your users.  Centribal Chatbot’s seamless integration with Video RTC allows video agents to quickly identify the problem and face to face guide them to a solution without exiting the chatbot interface.

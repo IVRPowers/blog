@@ -30,6 +30,8 @@ The last step is call routing. The ACD will route the calls based on your prefer
 
 Most common Queue Distribution Methods...
 
+![IVR RTC ACD Diagram](/postimages/technologies/ivrpowers-acd.011.jpeg)
+
 ###	Round Robin Call Distribution
 A common distribution type for centers that want agents to have equal volumes of workload. In rotational distribution, agents all take turns in answering. For example, call 1 is taken by agent 1, call 2 is taken by agent 2, and so on. The cycle then repeats from the first agent once everyone has taken a turn.
 
