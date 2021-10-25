@@ -22,7 +22,7 @@ First of all, you need to include an iFrame HTML5 element in your website like t
 ~~~html
 <iframe frameBorder="0"
 width="640px" height="480px"
-src="URL" allow="microphone;camera"></iframe>
+src="URL" allow="microphone;camera;display-capture"></iframe>
 ~~~
 
 Note that we have configured an iFrame size of 640x480px, which is the default size for our Webclient (Webphone) design. In addition, it is necessary to add a tag to allow access to the microphone and the camera and that our application can work properly.
