@@ -28,7 +28,7 @@ Helping businesses to innovate and deliver a **more empathetic experience to the
 Adding a Video Centric channel helps to create a better human connection for distinct audiences and situations. We’re making it easier than ever for organizations to deliver seamless agent and customer experiences, embrace remote and hybrid working, and track and improve their contact centre performance. **Video Channel is now the new Voice**.
 
 
-If you want to know more about [Video RTC](https://www.ivrpowers.com/videortc/) technology for your contact center, contact us at our [website](http://www.ivrpowers.com).
+If you want to know more about [Video RTC](https://www.ivrpowers.com/videortc/) solutions for your contact center, read more at our [websiste](http://www.ivrpowers.com).
 
 ---
 [Interactive Powers](http://www.ivrpowers.com/) - Streamline your business communications

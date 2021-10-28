@@ -25,7 +25,7 @@ According to Forrester companies that focus on customer experience have six time
 Human interaction matters much more now. **Today, 59% of all consumers feel companies have lost touch with the human element of customer experience** and one in four (25%) say being able to communicate via video would improve their customer service experience, especially when dealing with complex and emotional enquiries.  This situation is changing priority from voice only to video enhanced channels.
 
 
-If you want to know more about [Video RTC](https://www.ivrpowers.com/videortc/) technology for your contact center, contact us at our [website](http://www.ivrpowers.com).
+If you want to know more about [Video RTC](https://www.ivrpowers.com/videortc/) solutions for your contact center, read more at our [websiste](http://www.ivrpowers.com).
 
 ---
 [Interactive Powers](http://www.ivrpowers.com/) - Streamline your business communications
