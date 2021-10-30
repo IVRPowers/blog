@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Call on Blog</title>
+    <link>https://blog.ivrpowers.com/tags/call/</link>
+    <description>Recent content in Call on Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 30 Oct 2021 00:12:30 +0200</lastBuildDate>
+    
+	<atom:link href="https://blog.ivrpowers.com/tags/call/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Web Dialer, click-to-call reloaded</title>
+      <link>https://blog.ivrpowers.com/post/marketing/web-dialer/</link>
+      <pubDate>Sat, 30 Oct 2021 00:12:30 +0200</pubDate>
+      
+      <guid>https://blog.ivrpowers.com/post/marketing/web-dialer/</guid>
+      <description>Photo source: Interactive Powers. Make calls from any Web Browser. From now, phone numbers are no longer required. In today’s increasingly digital world, customers have come to favor online service options available from the convenience of their screen. From chatbots and self-service features to digitally connecting to a live agent with a simple button click, companies aim to deliver a digital customer experience that is personal, seamless, quick, and efficient.</description>
+    </item>
+    
+  </channel>
+</rss>
