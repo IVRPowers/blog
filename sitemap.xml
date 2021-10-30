@@ -18,6 +18,11 @@
   </url>
   
   <url>
+    <loc>https://blog.ivrpowers.com/post/support/web-acd-system-requirements/</loc>
+    <lastmod>2021-10-29T12:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://blog.ivrpowers.com/post/trends/whats-next-for-customer-behavior/</loc>
     <lastmod>2021-10-24T12:00:00+02:00</lastmod>
   </url>
@@ -1714,7 +1719,7 @@
   
   <url>
     <loc>https://blog.ivrpowers.com/tags/acd/</loc>
-    <lastmod>2021-08-23T00:20:05+02:00</lastmod>
+    <lastmod>2021-10-29T12:00:00+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1835,6 +1840,12 @@
   <url>
     <loc>https://blog.ivrpowers.com/tags/call-center/</loc>
     <lastmod>2021-01-26T00:18:30+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.ivrpowers.com/tags/callcenter/</loc>
+    <lastmod>2021-10-29T12:00:00+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -2415,19 +2426,19 @@
   
   <url>
     <loc>https://blog.ivrpowers.com/tags/support/</loc>
-    <lastmod>2020-11-17T20:00:00+02:00</lastmod>
+    <lastmod>2021-10-29T12:00:00+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://blog.ivrpowers.com/categories/support/</loc>
-    <lastmod>2020-11-17T20:00:00+02:00</lastmod>
+    <lastmod>2021-10-29T12:00:00+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://blog.ivrpowers.com/tags/</loc>
-    <lastmod>2021-08-23T00:20:05+02:00</lastmod>
+    <lastmod>2021-10-29T12:00:00+02:00</lastmod>
     <priority>0</priority>
   </url>
   

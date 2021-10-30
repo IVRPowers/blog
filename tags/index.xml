@@ -6,7 +6,7 @@
     <description>Recent content in Tags on Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 23 Aug 2021 00:20:05 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 29 Oct 2021 12:00:00 +0200</lastBuildDate>
     
 	<atom:link href="https://blog.ivrpowers.com/tags/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,7 +14,7 @@
     <item>
       <title>Acd</title>
       <link>https://blog.ivrpowers.com/tags/acd/</link>
-      <pubDate>Mon, 23 Aug 2021 00:20:05 +0200</pubDate>
+      <pubDate>Fri, 29 Oct 2021 12:00:00 +0200</pubDate>
       
       <guid>https://blog.ivrpowers.com/tags/acd/</guid>
       <description></description>
@@ -188,6 +188,15 @@
       <pubDate>Tue, 26 Jan 2021 00:18:30 +0200</pubDate>
       
       <guid>https://blog.ivrpowers.com/tags/call-center/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Callcenter</title>
+      <link>https://blog.ivrpowers.com/tags/callcenter/</link>
+      <pubDate>Fri, 29 Oct 2021 12:00:00 +0200</pubDate>
+      
+      <guid>https://blog.ivrpowers.com/tags/callcenter/</guid>
       <description></description>
     </item>
     
@@ -905,7 +914,7 @@
     <item>
       <title>Support</title>
       <link>https://blog.ivrpowers.com/tags/support/</link>
-      <pubDate>Tue, 17 Nov 2020 20:00:00 +0200</pubDate>
+      <pubDate>Fri, 29 Oct 2021 12:00:00 +0200</pubDate>
       
       <guid>https://blog.ivrpowers.com/tags/support/</guid>
       <description></description>
