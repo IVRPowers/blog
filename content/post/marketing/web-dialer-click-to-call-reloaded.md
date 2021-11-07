@@ -4,7 +4,7 @@ date = "2021-10-30T00:12:30+02:00"
 description = "Make calls from any Web Browser"
 draft = false
 tags = ["webdialer","call","rtc","ivr"]
-title = "Web Dialer, click-to-call reloaded"
+title = "Web Dialer, Click-to-Call"
 image = "/postimages/marketing/slides-2021-10.005.jpeg"
 comments = true
 
