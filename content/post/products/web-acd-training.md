@@ -2,7 +2,7 @@
 categories = ["products"]
 date = "2021-09-15T21:00:00+02:00"
 description = "Web ACD Training"
-draft = false
+draft = true
 tags = ["cpaas", "recording", "cloud","videortc"]
 title = "Web ACD Training"
 featured = false
