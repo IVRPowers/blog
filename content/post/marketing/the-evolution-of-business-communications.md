@@ -18,9 +18,9 @@ comments = true
 -------
 Communicate is a top priority for businesses today — but how can you quantify its value to your organization?  That’s especially important in these times, with businesses managing the economic impact and uncertainty of disruptive events, and how this will impact both their customers and employees going forward. **The History of Business Communications is, of course, closely linked with the histories of Communications itself and that of Business Operations**. When the two merge, they become a vital part of successful Commerce. We have now entered the Digital Age of VoIP – the world is moving away from static landlines and computers, and into an era where you can carry out all of your Business Communication tasks from the palm of your hand.
 
-##	Have you identified all System Building Blocks?
+##	Have you identified all your System Building Blocks?
 
-Check if you have all the system building blocks to compete in the tech world:
+Check if you have all communications systems required to compete in a tech world:
 
 - WEB - World Wide Web
 - [PBX](https://blog.ivrpowers.com/post/customerengagement/how-to-improve-your-pbx-with-conversational-ai/) - Private Branch eXchange
@@ -29,19 +29,20 @@ Check if you have all the system building blocks to compete in the tech world:
 - [ACD](https://blog.ivrpowers.com/post/technologies/what-is-acd/) - Automatic Call Distribuitor
 - [RTC](https://blog.ivrpowers.com/post/technologies/what-is-rtc/) - Real-time Communications
 
-##	Have you asked all these Key CX Questions?
+##	Have you asked all these Key Strategic Questions?
 
-Think more about your real Customer's Experience across your company's communications:
+Check your real Customer's Experience (CX) across your company's communications:
 
 - Can they easily communicate digitally across your processes?
 - Can they do it instantly from anywhere? 
 - Can they contact you thought any preferred channel? 
 - Can they comply with policies and oversight easier now than before?
 - Can they reschedule a communication task in real-time?
+- Can they be attended in real-time from any device?
 
 ##	What's your Evolution's Stage?
 
-In the Digital Age, **any company or organization requires to reimagine and reinvent its existing processes** both for customers and employees across branches, contact centers, apps and websites. Discover where your company is staged to match all communications goals for your business. To make easier this evaluation, you can identify your own level here:
+In the Digital Age, **any company or organization requires to reimagine and reinvent most existing processes** both for customers and employees across branches, contact centers, apps and websites. Discover now where your company is staged to match all communications goals for your business:
 
 ###	Stage 1: At the beginning… Telephony comes first.
 
@@ -51,7 +52,7 @@ Some companies start just with a phone line or a small [PBX](https://blog.ivrpow
 
 Required Systems: **PBX**
 
-###	Stage 2: World Wide Web... Website is essential.
+###	Stage 2: World Wide Web... is now essential.
 
 At this moment, this stage can be considered the most important stage for any business. **World Wide Web (WEB) is now a key communication tool that is not possible to forget** even if your business is not fully digital. At this level, most Small and Medium Businesses have reached their goals to be properly located in the World Wide Web and can get directly contacted by phone with few volume of calls. This stage ensures that you can talk with a customer or partner requiring to talk but without to much complexity... Remember a [PBX](https://blog.ivrpowers.com/post/customerengagement/how-to-improve-your-pbx-with-conversational-ai/) handles calls, but it's not properly designed to manage a large volume of traffic to any extension attended by a human.
 
@@ -59,7 +60,7 @@ At this moment, this stage can be considered the most important stage for any bu
 
 Required Systems: **WEB + PBX**
 
-###	Stage 3: Socials and Video Meetings are required...
+###	Stage 3: Socials and Video Meetings are much more required...
 
 This stage is becoming a leading one  for the Digital Age, World Wide Web (WEB) is not only a question of website but can adding much more value web elements, like an online store, blog, chatbot, socials networks and linking all these specific tools to better communicate with all Internet users. By the way, **employees connect remotely much more than ever for their diary activities using video conferences** based on Peer-to-Peer ([P2P](https://blog.ivrpowers.com/post/technologies/what-is-peer-to-peer/)) communications to perform virtual meetings because work is now extended to different places or offices... At this stage, most companies are thinking, they have already solved most of their communications issues but wait for the next stage... It's not yet really true!
 
