@@ -67,7 +67,7 @@ This stage is becoming a leading one  for the Digital Age, World Wide Web (WEB) 
 
 Required Systems: **WEB + PBX + P2P**
 
-###	Stage 4: Empowed Telephony is no longer optional...
+###	Stage 4: Empowered Telephony is no longer optional...
 
 When your business becomes greater and it manages more users interactions, your initial PBX is a bottle neck that could compromise your business processes and employees tasks. **Most companies do not feel properly the right moment to scale their communications** with an [IVR](https://blog.ivrpowers.com/post/technologies/what-is-ivr/) or [ACD](https://blog.ivrpowers.com/post/technologies/what-is-acd/) to improve calls automation and performance. Both platforms are a required in a context of high volume of calls, workflows and process management. At this stage, companies in the past years thought they had reached a complete multi-channel attention and nothing more could improve Business Communications.
 
