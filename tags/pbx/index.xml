@@ -6,10 +6,20 @@
     <description>Recent content in Pbx on Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 16 Nov 2020 00:20:30 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 16 Nov 2021 00:00:05 +0200</lastBuildDate>
     
 	<atom:link href="https://blog.ivrpowers.com/tags/pbx/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>What is PBX?</title>
+      <link>https://blog.ivrpowers.com/post/technologies/what-is-pbx/</link>
+      <pubDate>Tue, 16 Nov 2021 00:00:05 +0200</pubDate>
+      
+      <guid>https://blog.ivrpowers.com/post/technologies/what-is-pbx/</guid>
+      <description>A Private Branch Exchange (PBX) is a telephone system within an enterprise that switches calls between users on local lines, while enabling all users to share a certain number of external phone lines. In contrast to a public switched telephone network (PSTN), the main purpose of a PBX is to save the cost of requiring a line for each user to the telephone company&amp;rsquo;s central office.
+Used as a business telephone system or private telephone network, a PBX is owned and operated by the enterprise rather than the telephone company &amp;ndash; the telephone company of which may be considered a supplier or service provider, however.</description>
+    </item>
     
     <item>
       <title>Video Channels for your Business</title>
