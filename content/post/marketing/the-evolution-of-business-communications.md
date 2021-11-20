@@ -23,11 +23,11 @@ Communicate is a top priority for businesses today — but how can you quantify 
 Check if you have all communications systems required to compete in a tech world:
 
 - WEB - World Wide Web
-- [PBX](https://blog.ivrpowers.com/post/customerengagement/how-to-improve-your-pbx-with-conversational-ai/) - Private Branch eXchange
-- [P2P](https://blog.ivrpowers.com/post/technologies/what-is-peer-to-peer/) - Peer-to-Peer
-- [IVR](https://blog.ivrpowers.com/post/technologies/what-is-ivr/) - Interactive Voice Response
-- [ACD](https://blog.ivrpowers.com/post/technologies/what-is-acd/) - Automatic Call Distribuitor
-- [RTC](https://blog.ivrpowers.com/post/technologies/what-is-rtc/) - Real-time Communications
+- [PBX](https://blog.ivrpowers.com/post/technologies/what-is-pbx/)	- Private Branch eXchange
+- [P2P](https://blog.ivrpowers.com/post/technologies/what-is-peer-to-peer/)	- Peer-to-Peer Communication
+- [IVR](https://blog.ivrpowers.com/post/technologies/what-is-ivr/)	- Interactive Voice Response
+- [ACD](https://blog.ivrpowers.com/post/technologies/what-is-acd/)	- Automatic Call Distribuitor
+- [RTC](https://blog.ivrpowers.com/post/technologies/what-is-rtc/)	- Real-time Communications
 
 ##	Have you asked all these Key Strategic Questions?
 
@@ -46,7 +46,7 @@ In the Digital Age, **any company or organization requires to reimagine and rein
 
 ###	Stage 1: At the beginning… Telephony comes first.
 
-Some companies start just with a phone line or a small [PBX](https://blog.ivrpowers.com/post/customerengagement/how-to-improve-your-pbx-with-conversational-ai/) to receive or make phone calls. **We consider this stage first stay-connected step of any company**. Even if  in the Digital Age, it's possible to start directly to the next stage, no company or self-entrepreneur can manage any business without a phone for its first employees. This Stage is the phone only communication, but remember that in the current situation, telephony can use SMS for texting and you can use specific apps that improve your telephony without to much cost and effort.
+Some companies start just with a phone line or a small [PBX](https://blog.ivrpowers.com/post/technologies/what-is-pbx/) to receive or make phone calls. **We consider this stage first stay-connected step of any company**. Even if  in the Digital Age, it's possible to start directly to the next stage, no company or self-entrepreneur can manage any business without a phone for its first employees. This Stage is the phone only communication, but remember that in the current situation, telephony can use SMS for texting and you can use specific apps that improve your telephony without to much cost and effort.
 
 ![Stage 1: Business Communications](/postimages/marketing/slide-2021-11.004.png)
 
@@ -54,7 +54,7 @@ Required Systems: **PBX**
 
 ###	Stage 2: World Wide Web... is now essential.
 
-At this moment, this stage can be considered the most important stage for any business. **World Wide Web (WEB) is now a key communication tool that is not possible to forget** even if your business is not fully digital. At this level, most Small and Medium Businesses have reached their goals to be properly located in the World Wide Web and can get directly contacted by phone with few volume of calls. This stage ensures that you can talk with a customer or partner requiring to talk but without to much complexity... Remember a [PBX](https://blog.ivrpowers.com/post/customerengagement/how-to-improve-your-pbx-with-conversational-ai/) handles calls, but it's not properly designed to manage a large volume of traffic to any extension attended by a human.
+At this moment, this stage can be considered the most important stage for any business. **World Wide Web (WEB) is now a key communication tool that is not possible to forget** even if your business is not fully digital. At this level, most Small and Medium Businesses have reached their goals to be properly located in the World Wide Web and can get directly contacted by phone with few volume of calls. This stage ensures that you can talk with a customer or partner requiring to talk but without to much complexity... Remember a [PBX](https://blog.ivrpowers.com/post/technologies/what-is-pbx/) handles calls, but it's not properly designed to manage a large volume of traffic to any extension attended by a human.
 
 ![Stage 2: Business Communications](/postimages/marketing/slide-2021-11.005.png)
 
@@ -94,10 +94,10 @@ Today, **customers rightly expect to be able to complete transactions remotely, 
 
 Open Standards:
 
-- [SIP](https://blog.ivrpowers.com/post/products/video-rtc-sip-connect/) (VoIP)
-- [RTMP](https://blog.ivrpowers.com/post/technologies/what-is-rtmp/) (replaced by WebRTC)
-- [WebRTC](https://blog.ivrpowers.com/post/technologies/what-is-webrtc/)
-- [VXML](https://blog.ivrpowers.com/post/technologies/what-is-voicexml/) (extended VoiceXML)
+- [SIP](https://blog.ivrpowers.com/post/products/video-rtc-sip-connect/) - standard VoIP protocol
+- [RTMP](https://blog.ivrpowers.com/post/technologies/what-is-rtmp/) - replaced by WebRTC
+- [WebRTC](https://blog.ivrpowers.com/post/technologies/what-is-webrtc/) - released by W3C
+- [VXML](https://blog.ivrpowers.com/post/technologies/what-is-voicexml/) - extended W3C VoiceXML
 
 ##	What's Next?
 
