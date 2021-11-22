@@ -102,7 +102,7 @@
         },
         "datePublished": "2021-08-23",
         "dateModified": "2021-08-23",
-        "wordCount": 541,
+        "wordCount": 546,
         "keywords": ["ivr","rtc","acd"] 
     }
     </script>
@@ -175,7 +175,7 @@ html{font-family:sans-serif;line-height:1.15;-ms-text-size-adjust:100%;-webkit-t
 
   			<header class="post-header">
   				<span class="post-meta">
-						<span class="post-date">23 Aug 2021</span> <span class="reading-time">| <span class="estimated-reading-time">3 min.</span> (<span class="word-count">541</span> words)</span></span>
+						<span class="post-date">23 Aug 2021</span> <span class="reading-time">| <span class="estimated-reading-time">3 min.</span> (<span class="word-count">546</span> words)</span></span>
   				</span>
   				<div class="clear"></div>
   				<h1 class="post-title">What is ACD?</h1>
@@ -191,6 +191,8 @@ html{font-family:sans-serif;line-height:1.15;-ms-text-size-adjust:100%;-webkit-t
 <p>Its purpose is to help inbound contact centers sort and manage large volumes of calls or video calls to avoid overwhelming the team. It also improves customer experiences by making sure they are connected to a capable agent in the quickest time possible.</p>
 
 <p>But before the caller is queued and routed, they first have to go through an <a href="https://blog.ivrpowers.com/post/technologies/what-is-ivr/">IVR</a> or <a href="https://blog.ivrpowers.com/post/technologies/what-is-rtc/">RTC</a>. IVR and RTC platforms are often confused each other with ACD, so let’s take the time to differentiate all these terms.</p>
+
+<p><img src="/postimages/technologies/ivrpowers-acd.011.jpeg" alt="IVR RTC ACD Diagram" /></p>
 
 <p>How does it works?</p>
 
@@ -208,25 +210,23 @@ html{font-family:sans-serif;line-height:1.15;-ms-text-size-adjust:100%;-webkit-t
 
 <p>Most common Queue Distribution Methods&hellip;</p>
 
-<p><img src="/postimages/technologies/ivrpowers-acd.011.jpeg" alt="IVR RTC ACD Diagram" /></p>
-
-<h3 id="round-robin-call-distribution">Round Robin Call Distribution</h3>
+<h4 id="round-robin-call-distribution">◼️ Round Robin Call Distribution</h4>
 
 <p>A common distribution type for centers that want agents to have equal volumes of workload. In rotational distribution, agents all take turns in answering. For example, call 1 is taken by agent 1, call 2 is taken by agent 2, and so on. The cycle then repeats from the first agent once everyone has taken a turn.</p>
 
-<h3 id="simultaneous-call-distribution">Simultaneous Call Distribution</h3>
+<h4 id="simultaneous-call-distribution">◼️ Simultaneous Call Distribution</h4>
 
 <p>This is the preferred method if you want to reduce customer waiting time. With this routing strategy, the ACD alerts all agents to an incoming call at the same time. The first agent that picks up will handle the customer.</p>
 
-<h3 id="random-call-distribution">Random Call Distribution</h3>
+<h4 id="random-call-distribution">◼️ Random Call Distribution</h4>
 
 <p>This method is very simple if you have a lot of calls to handle that do not require specific skills. The next agent that picks up is a random selection of all agents available. After some time all agents will have the same number of calls in average without any specific condition.</p>
 
-<h3 id="time-based-call-distribution">Time Based Call Distribution</h3>
+<h4 id="time-based-call-distribution">◼️ Time Based Call Distribution</h4>
 
 <p>Time-based distribution takes into consideration your agents’ availability. The ACD will only alert agents that are available and will send the call directly to voicemail if none are open to handling it. If your call center prefers not to take calls during off-hours then this is a good choice.</p>
 
-<h3 id="talk-time-based-distribution">Talk Time Based Distribution</h3>
+<h4 id="talk-time-based-distribution">◼️ Talk Time Based Distribution</h4>
 
 <p>Similar to rotation, talk-time distribution tries to divide workload fairly among your agents. Here, the ACD selects the agent with the least talk-time and gives them the next ticket in the queue. This balances the workload between the team by making sure each agent has worked an equal amount of time.</p>
 
@@ -326,12 +326,14 @@ html{font-family:sans-serif;line-height:1.15;-ms-text-size-adjust:100%;-webkit-t
 <ul>
 <li><a href="#call-identification">Call Identification</a></li>
 <li><a href="#call-queueing">Call Queueing</a></li>
-<li><a href="#call-routing">Call Routing</a></li>
-<li><a href="#round-robin-call-distribution">Round Robin Call Distribution</a></li>
-<li><a href="#simultaneous-call-distribution">Simultaneous Call Distribution</a></li>
-<li><a href="#random-call-distribution">Random Call Distribution</a></li>
-<li><a href="#time-based-call-distribution">Time Based Call Distribution</a></li>
-<li><a href="#talk-time-based-distribution">Talk Time Based Distribution</a></li>
+<li><a href="#call-routing">Call Routing</a>
+<ul>
+<li><a href="#round-robin-call-distribution">◼️ Round Robin Call Distribution</a></li>
+<li><a href="#simultaneous-call-distribution">◼️ Simultaneous Call Distribution</a></li>
+<li><a href="#random-call-distribution">◼️ Random Call Distribution</a></li>
+<li><a href="#time-based-call-distribution">◼️ Time Based Call Distribution</a></li>
+<li><a href="#talk-time-based-distribution">◼️ Talk Time Based Distribution</a></li>
+</ul></li>
 </ul></li>
 </ul></li>
 </ul>
