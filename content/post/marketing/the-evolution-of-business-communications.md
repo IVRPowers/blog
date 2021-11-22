@@ -60,7 +60,7 @@ At this moment, this stage can be considered the most important stage for any bu
 
 Required Systems: **WEB + PBX**
 
-###	◼️ Stage 3: Socials and Video Meetings are much more required...
+###	◼️ Stage 3: Socials and Video Meetings are required...
 
 This stage is becoming a leading one  for the Digital Age, World Wide Web (WEB) is not only a question of website but can adding much more value web elements, like an online store, blog, chatbot, socials networks and linking all these specific tools to better communicate with all Internet users. By the way, **employees connect remotely much more than ever for their diary activities using video conferences** based on Peer-to-Peer ([P2P](https://blog.ivrpowers.com/post/technologies/what-is-peer-to-peer/)) communications to perform virtual meetings because work is now extended to different places or offices... At this stage, most companies are thinking, they have already solved most of their communications issues but wait for the next stage... It's not yet really true!
 
@@ -88,7 +88,7 @@ Required Systems: **WEB + PBX + IVR / ACD + P2P + RTC**
 
 Today, **customers rightly expect to be able to complete transactions remotely, securely and efficiently from anywhere**. They often use websites, smartphones, portals or apps to help them to transact. Digital technology is available everywhere giving companies the capabilities needed to digitize and streamline claims or sales processes, and add ease of remote and digital transactions by letting customers complete sign forms, verify their ID, including speech recognition, natural language processing and automation from their devices.
 
-**The State of the Art for your Business Communications is a complete and standard integration across RTC, IVR, ACD, PBX, P2P, WEB systems**. At Interactive Powers we do not thrust on road reinventions from the Legacy to the Cloud, we drive disruption and transformation pushing each platform to its limits and standards in order to protect your technology investments and developments. We understand a seamless integration is a key strategic approach to **Streamline your Business Communications**. Avoid creating IT islands, connect all systems together and get a maximum return on investment (ROI).
+**The State of the Art for your Business Communications is a complete and standard integration across [ACD](https://blog.ivrpowers.com/post/technologies/what-is-acd/), [RTC](https://blog.ivrpowers.com/post/technologies/what-is-rtc/), [IVR](https://blog.ivrpowers.com/post/technologies/what-is-ivr/), [PBX](https://blog.ivrpowers.com/post/technologies/what-is-pbx/), [P2P](https://blog.ivrpowers.com/post/technologies/what-is-peer-to-peer/)), WEB systems**. At Interactive Powers we do not thrust on road reinventions from the Legacy to the Cloud, we drive disruption and transformation pushing each platform to its limits and standards in order to protect your technology investments and developments. We understand a seamless integration is a key strategic approach to **Streamline your Business Communications**. Avoid creating IT islands, connect all systems together and get a maximum return on investment (ROI).
 
 ![State of the Art: Business Communications](/postimages/marketing/slide-2021-11.003.png)
 

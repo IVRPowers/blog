@@ -19,31 +19,31 @@ Used as a business telephone system or private telephone network, a **PBX is own
 
 The PBX phone system is a private telephone network that supports a range of useful features while still allowing general telephone service. Most people are already familiar with many of the features that PBX phone systems offer:
 
-###	Extension Dialing. 
+###	◼️ Extension Dialing. 
 
 PBX phone systems allow an entire office to share a single telephone number while assigning unique extensions to each employee in the office. This makes it much easier for incoming calls to reach their intended targets while simplifying the calling experience.
 
-###	Business Hour Settings.
+###	◼️ Business Hour Settings.
 
 PBX phone solutions can route off-hours business calls to different phone numbers according to pre-set codes. This allows large, multi-branch offices to route incoming off-hours calls to branches that are still open, or to a 24/7 customer support line.
 
-###	Caller Queues.
+###	◼️ Caller Queues.
 
 Nobody likes being kept on hold, but it’s nice to know how long you’re likely to wait. PBX phone systems can tell incoming callers how long they’re likely to wait until an operator gets on the line, improving customer service by managing expectations.
 
-###	Call Conferencing.
+###	◼️ Call Conferencing.
 
 Conference calls are central to the success of any organization beyond a certain size. PBX phone systems allow users to establish conference calls with ease, streamlining meetings and improving office productivity.
 
-###	Voicemail.
+###	◼️ Voicemail.
 
 With an internet-enabled PBX phone system, users can set the system to divert incoming voicemails directly to users’ email addresses. This unifies communication across multiple platforms and helps users gain access to important messages faster.
 
-###	Call Recording.
+###	◼️ Call Recording.
 
 PBX phone systems make it much easier for administrators to track, record, and analyze phone calls. Some of them can activated features to records calls and create special rules to manage properly your recordings.
 
-###	Call Detailed  Records.
+###	◼️ Call Detailed  Records.
 
 One of the most popular uses for call recording is to gather material for training new customer service employees, but archived calls can also help organizations defer liability when responding to litigation.
 
