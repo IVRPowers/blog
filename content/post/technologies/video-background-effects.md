@@ -25,7 +25,7 @@ Simply add **Manycam Lite CC** as a webcam/video source for our [Video RTC](http
 ##	◼️ Background Picture or Blur
 This is the most specific feature that Lite CC enables to [Video RTC](https://blog.ivrpowers.com/post/marketing/video-rtc-solutions-ecosystem/), providing a professional background effects for your services. Each agent can select different modes and switch between different ones according to the context or situation.
 
-##	◼️ Over Screen Paint & Text
+##	◼️ On-screen Paint & Text
 This feature provides an awesome capacity to the agent, it can write specific messages over his video or draw something in live. Both are very interesting to improve customer experience and have the great advantage to be recorded by [Video RTC](https://blog.ivrpowers.com/post/marketing/video-rtc-solutions-ecosystem/) too.
 
 ##	◼️ Multiple Virtual Cameras
