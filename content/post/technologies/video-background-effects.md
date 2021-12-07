@@ -23,15 +23,15 @@ Simply add **Manycam Lite CC** as a webcam/video source for our [Video RTC](http
 ![Video RTC Manycam Lite](/postimages/technologies/slide-2021-11.017.jpeg)
 
 ##	◼️ Background Picture or Blur
-This is the most specific feature that Lite CC enables to [Video RTC](https://blog.ivrpowers.com/post/marketing/video-rtc-solutions-ecosystem/), providing a professional background effects for your services. Each agent can select different modes and switch between different ones according to the context or situation.
+This is a key feature that Lite CC enables to [Video RTC](https://blog.ivrpowers.com/post/marketing/video-rtc-solutions-ecosystem/), providing many **professional background effects** for your services. Each agent can select different modes and switch between different ones according to the context or situation.
 
 ##	◼️ On-screen Paint & Text
-This feature provides an awesome capacity to the agent, it can write specific messages over his video or draw something in live. Both are very interesting to improve customer experience and have the great advantage to be recorded by [Video RTC](https://blog.ivrpowers.com/post/marketing/video-rtc-solutions-ecosystem/) too.
+This feature provides an awesome capacity to the agent, it can write specific messages over his video or draw something in live. Both are very interesting to **improve customer experience** and have the great advantage to keept recorded by [Video RTC](https://blog.ivrpowers.com/post/marketing/video-rtc-solutions-ecosystem/) too.
 
 ##	◼️ Multiple Virtual Cameras
-One more thing about Lite CC is its capacity to create one or many virtual cameras. Video RTC is able to switch from one to another using the [Flip Camera](https://blog.ivrpowers.com/post/products/video-rtc-flip-camera/) function inside the popup-agent widget enabling an incredible capacity of effects customization.
+One more thing about Lite CC is its capacity to **create one or many virtual cameras**. Video RTC is able to switch from one to another using the [Flip Camera](https://blog.ivrpowers.com/post/products/video-rtc-flip-camera/) function inside the popup-agent widget enabling an incredible capacity of effects customization.
 
-#	How to get this incredible add-on for Video RTC
+#	How can you get Lite CC for Video RTC?
 
 Please contact our [sales](https://www.ivrpowers.com/support-services/) to get more information and prices for your Video RTC rollouts.
 
