@@ -15,7 +15,7 @@ image = "/postimages/general/happy-new-year-2022.jpeg"
 # May peace, inspiration and happiness be yours throughout New Year 2022!
 ---
 
-Hard work, creativity, and commitment to excellence has been invaluable to us this year. Thank you for being with us through the whole year 2021. Let’s make the upcoming year even more successful!
+Hard work, creativity, and commitment to excellence has been invaluable to us this 2021. As we step into another year, I wish you confidence and courage to accept new challenges and work further towards your goals!
 
 Happy New Year! Wishing all the best to you and your family as we head into 2022! 🍾 🥂
 
