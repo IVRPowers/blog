@@ -15,7 +15,7 @@ image = "/postimages/news/ivrpowers-videortc-3.018.jpeg"
 # Innovate. Rebuild your customer interactions...
 ---
 
-Follow our [socials](https://www.ivrpowers.com/about-us/) and [blog](http://blog.ivrpowers.com/); be ready to discover our major release update about Video Real-Time Communications. We will pleased to show you soon our 4th generation of our Video Gateway platforms.
+Follow our [socials](https://www.ivrpowers.com/about-us/) and [blog](http://blog.ivrpowers.com/); be ready to discover our major release update about **Video Real-Time Communications**. We will pleased to show you soon our 4th generation of our Video Gateway platforms.
 
 Keep posted on **February 2019**!
 
