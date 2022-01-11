@@ -6,7 +6,7 @@
         <meta charset="utf-8" />
         <meta http-equiv="X-UA-Compatible" content="IE=edge" />
 
-        <meta property="og:title" content="{{ if ne .URL "/" }} {{ .Title }} &middot; {{ end }} {{ .Site.Title }}" />
+        <meta property="og:title" content="{{ if ne .Title "" }} {{ .Title }} &middot; {{ .Site.Title }} {{ else }} {{ .Site.Title }} {{ end }}" />
         <meta property="og:site_name" content="{{ .Site.Title }}" />
         <meta property="og:url" content="{{ .Permalink }}" />
 
@@ -26,7 +26,7 @@
         <meta property="og:type" content="website" />
     {{ end }}
 
-        <title>{{ if ne .URL "/" }} {{ .Title }} &middot; {{ end }} {{ .Site.Title }}</title>
+        <title>{{ if ne .Title "" }} {{ .Title }} &middot; {{ .Site.Title }} {{ else }} {{ .Site.Title }} {{ end }}</title>
 
         <link rel="preload" href="{{ .Site.BaseURL }}js/main.js" as="script" />
         <link rel="preload" href="{{ .Site.BaseURL }}css/main.css" as="style" />
@@ -57,12 +57,12 @@
             <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
         <![endif]-->
 
-    {{ if ne .URL "/" }}
+    {{ if ne .Permalink "/" }}
         <link href="{{ .Site.BaseURL }}index.xml" rel="alternate" type="application/rss+xml" title="{{ .Site.Title }}" />
     {{ end }}
 
     {{if .IsNode}}
-        <link href="{{.RSSLink}}" rel="alternate" type="application/rss+xml" title="{{ if ne .URL "/" }}{{ .Title }} &middot; {{ end }}{{ .Site.Title }}" />
+        <link href="{{ with .OutputFormats.Get "RSS" }}{{ .RelPermalink }}{{ end }}" rel="alternate" type="application/rss+xml" title="{{ if ne .Title "" }} {{ .Title }} &middot; {{ .Site.Title }} {{ else }} {{ .Site.Title }} {{ end }}" />
     {{end}}
         <link rel="canonical" href="{{ .Permalink }}" />
 
@@ -167,7 +167,7 @@
               </a>
             </div>
             <div class="nav-menu">
-              <a class="rss" href="{{.RSSLink}}">
+              <a class="rss" href="{{ with .OutputFormats.Get "RSS" }}{{ .RelPermalink }}{{ end }}">
                 <i class="icon-rss"></i>
               </a>
                 {{ if .IsPage }}

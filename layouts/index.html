@@ -1,3 +1,5 @@
+{{ with .Site.GetPage "page" "post" }}
+
 {{ partial "header.html" . }}
 
 	<header id="header" class="header has-cover">
@@ -35,3 +37,5 @@
 	</div>
 
 {{ partial "footer.html" . }}
+
+{{ end }}
