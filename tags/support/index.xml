@@ -1,16 +1,12 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Support on Blog</title>
+    <title>support on Blog</title>
     <link>https://blog.ivrpowers.com/tags/support/</link>
-    <description>Recent content in Support on Blog</description>
+    <description>Recent content in support on Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 29 Oct 2021 12:00:00 +0200</lastBuildDate>
-    
-	<atom:link href="https://blog.ivrpowers.com/tags/support/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Fri, 29 Oct 2021 12:00:00 +0200</lastBuildDate><atom:link href="https://blog.ivrpowers.com/tags/support/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Web ACD: System Requirements</title>
       <link>https://blog.ivrpowers.com/post/support/web-acd-system-requirements/</link>
@@ -40,7 +36,7 @@
 https://webrtc.demo.ivrpowers.com/poc/detection/
 Please contact us, if you get specific device data that you need to black-list or white-list.
 Dump Sample:
-Browser: Firefox 76 76.0 OS: Mac OS X 10.15 1.4.0 Chrome check: undefined Microphone: true Speakers: false Webcam: true isApplyConstraintsSupported: true isCreateMediaStreamSourceSupported: true isGetUserMediaSupported: true isMobileDevice: false isPromisesSupported: true isRtpDataChannelsSupported: false isVideoSupportsStreamCapturing: true isWebRTCSupported: true isWebSocketsSupported: true isWebsiteHasMicrophonePermissions: false isWebsiteHasWebcamPermissions: false  Please, contact our support for more information.</description>
+Browser: Firefox 76 76.0 OS: Mac OS X 10.15 1.4.0 Chrome check: undefined Microphone: true Speakers: false Webcam: true isApplyConstraintsSupported: true isCreateMediaStreamSourceSupported: true isGetUserMediaSupported: true isMobileDevice: false isPromisesSupported: true isRtpDataChannelsSupported: false isVideoSupportsStreamCapturing: true isWebRTCSupported: true isWebSocketsSupported: true isWebsiteHasMicrophonePermissions: false isWebsiteHasWebcamPermissions: false Please, contact our support for more information.</description>
     </item>
     
     <item>
@@ -72,7 +68,8 @@ Browser: Firefox 76 76.0 OS: Mac OS X 10.15 1.4.0 Chrome check: undefined Microp
       <description>Photo Source: Interactive Powers. Creative Commons Getting started&amp;hellip; Help Center is only available for Customers and Partners that are deploying or running our platforms, if you are not registred please contact our Sales Team to get all information and partnerships.
 Register and Login at: https://support.ivrpowers.com
 Service Desk Portals:
- Smart IVR Video RTC Cloud Hosting Solutions  Get support with our team in a single place Channels available:</description>
+ Smart IVR Video RTC Cloud Hosting Solutions  Get support with our team in a single place Channels available:
+ Email Web Portal, when logged in at: https://support.</description>
     </item>
     
     <item>
@@ -81,7 +78,7 @@ Service Desk Portals:
       <pubDate>Tue, 19 Feb 2019 15:00:26 +0200</pubDate>
       
       <guid>https://blog.ivrpowers.com/post/support/video-rtc-upgrade-debian9/</guid>
-      <description>Photo Source: Interactive Powers. Creative Commons Here’s how to go from Debian 8 to Debian 9 If you running a Video RTC Gateway (WebRTC) since 2017 or 2018, then your operating system is on Debian 8. To move up to the next update or version 4.0 you will have to upgrade to Linux OS Debian 9 (Stretch) x86 64-bit.
+      <description>Photo Source: Interactive Powers. Creative Commons Here’s how to go from Debian 8 to Debian 9  If you running a Video RTC Gateway (WebRTC) since 2017 or 2018, then your operating system is on Debian 8. To move up to the next update or version 4.0 you will have to upgrade to Linux OS Debian 9 (Stretch) x86 64-bit.
 Our next binary packages or CPaaS instances will now includes an installer script to automatically take you to Debian 9.</description>
     </item>
     

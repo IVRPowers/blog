@@ -1,16 +1,12 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Branding on Blog</title>
+    <title>branding on Blog</title>
     <link>https://blog.ivrpowers.com/tags/branding/</link>
-    <description>Recent content in Branding on Blog</description>
+    <description>Recent content in branding on Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 06 Jul 2017 14:08:06 +0200</lastBuildDate>
-    
-	<atom:link href="https://blog.ivrpowers.com/tags/branding/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Thu, 06 Jul 2017 14:08:06 +0200</lastBuildDate><atom:link href="https://blog.ivrpowers.com/tags/branding/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>The Age of the Customer in Contact Centers</title>
       <link>https://blog.ivrpowers.com/post/customerengagement/age-of-consumer/</link>

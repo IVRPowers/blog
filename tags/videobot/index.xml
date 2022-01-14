@@ -1,23 +1,19 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Videobot on Blog</title>
+    <title>videobot on Blog</title>
     <link>https://blog.ivrpowers.com/tags/videobot/</link>
-    <description>Recent content in Videobot on Blog</description>
+    <description>Recent content in videobot on Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 08 Nov 2018 22:00:00 +0100</lastBuildDate>
-    
-	<atom:link href="https://blog.ivrpowers.com/tags/videobot/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Thu, 08 Nov 2018 22:00:00 +0100</lastBuildDate><atom:link href="https://blog.ivrpowers.com/tags/videobot/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Videobots are coming…</title>
       <link>https://blog.ivrpowers.com/post/trends/videobots-are-coming/</link>
       <pubDate>Thu, 08 Nov 2018 22:00:00 +0100</pubDate>
       
       <guid>https://blog.ivrpowers.com/post/trends/videobots-are-coming/</guid>
-      <description>Video AI agents with an human like behaviour are closer than you may think… Today, Xinhua, China’s state-run press agency, has unveiled new “AI anchors” — digital composites created from footage of human hosts that read the news using synthesised voices.
+      <description>Video AI agents with an human like behaviour are closer than you may think…  Today, Xinhua, China’s state-run press agency, has unveiled new “AI anchors” — digital composites created from footage of human hosts that read the news using synthesised voices.
 The news anchor, based on the latest AI technology, has a male image with a voice, facial expressions and actions of a real person. &amp;ldquo;He&amp;rdquo; learns from live broadcasting videos by himself and can read texts as naturally as a human.</description>
     </item>
     

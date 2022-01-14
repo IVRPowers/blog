@@ -1,23 +1,19 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Recording on Blog</title>
+    <title>recording on Blog</title>
     <link>https://blog.ivrpowers.com/tags/recording/</link>
-    <description>Recent content in Recording on Blog</description>
+    <description>Recent content in recording on Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 06 Mar 2021 21:00:00 +0200</lastBuildDate>
-    
-	<atom:link href="https://blog.ivrpowers.com/tags/recording/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Sat, 06 Mar 2021 21:00:00 +0200</lastBuildDate><atom:link href="https://blog.ivrpowers.com/tags/recording/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>REC Storage updated!</title>
       <link>https://blog.ivrpowers.com/post/products/rec-storage-updated/</link>
       <pubDate>Sat, 06 Mar 2021 21:00:00 +0200</pubDate>
       
       <guid>https://blog.ivrpowers.com/post/products/rec-storage-updated/</guid>
-      <description>Massive and Scalable Video Recording service for Contact Centers, new release! Video RTC (WebRTC) platforms enable to record all audio and video streams of your services to a secure, scalable , cloud REC Storage. Video Recording are connected to SPLIT Forward / Reverse functions in order to process massively all video calls of your Contact Center.
+      <description>Massive and Scalable Video Recording service for Contact Centers, new release!  Video RTC (WebRTC) platforms enable to record all audio and video streams of your services to a secure, scalable , cloud REC Storage. Video Recording are connected to SPLIT Forward / Reverse functions in order to process massively all video calls of your Contact Center.
 New REC Storage features released are:
 1. Records Time stamp All video calls records are now showing the time stamp of your video calls with hh:mm:ss format in the web panel.</description>
     </item>
@@ -28,7 +24,7 @@ New REC Storage features released are:
       <pubDate>Sun, 25 Oct 2020 21:00:00 +0200</pubDate>
       
       <guid>https://blog.ivrpowers.com/post/products/rec-storage-for-video-rtc/</guid>
-      <description>Securely archive all your audio / video streams in MP4 blended file or as RAW separate files. Get elastic cloud storage for Video RTC recordings with enterprise-grade capabilities, reliability, and security that is as simple as one, two, three. Just log into secure S3 Sockets, pick the Gigabytes or Terabytes you need, and select the AWS region to use. That’s it. Then sit back and enjoy call center-grade cloud recording with no compromises.</description>
+      <description>Securely archive all your audio / video streams in MP4 blended file or as RAW separate files.  Get elastic cloud storage for Video RTC recordings with enterprise-grade capabilities, reliability, and security that is as simple as one, two, three. Just log into secure S3 Sockets, pick the Gigabytes or Terabytes you need, and select the AWS region to use. That’s it. Then sit back and enjoy call center-grade cloud recording with no compromises.</description>
     </item>
     
   </channel>

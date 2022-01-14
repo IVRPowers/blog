@@ -7,7 +7,7 @@
         <meta charset="utf-8" />
         <meta http-equiv="X-UA-Compatible" content="IE=edge" />
 
-        <meta property="og:title" content=" Logging with Log Rotation &middot;  Blog" />
+        <meta property="og:title" content=" Logging with Log Rotation &middot; Blog " />
         <meta property="og:site_name" content="Blog" />
         <meta property="og:url" content="https://blog.ivrpowers.com/post/coding/videortc-log-rotation/" />
 
@@ -27,7 +27,7 @@
         <meta name="twitter:url" content="https://blog.ivrpowers.com/post/coding/videortc-log-rotation/" />
     
 
-        <title> Logging with Log Rotation &middot;  Blog</title>
+        <title> Logging with Log Rotation &middot; Blog </title>
 
         <link rel="preload" href="https://blog.ivrpowers.com/js/main.js" as="script" />
         <link rel="preload" href="https://blog.ivrpowers.com/css/main.css" as="style" />
@@ -67,43 +67,43 @@
         "@type": "BlogPosting",
         "mainEntityOfPage": {
           "@type": "WebPage",
-          "@id": "https://blog.ivrpowers.com/post/coding/videortc-log-rotation/"
+          "@id": "https:\/\/blog.ivrpowers.com\/post\/coding\/videortc-log-rotation\/"
         },
         "headline": "Logging with Log Rotation",
-        "description": "Coding &amp; Debugging",
+        "description": "Coding \u0026 Debugging",
         "author": {
             "@type": "Person",
             "name": "IVRPowers Team",
-            "url": "http://profiles.google.com/https://plus.google.com/110474380379482164317/?rel=author",
+            "url": "http://profiles.google.com/https:\/\/plus.google.com\/110474380379482164317\/?rel=author",
             "image": {
               "@type": "ImageObject",
-              "url": "https:/images/avatar.png",
+              "url": "https:\/images\/avatar.png",
               "height": 80,
               "width": 80
             }
         },
         "publisher": {
           "@type": "Organization",
-          "@id": "https://blog.ivrpowers.com/",
+          "@id": "https:\/\/blog.ivrpowers.com\/",
           "name": "Blog",
-          "url": "https://blog.ivrpowers.com/",
+          "url": "https:\/\/blog.ivrpowers.com\/",
           "logo": {
             "@type": "ImageObject",
-            "url": "https:/images/avatar.png",
+            "url": "https:\/images\/avatar.png",
             "height": 80,
             "width": 80
           }
         },
         "image": {
           "@type": "ImageObject",
-          "url": "https://blog.ivrpowers.com/postimages/coding/ivrpowers-videortc-features.033.jpeg",
+          "url": "https:\/\/blog.ivrpowers.com\/postimages\/coding\/ivrpowers-videortc-features.033.jpeg",
           "height": 133,
           "width": 200
         },
         "datePublished": "2018-08-16",
         "dateModified": "2018-08-16",
-        "wordCount": 289,
-        "keywords": ["debugging","code","videortc"] 
+        "wordCount":  289 ,
+        "keywords": "[\"debugging\",\"code\",\"videortc\"]" 
     }
     </script>
 
@@ -182,37 +182,24 @@ html{font-family:sans-serif;line-height:1.15;-ms-text-size-adjust:100%;-webkit-t
   			</header>
 
   			<section class="post-content">
-  				
-
-<h2 id="development-postimages-coding-ivrpowers-videortc-features-033-jpeg"><img src="/postimages/coding/ivrpowers-videortc-features.033.jpeg" alt="development" /></h2>
-
+  				<h2 id="developmentpostimagescodingivrpowers-videortc-features033jpeg"><img src="/postimages/coding/ivrpowers-videortc-features.033.jpeg" alt="development"></h2>
 <h6 id="photo-source-interactive-powers-pexels-creative-commons">Photo Source: Interactive Powers, Pexels. Creative Commons</h6>
-
 <h1 id="improve-your-video-rtc-debugging-tasks-and-platform-monitoring-for-all-your-applications">Improve your Video RTC debugging tasks and platform monitoring for all your applications</h1>
-
-<hr />
-
+<hr>
 <p>Logging takes place in the execution of your <a href="http://blog.ivrpowers.com/post/products/real-time-communications-applications/">Video RTC applications</a> to provide an audit trail that can be used to understand the activity of the system and to diagnose problems to find and fix bugs. We are pleased to talk a bout a very useful tool for managing log files called <strong>Log Rotation</strong>. We have decided to incorporate this tool to improve coding, monitoring and debbuging with all our <a href="http://www.ivrpowers.com/videortc/">Video Gateway</a> solutions. This new internal feature allows automatic rotation, compression and removal of log history files. Each log file may be created <em>daily</em>, <em>weekly</em>, <em>monthly</em>, or when it grows too large.</p>
-
-<pre><code class="language-bash">/etc/logrotate.d/webrtc-gateway
-</code></pre>
-
-<p>The default configuration we have set up next to the package is as follows:</p>
-
-<pre><code class="language-bash">/var/log/webrtc-gateway.log {
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-bash" data-lang="bash">/etc/logrotate.d/webrtc-gateway
+</code></pre></div><p>The default configuration we have set up next to the package is as follows:</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-bash" data-lang="bash">/var/log/webrtc-gateway.log <span style="color:#f92672">{</span>
 	weekly
-	rotate 12
+	rotate <span style="color:#ae81ff">12</span>
 	compress
 	notifempty
-	create 0644 root root
+	create <span style="color:#ae81ff">0644</span> root root
 	postrotate
-		/etc/init.d/webrtc-gateway restart &gt; /dev/null 2&gt;/dev/null || true
+		/etc/init.d/webrtc-gateway restart &gt; /dev/null 2&gt;/dev/null <span style="color:#f92672">||</span> true
 	endscript
-}
-</code></pre>
-
-<p>Options:</p>
-
+<span style="color:#f92672">}</span>
+</code></pre></div><p>Options:</p>
 <ul>
 <li><strong>weekly</strong>: Log files are rotated weekly</li>
 <li><strong>rotate</strong>: Log files are rotated 12 times (3 last months)</li>
@@ -221,16 +208,11 @@ html{font-family:sans-serif;line-height:1.15;-ms-text-size-adjust:100%;-webkit-t
 <li><strong>create</strong>: The log file is created with 644 permissions and root user as owner</li>
 <li><strong>postrotate</strong>: VideoGateway is restarted after rotating a log file</li>
 </ul>
-
 <p>Of course, this feature is available by default for all our new <strong>Video Gateway</strong> services and  releases, and the system administrator can update its options at any time, or even deactivate it.</p>
-
 <p>Feel free to reach out if you have any questions or comments bellow or just want to show off what kind of cool stuff you’ve built with <a href="https://blog.ivrpowers.com/post/development/introducing-videortcjs-developers/">VideoRTC.js</a>.</p>
-
 <p>Email: <a href="mailto:support@ivrpowers.com">support@ivrpowers.com</a> · Twitter: <a href="https://twitter.com/ivrpowers">@ivrpowers</a>
- · Github: <a href="https://github.com/ivrpowers">IVRPowers</a></p>
-
-<hr />
-
+· Github: <a href="https://github.com/ivrpowers">IVRPowers</a></p>
+<hr>
 <p><a href="https://www.ivrpowers.com/">Interactive Powers</a> - Streamline your business communications</p>
 
   			</section>
@@ -318,25 +300,13 @@ html{font-family:sans-serif;line-height:1.15;-ms-text-size-adjust:100%;-webkit-t
     </div>
     <div id="toc" class="menu-list">
         <nav id="TableOfContents">
-<ul>
-<li>
-<ul>
-<li><a href="#development-postimages-coding-ivrpowers-videortc-features-033-jpeg"><img src="/postimages/coding/ivrpowers-videortc-features.033.jpeg" alt="development" /></a>
-<ul>
-<li>
-<ul>
-<li>
-<ul>
-<li>
-<ul>
-<li><a href="#photo-source-interactive-powers-pexels-creative-commons">Photo Source: Interactive Powers, Pexels. Creative Commons</a></li>
-</ul></li>
-</ul></li>
-</ul></li>
-</ul></li>
-</ul></li>
-<li><a href="#improve-your-video-rtc-debugging-tasks-and-platform-monitoring-for-all-your-applications">Improve your Video RTC debugging tasks and platform monitoring for all your applications</a></li>
-</ul>
+  <ul>
+    <li><a href="#developmentpostimagescodingivrpowers-videortc-features033jpeg"><img src="/postimages/coding/ivrpowers-videortc-features.033.jpeg" alt="development"></a>
+      <ul>
+        <li></li>
+      </ul>
+    </li>
+  </ul>
 </nav>
     </div>
 </div>

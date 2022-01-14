@@ -1,16 +1,12 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Mobile on Blog</title>
+    <title>mobile on Blog</title>
     <link>https://blog.ivrpowers.com/tags/mobile/</link>
-    <description>Recent content in Mobile on Blog</description>
+    <description>Recent content in mobile on Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 20 Nov 2017 18:01:23 +0100</lastBuildDate>
-    
-	<atom:link href="https://blog.ivrpowers.com/tags/mobile/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Mon, 20 Nov 2017 18:01:23 +0100</lastBuildDate><atom:link href="https://blog.ivrpowers.com/tags/mobile/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Video Real-Time Communications Endpoints</title>
       <link>https://blog.ivrpowers.com/post/general/videortc-endpoints/</link>

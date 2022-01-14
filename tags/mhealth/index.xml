@@ -1,16 +1,12 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Mhealth on Blog</title>
+    <title>mhealth on Blog</title>
     <link>https://blog.ivrpowers.com/tags/mhealth/</link>
-    <description>Recent content in Mhealth on Blog</description>
+    <description>Recent content in mhealth on Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 18 Jul 2017 11:31:50 +0200</lastBuildDate>
-    
-	<atom:link href="https://blog.ivrpowers.com/tags/mhealth/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Tue, 18 Jul 2017 11:31:50 +0200</lastBuildDate><atom:link href="https://blog.ivrpowers.com/tags/mhealth/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Telehealth: When Technology Meets Medicine</title>
       <link>https://blog.ivrpowers.com/post/healthcare/technology-meets-medicine/</link>

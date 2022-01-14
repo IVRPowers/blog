@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Blog</title>
@@ -6,49 +6,45 @@
     <description>Recent content in Tags on Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 17 Nov 2021 00:12:00 +0200</lastBuildDate>
-    
-	<atom:link href="https://blog.ivrpowers.com/tags/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Thu, 13 Jan 2022 12:00:00 +0200</lastBuildDate><atom:link href="https://blog.ivrpowers.com/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Acd</title>
-      <link>https://blog.ivrpowers.com/tags/acd/</link>
-      <pubDate>Wed, 17 Nov 2021 00:12:00 +0200</pubDate>
+      <title>changelog</title>
+      <link>https://blog.ivrpowers.com/tags/changelog/</link>
+      <pubDate>Thu, 13 Jan 2022 12:00:00 +0200</pubDate>
       
-      <guid>https://blog.ivrpowers.com/tags/acd/</guid>
+      <guid>https://blog.ivrpowers.com/tags/changelog/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Ai</title>
-      <link>https://blog.ivrpowers.com/tags/ai/</link>
-      <pubDate>Sat, 29 Feb 2020 19:00:00 +0200</pubDate>
+      <title>ivrpowers</title>
+      <link>https://blog.ivrpowers.com/tags/ivrpowers/</link>
+      <pubDate>Thu, 13 Jan 2022 12:00:00 +0200</pubDate>
       
-      <guid>https://blog.ivrpowers.com/tags/ai/</guid>
+      <guid>https://blog.ivrpowers.com/tags/ivrpowers/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Amazon</title>
-      <link>https://blog.ivrpowers.com/tags/amazon/</link>
-      <pubDate>Sun, 08 Sep 2019 12:00:00 +0100</pubDate>
+      <title>rtc</title>
+      <link>https://blog.ivrpowers.com/tags/rtc/</link>
+      <pubDate>Thu, 13 Jan 2022 12:00:00 +0200</pubDate>
       
-      <guid>https://blog.ivrpowers.com/tags/amazon/</guid>
+      <guid>https://blog.ivrpowers.com/tags/rtc/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Android</title>
-      <link>https://blog.ivrpowers.com/tags/android/</link>
-      <pubDate>Fri, 16 Feb 2018 21:00:00 +0200</pubDate>
+      <title>webrtc</title>
+      <link>https://blog.ivrpowers.com/tags/webrtc/</link>
+      <pubDate>Thu, 13 Jan 2022 12:00:00 +0200</pubDate>
       
-      <guid>https://blog.ivrpowers.com/tags/android/</guid>
+      <guid>https://blog.ivrpowers.com/tags/webrtc/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Announcement</title>
+      <title>announcement</title>
       <link>https://blog.ivrpowers.com/tags/announcement/</link>
       <pubDate>Sat, 01 Jan 2022 14:00:00 +0200</pubDate>
       
@@ -57,1033 +53,7 @@
     </item>
     
     <item>
-      <title>Api</title>
-      <link>https://blog.ivrpowers.com/tags/api/</link>
-      <pubDate>Sun, 08 Sep 2019 12:00:00 +0100</pubDate>
-      
-      <guid>https://blog.ivrpowers.com/tags/api/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Apis</title>
-      <link>https://blog.ivrpowers.com/tags/apis/</link>
-      <pubDate>Mon, 06 Nov 2017 12:19:05 +0200</pubDate>
-      
-      <guid>https://blog.ivrpowers.com/tags/apis/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Apple</title>
-      <link>https://blog.ivrpowers.com/tags/apple/</link>
-      <pubDate>Tue, 04 Feb 2020 12:00:00 +0200</pubDate>
-      
-      <guid>https://blog.ivrpowers.com/tags/apple/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Asr</title>
-      <link>https://blog.ivrpowers.com/tags/asr/</link>
-      <pubDate>Fri, 28 Feb 2020 15:00:00 +0200</pubDate>
-      
-      <guid>https://blog.ivrpowers.com/tags/asr/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Aws</title>
-      <link>https://blog.ivrpowers.com/tags/aws/</link>
-      <pubDate>Tue, 03 Sep 2019 12:00:00 +0100</pubDate>
-      
-      <guid>https://blog.ivrpowers.com/tags/aws/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Biometric</title>
-      <link>https://blog.ivrpowers.com/tags/biometric/</link>
-      <pubDate>Fri, 01 Sep 2017 09:52:47 +0200</pubDate>
-      
-      <guid>https://blog.ivrpowers.com/tags/biometric/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Biometrics</title>
-      <link>https://blog.ivrpowers.com/tags/biometrics/</link>
-      <pubDate>Tue, 05 Dec 2017 09:28:03 +0100</pubDate>
-      
-      <guid>https://blog.ivrpowers.com/tags/biometrics/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Brand</title>
-      <link>https://blog.ivrpowers.com/tags/brand/</link>
-      <pubDate>Thu, 30 Jan 2020 20:40:07 +0200</pubDate>
-      
-      <guid>https://blog.ivrpowers.com/tags/brand/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Branding</title>
-      <link>https://blog.ivrpowers.com/tags/branding/</link>
-      <pubDate>Thu, 06 Jul 2017 14:08:06 +0200</pubDate>
-      
-      <guid>https://blog.ivrpowers.com/tags/branding/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Browser</title>
-      <link>https://blog.ivrpowers.com/tags/browser/</link>
-      <pubDate>Wed, 02 Jan 2019 20:00:00 +0200</pubDate>
-      
-      <guid>https://blog.ivrpowers.com/tags/browser/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Business</title>
-      <link>https://blog.ivrpowers.com/tags/business/</link>
-      <pubDate>Mon, 28 Dec 2020 00:00:00 +0200</pubDate>
-      
-      <guid>https://blog.ivrpowers.com/tags/business/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Businessstrategy</title>
-      <link>https://blog.ivrpowers.com/tags/businessstrategy/</link>
-      <pubDate>Sun, 24 Oct 2021 12:00:00 +0200</pubDate>
-      
-      <guid>https://blog.ivrpowers.com/tags/businessstrategy/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Businesstrategy</title>
-      <link>https://blog.ivrpowers.com/tags/businesstrategy/</link>
-      <pubDate>Tue, 12 Dec 2017 12:08:43 +0200</pubDate>
-      
-      <guid>https://blog.ivrpowers.com/tags/businesstrategy/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Businesstrends</title>
-      <link>https://blog.ivrpowers.com/tags/businesstrends/</link>
-      <pubDate>Sun, 05 Apr 2020 22:00:00 +0200</pubDate>
-      
-      <guid>https://blog.ivrpowers.com/tags/businesstrends/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Call</title>
-      <link>https://blog.ivrpowers.com/tags/call/</link>
-      <pubDate>Sat, 30 Oct 2021 00:12:30 +0200</pubDate>
-      
-      <guid>https://blog.ivrpowers.com/tags/call/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Call Center</title>
-      <link>https://blog.ivrpowers.com/tags/call-center/</link>
-      <pubDate>Tue, 26 Jan 2021 00:18:30 +0200</pubDate>
-      
-      <guid>https://blog.ivrpowers.com/tags/call-center/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Callcenter</title>
-      <link>https://blog.ivrpowers.com/tags/callcenter/</link>
-      <pubDate>Fri, 29 Oct 2021 12:00:00 +0200</pubDate>
-      
-      <guid>https://blog.ivrpowers.com/tags/callcenter/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Callcenters</title>
-      <link>https://blog.ivrpowers.com/tags/callcenters/</link>
-      <pubDate>Mon, 13 Nov 2017 00:20:05 +0200</pubDate>
-      
-      <guid>https://blog.ivrpowers.com/tags/callcenters/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Cctr</title>
-      <link>https://blog.ivrpowers.com/tags/cctr/</link>
-      <pubDate>Sat, 19 Dec 2020 20:20:00 +0200</pubDate>
-      
-      <guid>https://blog.ivrpowers.com/tags/cctr/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Changelog</title>
-      <link>https://blog.ivrpowers.com/tags/changelog/</link>
-      <pubDate>Mon, 19 Jul 2021 00:20:00 +0200</pubDate>
-      
-      <guid>https://blog.ivrpowers.com/tags/changelog/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Chatbot</title>
-      <link>https://blog.ivrpowers.com/tags/chatbot/</link>
-      <pubDate>Fri, 27 Aug 2021 10:00:00 +0200</pubDate>
-      
-      <guid>https://blog.ivrpowers.com/tags/chatbot/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Chrome</title>
-      <link>https://blog.ivrpowers.com/tags/chrome/</link>
-      <pubDate>Sat, 02 Feb 2019 16:00:00 +0200</pubDate>
-      
-      <guid>https://blog.ivrpowers.com/tags/chrome/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Cloud</title>
-      <link>https://blog.ivrpowers.com/tags/cloud/</link>
-      <pubDate>Sat, 06 Mar 2021 21:00:00 +0200</pubDate>
-      
-      <guid>https://blog.ivrpowers.com/tags/cloud/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Code</title>
-      <link>https://blog.ivrpowers.com/tags/code/</link>
-      <pubDate>Thu, 16 Aug 2018 10:00:00 +0200</pubDate>
-      
-      <guid>https://blog.ivrpowers.com/tags/code/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Contactcenter</title>
-      <link>https://blog.ivrpowers.com/tags/contactcenter/</link>
-      <pubDate>Sun, 24 Oct 2021 12:00:00 +0200</pubDate>
-      
-      <guid>https://blog.ivrpowers.com/tags/contactcenter/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Contactcenters</title>
-      <link>https://blog.ivrpowers.com/tags/contactcenters/</link>
-      <pubDate>Tue, 17 Oct 2017 00:20:05 +0200</pubDate>
-      
-      <guid>https://blog.ivrpowers.com/tags/contactcenters/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Covid19</title>
-      <link>https://blog.ivrpowers.com/tags/covid19/</link>
-      <pubDate>Tue, 02 Jun 2020 20:00:00 +0200</pubDate>
-      
-      <guid>https://blog.ivrpowers.com/tags/covid19/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Cpaas</title>
-      <link>https://blog.ivrpowers.com/tags/cpaas/</link>
-      <pubDate>Sat, 06 Mar 2021 21:00:00 +0200</pubDate>
-      
-      <guid>https://blog.ivrpowers.com/tags/cpaas/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Custexp</title>
-      <link>https://blog.ivrpowers.com/tags/custexp/</link>
-      <pubDate>Sun, 24 Oct 2021 12:00:00 +0200</pubDate>
-      
-      <guid>https://blog.ivrpowers.com/tags/custexp/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Customerengagement</title>
-      <link>https://blog.ivrpowers.com/tags/customerengagement/</link>
-      <pubDate>Thu, 04 Jan 2018 01:00:00 +0200</pubDate>
-      
-      <guid>https://blog.ivrpowers.com/tags/customerengagement/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Cx</title>
-      <link>https://blog.ivrpowers.com/tags/cx/</link>
-      <pubDate>Mon, 23 Nov 2020 00:21:30 +0200</pubDate>
-      
-      <guid>https://blog.ivrpowers.com/tags/cx/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Data</title>
-      <link>https://blog.ivrpowers.com/tags/data/</link>
-      <pubDate>Sun, 29 Jul 2018 20:00:00 +0200</pubDate>
-      
-      <guid>https://blog.ivrpowers.com/tags/data/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Datachannel</title>
-      <link>https://blog.ivrpowers.com/tags/datachannel/</link>
-      <pubDate>Thu, 26 Oct 2017 10:45:24 +0200</pubDate>
-      
-      <guid>https://blog.ivrpowers.com/tags/datachannel/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Debugging</title>
-      <link>https://blog.ivrpowers.com/tags/debugging/</link>
-      <pubDate>Thu, 16 Aug 2018 10:00:00 +0200</pubDate>
-      
-      <guid>https://blog.ivrpowers.com/tags/debugging/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Development</title>
-      <link>https://blog.ivrpowers.com/tags/development/</link>
-      <pubDate>Sat, 21 Jul 2018 23:00:00 +0200</pubDate>
-      
-      <guid>https://blog.ivrpowers.com/tags/development/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Dtls</title>
-      <link>https://blog.ivrpowers.com/tags/dtls/</link>
-      <pubDate>Tue, 01 Aug 2017 10:04:37 +0200</pubDate>
-      
-      <guid>https://blog.ivrpowers.com/tags/dtls/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Ecommerce</title>
-      <link>https://blog.ivrpowers.com/tags/ecommerce/</link>
-      <pubDate>Wed, 04 Jul 2018 20:00:00 +0200</pubDate>
-      
-      <guid>https://blog.ivrpowers.com/tags/ecommerce/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Edge</title>
-      <link>https://blog.ivrpowers.com/tags/edge/</link>
-      <pubDate>Sat, 01 Feb 2020 14:00:00 +0200</pubDate>
-      
-      <guid>https://blog.ivrpowers.com/tags/edge/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Elearning</title>
-      <link>https://blog.ivrpowers.com/tags/elearning/</link>
-      <pubDate>Wed, 20 Dec 2017 13:30:05 +0200</pubDate>
-      
-      <guid>https://blog.ivrpowers.com/tags/elearning/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Event</title>
-      <link>https://blog.ivrpowers.com/tags/event/</link>
-      <pubDate>Tue, 17 Nov 2020 00:18:30 +0200</pubDate>
-      
-      <guid>https://blog.ivrpowers.com/tags/event/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Exevi</title>
-      <link>https://blog.ivrpowers.com/tags/exevi/</link>
-      <pubDate>Mon, 05 Nov 2018 12:00:00 +0100</pubDate>
-      
-      <guid>https://blog.ivrpowers.com/tags/exevi/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Firefox</title>
-      <link>https://blog.ivrpowers.com/tags/firefox/</link>
-      <pubDate>Tue, 23 Jul 2019 20:00:00 +0200</pubDate>
-      
-      <guid>https://blog.ivrpowers.com/tags/firefox/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Gdpr</title>
-      <link>https://blog.ivrpowers.com/tags/gdpr/</link>
-      <pubDate>Sun, 29 Jul 2018 20:00:00 +0200</pubDate>
-      
-      <guid>https://blog.ivrpowers.com/tags/gdpr/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Google</title>
-      <link>https://blog.ivrpowers.com/tags/google/</link>
-      <pubDate>Sun, 08 Sep 2019 12:00:00 +0100</pubDate>
-      
-      <guid>https://blog.ivrpowers.com/tags/google/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Health</title>
-      <link>https://blog.ivrpowers.com/tags/health/</link>
-      <pubDate>Tue, 02 Jun 2020 20:00:00 +0200</pubDate>
-      
-      <guid>https://blog.ivrpowers.com/tags/health/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Healthcare</title>
-      <link>https://blog.ivrpowers.com/tags/healthcare/</link>
-      <pubDate>Sat, 16 May 2020 15:00:00 +0200</pubDate>
-      
-      <guid>https://blog.ivrpowers.com/tags/healthcare/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Honesty</title>
-      <link>https://blog.ivrpowers.com/tags/honesty/</link>
-      <pubDate>Fri, 30 Jun 2017 19:11:25 +0200</pubDate>
-      
-      <guid>https://blog.ivrpowers.com/tags/honesty/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Humaninteraction</title>
-      <link>https://blog.ivrpowers.com/tags/humaninteraction/</link>
-      <pubDate>Sun, 05 Apr 2020 22:00:00 +0200</pubDate>
-      
-      <guid>https://blog.ivrpowers.com/tags/humaninteraction/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Ia</title>
-      <link>https://blog.ivrpowers.com/tags/ia/</link>
-      <pubDate>Tue, 12 Nov 2019 18:00:00 +0200</pubDate>
-      
-      <guid>https://blog.ivrpowers.com/tags/ia/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Iaas</title>
-      <link>https://blog.ivrpowers.com/tags/iaas/</link>
-      <pubDate>Wed, 21 Nov 2018 01:00:00 +0200</pubDate>
-      
-      <guid>https://blog.ivrpowers.com/tags/iaas/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Icarvision</title>
-      <link>https://blog.ivrpowers.com/tags/icarvision/</link>
-      <pubDate>Fri, 30 Jun 2017 13:13:32 +0200</pubDate>
-      
-      <guid>https://blog.ivrpowers.com/tags/icarvision/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Ios</title>
-      <link>https://blog.ivrpowers.com/tags/ios/</link>
-      <pubDate>Sun, 21 Jan 2018 21:00:00 +0200</pubDate>
-      
-      <guid>https://blog.ivrpowers.com/tags/ios/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Iot</title>
-      <link>https://blog.ivrpowers.com/tags/iot/</link>
-      <pubDate>Mon, 24 Jul 2017 12:30:37 +0200</pubDate>
-      
-      <guid>https://blog.ivrpowers.com/tags/iot/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Ivr</title>
-      <link>https://blog.ivrpowers.com/tags/ivr/</link>
-      <pubDate>Wed, 17 Nov 2021 00:12:00 +0200</pubDate>
-      
-      <guid>https://blog.ivrpowers.com/tags/ivr/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Ivrpowers</title>
-      <link>https://blog.ivrpowers.com/tags/ivrpowers/</link>
-      <pubDate>Mon, 12 Jun 2017 09:42:42 +0200</pubDate>
-      
-      <guid>https://blog.ivrpowers.com/tags/ivrpowers/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Kiosk</title>
-      <link>https://blog.ivrpowers.com/tags/kiosk/</link>
-      <pubDate>Tue, 12 Dec 2017 12:08:43 +0200</pubDate>
-      
-      <guid>https://blog.ivrpowers.com/tags/kiosk/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Kiosks</title>
-      <link>https://blog.ivrpowers.com/tags/kiosks/</link>
-      <pubDate>Wed, 01 Jul 2020 22:00:00 +0200</pubDate>
-      
-      <guid>https://blog.ivrpowers.com/tags/kiosks/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Livechat</title>
-      <link>https://blog.ivrpowers.com/tags/livechat/</link>
-      <pubDate>Sun, 24 Oct 2021 12:00:00 +0200</pubDate>
-      
-      <guid>https://blog.ivrpowers.com/tags/livechat/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Livevideo</title>
-      <link>https://blog.ivrpowers.com/tags/livevideo/</link>
-      <pubDate>Thu, 15 Jun 2017 13:02:36 +0200</pubDate>
-      
-      <guid>https://blog.ivrpowers.com/tags/livevideo/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Marketing</title>
-      <link>https://blog.ivrpowers.com/tags/marketing/</link>
-      <pubDate>Thu, 30 Jan 2020 20:40:07 +0200</pubDate>
-      
-      <guid>https://blog.ivrpowers.com/tags/marketing/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Mhealth</title>
-      <link>https://blog.ivrpowers.com/tags/mhealth/</link>
-      <pubDate>Tue, 18 Jul 2017 11:31:50 +0200</pubDate>
-      
-      <guid>https://blog.ivrpowers.com/tags/mhealth/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Miami</title>
-      <link>https://blog.ivrpowers.com/tags/miami/</link>
-      <pubDate>Sun, 01 Mar 2020 10:00:00 +0200</pubDate>
-      
-      <guid>https://blog.ivrpowers.com/tags/miami/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Microsoft</title>
-      <link>https://blog.ivrpowers.com/tags/microsoft/</link>
-      <pubDate>Sat, 01 Feb 2020 14:00:00 +0200</pubDate>
-      
-      <guid>https://blog.ivrpowers.com/tags/microsoft/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Mobile</title>
-      <link>https://blog.ivrpowers.com/tags/mobile/</link>
-      <pubDate>Mon, 20 Nov 2017 18:01:23 +0100</pubDate>
-      
-      <guid>https://blog.ivrpowers.com/tags/mobile/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Mobileapp</title>
-      <link>https://blog.ivrpowers.com/tags/mobileapp/</link>
-      <pubDate>Tue, 16 Jan 2018 21:00:00 +0100</pubDate>
-      
-      <guid>https://blog.ivrpowers.com/tags/mobileapp/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Mobilephone</title>
-      <link>https://blog.ivrpowers.com/tags/mobilephone/</link>
-      <pubDate>Mon, 09 Oct 2017 10:45:02 +0200</pubDate>
-      
-      <guid>https://blog.ivrpowers.com/tags/mobilephone/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Mobility</title>
-      <link>https://blog.ivrpowers.com/tags/mobility/</link>
-      <pubDate>Wed, 09 Aug 2017 10:09:17 +0200</pubDate>
-      
-      <guid>https://blog.ivrpowers.com/tags/mobility/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>News</title>
-      <link>https://blog.ivrpowers.com/tags/news/</link>
-      <pubDate>Fri, 27 Aug 2021 10:00:00 +0200</pubDate>
-      
-      <guid>https://blog.ivrpowers.com/tags/news/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Nlu</title>
-      <link>https://blog.ivrpowers.com/tags/nlu/</link>
-      <pubDate>Fri, 28 Feb 2020 15:00:00 +0200</pubDate>
-      
-      <guid>https://blog.ivrpowers.com/tags/nlu/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Omnichannel</title>
-      <link>https://blog.ivrpowers.com/tags/omnichannel/</link>
-      <pubDate>Thu, 23 Nov 2017 10:09:51 +0200</pubDate>
-      
-      <guid>https://blog.ivrpowers.com/tags/omnichannel/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Overprinting</title>
-      <link>https://blog.ivrpowers.com/tags/overprinting/</link>
-      <pubDate>Thu, 24 Aug 2017 19:00:00 +0200</pubDate>
-      
-      <guid>https://blog.ivrpowers.com/tags/overprinting/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Paas</title>
-      <link>https://blog.ivrpowers.com/tags/paas/</link>
-      <pubDate>Wed, 21 Nov 2018 01:00:00 +0200</pubDate>
-      
-      <guid>https://blog.ivrpowers.com/tags/paas/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Partnership</title>
-      <link>https://blog.ivrpowers.com/tags/partnership/</link>
-      <pubDate>Fri, 27 Aug 2021 10:00:00 +0200</pubDate>
-      
-      <guid>https://blog.ivrpowers.com/tags/partnership/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Password</title>
-      <link>https://blog.ivrpowers.com/tags/password/</link>
-      <pubDate>Wed, 11 Apr 2018 09:30:00 +0100</pubDate>
-      
-      <guid>https://blog.ivrpowers.com/tags/password/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Pbx</title>
-      <link>https://blog.ivrpowers.com/tags/pbx/</link>
-      <pubDate>Tue, 16 Nov 2021 00:00:05 +0200</pubDate>
-      
-      <guid>https://blog.ivrpowers.com/tags/pbx/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Phone</title>
-      <link>https://blog.ivrpowers.com/tags/phone/</link>
-      <pubDate>Sat, 19 Aug 2017 11:30:18 +0200</pubDate>
-      
-      <guid>https://blog.ivrpowers.com/tags/phone/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Popupagent</title>
-      <link>https://blog.ivrpowers.com/tags/popupagent/</link>
-      <pubDate>Tue, 05 Sep 2017 10:00:00 +0200</pubDate>
-      
-      <guid>https://blog.ivrpowers.com/tags/popupagent/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Recording</title>
-      <link>https://blog.ivrpowers.com/tags/recording/</link>
-      <pubDate>Sat, 06 Mar 2021 21:00:00 +0200</pubDate>
-      
-      <guid>https://blog.ivrpowers.com/tags/recording/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Retail</title>
-      <link>https://blog.ivrpowers.com/tags/retail/</link>
-      <pubDate>Tue, 07 Nov 2017 13:44:41 +0100</pubDate>
-      
-      <guid>https://blog.ivrpowers.com/tags/retail/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Rtc</title>
-      <link>https://blog.ivrpowers.com/tags/rtc/</link>
-      <pubDate>Sat, 01 Jan 2022 14:00:00 +0200</pubDate>
-      
-      <guid>https://blog.ivrpowers.com/tags/rtc/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Rtmp</title>
-      <link>https://blog.ivrpowers.com/tags/rtmp/</link>
-      <pubDate>Tue, 29 Jan 2019 16:00:00 +0200</pubDate>
-      
-      <guid>https://blog.ivrpowers.com/tags/rtmp/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Saas</title>
-      <link>https://blog.ivrpowers.com/tags/saas/</link>
-      <pubDate>Sat, 11 Jan 2020 15:00:00 +0200</pubDate>
-      
-      <guid>https://blog.ivrpowers.com/tags/saas/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Safari</title>
-      <link>https://blog.ivrpowers.com/tags/safari/</link>
-      <pubDate>Tue, 04 Feb 2020 12:00:00 +0200</pubDate>
-      
-      <guid>https://blog.ivrpowers.com/tags/safari/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Sales</title>
-      <link>https://blog.ivrpowers.com/tags/sales/</link>
-      <pubDate>Tue, 17 Nov 2020 00:18:30 +0200</pubDate>
-      
-      <guid>https://blog.ivrpowers.com/tags/sales/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Screensharing</title>
-      <link>https://blog.ivrpowers.com/tags/screensharing/</link>
-      <pubDate>Thu, 15 Nov 2018 19:00:00 +0100</pubDate>
-      
-      <guid>https://blog.ivrpowers.com/tags/screensharing/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Sdk</title>
-      <link>https://blog.ivrpowers.com/tags/sdk/</link>
-      <pubDate>Mon, 04 Sep 2017 22:00:00 +0200</pubDate>
-      
-      <guid>https://blog.ivrpowers.com/tags/sdk/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Security</title>
-      <link>https://blog.ivrpowers.com/tags/security/</link>
-      <pubDate>Tue, 10 Jul 2018 09:00:05 +0200</pubDate>
-      
-      <guid>https://blog.ivrpowers.com/tags/security/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Showroom</title>
-      <link>https://blog.ivrpowers.com/tags/showroom/</link>
-      <pubDate>Thu, 28 Sep 2017 11:06:30 +0200</pubDate>
-      
-      <guid>https://blog.ivrpowers.com/tags/showroom/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Sip</title>
-      <link>https://blog.ivrpowers.com/tags/sip/</link>
-      <pubDate>Sun, 09 Jul 2017 00:20:05 +0200</pubDate>
-      
-      <guid>https://blog.ivrpowers.com/tags/sip/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Smartivr</title>
-      <link>https://blog.ivrpowers.com/tags/smartivr/</link>
-      <pubDate>Sat, 11 Jan 2020 12:00:00 +0200</pubDate>
-      
-      <guid>https://blog.ivrpowers.com/tags/smartivr/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Socialnetworking</title>
-      <link>https://blog.ivrpowers.com/tags/socialnetworking/</link>
-      <pubDate>Mon, 24 Jul 2017 12:30:37 +0200</pubDate>
-      
-      <guid>https://blog.ivrpowers.com/tags/socialnetworking/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Solution</title>
-      <link>https://blog.ivrpowers.com/tags/solution/</link>
-      <pubDate>Mon, 28 Dec 2020 00:00:00 +0200</pubDate>
-      
-      <guid>https://blog.ivrpowers.com/tags/solution/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Speech</title>
-      <link>https://blog.ivrpowers.com/tags/speech/</link>
-      <pubDate>Sun, 08 Sep 2019 12:00:00 +0100</pubDate>
-      
-      <guid>https://blog.ivrpowers.com/tags/speech/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Split</title>
-      <link>https://blog.ivrpowers.com/tags/split/</link>
-      <pubDate>Tue, 04 Feb 2020 20:00:00 +0200</pubDate>
-      
-      <guid>https://blog.ivrpowers.com/tags/split/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Srtp</title>
-      <link>https://blog.ivrpowers.com/tags/srtp/</link>
-      <pubDate>Tue, 26 Sep 2017 12:06:30 +0200</pubDate>
-      
-      <guid>https://blog.ivrpowers.com/tags/srtp/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Startup</title>
-      <link>https://blog.ivrpowers.com/tags/startup/</link>
-      <pubDate>Mon, 12 Jun 2017 09:42:42 +0200</pubDate>
-      
-      <guid>https://blog.ivrpowers.com/tags/startup/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Support</title>
-      <link>https://blog.ivrpowers.com/tags/support/</link>
-      <pubDate>Fri, 29 Oct 2021 12:00:00 +0200</pubDate>
-      
-      <guid>https://blog.ivrpowers.com/tags/support/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Tco</title>
-      <link>https://blog.ivrpowers.com/tags/tco/</link>
-      <pubDate>Wed, 31 Oct 2018 22:00:00 +0100</pubDate>
-      
-      <guid>https://blog.ivrpowers.com/tags/tco/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Techsupershow</title>
-      <link>https://blog.ivrpowers.com/tags/techsupershow/</link>
-      <pubDate>Thu, 06 Feb 2020 20:00:00 +0200</pubDate>
-      
-      <guid>https://blog.ivrpowers.com/tags/techsupershow/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Telehealth</title>
-      <link>https://blog.ivrpowers.com/tags/telehealth/</link>
-      <pubDate>Tue, 02 Jun 2020 20:00:00 +0200</pubDate>
-      
-      <guid>https://blog.ivrpowers.com/tags/telehealth/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Telemedicine</title>
-      <link>https://blog.ivrpowers.com/tags/telemedicine/</link>
-      <pubDate>Thu, 23 Nov 2017 10:10:39 +0100</pubDate>
-      
-      <guid>https://blog.ivrpowers.com/tags/telemedicine/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Telephony</title>
-      <link>https://blog.ivrpowers.com/tags/telephony/</link>
-      <pubDate>Sun, 09 Feb 2020 18:00:00 +0200</pubDate>
-      
-      <guid>https://blog.ivrpowers.com/tags/telephony/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Text to Speech</title>
-      <link>https://blog.ivrpowers.com/tags/text-to-speech/</link>
-      <pubDate>Tue, 10 Apr 2018 09:30:00 +0100</pubDate>
-      
-      <guid>https://blog.ivrpowers.com/tags/text-to-speech/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Trend</title>
-      <link>https://blog.ivrpowers.com/tags/trend/</link>
-      <pubDate>Fri, 29 Jan 2021 13:09:34 +0200</pubDate>
-      
-      <guid>https://blog.ivrpowers.com/tags/trend/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Trends</title>
-      <link>https://blog.ivrpowers.com/tags/trends/</link>
-      <pubDate>Thu, 08 Nov 2018 22:00:00 +0100</pubDate>
-      
-      <guid>https://blog.ivrpowers.com/tags/trends/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Tts</title>
-      <link>https://blog.ivrpowers.com/tags/tts/</link>
-      <pubDate>Sun, 08 Sep 2019 12:00:00 +0100</pubDate>
-      
-      <guid>https://blog.ivrpowers.com/tags/tts/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Turnkey</title>
-      <link>https://blog.ivrpowers.com/tags/turnkey/</link>
-      <pubDate>Fri, 12 Oct 2018 15:00:00 +0200</pubDate>
-      
-      <guid>https://blog.ivrpowers.com/tags/turnkey/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Video</title>
-      <link>https://blog.ivrpowers.com/tags/video/</link>
-      <pubDate>Mon, 06 Dec 2021 09:00:05 +0200</pubDate>
-      
-      <guid>https://blog.ivrpowers.com/tags/video/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Videobot</title>
-      <link>https://blog.ivrpowers.com/tags/videobot/</link>
-      <pubDate>Thu, 08 Nov 2018 22:00:00 +0100</pubDate>
-      
-      <guid>https://blog.ivrpowers.com/tags/videobot/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Videocall</title>
-      <link>https://blog.ivrpowers.com/tags/videocall/</link>
-      <pubDate>Fri, 27 Aug 2021 10:00:00 +0200</pubDate>
-      
-      <guid>https://blog.ivrpowers.com/tags/videocall/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Videochat</title>
-      <link>https://blog.ivrpowers.com/tags/videochat/</link>
-      <pubDate>Sun, 24 Oct 2021 12:00:00 +0200</pubDate>
-      
-      <guid>https://blog.ivrpowers.com/tags/videochat/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Videoconference</title>
-      <link>https://blog.ivrpowers.com/tags/videoconference/</link>
-      <pubDate>Wed, 04 Oct 2017 10:45:24 +0200</pubDate>
-      
-      <guid>https://blog.ivrpowers.com/tags/videoconference/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Videoconferencing</title>
-      <link>https://blog.ivrpowers.com/tags/videoconferencing/</link>
-      <pubDate>Mon, 15 Jan 2018 20:23:11 +0100</pubDate>
-      
-      <guid>https://blog.ivrpowers.com/tags/videoconferencing/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Videoid</title>
-      <link>https://blog.ivrpowers.com/tags/videoid/</link>
-      <pubDate>Wed, 11 Apr 2018 09:30:00 +0100</pubDate>
-      
-      <guid>https://blog.ivrpowers.com/tags/videoid/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Videortc</title>
+      <title>videortc</title>
       <link>https://blog.ivrpowers.com/tags/videortc/</link>
       <pubDate>Sat, 01 Jan 2022 14:00:00 +0200</pubDate>
       
@@ -1092,97 +62,70 @@
     </item>
     
     <item>
-      <title>Voice</title>
-      <link>https://blog.ivrpowers.com/tags/voice/</link>
-      <pubDate>Sat, 06 Mar 2021 11:00:00 +0200</pubDate>
+      <title>marketing</title>
+      <link>https://blog.ivrpowers.com/tags/marketing/</link>
+      <pubDate>Sat, 01 Jan 2022 12:00:00 +0200</pubDate>
       
-      <guid>https://blog.ivrpowers.com/tags/voice/</guid>
+      <guid>https://blog.ivrpowers.com/tags/marketing/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Voicebot</title>
-      <link>https://blog.ivrpowers.com/tags/voicebot/</link>
-      <pubDate>Tue, 12 Jan 2021 09:42:42 +0200</pubDate>
+      <title>video</title>
+      <link>https://blog.ivrpowers.com/tags/video/</link>
+      <pubDate>Mon, 06 Dec 2021 09:00:05 +0200</pubDate>
       
-      <guid>https://blog.ivrpowers.com/tags/voicebot/</guid>
+      <guid>https://blog.ivrpowers.com/tags/video/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Voicebots</title>
-      <link>https://blog.ivrpowers.com/tags/voicebots/</link>
-      <pubDate>Mon, 05 Nov 2018 12:00:00 +0100</pubDate>
+      <title>startup</title>
+      <link>https://blog.ivrpowers.com/tags/startup/</link>
+      <pubDate>Wed, 24 Nov 2021 09:00:00 +0200</pubDate>
       
-      <guid>https://blog.ivrpowers.com/tags/voicebots/</guid>
+      <guid>https://blog.ivrpowers.com/tags/startup/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Voicecall</title>
-      <link>https://blog.ivrpowers.com/tags/voicecall/</link>
-      <pubDate>Wed, 18 Oct 2017 12:58:21 +0200</pubDate>
+      <title>acd</title>
+      <link>https://blog.ivrpowers.com/tags/acd/</link>
+      <pubDate>Wed, 17 Nov 2021 00:12:00 +0200</pubDate>
       
-      <guid>https://blog.ivrpowers.com/tags/voicecall/</guid>
+      <guid>https://blog.ivrpowers.com/tags/acd/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Voiceofthecustomer</title>
-      <link>https://blog.ivrpowers.com/tags/voiceofthecustomer/</link>
-      <pubDate>Wed, 12 Jul 2017 12:04:07 +0200</pubDate>
+      <title>ivr</title>
+      <link>https://blog.ivrpowers.com/tags/ivr/</link>
+      <pubDate>Wed, 17 Nov 2021 00:12:00 +0200</pubDate>
       
-      <guid>https://blog.ivrpowers.com/tags/voiceofthecustomer/</guid>
+      <guid>https://blog.ivrpowers.com/tags/ivr/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Voicexml</title>
-      <link>https://blog.ivrpowers.com/tags/voicexml/</link>
-      <pubDate>Mon, 19 Jul 2021 00:20:00 +0200</pubDate>
+      <title>pbx</title>
+      <link>https://blog.ivrpowers.com/tags/pbx/</link>
+      <pubDate>Tue, 16 Nov 2021 00:00:05 +0200</pubDate>
       
-      <guid>https://blog.ivrpowers.com/tags/voicexml/</guid>
+      <guid>https://blog.ivrpowers.com/tags/pbx/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Voip</title>
-      <link>https://blog.ivrpowers.com/tags/voip/</link>
-      <pubDate>Tue, 12 Nov 2019 18:00:00 +0200</pubDate>
+      <title>call</title>
+      <link>https://blog.ivrpowers.com/tags/call/</link>
+      <pubDate>Sat, 30 Oct 2021 00:12:30 +0200</pubDate>
       
-      <guid>https://blog.ivrpowers.com/tags/voip/</guid>
+      <guid>https://blog.ivrpowers.com/tags/call/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Voip2day</title>
-      <link>https://blog.ivrpowers.com/tags/voip2day/</link>
-      <pubDate>Thu, 15 Nov 2018 20:00:00 +0100</pubDate>
-      
-      <guid>https://blog.ivrpowers.com/tags/voip2day/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Web</title>
-      <link>https://blog.ivrpowers.com/tags/web/</link>
-      <pubDate>Wed, 11 Apr 2018 09:30:00 +0100</pubDate>
-      
-      <guid>https://blog.ivrpowers.com/tags/web/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Webclient</title>
-      <link>https://blog.ivrpowers.com/tags/webclient/</link>
-      <pubDate>Thu, 05 Jul 2018 09:00:00 +0200</pubDate>
-      
-      <guid>https://blog.ivrpowers.com/tags/webclient/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Webdialer</title>
+      <title>webdialer</title>
       <link>https://blog.ivrpowers.com/tags/webdialer/</link>
       <pubDate>Sat, 30 Oct 2021 00:12:30 +0200</pubDate>
       
@@ -1191,7 +134,232 @@
     </item>
     
     <item>
-      <title>Webinar</title>
+      <title>callcenter</title>
+      <link>https://blog.ivrpowers.com/tags/callcenter/</link>
+      <pubDate>Fri, 29 Oct 2021 12:00:00 +0200</pubDate>
+      
+      <guid>https://blog.ivrpowers.com/tags/callcenter/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>support</title>
+      <link>https://blog.ivrpowers.com/tags/support/</link>
+      <pubDate>Fri, 29 Oct 2021 12:00:00 +0200</pubDate>
+      
+      <guid>https://blog.ivrpowers.com/tags/support/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>businessstrategy</title>
+      <link>https://blog.ivrpowers.com/tags/businessstrategy/</link>
+      <pubDate>Sun, 24 Oct 2021 12:00:00 +0200</pubDate>
+      
+      <guid>https://blog.ivrpowers.com/tags/businessstrategy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>contactcenter</title>
+      <link>https://blog.ivrpowers.com/tags/contactcenter/</link>
+      <pubDate>Sun, 24 Oct 2021 12:00:00 +0200</pubDate>
+      
+      <guid>https://blog.ivrpowers.com/tags/contactcenter/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>custexp</title>
+      <link>https://blog.ivrpowers.com/tags/custexp/</link>
+      <pubDate>Sun, 24 Oct 2021 12:00:00 +0200</pubDate>
+      
+      <guid>https://blog.ivrpowers.com/tags/custexp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>livechat</title>
+      <link>https://blog.ivrpowers.com/tags/livechat/</link>
+      <pubDate>Sun, 24 Oct 2021 12:00:00 +0200</pubDate>
+      
+      <guid>https://blog.ivrpowers.com/tags/livechat/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>videochat</title>
+      <link>https://blog.ivrpowers.com/tags/videochat/</link>
+      <pubDate>Sun, 24 Oct 2021 12:00:00 +0200</pubDate>
+      
+      <guid>https://blog.ivrpowers.com/tags/videochat/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>chatbot</title>
+      <link>https://blog.ivrpowers.com/tags/chatbot/</link>
+      <pubDate>Fri, 27 Aug 2021 10:00:00 +0200</pubDate>
+      
+      <guid>https://blog.ivrpowers.com/tags/chatbot/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>news</title>
+      <link>https://blog.ivrpowers.com/tags/news/</link>
+      <pubDate>Fri, 27 Aug 2021 10:00:00 +0200</pubDate>
+      
+      <guid>https://blog.ivrpowers.com/tags/news/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>partnership</title>
+      <link>https://blog.ivrpowers.com/tags/partnership/</link>
+      <pubDate>Fri, 27 Aug 2021 10:00:00 +0200</pubDate>
+      
+      <guid>https://blog.ivrpowers.com/tags/partnership/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>videocall</title>
+      <link>https://blog.ivrpowers.com/tags/videocall/</link>
+      <pubDate>Fri, 27 Aug 2021 10:00:00 +0200</pubDate>
+      
+      <guid>https://blog.ivrpowers.com/tags/videocall/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>voicexml</title>
+      <link>https://blog.ivrpowers.com/tags/voicexml/</link>
+      <pubDate>Mon, 19 Jul 2021 00:20:00 +0200</pubDate>
+      
+      <guid>https://blog.ivrpowers.com/tags/voicexml/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>cloud</title>
+      <link>https://blog.ivrpowers.com/tags/cloud/</link>
+      <pubDate>Sat, 06 Mar 2021 21:00:00 +0200</pubDate>
+      
+      <guid>https://blog.ivrpowers.com/tags/cloud/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>cpaas</title>
+      <link>https://blog.ivrpowers.com/tags/cpaas/</link>
+      <pubDate>Sat, 06 Mar 2021 21:00:00 +0200</pubDate>
+      
+      <guid>https://blog.ivrpowers.com/tags/cpaas/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>recording</title>
+      <link>https://blog.ivrpowers.com/tags/recording/</link>
+      <pubDate>Sat, 06 Mar 2021 21:00:00 +0200</pubDate>
+      
+      <guid>https://blog.ivrpowers.com/tags/recording/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>voice</title>
+      <link>https://blog.ivrpowers.com/tags/voice/</link>
+      <pubDate>Sat, 06 Mar 2021 11:00:00 +0200</pubDate>
+      
+      <guid>https://blog.ivrpowers.com/tags/voice/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>trend</title>
+      <link>https://blog.ivrpowers.com/tags/trend/</link>
+      <pubDate>Fri, 29 Jan 2021 13:09:34 +0200</pubDate>
+      
+      <guid>https://blog.ivrpowers.com/tags/trend/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>call center</title>
+      <link>https://blog.ivrpowers.com/tags/call-center/</link>
+      <pubDate>Tue, 26 Jan 2021 00:18:30 +0200</pubDate>
+      
+      <guid>https://blog.ivrpowers.com/tags/call-center/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>voicebot</title>
+      <link>https://blog.ivrpowers.com/tags/voicebot/</link>
+      <pubDate>Tue, 12 Jan 2021 09:42:42 +0200</pubDate>
+      
+      <guid>https://blog.ivrpowers.com/tags/voicebot/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>business</title>
+      <link>https://blog.ivrpowers.com/tags/business/</link>
+      <pubDate>Mon, 28 Dec 2020 00:00:00 +0200</pubDate>
+      
+      <guid>https://blog.ivrpowers.com/tags/business/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>solution</title>
+      <link>https://blog.ivrpowers.com/tags/solution/</link>
+      <pubDate>Mon, 28 Dec 2020 00:00:00 +0200</pubDate>
+      
+      <guid>https://blog.ivrpowers.com/tags/solution/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>cctr</title>
+      <link>https://blog.ivrpowers.com/tags/cctr/</link>
+      <pubDate>Sat, 19 Dec 2020 20:20:00 +0200</pubDate>
+      
+      <guid>https://blog.ivrpowers.com/tags/cctr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>cx</title>
+      <link>https://blog.ivrpowers.com/tags/cx/</link>
+      <pubDate>Mon, 23 Nov 2020 00:21:30 +0200</pubDate>
+      
+      <guid>https://blog.ivrpowers.com/tags/cx/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>event</title>
+      <link>https://blog.ivrpowers.com/tags/event/</link>
+      <pubDate>Tue, 17 Nov 2020 00:18:30 +0200</pubDate>
+      
+      <guid>https://blog.ivrpowers.com/tags/event/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>sales</title>
+      <link>https://blog.ivrpowers.com/tags/sales/</link>
+      <pubDate>Tue, 17 Nov 2020 00:18:30 +0200</pubDate>
+      
+      <guid>https://blog.ivrpowers.com/tags/sales/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>webinar</title>
       <link>https://blog.ivrpowers.com/tags/webinar/</link>
       <pubDate>Tue, 17 Nov 2020 00:18:30 +0200</pubDate>
       
@@ -1200,7 +368,475 @@
     </item>
     
     <item>
-      <title>Webphone</title>
+      <title>kiosks</title>
+      <link>https://blog.ivrpowers.com/tags/kiosks/</link>
+      <pubDate>Wed, 01 Jul 2020 22:00:00 +0200</pubDate>
+      
+      <guid>https://blog.ivrpowers.com/tags/kiosks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>covid19</title>
+      <link>https://blog.ivrpowers.com/tags/covid19/</link>
+      <pubDate>Tue, 02 Jun 2020 20:00:00 +0200</pubDate>
+      
+      <guid>https://blog.ivrpowers.com/tags/covid19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>health</title>
+      <link>https://blog.ivrpowers.com/tags/health/</link>
+      <pubDate>Tue, 02 Jun 2020 20:00:00 +0200</pubDate>
+      
+      <guid>https://blog.ivrpowers.com/tags/health/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>telehealth</title>
+      <link>https://blog.ivrpowers.com/tags/telehealth/</link>
+      <pubDate>Tue, 02 Jun 2020 20:00:00 +0200</pubDate>
+      
+      <guid>https://blog.ivrpowers.com/tags/telehealth/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>healthcare</title>
+      <link>https://blog.ivrpowers.com/tags/healthcare/</link>
+      <pubDate>Sat, 16 May 2020 15:00:00 +0200</pubDate>
+      
+      <guid>https://blog.ivrpowers.com/tags/healthcare/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>businesstrends</title>
+      <link>https://blog.ivrpowers.com/tags/businesstrends/</link>
+      <pubDate>Sun, 05 Apr 2020 22:00:00 +0200</pubDate>
+      
+      <guid>https://blog.ivrpowers.com/tags/businesstrends/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>humaninteraction</title>
+      <link>https://blog.ivrpowers.com/tags/humaninteraction/</link>
+      <pubDate>Sun, 05 Apr 2020 22:00:00 +0200</pubDate>
+      
+      <guid>https://blog.ivrpowers.com/tags/humaninteraction/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>miami</title>
+      <link>https://blog.ivrpowers.com/tags/miami/</link>
+      <pubDate>Sun, 01 Mar 2020 10:00:00 +0200</pubDate>
+      
+      <guid>https://blog.ivrpowers.com/tags/miami/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>AI</title>
+      <link>https://blog.ivrpowers.com/tags/ai/</link>
+      <pubDate>Sat, 29 Feb 2020 19:00:00 +0200</pubDate>
+      
+      <guid>https://blog.ivrpowers.com/tags/ai/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>asr</title>
+      <link>https://blog.ivrpowers.com/tags/asr/</link>
+      <pubDate>Fri, 28 Feb 2020 15:00:00 +0200</pubDate>
+      
+      <guid>https://blog.ivrpowers.com/tags/asr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>nlu</title>
+      <link>https://blog.ivrpowers.com/tags/nlu/</link>
+      <pubDate>Fri, 28 Feb 2020 15:00:00 +0200</pubDate>
+      
+      <guid>https://blog.ivrpowers.com/tags/nlu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>telephony</title>
+      <link>https://blog.ivrpowers.com/tags/telephony/</link>
+      <pubDate>Sun, 09 Feb 2020 18:00:00 +0200</pubDate>
+      
+      <guid>https://blog.ivrpowers.com/tags/telephony/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>TechSuperShow</title>
+      <link>https://blog.ivrpowers.com/tags/techsupershow/</link>
+      <pubDate>Thu, 06 Feb 2020 20:00:00 +0200</pubDate>
+      
+      <guid>https://blog.ivrpowers.com/tags/techsupershow/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>split</title>
+      <link>https://blog.ivrpowers.com/tags/split/</link>
+      <pubDate>Tue, 04 Feb 2020 20:00:00 +0200</pubDate>
+      
+      <guid>https://blog.ivrpowers.com/tags/split/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>apple</title>
+      <link>https://blog.ivrpowers.com/tags/apple/</link>
+      <pubDate>Tue, 04 Feb 2020 12:00:00 +0200</pubDate>
+      
+      <guid>https://blog.ivrpowers.com/tags/apple/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>safari</title>
+      <link>https://blog.ivrpowers.com/tags/safari/</link>
+      <pubDate>Tue, 04 Feb 2020 12:00:00 +0200</pubDate>
+      
+      <guid>https://blog.ivrpowers.com/tags/safari/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>edge</title>
+      <link>https://blog.ivrpowers.com/tags/edge/</link>
+      <pubDate>Sat, 01 Feb 2020 14:00:00 +0200</pubDate>
+      
+      <guid>https://blog.ivrpowers.com/tags/edge/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>microsoft</title>
+      <link>https://blog.ivrpowers.com/tags/microsoft/</link>
+      <pubDate>Sat, 01 Feb 2020 14:00:00 +0200</pubDate>
+      
+      <guid>https://blog.ivrpowers.com/tags/microsoft/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>brand</title>
+      <link>https://blog.ivrpowers.com/tags/brand/</link>
+      <pubDate>Thu, 30 Jan 2020 20:40:07 +0200</pubDate>
+      
+      <guid>https://blog.ivrpowers.com/tags/brand/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>widget</title>
+      <link>https://blog.ivrpowers.com/tags/widget/</link>
+      <pubDate>Tue, 28 Jan 2020 18:00:00 +0200</pubDate>
+      
+      <guid>https://blog.ivrpowers.com/tags/widget/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>saas</title>
+      <link>https://blog.ivrpowers.com/tags/saas/</link>
+      <pubDate>Sat, 11 Jan 2020 15:00:00 +0200</pubDate>
+      
+      <guid>https://blog.ivrpowers.com/tags/saas/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>smartivr</title>
+      <link>https://blog.ivrpowers.com/tags/smartivr/</link>
+      <pubDate>Sat, 11 Jan 2020 12:00:00 +0200</pubDate>
+      
+      <guid>https://blog.ivrpowers.com/tags/smartivr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ia</title>
+      <link>https://blog.ivrpowers.com/tags/ia/</link>
+      <pubDate>Tue, 12 Nov 2019 18:00:00 +0200</pubDate>
+      
+      <guid>https://blog.ivrpowers.com/tags/ia/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>voip</title>
+      <link>https://blog.ivrpowers.com/tags/voip/</link>
+      <pubDate>Tue, 12 Nov 2019 18:00:00 +0200</pubDate>
+      
+      <guid>https://blog.ivrpowers.com/tags/voip/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>amazon</title>
+      <link>https://blog.ivrpowers.com/tags/amazon/</link>
+      <pubDate>Sun, 08 Sep 2019 12:00:00 +0100</pubDate>
+      
+      <guid>https://blog.ivrpowers.com/tags/amazon/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>api</title>
+      <link>https://blog.ivrpowers.com/tags/api/</link>
+      <pubDate>Sun, 08 Sep 2019 12:00:00 +0100</pubDate>
+      
+      <guid>https://blog.ivrpowers.com/tags/api/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>google</title>
+      <link>https://blog.ivrpowers.com/tags/google/</link>
+      <pubDate>Sun, 08 Sep 2019 12:00:00 +0100</pubDate>
+      
+      <guid>https://blog.ivrpowers.com/tags/google/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>speech</title>
+      <link>https://blog.ivrpowers.com/tags/speech/</link>
+      <pubDate>Sun, 08 Sep 2019 12:00:00 +0100</pubDate>
+      
+      <guid>https://blog.ivrpowers.com/tags/speech/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>tts</title>
+      <link>https://blog.ivrpowers.com/tags/tts/</link>
+      <pubDate>Sun, 08 Sep 2019 12:00:00 +0100</pubDate>
+      
+      <guid>https://blog.ivrpowers.com/tags/tts/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>aws</title>
+      <link>https://blog.ivrpowers.com/tags/aws/</link>
+      <pubDate>Tue, 03 Sep 2019 12:00:00 +0100</pubDate>
+      
+      <guid>https://blog.ivrpowers.com/tags/aws/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>firefox</title>
+      <link>https://blog.ivrpowers.com/tags/firefox/</link>
+      <pubDate>Tue, 23 Jul 2019 20:00:00 +0200</pubDate>
+      
+      <guid>https://blog.ivrpowers.com/tags/firefox/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>chrome</title>
+      <link>https://blog.ivrpowers.com/tags/chrome/</link>
+      <pubDate>Sat, 02 Feb 2019 16:00:00 +0200</pubDate>
+      
+      <guid>https://blog.ivrpowers.com/tags/chrome/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>rtmp</title>
+      <link>https://blog.ivrpowers.com/tags/rtmp/</link>
+      <pubDate>Tue, 29 Jan 2019 16:00:00 +0200</pubDate>
+      
+      <guid>https://blog.ivrpowers.com/tags/rtmp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>browser</title>
+      <link>https://blog.ivrpowers.com/tags/browser/</link>
+      <pubDate>Wed, 02 Jan 2019 20:00:00 +0200</pubDate>
+      
+      <guid>https://blog.ivrpowers.com/tags/browser/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>iaas</title>
+      <link>https://blog.ivrpowers.com/tags/iaas/</link>
+      <pubDate>Wed, 21 Nov 2018 01:00:00 +0200</pubDate>
+      
+      <guid>https://blog.ivrpowers.com/tags/iaas/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>paas</title>
+      <link>https://blog.ivrpowers.com/tags/paas/</link>
+      <pubDate>Wed, 21 Nov 2018 01:00:00 +0200</pubDate>
+      
+      <guid>https://blog.ivrpowers.com/tags/paas/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>voip2day</title>
+      <link>https://blog.ivrpowers.com/tags/voip2day/</link>
+      <pubDate>Thu, 15 Nov 2018 20:00:00 +0100</pubDate>
+      
+      <guid>https://blog.ivrpowers.com/tags/voip2day/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>screensharing</title>
+      <link>https://blog.ivrpowers.com/tags/screensharing/</link>
+      <pubDate>Thu, 15 Nov 2018 19:00:00 +0100</pubDate>
+      
+      <guid>https://blog.ivrpowers.com/tags/screensharing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>trends</title>
+      <link>https://blog.ivrpowers.com/tags/trends/</link>
+      <pubDate>Thu, 08 Nov 2018 22:00:00 +0100</pubDate>
+      
+      <guid>https://blog.ivrpowers.com/tags/trends/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>videobot</title>
+      <link>https://blog.ivrpowers.com/tags/videobot/</link>
+      <pubDate>Thu, 08 Nov 2018 22:00:00 +0100</pubDate>
+      
+      <guid>https://blog.ivrpowers.com/tags/videobot/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>exevi</title>
+      <link>https://blog.ivrpowers.com/tags/exevi/</link>
+      <pubDate>Mon, 05 Nov 2018 12:00:00 +0100</pubDate>
+      
+      <guid>https://blog.ivrpowers.com/tags/exevi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>voicebots</title>
+      <link>https://blog.ivrpowers.com/tags/voicebots/</link>
+      <pubDate>Mon, 05 Nov 2018 12:00:00 +0100</pubDate>
+      
+      <guid>https://blog.ivrpowers.com/tags/voicebots/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>tco</title>
+      <link>https://blog.ivrpowers.com/tags/tco/</link>
+      <pubDate>Wed, 31 Oct 2018 22:00:00 +0100</pubDate>
+      
+      <guid>https://blog.ivrpowers.com/tags/tco/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>turnkey</title>
+      <link>https://blog.ivrpowers.com/tags/turnkey/</link>
+      <pubDate>Fri, 12 Oct 2018 15:00:00 +0200</pubDate>
+      
+      <guid>https://blog.ivrpowers.com/tags/turnkey/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>code</title>
+      <link>https://blog.ivrpowers.com/tags/code/</link>
+      <pubDate>Thu, 16 Aug 2018 10:00:00 +0200</pubDate>
+      
+      <guid>https://blog.ivrpowers.com/tags/code/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>debugging</title>
+      <link>https://blog.ivrpowers.com/tags/debugging/</link>
+      <pubDate>Thu, 16 Aug 2018 10:00:00 +0200</pubDate>
+      
+      <guid>https://blog.ivrpowers.com/tags/debugging/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>data</title>
+      <link>https://blog.ivrpowers.com/tags/data/</link>
+      <pubDate>Sun, 29 Jul 2018 20:00:00 +0200</pubDate>
+      
+      <guid>https://blog.ivrpowers.com/tags/data/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>gdpr</title>
+      <link>https://blog.ivrpowers.com/tags/gdpr/</link>
+      <pubDate>Sun, 29 Jul 2018 20:00:00 +0200</pubDate>
+      
+      <guid>https://blog.ivrpowers.com/tags/gdpr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>development</title>
+      <link>https://blog.ivrpowers.com/tags/development/</link>
+      <pubDate>Sat, 21 Jul 2018 23:00:00 +0200</pubDate>
+      
+      <guid>https://blog.ivrpowers.com/tags/development/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>security</title>
+      <link>https://blog.ivrpowers.com/tags/security/</link>
+      <pubDate>Tue, 10 Jul 2018 09:00:05 +0200</pubDate>
+      
+      <guid>https://blog.ivrpowers.com/tags/security/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>webclient</title>
+      <link>https://blog.ivrpowers.com/tags/webclient/</link>
+      <pubDate>Thu, 05 Jul 2018 09:00:00 +0200</pubDate>
+      
+      <guid>https://blog.ivrpowers.com/tags/webclient/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ecommerce</title>
+      <link>https://blog.ivrpowers.com/tags/ecommerce/</link>
+      <pubDate>Wed, 04 Jul 2018 20:00:00 +0200</pubDate>
+      
+      <guid>https://blog.ivrpowers.com/tags/ecommerce/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>webphone</title>
       <link>https://blog.ivrpowers.com/tags/webphone/</link>
       <pubDate>Mon, 07 May 2018 20:00:00 +0200</pubDate>
       
@@ -1209,20 +845,380 @@
     </item>
     
     <item>
-      <title>Webrtc</title>
-      <link>https://blog.ivrpowers.com/tags/webrtc/</link>
-      <pubDate>Sat, 01 Jan 2022 14:00:00 +0200</pubDate>
+      <title>password</title>
+      <link>https://blog.ivrpowers.com/tags/password/</link>
+      <pubDate>Wed, 11 Apr 2018 09:30:00 +0100</pubDate>
       
-      <guid>https://blog.ivrpowers.com/tags/webrtc/</guid>
+      <guid>https://blog.ivrpowers.com/tags/password/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Widget</title>
-      <link>https://blog.ivrpowers.com/tags/widget/</link>
-      <pubDate>Tue, 28 Jan 2020 18:00:00 +0200</pubDate>
+      <title>videoid</title>
+      <link>https://blog.ivrpowers.com/tags/videoid/</link>
+      <pubDate>Wed, 11 Apr 2018 09:30:00 +0100</pubDate>
       
-      <guid>https://blog.ivrpowers.com/tags/widget/</guid>
+      <guid>https://blog.ivrpowers.com/tags/videoid/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>web</title>
+      <link>https://blog.ivrpowers.com/tags/web/</link>
+      <pubDate>Wed, 11 Apr 2018 09:30:00 +0100</pubDate>
+      
+      <guid>https://blog.ivrpowers.com/tags/web/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>text-to-speech</title>
+      <link>https://blog.ivrpowers.com/tags/text-to-speech/</link>
+      <pubDate>Tue, 10 Apr 2018 09:30:00 +0100</pubDate>
+      
+      <guid>https://blog.ivrpowers.com/tags/text-to-speech/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>android</title>
+      <link>https://blog.ivrpowers.com/tags/android/</link>
+      <pubDate>Fri, 16 Feb 2018 21:00:00 +0200</pubDate>
+      
+      <guid>https://blog.ivrpowers.com/tags/android/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ios</title>
+      <link>https://blog.ivrpowers.com/tags/ios/</link>
+      <pubDate>Sun, 21 Jan 2018 21:00:00 +0200</pubDate>
+      
+      <guid>https://blog.ivrpowers.com/tags/ios/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>mobileapp</title>
+      <link>https://blog.ivrpowers.com/tags/mobileapp/</link>
+      <pubDate>Tue, 16 Jan 2018 21:00:00 +0100</pubDate>
+      
+      <guid>https://blog.ivrpowers.com/tags/mobileapp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>videoconferencing</title>
+      <link>https://blog.ivrpowers.com/tags/videoconferencing/</link>
+      <pubDate>Mon, 15 Jan 2018 20:23:11 +0100</pubDate>
+      
+      <guid>https://blog.ivrpowers.com/tags/videoconferencing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>customerengagement</title>
+      <link>https://blog.ivrpowers.com/tags/customerengagement/</link>
+      <pubDate>Thu, 04 Jan 2018 01:00:00 +0200</pubDate>
+      
+      <guid>https://blog.ivrpowers.com/tags/customerengagement/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>elearning</title>
+      <link>https://blog.ivrpowers.com/tags/elearning/</link>
+      <pubDate>Wed, 20 Dec 2017 13:30:05 +0200</pubDate>
+      
+      <guid>https://blog.ivrpowers.com/tags/elearning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>businesstrategy</title>
+      <link>https://blog.ivrpowers.com/tags/businesstrategy/</link>
+      <pubDate>Tue, 12 Dec 2017 12:08:43 +0200</pubDate>
+      
+      <guid>https://blog.ivrpowers.com/tags/businesstrategy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>kiosk</title>
+      <link>https://blog.ivrpowers.com/tags/kiosk/</link>
+      <pubDate>Tue, 12 Dec 2017 12:08:43 +0200</pubDate>
+      
+      <guid>https://blog.ivrpowers.com/tags/kiosk/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>biometrics</title>
+      <link>https://blog.ivrpowers.com/tags/biometrics/</link>
+      <pubDate>Tue, 05 Dec 2017 09:28:03 +0100</pubDate>
+      
+      <guid>https://blog.ivrpowers.com/tags/biometrics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>telemedicine</title>
+      <link>https://blog.ivrpowers.com/tags/telemedicine/</link>
+      <pubDate>Thu, 23 Nov 2017 10:10:39 +0100</pubDate>
+      
+      <guid>https://blog.ivrpowers.com/tags/telemedicine/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>omnichannel</title>
+      <link>https://blog.ivrpowers.com/tags/omnichannel/</link>
+      <pubDate>Thu, 23 Nov 2017 10:09:51 +0200</pubDate>
+      
+      <guid>https://blog.ivrpowers.com/tags/omnichannel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>mobile</title>
+      <link>https://blog.ivrpowers.com/tags/mobile/</link>
+      <pubDate>Mon, 20 Nov 2017 18:01:23 +0100</pubDate>
+      
+      <guid>https://blog.ivrpowers.com/tags/mobile/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>callcenters</title>
+      <link>https://blog.ivrpowers.com/tags/callcenters/</link>
+      <pubDate>Mon, 13 Nov 2017 00:20:05 +0200</pubDate>
+      
+      <guid>https://blog.ivrpowers.com/tags/callcenters/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>retail</title>
+      <link>https://blog.ivrpowers.com/tags/retail/</link>
+      <pubDate>Tue, 07 Nov 2017 13:44:41 +0100</pubDate>
+      
+      <guid>https://blog.ivrpowers.com/tags/retail/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>apis</title>
+      <link>https://blog.ivrpowers.com/tags/apis/</link>
+      <pubDate>Mon, 06 Nov 2017 12:19:05 +0200</pubDate>
+      
+      <guid>https://blog.ivrpowers.com/tags/apis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>datachannel</title>
+      <link>https://blog.ivrpowers.com/tags/datachannel/</link>
+      <pubDate>Thu, 26 Oct 2017 10:45:24 +0200</pubDate>
+      
+      <guid>https://blog.ivrpowers.com/tags/datachannel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>voicecall</title>
+      <link>https://blog.ivrpowers.com/tags/voicecall/</link>
+      <pubDate>Wed, 18 Oct 2017 12:58:21 +0200</pubDate>
+      
+      <guid>https://blog.ivrpowers.com/tags/voicecall/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>contactcenters</title>
+      <link>https://blog.ivrpowers.com/tags/contactcenters/</link>
+      <pubDate>Tue, 17 Oct 2017 00:20:05 +0200</pubDate>
+      
+      <guid>https://blog.ivrpowers.com/tags/contactcenters/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>mobilephone</title>
+      <link>https://blog.ivrpowers.com/tags/mobilephone/</link>
+      <pubDate>Mon, 09 Oct 2017 10:45:02 +0200</pubDate>
+      
+      <guid>https://blog.ivrpowers.com/tags/mobilephone/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>videoconference</title>
+      <link>https://blog.ivrpowers.com/tags/videoconference/</link>
+      <pubDate>Wed, 04 Oct 2017 10:45:24 +0200</pubDate>
+      
+      <guid>https://blog.ivrpowers.com/tags/videoconference/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>showroom</title>
+      <link>https://blog.ivrpowers.com/tags/showroom/</link>
+      <pubDate>Thu, 28 Sep 2017 11:06:30 +0200</pubDate>
+      
+      <guid>https://blog.ivrpowers.com/tags/showroom/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>srtp</title>
+      <link>https://blog.ivrpowers.com/tags/srtp/</link>
+      <pubDate>Tue, 26 Sep 2017 12:06:30 +0200</pubDate>
+      
+      <guid>https://blog.ivrpowers.com/tags/srtp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>popupagent</title>
+      <link>https://blog.ivrpowers.com/tags/popupagent/</link>
+      <pubDate>Tue, 05 Sep 2017 10:00:00 +0200</pubDate>
+      
+      <guid>https://blog.ivrpowers.com/tags/popupagent/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>sdk</title>
+      <link>https://blog.ivrpowers.com/tags/sdk/</link>
+      <pubDate>Mon, 04 Sep 2017 22:00:00 +0200</pubDate>
+      
+      <guid>https://blog.ivrpowers.com/tags/sdk/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>biometric</title>
+      <link>https://blog.ivrpowers.com/tags/biometric/</link>
+      <pubDate>Fri, 01 Sep 2017 09:52:47 +0200</pubDate>
+      
+      <guid>https://blog.ivrpowers.com/tags/biometric/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>overprinting</title>
+      <link>https://blog.ivrpowers.com/tags/overprinting/</link>
+      <pubDate>Thu, 24 Aug 2017 19:00:00 +0200</pubDate>
+      
+      <guid>https://blog.ivrpowers.com/tags/overprinting/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>phone</title>
+      <link>https://blog.ivrpowers.com/tags/phone/</link>
+      <pubDate>Sat, 19 Aug 2017 11:30:18 +0200</pubDate>
+      
+      <guid>https://blog.ivrpowers.com/tags/phone/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>mobility</title>
+      <link>https://blog.ivrpowers.com/tags/mobility/</link>
+      <pubDate>Wed, 09 Aug 2017 10:09:17 +0200</pubDate>
+      
+      <guid>https://blog.ivrpowers.com/tags/mobility/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>dtls</title>
+      <link>https://blog.ivrpowers.com/tags/dtls/</link>
+      <pubDate>Tue, 01 Aug 2017 10:04:37 +0200</pubDate>
+      
+      <guid>https://blog.ivrpowers.com/tags/dtls/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>iot</title>
+      <link>https://blog.ivrpowers.com/tags/iot/</link>
+      <pubDate>Mon, 24 Jul 2017 12:30:37 +0200</pubDate>
+      
+      <guid>https://blog.ivrpowers.com/tags/iot/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>socialnetworking</title>
+      <link>https://blog.ivrpowers.com/tags/socialnetworking/</link>
+      <pubDate>Mon, 24 Jul 2017 12:30:37 +0200</pubDate>
+      
+      <guid>https://blog.ivrpowers.com/tags/socialnetworking/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>mhealth</title>
+      <link>https://blog.ivrpowers.com/tags/mhealth/</link>
+      <pubDate>Tue, 18 Jul 2017 11:31:50 +0200</pubDate>
+      
+      <guid>https://blog.ivrpowers.com/tags/mhealth/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>voiceofthecustomer</title>
+      <link>https://blog.ivrpowers.com/tags/voiceofthecustomer/</link>
+      <pubDate>Wed, 12 Jul 2017 12:04:07 +0200</pubDate>
+      
+      <guid>https://blog.ivrpowers.com/tags/voiceofthecustomer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>sip</title>
+      <link>https://blog.ivrpowers.com/tags/sip/</link>
+      <pubDate>Sun, 09 Jul 2017 00:20:05 +0200</pubDate>
+      
+      <guid>https://blog.ivrpowers.com/tags/sip/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>branding</title>
+      <link>https://blog.ivrpowers.com/tags/branding/</link>
+      <pubDate>Thu, 06 Jul 2017 14:08:06 +0200</pubDate>
+      
+      <guid>https://blog.ivrpowers.com/tags/branding/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>honesty</title>
+      <link>https://blog.ivrpowers.com/tags/honesty/</link>
+      <pubDate>Fri, 30 Jun 2017 19:11:25 +0200</pubDate>
+      
+      <guid>https://blog.ivrpowers.com/tags/honesty/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>icarvision</title>
+      <link>https://blog.ivrpowers.com/tags/icarvision/</link>
+      <pubDate>Fri, 30 Jun 2017 13:13:32 +0200</pubDate>
+      
+      <guid>https://blog.ivrpowers.com/tags/icarvision/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>livevideo</title>
+      <link>https://blog.ivrpowers.com/tags/livevideo/</link>
+      <pubDate>Thu, 15 Jun 2017 13:02:36 +0200</pubDate>
+      
+      <guid>https://blog.ivrpowers.com/tags/livevideo/</guid>
       <description></description>
     </item>
     

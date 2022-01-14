@@ -1,23 +1,19 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Saas on Blog</title>
+    <title>saas on Blog</title>
     <link>https://blog.ivrpowers.com/tags/saas/</link>
-    <description>Recent content in Saas on Blog</description>
+    <description>Recent content in saas on Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 11 Jan 2020 15:00:00 +0200</lastBuildDate>
-    
-	<atom:link href="https://blog.ivrpowers.com/tags/saas/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Sat, 11 Jan 2020 15:00:00 +0200</lastBuildDate><atom:link href="https://blog.ivrpowers.com/tags/saas/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Cloud Storage · Video Recording</title>
       <link>https://blog.ivrpowers.com/post/products/video-recording/</link>
       <pubDate>Sat, 11 Jan 2020 15:00:00 +0200</pubDate>
       
       <guid>https://blog.ivrpowers.com/post/products/video-recording/</guid>
-      <description>Securely archive all your audio / video streams in MP4 blended file or as RAW separate files. Video RTC (WebRTC) platforms enable to record all audio and video streams of your services to a secure, scalable Cloud Storage. Video Recording is connected to the SPLIT Forward / Reverse in order to process all video calls of your Contact Center.
+      <description>Securely archive all your audio / video streams in MP4 blended file or as RAW separate files.  Video RTC (WebRTC) platforms enable to record all audio and video streams of your services to a secure, scalable Cloud Storage. Video Recording is connected to the SPLIT Forward / Reverse in order to process all video calls of your Contact Center.
 Service Conditions This cloud recording service is available for CPaaS / SaaS on AWS.</description>
     </item>
     
@@ -27,7 +23,7 @@ Service Conditions This cloud recording service is available for CPaaS / SaaS on
       <pubDate>Wed, 21 Nov 2018 01:00:00 +0200</pubDate>
       
       <guid>https://blog.ivrpowers.com/post/technologies/understanding-cloud-hosting-iaas-paas-saas/</guid>
-      <description>Image source: Pixabay. Creative Commons What are the differences between IaaS, SaaS, and PaaS, the three main Cloud Computing models? IaaS, PaaS, SaaS are three Cloud computing models popular in the market. Depending upon the requirement a company can opt for any of the three models. Here we explain IaaS, PaaS, SaaS model in the best possible way so that anyone can understand and differential among them.
+      <description>Image source: Pixabay. Creative Commons What are the differences between IaaS, SaaS, and PaaS, the three main Cloud Computing models?  IaaS, PaaS, SaaS are three Cloud computing models popular in the market. Depending upon the requirement a company can opt for any of the three models. Here we explain IaaS, PaaS, SaaS model in the best possible way so that anyone can understand and differential among them.
 What is IaaS?</description>
     </item>
     
@@ -37,7 +33,7 @@ What is IaaS?</description>
       <pubDate>Wed, 04 Jul 2018 20:00:00 +0200</pubDate>
       
       <guid>https://blog.ivrpowers.com/post/marketing/eu-store-europe-cpaas/</guid>
-      <description>Photo source: Creative Commons We have very exciting news for you! Now, it&amp;rsquo;s time for a new change, to work with our IVR and RTC cloud hosting services even better than ever. Our company is pleased to announce our new EU Store - Europe CPaaS ecommerce portal offering Communications Platform as a Service (CPaaS | SaaS) for all regions in Europe and others countries.
+      <description>Photo source: Creative Commons We have very exciting news for you!  Now, it&amp;rsquo;s time for a new change, to work with our IVR and RTC cloud hosting services even better than ever. Our company is pleased to announce our new EU Store - Europe CPaaS ecommerce portal offering Communications Platform as a Service (CPaaS | SaaS) for all regions in Europe and others countries.
  Interactive Voice Response: VoiceXML IVR Video Gateways: Video RTC Turnkey Solutions: Web Dialer, Video SPLIT, Remote Viewer Professional Services Support Services  Now you can get more with:</description>
     </item>
     
@@ -47,7 +43,7 @@ What is IaaS?</description>
       <pubDate>Thu, 21 Jun 2018 18:00:00 +0200</pubDate>
       
       <guid>https://blog.ivrpowers.com/post/marketing/us-store-america-cpaas/</guid>
-      <description>Photo source: Pixabay, Creative Commons We have very exciting news for you! Now, it&amp;rsquo;s time for a new change, to work with our IVR and RTC cloud hosting services even better than ever. Our company is pleased to announce our new US Store - America CPaaS ecommerce portal offering Communications Platform as a Service (CPaaS | SaaS) for all regions in Canada, USA and South America.
+      <description>Photo source: Pixabay, Creative Commons We have very exciting news for you!  Now, it&amp;rsquo;s time for a new change, to work with our IVR and RTC cloud hosting services even better than ever. Our company is pleased to announce our new US Store - America CPaaS ecommerce portal offering Communications Platform as a Service (CPaaS | SaaS) for all regions in Canada, USA and South America.
  Interactive Voice Response: VoiceXML IVR Video Gateways: Video RTC Turnkey Solutions: Web Dialer, Video SPLIT, Remote Viewer Professional Services Support Services  Now you can get more with:</description>
     </item>
     
@@ -57,7 +53,7 @@ What is IaaS?</description>
       <pubDate>Sun, 10 Jun 2018 01:00:00 +0200</pubDate>
       
       <guid>https://blog.ivrpowers.com/post/technologies/what-is-cpaas/</guid>
-      <description>Communication Platform as a Service (CPaaS) Communication Platform as a Service (CPaaS) is a form of cloud computing that is utilized to deliver communication applications like IVR or RTC to users over the internet. But, unlike SaaS which delivers specific apps and programs, Communication Platform as a Service is a bit closer related to IaaS. So, while IaaS is delivering the infrastructure, like servers and management tools, CPaaS is what delivers the entire communication platform for users to build and develop their own applications.</description>
+      <description>Communication Platform as a Service (CPaaS)  Communication Platform as a Service (CPaaS) is a form of cloud computing that is utilized to deliver communication applications like IVR or RTC to users over the internet. But, unlike SaaS which delivers specific apps and programs, Communication Platform as a Service is a bit closer related to IaaS. So, while IaaS is delivering the infrastructure, like servers and management tools, CPaaS is what delivers the entire communication platform for users to build and develop their own applications.</description>
     </item>
     
     <item>
@@ -66,7 +62,7 @@ What is IaaS?</description>
       <pubDate>Sun, 10 Jun 2018 01:00:00 +0200</pubDate>
       
       <guid>https://blog.ivrpowers.com/post/technologies/what-is-saas/</guid>
-      <description>Photo source: Interactive Powers Software as a Service (SaaS) Software as a Service (SaaS) directly refers to any software that your business is using just about everyday. SaaS is of course a form of cloud computing, which allows for increase flexibility by relying on a third-party vendor to host and maintain the service — in this case, that service is that software. Since the software is hosted by a cloud provider, your business does not need to install and run applications on their own computers, or host their own servers in expensive data centers, yet still gains access to these powerful tools.</description>
+      <description>Photo source: Interactive Powers Software as a Service (SaaS)  Software as a Service (SaaS) directly refers to any software that your business is using just about everyday. SaaS is of course a form of cloud computing, which allows for increase flexibility by relying on a third-party vendor to host and maintain the service — in this case, that service is that software. Since the software is hosted by a cloud provider, your business does not need to install and run applications on their own computers, or host their own servers in expensive data centers, yet still gains access to these powerful tools.</description>
     </item>
     
     <item>
@@ -75,7 +71,7 @@ What is IaaS?</description>
       <pubDate>Wed, 20 Sep 2017 12:50:49 +0200</pubDate>
       
       <guid>https://blog.ivrpowers.com/post/trends/cloud-hosting-ivr-rtc/</guid>
-      <description>Photo source: Pixabay. Creative Commons. Upgrade your business communications to the Cloud to deliver more value with less costs Computing based on the internet is booming business. The global cloud communication market is projected to reach $4.45 by 2021. Why are more and more companies turning to the cloud for their business communications needs?
+      <description>Photo source: Pixabay. Creative Commons. Upgrade your business communications to the Cloud to deliver more value with less costs  Computing based on the internet is booming business. The global cloud communication market is projected to reach $4.45 by 2021. Why are more and more companies turning to the cloud for their business communications needs?
 Communications solutions at a lower cost. Cloud computing is a cost saver since it can reduce or even eliminate the need for a company to buy an expensive hardware and software.</description>
     </item>
     

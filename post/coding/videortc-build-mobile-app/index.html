@@ -7,7 +7,7 @@
         <meta charset="utf-8" />
         <meta http-equiv="X-UA-Compatible" content="IE=edge" />
 
-        <meta property="og:title" content=" How to Build a Mobile Video Application (WebRTC) &middot;  Blog" />
+        <meta property="og:title" content=" How to Build a Mobile Video Application (WebRTC) &middot; Blog " />
         <meta property="og:site_name" content="Blog" />
         <meta property="og:url" content="https://blog.ivrpowers.com/post/coding/videortc-build-mobile-app/" />
 
@@ -28,7 +28,7 @@
         <meta name="twitter:url" content="https://blog.ivrpowers.com/post/coding/videortc-build-mobile-app/" />
     
 
-        <title> How to Build a Mobile Video Application (WebRTC) &middot;  Blog</title>
+        <title> How to Build a Mobile Video Application (WebRTC) &middot; Blog </title>
 
         <link rel="preload" href="https://blog.ivrpowers.com/js/main.js" as="script" />
         <link rel="preload" href="https://blog.ivrpowers.com/css/main.css" as="style" />
@@ -68,43 +68,43 @@
         "@type": "BlogPosting",
         "mainEntityOfPage": {
           "@type": "WebPage",
-          "@id": "https://blog.ivrpowers.com/post/coding/videortc-build-mobile-app/"
+          "@id": "https:\/\/blog.ivrpowers.com\/post\/coding\/videortc-build-mobile-app\/"
         },
         "headline": "How to Build a Mobile Video Application (WebRTC)",
         "description": "Coding",
         "author": {
             "@type": "Person",
             "name": "IVRPowers Team",
-            "url": "http://profiles.google.com/https://plus.google.com/110474380379482164317/?rel=author",
+            "url": "http://profiles.google.com/https:\/\/plus.google.com\/110474380379482164317\/?rel=author",
             "image": {
               "@type": "ImageObject",
-              "url": "https:/images/avatar.png",
+              "url": "https:\/images\/avatar.png",
               "height": 80,
               "width": 80
             }
         },
         "publisher": {
           "@type": "Organization",
-          "@id": "https://blog.ivrpowers.com/",
+          "@id": "https:\/\/blog.ivrpowers.com\/",
           "name": "Blog",
-          "url": "https://blog.ivrpowers.com/",
+          "url": "https:\/\/blog.ivrpowers.com\/",
           "logo": {
             "@type": "ImageObject",
-            "url": "https:/images/avatar.png",
+            "url": "https:\/images\/avatar.png",
             "height": 80,
             "width": 80
           }
         },
         "image": {
           "@type": "ImageObject",
-          "url": "https://blog.ivrpowers.com/postimages/coding/ivrpowers-videortc-features.033.jpeg",
+          "url": "https:\/\/blog.ivrpowers.com\/postimages\/coding\/ivrpowers-videortc-features.033.jpeg",
           "height": 133,
           "width": 200
         },
         "datePublished": "2017-09-11",
         "dateModified": "2017-09-11",
-        "wordCount": 697,
-        "keywords": ["videocall","code","mobileapp","videortc"] 
+        "wordCount":  697 ,
+        "keywords": "[\"videocall\",\"code\",\"mobileapp\",\"videortc\"]" 
     }
     </script>
 
@@ -183,149 +183,109 @@ html{font-family:sans-serif;line-height:1.15;-ms-text-size-adjust:100%;-webkit-t
   			</header>
 
   			<section class="post-content">
-  				
-
-<h2 id="development-postimages-coding-ivrpowers-videortc-features-033-jpeg"><img src="/postimages/coding/ivrpowers-videortc-features.033.jpeg" alt="development" /></h2>
-
+  				<h2 id="developmentpostimagescodingivrpowers-videortc-features033jpeg"><img src="/postimages/coding/ivrpowers-videortc-features.033.jpeg" alt="development"></h2>
 <h6 id="photo-source-interactive-powers-pexels-creative-commons">Photo Source: Interactive Powers, Pexels. Creative Commons</h6>
-
 <p>In this post we will show you how to build a video call service in your mobile by using the <a href="http://ionicframework.com/">Ionic Framework 2</a> and <a href="http://blog.ivrpowers.com/post/development/introducing-videortcjs-developers/">VideoRTC.js</a>.</p>
-
 <h2 id="step-1-setting-up-the-basic-structure">Step 1: Setting up the basic structure</h2>
-
 <p>Firstly, you need to install an Ionic project in your system. If you don’t have it, you can download and follow the official guide from the Ionic Framework 2 web site.</p>
-
 <p>After it, the library <a href="http://blog.ivrpowers.com/post/development/introducing-videortcjs-developers/">VideoRTC.js</a> must be included in your project.</p>
-
 <p>You can easily add the following script tag at the entry point of your application <code>src/index.html</code> like this:</p>
-
-<pre><code class="language-html">&lt;script src=&quot;assets/js/videortc.min.js&quot;&gt;&lt;/script&gt;
-</code></pre>
-
-<p>Next, we have to establish the connection to the desired video server, following these steps:</p>
-
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-html" data-lang="html">&lt;<span style="color:#f92672">script</span> <span style="color:#a6e22e">src</span><span style="color:#f92672">=</span><span style="color:#e6db74">&#34;assets/js/videortc.min.js&#34;</span>&gt;&lt;/<span style="color:#f92672">script</span>&gt;
+</code></pre></div><p>Next, we have to establish the connection to the desired video server, following these steps:</p>
 <ul>
 <li>We define a new variable inside our class, with the data of the server.</li>
 <li>In our app’s constructor we initialize the new variable with the class VideoRTC. In the class VideoRTC, you should introduce the variables that have been previously created.</li>
 </ul>
-
-<pre><code class="language-typescript">export class My_App {
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-typescript" data-lang="typescript"><span style="color:#66d9ef">export</span> <span style="color:#66d9ef">class</span> <span style="color:#a6e22e">My_App</span> {
   
-   public my_videogateway: any = null;
-   server:any  = [&quot;https://example.com:HTTPS_PORT/webrtc-gateway&quot;];
-   iceServers:any  = [ ];
-   debugLevel:any = “error”;
+   <span style="color:#66d9ef">public</span> <span style="color:#a6e22e">my_videogateway</span>: <span style="color:#66d9ef">any</span> <span style="color:#f92672">=</span> <span style="color:#66d9ef">null</span>;
+   <span style="color:#a6e22e">server</span>:<span style="color:#66d9ef">any</span>  <span style="color:#f92672">=</span> [<span style="color:#e6db74">&#34;https://example.com:HTTPS_PORT/webrtc-gateway&#34;</span>];
+   <span style="color:#a6e22e">iceServers</span>:<span style="color:#66d9ef">any</span>  <span style="color:#f92672">=</span> [ ];
+   <span style="color:#a6e22e">debugLevel</span>:<span style="color:#66d9ef">any</span> <span style="color:#f92672">=</span> <span style="color:#960050;background-color:#1e0010">“</span><span style="color:#a6e22e">error</span><span style="color:#960050;background-color:#1e0010">”</span>;
 
-   constructor(public navCtrl: NavController) {
-       this.my_videogateway = new VideoRTC(this.server, this.iceServers, this.debugLevel);
+   <span style="color:#66d9ef">constructor</span>(<span style="color:#66d9ef">public</span> <span style="color:#a6e22e">navCtrl</span>: <span style="color:#66d9ef">NavController</span>) {
+       <span style="color:#66d9ef">this</span>.<span style="color:#a6e22e">my_videogateway</span> <span style="color:#f92672">=</span> <span style="color:#66d9ef">new</span> <span style="color:#a6e22e">VideoRTC</span>(<span style="color:#66d9ef">this</span>.<span style="color:#a6e22e">server</span>, <span style="color:#66d9ef">this</span>.<span style="color:#a6e22e">iceServers</span>, <span style="color:#66d9ef">this</span>.<span style="color:#a6e22e">debugLevel</span>);
    }
 }
-</code></pre>
-
-<p>After connecting with the video gateway server, you must copy and paste the following Type Script code in your development outside of constructor. It is the basic structure to start designing your videocall service with Ionic:</p>
-
-<pre><code class="language-typescript">this.my_videogateway.connect().then( useCases =&gt; {
-   this.useCases = useCases;
-   let onEvents = {
-       onAccepted:(userName) =&gt; {
-           //It is executed when the call is accepted by a user;
-       },
-       onCalling:(userName) =&gt; {
-           //It is executed when It start calling a user.
-       },
-       onDataReceived:(type, data, filename,userName) =&gt; {
-           //It executes when information is received by the data channel.
-       },
-       onGotPeers:(list) =&gt; {
-           //It executes when the server responds to the request of getPeers();
-       },
-       onHangUp:(userName, reason) =&gt; {
-           //It is executed when a call is hung. (Decline)
-       },
-       onIncomingCall:(userName) =&gt; {
-           //It is executed when there is an incoming call.
-       },
-       onRegistered: (userName, isRegistered) =&gt; {
-           //It is executed when the server responds to the register() method;
-       },
-       onSetCall:() =&gt; {
-           //Set
+</code></pre></div><p>After connecting with the video gateway server, you must copy and paste the following Type Script code in your development outside of constructor. It is the basic structure to start designing your videocall service with Ionic:</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-typescript" data-lang="typescript"><span style="color:#66d9ef">this</span>.<span style="color:#a6e22e">my_videogateway</span>.<span style="color:#a6e22e">connect</span>().<span style="color:#a6e22e">then</span>( <span style="color:#a6e22e">useCases</span> <span style="color:#f92672">=&gt;</span> {
+   <span style="color:#66d9ef">this</span>.<span style="color:#a6e22e">useCases</span> <span style="color:#f92672">=</span> <span style="color:#a6e22e">useCases</span>;
+   <span style="color:#66d9ef">let</span> <span style="color:#a6e22e">onEvents</span> <span style="color:#f92672">=</span> {
+       <span style="color:#a6e22e">onAccepted</span><span style="color:#f92672">:</span>(<span style="color:#a6e22e">userName</span>) <span style="color:#f92672">=&gt;</span> {
+           <span style="color:#75715e">//It is executed when the call is accepted by a user;
+</span><span style="color:#75715e"></span>       },
+       <span style="color:#a6e22e">onCalling</span><span style="color:#f92672">:</span>(<span style="color:#a6e22e">userName</span>) <span style="color:#f92672">=&gt;</span> {
+           <span style="color:#75715e">//It is executed when It start calling a user.
+</span><span style="color:#75715e"></span>       },
+       <span style="color:#a6e22e">onDataReceived</span><span style="color:#f92672">:</span>(<span style="color:#66d9ef">type</span>, <span style="color:#a6e22e">data</span>, <span style="color:#a6e22e">filename</span>,<span style="color:#a6e22e">userName</span>) <span style="color:#f92672">=&gt;</span> {
+           <span style="color:#75715e">//It executes when information is received by the data channel.
+</span><span style="color:#75715e"></span>       },
+       <span style="color:#a6e22e">onGotPeers</span><span style="color:#f92672">:</span>(<span style="color:#a6e22e">list</span>) <span style="color:#f92672">=&gt;</span> {
+           <span style="color:#75715e">//It executes when the server responds to the request of getPeers();
+</span><span style="color:#75715e"></span>       },
+       <span style="color:#a6e22e">onHangUp</span><span style="color:#f92672">:</span>(<span style="color:#a6e22e">userName</span>, <span style="color:#a6e22e">reason</span>) <span style="color:#f92672">=&gt;</span> {
+           <span style="color:#75715e">//It is executed when a call is hung. (Decline)
+</span><span style="color:#75715e"></span>       },
+       <span style="color:#a6e22e">onIncomingCall</span><span style="color:#f92672">:</span>(<span style="color:#a6e22e">userName</span>) <span style="color:#f92672">=&gt;</span> {
+           <span style="color:#75715e">//It is executed when there is an incoming call.
+</span><span style="color:#75715e"></span>       },
+       <span style="color:#a6e22e">onRegistered</span><span style="color:#f92672">:</span> (<span style="color:#a6e22e">userName</span>, <span style="color:#a6e22e">isRegistered</span>) <span style="color:#f92672">=&gt;</span> {
+           <span style="color:#75715e">//It is executed when the server responds to the register() method;
+</span><span style="color:#75715e"></span>       },
+       <span style="color:#a6e22e">onSetCall</span><span style="color:#f92672">:</span>() <span style="color:#f92672">=&gt;</span> {
+           <span style="color:#75715e">//Set
+</span><span style="color:#75715e"></span>       }
+   };
+   <span style="color:#66d9ef">var</span> <span style="color:#a6e22e">options</span> <span style="color:#f92672">=</span> { <span style="color:#75715e">//Optional
+</span><span style="color:#75715e"></span>       <span style="color:#a6e22e">dataChannel</span><span style="color:#f92672">:</span> {
+           <span style="color:#a6e22e">dataEnabled</span>: <span style="color:#66d9ef">true</span>,
+           <span style="color:#a6e22e">allowedTypes</span><span style="color:#f92672">:</span> [<span style="color:#e6db74">&#39;application/x-chat&#39;</span>, <span style="color:#e6db74">&#39;text-plain&#39;</span>, <span style="color:#e6db74">&#39;application/pdf&#39;</span>]
        }
    };
-   var options = { //Optional
-       dataChannel: {
-           dataEnabled: true,
-           allowedTypes: ['application/x-chat', 'text-plain', 'application/pdf']
-       }
+   <span style="color:#66d9ef">let</span> <span style="color:#a6e22e">domElements</span> <span style="color:#f92672">=</span> {
+       <span style="color:#75715e">//HTML element where the video will be hosted.
+</span><span style="color:#75715e"></span>       <span style="color:#a6e22e">videos</span>: <span style="color:#66d9ef">document.getElementById</span>(<span style="color:#960050;background-color:#1e0010">‘</span><span style="color:#a6e22e">videos</span><span style="color:#960050;background-color:#1e0010">&#39;</span>)
    };
-   let domElements = {
-       //HTML element where the video will be hosted.
-       videos: document.getElementById(‘videos')
-   };
-   useCases.videoCall(onEvents, domElements,options)
-       .then((action) =&gt; {
-           // Use Case has been atacched succesfully
-           this.actions = action;
-           action.register(this.user);
-           action.getPeers();
+   <span style="color:#a6e22e">useCases</span>.<span style="color:#a6e22e">videoCall</span>(<span style="color:#a6e22e">onEvents</span>, <span style="color:#a6e22e">domElements</span>,<span style="color:#a6e22e">options</span>)
+       .<span style="color:#a6e22e">then</span>((<span style="color:#a6e22e">action</span>) <span style="color:#f92672">=&gt;</span> {
+           <span style="color:#75715e">// Use Case has been atacched succesfully
+</span><span style="color:#75715e"></span>           <span style="color:#66d9ef">this</span>.<span style="color:#a6e22e">actions</span> <span style="color:#f92672">=</span> <span style="color:#a6e22e">action</span>;
+           <span style="color:#a6e22e">action</span>.<span style="color:#a6e22e">register</span>(<span style="color:#66d9ef">this</span>.<span style="color:#a6e22e">user</span>);
+           <span style="color:#a6e22e">action</span>.<span style="color:#a6e22e">getPeers</span>();
        })
-       .catch((cause) =&gt; {
-           // Error attaching the Use Case
-           console.log(&quot;Error Attach &quot; + cause );
+       .<span style="color:#66d9ef">catch</span>((<span style="color:#a6e22e">cause</span>) <span style="color:#f92672">=&gt;</span> {
+           <span style="color:#75715e">// Error attaching the Use Case
+</span><span style="color:#75715e"></span>           <span style="color:#a6e22e">console</span>.<span style="color:#a6e22e">log</span>(<span style="color:#e6db74">&#34;Error Attach &#34;</span> <span style="color:#f92672">+</span> <span style="color:#a6e22e">cause</span> );
        })
 })
-.catch( cause =&gt; {
+.<span style="color:#66d9ef">catch</span>( <span style="color:#a6e22e">cause</span> <span style="color:#f92672">=&gt;</span> {
 
 })
-</code></pre>
-
-<h2 id="step-2-registering-users">Step 2: Registering users</h2>
-
+</code></pre></div><h2 id="step-2-registering-users">Step 2: Registering users</h2>
 <p>We already have the basic structure to personalize the application. In the following steps, we will add the logic that allows register and call between two users.</p>
-
 <ul>
 <li>action.register(); → We should add our name in the method or the user identification that it is registered in the videocall.</li>
 </ul>
-
 <p>For instance:</p>
-
-<pre><code class="language-typescript">this.action.register(‘Tom’);  
-</code></pre>
-
-<p>Once the call has been registered, user ‘Tom’ can call another user. You have to insert it in a code block, so that you can see it within onRegistered.</p>
-
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-typescript" data-lang="typescript"><span style="color:#66d9ef">this</span>.<span style="color:#a6e22e">action</span>.<span style="color:#a6e22e">register</span>(<span style="color:#960050;background-color:#1e0010">‘</span><span style="color:#a6e22e">Tom</span><span style="color:#960050;background-color:#1e0010">’</span>);  
+</code></pre></div><p>Once the call has been registered, user ‘Tom’ can call another user. You have to insert it in a code block, so that you can see it within onRegistered.</p>
 <ul>
 <li><strong>action.call();</strong> → We must also include in the following method the name of the receiver.</li>
 </ul>
-
 <p>For instance:</p>
-
-<pre><code class="language-typescript">this.action.call(‘Jack’).
-</code></pre>
-
-<h2 id="step-3-how-to-accept-the-videocall">Step 3: How to accept the videocall</h2>
-
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-typescript" data-lang="typescript"><span style="color:#66d9ef">this</span>.<span style="color:#a6e22e">action</span>.<span style="color:#a6e22e">call</span>(<span style="color:#960050;background-color:#1e0010">‘</span><span style="color:#a6e22e">Jack</span><span style="color:#960050;background-color:#1e0010">’</span>).
+</code></pre></div><h2 id="step-3-how-to-accept-the-videocall">Step 3: How to accept the videocall</h2>
 <p>Finally, we must follow the procedure that allows to accept the call. Here, there are two different options. We can either directly include ‘action.call()’ in the object onIncomingCall, so the call is automatically accepted, or you can design your own logic using Ionic components like for example a confirmation button.</p>
-
 <p>You can see more information about the components at <a href="http://ionicframework.com/docs/components/#alert-confirm">Ionic Framework 2</a>.</p>
-
 <p>After the explained process, and by adding some CSS style, you can shape the design of the application.</p>
-
 <h2 id="step-4-running-the-service-and-peers">Step 4: Running the service and peers&hellip;</h2>
-
 <p>Open your app mobile and start video calling between two peers. Remember, this demo works properly with the WebRTC communication through our <a href="http://blog.ivrpowers.com/post/products/video-rtc-api-framework/">API Framework</a> / <a href="http://blog.ivrpowers.com/post/development/introducing-videortcjs-developers/">VideoRTC.js</a> resources. Please, contact our sales for any project or more information.</p>
-
 <h3 id="peer-1-tom-and-peer-2-jack">Peer 1 (Tom) and Peer 2 (Jack)</h3>
-
-<p><img src="/postimages/coding/mobile-tomandjack.png" alt="videortc-mobile-tomandjack" /></p>
-
+<p><img src="/postimages/coding/mobile-tomandjack.png" alt="videortc-mobile-tomandjack"></p>
 <p>Feel free to reach out if you have any questions or comments bellow or just want to show off what kind of cool stuff you’ve built with <a href="http://blog.ivrpowers.com/post/development/introducing-videortcjs-developers/">VideoRTC.js</a>.</p>
-
 <p>Email: <a href="mailto:support@ivrpowers.com">support@ivrpowers.com</a> · Twitter: <a href="https://twitter.com/ivrpowers">@ivrpowers</a>
- · Github: <a href="https://github.com/ivrpowers">IVRPowers</a></p>
-
-<hr />
-
+· Github: <a href="https://github.com/ivrpowers">IVRPowers</a></p>
+<hr>
 <p><a href="https://www.ivrpowers.com/">Interactive Powers</a> - Streamline your business communications</p>
 
   			</section>
@@ -415,31 +375,21 @@ html{font-family:sans-serif;line-height:1.15;-ms-text-size-adjust:100%;-webkit-t
     </div>
     <div id="toc" class="menu-list">
         <nav id="TableOfContents">
-<ul>
-<li>
-<ul>
-<li><a href="#development-postimages-coding-ivrpowers-videortc-features-033-jpeg"><img src="/postimages/coding/ivrpowers-videortc-features.033.jpeg" alt="development" /></a>
-<ul>
-<li>
-<ul>
-<li>
-<ul>
-<li>
-<ul>
-<li><a href="#photo-source-interactive-powers-pexels-creative-commons">Photo Source: Interactive Powers, Pexels. Creative Commons</a></li>
-</ul></li>
-</ul></li>
-</ul></li>
-</ul></li>
-<li><a href="#step-1-setting-up-the-basic-structure">Step 1: Setting up the basic structure</a></li>
-<li><a href="#step-2-registering-users">Step 2: Registering users</a></li>
-<li><a href="#step-3-how-to-accept-the-videocall">Step 3: How to accept the videocall</a></li>
-<li><a href="#step-4-running-the-service-and-peers">Step 4: Running the service and peers&hellip;</a>
-<ul>
-<li><a href="#peer-1-tom-and-peer-2-jack">Peer 1 (Tom) and Peer 2 (Jack)</a></li>
-</ul></li>
-</ul></li>
-</ul>
+  <ul>
+    <li><a href="#developmentpostimagescodingivrpowers-videortc-features033jpeg"><img src="/postimages/coding/ivrpowers-videortc-features.033.jpeg" alt="development"></a>
+      <ul>
+        <li></li>
+      </ul>
+    </li>
+    <li><a href="#step-1-setting-up-the-basic-structure">Step 1: Setting up the basic structure</a></li>
+    <li><a href="#step-2-registering-users">Step 2: Registering users</a></li>
+    <li><a href="#step-3-how-to-accept-the-videocall">Step 3: How to accept the videocall</a></li>
+    <li><a href="#step-4-running-the-service-and-peers">Step 4: Running the service and peers&hellip;</a>
+      <ul>
+        <li><a href="#peer-1-tom-and-peer-2-jack">Peer 1 (Tom) and Peer 2 (Jack)</a></li>
+      </ul>
+    </li>
+  </ul>
 </nav>
     </div>
 </div>

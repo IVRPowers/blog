@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Blog</title>
@@ -6,30 +6,90 @@
     <description>Recent content in Categories on Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    
-	<atom:link href="https://blog.ivrpowers.com/categories/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Thu, 13 Jan 2022 12:00:00 +0200</lastBuildDate><atom:link href="https://blog.ivrpowers.com/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Coding</title>
-      <link>https://blog.ivrpowers.com/categories/coding/</link>
-      <pubDate>Thu, 16 Aug 2018 10:00:00 +0200</pubDate>
+      <title>updates</title>
+      <link>https://blog.ivrpowers.com/categories/updates/</link>
+      <pubDate>Thu, 13 Jan 2022 12:00:00 +0200</pubDate>
       
-      <guid>https://blog.ivrpowers.com/categories/coding/</guid>
+      <guid>https://blog.ivrpowers.com/categories/updates/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Contact Center</title>
-      <link>https://blog.ivrpowers.com/categories/contact-center/</link>
-      <pubDate>Tue, 28 Jan 2020 18:00:00 +0200</pubDate>
+      <title>news</title>
+      <link>https://blog.ivrpowers.com/categories/news/</link>
+      <pubDate>Sat, 01 Jan 2022 14:00:00 +0200</pubDate>
       
-      <guid>https://blog.ivrpowers.com/categories/contact-center/</guid>
+      <guid>https://blog.ivrpowers.com/categories/news/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Contactcenter</title>
+      <title>general</title>
+      <link>https://blog.ivrpowers.com/categories/general/</link>
+      <pubDate>Sat, 01 Jan 2022 12:00:00 +0200</pubDate>
+      
+      <guid>https://blog.ivrpowers.com/categories/general/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>technologies</title>
+      <link>https://blog.ivrpowers.com/categories/technologies/</link>
+      <pubDate>Mon, 06 Dec 2021 09:00:05 +0200</pubDate>
+      
+      <guid>https://blog.ivrpowers.com/categories/technologies/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>marketing</title>
+      <link>https://blog.ivrpowers.com/categories/marketing/</link>
+      <pubDate>Wed, 17 Nov 2021 00:12:00 +0200</pubDate>
+      
+      <guid>https://blog.ivrpowers.com/categories/marketing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>support</title>
+      <link>https://blog.ivrpowers.com/categories/support/</link>
+      <pubDate>Fri, 29 Oct 2021 12:00:00 +0200</pubDate>
+      
+      <guid>https://blog.ivrpowers.com/categories/support/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>trends</title>
+      <link>https://blog.ivrpowers.com/categories/trends/</link>
+      <pubDate>Sun, 24 Oct 2021 12:00:00 +0200</pubDate>
+      
+      <guid>https://blog.ivrpowers.com/categories/trends/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>products</title>
+      <link>https://blog.ivrpowers.com/categories/products/</link>
+      <pubDate>Sat, 06 Mar 2021 21:00:00 +0200</pubDate>
+      
+      <guid>https://blog.ivrpowers.com/categories/products/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>customerengagement</title>
+      <link>https://blog.ivrpowers.com/categories/customerengagement/</link>
+      <pubDate>Sat, 06 Mar 2021 11:00:00 +0200</pubDate>
+      
+      <guid>https://blog.ivrpowers.com/categories/customerengagement/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>contactcenter</title>
       <link>https://blog.ivrpowers.com/categories/contactcenter/</link>
       <pubDate>Sat, 02 Jan 2021 19:00:00 +0200</pubDate>
       
@@ -38,7 +98,7 @@
     </item>
     
     <item>
-      <title>Customer Engagement</title>
+      <title>customer engagement</title>
       <link>https://blog.ivrpowers.com/categories/customer-engagement/</link>
       <pubDate>Sun, 09 Feb 2020 18:00:00 +0200</pubDate>
       
@@ -47,11 +107,56 @@
     </item>
     
     <item>
-      <title>Customerengagement</title>
-      <link>https://blog.ivrpowers.com/categories/customerengagement/</link>
-      <pubDate>Sat, 06 Mar 2021 11:00:00 +0200</pubDate>
+      <title>contact center</title>
+      <link>https://blog.ivrpowers.com/categories/contact-center/</link>
+      <pubDate>Tue, 28 Jan 2020 18:00:00 +0200</pubDate>
       
-      <guid>https://blog.ivrpowers.com/categories/customerengagement/</guid>
+      <guid>https://blog.ivrpowers.com/categories/contact-center/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>coding</title>
+      <link>https://blog.ivrpowers.com/categories/coding/</link>
+      <pubDate>Thu, 16 Aug 2018 10:00:00 +0200</pubDate>
+      
+      <guid>https://blog.ivrpowers.com/categories/coding/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>industries</title>
+      <link>https://blog.ivrpowers.com/categories/industries/</link>
+      <pubDate>Wed, 10 Jan 2018 01:00:00 +0100</pubDate>
+      
+      <guid>https://blog.ivrpowers.com/categories/industries/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>healthcare</title>
+      <link>https://blog.ivrpowers.com/categories/healthcare/</link>
+      <pubDate>Thu, 23 Nov 2017 10:10:39 +0100</pubDate>
+      
+      <guid>https://blog.ivrpowers.com/categories/healthcare/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>socials</title>
+      <link>https://blog.ivrpowers.com/categories/socials/</link>
+      <pubDate>Mon, 14 Aug 2017 22:00:00 +0200</pubDate>
+      
+      <guid>https://blog.ivrpowers.com/categories/socials/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>financial</title>
+      <link>https://blog.ivrpowers.com/categories/financial/</link>
+      <pubDate>Fri, 30 Jun 2017 13:13:32 +0200</pubDate>
+      
+      <guid>https://blog.ivrpowers.com/categories/financial/</guid>
       <description></description>
     </item>
     
@@ -65,119 +170,11 @@
     </item>
     
     <item>
-      <title>Echnologies</title>
+      <title>echnologies</title>
       <link>https://blog.ivrpowers.com/categories/echnologies/</link>
       <pubDate>Mon, 12 Jun 2017 00:20:05 +0200</pubDate>
       
       <guid>https://blog.ivrpowers.com/categories/echnologies/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Financial</title>
-      <link>https://blog.ivrpowers.com/categories/financial/</link>
-      <pubDate>Fri, 30 Jun 2017 13:13:32 +0200</pubDate>
-      
-      <guid>https://blog.ivrpowers.com/categories/financial/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>General</title>
-      <link>https://blog.ivrpowers.com/categories/general/</link>
-      <pubDate>Mon, 12 Jun 2017 09:42:42 +0200</pubDate>
-      
-      <guid>https://blog.ivrpowers.com/categories/general/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Healthcare</title>
-      <link>https://blog.ivrpowers.com/categories/healthcare/</link>
-      <pubDate>Thu, 23 Nov 2017 10:10:39 +0100</pubDate>
-      
-      <guid>https://blog.ivrpowers.com/categories/healthcare/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Industries</title>
-      <link>https://blog.ivrpowers.com/categories/industries/</link>
-      <pubDate>Wed, 10 Jan 2018 01:00:00 +0100</pubDate>
-      
-      <guid>https://blog.ivrpowers.com/categories/industries/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Marketing</title>
-      <link>https://blog.ivrpowers.com/categories/marketing/</link>
-      <pubDate>Wed, 17 Nov 2021 00:12:00 +0200</pubDate>
-      
-      <guid>https://blog.ivrpowers.com/categories/marketing/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>News</title>
-      <link>https://blog.ivrpowers.com/categories/news/</link>
-      <pubDate>Sat, 01 Jan 2022 14:00:00 +0200</pubDate>
-      
-      <guid>https://blog.ivrpowers.com/categories/news/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Products</title>
-      <link>https://blog.ivrpowers.com/categories/products/</link>
-      <pubDate>Sat, 06 Mar 2021 21:00:00 +0200</pubDate>
-      
-      <guid>https://blog.ivrpowers.com/categories/products/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Socials</title>
-      <link>https://blog.ivrpowers.com/categories/socials/</link>
-      <pubDate>Mon, 14 Aug 2017 22:00:00 +0200</pubDate>
-      
-      <guid>https://blog.ivrpowers.com/categories/socials/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Support</title>
-      <link>https://blog.ivrpowers.com/categories/support/</link>
-      <pubDate>Fri, 29 Oct 2021 12:00:00 +0200</pubDate>
-      
-      <guid>https://blog.ivrpowers.com/categories/support/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Technologies</title>
-      <link>https://blog.ivrpowers.com/categories/technologies/</link>
-      <pubDate>Mon, 06 Dec 2021 09:00:05 +0200</pubDate>
-      
-      <guid>https://blog.ivrpowers.com/categories/technologies/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Trends</title>
-      <link>https://blog.ivrpowers.com/categories/trends/</link>
-      <pubDate>Sun, 24 Oct 2021 12:00:00 +0200</pubDate>
-      
-      <guid>https://blog.ivrpowers.com/categories/trends/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Updates</title>
-      <link>https://blog.ivrpowers.com/categories/updates/</link>
-      <pubDate>Mon, 19 Jul 2021 00:20:00 +0200</pubDate>
-      
-      <guid>https://blog.ivrpowers.com/categories/updates/</guid>
       <description></description>
     </item>
     

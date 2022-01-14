@@ -1,25 +1,21 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Announcement on Blog</title>
+    <title>announcement on Blog</title>
     <link>https://blog.ivrpowers.com/tags/announcement/</link>
-    <description>Recent content in Announcement on Blog</description>
+    <description>Recent content in announcement on Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 01 Jan 2022 14:00:00 +0200</lastBuildDate>
-    
-	<atom:link href="https://blog.ivrpowers.com/tags/announcement/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Sat, 01 Jan 2022 14:00:00 +0200</lastBuildDate><atom:link href="https://blog.ivrpowers.com/tags/announcement/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Upcoming Video RTC 5.0</title>
       <link>https://blog.ivrpowers.com/post/news/2022-01-rtc-upcoming-5/</link>
       <pubDate>Sat, 01 Jan 2022 14:00:00 +0200</pubDate>
       
       <guid>https://blog.ivrpowers.com/post/news/2022-01-rtc-upcoming-5/</guid>
-      <description>Photo Source: Interactive Powers. Creative Commons Empowered Omnichannel: Video is the new Voice. Follow our socials and blog; be ready to discover our major release update about Video Real-Time Communications. We will pleased to show you soon our 5th generation of our Video Gateway platforms.
+      <description>Photo Source: Interactive Powers. Creative Commons Empowered Omnichannel: Video is the new Voice.  Follow our socials and blog; be ready to discover our major release update about Video Real-Time Communications. We will pleased to show you soon our 5th generation of our Video Gateway platforms.
 Keep posted on January 2022!
-Interactive Powers - Streamline your business communications</description>
+ Interactive Powers - Streamline your business communications</description>
     </item>
     
     <item>
@@ -28,9 +24,9 @@ Interactive Powers - Streamline your business communications</description>
       <pubDate>Sat, 09 Feb 2019 14:00:00 +0200</pubDate>
       
       <guid>https://blog.ivrpowers.com/post/news/2019-02-rtc-upcoming-4/</guid>
-      <description>Photo Source: Interactive Powers. Creative Commons Innovate. Rebuild your customer interactions&amp;hellip; Follow our socials and blog; be ready to discover our major release update about Video Real-Time Communications. We will pleased to show you soon our 4th generation of our Video Gateway platforms.
+      <description>Photo Source: Interactive Powers. Creative Commons Innovate. Rebuild your customer interactions&amp;hellip;  Follow our socials and blog; be ready to discover our major release update about Video Real-Time Communications. We will pleased to show you soon our 4th generation of our Video Gateway platforms.
 Keep posted on February 2019!
-Interactive Powers - Streamline your business communications</description>
+ Interactive Powers - Streamline your business communications</description>
     </item>
     
     <item>
@@ -39,9 +35,9 @@ Interactive Powers - Streamline your business communications</description>
       <pubDate>Sat, 09 Feb 2019 10:00:00 +0200</pubDate>
       
       <guid>https://blog.ivrpowers.com/post/news/2019-02-ivr-upcoming-2/</guid>
-      <description>Photo Source: Interactive Powers. Creative Commons Sometimes, you have to reborn and change all&amp;hellip; Follow our socials and blog; be ready to discover our major release update since the born of Interactive Powers. Forget programming standards, IVR will become smart and conversational.
+      <description>Photo Source: Interactive Powers. Creative Commons Sometimes, you have to reborn and change all&amp;hellip;  Follow our socials and blog; be ready to discover our major release update since the born of Interactive Powers. Forget programming standards, IVR will become smart and conversational.
 Keep posted on February 2019!
-Interactive Powers - Streamline your business communications</description>
+ Interactive Powers - Streamline your business communications</description>
     </item>
     
   </channel>

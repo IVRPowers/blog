@@ -1,16 +1,12 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Iot on Blog</title>
+    <title>iot on Blog</title>
     <link>https://blog.ivrpowers.com/tags/iot/</link>
-    <description>Recent content in Iot on Blog</description>
+    <description>Recent content in iot on Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 24 Jul 2017 12:30:37 +0200</lastBuildDate>
-    
-	<atom:link href="https://blog.ivrpowers.com/tags/iot/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Mon, 24 Jul 2017 12:30:37 +0200</lastBuildDate><atom:link href="https://blog.ivrpowers.com/tags/iot/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>5 Trends Impacting Customer Experience</title>
       <link>https://blog.ivrpowers.com/post/trends/5-trends-customer-experience/</link>

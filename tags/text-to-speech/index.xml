@@ -1,16 +1,12 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Text to Speech on Blog</title>
+    <title>text-to-speech on Blog</title>
     <link>https://blog.ivrpowers.com/tags/text-to-speech/</link>
-    <description>Recent content in Text to Speech on Blog</description>
+    <description>Recent content in text-to-speech on Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 10 Apr 2018 09:30:00 +0100</lastBuildDate>
-    
-	<atom:link href="https://blog.ivrpowers.com/tags/text-to-speech/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Tue, 10 Apr 2018 09:30:00 +0100</lastBuildDate><atom:link href="https://blog.ivrpowers.com/tags/text-to-speech/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Google Text-to-Speech</title>
       <link>https://blog.ivrpowers.com/post/technologies/google-tts/</link>

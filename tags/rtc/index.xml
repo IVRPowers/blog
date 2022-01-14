@@ -1,15 +1,22 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Rtc on Blog</title>
+    <title>rtc on Blog</title>
     <link>https://blog.ivrpowers.com/tags/rtc/</link>
-    <description>Recent content in Rtc on Blog</description>
+    <description>Recent content in rtc on Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 01 Jan 2022 14:00:00 +0200</lastBuildDate>
-    
-	<atom:link href="https://blog.ivrpowers.com/tags/rtc/index.xml" rel="self" type="application/rss+xml" />
-    
+    <lastBuildDate>Thu, 13 Jan 2022 12:00:00 +0200</lastBuildDate><atom:link href="https://blog.ivrpowers.com/tags/rtc/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Video RTC (WebRTC) v5.0.0</title>
+      <link>https://blog.ivrpowers.com/post/updates/update-video-rtc-webrtc-5.0.0/</link>
+      <pubDate>Thu, 13 Jan 2022 12:00:00 +0200</pubDate>
+      
+      <guid>https://blog.ivrpowers.com/post/updates/update-video-rtc-webrtc-5.0.0/</guid>
+      <description>Release Note We are pleased to announce that our new Video RTC (Gateway WebRTC) v5.0.0 has been released for suitable production services. This new version includes a specific security fix for data channel recommendations. All users with previous maintained versions can upgrade today. Please contact our support!
+ChangeLog Version 5.0.0:
+## [5.0.0] - 2022-01-12 ### Added - New configuration params to the Tester usecase: autoStart, autoTroubleshoot and showRedirectBtnOnlyIfTestOk - Added a way for the Tester to know which checks are necessary to display the Next button - Advice feature to the SPLIT Agent usecase - Possibility in the Webclient to differentiate when a call in queue or on hold - Possibility to download chat history from the SPLIT Agent usecase - Flip Camera action on both the Videocall and RemoteViewer usecases - Possibility to configure webpage title and favicon by theme - Possibility to setup RemoteViewer without ScreenSharing or Audio - Option to configure an endpoint to send snapshots via URL request from the SplitAgent - Added a way to apply different CSS rules depending on the theme name - Webclient can now be configured in escalating mode ### Changed - OS System required has gone up to Debian 11 - New structure of the web resources after a build - Added camera check before starting SplitAgent plus moved auto recording trigger from onAcceptedVideo to onJoined event ### Updated - Updated VideoRTC.</description>
+    </item>
     
     <item>
       <title>Upcoming Video RTC 5.0</title>
@@ -17,9 +24,9 @@
       <pubDate>Sat, 01 Jan 2022 14:00:00 +0200</pubDate>
       
       <guid>https://blog.ivrpowers.com/post/news/2022-01-rtc-upcoming-5/</guid>
-      <description>Photo Source: Interactive Powers. Creative Commons Empowered Omnichannel: Video is the new Voice. Follow our socials and blog; be ready to discover our major release update about Video Real-Time Communications. We will pleased to show you soon our 5th generation of our Video Gateway platforms.
+      <description>Photo Source: Interactive Powers. Creative Commons Empowered Omnichannel: Video is the new Voice.  Follow our socials and blog; be ready to discover our major release update about Video Real-Time Communications. We will pleased to show you soon our 5th generation of our Video Gateway platforms.
 Keep posted on January 2022!
-Interactive Powers - Streamline your business communications</description>
+ Interactive Powers - Streamline your business communications</description>
     </item>
     
     <item>
@@ -28,7 +35,7 @@ Interactive Powers - Streamline your business communications</description>
       <pubDate>Wed, 17 Nov 2021 00:12:00 +0200</pubDate>
       
       <guid>https://blog.ivrpowers.com/post/marketing/the-evolution-of-business-communications/</guid>
-      <description>Photo source: Interactive Powers. Leading companies have a wholeness approach about how to communicate better with customers across their processes. Communicate is a top priority for businesses today — but how can you quantify its value to your organization? That’s especially important in these times, with businesses managing the economic impact and uncertainty of disruptive events, and how this will impact both their customers and employees going forward. The History of Business Communications is, of course, closely linked with the histories of Communications itself and that of Business Operations.</description>
+      <description>Photo source: Interactive Powers. Leading companies have a wholeness approach about how to communicate better with customers across their processes.  Communicate is a top priority for businesses today — but how can you quantify its value to your organization? That’s especially important in these times, with businesses managing the economic impact and uncertainty of disruptive events, and how this will impact both their customers and employees going forward. The History of Business Communications is, of course, closely linked with the histories of Communications itself and that of Business Operations.</description>
     </item>
     
     <item>
@@ -37,7 +44,7 @@ Interactive Powers - Streamline your business communications</description>
       <pubDate>Sat, 30 Oct 2021 00:12:30 +0200</pubDate>
       
       <guid>https://blog.ivrpowers.com/post/marketing/web-dialer-click-to-call-reloaded-copy/</guid>
-      <description>Photo source: Interactive Powers. Make calls from any Web Browser. From now, phone numbers are no longer required. In today’s increasingly digital world, customers have come to favor online service options available from the convenience of their screen. From chatbots and self-service features to digitally connecting to a live agent with a simple button click, companies aim to deliver a digital customer experience that is personal, seamless, quick, and efficient.</description>
+      <description>Photo source: Interactive Powers. Make calls from any Web Browser. From now, phone numbers are no longer required.  In today’s increasingly digital world, customers have come to favor online service options available from the convenience of their screen. From chatbots and self-service features to digitally connecting to a live agent with a simple button click, companies aim to deliver a digital customer experience that is personal, seamless, quick, and efficient.</description>
     </item>
     
     <item>
@@ -55,7 +62,7 @@ Interactive Powers - Streamline your business communications</description>
       <pubDate>Thu, 06 May 2021 20:20:00 +0200</pubDate>
       
       <guid>https://blog.ivrpowers.com/post/technologies/screen-resolution/</guid>
-      <description>Deploying High Quality and fully Bandwidth adaptative Video Communications Services Resolution is the number of pixels on a specific screen. A single pixel, the smallest unit to measure the video resolutions, is a tiny dot on the screen often no visible individually to the naken human eye. The more the number of pixels, the higher the sharpness of the video streaming.
+      <description>Deploying High Quality and fully Bandwidth adaptative Video Communications Services  Resolution is the number of pixels on a specific screen. A single pixel, the smallest unit to measure the video resolutions, is a tiny dot on the screen often no visible individually to the naken human eye. The more the number of pixels, the higher the sharpness of the video streaming.
 Resolution Settings Video RTC gateways manage the following resolution modes:</description>
     </item>
     
@@ -65,7 +72,7 @@ Resolution Settings Video RTC gateways manage the following resolution modes:</d
       <pubDate>Sat, 06 Mar 2021 11:00:00 +0200</pubDate>
       
       <guid>https://blog.ivrpowers.com/post/customerengagement/video-calls-with-online-payment/</guid>
-      <description>Photo source: Interactive Powers. Creative Commons Empowering Virgo Solutions with your Business PayPal Account integration. Virgo Healthcare or Virgo Business solutions enables to connect your own PayPal Account and get Online Payments for your scheduled video calls. This feature is optional and is designed to quickly get a credit card payment from your clients or patients for a video communications.
+      <description>Photo source: Interactive Powers. Creative Commons Empowering Virgo Solutions with your Business PayPal Account integration.  Virgo Healthcare or Virgo Business solutions enables to connect your own PayPal Account and get Online Payments for your scheduled video calls. This feature is optional and is designed to quickly get a credit card payment from your clients or patients for a video communications.
 PayPal Integration Requirements. This Virgo feature works with your own Business PayPal Account, all transactions will directly processed to your account.</description>
     </item>
     
@@ -97,7 +104,7 @@ ChangeLog Version 4.3.0:
       <pubDate>Fri, 29 Jan 2021 13:09:34 +0200</pubDate>
       
       <guid>https://blog.ivrpowers.com/post/news/webrtc-v10/</guid>
-      <description>Image source: Interactive Powers&amp;rsquo; elaboration WebRTC enables rich, interactive, live voice and video communications anywhere on the Web, boosting global interconnection. https://www.w3.org/ and https://www.ietf.org/ — 26 January 2021. Web Real-Time Communications (WebRTC) transforms the communications landscape; becomes a World Wide Web Consortium (W3C) Recommendation and multiple Internet Engineering Task Force (IETF) standards.
+      <description>Image source: Interactive Powers&#39; elaboration WebRTC enables rich, interactive, live voice and video communications anywhere on the Web, boosting global interconnection.  https://www.w3.org/ and https://www.ietf.org/ — 26 January 2021. Web Real-Time Communications (WebRTC) transforms the communications landscape; becomes a World Wide Web Consortium (W3C) Recommendation and multiple Internet Engineering Task Force (IETF) standards.
  Read more at W3C: https://www.w3.org/2021/01/pressrelease-webrtc-rec.html Read more at ITFE: https://www.ietf.org/blog/webrtc-standardized/  Interactive Powers platforms are powered by WebRTC since more than five years to massively deploy communications services, video calls for contact centers and web collaboration systems across all major desktop and mobile browsers!</description>
     </item>
     
@@ -118,7 +125,7 @@ ChangeLog Version 4.3.0:
       <pubDate>Mon, 28 Dec 2020 00:00:00 +0200</pubDate>
       
       <guid>https://blog.ivrpowers.com/post/products/video-rtc-flip-camera/</guid>
-      <description>Photo source: Interactive Powers Switching all cameras during any video call for your services on Video RTC We are pleased to announce a new feature called Flip Camera ready for all Video RTC widgets that enables switch to next available camera inside your device. In case you’re using a smartphone or tablet, this feature switch from front to back camera. In desktop web browsers, this feature will change to the next camera until you make a complete loop.</description>
+      <description>Photo source: Interactive Powers Switching all cameras during any video call for your services on Video RTC  We are pleased to announce a new feature called Flip Camera ready for all Video RTC widgets that enables switch to next available camera inside your device. In case you’re using a smartphone or tablet, this feature switch from front to back camera. In desktop web browsers, this feature will change to the next camera until you make a complete loop.</description>
     </item>
     
     <item>
@@ -127,7 +134,7 @@ ChangeLog Version 4.3.0:
       <pubDate>Sun, 27 Dec 2020 12:00:00 +0200</pubDate>
       
       <guid>https://blog.ivrpowers.com/post/products/video-rtc-blackground-blur/</guid>
-      <description>Photo source: Interactive Powers Defocusing agents background without any plugin. We are pleased to announce Background Blur powered by JS inside your web browser for all Video RTC agents without any plugin or software installation. This new feature is now available for projects under special conditions according to your web browser performance and devices deployed in the agent side.
+      <description>Photo source: Interactive Powers Defocusing agents background without any plugin.  We are pleased to announce Background Blur powered by JS inside your web browser for all Video RTC agents without any plugin or software installation. This new feature is now available for projects under special conditions according to your web browser performance and devices deployed in the agent side.
 Unretouched Screenshots:
 System Requirements. This feature do now require specific hardware and run real-time video processing on the top of WebRTC, we recommend to use it only on desktop web browsers with enough CPU/RAM.</description>
     </item>
@@ -138,7 +145,7 @@ System Requirements. This feature do now require specific hardware and run real-
       <pubDate>Sun, 27 Dec 2020 09:00:00 +0200</pubDate>
       
       <guid>https://blog.ivrpowers.com/post/products/video-rtc-geolocation/</guid>
-      <description>Photo source: Interactive Powers Enable user geolocation detection for your business communications and video calls Knowing where your video callers location is a useful feature, that can help you provide a better support or customer service. For instance, you can show them results that are tailored to their location or display their location on the map or convert latitude/longitude to a street address.
+      <description>Photo source: Interactive Powers Enable user geolocation detection for your business communications and video calls  Knowing where your video callers location is a useful feature, that can help you provide a better support or customer service. For instance, you can show them results that are tailored to their location or display their location on the map or convert latitude/longitude to a street address.
 What is IP geolocation? IP geolocation is the mapping of an IP address to the geographic location of the internet from the connected device.</description>
     </item>
     
@@ -148,7 +155,7 @@ What is IP geolocation? IP geolocation is the mapping of an IP address to the ge
       <pubDate>Sat, 19 Dec 2020 20:20:00 +0200</pubDate>
       
       <guid>https://blog.ivrpowers.com/post/technologies/video-rtc-widgets-update/</guid>
-      <description>Deploy full web responsive widgets with a single script or URL in your website or apps. Today we are excited to announce that we are open sourcing a new Widget for Video RTC to handle incoming or outgoing video calls and prompt users for input, record calls, connect callers to agents, and more.
+      <description>Deploy full web responsive widgets with a single script or URL in your website or apps.  Today we are excited to announce that we are open sourcing a new Widget for Video RTC to handle incoming or outgoing video calls and prompt users for input, record calls, connect callers to agents, and more.
 Main features:
  FAB Button enabled Flip Camera (new) Mute Camera Mute Audio Live Chat File Sharing Dual / Single Screen Sharing Snapshot (optional) Overprint Logo  More options:</description>
     </item>
@@ -159,7 +166,7 @@ Main features:
       <pubDate>Thu, 10 Dec 2020 16:00:00 +0200</pubDate>
       
       <guid>https://blog.ivrpowers.com/post/products/virgo-stats/</guid>
-      <description>Photo source: Interactive Powers Getting key analytics to follow Virgo Solution data usage: Emails, SMS, Calls&amp;hellip; Interactive Powers has released a new update for Virgo Business and Virgo Healthcare in response to the overwhelming increase virtual interactions sparked by the global pandemic. Now, administrators can check stats and export main account usage data.
+      <description>Photo source: Interactive Powers Getting key analytics to follow Virgo Solution data usage: Emails, SMS, Calls&amp;hellip;  Interactive Powers has released a new update for Virgo Business and Virgo Healthcare in response to the overwhelming increase virtual interactions sparked by the global pandemic. Now, administrators can check stats and export main account usage data.
 Virgo Solutions are the simplest, accessible and secure scheduled video calling solution that offers easy and immediate coverage of a telework process, including collaboration and virtual attention optimizing the user experience of any business visit.</description>
     </item>
     
@@ -169,7 +176,7 @@ Virgo Solutions are the simplest, accessible and secure scheduled video calling 
       <pubDate>Mon, 23 Nov 2020 00:21:30 +0200</pubDate>
       
       <guid>https://blog.ivrpowers.com/post/marketing/taking-customer-experience-to-the-next-level/</guid>
-      <description>Photo source: Freepik Creative Commons. Businesses require to improve CX in a new way. Video has never been so relevant for all of us. Interactive Powers helps businesses bring their human-to-human interactions to the digital world with scalable, flexible and secure video communications. Video RTC with SPLIT technology is a key differentiator for any ACD (Automatic Call Distribuitor) to deliver the best possible voice &amp;amp; video experience with the lowest latency in a Contact Center.</description>
+      <description>Photo source: Freepik Creative Commons. Businesses require to improve CX in a new way. Video has never been so relevant for all of us.  Interactive Powers helps businesses bring their human-to-human interactions to the digital world with scalable, flexible and secure video communications. Video RTC with SPLIT technology is a key differentiator for any ACD (Automatic Call Distribuitor) to deliver the best possible voice &amp;amp; video experience with the lowest latency in a Contact Center.</description>
     </item>
     
     <item>
@@ -187,7 +194,7 @@ Virgo Solutions are the simplest, accessible and secure scheduled video calling 
       <pubDate>Mon, 16 Nov 2020 00:20:30 +0200</pubDate>
       
       <guid>https://blog.ivrpowers.com/post/marketing/video-channels-for-your-business/</guid>
-      <description>Photo source: Freepik Creative Commons. Build consistent, effective, personalized engagements across Video channels with Voice, Video, Live Chat, File Sharing, Screen Sharing, Co-browsing…. The most successful enterprises are defined by their ability to communicate. Today that means meeting consumers where they hangout – online, on multiple platforms like: Skype, FaceTime, WhatsApp, Telegram, Zoom, Microsoft Teams…
+      <description>Photo source: Freepik Creative Commons. Build consistent, effective, personalized engagements across Video channels with Voice, Video, Live Chat, File Sharing, Screen Sharing, Co-browsing….  The most successful enterprises are defined by their ability to communicate. Today that means meeting consumers where they hangout – online, on multiple platforms like: Skype, FaceTime, WhatsApp, Telegram, Zoom, Microsoft Teams…
 There’s no doubt that the name of the game today when we speak of Omnichannel Customer Experience is convenience.</description>
     </item>
     
@@ -197,7 +204,7 @@ There’s no doubt that the name of the game today when we speak of Omnichannel 
       <pubDate>Fri, 06 Nov 2020 00:20:30 +0200</pubDate>
       
       <guid>https://blog.ivrpowers.com/post/marketing/scheduled-video-calling/</guid>
-      <description>Photo source: Interactive Powers Creative Commons. Scheduled Video Calls that enable the fastest face-to-face commmunication for a Remote Workforce. Imagine all your workforce requires to work from home or from anywhere, imagine you can&amp;rsquo;t connect all of them in unique real-time attention but they require to collaborate everyday each others to support your products and services. At Interactive Powers, we understand that kind of peer-to-peer (P2P) video calls are not just video meetings but something more specific between a call and a video room: we call this kind of interaction, Scheduled Video Calling.</description>
+      <description>Photo source: Interactive Powers Creative Commons. Scheduled Video Calls that enable the fastest face-to-face commmunication for a Remote Workforce.  Imagine all your workforce requires to work from home or from anywhere, imagine you can&amp;rsquo;t connect all of them in unique real-time attention but they require to collaborate everyday each others to support your products and services. At Interactive Powers, we understand that kind of peer-to-peer (P2P) video calls are not just video meetings but something more specific between a call and a video room: we call this kind of interaction, Scheduled Video Calling.</description>
     </item>
     
     <item>
@@ -206,7 +213,7 @@ There’s no doubt that the name of the game today when we speak of Omnichannel 
       <pubDate>Thu, 05 Nov 2020 00:21:00 +0200</pubDate>
       
       <guid>https://blog.ivrpowers.com/post/marketing/live-streaming-event-with-video-call-queueing/</guid>
-      <description>Photo source: Interactive Powers Creative Commons. Create a Live Streaming event and face-to-face connect your audiance to your sales team. Live Streaming can be the perfect engaging virtual event for your brand to attract a high number of viewers simulteanously. This is really great power of real-time but you can also do much more with your remote workforce team, if they can join any of this visitors at this big moment.</description>
+      <description>Photo source: Interactive Powers Creative Commons. Create a Live Streaming event and face-to-face connect your audiance to your sales team.  Live Streaming can be the perfect engaging virtual event for your brand to attract a high number of viewers simulteanously. This is really great power of real-time but you can also do much more with your remote workforce team, if they can join any of this visitors at this big moment.</description>
     </item>
     
     <item>
@@ -215,7 +222,7 @@ There’s no doubt that the name of the game today when we speak of Omnichannel 
       <pubDate>Thu, 05 Nov 2020 00:20:30 +0200</pubDate>
       
       <guid>https://blog.ivrpowers.com/post/marketing/landing-web-page-with-video-call-queueing/</guid>
-      <description>Photo source: Interactive Powers Creative Commons. Enable your landing page or website visitors to join video agents in just one-click. Landing pages or Business Website receive visits from your customers at anytime, you should improve your customer support connecting one-to-one at this moment. A Chatbot, Form, Email is required but it could be not enough to engage a customer with your product or brand. Adding a Video Call Queueing enables that any customer can react and talk face-to-face with one of the sales agents at this moment.</description>
+      <description>Photo source: Interactive Powers Creative Commons. Enable your landing page or website visitors to join video agents in just one-click.  Landing pages or Business Website receive visits from your customers at anytime, you should improve your customer support connecting one-to-one at this moment. A Chatbot, Form, Email is required but it could be not enough to engage a customer with your product or brand. Adding a Video Call Queueing enables that any customer can react and talk face-to-face with one of the sales agents at this moment.</description>
     </item>
     
     <item>
@@ -224,7 +231,7 @@ There’s no doubt that the name of the game today when we speak of Omnichannel 
       <pubDate>Sun, 01 Nov 2020 19:30:00 +0200</pubDate>
       
       <guid>https://blog.ivrpowers.com/post/products/video-rtc-call-transfer/</guid>
-      <description>Photo source: Interactive Powers Video RTC enables to transfer any video call by simply dialing the extension of a queue or agent. Video Call Transferring, or Video Call forwarding, is a process of relocating an inbound video call to another agent. Video Call Transfer is very useful for video agents and internally for contact center teams. Video agents use call transferring to instantly route incoming calls throughout the Contact Center or Organization.</description>
+      <description>Photo source: Interactive Powers Video RTC enables to transfer any video call by simply dialing the extension of a queue or agent.  Video Call Transferring, or Video Call forwarding, is a process of relocating an inbound video call to another agent. Video Call Transfer is very useful for video agents and internally for contact center teams. Video agents use call transferring to instantly route incoming calls throughout the Contact Center or Organization.</description>
     </item>
     
     <item>
@@ -233,7 +240,7 @@ There’s no doubt that the name of the game today when we speak of Omnichannel 
       <pubDate>Sun, 25 Oct 2020 20:20:00 +0200</pubDate>
       
       <guid>https://blog.ivrpowers.com/post/technologies/background-image/</guid>
-      <description>Allows you o display an image as your background during your business video calls. Improve your sales or business video calls replacing your background by a nice picture removes all your surroundings so people can&amp;rsquo;t see the details of what&amp;rsquo;s going on behind you.
+      <description>Allows you o display an image as your background during your business video calls.  Improve your sales or business video calls replacing your background by a nice picture removes all your surroundings so people can&amp;rsquo;t see the details of what&amp;rsquo;s going on behind you.
 Limit distractions and maintain privacy in your current surroundings by using a virtual background. You can change your background, or add a background image during your video call sessions.</description>
     </item>
     
@@ -243,7 +250,7 @@ Limit distractions and maintain privacy in your current surroundings by using a 
       <pubDate>Sun, 25 Oct 2020 00:20:00 +0200</pubDate>
       
       <guid>https://blog.ivrpowers.com/post/marketing/video-call-switching-to-mobile-device/</guid>
-      <description>Photo source: Interactive Powers Creative Commons. Flip your frontend webcam stream to a mobile device in order move arround during a Video Call without hangup. Specific support or sales interaction could require agents or sales representative to move around a showroom during a video call using their smartphone without hangup.
+      <description>Photo source: Interactive Powers Creative Commons. Flip your frontend webcam stream to a mobile device in order move arround during a Video Call without hangup.  Specific support or sales interaction could require agents or sales representative to move around a showroom during a video call using their smartphone without hangup.
 We recommend to consider this agent side option in SPLIT that enable to switch easily to their mobile device using our QR code in screen.</description>
     </item>
     
@@ -253,7 +260,7 @@ We recommend to consider this agent side option in SPLIT that enable to switch e
       <pubDate>Sun, 25 Oct 2020 00:18:00 +0200</pubDate>
       
       <guid>https://blog.ivrpowers.com/post/marketing/scan-to-videocall-with-qr-code/</guid>
-      <description>Photo source: Interactive Powers Creative Commons. Make better and safe local point of sales with Scan-to-Videocall in order to improve social distance and get face-to-face sales online support. You want your customers to directly video call your contact center using their smartphone without any mobile app, registration, pluging or download.
+      <description>Photo source: Interactive Powers Creative Commons. Make better and safe local point of sales with Scan-to-Videocall in order to improve social distance and get face-to-face sales online support.  You want your customers to directly video call your contact center using their smartphone without any mobile app, registration, pluging or download.
 This Video RTC feature is very interesting to connect easily existing local services with a remote sales force team that will provide safe face-to-face support to users or customers.</description>
     </item>
     
@@ -263,7 +270,7 @@ This Video RTC feature is very interesting to connect easily existing local serv
       <pubDate>Mon, 21 Sep 2020 16:20:00 +0200</pubDate>
       
       <guid>https://blog.ivrpowers.com/post/technologies/background-blur/</guid>
-      <description>Allows you to blur the background during your business video calls. Improve your sales or business video calls blurring your background makes your surroundings appear out of focus so people can&amp;rsquo;t see the details of what&amp;rsquo;s going on behind you.
+      <description>Allows you to blur the background during your business video calls.  Improve your sales or business video calls blurring your background makes your surroundings appear out of focus so people can&amp;rsquo;t see the details of what&amp;rsquo;s going on behind you.
 Limit distractions and maintain privacy in your current surroundings by using a virtual background. You can blur your background during your meeting, event, or training session.
 Unretouched Screenshots:
 Need to add it right now?</description>
@@ -275,7 +282,7 @@ Need to add it right now?</description>
       <pubDate>Sat, 29 Aug 2020 09:00:00 +0200</pubDate>
       
       <guid>https://blog.ivrpowers.com/post/products/video-rtc-tester/</guid>
-      <description>Photo source: Unsplash Add a Four Steps Tester for your Video RTC services to improve Customer Experience and QoS. Most users are not aware about their communications and hardware conditions to make video calls over an Internet access. If you don&amp;rsquo;t take care about this, some of them will be disappointed of been rejected by technical issues. In order to improve your Customer Journey and Experience, add a simple testing four steps process in front of your Video RTC communications services.</description>
+      <description>Photo source: Unsplash Add a Four Steps Tester for your Video RTC services to improve Customer Experience and QoS.  Most users are not aware about their communications and hardware conditions to make video calls over an Internet access. If you don&amp;rsquo;t take care about this, some of them will be disappointed of been rejected by technical issues. In order to improve your Customer Journey and Experience, add a simple testing four steps process in front of your Video RTC communications services.</description>
     </item>
     
     <item>
@@ -295,7 +302,7 @@ ChangeLog Version 4.2.1:
       <pubDate>Wed, 12 Aug 2020 18:00:00 +0100</pubDate>
       
       <guid>https://blog.ivrpowers.com/post/technologies/pin-access/</guid>
-      <description>Image source: Interactive Powers Connect easily any real-time session from any device or browser with a PIN code. If you wish to utilize Video RTC / Solutions as part of your support efforts, a custom PIN access, where your customers can enter a unique pin code to connect with an agent is another way to start co-browsing, screen sharing or voice &amp;amp; video calling. You only have to redirects your customers to a landing page like our new one: https://pwrs.</description>
+      <description>Image source: Interactive Powers Connect easily any real-time session from any device or browser with a PIN code.  If you wish to utilize Video RTC / Solutions as part of your support efforts, a custom PIN access, where your customers can enter a unique pin code to connect with an agent is another way to start co-browsing, screen sharing or voice &amp;amp; video calling. You only have to redirects your customers to a landing page like our new one: https://pwrs.</description>
     </item>
     
     <item>
@@ -304,7 +311,7 @@ ChangeLog Version 4.2.1:
       <pubDate>Sun, 26 Jul 2020 09:00:00 +0200</pubDate>
       
       <guid>https://blog.ivrpowers.com/post/products/cobrowsing/</guid>
-      <description>Photo source: Interactive Powers Creative Commons Securely share and browse in your web pages simultaneously with your customers. The Cobrowsing humanises the online sales and support experience, enabling your contact center agents to interact with your customers and assist them via a shared browser. Thanks to the use of the Cobrowsing, the communication becomes far more natural, effective, and efficient, bringing the customer-agent exchange closer to that of an in-store, in-person interaction.</description>
+      <description>Photo source: Interactive Powers Creative Commons Securely share and browse in your web pages simultaneously with your customers.  The Cobrowsing humanises the online sales and support experience, enabling your contact center agents to interact with your customers and assist them via a shared browser. Thanks to the use of the Cobrowsing, the communication becomes far more natural, effective, and efficient, bringing the customer-agent exchange closer to that of an in-store, in-person interaction.</description>
     </item>
     
     <item>
@@ -313,7 +320,7 @@ ChangeLog Version 4.2.1:
       <pubDate>Sun, 19 Jul 2020 21:00:00 +0200</pubDate>
       
       <guid>https://blog.ivrpowers.com/post/customerengagement/video-calls-scheduled-vs-queued/</guid>
-      <description>Photo source: Interactive Powers. Creative Commons Why most companies have to change their mind about Video Calls productivity and integration? Existing “Video Meeting” solutions are used by most people for teleworking, remote business meeting or friends &amp;amp; family conversations (Zoom, Teams, LifeSize, Google Meet…). All these products are design to build conversations with a scheduled approach one-to-many or one-to-one. Companies that provide support to many customers do not work like this most of the time, they have to react in real-time to a massive inbound and outbound customers requests.</description>
+      <description>Photo source: Interactive Powers. Creative Commons Why most companies have to change their mind about Video Calls productivity and integration?  Existing “Video Meeting” solutions are used by most people for teleworking, remote business meeting or friends &amp;amp; family conversations (Zoom, Teams, LifeSize, Google Meet…). All these products are design to build conversations with a scheduled approach one-to-many or one-to-one. Companies that provide support to many customers do not work like this most of the time, they have to react in real-time to a massive inbound and outbound customers requests.</description>
     </item>
     
     <item>
@@ -322,7 +329,7 @@ ChangeLog Version 4.2.1:
       <pubDate>Sun, 19 Jul 2020 11:00:00 +0200</pubDate>
       
       <guid>https://blog.ivrpowers.com/post/customerengagement/video-calls-scheduled-vs-team-view/</guid>
-      <description>Photo source: Interactive Powers. Creative Commons Why most companies have to change their mind about Video Calls productivity and integration? Most “Video Meeting” solutions (Zoom, Teams, LifeSize, Google Meet…) used for teleworking, remote business meetings, doctor visits or friends &amp;amp; family conversations are based on scheduled invitation for specific users. A scheduled approach can be one-to-many or one-to-one when you are sending an invite to connect. In real-time processes, you will need to manage quickly the following inbound videocall in real-time.</description>
+      <description>Photo source: Interactive Powers. Creative Commons Why most companies have to change their mind about Video Calls productivity and integration?  Most “Video Meeting” solutions (Zoom, Teams, LifeSize, Google Meet…) used for teleworking, remote business meetings, doctor visits or friends &amp;amp; family conversations are based on scheduled invitation for specific users. A scheduled approach can be one-to-many or one-to-one when you are sending an invite to connect. In real-time processes, you will need to manage quickly the following inbound videocall in real-time.</description>
     </item>
     
     <item>
@@ -331,7 +338,7 @@ ChangeLog Version 4.2.1:
       <pubDate>Sun, 19 Jul 2020 00:18:00 +0200</pubDate>
       
       <guid>https://blog.ivrpowers.com/post/marketing/video-rtc-solutions-ecosystem/</guid>
-      <description>Photo source: Interactive Powers Creative Commons. Extending and empowering your business with Video Interactions out of the Contact Center. The adoption of video communications continues to expand globally. As more businesses are using video to connect with their users or customers remotely and realizing the importance of improving their customer experience, it is more critical than ever for video interactions to be as simple as possible. This is why more and more teams today are choosing our solutions so that callers do not need to download or install any application to connect instantaneously.</description>
+      <description>Photo source: Interactive Powers Creative Commons. Extending and empowering your business with Video Interactions out of the Contact Center.  The adoption of video communications continues to expand globally. As more businesses are using video to connect with their users or customers remotely and realizing the importance of improving their customer experience, it is more critical than ever for video interactions to be as simple as possible. This is why more and more teams today are choosing our solutions so that callers do not need to download or install any application to connect instantaneously.</description>
     </item>
     
     <item>
@@ -340,7 +347,7 @@ ChangeLog Version 4.2.1:
       <pubDate>Fri, 03 Jul 2020 00:18:00 +0200</pubDate>
       
       <guid>https://blog.ivrpowers.com/post/marketing/video-calling-on-queue/</guid>
-      <description>Photo source: Interactive Powers edited. Video Calling has to be &amp;ldquo;On Queue&amp;rdquo; to reach the highest effectivity and productivity to ensure the best Customer Experience and ROI. Video RTC for Genesys a unique complementary solutions for Contact Center that allow to handle Video Calling “On Queue” for your Contact Center thanks to SPLIT Forward / SPLIT Reverse a convergent WebRTC / SIP communications integration. Most existing Video powered addons are only working “Off Queue” because these products do not control any ACD event during all digital interactions and obviously cannot manage both inbound / outbound phone calls and video calls.</description>
+      <description>Photo source: Interactive Powers edited. Video Calling has to be &amp;ldquo;On Queue&amp;rdquo; to reach the highest effectivity and productivity to ensure the best Customer Experience and ROI.  Video RTC for Genesys a unique complementary solutions for Contact Center that allow to handle Video Calling “On Queue” for your Contact Center thanks to SPLIT Forward / SPLIT Reverse a convergent WebRTC / SIP communications integration. Most existing Video powered addons are only working “Off Queue” because these products do not control any ACD event during all digital interactions and obviously cannot manage both inbound / outbound phone calls and video calls.</description>
     </item>
     
     <item>
@@ -349,7 +356,7 @@ ChangeLog Version 4.2.1:
       <pubDate>Sat, 20 Jun 2020 16:00:00 +0200</pubDate>
       
       <guid>https://blog.ivrpowers.com/post/products/virgo-business/</guid>
-      <description>Photo source: Creative Commons Video calling has become a major part of the new normal. Simplicity and Speed too. Interactive Powers has released Virgo Business in response to the overwhelming increase virtual interactions sparked by the COVID-19 global pandemic. The simplest, accessible and secure video calling solution offers easy and immediate coverage of a telework process, including collaboration and virtual attention optimizing the user experience of any business visit.</description>
+      <description>Photo source: Creative Commons Video calling has become a major part of the new normal. Simplicity and Speed too.  Interactive Powers has released Virgo Business in response to the overwhelming increase virtual interactions sparked by the COVID-19 global pandemic. The simplest, accessible and secure video calling solution offers easy and immediate coverage of a telework process, including collaboration and virtual attention optimizing the user experience of any business visit.</description>
     </item>
     
     <item>
@@ -358,7 +365,7 @@ ChangeLog Version 4.2.1:
       <pubDate>Sat, 16 May 2020 15:00:00 +0200</pubDate>
       
       <guid>https://blog.ivrpowers.com/post/products/virgo-healthcare/</guid>
-      <description>Photo source: Creative Commons Times and habits have changed. Health and Safety are first. Simplicity and Speed too. Interactive Powers has released Virgo Healthcare solution in response to the overwhelming increase virtual visits sparked by the COVID-19 global pandemic. The simplest, accessible and secure Telehealth solution offers easy and immediate coverage of the consultation process, including collaboration and virtual attention optimizing the patient experience of the visit.
+      <description>Photo source: Creative Commons Times and habits have changed. Health and Safety are first. Simplicity and Speed too.  Interactive Powers has released Virgo Healthcare solution in response to the overwhelming increase virtual visits sparked by the COVID-19 global pandemic. The simplest, accessible and secure Telehealth solution offers easy and immediate coverage of the consultation process, including collaboration and virtual attention optimizing the patient experience of the visit.
 Powered by Video RTC (WebRTC) - Interactive Powers</description>
     </item>
     
@@ -381,7 +388,7 @@ ChangeLog Version 3.3.0:
       <guid>https://blog.ivrpowers.com/post/updates/update-video-rtc-webrtc-4.2.0/</guid>
       <description>Release Note We are pleased to announce that our new Video RTC (Gateway WebRTC) v4.2.0 has been released for suitable production services. This new version includes specific improvements and new features. All users with previous maintained versions can upgrade today. Please contact our support!
 ChangeLog Version 4.2.0:
-## [4.2.0] - 2020-03-25 ### Added - Enabled ScreenSharing in the WebClient for Chrome and Opera browsers - Added possibility to send links via chat - Added SPLIT reverse feature in the SPLIT Agent usecase - Added possibility to configure the autoclose option in &#39;forced&#39; mode for SPLIT usecases - Added a new URL parameter called `from` on the Webclient and Escalating usecases - Added a new theme parameter `resolution` in all usecases where video is used ### Updated - Updated VideoRTC.</description>
+## [4.2.0] - 2020-03-25 ### Added - Enabled ScreenSharing in the WebClient for Chrome and Opera browsers - Added possibility to send links via chat - Added SPLIT reverse feature in the SPLIT Agent usecase - Added possibility to configure the autoclose option in &amp;#39;forced&amp;#39; mode for SPLIT usecases - Added a new URL parameter called `from` on the Webclient and Escalating usecases - Added a new theme parameter `resolution` in all usecases where video is used ### Updated - Updated VideoRTC.</description>
     </item>
     
     <item>
@@ -401,7 +408,7 @@ ChangeLog Version 4.1.1:
       <pubDate>Tue, 04 Feb 2020 20:00:00 +0200</pubDate>
       
       <guid>https://blog.ivrpowers.com/post/technologies/how-to-add-video-channel-to-existing-contact-center/</guid>
-      <description>Transform your existing call center into a more engaging, customizable, and interactive solution with video calls. In today’s competitive market, companies need call center software to connect in real-time cross web browsers and mobile devices. Adding advanced video interactions such web call, video call, live chat, file sharing, co-browsing, screen sharing… give your clients and agents the option to communicate better than ever with your brand.
+      <description>Transform your existing call center into a more engaging, customizable, and interactive solution with video calls.  In today’s competitive market, companies need call center software to connect in real-time cross web browsers and mobile devices. Adding advanced video interactions such web call, video call, live chat, file sharing, co-browsing, screen sharing… give your clients and agents the option to communicate better than ever with your brand.
  The Empowered Omnichannel: What any Contact Center in the Digital Age should be.</description>
     </item>
     
@@ -411,7 +418,7 @@ ChangeLog Version 4.1.1:
       <pubDate>Tue, 04 Feb 2020 14:00:00 +0200</pubDate>
       
       <guid>https://blog.ivrpowers.com/post/technologies/what-is-peer-to-peer/</guid>
-      <description>Make and Receive Video Calls between Web Browsers or Mobile Devices. Video Gateways (WebRTC) developed by Interactive Powers include a SPLIT module which enable to manage and synchronize media streams (video - audio - data) between two peers. This connection is based on a WebRTC communication session running voice, video and data.
+      <description>Make and Receive Video Calls between Web Browsers or Mobile Devices.  Video Gateways (WebRTC) developed by Interactive Powers include a SPLIT module which enable to manage and synchronize media streams (video - audio - data) between two peers. This connection is based on a WebRTC communication session running voice, video and data.
  The Video Channel (Inbound) for existing Call Centers without worries.
  How does Peer-to-Peer work? Peer-to-Peer (WebRTC) enables to connect many Web Browsers or Mobile Devices with Real-Time Communications.</description>
     </item>
@@ -422,7 +429,7 @@ ChangeLog Version 4.1.1:
       <pubDate>Mon, 03 Feb 2020 10:00:00 +0200</pubDate>
       
       <guid>https://blog.ivrpowers.com/post/technologies/what-is-webrt-to-sip/</guid>
-      <description>Receive Audio Calls from Web Browsers or Mobile Devices in your Contact Center. Video Gateways (WebRTC) developed by Interactive Powers include a SPLIT module which enable to control all media streams (video - audio - data) on any communication between users and a SIP softswitch or PBX/ACD. This development is based on SIP and WebRTC peers communications for the integration of voice and data.
+      <description>Receive Audio Calls from Web Browsers or Mobile Devices in your Contact Center.  Video Gateways (WebRTC) developed by Interactive Powers include a SPLIT module which enable to control all media streams (video - audio - data) on any communication between users and a SIP softswitch or PBX/ACD. This development is based on SIP and WebRTC peers communications for the integration of voice and data.
  Connect a Web Widget for any existing Call Centers.</description>
     </item>
     
@@ -432,7 +439,7 @@ ChangeLog Version 4.1.1:
       <pubDate>Sat, 01 Feb 2020 16:20:00 +0200</pubDate>
       
       <guid>https://blog.ivrpowers.com/post/technologies/what-is-split-reverse/</guid>
-      <description>Make Video calls from your Contact Center to Web Browsers or Mobile Devices. Video Gateways (WebRTC) developed by Interactive Powers include a special SPLIT module which enable to separate and synchronize media streams (video - audio - data) for any communication between users and agents. This development is based on SIP and WebRTC peers communications for the integration of voice, video and data in Contact Centers.
+      <description>Make Video calls from your Contact Center to Web Browsers or Mobile Devices.  Video Gateways (WebRTC) developed by Interactive Powers include a special SPLIT module which enable to separate and synchronize media streams (video - audio - data) for any communication between users and agents. This development is based on SIP and WebRTC peers communications for the integration of voice, video and data in Contact Centers.
  The Video Channel (Outbound) for existing Call Centers without worries.</description>
     </item>
     
@@ -442,7 +449,7 @@ ChangeLog Version 4.1.1:
       <pubDate>Sat, 01 Feb 2020 10:00:00 +0200</pubDate>
       
       <guid>https://blog.ivrpowers.com/post/technologies/what-is-split-forward/</guid>
-      <description>Receive Video calls from Web Browsers or Mobile Devices in your Contact Center. Video Gateways (WebRTC) developed by Interactive Powers include a special SPLIT module which enable to separate and synchronize media streams (video - audio - data) for any communication between users and agents. This development is based on SIP and WebRTC peers communications for the integration of voice, video and data in Contact Centers.
+      <description>Receive Video calls from Web Browsers or Mobile Devices in your Contact Center.  Video Gateways (WebRTC) developed by Interactive Powers include a special SPLIT module which enable to separate and synchronize media streams (video - audio - data) for any communication between users and agents. This development is based on SIP and WebRTC peers communications for the integration of voice, video and data in Contact Centers.
  The Video Channel (Inbound) for existing Call Centers without worries.</description>
     </item>
     
@@ -452,7 +459,7 @@ ChangeLog Version 4.1.1:
       <pubDate>Tue, 28 Jan 2020 18:00:00 +0200</pubDate>
       
       <guid>https://blog.ivrpowers.com/post/contactcenter/connecting-website-contact-center/</guid>
-      <description>The Old Way Outdated technologies are weighing companies down by limiting their view of customers and making it more difficult to connect with them in the new digital age interactions over IP.
+      <description>The Old Way  Outdated technologies are weighing companies down by limiting their view of customers and making it more difficult to connect with them in the new digital age interactions over IP.
  Photo source: Unplash. Creative Commons  What others still doing…
  Click-to-Call &amp;amp; Callback. This option requires to get the user phone number in oder to make a call; remember all new digital customers don’t like to give up a cell or landline number anymore.</description>
     </item>
@@ -473,7 +480,7 @@ We do not understand Live Chat just for texting. From the beginning, our Live Ch
       <pubDate>Sun, 26 Jan 2020 21:00:00 +0200</pubDate>
       
       <guid>https://blog.ivrpowers.com/post/customerengagement/webdialer-text-voice-video-chat/</guid>
-      <description>Photo source: Unsplash. Creative Commons In the Digital Age, any business has to create the most advanced interactions with their customers. Add text, voice, and video chat to your business without reinventing communications and complexity. At Interactive powers, we understand business communications in real-time with a flexible, multi-channel and convergent approach that has to work on any device, any modern browser, any location or Internet access.
+      <description>Photo source: Unsplash. Creative Commons In the Digital Age, any business has to create the most advanced interactions with their customers.  Add text, voice, and video chat to your business without reinventing communications and complexity. At Interactive powers, we understand business communications in real-time with a flexible, multi-channel and convergent approach that has to work on any device, any modern browser, any location or Internet access.
 Text Chat Some online businesses requires to make the first step enabling a text chat conversation for any device.</description>
     </item>
     
@@ -483,7 +490,7 @@ Text Chat Some online businesses requires to make the first step enabling a text
       <pubDate>Sun, 26 Jan 2020 20:00:00 +0200</pubDate>
       
       <guid>https://blog.ivrpowers.com/post/customerengagement/8-tips-for-livechat-integration-in-your-website/</guid>
-      <description>Photo source: Unsplash. Creative Commons All good businesses seek to have amazing interactions with their customers. The quality of client relations is a sure indicator of the success of any company, no matter what industry or size. If you make your clients feel valued, communicate with them easily, faster and make available to answer all questions or concerns, you are more likely to build brand loyalty, and they are more likely to recommend your product or service to others.</description>
+      <description>Photo source: Unsplash. Creative Commons All good businesses seek to have amazing interactions with their customers.  The quality of client relations is a sure indicator of the success of any company, no matter what industry or size. If you make your clients feel valued, communicate with them easily, faster and make available to answer all questions or concerns, you are more likely to build brand loyalty, and they are more likely to recommend your product or service to others.</description>
     </item>
     
     <item>
@@ -513,7 +520,7 @@ ChangeLog Version 3.2.0:
       <pubDate>Tue, 12 Nov 2019 17:00:00 +0200</pubDate>
       
       <guid>https://blog.ivrpowers.com/post/marketing/why-webrtc-makes-voip-services-more-attractive/</guid>
-      <description>Photo source: Unsplash - Interactive Powers Nowadays telephony is still used under a specific network integration that is not all IP powered like PSTN numbering and specific rules to manage its traffic with operators. Until this day, Voice over IP has disrupted the telephony but still providing the same phone user experience; at the end, users are still dialing to a 9-10 digits number and all the call process is mostly the same.</description>
+      <description>Photo source: Unsplash - Interactive Powers Nowadays telephony is still used under a specific network integration that is not all IP powered like PSTN numbering and specific rules to manage its traffic with operators.  Until this day, Voice over IP has disrupted the telephony but still providing the same phone user experience; at the end, users are still dialing to a 9-10 digits number and all the call process is mostly the same.</description>
     </item>
     
     <item>
@@ -544,7 +551,7 @@ ChangeLog Version 3.1.0:
       <pubDate>Tue, 23 Jul 2019 20:00:00 +0200</pubDate>
       
       <guid>https://blog.ivrpowers.com/post/news/firefox68-requires-https-in-all-sources/</guid>
-      <description>Photo Source: Creative Commons Firefox 68 will now only expose camera and microphone in secure contexts. As of Firefox 68 — releasing past weeks — WebRTC camera and microphone will require an https connection to work. Access from insecure http will cease to work, matching how Chrome works. Camera and microhone are powerful features, and Firefox will now only expose them in secure contexts, a security and privacy improvement.</description>
+      <description>Photo Source: Creative Commons Firefox 68 will now only expose camera and microphone in secure contexts.  As of Firefox 68 — releasing past weeks — WebRTC camera and microphone will require an https connection to work. Access from insecure http will cease to work, matching how Chrome works. Camera and microhone are powerful features, and Firefox will now only expose them in secure contexts, a security and privacy improvement.</description>
     </item>
     
     <item>
@@ -553,7 +560,7 @@ ChangeLog Version 3.1.0:
       <pubDate>Tue, 12 Mar 2019 22:00:00 +0200</pubDate>
       
       <guid>https://blog.ivrpowers.com/post/products/video-rtc-4-generation/</guid>
-      <description>Photo Source: Interactive Powers. Creative Commons Whatever your business, Real-Time Communications can improve your services. The fourth generation of our flagship RTC product is now released after months of developments and continuous improvements. Discover how to integrate live-video, voice, and messaging technology to transform your business processes, and how Video RTC it can help you facilitate more engaging interactions with your customers or employees.
+      <description>Photo Source: Interactive Powers. Creative Commons Whatever your business, Real-Time Communications can improve your services.  The fourth generation of our flagship RTC product is now released after months of developments and continuous improvements. Discover how to integrate live-video, voice, and messaging technology to transform your business processes, and how Video RTC it can help you facilitate more engaging interactions with your customers or employees.
 Welcome to Video RTC 4.</description>
     </item>
     
@@ -585,7 +592,7 @@ ChangeLog Version 3.0.0:
       <pubDate>Sun, 17 Feb 2019 20:00:00 +0200</pubDate>
       
       <guid>https://blog.ivrpowers.com/post/products/video-rtc-4-nightly/</guid>
-      <description>Photo Source: Interactive Powers. Creative Commons The future of Video RTC is coming soon! The fourth generation of our flagship RTC is the result of a engineering teamwork and great user experience. Video RTC 4.0 will provides more features, better performance with an upgrade of the best embedded WebRTC technology. We are currently enjoying tests of all new functions to generate our ultimate 4.0 packgage!
+      <description>Photo Source: Interactive Powers. Creative Commons The future of Video RTC is coming soon!  The fourth generation of our flagship RTC is the result of a engineering teamwork and great user experience. Video RTC 4.0 will provides more features, better performance with an upgrade of the best embedded WebRTC technology. We are currently enjoying tests of all new functions to generate our ultimate 4.0 packgage!
 What about all new Widgets 4.</description>
     </item>
     
@@ -595,9 +602,9 @@ What about all new Widgets 4.</description>
       <pubDate>Sat, 09 Feb 2019 14:00:00 +0200</pubDate>
       
       <guid>https://blog.ivrpowers.com/post/news/2019-02-rtc-upcoming-4/</guid>
-      <description>Photo Source: Interactive Powers. Creative Commons Innovate. Rebuild your customer interactions&amp;hellip; Follow our socials and blog; be ready to discover our major release update about Video Real-Time Communications. We will pleased to show you soon our 4th generation of our Video Gateway platforms.
+      <description>Photo Source: Interactive Powers. Creative Commons Innovate. Rebuild your customer interactions&amp;hellip;  Follow our socials and blog; be ready to discover our major release update about Video Real-Time Communications. We will pleased to show you soon our 4th generation of our Video Gateway platforms.
 Keep posted on February 2019!
-Interactive Powers - Streamline your business communications</description>
+ Interactive Powers - Streamline your business communications</description>
     </item>
     
     <item>
@@ -606,7 +613,7 @@ Interactive Powers - Streamline your business communications</description>
       <pubDate>Sat, 02 Feb 2019 16:00:00 +0200</pubDate>
       
       <guid>https://blog.ivrpowers.com/post/news/chrome72-sdp-phase3-update/</guid>
-      <description>Photo Source: Unsplash. Creative Commons Chrome goes into Unified Plan SDP (Phase 3) for its WebRTC implementation Google is planning to change the WebRTC implementation from the current SDP format called &amp;ldquo;Plan B&amp;rdquo; to a standards format &amp;ldquo;Unified Plan&amp;rdquo; over 4 phases.
+      <description>Photo Source: Unsplash. Creative Commons Chrome goes into Unified Plan SDP (Phase 3) for its WebRTC implementation  Google is planning to change the WebRTC implementation from the current SDP format called &amp;ldquo;Plan B&amp;rdquo; to a standards format &amp;ldquo;Unified Plan&amp;rdquo; over 4 phases.
 Chrome M72 version will be the first release to apply phase 3, and will require to upgrade sonn our Video RTC platform to run properly all this new SDP format.</description>
     </item>
     
@@ -627,7 +634,7 @@ ChangeLog Version 2.1.0 · 2.5.1:
       <pubDate>Tue, 29 Jan 2019 16:00:00 +0200</pubDate>
       
       <guid>https://blog.ivrpowers.com/post/technologies/webrtc-vs-rtmp/</guid>
-      <description>Image source: Interactive Powers What are the main differences between RTMP and WebRTC gateway models? Currently, Video RTC is our flagship product line for any RTC project&amp;rsquo;s deployments. We have prepared this summary to clarify what are the main features and how to move forward for your business.
+      <description>Image source: Interactive Powers What are the main differences between RTMP and WebRTC gateway models?  Currently, Video RTC is our flagship product line for any RTC project&amp;rsquo;s deployments. We have prepared this summary to clarify what are the main features and how to move forward for your business.
 Our Video Gateway connects peers or endpoints between WebRTC, RTMP and SIP technology to create advanced Video services. RTMP is an open protocol for Adobe Flash Player that allows to connect flash compliant browsers.</description>
     </item>
     
@@ -637,7 +644,7 @@ Our Video Gateway connects peers or endpoints between WebRTC, RTMP and SIP techn
       <pubDate>Wed, 05 Dec 2018 00:18:00 +0200</pubDate>
       
       <guid>https://blog.ivrpowers.com/post/marketing/the-merge-ivr-rtc-contact-center/</guid>
-      <description>Photo source: Unsplash. Creative Commons Contact Center: Artificial Inteligence and Omnichannel strategies will require to upgrade and rethink all your IVR and RTC technology or services. At Interactive Powers, when we launched our first products, we had always considered the Contact Center as a primary technology platform that requires to connect many and new channels to become a Multi-channel system or much better ever an Omnichannel system. In the early stage of the Digital Transformation, we couldn’t imagine our main business product lines Smart IVR and Video RTC to become so close that they are now just part of a whole strategic approach for any Contact Center evolution.</description>
+      <description>Photo source: Unsplash. Creative Commons Contact Center: Artificial Inteligence and Omnichannel strategies will require to upgrade and rethink all your IVR and RTC technology or services.  At Interactive Powers, when we launched our first products, we had always considered the Contact Center as a primary technology platform that requires to connect many and new channels to become a Multi-channel system or much better ever an Omnichannel system. In the early stage of the Digital Transformation, we couldn’t imagine our main business product lines Smart IVR and Video RTC to become so close that they are now just part of a whole strategic approach for any Contact Center evolution.</description>
     </item>
     
     <item>
@@ -646,7 +653,7 @@ Our Video Gateway connects peers or endpoints between WebRTC, RTMP and SIP techn
       <pubDate>Wed, 21 Nov 2018 01:00:00 +0200</pubDate>
       
       <guid>https://blog.ivrpowers.com/post/technologies/understanding-cloud-hosting-iaas-paas-saas/</guid>
-      <description>Image source: Pixabay. Creative Commons What are the differences between IaaS, SaaS, and PaaS, the three main Cloud Computing models? IaaS, PaaS, SaaS are three Cloud computing models popular in the market. Depending upon the requirement a company can opt for any of the three models. Here we explain IaaS, PaaS, SaaS model in the best possible way so that anyone can understand and differential among them.
+      <description>Image source: Pixabay. Creative Commons What are the differences between IaaS, SaaS, and PaaS, the three main Cloud Computing models?  IaaS, PaaS, SaaS are three Cloud computing models popular in the market. Depending upon the requirement a company can opt for any of the three models. Here we explain IaaS, PaaS, SaaS model in the best possible way so that anyone can understand and differential among them.
 What is IaaS?</description>
     </item>
     
@@ -656,7 +663,7 @@ What is IaaS?</description>
       <pubDate>Thu, 15 Nov 2018 19:00:00 +0100</pubDate>
       
       <guid>https://blog.ivrpowers.com/post/news/firefox63-spd-format-fix/</guid>
-      <description>Photo Source: Mozilla Foundation Avoiding the Datachannel breaking in Firefox 63+ Nowadays, it is common for web browsers to make updates and changes to their implementations. This is even more common when we talk about modern technologies like WebRTC. A new web browser update that confirms this theory is the last change on Firefox 63 when negotiating the Datachannel.
+      <description>Photo Source: Mozilla Foundation Avoiding the Datachannel breaking in Firefox 63+  Nowadays, it is common for web browsers to make updates and changes to their implementations. This is even more common when we talk about modern technologies like WebRTC. A new web browser update that confirms this theory is the last change on Firefox 63 when negotiating the Datachannel.
 If you are negotiating a Datachannel with a Firefox version lower than 63, the Session Description Protocol (SDP) will looks something like this:</description>
     </item>
     
@@ -668,7 +675,7 @@ If you are negotiating a Datachannel with a Firefox version lower than 63, the S
       <guid>https://blog.ivrpowers.com/post/updates/update-video-rtc-webrtc-3.3.1/</guid>
       <description>Release Note We are pleased to announce that our new Video RTC (Gateway WebRTC) v3.3.1 has been released for suitable production services. This new version includes a hot fix for Firefox Web Browsers. All users with previous maintained versions can upgrade today. Please contact our support!
 ChangeLog Version 3.3.1:
-## [3.3.1] - 2018-11-13 ### Added - If the Videoplayer only finds one record, it&#39;s preselected ### Fixed - Resized calling message for mobile devices - Fixed SDP negotiations from Firefox 63+  Interactive Powers - Streamline your business communications</description>
+## [3.3.1] - 2018-11-13 ### Added - If the Videoplayer only finds one record, it&amp;#39;s preselected ### Fixed - Resized calling message for mobile devices - Fixed SDP negotiations from Firefox 63+  Interactive Powers - Streamline your business communications</description>
     </item>
     
     <item>
@@ -686,7 +693,7 @@ ChangeLog Version 3.3.1:
       <pubDate>Fri, 12 Oct 2018 15:00:00 +0200</pubDate>
       
       <guid>https://blog.ivrpowers.com/post/products/turnkey-cobrowsing/</guid>
-      <description>Photo source: Pixabay. Creative Commons Add easily CoBrowsing to your Customer Interactions and better connect in real-time your agents and remote support teams. CoBrowsing, can help you transform the way you interact with your customers in real-time. CoBrowsing is a Video RTC extension that allows to add advanced powers both to your agents and users getting better and faster online interactions. Improve your customer care or any support interactions, time spend during phone calls or your support performance and confidence?</description>
+      <description>Photo source: Pixabay. Creative Commons Add easily CoBrowsing to your Customer Interactions and better connect in real-time your agents and remote support teams.  CoBrowsing, can help you transform the way you interact with your customers in real-time. CoBrowsing is a Video RTC extension that allows to add advanced powers both to your agents and users getting better and faster online interactions. Improve your customer care or any support interactions, time spend during phone calls or your support performance and confidence?</description>
     </item>
     
     <item>
@@ -695,7 +702,7 @@ ChangeLog Version 3.3.1:
       <pubDate>Mon, 08 Oct 2018 12:00:00 +0200</pubDate>
       
       <guid>https://blog.ivrpowers.com/post/products/video-rtc-cobrowsing/</guid>
-      <description>Cobrowsing enables agents to assist users when they are browsing on your web page. Overview CoBrowsing allows you to share your browser in real-time with another remote peer. Most business processes can take benefit of using CoBrowsing feature. For instance, it is a very powerful tool to improve online shopping, telesales, remote work or support services.
+      <description>Cobrowsing enables agents to assist users when they are browsing on your web page.  Overview CoBrowsing allows you to share your browser in real-time with another remote peer. Most business processes can take benefit of using CoBrowsing feature. For instance, it is a very powerful tool to improve online shopping, telesales, remote work or support services.
 CoBrowsing functionality makes it easy to enhance your real-time communications experience with the power of a web browsing.</description>
     </item>
     
@@ -705,7 +712,7 @@ CoBrowsing functionality makes it easy to enhance your real-time communications 
       <pubDate>Sun, 07 Oct 2018 20:00:00 +0200</pubDate>
       
       <guid>https://blog.ivrpowers.com/post/products/turnkey-cloud-hosting/</guid>
-      <description>Photo source: Unsplash. Creative Commons Turnkey Solutions are designed to provide a quick startup without any IT requirement for your business. Our Turnkey Portfolio offers flexibility and deliver significant savings to enterprises or service providers. These pay-as-you-go products can be standalone or used in combination to provide an end to end communication services for many kind of businesses over WebRTC, RTMP, VoIP to PSTN networks.
+      <description>Photo source: Unsplash. Creative Commons Turnkey Solutions are designed to provide a quick startup without any IT requirement for your business.  Our Turnkey Portfolio offers flexibility and deliver significant savings to enterprises or service providers. These pay-as-you-go products can be standalone or used in combination to provide an end to end communication services for many kind of businesses over WebRTC, RTMP, VoIP to PSTN networks.
 Forget technology, it&amp;rsquo;s about business.</description>
     </item>
     
@@ -737,7 +744,7 @@ ChangeLog Version 2.1.0 · 2.5.0:
       <pubDate>Tue, 11 Sep 2018 15:00:00 +0200</pubDate>
       
       <guid>https://blog.ivrpowers.com/post/products/turnkey-call-center/</guid>
-      <description>Manage your own Call Center extension for Video RTC without any more technical requirements than just a Web Browser and Internet Access. Sometimes, changing all things doesn’t mean to build something totally new to improve the way you manage your Business Communications. Call Center is a Video RTC extension or standalone Omminchannel Call Center solution that allows to add advanced powers both to your agents and customers getting better and faster interactions.</description>
+      <description>Manage your own Call Center extension for Video RTC without any more technical requirements than just a Web Browser and Internet Access.  Sometimes, changing all things doesn’t mean to build something totally new to improve the way you manage your Business Communications. Call Center is a Video RTC extension or standalone Omminchannel Call Center solution that allows to add advanced powers both to your agents and customers getting better and faster interactions.</description>
     </item>
     
     <item>
@@ -746,7 +753,7 @@ ChangeLog Version 2.1.0 · 2.5.0:
       <pubDate>Tue, 21 Aug 2018 09:00:00 +0200</pubDate>
       
       <guid>https://blog.ivrpowers.com/post/products/video-rtc-video-gateway-web-panel/</guid>
-      <description>Photo Source: Jon Flobrant on Unsplash. Manage all logs and adjust easily main settings of your Video RTC Gateway. At Interactive Powers, we have spent many months making all our solutions better than ever, and one of our products at the very heart of our customers is our Video RTC Gateway. We have made significant improvements on visualizing all information in the Console. We’d love any and all feedback you have on this new monitoring experience.</description>
+      <description>Photo Source: Jon Flobrant on Unsplash. Manage all logs and adjust easily main settings of your Video RTC Gateway.  At Interactive Powers, we have spent many months making all our solutions better than ever, and one of our products at the very heart of our customers is our Video RTC Gateway. We have made significant improvements on visualizing all information in the Console. We’d love any and all feedback you have on this new monitoring experience.</description>
     </item>
     
     <item>
@@ -755,7 +762,7 @@ ChangeLog Version 2.1.0 · 2.5.0:
       <pubDate>Sun, 05 Aug 2018 01:00:00 +0200</pubDate>
       
       <guid>https://blog.ivrpowers.com/post/technologies/screensharing-or-cobrowsing/</guid>
-      <description>Discover Screen Sharing and Co-Browsing advantages, the secure new ‘no download’ complementary interactions improving phone calls for onboarding, sales and support. Screen Sharing and Co-Browsing (or Collaborative Browsing) are a relatively new technologies for Call Centers propelled by a Cloud evolution. However, customer experience professionals seem to think that CoBrowsing and Screen Sharing are one and the same when in reality, they’re not. So what is the difference between these two features and how does adapting your VideoRTC solution improve the overall customer experience?</description>
+      <description>Discover Screen Sharing and Co-Browsing advantages, the secure new ‘no download’ complementary interactions improving phone calls for onboarding, sales and support.  Screen Sharing and Co-Browsing (or Collaborative Browsing) are a relatively new technologies for Call Centers propelled by a Cloud evolution. However, customer experience professionals seem to think that CoBrowsing and Screen Sharing are one and the same when in reality, they’re not. So what is the difference between these two features and how does adapting your VideoRTC solution improve the overall customer experience?</description>
     </item>
     
     <item>
@@ -775,7 +782,7 @@ ChangeLog Version 2.1.0 · 2.4.0:
       <pubDate>Wed, 25 Jul 2018 15:00:00 +0200</pubDate>
       
       <guid>https://blog.ivrpowers.com/post/products/video-rtc-web-conference-meeting-point/</guid>
-      <description>Photo Source: Unsplash · Interactive Powers. Creative Commons. Make secure business online meetings with a standard OAuth authentication. Communications can be a critical part of your own business and cannot be outsourced to any kind of OTT or public cloud service. Meeting Point is a new Video RTC Use Case and solution that allows to create Video Conferences from any modern browser and your own mobile app (on demand).</description>
+      <description>Photo Source: Unsplash · Interactive Powers. Creative Commons. Make secure business online meetings with a standard OAuth authentication.  Communications can be a critical part of your own business and cannot be outsourced to any kind of OTT or public cloud service. Meeting Point is a new Video RTC Use Case and solution that allows to create Video Conferences from any modern browser and your own mobile app (on demand).</description>
     </item>
     
     <item>
@@ -784,7 +791,7 @@ ChangeLog Version 2.1.0 · 2.4.0:
       <pubDate>Wed, 25 Jul 2018 11:30:18 +0200</pubDate>
       
       <guid>https://blog.ivrpowers.com/post/trends/mckinsey-bank-branch-digital-age/</guid>
-      <description>Photo Source: Interactive Powers, Pexels. Creative Commons Smart-branch in the digital age will dedicated 70% of services areas to self-services thank to advanced technologies.  Digital technology holds the key to the branch of the future.
+      <description>Photo Source: Interactive Powers, Pexels. Creative Commons Smart-branch in the digital age will dedicated 70% of services areas to self-services thank to advanced technologies.   Digital technology holds the key to the branch of the future.
  Changing customer behavior and the emergence of new technologies spell not the end of the branch but rather the advent of the “smart branch.” Smart branches use technology to boost sales and improve customer experience significantly.</description>
     </item>
     
@@ -794,7 +801,7 @@ ChangeLog Version 2.1.0 · 2.4.0:
       <pubDate>Sun, 22 Jul 2018 20:00:00 +0200</pubDate>
       
       <guid>https://blog.ivrpowers.com/post/marketing/voice-services-value-human-interactions/</guid>
-      <description>Photo source: Pexels. Creative Commons Digital Transformation in Contact Center is not about Voice over IP, it&amp;rsquo;s about IA automation and more advanced human-to-human online collaboration. If the leading brands Google, Amazon, IBM and Microsoft are going to stay ahead of the competition, they need to quickly learn how to engage with customers using voice command technology in a meaningful way. All automated customer service platforms work using the same basic principle: process a question, crunch the relevant data, and deliver a response.</description>
+      <description>Photo source: Pexels. Creative Commons Digital Transformation in Contact Center is not about Voice over IP, it&amp;rsquo;s about IA automation and more advanced human-to-human online collaboration.  If the leading brands Google, Amazon, IBM and Microsoft are going to stay ahead of the competition, they need to quickly learn how to engage with customers using voice command technology in a meaningful way. All automated customer service platforms work using the same basic principle: process a question, crunch the relevant data, and deliver a response.</description>
     </item>
     
     <item>
@@ -803,7 +810,7 @@ ChangeLog Version 2.1.0 · 2.4.0:
       <pubDate>Sun, 22 Jul 2018 13:00:00 +0200</pubDate>
       
       <guid>https://blog.ivrpowers.com/post/marketing/voice-services-facing-biggest-upgrade/</guid>
-      <description>Photo source: Pexels. Creative Commons Today’s consumers are rekindling their love of voice and are learning to talk with machines better than ever. Automated text-based customer services, delivered through platforms such as WhatsApp, Messenger, Skype or any other Chat Service are still on the rise, but they aren’t dominating the conversation anymore. People are turning to Voice Assistants like Amazon Echo and Google Home Hub for quick answers to simple questions that are spoken, not typed.</description>
+      <description>Photo source: Pexels. Creative Commons Today’s consumers are rekindling their love of voice and are learning to talk with machines better than ever.  Automated text-based customer services, delivered through platforms such as WhatsApp, Messenger, Skype or any other Chat Service are still on the rise, but they aren’t dominating the conversation anymore. People are turning to Voice Assistants like Amazon Echo and Google Home Hub for quick answers to simple questions that are spoken, not typed.</description>
     </item>
     
     <item>
@@ -812,7 +819,7 @@ ChangeLog Version 2.1.0 · 2.4.0:
       <pubDate>Sat, 21 Jul 2018 23:00:00 +0200</pubDate>
       
       <guid>https://blog.ivrpowers.com/post/products/video-rtc-mobile-sdk/</guid>
-      <description>Photo Source: Interactive Powers. Build easily WebRTC-powered video calling into your mobile app with a simple JavaScript library for our Video RTC communication platforms. With our Video RTC · Mobile SDK, you can easily add real-time video calling over a data connection or WiFi from your website or app. Interactive Powers offers high quality video communication and seamless integration into any existing app.
+      <description>Photo Source: Interactive Powers. Build easily WebRTC-powered video calling into your mobile app with a simple JavaScript library for our Video RTC communication platforms.  With our Video RTC · Mobile SDK, you can easily add real-time video calling over a data connection or WiFi from your website or app. Interactive Powers offers high quality video communication and seamless integration into any existing app.
 Add Real-Time Communications to your app.</description>
     </item>
     
@@ -822,7 +829,7 @@ Add Real-Time Communications to your app.</description>
       <pubDate>Sun, 15 Jul 2018 00:18:00 +0200</pubDate>
       
       <guid>https://blog.ivrpowers.com/post/marketing/successfull-combination-ivr-rtc/</guid>
-      <description>Photo source: Unsplash. Creative Commons Improve customer experience (CX), while reducing telecommunication costs and increasing customer satisfaction. Our Vision for your Business Communications. Interactive Powers vision is to streamline your business communications with the help of our two core technologies called IVR (Interactive Voice Response) and RTC (Real-Time Communications). Our platforms embrace open standards like SIP (Session Initialization Protocol), VoiceXML (Voice eXtended Meta Language), RTMP (Real-Time Messaging Protocol) and WebRTC (Web Real-Time Communications) allowing businesses to directly embed audio-only or audio &amp;amp; video conversations and collaboration functionality within their website or mobile customer care apps.</description>
+      <description>Photo source: Unsplash. Creative Commons Improve customer experience (CX), while reducing telecommunication costs and increasing customer satisfaction.  Our Vision for your Business Communications. Interactive Powers vision is to streamline your business communications with the help of our two core technologies called IVR (Interactive Voice Response) and RTC (Real-Time Communications). Our platforms embrace open standards like SIP (Session Initialization Protocol), VoiceXML (Voice eXtended Meta Language), RTMP (Real-Time Messaging Protocol) and WebRTC (Web Real-Time Communications) allowing businesses to directly embed audio-only or audio &amp;amp; video conversations and collaboration functionality within their website or mobile customer care apps.</description>
     </item>
     
     <item>
@@ -831,7 +838,7 @@ Add Real-Time Communications to your app.</description>
       <pubDate>Sat, 14 Jul 2018 15:00:00 +0200</pubDate>
       
       <guid>https://blog.ivrpowers.com/post/products/video-rtc-web-dialer/</guid>
-      <description>Photo Source: Unsplash · Interactive Powers Creative Commons. Make calls from any Web Browser and easily connect your Call Center or PBX to improve your business communications. Click-to-call converts your website&amp;rsquo;s users into engaged customers by creating an easy way for your customers to contact your sales and support teams right on your website without using their phone. Today&amp;rsquo;s sales and support teams expect to be able to make calls directly from their modern web browser, and their efficiency improves when they can.</description>
+      <description>Photo Source: Unsplash · Interactive Powers Creative Commons. Make calls from any Web Browser and easily connect your Call Center or PBX to improve your business communications.  Click-to-call converts your website&amp;rsquo;s users into engaged customers by creating an easy way for your customers to contact your sales and support teams right on your website without using their phone. Today&amp;rsquo;s sales and support teams expect to be able to make calls directly from their modern web browser, and their efficiency improves when they can.</description>
     </item>
     
     <item>
@@ -840,7 +847,7 @@ Add Real-Time Communications to your app.</description>
       <pubDate>Tue, 10 Jul 2018 09:00:05 +0200</pubDate>
       
       <guid>https://blog.ivrpowers.com/post/technologies/what-is-stun-turn-server/</guid>
-      <description>Photo Source: Pixabay · Interactive Powers Creative Commons. WebRTC communications in real-world connectivity require to handle multi-party calls and interact with STUN and TURN servers. Our Video Gateway (WebRTC) platform offers all customers an advanced video real-time communications solution through all audio/video/data streams are transmitted. Generally, a Video Gateway has to be deployed over a public Internet so any user must connect and send media fragments over RTP (Real-time Transport Protocol) ports without specific network issues.</description>
+      <description>Photo Source: Pixabay · Interactive Powers Creative Commons. WebRTC communications in real-world connectivity require to handle multi-party calls and interact with STUN and TURN servers.  Our Video Gateway (WebRTC) platform offers all customers an advanced video real-time communications solution through all audio/video/data streams are transmitted. Generally, a Video Gateway has to be deployed over a public Internet so any user must connect and send media fragments over RTP (Real-time Transport Protocol) ports without specific network issues.</description>
     </item>
     
     <item>
@@ -849,7 +856,7 @@ Add Real-Time Communications to your app.</description>
       <pubDate>Thu, 05 Jul 2018 20:30:00 +0200</pubDate>
       
       <guid>https://blog.ivrpowers.com/post/products/real-time-communications-applications/</guid>
-      <description>Photo source: Pixabay. Creative Commons Real-time Communications applications to streamline your online business. Video RTC platforms are changing the way real-time communications are developed and delivered. It is fast becoming the platform of choice for rapidly building enterprise class real-time voice and video applications. Our communications platform is 100% cloud ready, offering continuous evolution, scalability and high availability.
+      <description>Photo source: Pixabay. Creative Commons Real-time Communications applications to streamline your online business.  Video RTC platforms are changing the way real-time communications are developed and delivered. It is fast becoming the platform of choice for rapidly building enterprise class real-time voice and video applications. Our communications platform is 100% cloud ready, offering continuous evolution, scalability and high availability.
  Video chat is a clearer and modern way to communicate for online businesses</description>
     </item>
     
@@ -869,7 +876,7 @@ The design of our webclient is composed by a logo and a main default color.</des
       <pubDate>Sun, 10 Jun 2018 15:00:00 +0200</pubDate>
       
       <guid>https://blog.ivrpowers.com/post/products/turnkey-solutions/</guid>
-      <description>The Turnkey Solutions for your business Our Turnkey Portfolio offers flexibility and deliver significant savings to enterprises or service providers. These pay-as-you-go products can be standalone or used in combination to provide an end to end communication services for many kind of businesses over WebRTC, RTMP, VoIP to PSTN networks.
+      <description>The Turnkey Solutions for your business  Our Turnkey Portfolio offers flexibility and deliver significant savings to enterprises or service providers. These pay-as-you-go products can be standalone or used in combination to provide an end to end communication services for many kind of businesses over WebRTC, RTMP, VoIP to PSTN networks.
 Forget technology, it&amp;rsquo;s about business. Web Dialer.  Make Voice Calls from any modern Web Browser
  Web Dialer allows all your customers and users to make phone calls directly to your PBX, IVR, Call Center from any desktop web browser (Firefox, Chrome, IE, Safari, Opera,…).</description>
     </item>
@@ -891,7 +898,7 @@ ChangeLog Version 3.2.1:
       <pubDate>Sun, 10 Jun 2018 01:00:00 +0200</pubDate>
       
       <guid>https://blog.ivrpowers.com/post/technologies/what-is-cpaas/</guid>
-      <description>Communication Platform as a Service (CPaaS) Communication Platform as a Service (CPaaS) is a form of cloud computing that is utilized to deliver communication applications like IVR or RTC to users over the internet. But, unlike SaaS which delivers specific apps and programs, Communication Platform as a Service is a bit closer related to IaaS. So, while IaaS is delivering the infrastructure, like servers and management tools, CPaaS is what delivers the entire communication platform for users to build and develop their own applications.</description>
+      <description>Communication Platform as a Service (CPaaS)  Communication Platform as a Service (CPaaS) is a form of cloud computing that is utilized to deliver communication applications like IVR or RTC to users over the internet. But, unlike SaaS which delivers specific apps and programs, Communication Platform as a Service is a bit closer related to IaaS. So, while IaaS is delivering the infrastructure, like servers and management tools, CPaaS is what delivers the entire communication platform for users to build and develop their own applications.</description>
     </item>
     
     <item>
@@ -900,7 +907,7 @@ ChangeLog Version 3.2.1:
       <pubDate>Sun, 10 Jun 2018 01:00:00 +0200</pubDate>
       
       <guid>https://blog.ivrpowers.com/post/technologies/what-is-saas/</guid>
-      <description>Photo source: Interactive Powers Software as a Service (SaaS) Software as a Service (SaaS) directly refers to any software that your business is using just about everyday. SaaS is of course a form of cloud computing, which allows for increase flexibility by relying on a third-party vendor to host and maintain the service — in this case, that service is that software. Since the software is hosted by a cloud provider, your business does not need to install and run applications on their own computers, or host their own servers in expensive data centers, yet still gains access to these powerful tools.</description>
+      <description>Photo source: Interactive Powers Software as a Service (SaaS)  Software as a Service (SaaS) directly refers to any software that your business is using just about everyday. SaaS is of course a form of cloud computing, which allows for increase flexibility by relying on a third-party vendor to host and maintain the service — in this case, that service is that software. Since the software is hosted by a cloud provider, your business does not need to install and run applications on their own computers, or host their own servers in expensive data centers, yet still gains access to these powerful tools.</description>
     </item>
     
     <item>
@@ -920,7 +927,7 @@ ChangeLog Version 3.2.0:
       <pubDate>Tue, 01 May 2018 18:00:00 +0200</pubDate>
       
       <guid>https://blog.ivrpowers.com/post/products/video-rtc-remote-viewer/</guid>
-      <description>Photo Source: Shutterstock · Interactive Powers. Dramatically improves Customer Experience (CX) extending phone calls with Live Chat, Dual File Sharing, Dual Screen Sharing… Sometime, you don&amp;rsquo;t have to change all things to build something new and really better to improve your existing Business Communications. Remote Viewer is a new Video RTC Use Case and solution that allows to add advanced powers both to your call center agents and phone callers.</description>
+      <description>Photo Source: Shutterstock · Interactive Powers. Dramatically improves Customer Experience (CX) extending phone calls with Live Chat, Dual File Sharing, Dual Screen Sharing…  Sometime, you don&amp;rsquo;t have to change all things to build something new and really better to improve your existing Business Communications. Remote Viewer is a new Video RTC Use Case and solution that allows to add advanced powers both to your call center agents and phone callers.</description>
     </item>
     
     <item>
@@ -942,7 +949,7 @@ ChangeLog Version 3.1.0:
       <guid>https://blog.ivrpowers.com/post/updates/update-video-rtc-rtmp-1.3.0/</guid>
       <description>Release Note We are pleased to announce that our new Video RTC (Gateway RTMP) v1.3.0 has been released for suitable production services. This new version includes a lot of improvements and new features. All users with previous maintained versions can upgrade today. Please contact our support!
 ChangeLog Version 1.3.0:
-## [1.3.0] - 2018-01-08 ### Added - Favicon in Split Use Case (Webclient and Agent) ### Changed - The default look for the agent webphone is now &#39;agent&#39; - Removed extra HTML code that was in the index.</description>
+## [1.3.0] - 2018-01-08 ### Added - Favicon in Split Use Case (Webclient and Agent) ### Changed - The default look for the agent webphone is now &amp;#39;agent&amp;#39; - Removed extra HTML code that was in the index.</description>
     </item>
     
     <item>
@@ -971,7 +978,7 @@ In a previous post we talked about secure identification API integrations and so
       
       <guid>https://blog.ivrpowers.com/post/trends/enghouse-business-online/</guid>
       <description>Photo Source: Interactive Powers, Pexels. Creative Commons In a recent Enghouse Interactive survey, customers have made it clear that they want online communication channels with companies. 79% of consumers believe that businesses should provide a way for customers to contact them online.
-It is also interesting to compare this figure with the responses to the very same question in previous years&amp;rsquo; surveys. In 2014, only 29% of respondents answered that the possibility to contact a company online was relevant.</description>
+It is also interesting to compare this figure with the responses to the very same question in previous years&#39; surveys. In 2014, only 29% of respondents answered that the possibility to contact a company online was relevant.</description>
     </item>
     
     <item>
@@ -980,7 +987,7 @@ It is also interesting to compare this figure with the responses to the very sam
       <pubDate>Fri, 10 Nov 2017 11:46:54 +0100</pubDate>
       
       <guid>https://blog.ivrpowers.com/post/news/screensharing-firefox/</guid>
-      <description>Photo Source: Pixabay. Creative Commons Screen Sharing: now, without installing any plugin for all Firefox Web Browsers! Screen Sharing is a very powerful feature that allows users to share in a screen or a window of any documents or application including images, videos, forms… among other capabilities. However, in order to build screen sharing capabilities, first, it is necessary to build screen capture. Until now, it was only supported in one browser, Chrome, which gives access to screen capture by writing an extension.</description>
+      <description>Photo Source: Pixabay. Creative Commons Screen Sharing: now, without installing any plugin for all Firefox Web Browsers!  Screen Sharing is a very powerful feature that allows users to share in a screen or a window of any documents or application including images, videos, forms… among other capabilities. However, in order to build screen sharing capabilities, first, it is necessary to build screen capture. Until now, it was only supported in one browser, Chrome, which gives access to screen capture by writing an extension.</description>
     </item>
     
     <item>
@@ -989,7 +996,8 @@ It is also interesting to compare this figure with the responses to the very sam
       <pubDate>Mon, 09 Oct 2017 11:06:16 +0200</pubDate>
       
       <guid>https://blog.ivrpowers.com/post/products/video-rtc-3-generation/</guid>
-      <description>Photo Source: Interactive Powers. Creative Commons Whatever your business is, you may require Real-Time Communications to improve your services. The third generation of our flagship RTC product is now released after months and years of continuous improvements. Discover how to integrate live-video, voice, and messaging technology to transform your business processes, and how Video RTC it can help you facilitate more engaging interactions with your customers or employees.</description>
+      <description>Photo Source: Interactive Powers. Creative Commons Whatever your business is, you may require Real-Time Communications to improve your services. The third generation of our flagship RTC product is now released after months and years of continuous improvements. Discover how to integrate live-video, voice, and messaging technology to transform your business processes, and how Video RTC it can help you facilitate more engaging interactions with your customers or employees.
+Welcome to Video RTC 3.</description>
     </item>
     
     <item>
@@ -1020,7 +1028,7 @@ ChangeLog Version 1.0.0 · 2.0.0:
       <pubDate>Wed, 20 Sep 2017 12:50:49 +0200</pubDate>
       
       <guid>https://blog.ivrpowers.com/post/trends/cloud-hosting-ivr-rtc/</guid>
-      <description>Photo source: Pixabay. Creative Commons. Upgrade your business communications to the Cloud to deliver more value with less costs Computing based on the internet is booming business. The global cloud communication market is projected to reach $4.45 by 2021. Why are more and more companies turning to the cloud for their business communications needs?
+      <description>Photo source: Pixabay. Creative Commons. Upgrade your business communications to the Cloud to deliver more value with less costs  Computing based on the internet is booming business. The global cloud communication market is projected to reach $4.45 by 2021. Why are more and more companies turning to the cloud for their business communications needs?
 Communications solutions at a lower cost. Cloud computing is a cost saver since it can reduce or even eliminate the need for a company to buy an expensive hardware and software.</description>
     </item>
     
@@ -1030,7 +1038,7 @@ Communications solutions at a lower cost. Cloud computing is a cost saver since 
       <pubDate>Tue, 19 Sep 2017 12:36:01 +0200</pubDate>
       
       <guid>https://blog.ivrpowers.com/post/contactcenter/contact-center-videortc/</guid>
-      <description>Photo Source: Pexels. Creative Commons Call Centers have to upgrade their services to the next level implementing new advanced interactions The ever-growing digital world can give new opportunities for existing contact centers to provide a superior customer experience. Nowadays new technologies drive clients to ask for multiple options when looking for support. It is here where VideoRTC can help your contact center to enhance its services.
+      <description>Photo Source: Pexels. Creative Commons Call Centers have to upgrade their services to the next level implementing new advanced interactions  The ever-growing digital world can give new opportunities for existing contact centers to provide a superior customer experience. Nowadays new technologies drive clients to ask for multiple options when looking for support. It is here where VideoRTC can help your contact center to enhance its services.
 Save time providing the right channel.</description>
     </item>
     
@@ -1052,7 +1060,7 @@ Meeting Point. Video Gateway provides an additional OAuth plugin that makes it e
       <pubDate>Tue, 05 Sep 2017 10:00:00 +0200</pubDate>
       
       <guid>https://blog.ivrpowers.com/post/products/video-rtc-pop-up-agent/</guid>
-      <description>Extend Existing Call Centers with advanced Video RTC Capabilities. Overview Pop-up Agent is a specific peer component designed to add Video RTC services to an existing Call Center. It can operate over full WebRTC options or RTMP with limited functions. Pop-up Agent works with standard web browser or with an MS Windows executable application.
+      <description>Extend Existing Call Centers with advanced Video RTC Capabilities.  Overview Pop-up Agent is a specific peer component designed to add Video RTC services to an existing Call Center. It can operate over full WebRTC options or RTMP with limited functions. Pop-up Agent works with standard web browser or with an MS Windows executable application.
 Pop-up Agent functionality is easily configurable with a set of buttons and toolkit. Main options are Live Chat, File Sharing, Screen Sharing, Video Recording, Snapshot.</description>
     </item>
     
@@ -1064,8 +1072,8 @@ Pop-up Agent functionality is easily configurable with a set of buttons and tool
       <guid>https://blog.ivrpowers.com/post/coding/videortc-build-videocall/</guid>
       <description>Photo Source: Interactive Powers, Pexels. Creative Commons In this post we will show you how to build your videocall service based on HTML5 technology by using our API Framework with VideoRTC.js.
 Step 1: Setting up the basic structure Firstly, you will need to include dependency within your project or web page:
-&amp;lt;script type=&amp;quot;text/javascript&amp;quot; src=&amp;quot;videortc.js&amp;quot;&amp;gt;&amp;lt;/script&amp;gt;  You can insert a minimized version if you prefer so:
-&amp;lt;script type=&amp;quot;text/javascript&amp;quot; src=&amp;quot;videortc.min.js&amp;quot;&amp;gt;&amp;lt;/script&amp;gt;  Next, we connect with the video gateway server:</description>
+&amp;lt;script type=&amp;#34;text/javascript&amp;#34; src=&amp;#34;videortc.js&amp;#34;&amp;gt;&amp;lt;/script&amp;gt; You can insert a minimized version if you prefer so:
+&amp;lt;script type=&amp;#34;text/javascript&amp;#34; src=&amp;#34;videortc.min.js&amp;#34;&amp;gt;&amp;lt;/script&amp;gt; Next, we connect with the video gateway server:</description>
     </item>
     
     <item>
@@ -1074,7 +1082,7 @@ Step 1: Setting up the basic structure Firstly, you will need to include depende
       <pubDate>Fri, 01 Sep 2017 09:52:47 +0200</pubDate>
       
       <guid>https://blog.ivrpowers.com/post/products/video-rtc-video-id/</guid>
-      <description>Protect your Real-Time Communications with Secure Identification API integrations. Overview Video ID feature helps you to improve security in your real-time communication services. Our solutions include partner options for ID Verification through an external provider certified API. This capability enables to comply with identity verification processes required, for instance, by banks, insurances, e-commerces or telemedicine.
+      <description>Protect your Real-Time Communications with Secure Identification API integrations.  Overview Video ID feature helps you to improve security in your real-time communication services. Our solutions include partner options for ID Verification through an external provider certified API. This capability enables to comply with identity verification processes required, for instance, by banks, insurances, e-commerces or telemedicine.
 Video ID functionality captures and validates users’ information, whilst conducting a real-time check. Video ID capability is a set of API, which can optionally include Facial Recognition.</description>
     </item>
     
@@ -1085,7 +1093,7 @@ Video ID functionality captures and validates users’ information, whilst condu
       
       <guid>https://blog.ivrpowers.com/post/products/video-rtc-industries/</guid>
       <description>Photo Source: Interactive Powers, Pexels. Creative Commons Whatever your business, product, or service is you can require real-time communications technologies. Discover how organizations like yours are integrating live-video, voice, and messaging technology to transform their industries, and how Video RTC can help you facilitate more engaging interactions with your customers or employees.
-Call Centers. Contact Centers continue to evolve rapidly as consumers expect a highly personalized and engaging experience.</description>
+Call Centers. Contact Centers continue to evolve rapidly as consumers expect a highly personalized and engaging experience. RTC technology will help you to differentiate your Call Center.</description>
     </item>
     
     <item>
@@ -1094,7 +1102,7 @@ Call Centers. Contact Centers continue to evolve rapidly as consumers expect a h
       <pubDate>Fri, 18 Aug 2017 12:00:00 +0200</pubDate>
       
       <guid>https://blog.ivrpowers.com/post/products/video-rtc-screen-sharing/</guid>
-      <description>Secure screen share your desktop or any application in Real-Time Communications. Overview Screen Sharing application allows you to share live screen over the web or mobile instantly. Most business processes can take benefit of using Screen Sharing feature. For instance, it is a very powerful tool to improve online meetings, presentations, remote work or support services.
+      <description>Secure screen share your desktop or any application in Real-Time Communications.  Overview Screen Sharing application allows you to share live screen over the web or mobile instantly. Most business processes can take benefit of using Screen Sharing feature. For instance, it is a very powerful tool to improve online meetings, presentations, remote work or support services.
 Screen Sharing functionality makes it easy to enhance your real-time communications experience with the power of content, all within the context of your website or application.</description>
     </item>
     
@@ -1104,7 +1112,7 @@ Screen Sharing functionality makes it easy to enhance your real-time communicati
       <pubDate>Fri, 18 Aug 2017 10:00:00 +0200</pubDate>
       
       <guid>https://blog.ivrpowers.com/post/products/video-rtc-file-sharing/</guid>
-      <description>Send and Receive Files or Documents in Real-Time Communications. Overview File Sharing application helps you to enhance your real-time communications experience with the power of content. It allows you to instantly transfer any file establishing a peer connection all within the context of your website or application. With the file sharing feature you can send and receive unlimited files just dragging them in the chat window.
+      <description>Send and Receive Files or Documents in Real-Time Communications.  Overview File Sharing application helps you to enhance your real-time communications experience with the power of content. It allows you to instantly transfer any file establishing a peer connection all within the context of your website or application. With the file sharing feature you can send and receive unlimited files just dragging them in the chat window.
 File Sharing functionality makes it possible to share and receive documents during your voice or video call.</description>
     </item>
     
@@ -1125,7 +1133,7 @@ Video Calling. Video Gateway provides a simpler way for people to communicate vi
       <pubDate>Thu, 17 Aug 2017 09:00:00 +0200</pubDate>
       
       <guid>https://blog.ivrpowers.com/post/products/video-rtc-live-chat/</guid>
-      <description>Manage Smart Text Message interactions in Real-Time Communications. Overview Live Chat supplement your video and voice communication with advanced text chat capabilities using the WebRTC datachannel. Live Chat feature allows to send and receive text messages simultaneously, without any lag at a single click. It is the perfect tool to use for the customer and an agent conversation. Live chat integrates seamlessly into your application, eliminating the need for clunky third-party APIs.</description>
+      <description>Manage Smart Text Message interactions in Real-Time Communications.  Overview Live Chat supplement your video and voice communication with advanced text chat capabilities using the WebRTC datachannel. Live Chat feature allows to send and receive text messages simultaneously, without any lag at a single click. It is the perfect tool to use for the customer and an agent conversation. Live chat integrates seamlessly into your application, eliminating the need for clunky third-party APIs.</description>
     </item>
     
     <item>
@@ -1137,7 +1145,8 @@ Video Calling. Video Gateway provides a simpler way for people to communicate vi
       <description>Photo source: Interactive Powers We are pleased to share our nice product microsite links in this post. You will find a summary of all features and an easier way to talk about them from socials networks and email.
 Microsite - VoiceXML IVR Refining IVR with Software · http://voicexml.ivrpowers.com
 Microsite - Video RTC Video Real Time Communications · http://videortc.ivrpowers.com
-Microsite - Webclient Calling from any Web Browser · http://webclient.ivrpowers.com</description>
+Microsite - Webclient Calling from any Web Browser · http://webclient.ivrpowers.com
+Microsite - Meeting Point Make secure business online meetings&amp;hellip; · http://meetingpoint.</description>
     </item>
     
     <item>
@@ -1157,7 +1166,7 @@ Microsite - Webclient Calling from any Web Browser · http://webclient.ivrpowers
       <guid>https://blog.ivrpowers.com/post/socials/follow-googleplus/</guid>
       <description>Interactive Powers has its own Google+ page! Meet more people interested on the latest collections and trends. And if you have any questions feel free to contact us.
 Follow our Google+ page at https://plus.google.com/110474380379482164317/
-Interactive Powers - Streamline your business communications</description>
+ Interactive Powers - Streamline your business communications</description>
     </item>
     
     <item>
@@ -1205,7 +1214,7 @@ ChangeLog Version 2.2.0:
       <pubDate>Sun, 09 Jul 2017 00:20:05 +0200</pubDate>
       
       <guid>https://blog.ivrpowers.com/post/technologies/webrtc-rtmp-to-sip-calling/</guid>
-      <description>Image source: Interactive Powers&amp;rsquo; elaboration How can you call a Desk Phone from any Web Browser? Our both Video Gateways (WebRTC | RTMP) can convert web browser media streams (video - audio - data) to SIP from WebRTC or RTMP peers communications. This interesting feature allows to connect easily web services to existing VoIP telephony channels of your IVR or PBX. We can consider all of this approach like a direct calling webphone or like a WebRTC-DDI or RTMP-DDI in a SIP trunk from an operator service configuration.</description>
+      <description>Image source: Interactive Powers&#39; elaboration How can you call a Desk Phone from any Web Browser? Our both Video Gateways (WebRTC | RTMP) can convert web browser media streams (video - audio - data) to SIP from WebRTC or RTMP peers communications. This interesting feature allows to connect easily web services to existing VoIP telephony channels of your IVR or PBX. We can consider all of this approach like a direct calling webphone or like a WebRTC-DDI or RTMP-DDI in a SIP trunk from an operator service configuration.</description>
     </item>
     
     <item>
@@ -1254,7 +1263,7 @@ VideoRTC.js library Today, we’re thrilled to officially announce a new VideoRT
       <guid>https://blog.ivrpowers.com/post/socials/follow-linkedin/</guid>
       <description>Interactive Powers has its own LinkedIn page! Meet more people interested on the latest trends on #RTC and #IVR. And if you have any questions feel free to contact us.
 Follow our Linkedin page at https://www.linkedin.com/company/ivrpowers
-Interactive Powers - Streamline your business communications</description>
+ Interactive Powers - Streamline your business communications</description>
     </item>
     
     <item>
@@ -1265,7 +1274,7 @@ Interactive Powers - Streamline your business communications</description>
       <guid>https://blog.ivrpowers.com/post/socials/join-instagram/</guid>
       <description>You can now follow us on Instagram!. We want to share our best tech pictures with you. Products, trends, promotions, innovations, conferences, updates&amp;hellip;
 We are waiting you! at https://www.instagram.com/ivrpowers/
-Interactive Powers - Streamline your business communications</description>
+ Interactive Powers - Streamline your business communications</description>
     </item>
     
     <item>
@@ -1287,7 +1296,7 @@ A Videocall is initiated by a customer endpoint and comes into the Video Gateway
       <guid>https://blog.ivrpowers.com/post/socials/followfacebook/</guid>
       <description>Do not forget to follow us on Facebook. You can contact us and stay updated on all that’s going on our company and on the latest news about #RTC or #IVR.
 Join us and stay tuned for new information at https://www.facebook.com/ivrpowers/
-Interactive Powers - Streamline your business communications</description>
+ Interactive Powers - Streamline your business communications</description>
     </item>
     
     <item>
@@ -1298,7 +1307,7 @@ Interactive Powers - Streamline your business communications</description>
       <guid>https://blog.ivrpowers.com/post/socials/join-tumblr/</guid>
       <description>You can easily track what’s happening by following us on Tumblr. Keep up to date about the most advanced #RTC and #IVR solutions and breakthrough technologies.
 Follow us at http://tumblr.ivrpowers.com/
-Interactive Powers - Streamline your business communications</description>
+ Interactive Powers - Streamline your business communications</description>
     </item>
     
     <item>
@@ -1330,7 +1339,7 @@ This enables applications such as video conferencing, file transfer, chat, or de
       <guid>https://blog.ivrpowers.com/post/socials/followus-twitter/</guid>
       <description>Be sure to follow us on Twitter with great brand updates, promotions and news about all things RTC or IVR. Our hand is @ivrpowers and our favorite hashtags right now are #RTC and #IVR.
 Give us a shout out! https://twitter.com/ivrpowers
-Interactive Powers - Streamline your business communications</description>
+ Interactive Powers - Streamline your business communications</description>
     </item>
     
     <item>
@@ -1393,8 +1402,7 @@ Live Chat. Video Gateway supports Live Chat feature thru a DataChannel. You can 
       <guid>https://blog.ivrpowers.com/post/trends/updating-inbound-phone-channel/</guid>
       <description>Most Call Centers are only managing standard inbound phone calls with the addition of &amp;ldquo;Click-to-call&amp;rdquo; or &amp;ldquo;Call-me-back&amp;rdquo; buttons. It&amp;rsquo;s a very interesting &amp;ldquo;work around&amp;rdquo; option but it&amp;rsquo;s not enough. More and more users don&amp;rsquo;t like to make a phone call when they are browsing the net.
 Users just want to keep on the same channel for many reasons:
- they don&amp;rsquo;t want to unveils their phone number…
- they don&amp;rsquo;t know if one agent will be available now or better later… they don&amp;rsquo;t want to leave their web session context&amp;hellip; they may have bad cellular coverage conditions to make a mobile call&amp;hellip; they may be traveling outside their country under expensive roaming conditions… they may not be able to explain properly their current webpage context…  That&amp;rsquo;s a lot of reasons to make any inbound phone service fail?</description>
+ they don&amp;rsquo;t want to unveils their phone number… they don&amp;rsquo;t know if one agent will be available now or better later… they don&amp;rsquo;t want to leave their web session context&amp;hellip; they may have bad cellular coverage conditions to make a mobile call&amp;hellip; they may be traveling outside their country under expensive roaming conditions… they may not be able to explain properly their current webpage context…  That&amp;rsquo;s a lot of reasons to make any inbound phone service fail?</description>
     </item>
     
     <item>

@@ -1,16 +1,12 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Livevideo on Blog</title>
+    <title>livevideo on Blog</title>
     <link>https://blog.ivrpowers.com/tags/livevideo/</link>
-    <description>Recent content in Livevideo on Blog</description>
+    <description>Recent content in livevideo on Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 15 Jun 2017 13:02:36 +0200</lastBuildDate>
-    
-	<atom:link href="https://blog.ivrpowers.com/tags/livevideo/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Thu, 15 Jun 2017 13:02:36 +0200</lastBuildDate><atom:link href="https://blog.ivrpowers.com/tags/livevideo/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Video Banking Revolution is coming</title>
       <link>https://blog.ivrpowers.com/post/financial/video-banking/</link>

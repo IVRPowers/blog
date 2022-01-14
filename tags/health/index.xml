@@ -1,23 +1,19 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Health on Blog</title>
+    <title>health on Blog</title>
     <link>https://blog.ivrpowers.com/tags/health/</link>
-    <description>Recent content in Health on Blog</description>
+    <description>Recent content in health on Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 02 Jun 2020 20:00:00 +0200</lastBuildDate>
-    
-	<atom:link href="https://blog.ivrpowers.com/tags/health/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Tue, 02 Jun 2020 20:00:00 +0200</lastBuildDate><atom:link href="https://blog.ivrpowers.com/tags/health/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>How COVID-19 pandemic is changing doctor visits.</title>
       <link>https://blog.ivrpowers.com/post/healthcare/how-covid19-pandemic-is-changing-doctor-visits/</link>
       <pubDate>Tue, 02 Jun 2020 20:00:00 +0200</pubDate>
       
       <guid>https://blog.ivrpowers.com/post/healthcare/how-covid19-pandemic-is-changing-doctor-visits/</guid>
-      <description>Photo source: Freepick Healthcare is turning to video communications to stay connected during COVID-19, with minimal disruption to its operations. Source: Bloomberg News
+      <description>Photo source: Freepick Healthcare is turning to video communications to stay connected during COVID-19, with minimal disruption to its operations.  Source: Bloomberg News
 Video check-up visits has become the norm for most healthcare providers during the coronavirus pandemic. Shelter-in-place orders have forced people into doing video sessions, and many doctors that never or rarely used video now have it as an essential tool. Simply put, video usage has seen a massive surge.</description>
     </item>
     
@@ -27,7 +23,7 @@ Video check-up visits has become the norm for most healthcare providers during t
       <pubDate>Wed, 13 May 2020 22:00:00 +0200</pubDate>
       
       <guid>https://blog.ivrpowers.com/post/healthcare/telehealth-evolution-in-times-of-covid-19/</guid>
-      <description>Photo source: Pexels Telemedicine is now a becoming household term both for doctors and patients. If you need to see a doctor any time soon and it&amp;rsquo;s unrelated to COVID-19, chances are that your visit will be a virtual one. Today the people is open to the idea of seeing a doctor virtually instead of an in-person visit, there are a positive momentum and that awareness has increased. When a virus outbreak occurs, diagnosing patients promptly, minimizing travel time, and reducing public exposure helps to curb the rate of infection.</description>
+      <description>Photo source: Pexels Telemedicine is now a becoming household term both for doctors and patients.  If you need to see a doctor any time soon and it&amp;rsquo;s unrelated to COVID-19, chances are that your visit will be a virtual one. Today the people is open to the idea of seeing a doctor virtually instead of an in-person visit, there are a positive momentum and that awareness has increased. When a virus outbreak occurs, diagnosing patients promptly, minimizing travel time, and reducing public exposure helps to curb the rate of infection.</description>
     </item>
     
     <item>
@@ -36,7 +32,7 @@ Video check-up visits has become the norm for most healthcare providers during t
       <pubDate>Wed, 13 May 2020 20:00:00 +0200</pubDate>
       
       <guid>https://blog.ivrpowers.com/post/healthcare/virgo-healthcare-annoucement/</guid>
-      <description>Photo source: Pexels We understand Telehealth has to be simple and fast, allowing doctors and patients to connect easier than ever during these difficult times! Interactive Powers as a leading video gateway developer has released Virgo Healthcare, a new smart videocall application &amp;ldquo;as a service&amp;rdquo; in response to the overwhelming increase virtual visits sparked by the COVID-19 global pandemic. This accessible and secure solution with hyper customization offers the greater doctor and patient experience for a such critical digital interactions.</description>
+      <description>Photo source: Pexels We understand Telehealth has to be simple and fast, allowing doctors and patients to connect easier than ever during these difficult times!  Interactive Powers as a leading video gateway developer has released Virgo Healthcare, a new smart videocall application &amp;ldquo;as a service&amp;rdquo; in response to the overwhelming increase virtual visits sparked by the COVID-19 global pandemic. This accessible and secure solution with hyper customization offers the greater doctor and patient experience for a such critical digital interactions.</description>
     </item>
     
     <item>
@@ -45,7 +41,7 @@ Video check-up visits has become the norm for most healthcare providers during t
       <pubDate>Sun, 10 May 2020 22:00:00 +0200</pubDate>
       
       <guid>https://blog.ivrpowers.com/post/healthcare/telemedicine-is-changing-the-face-of-healthcare-delivery/</guid>
-      <description>Photo source: Pexels The COVID-19 global pandemic has both rocked the economy and tested the limits of already-stretched healthcare systems. The COVID-19 / Coronavirus is quickly spreading its tentacles across the globe. This pandemic has brought out the best in people as new partnerships form to combat a common enemy. While the pandemic tears across the globe, so to do the unprecedented and innovative changes in pharma, manufacturing, and care delivery.</description>
+      <description>Photo source: Pexels The COVID-19 global pandemic has both rocked the economy and tested the limits of already-stretched healthcare systems.  The COVID-19 / Coronavirus is quickly spreading its tentacles across the globe. This pandemic has brought out the best in people as new partnerships form to combat a common enemy. While the pandemic tears across the globe, so to do the unprecedented and innovative changes in pharma, manufacturing, and care delivery.</description>
     </item>
     
   </channel>

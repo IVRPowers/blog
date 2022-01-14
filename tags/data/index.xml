@@ -1,16 +1,12 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Data on Blog</title>
+    <title>data on Blog</title>
     <link>https://blog.ivrpowers.com/tags/data/</link>
-    <description>Recent content in Data on Blog</description>
+    <description>Recent content in data on Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 29 Jul 2018 20:00:00 +0200</lastBuildDate>
-    
-	<atom:link href="https://blog.ivrpowers.com/tags/data/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Sun, 29 Jul 2018 20:00:00 +0200</lastBuildDate><atom:link href="https://blog.ivrpowers.com/tags/data/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Interactive Powers and GDPR</title>
       <link>https://blog.ivrpowers.com/post/general/interactive-powers-gdpr/</link>
@@ -27,7 +23,7 @@ Policy Updates  Terms of Service: were updated to reflect GDPR requirements. Pri
       <pubDate>Tue, 26 Sep 2017 12:06:30 +0200</pubDate>
       
       <guid>https://blog.ivrpowers.com/post/trends/security-factor/</guid>
-      <description>Photo Source: Pixabay, Creative Commons Communications Security is more important ever than ever to handle properly any business. Security tops the list on concerns about RTC. Considering the risks of new exposed system vulnerabilities and the increasing scope and scale of breaches, security is more important than ever. In fact, uncertainty about which device provides privacy and security has become a hindrance to purchasing an IoT device. But despite the increasing concerns among consumers, researches show that security is still one of the major challenges that companies need to deal with.</description>
+      <description>Photo Source: Pixabay, Creative Commons Communications Security is more important ever than ever to handle properly any business.  Security tops the list on concerns about RTC. Considering the risks of new exposed system vulnerabilities and the increasing scope and scale of breaches, security is more important than ever. In fact, uncertainty about which device provides privacy and security has become a hindrance to purchasing an IoT device. But despite the increasing concerns among consumers, researches show that security is still one of the major challenges that companies need to deal with.</description>
     </item>
     
     <item>

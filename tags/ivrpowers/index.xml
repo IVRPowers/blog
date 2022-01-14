@@ -1,16 +1,12 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Ivrpowers on Blog</title>
+    <title>ivrpowers on Blog</title>
     <link>https://blog.ivrpowers.com/tags/ivrpowers/</link>
-    <description>Recent content in Ivrpowers on Blog</description>
+    <description>Recent content in ivrpowers on Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 12 Jun 2017 09:42:42 +0200</lastBuildDate>
-    
-	<atom:link href="https://blog.ivrpowers.com/tags/ivrpowers/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Thu, 13 Jan 2022 12:00:00 +0200</lastBuildDate><atom:link href="https://blog.ivrpowers.com/tags/ivrpowers/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Welcome to our New Blog!</title>
       <link>https://blog.ivrpowers.com/post/general/welcome-blog/</link>
@@ -41,12 +37,23 @@ Interactive Powers delivers communication platforms that enables advanced real-t
     </item>
     
     <item>
+      <title>Video RTC (WebRTC) v5.0.0</title>
+      <link>https://blog.ivrpowers.com/post/updates/update-video-rtc-webrtc-5.0.0/</link>
+      <pubDate>Thu, 13 Jan 2022 12:00:00 +0200</pubDate>
+      
+      <guid>https://blog.ivrpowers.com/post/updates/update-video-rtc-webrtc-5.0.0/</guid>
+      <description>Release Note We are pleased to announce that our new Video RTC (Gateway WebRTC) v5.0.0 has been released for suitable production services. This new version includes a specific security fix for data channel recommendations. All users with previous maintained versions can upgrade today. Please contact our support!
+ChangeLog Version 5.0.0:
+## [5.0.0] - 2022-01-12 ### Added - New configuration params to the Tester usecase: autoStart, autoTroubleshoot and showRedirectBtnOnlyIfTestOk - Added a way for the Tester to know which checks are necessary to display the Next button - Advice feature to the SPLIT Agent usecase - Possibility in the Webclient to differentiate when a call in queue or on hold - Possibility to download chat history from the SPLIT Agent usecase - Flip Camera action on both the Videocall and RemoteViewer usecases - Possibility to configure webpage title and favicon by theme - Possibility to setup RemoteViewer without ScreenSharing or Audio - Option to configure an endpoint to send snapshots via URL request from the SplitAgent - Added a way to apply different CSS rules depending on the theme name - Webclient can now be configured in escalating mode ### Changed - OS System required has gone up to Debian 11 - New structure of the web resources after a build - Added camera check before starting SplitAgent plus moved auto recording trigger from onAcceptedVideo to onJoined event ### Updated - Updated VideoRTC.</description>
+    </item>
+    
+    <item>
       <title>Happy New Year 2022!</title>
       <link>https://blog.ivrpowers.com/post/general/happy-new-year-2022/</link>
       <pubDate>Sat, 01 Jan 2022 12:00:00 +0200</pubDate>
       
       <guid>https://blog.ivrpowers.com/post/general/happy-new-year-2022/</guid>
-      <description>Photo source: Interactive Powers May peace, inspiration and happiness be yours throughout New Year 2022! Hard work, creativity, and commitment to excellence has been invaluable to us this 2021. As we step into another year, I wish you confidence and courage to accept new challenges and work further towards your goals!
+      <description>Photo source: Interactive Powers May peace, inspiration and happiness be yours throughout New Year 2022!  Hard work, creativity, and commitment to excellence has been invaluable to us this 2021. As we step into another year, I wish you confidence and courage to accept new challenges and work further towards your goals!
 Happy New Year! Wishing all the best to you and your family as we head into 2022! 🍾 🥂</description>
     </item>
     
@@ -56,7 +63,7 @@ Happy New Year! Wishing all the best to you and your family as we head into 2022
       <pubDate>Wed, 22 Dec 2021 23:00:00 +0200</pubDate>
       
       <guid>https://blog.ivrpowers.com/post/general/merry-christmas-2021/</guid>
-      <description>Photo source: Interactive Powers Wishing you a wonderful holiday season. The year 2021 has also been a year of growth for Interactive Powers and impresive video adoption, in many industries. We are proud enabling businesses to stay connected to their customers growing and improving their business communication services.
+      <description>Photo source: Interactive Powers Wishing you a wonderful holiday season.  The year 2021 has also been a year of growth for Interactive Powers and impresive video adoption, in many industries. We are proud enabling businesses to stay connected to their customers growing and improving their business communication services.
 From all our team at Interactive Powers, we want to express sincere gratitude for our amazing clients, partners, and all people who give us meaning and drive us forward every day.</description>
     </item>
     
@@ -68,7 +75,7 @@ From all our team at Interactive Powers, we want to express sincere gratitude fo
       <guid>https://blog.ivrpowers.com/post/general/happy-thanksgiving-2021/</guid>
       <description>Photo source: Unsplah, Creative Commons Celebrate your blessings and cherish the memories that you&amp;rsquo;ve shared, with happiness and cheer. Interactive Powers wants to give special thanks to every customer and business for all the support you have given us through the years!
 We wish every one a wonderful and happy Thanksgiving! 🦃🎉
-Interactive Powers - Streamline your business communications</description>
+ Interactive Powers - Streamline your business communications</description>
     </item>
     
     <item>
@@ -77,8 +84,8 @@ Interactive Powers - Streamline your business communications</description>
       <pubDate>Sat, 30 Oct 2021 17:00:00 +0200</pubDate>
       
       <guid>https://blog.ivrpowers.com/post/general/happy-halloween-2021/</guid>
-      <description>Photo source: Interactive Powers, Creative Commons We want to wish you a dreadful and spooky 👻 Halloween 🎃 night from all Interactive Powers&amp;rsquo; team.
-Interactive Powers - Streamline your business communications</description>
+      <description>Photo source: Interactive Powers, Creative Commons We want to wish you a dreadful and spooky 👻 Halloween 🎃 night from all Interactive Powers&#39; team.
+ Interactive Powers - Streamline your business communications</description>
     </item>
     
     <item>
@@ -120,7 +127,7 @@ ChangeLog Version 4.3.0:
       <pubDate>Tue, 12 Jan 2021 09:42:42 +0200</pubDate>
       
       <guid>https://blog.ivrpowers.com/post/general/empowered-chatbot/</guid>
-      <description>Photo source: Interactive Powers Integrating Chatbot on our websites for more comprehensive way to grab visitors&amp;rsquo; interactions. Our Chatbot is a software-programmed, conversational virtual agent which is able to understand human text/speech inputs and 24&amp;frasl;7 respond back with a meaningful answer, in the most natural (read human) way possible. It includes many smart integrations to enable a Phone Call Transfer or Video Call to a real agent.
+      <description>Photo source: Interactive Powers Integrating Chatbot on our websites for more comprehensive way to grab visitors&#39; interactions.  Our Chatbot is a software-programmed, conversational virtual agent which is able to understand human text/speech inputs and 24/7 respond back with a meaningful answer, in the most natural (read human) way possible. It includes many smart integrations to enable a Phone Call Transfer or Video Call to a real agent.
 Our Chatbot speaks in several languages according to our both portals:</description>
     </item>
     
@@ -130,7 +137,7 @@ Our Chatbot speaks in several languages according to our both portals:</descript
       <pubDate>Thu, 31 Dec 2020 12:00:00 +0200</pubDate>
       
       <guid>https://blog.ivrpowers.com/post/general/happy-new-year-2021/</guid>
-      <description>Photo source: Interactive Powers May peace, inspiration and happiness be yours throughout New Year 2021! We are deeply grateful and thankful to all our clients, partners, employees, providers, and friends for striving to succeed together. Thank you again for your confidence and loyalty and let season’s holidays be sweet and simple for you and your families.
+      <description>Photo source: Interactive Powers May peace, inspiration and happiness be yours throughout New Year 2021!  We are deeply grateful and thankful to all our clients, partners, employees, providers, and friends for striving to succeed together. Thank you again for your confidence and loyalty and let season’s holidays be sweet and simple for you and your families.
 We gratefully want to wish you a better New Year 2021! 🍾 🥂</description>
     </item>
     
@@ -140,7 +147,7 @@ We gratefully want to wish you a better New Year 2021! 🍾 🥂</description>
       <pubDate>Mon, 21 Dec 2020 16:00:00 +0200</pubDate>
       
       <guid>https://blog.ivrpowers.com/post/general/merry-christmas-2020/</guid>
-      <description>Photo source: Interactive Powers Sending our best wishes to you and yours. The year 2020 has been a strange, hard and challenging year for everyone, but one that has forever cemented the importance of digital connection in our personal and business lives when safety or social distancing is required. It has also been a year of growth for Interactive Powers and video adoption, in general. We are proud of the part we are playing in enabling businesses to stay connected to their customers growing and elevating their services.</description>
+      <description>Photo source: Interactive Powers Sending our best wishes to you and yours.  The year 2020 has been a strange, hard and challenging year for everyone, but one that has forever cemented the importance of digital connection in our personal and business lives when safety or social distancing is required. It has also been a year of growth for Interactive Powers and video adoption, in general. We are proud of the part we are playing in enabling businesses to stay connected to their customers growing and elevating their services.</description>
     </item>
     
     <item>
@@ -150,8 +157,8 @@ We gratefully want to wish you a better New Year 2021! 🍾 🥂</description>
       
       <guid>https://blog.ivrpowers.com/post/general/thank-you-miami-dade/</guid>
       <description>Photo source: Interactive Powers  Very honoured to have been presented with the key of Miami by Miami-Dade Beacon Council &amp;amp; Mayor Carlos Gimenez. A trully wonderful and welcoming city.
-  Es un gran honor que Miami-Dade Beacon Council y el alcalde Carlos Giménez nos hayan entregado la llave de Miami. Una ciudad verdaderamente maravillosa y acogedora.
- Interactive Powers - Streamline your business communications</description>
+   Es un gran honor que Miami-Dade Beacon Council y el alcalde Carlos Giménez nos hayan entregado la llave de Miami. Una ciudad verdaderamente maravillosa y acogedora.
+  Interactive Powers - Streamline your business communications</description>
     </item>
     
     <item>
@@ -162,7 +169,7 @@ We gratefully want to wish you a better New Year 2021! 🍾 🥂</description>
       <guid>https://blog.ivrpowers.com/post/general/happy-thanksgiving-2020/</guid>
       <description>Photo source: Freepik, Creative Commons Celebrate your blessings and cherish the memories that you&amp;rsquo;ve shared, with happiness and cheer. Interactive Powers wants to give special thanks to every customer and business for all the support you have given us through the years!
 We wish every one a wonderful and happy Thanksgiving! 🦃🎉
-Interactive Powers - Streamline your business communications</description>
+ Interactive Powers - Streamline your business communications</description>
     </item>
     
     <item>
@@ -171,8 +178,8 @@ Interactive Powers - Streamline your business communications</description>
       <pubDate>Sat, 31 Oct 2020 09:00:00 +0200</pubDate>
       
       <guid>https://blog.ivrpowers.com/post/general/happy-halloween-2020/</guid>
-      <description>Photo source: Interactive Powers, Creative Commons We want to wish you a dreadful and spooky 👻 Halloween 🎃 night from all Interactive Powers&amp;rsquo; team.
-Interactive Powers - Streamline your business communications</description>
+      <description>Photo source: Interactive Powers, Creative Commons We want to wish you a dreadful and spooky 👻 Halloween 🎃 night from all Interactive Powers&#39; team.
+ Interactive Powers - Streamline your business communications</description>
     </item>
     
     <item>
@@ -216,7 +223,7 @@ ChangeLog Version 3.3.0:
       <guid>https://blog.ivrpowers.com/post/updates/update-video-rtc-webrtc-4.2.0/</guid>
       <description>Release Note We are pleased to announce that our new Video RTC (Gateway WebRTC) v4.2.0 has been released for suitable production services. This new version includes specific improvements and new features. All users with previous maintained versions can upgrade today. Please contact our support!
 ChangeLog Version 4.2.0:
-## [4.2.0] - 2020-03-25 ### Added - Enabled ScreenSharing in the WebClient for Chrome and Opera browsers - Added possibility to send links via chat - Added SPLIT reverse feature in the SPLIT Agent usecase - Added possibility to configure the autoclose option in &#39;forced&#39; mode for SPLIT usecases - Added a new URL parameter called `from` on the Webclient and Escalating usecases - Added a new theme parameter `resolution` in all usecases where video is used ### Updated - Updated VideoRTC.</description>
+## [4.2.0] - 2020-03-25 ### Added - Enabled ScreenSharing in the WebClient for Chrome and Opera browsers - Added possibility to send links via chat - Added SPLIT reverse feature in the SPLIT Agent usecase - Added possibility to configure the autoclose option in &amp;#39;forced&amp;#39; mode for SPLIT usecases - Added a new URL parameter called `from` on the Webclient and Escalating usecases - Added a new theme parameter `resolution` in all usecases where video is used ### Updated - Updated VideoRTC.</description>
     </item>
     
     <item>
@@ -225,7 +232,7 @@ ChangeLog Version 4.2.0:
       <pubDate>Sun, 01 Mar 2020 10:00:00 +0200</pubDate>
       
       <guid>https://blog.ivrpowers.com/post/general/next-emerge-americas-2020/</guid>
-      <description>Join us next days 30th - 31h March at eMerge Americas event at Miami Beach, Florida For the first time, Interactive Powers (ivrpowers.com) will be attending eMerge Americas, March 30 – 31, 2019 in Miami Beach - Convention Center. eMerge Americas is the premier technology event connecting the Americas. eMerge Americas is not just an event- it’s an ecosystem that is transforming Miami into the Tech Hub of the Americas.</description>
+      <description>Join us next days 30th - 31h March at eMerge Americas event at Miami Beach, Florida  For the first time, Interactive Powers (ivrpowers.com) will be attending eMerge Americas, March 30 – 31, 2019 in Miami Beach - Convention Center. eMerge Americas is the premier technology event connecting the Americas. eMerge Americas is not just an event- it’s an ecosystem that is transforming Miami into the Tech Hub of the Americas.</description>
     </item>
     
     <item>
@@ -245,7 +252,7 @@ ChangeLog Version 4.1.1:
       <pubDate>Thu, 06 Feb 2020 20:00:00 +0200</pubDate>
       
       <guid>https://blog.ivrpowers.com/post/general/next-itexpo-2020/</guid>
-      <description>Meet us next days 11th - 14th February at next ITEXPO 2020 event at Fort Lauderdale, Florida If you are attending ITEXPO and would like to discuss how to get enhance your business and opportunities with Cloud Communications for Conversational IVR, WebRTC gateways and CPaaS. Let&amp;rsquo;s set up some time to sit down and discover how we are helping all our partners with our Video RTC and Smart IVR solutions.</description>
+      <description>Meet us next days 11th - 14th February at next ITEXPO 2020 event at Fort Lauderdale, Florida  If you are attending ITEXPO and would like to discuss how to get enhance your business and opportunities with Cloud Communications for Conversational IVR, WebRTC gateways and CPaaS. Let&amp;rsquo;s set up some time to sit down and discover how we are helping all our partners with our Video RTC and Smart IVR solutions.</description>
     </item>
     
     <item>
@@ -276,8 +283,8 @@ ChangeLog Version 3.2.0:
       <pubDate>Thu, 31 Oct 2019 09:00:00 +0200</pubDate>
       
       <guid>https://blog.ivrpowers.com/post/general/happy-halloween-2019/</guid>
-      <description>Photo source: Interactive Powers, Creative Commons We want to wish you a dreadful and spooky 👻 Halloween 🎃 night from all Interactive Powers&amp;rsquo; team.
-Interactive Powers - Streamline your business communications</description>
+      <description>Photo source: Interactive Powers, Creative Commons We want to wish you a dreadful and spooky 👻 Halloween 🎃 night from all Interactive Powers&#39; team.
+ Interactive Powers - Streamline your business communications</description>
     </item>
     
     <item>
@@ -351,7 +358,7 @@ ChangeLog Version 2.0:
       <pubDate>Sat, 02 Feb 2019 14:00:00 +0200</pubDate>
       
       <guid>https://blog.ivrpowers.com/post/general/welcome-interaccionesdigitales/</guid>
-      <description>Photo source: Unsplash. Creative Commons Interactive Powers in Spanish: Interacciones Digitales Interactive Powers is pleased to announce the release of our new spanish website called &amp;ldquo;Interacciones Digitales&amp;rdquo;, designed with a fresh new look and user-friendly responsive navigation, updated with the latest information about our products. We hope you will enjoy our new site in spanish. Our goal with new website is to provide our spanish speaker visitors and customers an easier way to learn about our solutions and cloud services.</description>
+      <description>Photo source: Unsplash. Creative Commons Interactive Powers in Spanish: Interacciones Digitales  Interactive Powers is pleased to announce the release of our new spanish website called &amp;ldquo;Interacciones Digitales&amp;rdquo;, designed with a fresh new look and user-friendly responsive navigation, updated with the latest information about our products. We hope you will enjoy our new site in spanish. Our goal with new website is to provide our spanish speaker visitors and customers an easier way to learn about our solutions and cloud services.</description>
     </item>
     
     <item>
@@ -381,7 +388,7 @@ CPaaS is the new cloud&amp;rsquo;s Game Changer The level of maturity of the ser
       <pubDate>Fri, 21 Dec 2018 16:00:00 +0200</pubDate>
       
       <guid>https://blog.ivrpowers.com/post/general/merry-christmas-2018/</guid>
-      <description>Photo source: Interactive Powers May peace, prosperity, and happiness be yours throughout Christmas and New Year! At the close of another year, we gratefully want to wish you a warm and Christmas season! We are deeply grateful and thankful to all our partners, employees, providers, friends and customers for striving to succeed together. Thank you again for your confidence and loyalty and let season’s holidays be sweet and simple for you and your families.</description>
+      <description>Photo source: Interactive Powers May peace, prosperity, and happiness be yours throughout Christmas and New Year!  At the close of another year, we gratefully want to wish you a warm and Christmas season! We are deeply grateful and thankful to all our partners, employees, providers, friends and customers for striving to succeed together. Thank you again for your confidence and loyalty and let season’s holidays be sweet and simple for you and your families.</description>
     </item>
     
     <item>
@@ -403,7 +410,7 @@ We would like to thank our partners, USA-VOIP and Avanzada7, and all the people 
       <guid>https://blog.ivrpowers.com/post/updates/update-video-rtc-webrtc-3.3.1/</guid>
       <description>Release Note We are pleased to announce that our new Video RTC (Gateway WebRTC) v3.3.1 has been released for suitable production services. This new version includes a hot fix for Firefox Web Browsers. All users with previous maintained versions can upgrade today. Please contact our support!
 ChangeLog Version 3.3.1:
-## [3.3.1] - 2018-11-13 ### Added - If the Videoplayer only finds one record, it&#39;s preselected ### Fixed - Resized calling message for mobile devices - Fixed SDP negotiations from Firefox 63+  Interactive Powers - Streamline your business communications</description>
+## [3.3.1] - 2018-11-13 ### Added - If the Videoplayer only finds one record, it&amp;#39;s preselected ### Fixed - Resized calling message for mobile devices - Fixed SDP negotiations from Firefox 63+  Interactive Powers - Streamline your business communications</description>
     </item>
     
     <item>
@@ -434,7 +441,7 @@ We are delighted with the success of the event and the warm welcome of our parti
       <pubDate>Fri, 02 Nov 2018 09:00:00 +0200</pubDate>
       
       <guid>https://blog.ivrpowers.com/post/general/next-voip2day-2018/</guid>
-      <description>Be ready to assist at the 11th edition of VOIP2DAY, the major event about Voice over IP of the year in Spain! As you may know, Interactive Powers will be speaking at VoIP2DAY 2018: November 14th &amp;amp; 15th at Wanda Metropolitano Stadium, Madrid. We will share latest industry news, knowledges, experiences, trends with all companies and visitors of the main sector of Telephony and Comunications in Europe and Latin America.</description>
+      <description>Be ready to assist at the 11th edition of VOIP2DAY, the major event about Voice over IP of the year in Spain!  As you may know, Interactive Powers will be speaking at VoIP2DAY 2018: November 14th &amp;amp; 15th at Wanda Metropolitano Stadium, Madrid. We will share latest industry news, knowledges, experiences, trends with all companies and visitors of the main sector of Telephony and Comunications in Europe and Latin America.</description>
     </item>
     
     <item>
@@ -443,8 +450,8 @@ We are delighted with the success of the event and the warm welcome of our parti
       <pubDate>Wed, 31 Oct 2018 09:00:00 +0200</pubDate>
       
       <guid>https://blog.ivrpowers.com/post/general/happy-halloween-2018/</guid>
-      <description>Photo source: Pexels, Creative Commons We want to wish you a dreadful and spooky 👻 Halloween 🎃 night from all Interactive Powers&amp;rsquo; team.
-Interactive Powers - Streamline your business communications</description>
+      <description>Photo source: Pexels, Creative Commons We want to wish you a dreadful and spooky 👻 Halloween 🎃 night from all Interactive Powers&#39; team.
+ Interactive Powers - Streamline your business communications</description>
     </item>
     
     <item>
@@ -453,7 +460,7 @@ Interactive Powers - Streamline your business communications</description>
       <pubDate>Thu, 11 Oct 2018 20:00:00 +0200</pubDate>
       
       <guid>https://blog.ivrpowers.com/post/general/next-itsmf-vision18/</guid>
-      <description>Be ready to assist at the 13th edition of the &amp;ldquo;Congreso Nacional VISION18&amp;rdquo;, the major IT &amp;amp; Digital Transformation event from itSMF Spain! As you may know, Interactive Powers will be speaking at Vision18 congress October 25th at Centro de Innovación LA NAVE del Ayuntamiento de Madrid - Calle Cifuentes, 5, 28021 Madrid. We will share latest technologies news, knowledges, experiences, trends with all startups, companies and visitors.
+      <description>Be ready to assist at the 13th edition of the &amp;ldquo;Congreso Nacional VISION18&amp;rdquo;, the major IT &amp;amp; Digital Transformation event from itSMF Spain!  As you may know, Interactive Powers will be speaking at Vision18 congress October 25th at Centro de Innovación LA NAVE del Ayuntamiento de Madrid - Calle Cifuentes, 5, 28021 Madrid. We will share latest technologies news, knowledges, experiences, trends with all startups, companies and visitors.
 We are really pleased to be at itSMF - VISION18 with our partner Exevi.</description>
     </item>
     
@@ -463,7 +470,7 @@ We are really pleased to be at itSMF - VISION18 with our partner Exevi.</descrip
       <pubDate>Sun, 07 Oct 2018 20:00:00 +0200</pubDate>
       
       <guid>https://blog.ivrpowers.com/post/products/turnkey-cloud-hosting/</guid>
-      <description>Photo source: Unsplash. Creative Commons Turnkey Solutions are designed to provide a quick startup without any IT requirement for your business. Our Turnkey Portfolio offers flexibility and deliver significant savings to enterprises or service providers. These pay-as-you-go products can be standalone or used in combination to provide an end to end communication services for many kind of businesses over WebRTC, RTMP, VoIP to PSTN networks.
+      <description>Photo source: Unsplash. Creative Commons Turnkey Solutions are designed to provide a quick startup without any IT requirement for your business.  Our Turnkey Portfolio offers flexibility and deliver significant savings to enterprises or service providers. These pay-as-you-go products can be standalone or used in combination to provide an end to end communication services for many kind of businesses over WebRTC, RTMP, VoIP to PSTN networks.
 Forget technology, it&amp;rsquo;s about business.</description>
     </item>
     
@@ -506,7 +513,7 @@ ChangeLog Version 2.1.0 · 2.4.0:
       <pubDate>Thu, 05 Jul 2018 20:30:00 +0200</pubDate>
       
       <guid>https://blog.ivrpowers.com/post/products/real-time-communications-applications/</guid>
-      <description>Photo source: Pixabay. Creative Commons Real-time Communications applications to streamline your online business. Video RTC platforms are changing the way real-time communications are developed and delivered. It is fast becoming the platform of choice for rapidly building enterprise class real-time voice and video applications. Our communications platform is 100% cloud ready, offering continuous evolution, scalability and high availability.
+      <description>Photo source: Pixabay. Creative Commons Real-time Communications applications to streamline your online business.  Video RTC platforms are changing the way real-time communications are developed and delivered. It is fast becoming the platform of choice for rapidly building enterprise class real-time voice and video applications. Our communications platform is 100% cloud ready, offering continuous evolution, scalability and high availability.
  Video chat is a clearer and modern way to communicate for online businesses</description>
     </item>
     
@@ -516,7 +523,7 @@ ChangeLog Version 2.1.0 · 2.4.0:
       <pubDate>Wed, 04 Jul 2018 13:30:00 +0200</pubDate>
       
       <guid>https://blog.ivrpowers.com/post/products/conversational-ivr-applications/</guid>
-      <description>Photo source: Pixabay. Creative Commons Conversational IVR applications to improve your customer experience in phone services. Tradicional IVR systems have been built as limited DTMF and direct IVR dialogs for a long time. Yet it is not a secret that the experience using those solutions has is rather poor. In 70% of those interactions, the end users end up frustrated; at “best” case scenario are rerouted to a human agent.</description>
+      <description>Photo source: Pixabay. Creative Commons Conversational IVR applications to improve your customer experience in phone services.  Tradicional IVR systems have been built as limited DTMF and direct IVR dialogs for a long time. Yet it is not a secret that the experience using those solutions has is rather poor. In 70% of those interactions, the end users end up frustrated; at “best” case scenario are rerouted to a human agent.</description>
     </item>
     
     <item>
@@ -525,7 +532,7 @@ ChangeLog Version 2.1.0 · 2.4.0:
       <pubDate>Sun, 10 Jun 2018 15:00:00 +0200</pubDate>
       
       <guid>https://blog.ivrpowers.com/post/products/turnkey-solutions/</guid>
-      <description>The Turnkey Solutions for your business Our Turnkey Portfolio offers flexibility and deliver significant savings to enterprises or service providers. These pay-as-you-go products can be standalone or used in combination to provide an end to end communication services for many kind of businesses over WebRTC, RTMP, VoIP to PSTN networks.
+      <description>The Turnkey Solutions for your business  Our Turnkey Portfolio offers flexibility and deliver significant savings to enterprises or service providers. These pay-as-you-go products can be standalone or used in combination to provide an end to end communication services for many kind of businesses over WebRTC, RTMP, VoIP to PSTN networks.
 Forget technology, it&amp;rsquo;s about business. Web Dialer.  Make Voice Calls from any modern Web Browser
  Web Dialer allows all your customers and users to make phone calls directly to your PBX, IVR, Call Center from any desktop web browser (Firefox, Chrome, IE, Safari, Opera,…).</description>
     </item>
@@ -571,7 +578,7 @@ ChangeLog Version 3.1.0:
       <guid>https://blog.ivrpowers.com/post/updates/update-video-rtc-rtmp-1.3.0/</guid>
       <description>Release Note We are pleased to announce that our new Video RTC (Gateway RTMP) v1.3.0 has been released for suitable production services. This new version includes a lot of improvements and new features. All users with previous maintained versions can upgrade today. Please contact our support!
 ChangeLog Version 1.3.0:
-## [1.3.0] - 2018-01-08 ### Added - Favicon in Split Use Case (Webclient and Agent) ### Changed - The default look for the agent webphone is now &#39;agent&#39; - Removed extra HTML code that was in the index.</description>
+## [1.3.0] - 2018-01-08 ### Added - Favicon in Split Use Case (Webclient and Agent) ### Changed - The default look for the agent webphone is now &amp;#39;agent&amp;#39; - Removed extra HTML code that was in the index.</description>
     </item>
     
     <item>
@@ -580,7 +587,7 @@ ChangeLog Version 1.3.0:
       <pubDate>Thu, 21 Dec 2017 12:00:00 +0200</pubDate>
       
       <guid>https://blog.ivrpowers.com/post/general/merry-christmas-2017/</guid>
-      <description>Photo source: Interactive Powers May peace, prosperity, and happiness be yours throughout Christmas and New Year! At the close of another year, we gratefully want to wish you a warm and happy holiday season! We are deeply grateful and thankful to all our partners and customers for striving to succeed together. Thank you for your confidence and loyalty and let season’s holidays be sweet and simple for you and your families.</description>
+      <description>Photo source: Interactive Powers May peace, prosperity, and happiness be yours throughout Christmas and New Year!  At the close of another year, we gratefully want to wish you a warm and happy holiday season! We are deeply grateful and thankful to all our partners and customers for striving to succeed together. Thank you for your confidence and loyalty and let season’s holidays be sweet and simple for you and your families.</description>
     </item>
     
     <item>
@@ -621,7 +628,7 @@ Follow him on Linkedin
       <pubDate>Sat, 04 Nov 2017 20:00:00 +0200</pubDate>
       
       <guid>https://blog.ivrpowers.com/post/general/next-voip2day-2017/</guid>
-      <description>Be ready to assist at the 10th edition of VOIP2DAY, the major event about Voice over IP of the year in Spain! As you may know, Interactive Powers will be speaking at VoIP2DAY 2017: November 15th &amp;amp; 16th at Wanda Metropolitano Stadium, Madrid. We will share latest industry news, knowledges, experiences, trends with all companies and visitors of the main sector of Telephony and Comunications in Europe and Latin America.</description>
+      <description>Be ready to assist at the 10th edition of VOIP2DAY, the major event about Voice over IP of the year in Spain!  As you may know, Interactive Powers will be speaking at VoIP2DAY 2017: November 15th &amp;amp; 16th at Wanda Metropolitano Stadium, Madrid. We will share latest industry news, knowledges, experiences, trends with all companies and visitors of the main sector of Telephony and Comunications in Europe and Latin America.</description>
     </item>
     
     <item>
@@ -630,8 +637,8 @@ Follow him on Linkedin
       <pubDate>Tue, 31 Oct 2017 20:40:07 +0200</pubDate>
       
       <guid>https://blog.ivrpowers.com/post/general/happy-halloween-2017/</guid>
-      <description>Photo source: Pexels, Creative Commons We want to wish you a dreadful and spooky Halloween night from all Interactive Powers&amp;rsquo; team.
-Interactive Powers - Streamline your business communications</description>
+      <description>Photo source: Pexels, Creative Commons We want to wish you a dreadful and spooky Halloween night from all Interactive Powers&#39; team.
+ Interactive Powers - Streamline your business communications</description>
     </item>
     
     <item>
@@ -703,7 +710,7 @@ List of Use Cases (WebRTC):
       <guid>https://blog.ivrpowers.com/post/socials/follow-googleplus/</guid>
       <description>Interactive Powers has its own Google+ page! Meet more people interested on the latest collections and trends. And if you have any questions feel free to contact us.
 Follow our Google+ page at https://plus.google.com/110474380379482164317/
-Interactive Powers - Streamline your business communications</description>
+ Interactive Powers - Streamline your business communications</description>
     </item>
     
     <item>
@@ -734,7 +741,7 @@ ChangeLog Version 2.2.0:
       <guid>https://blog.ivrpowers.com/post/socials/follow-linkedin/</guid>
       <description>Interactive Powers has its own LinkedIn page! Meet more people interested on the latest trends on #RTC and #IVR. And if you have any questions feel free to contact us.
 Follow our Linkedin page at https://www.linkedin.com/company/ivrpowers
-Interactive Powers - Streamline your business communications</description>
+ Interactive Powers - Streamline your business communications</description>
     </item>
     
     <item>
@@ -745,7 +752,7 @@ Interactive Powers - Streamline your business communications</description>
       <guid>https://blog.ivrpowers.com/post/socials/join-instagram/</guid>
       <description>You can now follow us on Instagram!. We want to share our best tech pictures with you. Products, trends, promotions, innovations, conferences, updates&amp;hellip;
 We are waiting you! at https://www.instagram.com/ivrpowers/
-Interactive Powers - Streamline your business communications</description>
+ Interactive Powers - Streamline your business communications</description>
     </item>
     
     <item>
@@ -756,7 +763,7 @@ Interactive Powers - Streamline your business communications</description>
       <guid>https://blog.ivrpowers.com/post/socials/followfacebook/</guid>
       <description>Do not forget to follow us on Facebook. You can contact us and stay updated on all that’s going on our company and on the latest news about #RTC or #IVR.
 Join us and stay tuned for new information at https://www.facebook.com/ivrpowers/
-Interactive Powers - Streamline your business communications</description>
+ Interactive Powers - Streamline your business communications</description>
     </item>
     
     <item>
@@ -767,7 +774,7 @@ Interactive Powers - Streamline your business communications</description>
       <guid>https://blog.ivrpowers.com/post/socials/join-tumblr/</guid>
       <description>You can easily track what’s happening by following us on Tumblr. Keep up to date about the most advanced #RTC and #IVR solutions and breakthrough technologies.
 Follow us at http://tumblr.ivrpowers.com/
-Interactive Powers - Streamline your business communications</description>
+ Interactive Powers - Streamline your business communications</description>
     </item>
     
     <item>
@@ -789,7 +796,7 @@ ChangeLog Version 2.1.0:
       <guid>https://blog.ivrpowers.com/post/socials/followus-twitter/</guid>
       <description>Be sure to follow us on Twitter with great brand updates, promotions and news about all things RTC or IVR. Our hand is @ivrpowers and our favorite hashtags right now are #RTC and #IVR.
 Give us a shout out! https://twitter.com/ivrpowers
-Interactive Powers - Streamline your business communications</description>
+ Interactive Powers - Streamline your business communications</description>
     </item>
     
     <item>

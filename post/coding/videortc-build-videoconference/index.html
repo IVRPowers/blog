@@ -7,7 +7,7 @@
         <meta charset="utf-8" />
         <meta http-equiv="X-UA-Compatible" content="IE=edge" />
 
-        <meta property="og:title" content=" How to Build your Own Videoconference Service &middot;  Blog" />
+        <meta property="og:title" content=" How to Build your Own Videoconference Service &middot; Blog " />
         <meta property="og:site_name" content="Blog" />
         <meta property="og:url" content="https://blog.ivrpowers.com/post/coding/videortc-build-videoconference/" />
 
@@ -28,7 +28,7 @@
         <meta name="twitter:url" content="https://blog.ivrpowers.com/post/coding/videortc-build-videoconference/" />
     
 
-        <title> How to Build your Own Videoconference Service &middot;  Blog</title>
+        <title> How to Build your Own Videoconference Service &middot; Blog </title>
 
         <link rel="preload" href="https://blog.ivrpowers.com/js/main.js" as="script" />
         <link rel="preload" href="https://blog.ivrpowers.com/css/main.css" as="style" />
@@ -68,43 +68,43 @@
         "@type": "BlogPosting",
         "mainEntityOfPage": {
           "@type": "WebPage",
-          "@id": "https://blog.ivrpowers.com/post/coding/videortc-build-videoconference/"
+          "@id": "https:\/\/blog.ivrpowers.com\/post\/coding\/videortc-build-videoconference\/"
         },
         "headline": "How to Build your Own Videoconference Service",
         "description": "Coding",
         "author": {
             "@type": "Person",
             "name": "IVRPowers Team",
-            "url": "http://profiles.google.com/https://plus.google.com/110474380379482164317/?rel=author",
+            "url": "http://profiles.google.com/https:\/\/plus.google.com\/110474380379482164317\/?rel=author",
             "image": {
               "@type": "ImageObject",
-              "url": "https:/images/avatar.png",
+              "url": "https:\/images\/avatar.png",
               "height": 80,
               "width": 80
             }
         },
         "publisher": {
           "@type": "Organization",
-          "@id": "https://blog.ivrpowers.com/",
+          "@id": "https:\/\/blog.ivrpowers.com\/",
           "name": "Blog",
-          "url": "https://blog.ivrpowers.com/",
+          "url": "https:\/\/blog.ivrpowers.com\/",
           "logo": {
             "@type": "ImageObject",
-            "url": "https:/images/avatar.png",
+            "url": "https:\/images\/avatar.png",
             "height": 80,
             "width": 80
           }
         },
         "image": {
           "@type": "ImageObject",
-          "url": "https://blog.ivrpowers.com/postimages/coding/ivrpowers-videortc-features.033.jpeg",
+          "url": "https:\/\/blog.ivrpowers.com\/postimages\/coding\/ivrpowers-videortc-features.033.jpeg",
           "height": 133,
           "width": 200
         },
         "datePublished": "2017-10-04",
         "dateModified": "2017-10-04",
-        "wordCount": 477,
-        "keywords": ["videocall","code","videoconference","videortc"] 
+        "wordCount":  477 ,
+        "keywords": "[\"videocall\",\"code\",\"videoconference\",\"videortc\"]" 
     }
     </script>
 
@@ -183,126 +183,93 @@ html{font-family:sans-serif;line-height:1.15;-ms-text-size-adjust:100%;-webkit-t
   			</header>
 
   			<section class="post-content">
-  				
-
-<h2 id="development-postimages-coding-ivrpowers-videortc-features-033-jpeg"><img src="/postimages/coding/ivrpowers-videortc-features.033.jpeg" alt="development" /></h2>
-
+  				<h2 id="developmentpostimagescodingivrpowers-videortc-features033jpeg"><img src="/postimages/coding/ivrpowers-videortc-features.033.jpeg" alt="development"></h2>
 <h6 id="photo-source-interactive-powers-pexels-creative-commons">Photo Source: Interactive Powers, Pexels. Creative Commons</h6>
-
 <p>Today we bring you this interesting article on How to build your own videoconference service <strong>based on HTML5 technology by using our API Framework with VideoRTC.js.</strong></p>
-
 <h2 id="step-one-setting-up-the-basic-structure">Step one: Setting up the basic structure</h2>
-
 <p>As we have explained in <a href="http://blog.ivrpowers.com/post/coding/videortc-build-videocall/">previous posts,</a> first of all it is important that you include dependency within your project or web page.</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-html" data-lang="html">&lt;<span style="color:#f92672">script</span> <span style="color:#a6e22e">type</span><span style="color:#f92672">=</span><span style="color:#e6db74">&#34;text/javascript&#34;</span> <span style="color:#a6e22e">src</span><span style="color:#f92672">=</span><span style="color:#e6db74">&#34;videortc.js&#34;</span>&gt;&lt;/<span style="color:#f92672">script</span>&gt;
+</code></pre></div><p>You can insert a minimized version if you prefer so:</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-html" data-lang="html">&lt;<span style="color:#f92672">script</span> <span style="color:#a6e22e">type</span><span style="color:#f92672">=</span><span style="color:#e6db74">&#34;text/javascript&#34;</span> <span style="color:#a6e22e">src</span><span style="color:#f92672">=</span><span style="color:#e6db74">&#34;videortc.min.js&#34;</span>&gt;&lt;/<span style="color:#f92672">script</span>&gt;
+</code></pre></div><p>After the paths to the videoRTC library are configured in your *. js file, we connect with the video gateway server:</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-javascript" data-lang="javascript"><span style="color:#66d9ef">var</span> <span style="color:#a6e22e">server</span> <span style="color:#f92672">=</span> [<span style="color:#e6db74">&#34;https://example.com:HTTPS_PORT/webrtc-gateway&#34;</span>];
+<span style="color:#66d9ef">var</span> <span style="color:#a6e22e">iceServers</span> <span style="color:#f92672">=</span> [];
+<span style="color:#66d9ef">var</span> <span style="color:#a6e22e">debugLevel</span> <span style="color:#f92672">=</span> <span style="color:#960050;background-color:#1e0010">“</span><span style="color:#a6e22e">error</span><span style="color:#960050;background-color:#1e0010">”</span>;
 
-<pre><code class="language-html">&lt;script type=&quot;text/javascript&quot; src=&quot;videortc.js&quot;&gt;&lt;/script&gt;
-</code></pre>
+<span style="color:#66d9ef">var</span> <span style="color:#a6e22e">myVideoApp</span> <span style="color:#f92672">=</span> <span style="color:#66d9ef">new</span> <span style="color:#a6e22e">VideoRTC</span>(<span style="color:#a6e22e">server</span>, <span style="color:#a6e22e">iceServers</span>, <span style="color:#a6e22e">debugLevel</span>);
+</code></pre></div><p>After connecting with the server, you must copy and paste the following JavaScript code in your development. It is the basic structure to start designing your videoconference service:</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-javascript" data-lang="javascript"><span style="color:#66d9ef">var</span> <span style="color:#a6e22e">myVideoApp</span> <span style="color:#f92672">=</span> <span style="color:#66d9ef">new</span> <span style="color:#a6e22e">VideoRTC</span>(<span style="color:#a6e22e">server</span>, <span style="color:#a6e22e">iceServers</span>, <span style="color:#a6e22e">debugLevel</span>);
 
-<p>You can insert a minimized version if you prefer so:</p>
+   <span style="color:#66d9ef">var</span> <span style="color:#a6e22e">connection</span> <span style="color:#f92672">=</span> <span style="color:#a6e22e">myVideoApp</span>.<span style="color:#a6e22e">connect</span>()
+       .<span style="color:#a6e22e">then</span>(<span style="color:#66d9ef">function</span>(<span style="color:#a6e22e">usecases</span>) {
+           <span style="color:#75715e">// Use Cases (Classes)
+</span><span style="color:#75715e"></span>
+           <span style="color:#66d9ef">var</span> <span style="color:#a6e22e">onEvents</span> <span style="color:#f92672">=</span> {
+               <span style="color:#a6e22e">onCreated</span><span style="color:#f92672">:</span> <span style="color:#66d9ef">function</span>(<span style="color:#a6e22e">id</span>) {
+                    <span style="color:#75715e">// Created
+</span><span style="color:#75715e"></span>               },
+               <span style="color:#a6e22e">onJoined</span><span style="color:#f92672">:</span> <span style="color:#66d9ef">function</span>() {
+                    <span style="color:#75715e">// Joined
+</span><span style="color:#75715e"></span>               },
+               <span style="color:#a6e22e">onDestroyed</span><span style="color:#f92672">:</span> <span style="color:#66d9ef">function</span>() {
+                    <span style="color:#75715e">// Destroyed
+</span><span style="color:#75715e"></span>               },
+               <span style="color:#a6e22e">onPeerJoined</span><span style="color:#f92672">:</span> <span style="color:#66d9ef">function</span>(<span style="color:#a6e22e">id</span>, <span style="color:#a6e22e">display</span>) {
+                    <span style="color:#75715e">// Peer Joined
+</span><span style="color:#75715e"></span>               },
+               <span style="color:#a6e22e">onPeerLeft</span><span style="color:#f92672">:</span> <span style="color:#66d9ef">function</span>(<span style="color:#a6e22e">id</span>, <span style="color:#a6e22e">display</span>) {
+                    <span style="color:#75715e">// Peer Left
+</span><span style="color:#75715e"></span>               }
+           };
 
-<pre><code class="language-html">&lt;script type=&quot;text/javascript&quot; src=&quot;videortc.min.js&quot;&gt;&lt;/script&gt;
-</code></pre>
+           <span style="color:#66d9ef">var</span> <span style="color:#a6e22e">domElements</span> <span style="color:#f92672">=</span> {
 
-<p>After the paths to the videoRTC library are configured in your *. js file, we connect with the video gateway server:</p>
+               <span style="color:#a6e22e">videos</span><span style="color:#f92672">:</span> document.<span style="color:#a6e22e">getElementById</span>(<span style="color:#e6db74">&#39;videortc-videos&#39;</span>)
+           };
 
-<pre><code class="language-javascript">var server = [&quot;https://example.com:HTTPS_PORT/webrtc-gateway&quot;];
-var iceServers = [];
-var debugLevel = “error”;
-
-var myVideoApp = new VideoRTC(server, iceServers, debugLevel);
-</code></pre>
-
-<p>After connecting with the server, you must copy and paste the following JavaScript code in your development. It is the basic structure to start designing your videoconference service:</p>
-
-<pre><code class="language-javascript">var myVideoApp = new VideoRTC(server, iceServers, debugLevel);
-
-   var connection = myVideoApp.connect()
-       .then(function(usecases) {
-           // Use Cases (Classes)
-
-           var onEvents = {
-               onCreated: function(id) {
-                    // Created
-               },
-               onJoined: function() {
-                    // Joined
-               },
-               onDestroyed: function() {
-                    // Destroyed
-               },
-               onPeerJoined: function(id, display) {
-                    // Peer Joined
-               },
-               onPeerLeft: function(id, display) {
-                    // Peer Left
+           <span style="color:#66d9ef">var</span> <span style="color:#a6e22e">options</span> <span style="color:#f92672">=</span> {
+               <span style="color:#a6e22e">stream</span><span style="color:#f92672">:</span> {
+                   <span style="color:#a6e22e">audioEnabled</span><span style="color:#f92672">:</span> <span style="color:#66d9ef">true</span>,
+                   <span style="color:#a6e22e">videoEnabled</span><span style="color:#f92672">:</span> <span style="color:#66d9ef">true</span>,
+                   <span style="color:#a6e22e">dataEnabled</span><span style="color:#f92672">:</span> <span style="color:#66d9ef">true</span>,
+                   <span style="color:#a6e22e">aDeviceId</span><span style="color:#f92672">:</span> <span style="color:#66d9ef">null</span>,
+                   <span style="color:#a6e22e">vDeviceId</span><span style="color:#f92672">:</span> <span style="color:#66d9ef">null</span>,
+                   <span style="color:#a6e22e">voiceProcessor</span><span style="color:#f92672">:</span> <span style="color:#66d9ef">false</span>
                }
            };
 
-           var domElements = {
-
-               videos: document.getElementById('videortc-videos')
-           };
-
-           var options = {
-               stream: {
-                   audioEnabled: true,
-                   videoEnabled: true,
-                   dataEnabled: true,
-                   aDeviceId: null,
-                   vDeviceId: null,
-                   voiceProcessor: false
-               }
-           };
-
-           usecases.videoRoom(onEvents, domElements, options)
-               .then(function(action) {
-                   // Use Case has been atacched succesfully
-
+           <span style="color:#a6e22e">usecases</span>.<span style="color:#a6e22e">videoRoom</span>(<span style="color:#a6e22e">onEvents</span>, <span style="color:#a6e22e">domElements</span>, <span style="color:#a6e22e">options</span>)
+               .<span style="color:#a6e22e">then</span>(<span style="color:#66d9ef">function</span>(<span style="color:#a6e22e">action</span>) {
+                   <span style="color:#75715e">// Use Case has been atacched succesfully
+</span><span style="color:#75715e"></span>
                })
-               .catch(function(cause) {
-                   // Error attaching the Use Case
-                  
+               .<span style="color:#66d9ef">catch</span>(<span style="color:#66d9ef">function</span>(<span style="color:#a6e22e">cause</span>) {
+                   <span style="color:#75715e">// Error attaching the Use Case
+</span><span style="color:#75715e"></span>                  
                });
 
        })
-       .catch(function(cause) {
+       .<span style="color:#66d9ef">catch</span>(<span style="color:#66d9ef">function</span>(<span style="color:#a6e22e">cause</span>) {
 
        });
 
 });
 
-</code></pre>
-
-<h2 id="step-2-registering-users-to-the-videoconference">Step 2: Registering users to the videoconference</h2>
-
+</code></pre></div><h2 id="step-2-registering-users-to-the-videoconference">Step 2: Registering users to the videoconference</h2>
 <p>We already have the basic structure to personalize the application. In the following steps, we will add the data required within the method joinVideoroom() to set the videoroom.</p>
-
 <p>action.joinVideoroom(): -&gt; We should add our name in the method or the user identification , the VideoRoom Id and the Videoroom PIN to Join (Optional).</p>
-
 <p>For example:</p>
-
-<pre><code class="language-javascript">action.joinVideoroom('Abraham', 14586, 'mypassword');
-</code></pre>
-
-<p>In this way, each registered user will be able to enter the videoconference room automatically. The room allows a maximum of six peers.</p>
-
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-javascript" data-lang="javascript"><span style="color:#a6e22e">action</span>.<span style="color:#a6e22e">joinVideoroom</span>(<span style="color:#e6db74">&#39;Abraham&#39;</span>, <span style="color:#ae81ff">14586</span>, <span style="color:#e6db74">&#39;mypassword&#39;</span>);
+</code></pre></div><p>In this way, each registered user will be able to enter the videoconference room automatically. The room allows a maximum of six peers.</p>
 <p>After you finish this process, you can shape the design of the application by adding some CSS style.</p>
-
 <p>P.S: We recommend you to program a feature so that each user can add their name, and a button to access the room.</p>
-
-<p><img src="/postimages/coding/videoconference-ivrpowers.jpeg" alt="videoconference user" /></p>
-
+<p><img src="/postimages/coding/videoconference-ivrpowers.jpeg" alt="videoconference user"></p>
 <h2 id="step-4-running-the-service-and-peers">Step 4: Running the service and peers…</h2>
-
 <p>Open your WebRTC compliant web browser (Chrome, Firefox, Opera…) and start video calling between  peers… Remember, this demo works properly with the WebRTC communication through our API Framework / VideoRTC.js resources. Please, contact our <a href="http://www.ivrpowers.com/">sales for any project or more information.</a></p>
-
 <p>Feel free to reach out if you have any questions or comments bellow or just want to show off what kind of cool stuff you’ve built with <a href="http://blog.ivrpowers.com/post/development/introducing-videortcjs-developers/">VideoRTC.js</a>.</p>
-
 <p>Email: <a href="mailto:support@ivrpowers.com">support@ivrpowers.com</a> · Twitter: <a href="https://twitter.com/ivrpowers">@ivrpowers</a>
- · Github: <a href="https://github.com/ivrpowers">IVRPowers</a></p>
-
-<hr />
-
+· Github: <a href="https://github.com/ivrpowers">IVRPowers</a></p>
+<hr>
 <p><a href="https://www.ivrpowers.com/">Interactive Powers</a> - Streamline your business communications</p>
 
   			</section>
@@ -392,27 +359,16 @@ var myVideoApp = new VideoRTC(server, iceServers, debugLevel);
     </div>
     <div id="toc" class="menu-list">
         <nav id="TableOfContents">
-<ul>
-<li>
-<ul>
-<li><a href="#development-postimages-coding-ivrpowers-videortc-features-033-jpeg"><img src="/postimages/coding/ivrpowers-videortc-features.033.jpeg" alt="development" /></a>
-<ul>
-<li>
-<ul>
-<li>
-<ul>
-<li>
-<ul>
-<li><a href="#photo-source-interactive-powers-pexels-creative-commons">Photo Source: Interactive Powers, Pexels. Creative Commons</a></li>
-</ul></li>
-</ul></li>
-</ul></li>
-</ul></li>
-<li><a href="#step-one-setting-up-the-basic-structure">Step one: Setting up the basic structure</a></li>
-<li><a href="#step-2-registering-users-to-the-videoconference">Step 2: Registering users to the videoconference</a></li>
-<li><a href="#step-4-running-the-service-and-peers">Step 4: Running the service and peers…</a></li>
-</ul></li>
-</ul>
+  <ul>
+    <li><a href="#developmentpostimagescodingivrpowers-videortc-features033jpeg"><img src="/postimages/coding/ivrpowers-videortc-features.033.jpeg" alt="development"></a>
+      <ul>
+        <li></li>
+      </ul>
+    </li>
+    <li><a href="#step-one-setting-up-the-basic-structure">Step one: Setting up the basic structure</a></li>
+    <li><a href="#step-2-registering-users-to-the-videoconference">Step 2: Registering users to the videoconference</a></li>
+    <li><a href="#step-4-running-the-service-and-peers">Step 4: Running the service and peers…</a></li>
+  </ul>
 </nav>
     </div>
 </div>

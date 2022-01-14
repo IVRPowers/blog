@@ -1,23 +1,19 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Amazon on Blog</title>
+    <title>amazon on Blog</title>
     <link>https://blog.ivrpowers.com/tags/amazon/</link>
-    <description>Recent content in Amazon on Blog</description>
+    <description>Recent content in amazon on Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 08 Sep 2019 12:00:00 +0100</lastBuildDate>
-    
-	<atom:link href="https://blog.ivrpowers.com/tags/amazon/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Sun, 08 Sep 2019 12:00:00 +0100</lastBuildDate><atom:link href="https://blog.ivrpowers.com/tags/amazon/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>TTS-API connectors updated!</title>
       <link>https://blog.ivrpowers.com/post/technologies/tts-api-connectors-updated/</link>
       <pubDate>Sun, 08 Sep 2019 12:00:00 +0100</pubDate>
       
       <guid>https://blog.ivrpowers.com/post/technologies/tts-api-connectors-updated/</guid>
-      <description>Image source: Interactive Powers Interactive Powers introduces 45+ Languages &amp;amp; 300+ additional Text-to-Speech voices with Amazon, Google and Microsoft Cloud TTS-API Integration. Natural Language over the Phone&amp;hellip; All of you know about cognitive services is growing these days, and that&amp;rsquo;s why today we&amp;rsquo;re going to talk about our new TTS-API for &amp;ldquo;Text to speech&amp;rdquo;. This connector converts text into a dynamic natural voice in just a few milliseconds. There are a lot of Cloud Speech API, but we will focus on the Cloud Services main giants: Google Cloud, Microsoft Azure and Amazon Web Services.</description>
+      <description>Image source: Interactive Powers Interactive Powers introduces 45+ Languages &amp;amp; 300+ additional Text-to-Speech voices with Amazon, Google and Microsoft Cloud TTS-API Integration.  Natural Language over the Phone&amp;hellip; All of you know about cognitive services is growing these days, and that&amp;rsquo;s why today we&amp;rsquo;re going to talk about our new TTS-API for &amp;ldquo;Text to speech&amp;rdquo;. This connector converts text into a dynamic natural voice in just a few milliseconds. There are a lot of Cloud Speech API, but we will focus on the Cloud Services main giants: Google Cloud, Microsoft Azure and Amazon Web Services.</description>
     </item>
     
     <item>
@@ -26,7 +22,7 @@
       <pubDate>Tue, 03 Sep 2019 12:00:00 +0100</pubDate>
       
       <guid>https://blog.ivrpowers.com/post/technologies/amazon-tts-connector/</guid>
-      <description>Image source: Interactive Powers Interactive Powers introduces 27 Languages &amp;amp; 60+ additional Text-to-Speech voices with Amazon Polly Integration About Amazon&amp;hellip; Amazon Polly is a Text-to-Speech (TTS) service that uses advanced deep learning technologies to synthesize speech that sounds like a human voice. It&amp;rsquo;s part of the voice of Alexa and can do much more for your business too.
+      <description>Image source: Interactive Powers Interactive Powers introduces 27 Languages &amp;amp; 60+ additional Text-to-Speech voices with Amazon Polly Integration  About Amazon&amp;hellip; Amazon Polly is a Text-to-Speech (TTS) service that uses advanced deep learning technologies to synthesize speech that sounds like a human voice. It&amp;rsquo;s part of the voice of Alexa and can do much more for your business too.
  Amazon has arround 60 voices across 30 languages and variants.</description>
     </item>
     

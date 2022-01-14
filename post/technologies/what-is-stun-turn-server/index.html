@@ -7,7 +7,7 @@
         <meta charset="utf-8" />
         <meta http-equiv="X-UA-Compatible" content="IE=edge" />
 
-        <meta property="og:title" content=" What is a STUN/TURN Server? &middot;  Blog" />
+        <meta property="og:title" content=" What is a STUN/TURN Server? &middot; Blog " />
         <meta property="og:site_name" content="Blog" />
         <meta property="og:url" content="https://blog.ivrpowers.com/post/technologies/what-is-stun-turn-server/" />
 
@@ -28,7 +28,7 @@
         <meta name="twitter:url" content="https://blog.ivrpowers.com/post/technologies/what-is-stun-turn-server/" />
     
 
-        <title> What is a STUN/TURN Server? &middot;  Blog</title>
+        <title> What is a STUN/TURN Server? &middot; Blog </title>
 
         <link rel="preload" href="https://blog.ivrpowers.com/js/main.js" as="script" />
         <link rel="preload" href="https://blog.ivrpowers.com/css/main.css" as="style" />
@@ -68,43 +68,43 @@
         "@type": "BlogPosting",
         "mainEntityOfPage": {
           "@type": "WebPage",
-          "@id": "https://blog.ivrpowers.com/post/technologies/what-is-stun-turn-server/"
+          "@id": "https:\/\/blog.ivrpowers.com\/post\/technologies\/what-is-stun-turn-server\/"
         },
-        "headline": "What is a STUN/TURN Server?",
+        "headline": "What is a STUN\/TURN Server?",
         "description": "Technology Definition",
         "author": {
             "@type": "Person",
             "name": "IVRPowers Team",
-            "url": "http://profiles.google.com/https://plus.google.com/110474380379482164317/?rel=author",
+            "url": "http://profiles.google.com/https:\/\/plus.google.com\/110474380379482164317\/?rel=author",
             "image": {
               "@type": "ImageObject",
-              "url": "https:/images/avatar.png",
+              "url": "https:\/images\/avatar.png",
               "height": 80,
               "width": 80
             }
         },
         "publisher": {
           "@type": "Organization",
-          "@id": "https://blog.ivrpowers.com/",
+          "@id": "https:\/\/blog.ivrpowers.com\/",
           "name": "Blog",
-          "url": "https://blog.ivrpowers.com/",
+          "url": "https:\/\/blog.ivrpowers.com\/",
           "logo": {
             "@type": "ImageObject",
-            "url": "https:/images/avatar.png",
+            "url": "https:\/images\/avatar.png",
             "height": 80,
             "width": 80
           }
         },
         "image": {
           "@type": "ImageObject",
-          "url": "https://blog.ivrpowers.com/postimages/technologies/ivrpowers-slide.017.jpeg",
+          "url": "https:\/\/blog.ivrpowers.com\/postimages\/technologies\/ivrpowers-slide.017.jpeg",
           "height": 133,
           "width": 200
         },
         "datePublished": "2018-07-10",
         "dateModified": "2018-07-10",
-        "wordCount": 398,
-        "keywords": ["webrtc","rtc","videortc","security"] 
+        "wordCount":  398 ,
+        "keywords": "[\"webrtc\",\"rtc\",\"videortc\",\"security\"]" 
     }
     </script>
 
@@ -183,56 +183,36 @@ html{font-family:sans-serif;line-height:1.15;-ms-text-size-adjust:100%;-webkit-t
   			</header>
 
   			<section class="post-content">
-  				
-
-<h2 id="security-network-postimages-technologies-ivrpowers-slide-017-jpeg"><img src="/postimages/technologies/ivrpowers-slide.017.jpeg" alt="Security Network" /></h2>
-
-<h6 id="photo-source-pixabay-interactive-powers-creative-commons">Photo Source: Pixabay · Interactive Powers Creative Commons.</h6>
-
+  				<h2 id="security-networkpostimagestechnologiesivrpowers-slide017jpeg"><img src="/postimages/technologies/ivrpowers-slide.017.jpeg" alt="Security Network"></h2>
+<h6 id="photo-source-pixabay--interactive-powers-creative-commons">Photo Source: Pixabay · Interactive Powers Creative Commons.</h6>
 <h1 id="webrtc-communications-in-real-world-connectivity-require-to-handle-multi-party-calls-and-interact-with-stun-and-turn-servers">WebRTC communications in real-world connectivity require to handle multi-party calls and interact with STUN and TURN servers.</h1>
-
-<hr />
-
+<hr>
 <p>Our <a href="https://www.ivrpowers.com/videortc/">Video Gateway (WebRTC)</a> platform offers all customers an advanced video real-time communications solution through all audio/video/data streams are transmitted. Generally, a <strong>Video Gateway has to be deployed over a public Internet</strong> so any user must connect and send media fragments over RTP (Real-time Transport Protocol) ports without specific network issues.</p>
-
-<p><img src="/postimages/technologies/ivrpowers-turn-stun-screen.005.jpeg" alt="STUN/TURN Server" /></p>
-
-<h2 id="why-you-should-require-a-stun-turn-server">Why you should require a STUN/TURN Server?</h2>
-
+<p><img src="/postimages/technologies/ivrpowers-turn-stun-screen.005.jpeg" alt="STUN/TURN Server"></p>
+<h2 id="why-you-should-require-a-stunturn-server">Why you should require a STUN/TURN Server?</h2>
 <p>However, sometimes this is not enough. Some users try to connect through different IP networks where Firewalls and NATs (Network Address Translators) could include specific policies that do not allow any kind of <a href="http://blog.ivrpowers.com/post/technologies/what-is-rtc/">RTC</a> communications. <strong>ICE (Interactive Connectivity Establishment)</strong> protocol is used to find the best connection solution. It defines a systematic way of finding possible communication options between a peer and the <a href="https://www.ivrpowers.com/videortc/">Video Gateway (WebRTC)</a>.</p>
-
 <h2 id="what-is-a-stun-server">What is a STUN Server?</h2>
-
 <p>Sometimes, you can use a protocol called <strong>STUN (Session Traversal Utilities for NAT)</strong> that allows clients to discover their public IP address and the type of NAT they are behind. This information is used to establish the media connection. In most cases, a <strong>STUN server</strong> is only used during the connection setup and once that session has been established, media will flow directly between the peer and the Video Gateway (WebRTC).</p>
-
 <h2 id="what-is-a-turn-server">What is a TURN Server?</h2>
-
 <p>However, even if we setup properly a STUN server, there are very restrictive corporate networks (e.g: UDP traffic forbidden, only 443 TCP allowed…), which will require clients to use a TURN (Traversal Using Relays around NAT) server to relay traffic if direct (peer to Video Gateway) connection fails. In these cases, you can install our <strong>TURN server</strong> (in another instance) to solve these issues.</p>
-
 <p>The TURN server is really easy to add for all your <a href="http://blog.ivrpowers.com/post/technologies/what-is-rtc/">RTC</a> developments, including it as another ICE server within the <strong><a href="https://www.ivrpowers.com/videortc/">Video Gateway (WebRTC)</a></strong> connection array like this:</p>
-
-<pre><code class="language-javascript">var endPoints = [
-    &quot;https://example.com:HTTPS_PORT/webrtc-gateway&quot;
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-javascript" data-lang="javascript"><span style="color:#66d9ef">var</span> <span style="color:#a6e22e">endPoints</span> <span style="color:#f92672">=</span> [
+    <span style="color:#e6db74">&#34;https://example.com:HTTPS_PORT/webrtc-gateway&#34;</span>
 ];
-var iceServers = [
+<span style="color:#66d9ef">var</span> <span style="color:#a6e22e">iceServers</span> <span style="color:#f92672">=</span> [
     {
-        url: &quot;stun:server:port&quot;
+        <span style="color:#a6e22e">url</span><span style="color:#f92672">:</span> <span style="color:#e6db74">&#34;stun:server:port&#34;</span>
     },
     {
-        url: &quot;turn:server&quot;, 
-        username: &quot;myuser&quot;, 
-        credential: &quot;******&quot;
+        <span style="color:#a6e22e">url</span><span style="color:#f92672">:</span> <span style="color:#e6db74">&#34;turn:server&#34;</span>, 
+        <span style="color:#a6e22e">username</span><span style="color:#f92672">:</span> <span style="color:#e6db74">&#34;myuser&#34;</span>, 
+        <span style="color:#a6e22e">credential</span><span style="color:#f92672">:</span> <span style="color:#e6db74">&#34;******&#34;</span>
     }
 ];
-var myVideoApp = new VideoRTC(endPoints, iceServers, debugLevel);
-</code></pre>
-
-<p>Feel free to reach out if you have any questions or comments bellow or just want to show off what kind of cool stuff you’ve built with our <a href="https://blog.ivrpowers.com/post/products/video-rtc/">Video RTC</a> solutions.</p>
-
+<span style="color:#66d9ef">var</span> <span style="color:#a6e22e">myVideoApp</span> <span style="color:#f92672">=</span> <span style="color:#66d9ef">new</span> <span style="color:#a6e22e">VideoRTC</span>(<span style="color:#a6e22e">endPoints</span>, <span style="color:#a6e22e">iceServers</span>, <span style="color:#a6e22e">debugLevel</span>);
+</code></pre></div><p>Feel free to reach out if you have any questions or comments bellow or just want to show off what kind of cool stuff you’ve built with our <a href="https://blog.ivrpowers.com/post/products/video-rtc/">Video RTC</a> solutions.</p>
 <p>Email: <a href="mailto:support@ivrpowers.com">support@ivrpowers.com</a> · Twitter: <a href="https://twitter.com/ivrpowers">@ivrpowers</a> · Github: <a href="https://github.com/ivrpowers">IVRPowers</a></p>
-
-<hr />
-
+<hr>
 <p><a href="http://www.ivrpowers.com/">Interactive Powers</a> - Streamline your business communications</p>
 
   			</section>
@@ -322,30 +302,19 @@ var myVideoApp = new VideoRTC(endPoints, iceServers, debugLevel);
     </div>
     <div id="toc" class="menu-list">
         <nav id="TableOfContents">
-<ul>
-<li>
-<ul>
-<li><a href="#security-network-postimages-technologies-ivrpowers-slide-017-jpeg"><img src="/postimages/technologies/ivrpowers-slide.017.jpeg" alt="Security Network" /></a>
-<ul>
-<li>
-<ul>
-<li>
-<ul>
-<li>
-<ul>
-<li><a href="#photo-source-pixabay-interactive-powers-creative-commons">Photo Source: Pixabay · Interactive Powers Creative Commons.</a></li>
-</ul></li>
-</ul></li>
-</ul></li>
-</ul></li>
-</ul></li>
-<li><a href="#webrtc-communications-in-real-world-connectivity-require-to-handle-multi-party-calls-and-interact-with-stun-and-turn-servers">WebRTC communications in real-world connectivity require to handle multi-party calls and interact with STUN and TURN servers.</a>
-<ul>
-<li><a href="#why-you-should-require-a-stun-turn-server">Why you should require a STUN/TURN Server?</a></li>
-<li><a href="#what-is-a-stun-server">What is a STUN Server?</a></li>
-<li><a href="#what-is-a-turn-server">What is a TURN Server?</a></li>
-</ul></li>
-</ul>
+  <ul>
+    <li><a href="#security-networkpostimagestechnologiesivrpowers-slide017jpeg"><img src="/postimages/technologies/ivrpowers-slide.017.jpeg" alt="Security Network"></a>
+      <ul>
+        <li></li>
+      </ul>
+    </li>
+  </ul>
+
+  <ul>
+    <li><a href="#why-you-should-require-a-stunturn-server">Why you should require a STUN/TURN Server?</a></li>
+    <li><a href="#what-is-a-stun-server">What is a STUN Server?</a></li>
+    <li><a href="#what-is-a-turn-server">What is a TURN Server?</a></li>
+  </ul>
 </nav>
     </div>
 </div>

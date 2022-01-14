@@ -1,16 +1,12 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Webclient on Blog</title>
+    <title>webclient on Blog</title>
     <link>https://blog.ivrpowers.com/tags/webclient/</link>
-    <description>Recent content in Webclient on Blog</description>
+    <description>Recent content in webclient on Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 05 Jul 2018 09:00:00 +0200</lastBuildDate>
-    
-	<atom:link href="https://blog.ivrpowers.com/tags/webclient/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Thu, 05 Jul 2018 09:00:00 +0200</lastBuildDate><atom:link href="https://blog.ivrpowers.com/tags/webclient/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>How to configure and customise your Webclient</title>
       <link>https://blog.ivrpowers.com/post/coding/videortc-webclient-configuration/</link>

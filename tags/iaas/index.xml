@@ -1,23 +1,19 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Iaas on Blog</title>
+    <title>iaas on Blog</title>
     <link>https://blog.ivrpowers.com/tags/iaas/</link>
-    <description>Recent content in Iaas on Blog</description>
+    <description>Recent content in iaas on Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 21 Nov 2018 01:00:00 +0200</lastBuildDate>
-    
-	<atom:link href="https://blog.ivrpowers.com/tags/iaas/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Wed, 21 Nov 2018 01:00:00 +0200</lastBuildDate><atom:link href="https://blog.ivrpowers.com/tags/iaas/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Understanding Cloud Services: IaaS, PaaS, SaaS</title>
       <link>https://blog.ivrpowers.com/post/technologies/understanding-cloud-hosting-iaas-paas-saas/</link>
       <pubDate>Wed, 21 Nov 2018 01:00:00 +0200</pubDate>
       
       <guid>https://blog.ivrpowers.com/post/technologies/understanding-cloud-hosting-iaas-paas-saas/</guid>
-      <description>Image source: Pixabay. Creative Commons What are the differences between IaaS, SaaS, and PaaS, the three main Cloud Computing models? IaaS, PaaS, SaaS are three Cloud computing models popular in the market. Depending upon the requirement a company can opt for any of the three models. Here we explain IaaS, PaaS, SaaS model in the best possible way so that anyone can understand and differential among them.
+      <description>Image source: Pixabay. Creative Commons What are the differences between IaaS, SaaS, and PaaS, the three main Cloud Computing models?  IaaS, PaaS, SaaS are three Cloud computing models popular in the market. Depending upon the requirement a company can opt for any of the three models. Here we explain IaaS, PaaS, SaaS model in the best possible way so that anyone can understand and differential among them.
 What is IaaS?</description>
     </item>
     

@@ -1,23 +1,19 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Techsupershow on Blog</title>
+    <title>TechSuperShow on Blog</title>
     <link>https://blog.ivrpowers.com/tags/techsupershow/</link>
-    <description>Recent content in Techsupershow on Blog</description>
+    <description>Recent content in TechSuperShow on Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 06 Feb 2020 20:00:00 +0200</lastBuildDate>
-    
-	<atom:link href="https://blog.ivrpowers.com/tags/techsupershow/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Thu, 06 Feb 2020 20:00:00 +0200</lastBuildDate><atom:link href="https://blog.ivrpowers.com/tags/techsupershow/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>ITEXPO 2020</title>
       <link>https://blog.ivrpowers.com/post/general/next-itexpo-2020/</link>
       <pubDate>Thu, 06 Feb 2020 20:00:00 +0200</pubDate>
       
       <guid>https://blog.ivrpowers.com/post/general/next-itexpo-2020/</guid>
-      <description>Meet us next days 11th - 14th February at next ITEXPO 2020 event at Fort Lauderdale, Florida If you are attending ITEXPO and would like to discuss how to get enhance your business and opportunities with Cloud Communications for Conversational IVR, WebRTC gateways and CPaaS. Let&amp;rsquo;s set up some time to sit down and discover how we are helping all our partners with our Video RTC and Smart IVR solutions.</description>
+      <description>Meet us next days 11th - 14th February at next ITEXPO 2020 event at Fort Lauderdale, Florida  If you are attending ITEXPO and would like to discuss how to get enhance your business and opportunities with Cloud Communications for Conversational IVR, WebRTC gateways and CPaaS. Let&amp;rsquo;s set up some time to sit down and discover how we are helping all our partners with our Video RTC and Smart IVR solutions.</description>
     </item>
     
   </channel>

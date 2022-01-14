@@ -1,23 +1,19 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Coding on Blog</title>
+    <title>coding on Blog</title>
     <link>https://blog.ivrpowers.com/categories/coding/</link>
-    <description>Recent content in Coding on Blog</description>
+    <description>Recent content in coding on Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 16 Aug 2018 10:00:00 +0200</lastBuildDate>
-    
-	<atom:link href="https://blog.ivrpowers.com/categories/coding/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Thu, 16 Aug 2018 10:00:00 +0200</lastBuildDate><atom:link href="https://blog.ivrpowers.com/categories/coding/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Logging with Log Rotation</title>
       <link>https://blog.ivrpowers.com/post/coding/videortc-log-rotation/</link>
       <pubDate>Thu, 16 Aug 2018 10:00:00 +0200</pubDate>
       
       <guid>https://blog.ivrpowers.com/post/coding/videortc-log-rotation/</guid>
-      <description>Photo Source: Interactive Powers, Pexels. Creative Commons Improve your Video RTC debugging tasks and platform monitoring for all your applications Logging takes place in the execution of your Video RTC applications to provide an audit trail that can be used to understand the activity of the system and to diagnose problems to find and fix bugs. We are pleased to talk a bout a very useful tool for managing log files called Log Rotation.</description>
+      <description>Photo Source: Interactive Powers, Pexels. Creative Commons Improve your Video RTC debugging tasks and platform monitoring for all your applications  Logging takes place in the execution of your Video RTC applications to provide an audit trail that can be used to understand the activity of the system and to diagnose problems to find and fix bugs. We are pleased to talk a bout a very useful tool for managing log files called Log Rotation.</description>
     </item>
     
     <item>
@@ -90,7 +86,7 @@ To insert it, you first need to add the CSS Stylesheet file to your webpage.</de
       <guid>https://blog.ivrpowers.com/post/coding/videortc-build-videoconference/</guid>
       <description>Photo Source: Interactive Powers, Pexels. Creative Commons Today we bring you this interesting article on How to build your own videoconference service based on HTML5 technology by using our API Framework with VideoRTC.js.
 Step one: Setting up the basic structure As we have explained in previous posts, first of all it is important that you include dependency within your project or web page.
-&amp;lt;script type=&amp;quot;text/javascript&amp;quot; src=&amp;quot;videortc.js&amp;quot;&amp;gt;&amp;lt;/script&amp;gt;  You can insert a minimized version if you prefer so:</description>
+&amp;lt;script type=&amp;#34;text/javascript&amp;#34; src=&amp;#34;videortc.js&amp;#34;&amp;gt;&amp;lt;/script&amp;gt; You can insert a minimized version if you prefer so:</description>
     </item>
     
     <item>
@@ -111,8 +107,8 @@ Step 1: Setting up the basic structure Firstly, you need to install an Ionic pro
       <guid>https://blog.ivrpowers.com/post/coding/videortc-build-videocall/</guid>
       <description>Photo Source: Interactive Powers, Pexels. Creative Commons In this post we will show you how to build your videocall service based on HTML5 technology by using our API Framework with VideoRTC.js.
 Step 1: Setting up the basic structure Firstly, you will need to include dependency within your project or web page:
-&amp;lt;script type=&amp;quot;text/javascript&amp;quot; src=&amp;quot;videortc.js&amp;quot;&amp;gt;&amp;lt;/script&amp;gt;  You can insert a minimized version if you prefer so:
-&amp;lt;script type=&amp;quot;text/javascript&amp;quot; src=&amp;quot;videortc.min.js&amp;quot;&amp;gt;&amp;lt;/script&amp;gt;  Next, we connect with the video gateway server:</description>
+&amp;lt;script type=&amp;#34;text/javascript&amp;#34; src=&amp;#34;videortc.js&amp;#34;&amp;gt;&amp;lt;/script&amp;gt; You can insert a minimized version if you prefer so:
+&amp;lt;script type=&amp;#34;text/javascript&amp;#34; src=&amp;#34;videortc.min.js&amp;#34;&amp;gt;&amp;lt;/script&amp;gt; Next, we connect with the video gateway server:</description>
     </item>
     
   </channel>

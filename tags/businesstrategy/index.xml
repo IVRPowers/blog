@@ -1,16 +1,12 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Businesstrategy on Blog</title>
+    <title>businesstrategy on Blog</title>
     <link>https://blog.ivrpowers.com/tags/businesstrategy/</link>
-    <description>Recent content in Businesstrategy on Blog</description>
+    <description>Recent content in businesstrategy on Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 12 Dec 2017 12:08:43 +0200</lastBuildDate>
-    
-	<atom:link href="https://blog.ivrpowers.com/tags/businesstrategy/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Tue, 12 Dec 2017 12:08:43 +0200</lastBuildDate><atom:link href="https://blog.ivrpowers.com/tags/businesstrategy/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Is it Possible to Enhance In-store Experiences?</title>
       <link>https://blog.ivrpowers.com/post/customerengagement/kiosk-custexp/</link>
@@ -18,7 +14,7 @@
       
       <guid>https://blog.ivrpowers.com/post/customerengagement/kiosk-custexp/</guid>
       <description>Photo source: Kazuhisa OTSUBO. Creative Commons WebRTC is a transformative technology. It means a shift in the way we think about communications. WebRTC makes it possible a real-time engagement by integrating voice, video, data, messaging and more. Applications of WebRTC are endless and they can play a major role in the way businesses operate.
-The in-store customer experience In-store experiences are not always perceived by clients as satisfactory ones.</description>
+The in-store customer experience In-store experiences are not always perceived by clients as satisfactory ones. In some businesses, it can even become an obstacle.</description>
     </item>
     
     <item>
@@ -27,7 +23,7 @@ The in-store customer experience In-store experiences are not always perceived b
       <pubDate>Tue, 26 Sep 2017 12:06:30 +0200</pubDate>
       
       <guid>https://blog.ivrpowers.com/post/trends/security-factor/</guid>
-      <description>Photo Source: Pixabay, Creative Commons Communications Security is more important ever than ever to handle properly any business. Security tops the list on concerns about RTC. Considering the risks of new exposed system vulnerabilities and the increasing scope and scale of breaches, security is more important than ever. In fact, uncertainty about which device provides privacy and security has become a hindrance to purchasing an IoT device. But despite the increasing concerns among consumers, researches show that security is still one of the major challenges that companies need to deal with.</description>
+      <description>Photo Source: Pixabay, Creative Commons Communications Security is more important ever than ever to handle properly any business.  Security tops the list on concerns about RTC. Considering the risks of new exposed system vulnerabilities and the increasing scope and scale of breaches, security is more important than ever. In fact, uncertainty about which device provides privacy and security has become a hindrance to purchasing an IoT device. But despite the increasing concerns among consumers, researches show that security is still one of the major challenges that companies need to deal with.</description>
     </item>
     
   </channel>

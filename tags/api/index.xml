@@ -1,23 +1,19 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Api on Blog</title>
+    <title>api on Blog</title>
     <link>https://blog.ivrpowers.com/tags/api/</link>
-    <description>Recent content in Api on Blog</description>
+    <description>Recent content in api on Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 08 Sep 2019 12:00:00 +0100</lastBuildDate>
-    
-	<atom:link href="https://blog.ivrpowers.com/tags/api/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Sun, 08 Sep 2019 12:00:00 +0100</lastBuildDate><atom:link href="https://blog.ivrpowers.com/tags/api/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>TTS-API connectors updated!</title>
       <link>https://blog.ivrpowers.com/post/technologies/tts-api-connectors-updated/</link>
       <pubDate>Sun, 08 Sep 2019 12:00:00 +0100</pubDate>
       
       <guid>https://blog.ivrpowers.com/post/technologies/tts-api-connectors-updated/</guid>
-      <description>Image source: Interactive Powers Interactive Powers introduces 45+ Languages &amp;amp; 300+ additional Text-to-Speech voices with Amazon, Google and Microsoft Cloud TTS-API Integration. Natural Language over the Phone&amp;hellip; All of you know about cognitive services is growing these days, and that&amp;rsquo;s why today we&amp;rsquo;re going to talk about our new TTS-API for &amp;ldquo;Text to speech&amp;rdquo;. This connector converts text into a dynamic natural voice in just a few milliseconds. There are a lot of Cloud Speech API, but we will focus on the Cloud Services main giants: Google Cloud, Microsoft Azure and Amazon Web Services.</description>
+      <description>Image source: Interactive Powers Interactive Powers introduces 45+ Languages &amp;amp; 300+ additional Text-to-Speech voices with Amazon, Google and Microsoft Cloud TTS-API Integration.  Natural Language over the Phone&amp;hellip; All of you know about cognitive services is growing these days, and that&amp;rsquo;s why today we&amp;rsquo;re going to talk about our new TTS-API for &amp;ldquo;Text to speech&amp;rdquo;. This connector converts text into a dynamic natural voice in just a few milliseconds. There are a lot of Cloud Speech API, but we will focus on the Cloud Services main giants: Google Cloud, Microsoft Azure and Amazon Web Services.</description>
     </item>
     
     <item>
@@ -26,7 +22,7 @@
       <pubDate>Tue, 03 Sep 2019 12:00:00 +0100</pubDate>
       
       <guid>https://blog.ivrpowers.com/post/technologies/amazon-tts-connector/</guid>
-      <description>Image source: Interactive Powers Interactive Powers introduces 27 Languages &amp;amp; 60+ additional Text-to-Speech voices with Amazon Polly Integration About Amazon&amp;hellip; Amazon Polly is a Text-to-Speech (TTS) service that uses advanced deep learning technologies to synthesize speech that sounds like a human voice. It&amp;rsquo;s part of the voice of Alexa and can do much more for your business too.
+      <description>Image source: Interactive Powers Interactive Powers introduces 27 Languages &amp;amp; 60+ additional Text-to-Speech voices with Amazon Polly Integration  About Amazon&amp;hellip; Amazon Polly is a Text-to-Speech (TTS) service that uses advanced deep learning technologies to synthesize speech that sounds like a human voice. It&amp;rsquo;s part of the voice of Alexa and can do much more for your business too.
  Amazon has arround 60 voices across 30 languages and variants.</description>
     </item>
     
@@ -36,7 +32,7 @@
       <pubDate>Tue, 03 Sep 2019 12:00:00 +0100</pubDate>
       
       <guid>https://blog.ivrpowers.com/post/technologies/google-tts-connector/</guid>
-      <description>Image source: Interactive Powers Interactive Powers introduces 30+ Languages &amp;amp; 180+ additional Text-to-Speech voices with Google TTS Integration About Google&amp;hellip; Google Cloud is one of the major Enterprise Cloud Services in the world, so its API does not fall short. There are a lot of features that are worth of mention, but we don’t have that time so, here are some of main features we consider:
+      <description>Image source: Interactive Powers Interactive Powers introduces 30+ Languages &amp;amp; 180+ additional Text-to-Speech voices with Google TTS Integration  About Google&amp;hellip; Google Cloud is one of the major Enterprise Cloud Services in the world, so its API does not fall short. There are a lot of features that are worth of mention, but we don’t have that time so, here are some of main features we consider:
  Google has over 180 voices across 30+ languages and variants.</description>
     </item>
     
@@ -46,7 +42,7 @@
       <pubDate>Tue, 03 Sep 2019 12:00:00 +0100</pubDate>
       
       <guid>https://blog.ivrpowers.com/post/technologies/microsoft-tts-connector/</guid>
-      <description>Image source: Interactive Powers Interactive Powers introduces 45 Languages &amp;amp; 75+ additional Text-to-Speech voices with Microsoft Azure TTS Integration About Microsoft&amp;hellip; Microsoft Azure like Google Cloud provides his own Text To Speech API. It is quite big and here are some of its main features with more than 75 voices over 45 languages.
+      <description>Image source: Interactive Powers Interactive Powers introduces 45 Languages &amp;amp; 75+ additional Text-to-Speech voices with Microsoft Azure TTS Integration  About Microsoft&amp;hellip; Microsoft Azure like Google Cloud provides his own Text To Speech API. It is quite big and here are some of its main features with more than 75 voices over 45 languages.
  Parameters for speed, pitch, volume, pronunciation, and additional pauses Custom voice models for developers and enterprises Neural Voices technology  To get more information, you can read Microsoft TTS documentation.</description>
     </item>
     
@@ -121,7 +117,7 @@ From our offices in Spain and the United States, we provide solutions that facil
       <pubDate>Tue, 05 Sep 2017 10:00:00 +0200</pubDate>
       
       <guid>https://blog.ivrpowers.com/post/products/video-rtc-pop-up-agent/</guid>
-      <description>Extend Existing Call Centers with advanced Video RTC Capabilities. Overview Pop-up Agent is a specific peer component designed to add Video RTC services to an existing Call Center. It can operate over full WebRTC options or RTMP with limited functions. Pop-up Agent works with standard web browser or with an MS Windows executable application.
+      <description>Extend Existing Call Centers with advanced Video RTC Capabilities.  Overview Pop-up Agent is a specific peer component designed to add Video RTC services to an existing Call Center. It can operate over full WebRTC options or RTMP with limited functions. Pop-up Agent works with standard web browser or with an MS Windows executable application.
 Pop-up Agent functionality is easily configurable with a set of buttons and toolkit. Main options are Live Chat, File Sharing, Screen Sharing, Video Recording, Snapshot.</description>
     </item>
     
@@ -131,7 +127,7 @@ Pop-up Agent functionality is easily configurable with a set of buttons and tool
       <pubDate>Mon, 04 Sep 2017 22:00:00 +0200</pubDate>
       
       <guid>https://blog.ivrpowers.com/post/products/video-rtc-api-framework/</guid>
-      <description>Provide Core Functions to easily develop any Video RTC application for Web and Mobile. Overview API Framework feature helps to make your job easier, adapting services to your needs and personalizing them. Our platform provides developers with a wide range of possible solutions, through a flexible and powerful toolkit for building Web APIs.
+      <description>Provide Core Functions to easily develop any Video RTC application for Web and Mobile.  Overview API Framework feature helps to make your job easier, adapting services to your needs and personalizing them. Our platform provides developers with a wide range of possible solutions, through a flexible and powerful toolkit for building Web APIs.
 API Framework feature enables developers to design new APIs or edit existing ones. You can also customize all the way down, just using basic regular features.</description>
     </item>
     
@@ -141,7 +137,7 @@ API Framework feature enables developers to design new APIs or edit existing one
       <pubDate>Fri, 01 Sep 2017 09:52:47 +0200</pubDate>
       
       <guid>https://blog.ivrpowers.com/post/products/video-rtc-video-id/</guid>
-      <description>Protect your Real-Time Communications with Secure Identification API integrations. Overview Video ID feature helps you to improve security in your real-time communication services. Our solutions include partner options for ID Verification through an external provider certified API. This capability enables to comply with identity verification processes required, for instance, by banks, insurances, e-commerces or telemedicine.
+      <description>Protect your Real-Time Communications with Secure Identification API integrations.  Overview Video ID feature helps you to improve security in your real-time communication services. Our solutions include partner options for ID Verification through an external provider certified API. This capability enables to comply with identity verification processes required, for instance, by banks, insurances, e-commerces or telemedicine.
 Video ID functionality captures and validates users’ information, whilst conducting a real-time check. Video ID capability is a set of API, which can optionally include Facial Recognition.</description>
     </item>
     

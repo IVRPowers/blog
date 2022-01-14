@@ -1,23 +1,19 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Miami on Blog</title>
+    <title>miami on Blog</title>
     <link>https://blog.ivrpowers.com/tags/miami/</link>
-    <description>Recent content in Miami on Blog</description>
+    <description>Recent content in miami on Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 01 Mar 2020 10:00:00 +0200</lastBuildDate>
-    
-	<atom:link href="https://blog.ivrpowers.com/tags/miami/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Sun, 01 Mar 2020 10:00:00 +0200</lastBuildDate><atom:link href="https://blog.ivrpowers.com/tags/miami/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Interactive Powers at next eMerge Americas 2020</title>
       <link>https://blog.ivrpowers.com/post/general/next-emerge-americas-2020/</link>
       <pubDate>Sun, 01 Mar 2020 10:00:00 +0200</pubDate>
       
       <guid>https://blog.ivrpowers.com/post/general/next-emerge-americas-2020/</guid>
-      <description>Join us next days 30th - 31h March at eMerge Americas event at Miami Beach, Florida For the first time, Interactive Powers (ivrpowers.com) will be attending eMerge Americas, March 30 – 31, 2019 in Miami Beach - Convention Center. eMerge Americas is the premier technology event connecting the Americas. eMerge Americas is not just an event- it’s an ecosystem that is transforming Miami into the Tech Hub of the Americas.</description>
+      <description>Join us next days 30th - 31h March at eMerge Americas event at Miami Beach, Florida  For the first time, Interactive Powers (ivrpowers.com) will be attending eMerge Americas, March 30 – 31, 2019 in Miami Beach - Convention Center. eMerge Americas is the premier technology event connecting the Americas. eMerge Americas is not just an event- it’s an ecosystem that is transforming Miami into the Tech Hub of the Americas.</description>
     </item>
     
     <item>
@@ -26,7 +22,7 @@
       <pubDate>Thu, 06 Feb 2020 20:00:00 +0200</pubDate>
       
       <guid>https://blog.ivrpowers.com/post/general/next-itexpo-2020/</guid>
-      <description>Meet us next days 11th - 14th February at next ITEXPO 2020 event at Fort Lauderdale, Florida If you are attending ITEXPO and would like to discuss how to get enhance your business and opportunities with Cloud Communications for Conversational IVR, WebRTC gateways and CPaaS. Let&amp;rsquo;s set up some time to sit down and discover how we are helping all our partners with our Video RTC and Smart IVR solutions.</description>
+      <description>Meet us next days 11th - 14th February at next ITEXPO 2020 event at Fort Lauderdale, Florida  If you are attending ITEXPO and would like to discuss how to get enhance your business and opportunities with Cloud Communications for Conversational IVR, WebRTC gateways and CPaaS. Let&amp;rsquo;s set up some time to sit down and discover how we are helping all our partners with our Video RTC and Smart IVR solutions.</description>
     </item>
     
   </channel>

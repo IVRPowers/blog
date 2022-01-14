@@ -1,16 +1,12 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Voicexml on Blog</title>
+    <title>voicexml on Blog</title>
     <link>https://blog.ivrpowers.com/tags/voicexml/</link>
-    <description>Recent content in Voicexml on Blog</description>
+    <description>Recent content in voicexml on Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 19 Jul 2021 00:20:00 +0200</lastBuildDate>
-    
-	<atom:link href="https://blog.ivrpowers.com/tags/voicexml/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Mon, 19 Jul 2021 00:20:00 +0200</lastBuildDate><atom:link href="https://blog.ivrpowers.com/tags/voicexml/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Smart IVR v2.4</title>
       <link>https://blog.ivrpowers.com/post/updates/update-voicexml-ivr-2.4.0/</link>
@@ -39,7 +35,7 @@ ChangeLog Version 2.2:
       <pubDate>Fri, 28 Feb 2020 15:00:00 +0200</pubDate>
       
       <guid>https://blog.ivrpowers.com/post/products/smart-ivr-speech-recognition-reloaded/</guid>
-      <description>More and better protocols to improve performance of your interactive phone services. Speech recognition is a key complementary feature for any IVR in order enables the recognition and translation of spoken language into text for your voice application coding. It is also known as automatic speech recognition (ASR) or speech to text (STT). Smart IVR support today three connectors since the last release 2.x and it has the ability to use them in perfect combination for all services.</description>
+      <description>More and better protocols to improve performance of your interactive phone services.  Speech recognition is a key complementary feature for any IVR in order enables the recognition and translation of spoken language into text for your voice application coding. It is also known as automatic speech recognition (ASR) or speech to text (STT). Smart IVR support today three connectors since the last release 2.x and it has the ability to use them in perfect combination for all services.</description>
     </item>
     
     <item>
@@ -69,7 +65,7 @@ ChangeLog Version 2.1:
       <pubDate>Thu, 21 Feb 2019 00:00:00 +0200</pubDate>
       
       <guid>https://blog.ivrpowers.com/post/products/voicexml-ivr-2-generation/</guid>
-      <description>Photo Source: Interactive Powers. Creative Commons Interactive Voice Response refounded to becomes Conversational IVR. The second generation of our IVR product is now released after months of developments and continuous improvements. Discover how to integrate telephony and voicebots / conversational agents to transform your business processes, and how VoiceXML IVR can help you to facilitate more engaging interactions with your customers, users or employees.
+      <description>Photo Source: Interactive Powers. Creative Commons Interactive Voice Response refounded to becomes Conversational IVR.  The second generation of our IVR product is now released after months of developments and continuous improvements. Discover how to integrate telephony and voicebots / conversational agents to transform your business processes, and how VoiceXML IVR can help you to facilitate more engaging interactions with your customers, users or employees.
 Welcome to VoiceXML IVR 2.</description>
     </item>
     
@@ -90,8 +86,8 @@ ChangeLog Version 2.0:
       <pubDate>Sun, 10 Feb 2019 15:00:00 +0200</pubDate>
       
       <guid>https://blog.ivrpowers.com/post/products/voicexml-ivr-speech-recognition/</guid>
-      <description>Convert spoken voice into machine-readable format. Overview VoiceXML IVR runs most existing Cloud Speech API and some MRCP v2 engines. These STT / ASR connectors allow to get a complete development abstraction of all your interactive phone services. In combination with Text-to-Speech, you can develop the most advanced interactive voice experience with the best platform management.
-Providers  Nuance Speech Recognizer Google Speech API Amazon Lex Microsoft Azure  Use Cases  Call Stearing, Call Routing, Voice Search&amp;hellip; Support most languanges with several voices Power advanced IVR applications Power Voicebots and Voice Assistants   System Requirements Speech Recognition feature requires VoiceXML IVR On Premise or Cloud CPaaS.</description>
+      <description>Convert spoken voice into machine-readable format.  Overview VoiceXML IVR runs most existing Cloud Speech API and some MRCP v2 engines. These STT / ASR connectors allow to get a complete development abstraction of all your interactive phone services. In combination with Text-to-Speech, you can develop the most advanced interactive voice experience with the best platform management.
+Providers  Nuance Speech Recognizer Google Speech API Amazon Lex Microsoft Azure  Use Cases  Call Stearing, Call Routing, Voice Search&amp;hellip; Support most languanges with several voices Power advanced IVR applications Power Voicebots and Voice Assistants  System Requirements Speech Recognition feature requires VoiceXML IVR On Premise or Cloud CPaaS.</description>
     </item>
     
     <item>
@@ -100,8 +96,8 @@ Providers  Nuance Speech Recognizer Google Speech API Amazon Lex Microsoft Azure
       <pubDate>Sun, 10 Feb 2019 15:00:00 +0200</pubDate>
       
       <guid>https://blog.ivrpowers.com/post/products/voicexml-ivr-text-to-speech/</guid>
-      <description>Convert text into spoken voice outpout. Overview VoiceXML IVR runs most existing Text-to-Speech engines with many languages and voices powered by a cloud HTTP-API connector. This TTS connector is really fast &amp;amp; dynamic to improve the caller experience. Now, you can develop smart services with a dynamic voice response according to any kind of content: text, numbers, dates,…
-Providers  Nuance Vocalizer Google Text-to-Speech API Amazon Polly Microsoft Azure  Use Cases  Enable to generate dynamic voice prompts Support most languanges with several voices Power advanced conversational applications Generate dates, numbers, names&amp;hellip;   System Requirements Text-to-Speech feature requires VoiceXML IVR On Premise or Cloud CPaaS.</description>
+      <description>Convert text into spoken voice outpout.  Overview VoiceXML IVR runs most existing Text-to-Speech engines with many languages and voices powered by a cloud HTTP-API connector. This TTS connector is really fast &amp;amp; dynamic to improve the caller experience. Now, you can develop smart services with a dynamic voice response according to any kind of content: text, numbers, dates,…
+Providers  Nuance Vocalizer Google Text-to-Speech API Amazon Polly Microsoft Azure  Use Cases  Enable to generate dynamic voice prompts Support most languanges with several voices Power advanced conversational applications Generate dates, numbers, names&amp;hellip;  System Requirements Text-to-Speech feature requires VoiceXML IVR On Premise or Cloud CPaaS.</description>
     </item>
     
     <item>
@@ -110,9 +106,9 @@ Providers  Nuance Vocalizer Google Text-to-Speech API Amazon Polly Microsoft Azu
       <pubDate>Sat, 09 Feb 2019 10:00:00 +0200</pubDate>
       
       <guid>https://blog.ivrpowers.com/post/news/2019-02-ivr-upcoming-2/</guid>
-      <description>Photo Source: Interactive Powers. Creative Commons Sometimes, you have to reborn and change all&amp;hellip; Follow our socials and blog; be ready to discover our major release update since the born of Interactive Powers. Forget programming standards, IVR will become smart and conversational.
+      <description>Photo Source: Interactive Powers. Creative Commons Sometimes, you have to reborn and change all&amp;hellip;  Follow our socials and blog; be ready to discover our major release update since the born of Interactive Powers. Forget programming standards, IVR will become smart and conversational.
 Keep posted on February 2019!
-Interactive Powers - Streamline your business communications</description>
+ Interactive Powers - Streamline your business communications</description>
     </item>
     
     <item>
@@ -121,7 +117,7 @@ Interactive Powers - Streamline your business communications</description>
       <pubDate>Sun, 07 Oct 2018 15:00:00 +0200</pubDate>
       
       <guid>https://blog.ivrpowers.com/post/products/turnkey-auto-dialer/</guid>
-      <description>Photo source: Pixabay. Creative Commons Calling all your business contacts at once. Auto Dialer is multi-channel dialing platform to send important alerts, promotions, updates, payment collection, political campaigns, phone surveys or notifications to your customers, employees, voters, and more. it instantly turns your browser into a complete outbound call center with an Intuitive user interface, advanced multi-campaign management and reporting. It can be easily connected to our VoiceXML IVR.</description>
+      <description>Photo source: Pixabay. Creative Commons Calling all your business contacts at once.  Auto Dialer is multi-channel dialing platform to send important alerts, promotions, updates, payment collection, political campaigns, phone surveys or notifications to your customers, employees, voters, and more. it instantly turns your browser into a complete outbound call center with an Intuitive user interface, advanced multi-campaign management and reporting. It can be easily connected to our VoiceXML IVR.</description>
     </item>
     
     <item>
@@ -130,7 +126,7 @@ Interactive Powers - Streamline your business communications</description>
       <pubDate>Wed, 04 Jul 2018 13:30:00 +0200</pubDate>
       
       <guid>https://blog.ivrpowers.com/post/products/conversational-ivr-applications/</guid>
-      <description>Photo source: Pixabay. Creative Commons Conversational IVR applications to improve your customer experience in phone services. Tradicional IVR systems have been built as limited DTMF and direct IVR dialogs for a long time. Yet it is not a secret that the experience using those solutions has is rather poor. In 70% of those interactions, the end users end up frustrated; at “best” case scenario are rerouted to a human agent.</description>
+      <description>Photo source: Pixabay. Creative Commons Conversational IVR applications to improve your customer experience in phone services.  Tradicional IVR systems have been built as limited DTMF and direct IVR dialogs for a long time. Yet it is not a secret that the experience using those solutions has is rather poor. In 70% of those interactions, the end users end up frustrated; at “best” case scenario are rerouted to a human agent.</description>
     </item>
     
     <item>
@@ -139,7 +135,7 @@ Interactive Powers - Streamline your business communications</description>
       <pubDate>Wed, 20 Sep 2017 12:50:49 +0200</pubDate>
       
       <guid>https://blog.ivrpowers.com/post/trends/cloud-hosting-ivr-rtc/</guid>
-      <description>Photo source: Pixabay. Creative Commons. Upgrade your business communications to the Cloud to deliver more value with less costs Computing based on the internet is booming business. The global cloud communication market is projected to reach $4.45 by 2021. Why are more and more companies turning to the cloud for their business communications needs?
+      <description>Photo source: Pixabay. Creative Commons. Upgrade your business communications to the Cloud to deliver more value with less costs  Computing based on the internet is booming business. The global cloud communication market is projected to reach $4.45 by 2021. Why are more and more companies turning to the cloud for their business communications needs?
 Communications solutions at a lower cost. Cloud computing is a cost saver since it can reduce or even eliminate the need for a company to buy an expensive hardware and software.</description>
     </item>
     
@@ -161,7 +157,8 @@ Communications solutions at a lower cost. Cloud computing is a cost saver since 
       <description>Photo source: Interactive Powers We are pleased to share our nice product microsite links in this post. You will find a summary of all features and an easier way to talk about them from socials networks and email.
 Microsite - VoiceXML IVR Refining IVR with Software · http://voicexml.ivrpowers.com
 Microsite - Video RTC Video Real Time Communications · http://videortc.ivrpowers.com
-Microsite - Webclient Calling from any Web Browser · http://webclient.ivrpowers.com</description>
+Microsite - Webclient Calling from any Web Browser · http://webclient.ivrpowers.com
+Microsite - Meeting Point Make secure business online meetings&amp;hellip; · http://meetingpoint.</description>
     </item>
     
     <item>

@@ -7,7 +7,7 @@
         <meta charset="utf-8" />
         <meta http-equiv="X-UA-Compatible" content="IE=edge" />
 
-        <meta property="og:title" content=" Web Browser to SIP Calling? &middot;  Blog" />
+        <meta property="og:title" content=" Web Browser to SIP Calling? &middot; Blog " />
         <meta property="og:site_name" content="Blog" />
         <meta property="og:url" content="https://blog.ivrpowers.com/post/technologies/webrtc-rtmp-to-sip-calling/" />
 
@@ -30,7 +30,7 @@
         <meta name="twitter:url" content="https://blog.ivrpowers.com/post/technologies/webrtc-rtmp-to-sip-calling/" />
     
 
-        <title> Web Browser to SIP Calling? &middot;  Blog</title>
+        <title> Web Browser to SIP Calling? &middot; Blog </title>
 
         <link rel="preload" href="https://blog.ivrpowers.com/js/main.js" as="script" />
         <link rel="preload" href="https://blog.ivrpowers.com/css/main.css" as="style" />
@@ -70,43 +70,43 @@
         "@type": "BlogPosting",
         "mainEntityOfPage": {
           "@type": "WebPage",
-          "@id": "https://blog.ivrpowers.com/post/technologies/webrtc-rtmp-to-sip-calling/"
+          "@id": "https:\/\/blog.ivrpowers.com\/post\/technologies\/webrtc-rtmp-to-sip-calling\/"
         },
         "headline": "Web Browser to SIP Calling?",
         "description": "Technology Approach",
         "author": {
             "@type": "Person",
             "name": "IVRPowers Team",
-            "url": "http://profiles.google.com/https://plus.google.com/110474380379482164317/?rel=author",
+            "url": "http://profiles.google.com/https:\/\/plus.google.com\/110474380379482164317\/?rel=author",
             "image": {
               "@type": "ImageObject",
-              "url": "https:/images/avatar.png",
+              "url": "https:\/images\/avatar.png",
               "height": 80,
               "width": 80
             }
         },
         "publisher": {
           "@type": "Organization",
-          "@id": "https://blog.ivrpowers.com/",
+          "@id": "https:\/\/blog.ivrpowers.com\/",
           "name": "Blog",
-          "url": "https://blog.ivrpowers.com/",
+          "url": "https:\/\/blog.ivrpowers.com\/",
           "logo": {
             "@type": "ImageObject",
-            "url": "https:/images/avatar.png",
+            "url": "https:\/images\/avatar.png",
             "height": 80,
             "width": 80
           }
         },
         "image": {
           "@type": "ImageObject",
-          "url": "https://blog.ivrpowers.com/postimages/technologies/ivrpowers-posts-01.101.jpeg",
+          "url": "https:\/\/blog.ivrpowers.com\/postimages\/technologies\/ivrpowers-posts-01.101.jpeg",
           "height": 133,
           "width": 200
         },
         "datePublished": "2017-07-09",
         "dateModified": "2017-07-09",
-        "wordCount": 440,
-        "keywords": ["webrtc","rtmp","rtc","cctr","voip","sip"] 
+        "wordCount":  440 ,
+        "keywords": "[\"webrtc\",\"rtmp\",\"rtc\",\"cctr\",\"voip\",\"sip\"]" 
     }
     </script>
 
@@ -185,46 +185,25 @@ html{font-family:sans-serif;line-height:1.15;-ms-text-size-adjust:100%;-webkit-t
   			</header>
 
   			<section class="post-content">
-  				
-
-<h2 id="webcall-sip-postimages-technologies-ivrpowers-posts-01-110-jpeg"><img src="/postimages/technologies/ivrpowers-posts-01.110.jpeg" alt="Webcall SIP" /></h2>
-
-<h6 id="image-source-interactive-powers-elaboration">Image source: Interactive Powers&rsquo; elaboration</h6>
-
+  				<h2 id="webcall-sippostimagestechnologiesivrpowers-posts-01110jpeg"><img src="/postimages/technologies/ivrpowers-posts-01.110.jpeg" alt="Webcall SIP"></h2>
+<h6 id="image-source-interactive-powers-elaboration">Image source: Interactive Powers' elaboration</h6>
 <p>How can you call a Desk Phone from any Web Browser? Our both <strong>Video Gateways (WebRTC | RTMP)</strong> can convert web browser media streams (video - audio - data) to SIP from <a href="http://blog.ivrpowers.com/post/technologies/what-is-webrtc/">WebRTC</a> or <a href="http://blog.ivrpowers.com/post/technologies/what-is-rtmp/">RTMP</a> peers communications. This interesting feature allows to connect easily web services to existing <strong>VoIP telephony channels</strong> of your IVR or PBX. We can consider all of this approach like a <strong>direct calling webphone</strong> or like a <strong>WebRTC-DDI or RTMP-DDI</strong> in a SIP trunk from an operator service configuration.</p>
-
 <h1 id="how-does-it-work">How does it work?</h1>
-
 <p>A Webcall is initiated by a web application endpoint created in Flash (RTMP) or HTML5 (WebRTC) and comes into the <a href="http://www.ivrpowers.com/videortc/">Video Gateway</a>. This session could be composed of three media streams (video, data and audio) blended together in a single interaction:</p>
-
-<h2 id="step-1-audio-video-decouplexing">Step 1. Audio &amp; Video Decouplexing</h2>
-
+<h2 id="step-1-audio--video-decouplexing">Step 1. Audio &amp; Video Decouplexing</h2>
 <p>Decouples the three media streams from the incoming Videocall (mixed stream is split into a video + data stream and an audio stream). Remember, Video stream is optional but all the communication channels between peers work in Full Duplex.</p>
-
-<h2 id="step-2-webrtc-rtmp-to-sip-converting">Step 2. WebRTC | RTMP to SIP Converting</h2>
-
+<h2 id="step-2-webrtc--rtmp-to-sip-converting">Step 2. WebRTC | RTMP to SIP Converting</h2>
 <p>Converts the audio stream to a regular SIP call that can be transferred to an external telephony system. Along with the call signaling, a unique ID generated by the <a href="http://www.ivrpowers.com/videortc/">Video Gateway</a> (WebRTC | RTMP) is sent (typically in a custom SIP header or CallerID field)</p>
-
 <h1 id="telephony-features">Telephony features</h1>
-
 <h2 id="dtmf-input">DTMF Input</h2>
-
 <p>Yes, the converter support to send DTMF inputs between the RTMP / WebRTC client and the SIP trunk side. This allow you to connect an <a href="http://blog.ivrpowers.com/post/technologies/what-is-ivr/">IVR</a> and menus easily in front of your agents.</p>
-
-<h2 id="caller-id-called-id">Caller ID / Called ID</h2>
-
+<h2 id="caller-id--called-id">Caller ID / Called ID</h2>
 <p>Yes, the RTMP / WebRTC client can send and receive a session ID to interact with the telephony platform like a phone call. The session ID must be 8-10 digits to be matched properly as a Caller ID.</p>
-
 <h2 id="audio-codecs">Audio Codecs</h2>
-
 <p>By default, the Video Gateway will convert the voice call to g711 but you can set another specific audio codec to be transcoded inside the Gateway itself. We support most common audio codecs for SIP.</p>
-
 <h1 id="benefits-for-enterprises-and-call-centers">Benefits for Enterprises and Call Centers</h1>
-
 <p>This operation mode has various advantages to add Calls from a Web Browser into a Contact Center strategy, namely: <strong>Agents can use their own phone devices</strong> to receive the audio stream of Web calls like from a DDI and with all regular call treatment, routing strategies, IVR flows, ACD queues, etc&hellip; Since the audio part of the call goes through the telephony system as a regular call, it can be listened to and recorded like a regular call.</p>
-
-<hr />
-
+<hr>
 <p><a href="http://www.ivrpowers.com/">Interactive Powers</a> - Streamline your business communications</p>
 
   			</section>
@@ -318,36 +297,24 @@ html{font-family:sans-serif;line-height:1.15;-ms-text-size-adjust:100%;-webkit-t
     </div>
     <div id="toc" class="menu-list">
         <nav id="TableOfContents">
-<ul>
-<li>
-<ul>
-<li><a href="#webcall-sip-postimages-technologies-ivrpowers-posts-01-110-jpeg"><img src="/postimages/technologies/ivrpowers-posts-01.110.jpeg" alt="Webcall SIP" /></a>
-<ul>
-<li>
-<ul>
-<li>
-<ul>
-<li>
-<ul>
-<li><a href="#image-source-interactive-powers-elaboration">Image source: Interactive Powers&rsquo; elaboration</a></li>
-</ul></li>
-</ul></li>
-</ul></li>
-</ul></li>
-</ul></li>
-<li><a href="#how-does-it-work">How does it work?</a>
-<ul>
-<li><a href="#step-1-audio-video-decouplexing">Step 1. Audio &amp; Video Decouplexing</a></li>
-<li><a href="#step-2-webrtc-rtmp-to-sip-converting">Step 2. WebRTC | RTMP to SIP Converting</a></li>
-</ul></li>
-<li><a href="#telephony-features">Telephony features</a>
-<ul>
-<li><a href="#dtmf-input">DTMF Input</a></li>
-<li><a href="#caller-id-called-id">Caller ID / Called ID</a></li>
-<li><a href="#audio-codecs">Audio Codecs</a></li>
-</ul></li>
-<li><a href="#benefits-for-enterprises-and-call-centers">Benefits for Enterprises and Call Centers</a></li>
-</ul>
+  <ul>
+    <li><a href="#webcall-sippostimagestechnologiesivrpowers-posts-01110jpeg"><img src="/postimages/technologies/ivrpowers-posts-01.110.jpeg" alt="Webcall SIP"></a>
+      <ul>
+        <li></li>
+      </ul>
+    </li>
+  </ul>
+
+  <ul>
+    <li><a href="#step-1-audio--video-decouplexing">Step 1. Audio &amp; Video Decouplexing</a></li>
+    <li><a href="#step-2-webrtc--rtmp-to-sip-converting">Step 2. WebRTC | RTMP to SIP Converting</a></li>
+  </ul>
+
+  <ul>
+    <li><a href="#dtmf-input">DTMF Input</a></li>
+    <li><a href="#caller-id--called-id">Caller ID / Called ID</a></li>
+    <li><a href="#audio-codecs">Audio Codecs</a></li>
+  </ul>
 </nav>
     </div>
 </div>

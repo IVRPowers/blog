@@ -1,23 +1,19 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Video on Blog</title>
+    <title>video on Blog</title>
     <link>https://blog.ivrpowers.com/tags/video/</link>
-    <description>Recent content in Video on Blog</description>
+    <description>Recent content in video on Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 06 Dec 2021 09:00:05 +0200</lastBuildDate>
-    
-	<atom:link href="https://blog.ivrpowers.com/tags/video/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Mon, 06 Dec 2021 09:00:05 +0200</lastBuildDate><atom:link href="https://blog.ivrpowers.com/tags/video/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Video Background Effects</title>
       <link>https://blog.ivrpowers.com/post/technologies/video-background-effects/</link>
       <pubDate>Mon, 06 Dec 2021 09:00:05 +0200</pubDate>
       
       <guid>https://blog.ivrpowers.com/post/technologies/video-background-effects/</guid>
-      <description>Live streaming complementary software packed with powerful features to enhance Video RTC. Simply add Manycam Lite CC as a webcam/video source for our Video RTC platforms and get access many interesting features to enhance your video call center: add IP cameras to show different angles, virtual backgrounds and chroma key, up to 24 video sources, switch between computer screens, screencast, draw &amp;amp; text board mode.
+      <description>Live streaming complementary software packed with powerful features to enhance Video RTC.  Simply add Manycam Lite CC as a webcam/video source for our Video RTC platforms and get access many interesting features to enhance your video call center: add IP cameras to show different angles, virtual backgrounds and chroma key, up to 24 video sources, switch between computer screens, screencast, draw &amp;amp; text board mode.
 Manycam Lite CC is able to manage CPU or GPU optimization in local processing to ensure the best performance for your video agents and without any other dependence on the your desktop PC.</description>
     </item>
     
@@ -27,7 +23,7 @@ Manycam Lite CC is able to manage CPU or GPU optimization in local processing to
       <pubDate>Thu, 06 May 2021 20:20:00 +0200</pubDate>
       
       <guid>https://blog.ivrpowers.com/post/technologies/screen-resolution/</guid>
-      <description>Deploying High Quality and fully Bandwidth adaptative Video Communications Services Resolution is the number of pixels on a specific screen. A single pixel, the smallest unit to measure the video resolutions, is a tiny dot on the screen often no visible individually to the naken human eye. The more the number of pixels, the higher the sharpness of the video streaming.
+      <description>Deploying High Quality and fully Bandwidth adaptative Video Communications Services  Resolution is the number of pixels on a specific screen. A single pixel, the smallest unit to measure the video resolutions, is a tiny dot on the screen often no visible individually to the naken human eye. The more the number of pixels, the higher the sharpness of the video streaming.
 Resolution Settings Video RTC gateways manage the following resolution modes:</description>
     </item>
     
@@ -37,7 +33,7 @@ Resolution Settings Video RTC gateways manage the following resolution modes:</d
       <pubDate>Tue, 17 Nov 2020 00:18:30 +0200</pubDate>
       
       <guid>https://blog.ivrpowers.com/post/marketing/salesland-webinar/</guid>
-      <description>Photo source: Interactive Powers, Salesland. What if in COVID-19&amp;rsquo;s times, we could sell more? Join us at next 25th November, 16:00 CET at next Salesland 20 years event!
+      <description>Photo source: Interactive Powers, Salesland. What if in COVID-19&amp;rsquo;s times, we could sell more?  Join us at next 25th November, 16:00 CET at next Salesland 20 years event!
 With:
  Javier Arellano, Sales Manager and Businesss Development at Salesland Group. Ivan Sixto, Founder and CEO at Interactive Powers.  The pandemic crisis caused by Covid-19 has created an acceleration in the digitalization processes of our society, but what about people?</description>
     </item>

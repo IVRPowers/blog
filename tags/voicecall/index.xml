@@ -1,16 +1,12 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Voicecall on Blog</title>
+    <title>voicecall on Blog</title>
     <link>https://blog.ivrpowers.com/tags/voicecall/</link>
-    <description>Recent content in Voicecall on Blog</description>
+    <description>Recent content in voicecall on Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 18 Oct 2017 12:58:21 +0200</lastBuildDate>
-    
-	<atom:link href="https://blog.ivrpowers.com/tags/voicecall/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Wed, 18 Oct 2017 12:58:21 +0200</lastBuildDate><atom:link href="https://blog.ivrpowers.com/tags/voicecall/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>It&#39;s time for companies to use Web and Mobile RTC Applications</title>
       <link>https://blog.ivrpowers.com/post/news/linkedin-article6/</link>

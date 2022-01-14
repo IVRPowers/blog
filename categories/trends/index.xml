@@ -1,16 +1,12 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Trends on Blog</title>
+    <title>trends on Blog</title>
     <link>https://blog.ivrpowers.com/categories/trends/</link>
-    <description>Recent content in Trends on Blog</description>
+    <description>Recent content in trends on Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 24 Oct 2021 12:00:00 +0200</lastBuildDate>
-    
-	<atom:link href="https://blog.ivrpowers.com/categories/trends/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Sun, 24 Oct 2021 12:00:00 +0200</lastBuildDate><atom:link href="https://blog.ivrpowers.com/categories/trends/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>What’s next for customer behavior?</title>
       <link>https://blog.ivrpowers.com/post/trends/whats-next-for-customer-behavior/</link>
@@ -37,7 +33,7 @@ Remote Working is Required Consumers are now building their whole lifestyles aro
       <pubDate>Tue, 09 Feb 2021 18:00:00 +0200</pubDate>
       
       <guid>https://blog.ivrpowers.com/post/trends/webrtc-standard-technology-noapp/</guid>
-      <description>Enabling embed Business Communications into any Web interface with Video RTC WebRTC (Web Real Time Communication) enables peer-to-peer communication with desktop and mobile browsers. In other words, WebRTC allows you to exchange any kind of media through the web (such as video, audio and data) without any required plugin or component. All our solutions are now following the #NOAPP approach avoid any requirement to download, install any app or plugin in any device to get live communications.</description>
+      <description>Enabling embed Business Communications into any Web interface with Video RTC  WebRTC (Web Real Time Communication) enables peer-to-peer communication with desktop and mobile browsers. In other words, WebRTC allows you to exchange any kind of media through the web (such as video, audio and data) without any required plugin or component. All our solutions are now following the #NOAPP approach avoid any requirement to download, install any app or plugin in any device to get live communications.</description>
     </item>
     
     <item>
@@ -46,7 +42,7 @@ Remote Working is Required Consumers are now building their whole lifestyles aro
       <pubDate>Tue, 02 Jun 2020 20:00:00 +0200</pubDate>
       
       <guid>https://blog.ivrpowers.com/post/healthcare/how-covid19-pandemic-is-changing-doctor-visits/</guid>
-      <description>Photo source: Freepick Healthcare is turning to video communications to stay connected during COVID-19, with minimal disruption to its operations. Source: Bloomberg News
+      <description>Photo source: Freepick Healthcare is turning to video communications to stay connected during COVID-19, with minimal disruption to its operations.  Source: Bloomberg News
 Video check-up visits has become the norm for most healthcare providers during the coronavirus pandemic. Shelter-in-place orders have forced people into doing video sessions, and many doctors that never or rarely used video now have it as an essential tool. Simply put, video usage has seen a massive surge.</description>
     </item>
     
@@ -56,7 +52,7 @@ Video check-up visits has become the norm for most healthcare providers during t
       <pubDate>Wed, 13 May 2020 22:00:00 +0200</pubDate>
       
       <guid>https://blog.ivrpowers.com/post/healthcare/telehealth-evolution-in-times-of-covid-19/</guid>
-      <description>Photo source: Pexels Telemedicine is now a becoming household term both for doctors and patients. If you need to see a doctor any time soon and it&amp;rsquo;s unrelated to COVID-19, chances are that your visit will be a virtual one. Today the people is open to the idea of seeing a doctor virtually instead of an in-person visit, there are a positive momentum and that awareness has increased. When a virus outbreak occurs, diagnosing patients promptly, minimizing travel time, and reducing public exposure helps to curb the rate of infection.</description>
+      <description>Photo source: Pexels Telemedicine is now a becoming household term both for doctors and patients.  If you need to see a doctor any time soon and it&amp;rsquo;s unrelated to COVID-19, chances are that your visit will be a virtual one. Today the people is open to the idea of seeing a doctor virtually instead of an in-person visit, there are a positive momentum and that awareness has increased. When a virus outbreak occurs, diagnosing patients promptly, minimizing travel time, and reducing public exposure helps to curb the rate of infection.</description>
     </item>
     
     <item>
@@ -65,7 +61,7 @@ Video check-up visits has become the norm for most healthcare providers during t
       <pubDate>Wed, 13 May 2020 20:00:00 +0200</pubDate>
       
       <guid>https://blog.ivrpowers.com/post/healthcare/virgo-healthcare-annoucement/</guid>
-      <description>Photo source: Pexels We understand Telehealth has to be simple and fast, allowing doctors and patients to connect easier than ever during these difficult times! Interactive Powers as a leading video gateway developer has released Virgo Healthcare, a new smart videocall application &amp;ldquo;as a service&amp;rdquo; in response to the overwhelming increase virtual visits sparked by the COVID-19 global pandemic. This accessible and secure solution with hyper customization offers the greater doctor and patient experience for a such critical digital interactions.</description>
+      <description>Photo source: Pexels We understand Telehealth has to be simple and fast, allowing doctors and patients to connect easier than ever during these difficult times!  Interactive Powers as a leading video gateway developer has released Virgo Healthcare, a new smart videocall application &amp;ldquo;as a service&amp;rdquo; in response to the overwhelming increase virtual visits sparked by the COVID-19 global pandemic. This accessible and secure solution with hyper customization offers the greater doctor and patient experience for a such critical digital interactions.</description>
     </item>
     
     <item>
@@ -74,7 +70,7 @@ Video check-up visits has become the norm for most healthcare providers during t
       <pubDate>Sun, 10 May 2020 22:00:00 +0200</pubDate>
       
       <guid>https://blog.ivrpowers.com/post/healthcare/telemedicine-is-changing-the-face-of-healthcare-delivery/</guid>
-      <description>Photo source: Pexels The COVID-19 global pandemic has both rocked the economy and tested the limits of already-stretched healthcare systems. The COVID-19 / Coronavirus is quickly spreading its tentacles across the globe. This pandemic has brought out the best in people as new partnerships form to combat a common enemy. While the pandemic tears across the globe, so to do the unprecedented and innovative changes in pharma, manufacturing, and care delivery.</description>
+      <description>Photo source: Pexels The COVID-19 global pandemic has both rocked the economy and tested the limits of already-stretched healthcare systems.  The COVID-19 / Coronavirus is quickly spreading its tentacles across the globe. This pandemic has brought out the best in people as new partnerships form to combat a common enemy. While the pandemic tears across the globe, so to do the unprecedented and innovative changes in pharma, manufacturing, and care delivery.</description>
     </item>
     
     <item>
@@ -83,7 +79,7 @@ Video check-up visits has become the norm for most healthcare providers during t
       <pubDate>Sun, 05 Apr 2020 22:00:00 +0200</pubDate>
       
       <guid>https://blog.ivrpowers.com/post/trends/video-is-no-longer-a-nice-to-have-it-is-a-must-have/</guid>
-      <description>Photo source: Interactive Powers Now, It&amp;rsquo;s won’t be an option. It&amp;rsquo;s a question of business survival in post-COVID-19 society. Just one year ago, we had annouced that Video was no longer &amp;ldquo;a nice to have&amp;rdquo; for Call Centers, now it will change the entire world market.
+      <description>Photo source: Interactive Powers Now, It&amp;rsquo;s won’t be an option. It&amp;rsquo;s a question of business survival in post-COVID-19 society.  Just one year ago, we had annouced that Video was no longer &amp;ldquo;a nice to have&amp;rdquo; for Call Centers, now it will change the entire world market.
  Video was just representing no more than 8% or less of business communications
  As you may read in the research analyts reports, Video was just representing no more than 8% or less of business communications according to &amp;ldquo;more optimistics&amp;rdquo; predictions published past year as usual&amp;hellip; Even, if video was much better than voice for any digital real time human interaction.</description>
     </item>
@@ -94,7 +90,7 @@ Video check-up visits has become the norm for most healthcare providers during t
       <pubDate>Tue, 02 Apr 2019 22:00:00 +0200</pubDate>
       
       <guid>https://blog.ivrpowers.com/post/trends/video-is-no-longuer-a-nice-to-have-for-call-centers/</guid>
-      <description>Photo source: Interactive Powers It&amp;rsquo;s not Fashion, it&amp;rsquo;s a question of Evolution. Companies and brands that are not yet concidering a progresive transition of their phone channel to Real-Time Communications (RTC) within the next years for their customer care, sales or support will quickly become old fashioned and irrelevant for new consumers. The next customers generation is no longer accepting to downgrade their daily high speed interactions and expectations on advanced devices.</description>
+      <description>Photo source: Interactive Powers It&amp;rsquo;s not Fashion, it&amp;rsquo;s a question of Evolution.  Companies and brands that are not yet concidering a progresive transition of their phone channel to Real-Time Communications (RTC) within the next years for their customer care, sales or support will quickly become old fashioned and irrelevant for new consumers. The next customers generation is no longer accepting to downgrade their daily high speed interactions and expectations on advanced devices.</description>
     </item>
     
     <item>
@@ -103,7 +99,7 @@ Video check-up visits has become the norm for most healthcare providers during t
       <pubDate>Wed, 27 Mar 2019 00:01:00 +0200</pubDate>
       
       <guid>https://blog.ivrpowers.com/post/trends/children-understand-video/</guid>
-      <description>Photo source: Interactive Powers Children feel more confortable having video calls than phone calls. If you have the opportunity to check how children understand Live Communications, you will quickly realise that phone is absolutly not a priority for them. They will never ask you about using a phone number and never want to remember just what it is. This new generation is born under a full digital world&amp;rsquo;s devices with high speed Internet and they absolutly are not aware about using limited or poor interactions.</description>
+      <description>Photo source: Interactive Powers Children feel more confortable having video calls than phone calls.  If you have the opportunity to check how children understand Live Communications, you will quickly realise that phone is absolutly not a priority for them. They will never ask you about using a phone number and never want to remember just what it is. This new generation is born under a full digital world&amp;rsquo;s devices with high speed Internet and they absolutly are not aware about using limited or poor interactions.</description>
     </item>
     
     <item>
@@ -112,7 +108,7 @@ Video check-up visits has become the norm for most healthcare providers during t
       <pubDate>Thu, 08 Nov 2018 22:00:00 +0100</pubDate>
       
       <guid>https://blog.ivrpowers.com/post/trends/videobots-are-coming/</guid>
-      <description>Video AI agents with an human like behaviour are closer than you may think… Today, Xinhua, China’s state-run press agency, has unveiled new “AI anchors” — digital composites created from footage of human hosts that read the news using synthesised voices.
+      <description>Video AI agents with an human like behaviour are closer than you may think…  Today, Xinhua, China’s state-run press agency, has unveiled new “AI anchors” — digital composites created from footage of human hosts that read the news using synthesised voices.
 The news anchor, based on the latest AI technology, has a male image with a voice, facial expressions and actions of a real person. &amp;ldquo;He&amp;rdquo; learns from live broadcasting videos by himself and can read texts as naturally as a human.</description>
     </item>
     
@@ -122,7 +118,7 @@ The news anchor, based on the latest AI technology, has a male image with a voic
       <pubDate>Wed, 31 Oct 2018 22:00:00 +0100</pubDate>
       
       <guid>https://blog.ivrpowers.com/post/trends/total-cost-of-ownership/</guid>
-      <description>Photo source: Unsplash Creative Commons. TCO is particularly important when you’re deploying Video RTC solutions, and it allows companies to gain substantial cost advantages in implementation, training, maintenance, and system management. Most analysts agree that on-premises will cost you less up front. You pay a one-time license fee, along with a maintenance subscription covering things like vendor support. These are far cheaper than the cost of your cloud subscription over time.</description>
+      <description>Photo source: Unsplash Creative Commons. TCO is particularly important when you’re deploying Video RTC solutions, and it allows companies to gain substantial cost advantages in implementation, training, maintenance, and system management.  Most analysts agree that on-premises will cost you less up front. You pay a one-time license fee, along with a maintenance subscription covering things like vendor support. These are far cheaper than the cost of your cloud subscription over time.</description>
     </item>
     
     <item>
@@ -131,7 +127,7 @@ The news anchor, based on the latest AI technology, has a male image with a voic
       <pubDate>Tue, 30 Oct 2018 22:00:00 +0100</pubDate>
       
       <guid>https://blog.ivrpowers.com/post/trends/on-premise-vs-cloud/</guid>
-      <description>Photo source: Unsplash Creative Commons. There is many reasons to consider replacing an on-premises infrastructure with a cloud-based video real-time communication platform as a service. If your communication infrastructure don’t supports modern video communications or faces end-of-life, you need to plan your migration strategy now to avoid pitfalls down the road. Also consider the seasonality of your business and the best time to be upgraded. For reference, on-premises solutions typically require more time to procure, generally weeks or months.</description>
+      <description>Photo source: Unsplash Creative Commons. There is many reasons to consider replacing an on-premises infrastructure with a cloud-based video real-time communication platform as a service.  If your communication infrastructure don’t supports modern video communications or faces end-of-life, you need to plan your migration strategy now to avoid pitfalls down the road. Also consider the seasonality of your business and the best time to be upgraded. For reference, on-premises solutions typically require more time to procure, generally weeks or months.</description>
     </item>
     
     <item>
@@ -140,7 +136,7 @@ The news anchor, based on the latest AI technology, has a male image with a voic
       <pubDate>Wed, 25 Jul 2018 11:30:18 +0200</pubDate>
       
       <guid>https://blog.ivrpowers.com/post/trends/mckinsey-bank-branch-digital-age/</guid>
-      <description>Photo Source: Interactive Powers, Pexels. Creative Commons Smart-branch in the digital age will dedicated 70% of services areas to self-services thank to advanced technologies.  Digital technology holds the key to the branch of the future.
+      <description>Photo Source: Interactive Powers, Pexels. Creative Commons Smart-branch in the digital age will dedicated 70% of services areas to self-services thank to advanced technologies.   Digital technology holds the key to the branch of the future.
  Changing customer behavior and the emergence of new technologies spell not the end of the branch but rather the advent of the “smart branch.” Smart branches use technology to boost sales and improve customer experience significantly.</description>
     </item>
     
@@ -150,7 +146,7 @@ The news anchor, based on the latest AI technology, has a male image with a voic
       <pubDate>Sat, 21 Jul 2018 22:00:00 +0100</pubDate>
       
       <guid>https://blog.ivrpowers.com/post/trends/video-calling-as-a-new-game-changer/</guid>
-      <description>Photo source: Pexels. Creative Commons. Consumers welcome convenience of Video Calling to talk to brands and businesses, 24% would consider switching to a bank that offered Video Calling. The majority of person-to-person video calls currently happen through third-party social media and messaging applications like Skype, Messenger and WhatsApp etc. especially on mobile phones. To capitalize on this user behavior, 38% of brands and businesses have to integrate video calling within their own website and mobile applications, while a further 46% are currently considering it.</description>
+      <description>Photo source: Pexels. Creative Commons. Consumers welcome convenience of Video Calling to talk to brands and businesses, 24% would consider switching to a bank that offered Video Calling.  The majority of person-to-person video calls currently happen through third-party social media and messaging applications like Skype, Messenger and WhatsApp etc. especially on mobile phones. To capitalize on this user behavior, 38% of brands and businesses have to integrate video calling within their own website and mobile applications, while a further 46% are currently considering it.</description>
     </item>
     
     <item>
@@ -159,7 +155,7 @@ The news anchor, based on the latest AI technology, has a male image with a voic
       <pubDate>Sat, 21 Jul 2018 20:00:00 +0100</pubDate>
       
       <guid>https://blog.ivrpowers.com/post/trends/video-calling-is-the-next-cx-frontier-for-brands/</guid>
-      <description>Photo source: Pexels. Creative Commons. Video Calling is becoming the next channel to include for businesses and avoid consumer switching to other brands with an complete omnichannel customer services. Facing the demand, 21% of businesses expect to launch video calling pilot services within the next two years. The key benefits driving this uptake include improved customer experience (CX). &amp;ldquo;Consumers are expecting to be able to engage with the brands and businesses in their lives whenever, and however they like, with Video Calling becoming an increasingly important complementary channel across multiple industries from retail to financial.</description>
+      <description>Photo source: Pexels. Creative Commons. Video Calling is becoming the next channel to include for businesses and avoid consumer switching to other brands with an complete omnichannel customer services.  Facing the demand, 21% of businesses expect to launch video calling pilot services within the next two years. The key benefits driving this uptake include improved customer experience (CX). &amp;ldquo;Consumers are expecting to be able to engage with the brands and businesses in their lives whenever, and however they like, with Video Calling becoming an increasingly important complementary channel across multiple industries from retail to financial.</description>
     </item>
     
     <item>
@@ -168,7 +164,7 @@ The news anchor, based on the latest AI technology, has a male image with a voic
       <pubDate>Fri, 13 Jul 2018 10:00:00 +0100</pubDate>
       
       <guid>https://blog.ivrpowers.com/post/trends/voicebots-ivr-call-center-voice-channel/</guid>
-      <description>Photo source: Pixabay. Creative Commons. The Contact Center Voice Channel may not going away in the &amp;ldquo;short time&amp;rdquo;, but it will be progressively supplemented by Voicebots in the next few years&amp;hellip; Past months, Google’s Duplex demo forced us to think more about a world where we might get a random call from a business and not realize it is a robot making the call. Recent proof of concepts have verified that this technology is not just a staged demo but it actually works.</description>
+      <description>Photo source: Pixabay. Creative Commons. The Contact Center Voice Channel may not going away in the &amp;ldquo;short time&amp;rdquo;, but it will be progressively supplemented by Voicebots in the next few years&amp;hellip;  Past months, Google’s Duplex demo forced us to think more about a world where we might get a random call from a business and not realize it is a robot making the call. Recent proof of concepts have verified that this technology is not just a staged demo but it actually works.</description>
     </item>
     
     <item>
@@ -186,7 +182,7 @@ The news anchor, based on the latest AI technology, has a male image with a voic
       <pubDate>Mon, 15 Jan 2018 20:23:11 +0100</pubDate>
       
       <guid>https://blog.ivrpowers.com/post/trends/2018-customer-experience/</guid>
-      <description>Photo Source: Pexels. Creative Commons Companies must recognize CX as a key competitive differentiator and make sweeping changes in Channels to keep up this year. In the last years, digital technologies have changed the way we work and relate to each other. These changes have also impacted on customers’ expectations. Clients increasingly demand a more personalized, accessible and comfortable attention.
+      <description>Photo Source: Pexels. Creative Commons Companies must recognize CX as a key competitive differentiator and make sweeping changes in Channels to keep up this year.  In the last years, digital technologies have changed the way we work and relate to each other. These changes have also impacted on customers’ expectations. Clients increasingly demand a more personalized, accessible and comfortable attention.
 Daily Business Communications. Clients expect from companies the possibility of contacting them through the same variety of channels they use in their everyday life communications.</description>
     </item>
     
@@ -196,7 +192,7 @@ Daily Business Communications. Clients expect from companies the possibility of 
       <pubDate>Tue, 02 Jan 2018 21:00:00 +0100</pubDate>
       
       <guid>https://blog.ivrpowers.com/post/trends/ai-contact-center/</guid>
-      <description>Photo source: Pixabay. Creative Commons. By 2030, AI solutions will surpass the services provided by agents. Just a few years ago, talking about Artificial Intelligence (AI) meant talking about a futuristic scenario. Today, AI is everywhere and, directly or indirectly, we are starting to use it almost every day. The rapid evolution of AI allows it to be increasingly applied to more sophisticated processes which require a high precision like customer services.</description>
+      <description>Photo source: Pixabay. Creative Commons. By 2030, AI solutions will surpass the services provided by agents.  Just a few years ago, talking about Artificial Intelligence (AI) meant talking about a futuristic scenario. Today, AI is everywhere and, directly or indirectly, we are starting to use it almost every day. The rapid evolution of AI allows it to be increasingly applied to more sophisticated processes which require a high precision like customer services.</description>
     </item>
     
     <item>
@@ -206,7 +202,7 @@ Daily Business Communications. Clients expect from companies the possibility of 
       
       <guid>https://blog.ivrpowers.com/post/trends/enghouse-business-online/</guid>
       <description>Photo Source: Interactive Powers, Pexels. Creative Commons In a recent Enghouse Interactive survey, customers have made it clear that they want online communication channels with companies. 79% of consumers believe that businesses should provide a way for customers to contact them online.
-It is also interesting to compare this figure with the responses to the very same question in previous years&amp;rsquo; surveys. In 2014, only 29% of respondents answered that the possibility to contact a company online was relevant.</description>
+It is also interesting to compare this figure with the responses to the very same question in previous years&#39; surveys. In 2014, only 29% of respondents answered that the possibility to contact a company online was relevant.</description>
     </item>
     
     <item>
@@ -224,7 +220,7 @@ It is also interesting to compare this figure with the responses to the very sam
       <pubDate>Wed, 20 Sep 2017 12:50:49 +0200</pubDate>
       
       <guid>https://blog.ivrpowers.com/post/trends/cloud-hosting-ivr-rtc/</guid>
-      <description>Photo source: Pixabay. Creative Commons. Upgrade your business communications to the Cloud to deliver more value with less costs Computing based on the internet is booming business. The global cloud communication market is projected to reach $4.45 by 2021. Why are more and more companies turning to the cloud for their business communications needs?
+      <description>Photo source: Pixabay. Creative Commons. Upgrade your business communications to the Cloud to deliver more value with less costs  Computing based on the internet is booming business. The global cloud communication market is projected to reach $4.45 by 2021. Why are more and more companies turning to the cloud for their business communications needs?
 Communications solutions at a lower cost. Cloud computing is a cost saver since it can reduce or even eliminate the need for a company to buy an expensive hardware and software.</description>
     </item>
     
@@ -368,8 +364,7 @@ For Buyers, Sellers, Prospects Today, buyers, sellers, prospects and partners ex
       <guid>https://blog.ivrpowers.com/post/trends/updating-inbound-phone-channel/</guid>
       <description>Most Call Centers are only managing standard inbound phone calls with the addition of &amp;ldquo;Click-to-call&amp;rdquo; or &amp;ldquo;Call-me-back&amp;rdquo; buttons. It&amp;rsquo;s a very interesting &amp;ldquo;work around&amp;rdquo; option but it&amp;rsquo;s not enough. More and more users don&amp;rsquo;t like to make a phone call when they are browsing the net.
 Users just want to keep on the same channel for many reasons:
- they don&amp;rsquo;t want to unveils their phone number…
- they don&amp;rsquo;t know if one agent will be available now or better later… they don&amp;rsquo;t want to leave their web session context&amp;hellip; they may have bad cellular coverage conditions to make a mobile call&amp;hellip; they may be traveling outside their country under expensive roaming conditions… they may not be able to explain properly their current webpage context…  That&amp;rsquo;s a lot of reasons to make any inbound phone service fail?</description>
+ they don&amp;rsquo;t want to unveils their phone number… they don&amp;rsquo;t know if one agent will be available now or better later… they don&amp;rsquo;t want to leave their web session context&amp;hellip; they may have bad cellular coverage conditions to make a mobile call&amp;hellip; they may be traveling outside their country under expensive roaming conditions… they may not be able to explain properly their current webpage context…  That&amp;rsquo;s a lot of reasons to make any inbound phone service fail?</description>
     </item>
     
   </channel>

@@ -1,23 +1,19 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Apple on Blog</title>
+    <title>apple on Blog</title>
     <link>https://blog.ivrpowers.com/tags/apple/</link>
-    <description>Recent content in Apple on Blog</description>
+    <description>Recent content in apple on Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 04 Feb 2020 12:00:00 +0200</lastBuildDate>
-    
-	<atom:link href="https://blog.ivrpowers.com/tags/apple/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Tue, 04 Feb 2020 12:00:00 +0200</lastBuildDate><atom:link href="https://blog.ivrpowers.com/tags/apple/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Video RTC · Web Browsers support in 2020!</title>
       <link>https://blog.ivrpowers.com/post/technologies/videortc-web-browser-2020/</link>
       <pubDate>Tue, 04 Feb 2020 12:00:00 +0200</pubDate>
       
       <guid>https://blog.ivrpowers.com/post/technologies/videortc-web-browser-2020/</guid>
-      <description>Image source: Interactive Powers&amp;rsquo; elaboration Video RTC Gateways are now ready to run most modern Web Browsers and Operating Systems for your Business. We can observe the success of WebRTC Technology through the evolution of web browsers. Increasingly more and more browsers are WebRTC-enabled, having incorporated the possibility of making video calls. In most of them users do not need even to install special applications or plugins. Let’s see what four of the most important web browsers on the market currently offer.</description>
+      <description>Image source: Interactive Powers&#39; elaboration Video RTC Gateways are now ready to run most modern Web Browsers and Operating Systems for your Business.  We can observe the success of WebRTC Technology through the evolution of web browsers. Increasingly more and more browsers are WebRTC-enabled, having incorporated the possibility of making video calls. In most of them users do not need even to install special applications or plugins. Let’s see what four of the most important web browsers on the market currently offer.</description>
     </item>
     
     <item>
@@ -26,7 +22,7 @@
       <pubDate>Sun, 21 Jan 2018 21:00:00 +0200</pubDate>
       
       <guid>https://blog.ivrpowers.com/post/technologies/videortc-ios/</guid>
-      <description>Image source: Interactive Powers Make direct voice calls from Apple iOS devices thanks to VideoRTC.js and its native WebRTC based tecnology In previous posts, we have looked at some key considerations for building apps for video calling on web browsers and mobile devices, and some of the features you can include to make sure your users have a great experience.
+      <description>Image source: Interactive Powers Make direct voice calls from Apple iOS devices thanks to VideoRTC.js and its native WebRTC based tecnology  In previous posts, we have looked at some key considerations for building apps for video calling on web browsers and mobile devices, and some of the features you can include to make sure your users have a great experience.
 Now iOS 11 works with all compliant Apple iPhone and iPad devices which is an important component for creating frictionless, delightful apps, especially voice calling.</description>
     </item>
     
@@ -36,7 +32,7 @@ Now iOS 11 works with all compliant Apple iPhone and iPad devices which is an im
       <pubDate>Tue, 28 Nov 2017 21:00:00 +0200</pubDate>
       
       <guid>https://blog.ivrpowers.com/post/technologies/videortc-desktop-web-browser/</guid>
-      <description>Image source: Interactive Powers&amp;rsquo; elaboration The Video RTC Gateway, is ready to run with most modern Web Browsers and Desktop Operating Systems. We can observe the success of WebRTC Technology through the evolution of web browsers. Increasingly more and more browsers are WebRTC-enabled, having incorporated the possibility of making video calls. In most of them users do not need even to install special applications or plugins. Let&amp;rsquo;s see what four of the most important web browsers on the market currently offer.</description>
+      <description>Image source: Interactive Powers&#39; elaboration The Video RTC Gateway, is ready to run with most modern Web Browsers and Desktop Operating Systems.  We can observe the success of WebRTC Technology through the evolution of web browsers. Increasingly more and more browsers are WebRTC-enabled, having incorporated the possibility of making video calls. In most of them users do not need even to install special applications or plugins. Let&amp;rsquo;s see what four of the most important web browsers on the market currently offer.</description>
     </item>
     
     <item>
@@ -45,7 +41,7 @@ Now iOS 11 works with all compliant Apple iPhone and iPad devices which is an im
       <pubDate>Fri, 13 Oct 2017 13:09:34 +0200</pubDate>
       
       <guid>https://blog.ivrpowers.com/post/technologies/webrtc-3-things-safari11/</guid>
-      <description>Image source: Interactive Powers&amp;rsquo; elaboration After years, Apple has officially released a new version of Safari with support for WebRTC!
+      <description>Image source: Interactive Powers&#39; elaboration After years, Apple has officially released a new version of Safari with support for WebRTC!
 These are the three essential things to know:
 Interoperability with other web browsers. Basics work fine. If you run a simple peer-to-peer call between any of the 4 browsers, you’ll get a call going. Voice and video work over the lowest common denominator Opus+H.264 in Safari. Although Opus+VP8 will be also a possibility in the future, it is not right now with the current release.</description>
     </item>
@@ -56,7 +52,7 @@ Interoperability with other web browsers. Basics work fine. If you run a simple 
       <pubDate>Fri, 29 Sep 2017 13:09:34 +0200</pubDate>
       
       <guid>https://blog.ivrpowers.com/post/news/webrtc-safari11/</guid>
-      <description>Image source: Interactive Powers&amp;rsquo; elaboration At past WWDC 2017 in San Jose, California, Apple announced that it will include support for WebRTC in Safari 11 and WebKit for all iOS 11 and MacOS Sierra devices. Until now, 80% of all browsers supported WebRTC including Firefox and Chrome. Regarding Safari it grows to 95%. Apple’s announcement gives companies that use WebRTC applications and tools, such as our VideoRTC solutions, a broader range for choice and flexibility over which browser their rich multimedia communications services are delivered.</description>
+      <description>Image source: Interactive Powers&#39; elaboration At past WWDC 2017 in San Jose, California, Apple announced that it will include support for WebRTC in Safari 11 and WebKit for all iOS 11 and MacOS Sierra devices. Until now, 80% of all browsers supported WebRTC including Firefox and Chrome. Regarding Safari it grows to 95%. Apple’s announcement gives companies that use WebRTC applications and tools, such as our VideoRTC solutions, a broader range for choice and flexibility over which browser their rich multimedia communications services are delivered.</description>
     </item>
     
     <item>
@@ -65,7 +61,7 @@ Interoperability with other web browsers. Basics work fine. If you run a simple 
       <pubDate>Wed, 27 Sep 2017 21:00:00 +0200</pubDate>
       
       <guid>https://blog.ivrpowers.com/post/technologies/videortc-safari11/</guid>
-      <description>Image source: Interactive Powers&amp;rsquo; elaboration The Video RTC Gateway, Now ready run with Apple Safari 11 over MacOS computers and iOS devices Interactive Powers is proud to announce Video RTC support for Safari 11 over MacOS and iOS. It was a demand from all the market for a long time, know it becomes a reality past week. Safari 11 works fine on the basis of WebRTC to allow Apple users community to connect most features but with some specific web browser limitations that we will comment shortly&amp;hellip;</description>
+      <description>Image source: Interactive Powers&#39; elaboration The Video RTC Gateway, Now ready run with Apple Safari 11 over MacOS computers and iOS devices  Interactive Powers is proud to announce Video RTC support for Safari 11 over MacOS and iOS. It was a demand from all the market for a long time, know it becomes a reality past week. Safari 11 works fine on the basis of WebRTC to allow Apple users community to connect most features but with some specific web browser limitations that we will comment shortly&amp;hellip;</description>
     </item>
     
   </channel>

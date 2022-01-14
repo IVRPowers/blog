@@ -1,23 +1,19 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Telephony on Blog</title>
+    <title>telephony on Blog</title>
     <link>https://blog.ivrpowers.com/tags/telephony/</link>
-    <description>Recent content in Telephony on Blog</description>
+    <description>Recent content in telephony on Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 09 Feb 2020 18:00:00 +0200</lastBuildDate>
-    
-	<atom:link href="https://blog.ivrpowers.com/tags/telephony/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Sun, 09 Feb 2020 18:00:00 +0200</lastBuildDate><atom:link href="https://blog.ivrpowers.com/tags/telephony/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>How to improve your PBX with Conversational AI?</title>
       <link>https://blog.ivrpowers.com/post/customerengagement/how-to-improve-your-pbx-with-conversational-ai/</link>
       <pubDate>Sun, 09 Feb 2020 18:00:00 +0200</pubDate>
       
       <guid>https://blog.ivrpowers.com/post/customerengagement/how-to-improve-your-pbx-with-conversational-ai/</guid>
-      <description>The Old Way In The New Digital Age, standards commons PBX functions used by most companies are weighing down Customer Experience (CX) making tedious to contact their phone services or customer assistance.
+      <description>The Old Way  In The New Digital Age, standards commons PBX functions used by most companies are weighing down Customer Experience (CX) making tedious to contact their phone services or customer assistance.
  Photo source: Pixabay. Creative Commons  What most companies still doing…
  DTMF Menus. Most PBX use touch tone menus to select departments, services or key an extension. Of course, everybody may knows how to press a key, but it’s not really confortable to do this with hands free, driving or when you don’t get the right option…</description>
     </item>
@@ -28,7 +24,7 @@
       <pubDate>Tue, 28 Jan 2020 18:00:00 +0200</pubDate>
       
       <guid>https://blog.ivrpowers.com/post/contactcenter/connecting-website-contact-center/</guid>
-      <description>The Old Way Outdated technologies are weighing companies down by limiting their view of customers and making it more difficult to connect with them in the new digital age interactions over IP.
+      <description>The Old Way  Outdated technologies are weighing companies down by limiting their view of customers and making it more difficult to connect with them in the new digital age interactions over IP.
  Photo source: Unplash. Creative Commons  What others still doing…
  Click-to-Call &amp;amp; Callback. This option requires to get the user phone number in oder to make a call; remember all new digital customers don’t like to give up a cell or landline number anymore.</description>
     </item>

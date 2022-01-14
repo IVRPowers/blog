@@ -7,7 +7,7 @@
         <meta charset="utf-8" />
         <meta http-equiv="X-UA-Compatible" content="IE=edge" />
 
-        <meta property="og:title" content=" How to configure and customise your Webclient &middot;  Blog" />
+        <meta property="og:title" content=" How to configure and customise your Webclient &middot; Blog " />
         <meta property="og:site_name" content="Blog" />
         <meta property="og:url" content="https://blog.ivrpowers.com/post/coding/videortc-webclient-configuration/" />
 
@@ -29,7 +29,7 @@
         <meta name="twitter:url" content="https://blog.ivrpowers.com/post/coding/videortc-webclient-configuration/" />
     
 
-        <title> How to configure and customise your Webclient &middot;  Blog</title>
+        <title> How to configure and customise your Webclient &middot; Blog </title>
 
         <link rel="preload" href="https://blog.ivrpowers.com/js/main.js" as="script" />
         <link rel="preload" href="https://blog.ivrpowers.com/css/main.css" as="style" />
@@ -69,43 +69,43 @@
         "@type": "BlogPosting",
         "mainEntityOfPage": {
           "@type": "WebPage",
-          "@id": "https://blog.ivrpowers.com/post/coding/videortc-webclient-configuration/"
+          "@id": "https:\/\/blog.ivrpowers.com\/post\/coding\/videortc-webclient-configuration\/"
         },
         "headline": "How to configure and customise your Webclient",
-        "description": "Coding &amp; Settings",
+        "description": "Coding \u0026 Settings",
         "author": {
             "@type": "Person",
             "name": "IVRPowers Team",
-            "url": "http://profiles.google.com/https://plus.google.com/110474380379482164317/?rel=author",
+            "url": "http://profiles.google.com/https:\/\/plus.google.com\/110474380379482164317\/?rel=author",
             "image": {
               "@type": "ImageObject",
-              "url": "https:/images/avatar.png",
+              "url": "https:\/images\/avatar.png",
               "height": 80,
               "width": 80
             }
         },
         "publisher": {
           "@type": "Organization",
-          "@id": "https://blog.ivrpowers.com/",
+          "@id": "https:\/\/blog.ivrpowers.com\/",
           "name": "Blog",
-          "url": "https://blog.ivrpowers.com/",
+          "url": "https:\/\/blog.ivrpowers.com\/",
           "logo": {
             "@type": "ImageObject",
-            "url": "https:/images/avatar.png",
+            "url": "https:\/images\/avatar.png",
             "height": 80,
             "width": 80
           }
         },
         "image": {
           "@type": "ImageObject",
-          "url": "https://blog.ivrpowers.com/postimages/coding/ivrpowers-videortc-features.033.jpeg",
+          "url": "https:\/\/blog.ivrpowers.com\/postimages\/coding\/ivrpowers-videortc-features.033.jpeg",
           "height": 133,
           "width": 200
         },
         "datePublished": "2018-07-05",
         "dateModified": "2018-07-05",
-        "wordCount": 536,
-        "keywords": ["api","code","rtc","webclient","webrtc"] 
+        "wordCount":  536 ,
+        "keywords": "[\"api\",\"code\",\"rtc\",\"webclient\",\"webrtc\"]" 
     }
     </script>
 
@@ -184,18 +184,11 @@ html{font-family:sans-serif;line-height:1.15;-ms-text-size-adjust:100%;-webkit-t
   			</header>
 
   			<section class="post-content">
-  				
-
-<h2 id="development-postimages-coding-ivrpowers-videortc-features-033-jpeg"><img src="/postimages/coding/ivrpowers-videortc-features.033.jpeg" alt="development" /></h2>
-
+  				<h2 id="developmentpostimagescodingivrpowers-videortc-features033jpeg"><img src="/postimages/coding/ivrpowers-videortc-features.033.jpeg" alt="development"></h2>
 <h6 id="photo-source-interactive-powers-pexels-creative-commons">Photo source: Interactive Powers, Pexels Creative Commons</h6>
-
 <p><strong>Webclient (WebRTC)</strong> provides a user-friendly webphone that allows all your customers and users to make phone calls directly from a website to your business IVR or PBX from any desktop native <a href="https://blog.ivrpowers.com/post/technologies/what-is-webrtc/">WebRTC</a> compliant web browser (Firefox, Chrome, Opera,…). In this post we will show you how to customize the Webclient using the different configuration options at flavour/theme level.</p>
-
 <p>The design of our webclient is composed by a logo and a main default color. It adds a toolbar mode that shows the different options that the client can use during the call. This style can be adapted to the needs of a client through the file parameters of the flavour.</p>
-
 <p>Within a Flavour configuration, there is a folder called &ldquo;webclient&rdquo; that contains all these configuration files:</p>
-
 <ul>
 <li><strong>configWebclient.js</strong> - WebClient configuration file.</li>
 <li><strong>loading.gif</strong> - Calling animation.</li>
@@ -204,35 +197,23 @@ html{font-family:sans-serif;line-height:1.15;-ms-text-size-adjust:100%;-webkit-t
 <li><strong>webclient-logo.png</strong> - Logo for WebClient Use Case.</li>
 <li><strong>webclient-logo-btn.png</strong> - Company Icon Webclient Toolbar.</li>
 </ul>
-
 <p>The file called configWebclient.js contains a JSON object with different parameters that can be easily configured in the usecase.
 Here a list of interesting features available to update your Webclient:</p>
-
 <ul>
 <li><strong>autoCall</strong> - The call starts when the popup is opened.</li>
 <li><strong>autoClose</strong> - The popup is closed when the call is finished.</li>
 <li><strong>callSettings</strong> - Local video may start muted or may not be displayed on the screen.</li>
 <li><strong>controls</strong> - We currently have three design modes (toolbar-top, toolbar-bottom, classic).</li>
 </ul>
-
 <h3 id="mode-toolbar-top">Mode: toolbar-top</h3>
-
-<p><img src="/postimages/development/ivrpowers-slide.007.jpeg" alt="VideoRTC.js" /></p>
-
+<p><img src="/postimages/development/ivrpowers-slide.007.jpeg" alt="VideoRTC.js"></p>
 <h3 id="mode-toolbar-bottom">Mode: toolbar-bottom</h3>
-
-<p><img src="/postimages/development/ivrpowers-slide.008.jpeg" alt="VideoRTC.js" /></p>
-
+<p><img src="/postimages/development/ivrpowers-slide.008.jpeg" alt="VideoRTC.js"></p>
 <h3 id="mode-classic">Mode: classic</h3>
-
-<p><img src="/postimages/development/ivrpowers-slide.009.jpeg" alt="VideoRTC.js" /></p>
-
+<p><img src="/postimages/development/ivrpowers-slide.009.jpeg" alt="VideoRTC.js"></p>
 <h3 id="mode-classic-custom">Mode: classic (custom)</h3>
-
-<p><img src="/postimages/development/ivrpowers-slide.010.jpeg" alt="VideoRTC.js" /></p>
-
+<p><img src="/postimages/development/ivrpowers-slide.010.jpeg" alt="VideoRTC.js"></p>
 <p>In the classic mode you can play to place the buttons in any desired positions. You can also hide any uninteresting icon too.</p>
-
 <ul>
 <li><strong>calling</strong> - Set a text and animation during the calling establishement.</li>
 <li><strong>liveChat</strong> - Set chat, emoticons, sound notifications, type of data, maximum sizes in files.</li>
@@ -241,72 +222,64 @@ Here a list of interesting features available to update your Webclient:</p>
 <li><strong>texts</strong> - Set all messages modifications or translations into any language.</li>
 <li><strong>typeCall</strong> - Set Webclient as audio call only or video call.</li>
 </ul>
-
 <p>configWebclient.js - JavaScript:</p>
-
-<pre><code class="language-javascript">var phoneColor = '#FD554D';
-var configWebClient = {
-    autocall: false,
-    autoClose: false,
-    calling: {
-        title: 'Calling',
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-javascript" data-lang="javascript"><span style="color:#66d9ef">var</span> <span style="color:#a6e22e">phoneColor</span> <span style="color:#f92672">=</span> <span style="color:#e6db74">&#39;#FD554D&#39;</span>;
+<span style="color:#66d9ef">var</span> <span style="color:#a6e22e">configWebClient</span> <span style="color:#f92672">=</span> {
+    <span style="color:#a6e22e">autocall</span><span style="color:#f92672">:</span> <span style="color:#66d9ef">false</span>,
+    <span style="color:#a6e22e">autoClose</span><span style="color:#f92672">:</span> <span style="color:#66d9ef">false</span>,
+    <span style="color:#a6e22e">calling</span><span style="color:#f92672">:</span> {
+        <span style="color:#a6e22e">title</span><span style="color:#f92672">:</span> <span style="color:#e6db74">&#39;Calling&#39;</span>,
         ...
     },
-    callSettings: {
-        startAudioMuted: false,
+    <span style="color:#a6e22e">callSettings</span><span style="color:#f92672">:</span> {
+        <span style="color:#a6e22e">startAudioMuted</span><span style="color:#f92672">:</span> <span style="color:#66d9ef">false</span>,
         ...
     },
-    controls: {
-        type: 'classic', // toolbar-top, toolbar-bottom, classic
-        buttons: [
+    <span style="color:#a6e22e">controls</span><span style="color:#f92672">:</span> {
+        <span style="color:#a6e22e">type</span><span style="color:#f92672">:</span> <span style="color:#e6db74">&#39;classic&#39;</span>, <span style="color:#75715e">// toolbar-top, toolbar-bottom, classic
+</span><span style="color:#75715e"></span>        <span style="color:#a6e22e">buttons</span><span style="color:#f92672">:</span> [
             {
-                id: 'call',
-                class: 'webclient-btn-hover-green',
-                btnSrc: 'assets/icons/Call-White.png',
-                btnOption: 'enabled',
-                classicMode: {
-                    positionX: 'left',
-                    positionY: 'bottom',
-                    distanceX: '15px',
-                    distanceY: '15px'
+                <span style="color:#a6e22e">id</span><span style="color:#f92672">:</span> <span style="color:#e6db74">&#39;call&#39;</span>,
+                <span style="color:#66d9ef">class</span><span style="color:#f92672">:</span> <span style="color:#e6db74">&#39;webclient-btn-hover-green&#39;</span>,
+                <span style="color:#a6e22e">btnSrc</span><span style="color:#f92672">:</span> <span style="color:#e6db74">&#39;assets/icons/Call-White.png&#39;</span>,
+                <span style="color:#a6e22e">btnOption</span><span style="color:#f92672">:</span> <span style="color:#e6db74">&#39;enabled&#39;</span>,
+                <span style="color:#a6e22e">classicMode</span><span style="color:#f92672">:</span> {
+                    <span style="color:#a6e22e">positionX</span><span style="color:#f92672">:</span> <span style="color:#e6db74">&#39;left&#39;</span>,
+                    <span style="color:#a6e22e">positionY</span><span style="color:#f92672">:</span> <span style="color:#e6db74">&#39;bottom&#39;</span>,
+                    <span style="color:#a6e22e">distanceX</span><span style="color:#f92672">:</span> <span style="color:#e6db74">&#39;15px&#39;</span>,
+                    <span style="color:#a6e22e">distanceY</span><span style="color:#f92672">:</span> <span style="color:#e6db74">&#39;15px&#39;</span>
                 }
             },
             ...
         ],
         ...
     }
-    liveChat: {
-        enabled: true,
-        emoji: true,
-        soundHandle: true,
-        allowedTypes: ['image/jpeg', 'image/png'],
-        maxSize: 5, // MB
+    <span style="color:#a6e22e">liveChat</span><span style="color:#f92672">:</span> {
+        <span style="color:#a6e22e">enabled</span><span style="color:#f92672">:</span> <span style="color:#66d9ef">true</span>,
+        <span style="color:#a6e22e">emoji</span><span style="color:#f92672">:</span> <span style="color:#66d9ef">true</span>,
+        <span style="color:#a6e22e">soundHandle</span><span style="color:#f92672">:</span> <span style="color:#66d9ef">true</span>,
+        <span style="color:#a6e22e">allowedTypes</span><span style="color:#f92672">:</span> [<span style="color:#e6db74">&#39;image/jpeg&#39;</span>, <span style="color:#e6db74">&#39;image/png&#39;</span>],
+        <span style="color:#a6e22e">maxSize</span><span style="color:#f92672">:</span> <span style="color:#ae81ff">5</span>, <span style="color:#75715e">// MB
+</span><span style="color:#75715e"></span>        ...
+    },
+    <span style="color:#a6e22e">overprint</span><span style="color:#f92672">:</span> {
+        <span style="color:#a6e22e">enabled</span><span style="color:#f92672">:</span> <span style="color:#66d9ef">true</span>,
+        <span style="color:#a6e22e">position</span><span style="color:#f92672">:</span> <span style="color:#e6db74">&#39;right&#39;</span>,
         ...
     },
-    overprint: {
-        enabled: true,
-        position: 'right',
+    <span style="color:#a6e22e">texts</span><span style="color:#f92672">:</span> {
+        <span style="color:#a6e22e">labelCallHungUp</span><span style="color:#f92672">:</span> <span style="color:#e6db74">&#39;Call hung up&#39;</span>,
         ...
     },
-    texts: {
-        labelCallHungUp: 'Call hung up',
-        ...
-    },
-    typeCall: {
-        audio: true,
-        video: true
+    <span style="color:#a6e22e">typeCall</span><span style="color:#f92672">:</span> {
+        <span style="color:#a6e22e">audio</span><span style="color:#f92672">:</span> <span style="color:#66d9ef">true</span>,
+        <span style="color:#a6e22e">video</span><span style="color:#f92672">:</span> <span style="color:#66d9ef">true</span>
     }
 };
-</code></pre>
-
-<p>If you require a specific custom design and these available options do not fit with it, you can always develop your own WebClient application from an empty document using our <a href="https://blog.ivrpowers.com/post/development/introducing-videortcjs-developers/">VideoRTC.js</a> library.</p>
-
+</code></pre></div><p>If you require a specific custom design and these available options do not fit with it, you can always develop your own WebClient application from an empty document using our <a href="https://blog.ivrpowers.com/post/development/introducing-videortcjs-developers/">VideoRTC.js</a> library.</p>
 <p>Feel free to reach out if you have any questions or comments bellow or just want to show off what kind of cool stuff you’ve built with our <strong>API Framework</strong>.</p>
-
 <p>Email: <a href="mailto:support@ivrpowers.com">support@ivrpowers.com</a> · Twitter: <a href="https://twitter.com/ivrpowers">@ivrpowers</a> · Github: <a href="https://github.com/ivrpowers">IVRPowers</a></p>
-
-<hr />
-
+<hr>
 <p><a href="https://www.ivrpowers.com/">Interactive Powers</a> - Streamline your business communications</p>
 
   			</section>
@@ -398,28 +371,17 @@ var configWebClient = {
     </div>
     <div id="toc" class="menu-list">
         <nav id="TableOfContents">
-<ul>
-<li>
-<ul>
-<li><a href="#development-postimages-coding-ivrpowers-videortc-features-033-jpeg"><img src="/postimages/coding/ivrpowers-videortc-features.033.jpeg" alt="development" /></a>
-<ul>
-<li>
-<ul>
-<li>
-<ul>
-<li>
-<ul>
-<li><a href="#photo-source-interactive-powers-pexels-creative-commons">Photo source: Interactive Powers, Pexels Creative Commons</a></li>
-</ul></li>
-</ul></li>
-</ul></li>
-<li><a href="#mode-toolbar-top">Mode: toolbar-top</a></li>
-<li><a href="#mode-toolbar-bottom">Mode: toolbar-bottom</a></li>
-<li><a href="#mode-classic">Mode: classic</a></li>
-<li><a href="#mode-classic-custom">Mode: classic (custom)</a></li>
-</ul></li>
-</ul></li>
-</ul>
+  <ul>
+    <li><a href="#developmentpostimagescodingivrpowers-videortc-features033jpeg"><img src="/postimages/coding/ivrpowers-videortc-features.033.jpeg" alt="development"></a>
+      <ul>
+        <li></li>
+        <li><a href="#mode-toolbar-top">Mode: toolbar-top</a></li>
+        <li><a href="#mode-toolbar-bottom">Mode: toolbar-bottom</a></li>
+        <li><a href="#mode-classic">Mode: classic</a></li>
+        <li><a href="#mode-classic-custom">Mode: classic (custom)</a></li>
+      </ul>
+    </li>
+  </ul>
 </nav>
     </div>
 </div>

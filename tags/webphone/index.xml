@@ -1,16 +1,12 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Webphone on Blog</title>
+    <title>webphone on Blog</title>
     <link>https://blog.ivrpowers.com/tags/webphone/</link>
-    <description>Recent content in Webphone on Blog</description>
+    <description>Recent content in webphone on Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 07 May 2018 20:00:00 +0200</lastBuildDate>
-    
-	<atom:link href="https://blog.ivrpowers.com/tags/webphone/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Mon, 07 May 2018 20:00:00 +0200</lastBuildDate><atom:link href="https://blog.ivrpowers.com/tags/webphone/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>How to insert a Webphone into an iFrame</title>
       <link>https://blog.ivrpowers.com/post/coding/webclient-website-iframe/</link>

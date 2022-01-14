@@ -1,23 +1,19 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Voip on Blog</title>
+    <title>voip on Blog</title>
     <link>https://blog.ivrpowers.com/tags/voip/</link>
-    <description>Recent content in Voip on Blog</description>
+    <description>Recent content in voip on Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 12 Nov 2019 18:00:00 +0200</lastBuildDate>
-    
-	<atom:link href="https://blog.ivrpowers.com/tags/voip/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Tue, 12 Nov 2019 18:00:00 +0200</lastBuildDate><atom:link href="https://blog.ivrpowers.com/tags/voip/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>How IVR can help to improve your VoIP services?</title>
       <link>https://blog.ivrpowers.com/post/marketing/how-ivr-can-help-to-improve-your-voip-services/</link>
       <pubDate>Tue, 12 Nov 2019 18:00:00 +0200</pubDate>
       
       <guid>https://blog.ivrpowers.com/post/marketing/how-ivr-can-help-to-improve-your-voip-services/</guid>
-      <description>Photo source: Unsplash - Interactive Powers Most people think that the Digital Revolution in Telephony has already occurred when voice over IP communications has progressively replaced landline connections. Currently, most telephony is digital and IP powered but that’s not the only thing that voice telecommunication requires in order to become more attractive and useful to users. You have to understand that there’s no difference for users in making phone calls via Landline or in a SIP extension, the user calling experience is remains the same.</description>
+      <description>Photo source: Unsplash - Interactive Powers Most people think that the Digital Revolution in Telephony has already occurred when voice over IP communications has progressively replaced landline connections.  Currently, most telephony is digital and IP powered but that’s not the only thing that voice telecommunication requires in order to become more attractive and useful to users. You have to understand that there’s no difference for users in making phone calls via Landline or in a SIP extension, the user calling experience is remains the same.</description>
     </item>
     
     <item>
@@ -26,7 +22,7 @@
       <pubDate>Tue, 12 Nov 2019 17:00:00 +0200</pubDate>
       
       <guid>https://blog.ivrpowers.com/post/marketing/why-webrtc-makes-voip-services-more-attractive/</guid>
-      <description>Photo source: Unsplash - Interactive Powers Nowadays telephony is still used under a specific network integration that is not all IP powered like PSTN numbering and specific rules to manage its traffic with operators. Until this day, Voice over IP has disrupted the telephony but still providing the same phone user experience; at the end, users are still dialing to a 9-10 digits number and all the call process is mostly the same.</description>
+      <description>Photo source: Unsplash - Interactive Powers Nowadays telephony is still used under a specific network integration that is not all IP powered like PSTN numbering and specific rules to manage its traffic with operators.  Until this day, Voice over IP has disrupted the telephony but still providing the same phone user experience; at the end, users are still dialing to a 9-10 digits number and all the call process is mostly the same.</description>
     </item>
     
     <item>
@@ -45,7 +41,7 @@ With WebRTC however, there’s no need to worry about any of that.</description>
       <pubDate>Sun, 09 Jul 2017 00:20:05 +0200</pubDate>
       
       <guid>https://blog.ivrpowers.com/post/technologies/webrtc-rtmp-to-sip-calling/</guid>
-      <description>Image source: Interactive Powers&amp;rsquo; elaboration How can you call a Desk Phone from any Web Browser? Our both Video Gateways (WebRTC | RTMP) can convert web browser media streams (video - audio - data) to SIP from WebRTC or RTMP peers communications. This interesting feature allows to connect easily web services to existing VoIP telephony channels of your IVR or PBX. We can consider all of this approach like a direct calling webphone or like a WebRTC-DDI or RTMP-DDI in a SIP trunk from an operator service configuration.</description>
+      <description>Image source: Interactive Powers&#39; elaboration How can you call a Desk Phone from any Web Browser? Our both Video Gateways (WebRTC | RTMP) can convert web browser media streams (video - audio - data) to SIP from WebRTC or RTMP peers communications. This interesting feature allows to connect easily web services to existing VoIP telephony channels of your IVR or PBX. We can consider all of this approach like a direct calling webphone or like a WebRTC-DDI or RTMP-DDI in a SIP trunk from an operator service configuration.</description>
     </item>
     
   </channel>

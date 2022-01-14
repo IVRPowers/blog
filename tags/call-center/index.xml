@@ -1,16 +1,12 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Call Center on Blog</title>
+    <title>call center on Blog</title>
     <link>https://blog.ivrpowers.com/tags/call-center/</link>
-    <description>Recent content in Call Center on Blog</description>
+    <description>Recent content in call center on Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 26 Jan 2021 00:18:30 +0200</lastBuildDate>
-    
-	<atom:link href="https://blog.ivrpowers.com/tags/call-center/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Tue, 26 Jan 2021 00:18:30 +0200</lastBuildDate><atom:link href="https://blog.ivrpowers.com/tags/call-center/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>10 Reasons why you should add Video channels to your Contact Center (ES)</title>
       <link>https://blog.ivrpowers.com/post/marketing/video-contact-center-infographic/</link>
@@ -28,7 +24,7 @@ Summary: Spanish
       <pubDate>Sun, 01 Nov 2020 19:30:00 +0200</pubDate>
       
       <guid>https://blog.ivrpowers.com/post/products/video-rtc-call-transfer/</guid>
-      <description>Photo source: Interactive Powers Video RTC enables to transfer any video call by simply dialing the extension of a queue or agent. Video Call Transferring, or Video Call forwarding, is a process of relocating an inbound video call to another agent. Video Call Transfer is very useful for video agents and internally for contact center teams. Video agents use call transferring to instantly route incoming calls throughout the Contact Center or Organization.</description>
+      <description>Photo source: Interactive Powers Video RTC enables to transfer any video call by simply dialing the extension of a queue or agent.  Video Call Transferring, or Video Call forwarding, is a process of relocating an inbound video call to another agent. Video Call Transfer is very useful for video agents and internally for contact center teams. Video agents use call transferring to instantly route incoming calls throughout the Contact Center or Organization.</description>
     </item>
     
   </channel>

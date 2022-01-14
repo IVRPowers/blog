@@ -1,16 +1,12 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Kiosk on Blog</title>
+    <title>kiosk on Blog</title>
     <link>https://blog.ivrpowers.com/tags/kiosk/</link>
-    <description>Recent content in Kiosk on Blog</description>
+    <description>Recent content in kiosk on Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 12 Dec 2017 12:08:43 +0200</lastBuildDate>
-    
-	<atom:link href="https://blog.ivrpowers.com/tags/kiosk/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Tue, 12 Dec 2017 12:08:43 +0200</lastBuildDate><atom:link href="https://blog.ivrpowers.com/tags/kiosk/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Is it Possible to Enhance In-store Experiences?</title>
       <link>https://blog.ivrpowers.com/post/customerengagement/kiosk-custexp/</link>
@@ -18,7 +14,7 @@
       
       <guid>https://blog.ivrpowers.com/post/customerengagement/kiosk-custexp/</guid>
       <description>Photo source: Kazuhisa OTSUBO. Creative Commons WebRTC is a transformative technology. It means a shift in the way we think about communications. WebRTC makes it possible a real-time engagement by integrating voice, video, data, messaging and more. Applications of WebRTC are endless and they can play a major role in the way businesses operate.
-The in-store customer experience In-store experiences are not always perceived by clients as satisfactory ones.</description>
+The in-store customer experience In-store experiences are not always perceived by clients as satisfactory ones. In some businesses, it can even become an obstacle.</description>
     </item>
     
     <item>

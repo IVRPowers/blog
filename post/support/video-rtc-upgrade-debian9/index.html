@@ -7,7 +7,7 @@
         <meta charset="utf-8" />
         <meta http-equiv="X-UA-Compatible" content="IE=edge" />
 
-        <meta property="og:title" content=" Video RTC 4.0: Ready for Debian 9 &middot;  Blog" />
+        <meta property="og:title" content=" Video RTC 4.0: Ready for Debian 9 &middot; Blog " />
         <meta property="og:site_name" content="Blog" />
         <meta property="og:url" content="https://blog.ivrpowers.com/post/support/video-rtc-upgrade-debian9/" />
 
@@ -26,7 +26,7 @@
         <meta name="twitter:url" content="https://blog.ivrpowers.com/post/support/video-rtc-upgrade-debian9/" />
     
 
-        <title> Video RTC 4.0: Ready for Debian 9 &middot;  Blog</title>
+        <title> Video RTC 4.0: Ready for Debian 9 &middot; Blog </title>
 
         <link rel="preload" href="https://blog.ivrpowers.com/js/main.js" as="script" />
         <link rel="preload" href="https://blog.ivrpowers.com/css/main.css" as="style" />
@@ -66,43 +66,43 @@
         "@type": "BlogPosting",
         "mainEntityOfPage": {
           "@type": "WebPage",
-          "@id": "https://blog.ivrpowers.com/post/support/video-rtc-upgrade-debian9/"
+          "@id": "https:\/\/blog.ivrpowers.com\/post\/support\/video-rtc-upgrade-debian9\/"
         },
         "headline": "Video RTC 4.0: Ready for Debian 9",
         "description": "Operating System Upgrade",
         "author": {
             "@type": "Person",
             "name": "IVRPowers Team",
-            "url": "http://profiles.google.com/https://plus.google.com/110474380379482164317/?rel=author",
+            "url": "http://profiles.google.com/https:\/\/plus.google.com\/110474380379482164317\/?rel=author",
             "image": {
               "@type": "ImageObject",
-              "url": "https:/images/avatar.png",
+              "url": "https:\/images\/avatar.png",
               "height": 80,
               "width": 80
             }
         },
         "publisher": {
           "@type": "Organization",
-          "@id": "https://blog.ivrpowers.com/",
+          "@id": "https:\/\/blog.ivrpowers.com\/",
           "name": "Blog",
-          "url": "https://blog.ivrpowers.com/",
+          "url": "https:\/\/blog.ivrpowers.com\/",
           "logo": {
             "@type": "ImageObject",
-            "url": "https:/images/avatar.png",
+            "url": "https:\/images\/avatar.png",
             "height": 80,
             "width": 80
           }
         },
         "image": {
           "@type": "ImageObject",
-          "url": "https://blog.ivrpowers.com/postimages/support/ivrpowers-post-04.022.jpeg",
+          "url": "https:\/\/blog.ivrpowers.com\/postimages\/support\/ivrpowers-post-04.022.jpeg",
           "height": 133,
           "width": 200
         },
         "datePublished": "2019-02-19",
         "dateModified": "2019-02-19",
-        "wordCount": 329,
-        "keywords": ["support","videortc"] 
+        "wordCount":  329 ,
+        "keywords": "[\"support\",\"videortc\"]" 
     }
     </script>
 
@@ -181,45 +181,30 @@ html{font-family:sans-serif;line-height:1.15;-ms-text-size-adjust:100%;-webkit-t
   			</header>
 
   			<section class="post-content">
-  				
-
-<h2 id="debian-9-postimages-support-ivrpowers-post-04-022-jpeg"><img src="/postimages/support/ivrpowers-post-04.022.jpeg" alt="Debian 9" /></h2>
-
+  				<h2 id="debian-9postimagessupportivrpowers-post-04022jpeg"><img src="/postimages/support/ivrpowers-post-04.022.jpeg" alt="Debian 9"></h2>
 <h6 id="photo-source-interactive-powers-creative-commons">Photo Source: Interactive Powers. Creative Commons</h6>
-
-<h2 id="here-s-how-to-go-from-debian-8-to-debian-9">Here’s how to go from Debian 8 to Debian 9</h2>
-
-<hr />
-
+<h2 id="heres-how-to-go-from-debian-8-to-debian-9">Here’s how to go from Debian 8 to Debian 9</h2>
+<hr>
 <p>If you running a <strong>Video RTC Gateway (WebRTC)</strong> since 2017 or 2018, then your operating system is on Debian 8. To move up to the next update or <a href="http://blog.ivrpowers.com/post/news/2019-02-rtc-upcoming-4/">version 4.0</a> you will have to upgrade to <strong>Linux OS Debian 9 (Stretch) x86 64-bit</strong>.</p>
-
 <p>Our next <strong>binary packages</strong> or <strong>CPaaS instances</strong> will now includes an installer script to automatically take you to <strong>Debian 9</strong>. There is no need to login to SSH or enter any commands in the Linux Shell. We recommend you plan for this upgrade out of office hours and if you have it on a VM, take a snapshot.</p>
-
 <h2 id="before-upgrading">Before, upgrading…</h2>
-
 <p>As a precaution – <strong>take a full backup of your system and store it in a separate location (not on the host)</strong>. If you are running <a href="http://blog.ivrpowers.com/post/updates/update-video-rtc-webrtc-3.3.1/">Video RTC (WebRTC) 3.3.1</a> as a VM, take a snapshot. This upgrade is designed for installs made with the 1.X, 2.X and 3.X. If you installed Debian 8 manually then upgrade it manually.</p>
-
 <p>If you installed other software, such as a VPN, perform the upgrade manually. The upgrade will take approximately <strong>5 minutes</strong>. The Video Gateway won’t be working during the upgrade.</p>
-
 <h2 id="upgrade-to-debian-9">Upgrade to Debian 9&hellip;</h2>
-
 <p>Follow these steps:</p>
-
 <ol>
 <li>Check that you are indeed on Debian 8. Debian 8 users will see a new OS Update Available. If you don’t see it, you are not on Debian 8.</li>
 <li>Click on the update, the upgrade screen will be shown. Read the disclaimer and click “Upgrade” to start the process. The upgrade will:
-
 <ol>
 <li>Uninstall Video RTC (no required if you don’t have to backup).</li>
 <li>Upgrade the OS to Debian 9 (full upgrade, clean all).</li>
 <li>Install the latest updates of Debian (so you are fully up to date).</li>
 <li>Install latest 4.0 version of Video RTC and restore the data.</li>
-</ol></li>
+</ol>
+</li>
 <li>Once complete and the system is back up, update your license.</li>
 </ol>
-
-<hr />
-
+<hr>
 <p><a href="http://www.ivrpowers.com/">Interactive Powers</a> - Streamline your business communications</p>
 
   			</section>
@@ -305,27 +290,16 @@ html{font-family:sans-serif;line-height:1.15;-ms-text-size-adjust:100%;-webkit-t
     </div>
     <div id="toc" class="menu-list">
         <nav id="TableOfContents">
-<ul>
-<li>
-<ul>
-<li><a href="#debian-9-postimages-support-ivrpowers-post-04-022-jpeg"><img src="/postimages/support/ivrpowers-post-04.022.jpeg" alt="Debian 9" /></a>
-<ul>
-<li>
-<ul>
-<li>
-<ul>
-<li>
-<ul>
-<li><a href="#photo-source-interactive-powers-creative-commons">Photo Source: Interactive Powers. Creative Commons</a></li>
-</ul></li>
-</ul></li>
-</ul></li>
-</ul></li>
-<li><a href="#here-s-how-to-go-from-debian-8-to-debian-9">Here’s how to go from Debian 8 to Debian 9</a></li>
-<li><a href="#before-upgrading">Before, upgrading…</a></li>
-<li><a href="#upgrade-to-debian-9">Upgrade to Debian 9&hellip;</a></li>
-</ul></li>
-</ul>
+  <ul>
+    <li><a href="#debian-9postimagessupportivrpowers-post-04022jpeg"><img src="/postimages/support/ivrpowers-post-04.022.jpeg" alt="Debian 9"></a>
+      <ul>
+        <li></li>
+      </ul>
+    </li>
+    <li><a href="#heres-how-to-go-from-debian-8-to-debian-9">Here’s how to go from Debian 8 to Debian 9</a></li>
+    <li><a href="#before-upgrading">Before, upgrading…</a></li>
+    <li><a href="#upgrade-to-debian-9">Upgrade to Debian 9&hellip;</a></li>
+  </ul>
 </nav>
     </div>
 </div>

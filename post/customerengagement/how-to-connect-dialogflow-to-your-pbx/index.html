@@ -7,7 +7,7 @@
         <meta charset="utf-8" />
         <meta http-equiv="X-UA-Compatible" content="IE=edge" />
 
-        <meta property="og:title" content=" How to connect DialogFlow to your PBX? &middot;  Blog" />
+        <meta property="og:title" content=" How to connect DialogFlow to your PBX? &middot; Blog " />
         <meta property="og:site_name" content="Blog" />
         <meta property="og:url" content="https://blog.ivrpowers.com/post/customerengagement/how-to-connect-dialogflow-to-your-pbx/" />
 
@@ -28,7 +28,7 @@
         <meta name="twitter:url" content="https://blog.ivrpowers.com/post/customerengagement/how-to-connect-dialogflow-to-your-pbx/" />
     
 
-        <title> How to connect DialogFlow to your PBX? &middot;  Blog</title>
+        <title> How to connect DialogFlow to your PBX? &middot; Blog </title>
 
         <link rel="preload" href="https://blog.ivrpowers.com/js/main.js" as="script" />
         <link rel="preload" href="https://blog.ivrpowers.com/css/main.css" as="style" />
@@ -68,43 +68,43 @@
         "@type": "BlogPosting",
         "mainEntityOfPage": {
           "@type": "WebPage",
-          "@id": "https://blog.ivrpowers.com/post/customerengagement/how-to-connect-dialogflow-to-your-pbx/"
+          "@id": "https:\/\/blog.ivrpowers.com\/post\/customerengagement\/how-to-connect-dialogflow-to-your-pbx\/"
         },
         "headline": "How to connect DialogFlow to your PBX?",
         "description": "Conversational AI",
         "author": {
             "@type": "Person",
             "name": "IVRPowers Team",
-            "url": "http://profiles.google.com/https://plus.google.com/110474380379482164317/?rel=author",
+            "url": "http://profiles.google.com/https:\/\/plus.google.com\/110474380379482164317\/?rel=author",
             "image": {
               "@type": "ImageObject",
-              "url": "https:/images/avatar.png",
+              "url": "https:\/images\/avatar.png",
               "height": 80,
               "width": 80
             }
         },
         "publisher": {
           "@type": "Organization",
-          "@id": "https://blog.ivrpowers.com/",
+          "@id": "https:\/\/blog.ivrpowers.com\/",
           "name": "Blog",
-          "url": "https://blog.ivrpowers.com/",
+          "url": "https:\/\/blog.ivrpowers.com\/",
           "logo": {
             "@type": "ImageObject",
-            "url": "https:/images/avatar.png",
+            "url": "https:\/images\/avatar.png",
             "height": 80,
             "width": 80
           }
         },
         "image": {
           "@type": "ImageObject",
-          "url": "https://blog.ivrpowers.com/postimages/customerengagement/slides-2020-04.006.jpeg",
+          "url": "https:\/\/blog.ivrpowers.com\/postimages\/customerengagement\/slides-2020-04.006.jpeg",
           "height": 133,
           "width": 200
         },
         "datePublished": "2020-02-29",
         "dateModified": "2020-02-29",
-        "wordCount": 559,
-        "keywords": ["ivr","voicebot","custexp","AI"] 
+        "wordCount":  559 ,
+        "keywords": "[\"ivr\",\"voicebot\",\"custexp\",\"AI\"]" 
     }
     </script>
 
@@ -183,84 +183,44 @@ html{font-family:sans-serif;line-height:1.15;-ms-text-size-adjust:100%;-webkit-t
   			</header>
 
   			<section class="post-content">
-  				
-
-<h2 id="voicebot-ivr-dialogflow-gateway-postimages-customerengagement-slides-diagram-01-005-png"><img src="/postimages/customerengagement/slides-diagram-01.005.png" alt="Voicebot IVR DialogFlow Gateway" /></h2>
-
+  				<h2 id="voicebot-ivr-dialogflow-gatewaypostimagescustomerengagementslides-diagram-01005png"><img src="/postimages/customerengagement/slides-diagram-01.005.png" alt="Voicebot IVR DialogFlow Gateway"></h2>
 <h6 id="photo-source-interactive-powers-creative-commons">Photo source: Interactive Powers. Creative Commons</h6>
-
 <h1 id="build-a-voicebot-ivr-with-dialogflow-for-your-existing-pbx-and-telephony-system">Build a Voicebot IVR with DialogFlow for your existing PBX and telephony system.</h1>
-
-<hr />
-
+<hr>
 <p>Continuing on our quest of better business communications, both old DTMF menus and <em>speech direct dialog</em> are outdated IVR options, we can replace them by the power of a <a href="https://dialogflow.com/">DialogFlow</a> advanced <a href="https://blog.ivrpowers.com/post/products/conversational-ivr-applications/">Conversational AI</a> service.</p>
-
 <h2 id="prerequisities">Prerequisities</h2>
-
-<h3 id="1-text-to-speech-api-account-tts">1- Text-to-Speech API account (TTS)</h3>
-
+<h3 id="1--text-to-speech-api-account-tts">1- Text-to-Speech API account (TTS)</h3>
 <p>You can connect any TTS according to your language and voice preferences. It makes sense to use different voices than Google Assistant, it’s really better.</p>
-
 <p>💡Amazon Polly or Azure provides more languages and voices.</p>
-
-<h3 id="2-speech-recognition-api-account-asr">2- Speech Recognition API account (ASR)</h3>
-
+<h3 id="2--speech-recognition-api-account-asr">2- Speech Recognition API account (ASR)</h3>
 <p>You can connect many engines, like Alexa AWS or Azure Speech Recognition, both are good but Google is faster on DialogFlow integration using direct STT processing.</p>
-
 <p>💡Use Google Speech Recognition to speed up your service with DialogFlow direct speech processing.</p>
-
-<h3 id="3-google-dialogflow-account-and-agent-nlu">3- Google DialogFlow account and agent (NLU)</h3>
-
+<h3 id="3--google-dialogflow-account-and-agent-nlu">3- Google DialogFlow account and agent (NLU)</h3>
 <p>DialogFlow is the dialog manager, it will manage all rules, itents and will use AI Machine Learning to improve the conversation itself.</p>
-
 <p>💡Activate Professional for more than…</p>
-
-<h3 id="4-smart-ivr-subscription-account-ivr">4- Smart IVR subscription account (IVR)</h3>
-
+<h3 id="4--smart-ivr-subscription-account-ivr">4- Smart IVR subscription account (IVR)</h3>
 <p>Nothing can work without this, it’s the core engine of the speech integration, the IVR server connects: NLU, TTS, ASR, PBX to get running the whole solution.</p>
-
 <p>💡CPaaS IVR Plus features are required to create advanced phone services with DialogFlow.</p>
-
-<h3 id="5-voicebot-framework-app">5- Voicebot Framework (APP)</h3>
-
+<h3 id="5--voicebot-framework-app">5- Voicebot Framework (APP)</h3>
 <p>We provide a Conversational App. Framework to manage a Dialogflow Agent interaction.</p>
-
 <p>💡You could start from scratch… or with this App everthing becomes so easy!</p>
-
-<h3 id="6-your-pbx-or-ip-operator-sip-trunking-ddi-numbering">6- Your PBX or IP Operator (SIP Trunking, DDI Numbering)</h3>
-
+<h3 id="6--your-pbx-or-ip-operator-sip-trunking-ddi-numbering">6- Your PBX or IP Operator (SIP Trunking, DDI Numbering)</h3>
 <p>Configure a SIP trunk between the IVR server and your PBX or operator.</p>
-
 <p>💡It’s your own PBX, the main condition is to be SIP compliant.</p>
-
 <h2 id="google-phone-gateway-vs-dialogflow-gateway">Google Phone Gateway vs DialogFlow Gateway</h2>
-
 <p>It’s important to get some important differences between the <strong>Google - Phone Gateway</strong> and our <strong>Dialog Gateway</strong> powered by a <a href="https://www.ivrpowers.com/voicexml">Smart IVR</a> platform.</p>
-
 <p><a href="/post/customerengagement/connecting-phone-calls-to-dialogflow/">Questions &amp; Answers</a></p>
-
 <h2 id="how-to-process">How to process</h2>
-
-<h3 id="step-1-setup-a-dialogflow-project-account">Step 1- Setup a DialogFlow Project account.</h3>
-
+<h3 id="step-1--setup-a-dialogflow-project-account">Step 1- Setup a DialogFlow Project account.</h3>
 <p>You need a Google Cloud Project account and an Agent following this process.</p>
-
-<h3 id="step-2-setup-a-smart-ivr-account">Step 2- Setup a Smart IVR account.</h3>
-
+<h3 id="step-2--setup-a-smart-ivr-account">Step 2- Setup a Smart IVR account.</h3>
 <p>You need a CPaaS or SaaS account to be activated at EU Store / US Store.</p>
-
-<h3 id="step-3-setup-a-sip-trunk-from-your-pbx-to-smart-ivr">Step 3- Setup a SIP Trunk from your PBX to Smart IVR.</h3>
-
+<h3 id="step-3--setup-a-sip-trunk-from-your-pbx-to-smart-ivr">Step 3- Setup a SIP Trunk from your PBX to Smart IVR.</h3>
 <p>Setup a SIP trunk between your PBX and the Smart IVR account, G711 codec recommended.</p>
-
-<h3 id="step-4-download-our-voicebot-dialog-framework">Step 4- Download our Voicebot (Dialog) framework.</h3>
-
+<h3 id="step-4--download-our-voicebot-dialog-framework">Step 4- Download our Voicebot (Dialog) framework.</h3>
 <p>We provide a specific application for Smart IVR that manage the main structure to run DialogFlow, this framework is open and you can customize it easily.</p>
-
-<h3 id="step-5-create-output-actions-labels">Step 5- Create Output Actions (#Labels).</h3>
-
+<h3 id="step-5--create-output-actions-labels">Step 5- Create Output Actions (#Labels).</h3>
 <p>You have to create Output action for each #Label inside your Dialogflow rules like:</p>
-
 <ul>
 <li>Transfer a Call</li>
 <li>Record a Voicemail</li>
@@ -268,15 +228,10 @@ html{font-family:sans-serif;line-height:1.15;-ms-text-size-adjust:100%;-webkit-t
 <li>Execute a Web Service</li>
 <li>Join an Audio Conference</li>
 </ul>
-
-<h3 id="step-6-go-live">Step 6- Go Live!</h3>
-
+<h3 id="step-6--go-live">Step 6- Go Live!</h3>
 <p>That’s all, make a call from your PBX or a number transferred to the Trunk.</p>
-
 <h2 id="common-customer-use-cases">Common Customer Use Cases</h2>
-
 <p>These are very common services you can connect to your PBX like:</p>
-
 <ul>
 <li>Call Steering</li>
 <li>Help Desk Support</li>
@@ -285,13 +240,9 @@ html{font-family:sans-serif;line-height:1.15;-ms-text-size-adjust:100%;-webkit-t
 <li>Customer Order Information / Tracking</li>
 <li>Off Line Assistance</li>
 </ul>
-
 <h2 id="more">More…</h2>
-
 <p>Of course previous example can content transactions mixed inside the main Conversational AI dialog. If you add company, services, more entities… improved with Machine Learning, you will get a better behavior of the system to customers questions.</p>
-
-<hr />
-
+<hr>
 <p><a href="http://www.ivrpowers.com/">Interactive Powers</a> - Streamline your business communications</p>
 
   			</section>
@@ -381,48 +332,39 @@ html{font-family:sans-serif;line-height:1.15;-ms-text-size-adjust:100%;-webkit-t
     </div>
     <div id="toc" class="menu-list">
         <nav id="TableOfContents">
-<ul>
-<li>
-<ul>
-<li><a href="#voicebot-ivr-dialogflow-gateway-postimages-customerengagement-slides-diagram-01-005-png"><img src="/postimages/customerengagement/slides-diagram-01.005.png" alt="Voicebot IVR DialogFlow Gateway" /></a>
-<ul>
-<li>
-<ul>
-<li>
-<ul>
-<li>
-<ul>
-<li><a href="#photo-source-interactive-powers-creative-commons">Photo source: Interactive Powers. Creative Commons</a></li>
-</ul></li>
-</ul></li>
-</ul></li>
-</ul></li>
-</ul></li>
-<li><a href="#build-a-voicebot-ivr-with-dialogflow-for-your-existing-pbx-and-telephony-system">Build a Voicebot IVR with DialogFlow for your existing PBX and telephony system.</a>
-<ul>
-<li><a href="#prerequisities">Prerequisities</a>
-<ul>
-<li><a href="#1-text-to-speech-api-account-tts">1- Text-to-Speech API account (TTS)</a></li>
-<li><a href="#2-speech-recognition-api-account-asr">2- Speech Recognition API account (ASR)</a></li>
-<li><a href="#3-google-dialogflow-account-and-agent-nlu">3- Google DialogFlow account and agent (NLU)</a></li>
-<li><a href="#4-smart-ivr-subscription-account-ivr">4- Smart IVR subscription account (IVR)</a></li>
-<li><a href="#5-voicebot-framework-app">5- Voicebot Framework (APP)</a></li>
-<li><a href="#6-your-pbx-or-ip-operator-sip-trunking-ddi-numbering">6- Your PBX or IP Operator (SIP Trunking, DDI Numbering)</a></li>
-</ul></li>
-<li><a href="#google-phone-gateway-vs-dialogflow-gateway">Google Phone Gateway vs DialogFlow Gateway</a></li>
-<li><a href="#how-to-process">How to process</a>
-<ul>
-<li><a href="#step-1-setup-a-dialogflow-project-account">Step 1- Setup a DialogFlow Project account.</a></li>
-<li><a href="#step-2-setup-a-smart-ivr-account">Step 2- Setup a Smart IVR account.</a></li>
-<li><a href="#step-3-setup-a-sip-trunk-from-your-pbx-to-smart-ivr">Step 3- Setup a SIP Trunk from your PBX to Smart IVR.</a></li>
-<li><a href="#step-4-download-our-voicebot-dialog-framework">Step 4- Download our Voicebot (Dialog) framework.</a></li>
-<li><a href="#step-5-create-output-actions-labels">Step 5- Create Output Actions (#Labels).</a></li>
-<li><a href="#step-6-go-live">Step 6- Go Live!</a></li>
-</ul></li>
-<li><a href="#common-customer-use-cases">Common Customer Use Cases</a></li>
-<li><a href="#more">More…</a></li>
-</ul></li>
-</ul>
+  <ul>
+    <li><a href="#voicebot-ivr-dialogflow-gatewaypostimagescustomerengagementslides-diagram-01005png"><img src="/postimages/customerengagement/slides-diagram-01.005.png" alt="Voicebot IVR DialogFlow Gateway"></a>
+      <ul>
+        <li></li>
+      </ul>
+    </li>
+  </ul>
+
+  <ul>
+    <li><a href="#prerequisities">Prerequisities</a>
+      <ul>
+        <li><a href="#1--text-to-speech-api-account-tts">1- Text-to-Speech API account (TTS)</a></li>
+        <li><a href="#2--speech-recognition-api-account-asr">2- Speech Recognition API account (ASR)</a></li>
+        <li><a href="#3--google-dialogflow-account-and-agent-nlu">3- Google DialogFlow account and agent (NLU)</a></li>
+        <li><a href="#4--smart-ivr-subscription-account-ivr">4- Smart IVR subscription account (IVR)</a></li>
+        <li><a href="#5--voicebot-framework-app">5- Voicebot Framework (APP)</a></li>
+        <li><a href="#6--your-pbx-or-ip-operator-sip-trunking-ddi-numbering">6- Your PBX or IP Operator (SIP Trunking, DDI Numbering)</a></li>
+      </ul>
+    </li>
+    <li><a href="#google-phone-gateway-vs-dialogflow-gateway">Google Phone Gateway vs DialogFlow Gateway</a></li>
+    <li><a href="#how-to-process">How to process</a>
+      <ul>
+        <li><a href="#step-1--setup-a-dialogflow-project-account">Step 1- Setup a DialogFlow Project account.</a></li>
+        <li><a href="#step-2--setup-a-smart-ivr-account">Step 2- Setup a Smart IVR account.</a></li>
+        <li><a href="#step-3--setup-a-sip-trunk-from-your-pbx-to-smart-ivr">Step 3- Setup a SIP Trunk from your PBX to Smart IVR.</a></li>
+        <li><a href="#step-4--download-our-voicebot-dialog-framework">Step 4- Download our Voicebot (Dialog) framework.</a></li>
+        <li><a href="#step-5--create-output-actions-labels">Step 5- Create Output Actions (#Labels).</a></li>
+        <li><a href="#step-6--go-live">Step 6- Go Live!</a></li>
+      </ul>
+    </li>
+    <li><a href="#common-customer-use-cases">Common Customer Use Cases</a></li>
+    <li><a href="#more">More…</a></li>
+  </ul>
 </nav>
     </div>
 </div>

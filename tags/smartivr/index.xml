@@ -1,16 +1,12 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Smartivr on Blog</title>
+    <title>smartivr on Blog</title>
     <link>https://blog.ivrpowers.com/tags/smartivr/</link>
-    <description>Recent content in Smartivr on Blog</description>
+    <description>Recent content in smartivr on Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 11 Jan 2020 12:00:00 +0200</lastBuildDate>
-    
-	<atom:link href="https://blog.ivrpowers.com/tags/smartivr/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Sat, 11 Jan 2020 12:00:00 +0200</lastBuildDate><atom:link href="https://blog.ivrpowers.com/tags/smartivr/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Smart IVR: System Requirements</title>
       <link>https://blog.ivrpowers.com/post/support/smart-ivr-system-requirements/</link>
@@ -30,7 +26,8 @@
       <description>Photo Source: Interactive Powers. Creative Commons Getting started&amp;hellip; Help Center is only available for Customers and Partners that are deploying or running our platforms, if you are not registred please contact our Sales Team to get all information and partnerships.
 Register and Login at: https://support.ivrpowers.com
 Service Desk Portals:
- Smart IVR Video RTC Cloud Hosting Solutions  Get support with our team in a single place Channels available:</description>
+ Smart IVR Video RTC Cloud Hosting Solutions  Get support with our team in a single place Channels available:
+ Email Web Portal, when logged in at: https://support.</description>
     </item>
     
   </channel>

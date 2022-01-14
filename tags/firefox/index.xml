@@ -1,23 +1,19 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Firefox on Blog</title>
+    <title>firefox on Blog</title>
     <link>https://blog.ivrpowers.com/tags/firefox/</link>
-    <description>Recent content in Firefox on Blog</description>
+    <description>Recent content in firefox on Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 23 Jul 2019 20:00:00 +0200</lastBuildDate>
-    
-	<atom:link href="https://blog.ivrpowers.com/tags/firefox/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Tue, 23 Jul 2019 20:00:00 +0200</lastBuildDate><atom:link href="https://blog.ivrpowers.com/tags/firefox/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Security improvement for WebRTC in Firefox 68</title>
       <link>https://blog.ivrpowers.com/post/news/firefox68-requires-https-in-all-sources/</link>
       <pubDate>Tue, 23 Jul 2019 20:00:00 +0200</pubDate>
       
       <guid>https://blog.ivrpowers.com/post/news/firefox68-requires-https-in-all-sources/</guid>
-      <description>Photo Source: Creative Commons Firefox 68 will now only expose camera and microphone in secure contexts. As of Firefox 68 — releasing past weeks — WebRTC camera and microphone will require an https connection to work. Access from insecure http will cease to work, matching how Chrome works. Camera and microhone are powerful features, and Firefox will now only expose them in secure contexts, a security and privacy improvement.</description>
+      <description>Photo Source: Creative Commons Firefox 68 will now only expose camera and microphone in secure contexts.  As of Firefox 68 — releasing past weeks — WebRTC camera and microphone will require an https connection to work. Access from insecure http will cease to work, matching how Chrome works. Camera and microhone are powerful features, and Firefox will now only expose them in secure contexts, a security and privacy improvement.</description>
     </item>
     
   </channel>

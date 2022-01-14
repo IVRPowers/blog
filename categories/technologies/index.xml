@@ -1,23 +1,19 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Technologies on Blog</title>
+    <title>technologies on Blog</title>
     <link>https://blog.ivrpowers.com/categories/technologies/</link>
-    <description>Recent content in Technologies on Blog</description>
+    <description>Recent content in technologies on Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 06 Dec 2021 09:00:05 +0200</lastBuildDate>
-    
-	<atom:link href="https://blog.ivrpowers.com/categories/technologies/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Mon, 06 Dec 2021 09:00:05 +0200</lastBuildDate><atom:link href="https://blog.ivrpowers.com/categories/technologies/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Video Background Effects</title>
       <link>https://blog.ivrpowers.com/post/technologies/video-background-effects/</link>
       <pubDate>Mon, 06 Dec 2021 09:00:05 +0200</pubDate>
       
       <guid>https://blog.ivrpowers.com/post/technologies/video-background-effects/</guid>
-      <description>Live streaming complementary software packed with powerful features to enhance Video RTC. Simply add Manycam Lite CC as a webcam/video source for our Video RTC platforms and get access many interesting features to enhance your video call center: add IP cameras to show different angles, virtual backgrounds and chroma key, up to 24 video sources, switch between computer screens, screencast, draw &amp;amp; text board mode.
+      <description>Live streaming complementary software packed with powerful features to enhance Video RTC.  Simply add Manycam Lite CC as a webcam/video source for our Video RTC platforms and get access many interesting features to enhance your video call center: add IP cameras to show different angles, virtual backgrounds and chroma key, up to 24 video sources, switch between computer screens, screencast, draw &amp;amp; text board mode.
 Manycam Lite CC is able to manage CPU or GPU optimization in local processing to ensure the best performance for your video agents and without any other dependence on the your desktop PC.</description>
     </item>
     
@@ -46,7 +42,7 @@ Used as a business telephone system or private telephone network, a PBX is owned
       <pubDate>Thu, 06 May 2021 20:20:00 +0200</pubDate>
       
       <guid>https://blog.ivrpowers.com/post/technologies/screen-resolution/</guid>
-      <description>Deploying High Quality and fully Bandwidth adaptative Video Communications Services Resolution is the number of pixels on a specific screen. A single pixel, the smallest unit to measure the video resolutions, is a tiny dot on the screen often no visible individually to the naken human eye. The more the number of pixels, the higher the sharpness of the video streaming.
+      <description>Deploying High Quality and fully Bandwidth adaptative Video Communications Services  Resolution is the number of pixels on a specific screen. A single pixel, the smallest unit to measure the video resolutions, is a tiny dot on the screen often no visible individually to the naken human eye. The more the number of pixels, the higher the sharpness of the video streaming.
 Resolution Settings Video RTC gateways manage the following resolution modes:</description>
     </item>
     
@@ -56,7 +52,7 @@ Resolution Settings Video RTC gateways manage the following resolution modes:</d
       <pubDate>Sat, 19 Dec 2020 20:20:00 +0200</pubDate>
       
       <guid>https://blog.ivrpowers.com/post/technologies/video-rtc-widgets-update/</guid>
-      <description>Deploy full web responsive widgets with a single script or URL in your website or apps. Today we are excited to announce that we are open sourcing a new Widget for Video RTC to handle incoming or outgoing video calls and prompt users for input, record calls, connect callers to agents, and more.
+      <description>Deploy full web responsive widgets with a single script or URL in your website or apps.  Today we are excited to announce that we are open sourcing a new Widget for Video RTC to handle incoming or outgoing video calls and prompt users for input, record calls, connect callers to agents, and more.
 Main features:
  FAB Button enabled Flip Camera (new) Mute Camera Mute Audio Live Chat File Sharing Dual / Single Screen Sharing Snapshot (optional) Overprint Logo  More options:</description>
     </item>
@@ -67,7 +63,7 @@ Main features:
       <pubDate>Sun, 25 Oct 2020 20:20:00 +0200</pubDate>
       
       <guid>https://blog.ivrpowers.com/post/technologies/background-image/</guid>
-      <description>Allows you o display an image as your background during your business video calls. Improve your sales or business video calls replacing your background by a nice picture removes all your surroundings so people can&amp;rsquo;t see the details of what&amp;rsquo;s going on behind you.
+      <description>Allows you o display an image as your background during your business video calls.  Improve your sales or business video calls replacing your background by a nice picture removes all your surroundings so people can&amp;rsquo;t see the details of what&amp;rsquo;s going on behind you.
 Limit distractions and maintain privacy in your current surroundings by using a virtual background. You can change your background, or add a background image during your video call sessions.</description>
     </item>
     
@@ -77,7 +73,7 @@ Limit distractions and maintain privacy in your current surroundings by using a 
       <pubDate>Mon, 21 Sep 2020 16:20:00 +0200</pubDate>
       
       <guid>https://blog.ivrpowers.com/post/technologies/background-blur/</guid>
-      <description>Allows you to blur the background during your business video calls. Improve your sales or business video calls blurring your background makes your surroundings appear out of focus so people can&amp;rsquo;t see the details of what&amp;rsquo;s going on behind you.
+      <description>Allows you to blur the background during your business video calls.  Improve your sales or business video calls blurring your background makes your surroundings appear out of focus so people can&amp;rsquo;t see the details of what&amp;rsquo;s going on behind you.
 Limit distractions and maintain privacy in your current surroundings by using a virtual background. You can blur your background during your meeting, event, or training session.
 Unretouched Screenshots:
 Need to add it right now?</description>
@@ -89,7 +85,7 @@ Need to add it right now?</description>
       <pubDate>Wed, 12 Aug 2020 18:00:00 +0100</pubDate>
       
       <guid>https://blog.ivrpowers.com/post/technologies/pin-access/</guid>
-      <description>Image source: Interactive Powers Connect easily any real-time session from any device or browser with a PIN code. If you wish to utilize Video RTC / Solutions as part of your support efforts, a custom PIN access, where your customers can enter a unique pin code to connect with an agent is another way to start co-browsing, screen sharing or voice &amp;amp; video calling. You only have to redirects your customers to a landing page like our new one: https://pwrs.</description>
+      <description>Image source: Interactive Powers Connect easily any real-time session from any device or browser with a PIN code.  If you wish to utilize Video RTC / Solutions as part of your support efforts, a custom PIN access, where your customers can enter a unique pin code to connect with an agent is another way to start co-browsing, screen sharing or voice &amp;amp; video calling. You only have to redirects your customers to a landing page like our new one: https://pwrs.</description>
     </item>
     
     <item>
@@ -98,7 +94,7 @@ Need to add it right now?</description>
       <pubDate>Tue, 04 Feb 2020 20:00:00 +0200</pubDate>
       
       <guid>https://blog.ivrpowers.com/post/technologies/how-to-add-video-channel-to-existing-contact-center/</guid>
-      <description>Transform your existing call center into a more engaging, customizable, and interactive solution with video calls. In today’s competitive market, companies need call center software to connect in real-time cross web browsers and mobile devices. Adding advanced video interactions such web call, video call, live chat, file sharing, co-browsing, screen sharing… give your clients and agents the option to communicate better than ever with your brand.
+      <description>Transform your existing call center into a more engaging, customizable, and interactive solution with video calls.  In today’s competitive market, companies need call center software to connect in real-time cross web browsers and mobile devices. Adding advanced video interactions such web call, video call, live chat, file sharing, co-browsing, screen sharing… give your clients and agents the option to communicate better than ever with your brand.
  The Empowered Omnichannel: What any Contact Center in the Digital Age should be.</description>
     </item>
     
@@ -108,7 +104,7 @@ Need to add it right now?</description>
       <pubDate>Tue, 04 Feb 2020 14:00:00 +0200</pubDate>
       
       <guid>https://blog.ivrpowers.com/post/technologies/what-is-peer-to-peer/</guid>
-      <description>Make and Receive Video Calls between Web Browsers or Mobile Devices. Video Gateways (WebRTC) developed by Interactive Powers include a SPLIT module which enable to manage and synchronize media streams (video - audio - data) between two peers. This connection is based on a WebRTC communication session running voice, video and data.
+      <description>Make and Receive Video Calls between Web Browsers or Mobile Devices.  Video Gateways (WebRTC) developed by Interactive Powers include a SPLIT module which enable to manage and synchronize media streams (video - audio - data) between two peers. This connection is based on a WebRTC communication session running voice, video and data.
  The Video Channel (Inbound) for existing Call Centers without worries.
  How does Peer-to-Peer work? Peer-to-Peer (WebRTC) enables to connect many Web Browsers or Mobile Devices with Real-Time Communications.</description>
     </item>
@@ -119,7 +115,7 @@ Need to add it right now?</description>
       <pubDate>Tue, 04 Feb 2020 12:00:00 +0200</pubDate>
       
       <guid>https://blog.ivrpowers.com/post/technologies/videortc-web-browser-2020/</guid>
-      <description>Image source: Interactive Powers&amp;rsquo; elaboration Video RTC Gateways are now ready to run most modern Web Browsers and Operating Systems for your Business. We can observe the success of WebRTC Technology through the evolution of web browsers. Increasingly more and more browsers are WebRTC-enabled, having incorporated the possibility of making video calls. In most of them users do not need even to install special applications or plugins. Let’s see what four of the most important web browsers on the market currently offer.</description>
+      <description>Image source: Interactive Powers&#39; elaboration Video RTC Gateways are now ready to run most modern Web Browsers and Operating Systems for your Business.  We can observe the success of WebRTC Technology through the evolution of web browsers. Increasingly more and more browsers are WebRTC-enabled, having incorporated the possibility of making video calls. In most of them users do not need even to install special applications or plugins. Let’s see what four of the most important web browsers on the market currently offer.</description>
     </item>
     
     <item>
@@ -128,7 +124,7 @@ Need to add it right now?</description>
       <pubDate>Mon, 03 Feb 2020 10:00:00 +0200</pubDate>
       
       <guid>https://blog.ivrpowers.com/post/technologies/what-is-webrt-to-sip/</guid>
-      <description>Receive Audio Calls from Web Browsers or Mobile Devices in your Contact Center. Video Gateways (WebRTC) developed by Interactive Powers include a SPLIT module which enable to control all media streams (video - audio - data) on any communication between users and a SIP softswitch or PBX/ACD. This development is based on SIP and WebRTC peers communications for the integration of voice and data.
+      <description>Receive Audio Calls from Web Browsers or Mobile Devices in your Contact Center.  Video Gateways (WebRTC) developed by Interactive Powers include a SPLIT module which enable to control all media streams (video - audio - data) on any communication between users and a SIP softswitch or PBX/ACD. This development is based on SIP and WebRTC peers communications for the integration of voice and data.
  Connect a Web Widget for any existing Call Centers.</description>
     </item>
     
@@ -138,7 +134,7 @@ Need to add it right now?</description>
       <pubDate>Sat, 01 Feb 2020 16:20:00 +0200</pubDate>
       
       <guid>https://blog.ivrpowers.com/post/technologies/what-is-split-reverse/</guid>
-      <description>Make Video calls from your Contact Center to Web Browsers or Mobile Devices. Video Gateways (WebRTC) developed by Interactive Powers include a special SPLIT module which enable to separate and synchronize media streams (video - audio - data) for any communication between users and agents. This development is based on SIP and WebRTC peers communications for the integration of voice, video and data in Contact Centers.
+      <description>Make Video calls from your Contact Center to Web Browsers or Mobile Devices.  Video Gateways (WebRTC) developed by Interactive Powers include a special SPLIT module which enable to separate and synchronize media streams (video - audio - data) for any communication between users and agents. This development is based on SIP and WebRTC peers communications for the integration of voice, video and data in Contact Centers.
  The Video Channel (Outbound) for existing Call Centers without worries.</description>
     </item>
     
@@ -148,7 +144,7 @@ Need to add it right now?</description>
       <pubDate>Sat, 01 Feb 2020 14:00:00 +0200</pubDate>
       
       <guid>https://blog.ivrpowers.com/post/technologies/videortc-microsoft-edge/</guid>
-      <description>Image source: Interactive Powers&amp;rsquo; elaboration The Video RTC Gateway is now ready to run with Edge Browser over Windows computers and devices. At Interactive Powers, we are really excited that Video RTC platforms and API Framework / Mobile SDK are now supporting Microsoft’s new Chromium based Edge Browser aka Edgium. From now, your real-time applications will work on Microsoft’s latest Edge browser released without any changes or updates in your existing code / services already deployed!</description>
+      <description>Image source: Interactive Powers&#39; elaboration The Video RTC Gateway is now ready to run with Edge Browser over Windows computers and devices.  At Interactive Powers, we are really excited that Video RTC platforms and API Framework / Mobile SDK are now supporting Microsoft’s new Chromium based Edge Browser aka Edgium. From now, your real-time applications will work on Microsoft’s latest Edge browser released without any changes or updates in your existing code / services already deployed!</description>
     </item>
     
     <item>
@@ -157,7 +153,7 @@ Need to add it right now?</description>
       <pubDate>Sat, 01 Feb 2020 10:00:00 +0200</pubDate>
       
       <guid>https://blog.ivrpowers.com/post/technologies/what-is-split-forward/</guid>
-      <description>Receive Video calls from Web Browsers or Mobile Devices in your Contact Center. Video Gateways (WebRTC) developed by Interactive Powers include a special SPLIT module which enable to separate and synchronize media streams (video - audio - data) for any communication between users and agents. This development is based on SIP and WebRTC peers communications for the integration of voice, video and data in Contact Centers.
+      <description>Receive Video calls from Web Browsers or Mobile Devices in your Contact Center.  Video Gateways (WebRTC) developed by Interactive Powers include a special SPLIT module which enable to separate and synchronize media streams (video - audio - data) for any communication between users and agents. This development is based on SIP and WebRTC peers communications for the integration of voice, video and data in Contact Centers.
  The Video Channel (Inbound) for existing Call Centers without worries.</description>
     </item>
     
@@ -167,7 +163,7 @@ Need to add it right now?</description>
       <pubDate>Sun, 08 Sep 2019 12:00:00 +0100</pubDate>
       
       <guid>https://blog.ivrpowers.com/post/technologies/tts-api-connectors-updated/</guid>
-      <description>Image source: Interactive Powers Interactive Powers introduces 45+ Languages &amp;amp; 300+ additional Text-to-Speech voices with Amazon, Google and Microsoft Cloud TTS-API Integration. Natural Language over the Phone&amp;hellip; All of you know about cognitive services is growing these days, and that&amp;rsquo;s why today we&amp;rsquo;re going to talk about our new TTS-API for &amp;ldquo;Text to speech&amp;rdquo;. This connector converts text into a dynamic natural voice in just a few milliseconds. There are a lot of Cloud Speech API, but we will focus on the Cloud Services main giants: Google Cloud, Microsoft Azure and Amazon Web Services.</description>
+      <description>Image source: Interactive Powers Interactive Powers introduces 45+ Languages &amp;amp; 300+ additional Text-to-Speech voices with Amazon, Google and Microsoft Cloud TTS-API Integration.  Natural Language over the Phone&amp;hellip; All of you know about cognitive services is growing these days, and that&amp;rsquo;s why today we&amp;rsquo;re going to talk about our new TTS-API for &amp;ldquo;Text to speech&amp;rdquo;. This connector converts text into a dynamic natural voice in just a few milliseconds. There are a lot of Cloud Speech API, but we will focus on the Cloud Services main giants: Google Cloud, Microsoft Azure and Amazon Web Services.</description>
     </item>
     
     <item>
@@ -176,7 +172,7 @@ Need to add it right now?</description>
       <pubDate>Tue, 03 Sep 2019 12:00:00 +0100</pubDate>
       
       <guid>https://blog.ivrpowers.com/post/technologies/amazon-tts-connector/</guid>
-      <description>Image source: Interactive Powers Interactive Powers introduces 27 Languages &amp;amp; 60+ additional Text-to-Speech voices with Amazon Polly Integration About Amazon&amp;hellip; Amazon Polly is a Text-to-Speech (TTS) service that uses advanced deep learning technologies to synthesize speech that sounds like a human voice. It&amp;rsquo;s part of the voice of Alexa and can do much more for your business too.
+      <description>Image source: Interactive Powers Interactive Powers introduces 27 Languages &amp;amp; 60+ additional Text-to-Speech voices with Amazon Polly Integration  About Amazon&amp;hellip; Amazon Polly is a Text-to-Speech (TTS) service that uses advanced deep learning technologies to synthesize speech that sounds like a human voice. It&amp;rsquo;s part of the voice of Alexa and can do much more for your business too.
  Amazon has arround 60 voices across 30 languages and variants.</description>
     </item>
     
@@ -186,7 +182,7 @@ Need to add it right now?</description>
       <pubDate>Tue, 03 Sep 2019 12:00:00 +0100</pubDate>
       
       <guid>https://blog.ivrpowers.com/post/technologies/google-tts-connector/</guid>
-      <description>Image source: Interactive Powers Interactive Powers introduces 30+ Languages &amp;amp; 180+ additional Text-to-Speech voices with Google TTS Integration About Google&amp;hellip; Google Cloud is one of the major Enterprise Cloud Services in the world, so its API does not fall short. There are a lot of features that are worth of mention, but we don’t have that time so, here are some of main features we consider:
+      <description>Image source: Interactive Powers Interactive Powers introduces 30+ Languages &amp;amp; 180+ additional Text-to-Speech voices with Google TTS Integration  About Google&amp;hellip; Google Cloud is one of the major Enterprise Cloud Services in the world, so its API does not fall short. There are a lot of features that are worth of mention, but we don’t have that time so, here are some of main features we consider:
  Google has over 180 voices across 30+ languages and variants.</description>
     </item>
     
@@ -196,7 +192,7 @@ Need to add it right now?</description>
       <pubDate>Tue, 03 Sep 2019 12:00:00 +0100</pubDate>
       
       <guid>https://blog.ivrpowers.com/post/technologies/microsoft-tts-connector/</guid>
-      <description>Image source: Interactive Powers Interactive Powers introduces 45 Languages &amp;amp; 75+ additional Text-to-Speech voices with Microsoft Azure TTS Integration About Microsoft&amp;hellip; Microsoft Azure like Google Cloud provides his own Text To Speech API. It is quite big and here are some of its main features with more than 75 voices over 45 languages.
+      <description>Image source: Interactive Powers Interactive Powers introduces 45 Languages &amp;amp; 75+ additional Text-to-Speech voices with Microsoft Azure TTS Integration  About Microsoft&amp;hellip; Microsoft Azure like Google Cloud provides his own Text To Speech API. It is quite big and here are some of its main features with more than 75 voices over 45 languages.
  Parameters for speed, pitch, volume, pronunciation, and additional pauses Custom voice models for developers and enterprises Neural Voices technology  To get more information, you can read Microsoft TTS documentation.</description>
     </item>
     
@@ -206,7 +202,7 @@ Need to add it right now?</description>
       <pubDate>Tue, 29 Jan 2019 16:00:00 +0200</pubDate>
       
       <guid>https://blog.ivrpowers.com/post/technologies/webrtc-vs-rtmp/</guid>
-      <description>Image source: Interactive Powers What are the main differences between RTMP and WebRTC gateway models? Currently, Video RTC is our flagship product line for any RTC project&amp;rsquo;s deployments. We have prepared this summary to clarify what are the main features and how to move forward for your business.
+      <description>Image source: Interactive Powers What are the main differences between RTMP and WebRTC gateway models?  Currently, Video RTC is our flagship product line for any RTC project&amp;rsquo;s deployments. We have prepared this summary to clarify what are the main features and how to move forward for your business.
 Our Video Gateway connects peers or endpoints between WebRTC, RTMP and SIP technology to create advanced Video services. RTMP is an open protocol for Adobe Flash Player that allows to connect flash compliant browsers.</description>
     </item>
     
@@ -216,7 +212,7 @@ Our Video Gateway connects peers or endpoints between WebRTC, RTMP and SIP techn
       <pubDate>Wed, 21 Nov 2018 01:00:00 +0200</pubDate>
       
       <guid>https://blog.ivrpowers.com/post/technologies/understanding-cloud-hosting-iaas-paas-saas/</guid>
-      <description>Image source: Pixabay. Creative Commons What are the differences between IaaS, SaaS, and PaaS, the three main Cloud Computing models? IaaS, PaaS, SaaS are three Cloud computing models popular in the market. Depending upon the requirement a company can opt for any of the three models. Here we explain IaaS, PaaS, SaaS model in the best possible way so that anyone can understand and differential among them.
+      <description>Image source: Pixabay. Creative Commons What are the differences between IaaS, SaaS, and PaaS, the three main Cloud Computing models?  IaaS, PaaS, SaaS are three Cloud computing models popular in the market. Depending upon the requirement a company can opt for any of the three models. Here we explain IaaS, PaaS, SaaS model in the best possible way so that anyone can understand and differential among them.
 What is IaaS?</description>
     </item>
     
@@ -226,7 +222,7 @@ What is IaaS?</description>
       <pubDate>Sun, 05 Aug 2018 01:00:00 +0200</pubDate>
       
       <guid>https://blog.ivrpowers.com/post/technologies/screensharing-or-cobrowsing/</guid>
-      <description>Discover Screen Sharing and Co-Browsing advantages, the secure new ‘no download’ complementary interactions improving phone calls for onboarding, sales and support. Screen Sharing and Co-Browsing (or Collaborative Browsing) are a relatively new technologies for Call Centers propelled by a Cloud evolution. However, customer experience professionals seem to think that CoBrowsing and Screen Sharing are one and the same when in reality, they’re not. So what is the difference between these two features and how does adapting your VideoRTC solution improve the overall customer experience?</description>
+      <description>Discover Screen Sharing and Co-Browsing advantages, the secure new ‘no download’ complementary interactions improving phone calls for onboarding, sales and support.  Screen Sharing and Co-Browsing (or Collaborative Browsing) are a relatively new technologies for Call Centers propelled by a Cloud evolution. However, customer experience professionals seem to think that CoBrowsing and Screen Sharing are one and the same when in reality, they’re not. So what is the difference between these two features and how does adapting your VideoRTC solution improve the overall customer experience?</description>
     </item>
     
     <item>
@@ -235,7 +231,7 @@ What is IaaS?</description>
       <pubDate>Tue, 10 Jul 2018 09:00:05 +0200</pubDate>
       
       <guid>https://blog.ivrpowers.com/post/technologies/what-is-stun-turn-server/</guid>
-      <description>Photo Source: Pixabay · Interactive Powers Creative Commons. WebRTC communications in real-world connectivity require to handle multi-party calls and interact with STUN and TURN servers. Our Video Gateway (WebRTC) platform offers all customers an advanced video real-time communications solution through all audio/video/data streams are transmitted. Generally, a Video Gateway has to be deployed over a public Internet so any user must connect and send media fragments over RTP (Real-time Transport Protocol) ports without specific network issues.</description>
+      <description>Photo Source: Pixabay · Interactive Powers Creative Commons. WebRTC communications in real-world connectivity require to handle multi-party calls and interact with STUN and TURN servers.  Our Video Gateway (WebRTC) platform offers all customers an advanced video real-time communications solution through all audio/video/data streams are transmitted. Generally, a Video Gateway has to be deployed over a public Internet so any user must connect and send media fragments over RTP (Real-time Transport Protocol) ports without specific network issues.</description>
     </item>
     
     <item>
@@ -244,7 +240,7 @@ What is IaaS?</description>
       <pubDate>Sun, 10 Jun 2018 01:00:00 +0200</pubDate>
       
       <guid>https://blog.ivrpowers.com/post/technologies/what-is-cpaas/</guid>
-      <description>Communication Platform as a Service (CPaaS) Communication Platform as a Service (CPaaS) is a form of cloud computing that is utilized to deliver communication applications like IVR or RTC to users over the internet. But, unlike SaaS which delivers specific apps and programs, Communication Platform as a Service is a bit closer related to IaaS. So, while IaaS is delivering the infrastructure, like servers and management tools, CPaaS is what delivers the entire communication platform for users to build and develop their own applications.</description>
+      <description>Communication Platform as a Service (CPaaS)  Communication Platform as a Service (CPaaS) is a form of cloud computing that is utilized to deliver communication applications like IVR or RTC to users over the internet. But, unlike SaaS which delivers specific apps and programs, Communication Platform as a Service is a bit closer related to IaaS. So, while IaaS is delivering the infrastructure, like servers and management tools, CPaaS is what delivers the entire communication platform for users to build and develop their own applications.</description>
     </item>
     
     <item>
@@ -253,7 +249,7 @@ What is IaaS?</description>
       <pubDate>Sun, 10 Jun 2018 01:00:00 +0200</pubDate>
       
       <guid>https://blog.ivrpowers.com/post/technologies/what-is-saas/</guid>
-      <description>Photo source: Interactive Powers Software as a Service (SaaS) Software as a Service (SaaS) directly refers to any software that your business is using just about everyday. SaaS is of course a form of cloud computing, which allows for increase flexibility by relying on a third-party vendor to host and maintain the service — in this case, that service is that software. Since the software is hosted by a cloud provider, your business does not need to install and run applications on their own computers, or host their own servers in expensive data centers, yet still gains access to these powerful tools.</description>
+      <description>Photo source: Interactive Powers Software as a Service (SaaS)  Software as a Service (SaaS) directly refers to any software that your business is using just about everyday. SaaS is of course a form of cloud computing, which allows for increase flexibility by relying on a third-party vendor to host and maintain the service — in this case, that service is that software. Since the software is hosted by a cloud provider, your business does not need to install and run applications on their own computers, or host their own servers in expensive data centers, yet still gains access to these powerful tools.</description>
     </item>
     
     <item>
@@ -262,7 +258,7 @@ What is IaaS?</description>
       <pubDate>Wed, 11 Apr 2018 09:30:00 +0100</pubDate>
       
       <guid>https://blog.ivrpowers.com/post/trends/web-standard-password-free/</guid>
-      <description>Image source: Pixabay. Creative Commons A new web standard makes it possible to sign into virtually any web service without needing a password! This Authentication standard from W3C will use your fingerprint reader or inside camera in a wide variety of web browsers. That, in turn, lets you access virtually any online service in a PC or mobile device through password-free FIDO Authentication, not just specific services. You can continue to use familiar biometrics methods like fingerprint readers, cameras and USB keys, and it can serve both in place of and in addition to passwords.</description>
+      <description>Image source: Pixabay. Creative Commons A new web standard makes it possible to sign into virtually any web service without needing a password!  This Authentication standard from W3C will use your fingerprint reader or inside camera in a wide variety of web browsers. That, in turn, lets you access virtually any online service in a PC or mobile device through password-free FIDO Authentication, not just specific services. You can continue to use familiar biometrics methods like fingerprint readers, cameras and USB keys, and it can serve both in place of and in addition to passwords.</description>
     </item>
     
     <item>
@@ -280,7 +276,7 @@ What is IaaS?</description>
       <pubDate>Fri, 16 Feb 2018 21:00:00 +0200</pubDate>
       
       <guid>https://blog.ivrpowers.com/post/technologies/videortc-android/</guid>
-      <description>Image source: Interactive Powers Make direct voice and video calls from Android devices thanks to VideoRTC.js and its native WebRTC based tecnology In previous posts, we have looked at some key considerations for building apps for video calling on web browsers and mobile devices, and some of the features you can include to make sure your users have a great experience.
+      <description>Image source: Interactive Powers Make direct voice and video calls from Android devices thanks to VideoRTC.js and its native WebRTC based tecnology  In previous posts, we have looked at some key considerations for building apps for video calling on web browsers and mobile devices, and some of the features you can include to make sure your users have a great experience.
 Now any modern Android works with all compliant Smartphone, TV and Tablet devices which is an important component for creating frictionless, delightful apps, especially voice &amp;amp; video calling.</description>
     </item>
     
@@ -290,7 +286,7 @@ Now any modern Android works with all compliant Smartphone, TV and Tablet device
       <pubDate>Sun, 21 Jan 2018 21:00:00 +0200</pubDate>
       
       <guid>https://blog.ivrpowers.com/post/technologies/videortc-ios/</guid>
-      <description>Image source: Interactive Powers Make direct voice calls from Apple iOS devices thanks to VideoRTC.js and its native WebRTC based tecnology In previous posts, we have looked at some key considerations for building apps for video calling on web browsers and mobile devices, and some of the features you can include to make sure your users have a great experience.
+      <description>Image source: Interactive Powers Make direct voice calls from Apple iOS devices thanks to VideoRTC.js and its native WebRTC based tecnology  In previous posts, we have looked at some key considerations for building apps for video calling on web browsers and mobile devices, and some of the features you can include to make sure your users have a great experience.
 Now iOS 11 works with all compliant Apple iPhone and iPad devices which is an important component for creating frictionless, delightful apps, especially voice calling.</description>
     </item>
     
@@ -320,7 +316,7 @@ In a previous post we talked about secure identification API integrations and so
       <pubDate>Tue, 28 Nov 2017 21:00:00 +0200</pubDate>
       
       <guid>https://blog.ivrpowers.com/post/technologies/videortc-desktop-web-browser/</guid>
-      <description>Image source: Interactive Powers&amp;rsquo; elaboration The Video RTC Gateway, is ready to run with most modern Web Browsers and Desktop Operating Systems. We can observe the success of WebRTC Technology through the evolution of web browsers. Increasingly more and more browsers are WebRTC-enabled, having incorporated the possibility of making video calls. In most of them users do not need even to install special applications or plugins. Let&amp;rsquo;s see what four of the most important web browsers on the market currently offer.</description>
+      <description>Image source: Interactive Powers&#39; elaboration The Video RTC Gateway, is ready to run with most modern Web Browsers and Desktop Operating Systems.  We can observe the success of WebRTC Technology through the evolution of web browsers. Increasingly more and more browsers are WebRTC-enabled, having incorporated the possibility of making video calls. In most of them users do not need even to install special applications or plugins. Let&amp;rsquo;s see what four of the most important web browsers on the market currently offer.</description>
     </item>
     
     <item>
@@ -338,7 +334,7 @@ In a previous post we talked about secure identification API integrations and so
       <pubDate>Wed, 27 Sep 2017 21:00:00 +0200</pubDate>
       
       <guid>https://blog.ivrpowers.com/post/technologies/videortc-safari11/</guid>
-      <description>Image source: Interactive Powers&amp;rsquo; elaboration The Video RTC Gateway, Now ready run with Apple Safari 11 over MacOS computers and iOS devices Interactive Powers is proud to announce Video RTC support for Safari 11 over MacOS and iOS. It was a demand from all the market for a long time, know it becomes a reality past week. Safari 11 works fine on the basis of WebRTC to allow Apple users community to connect most features but with some specific web browser limitations that we will comment shortly&amp;hellip;</description>
+      <description>Image source: Interactive Powers&#39; elaboration The Video RTC Gateway, Now ready run with Apple Safari 11 over MacOS computers and iOS devices  Interactive Powers is proud to announce Video RTC support for Safari 11 over MacOS and iOS. It was a demand from all the market for a long time, know it becomes a reality past week. Safari 11 works fine on the basis of WebRTC to allow Apple users community to connect most features but with some specific web browser limitations that we will comment shortly&amp;hellip;</description>
     </item>
     
     <item>
@@ -347,7 +343,7 @@ In a previous post we talked about secure identification API integrations and so
       <pubDate>Tue, 26 Sep 2017 12:06:30 +0200</pubDate>
       
       <guid>https://blog.ivrpowers.com/post/trends/security-factor/</guid>
-      <description>Photo Source: Pixabay, Creative Commons Communications Security is more important ever than ever to handle properly any business. Security tops the list on concerns about RTC. Considering the risks of new exposed system vulnerabilities and the increasing scope and scale of breaches, security is more important than ever. In fact, uncertainty about which device provides privacy and security has become a hindrance to purchasing an IoT device. But despite the increasing concerns among consumers, researches show that security is still one of the major challenges that companies need to deal with.</description>
+      <description>Photo Source: Pixabay, Creative Commons Communications Security is more important ever than ever to handle properly any business.  Security tops the list on concerns about RTC. Considering the risks of new exposed system vulnerabilities and the increasing scope and scale of breaches, security is more important than ever. In fact, uncertainty about which device provides privacy and security has become a hindrance to purchasing an IoT device. But despite the increasing concerns among consumers, researches show that security is still one of the major challenges that companies need to deal with.</description>
     </item>
     
     <item>
@@ -366,7 +362,7 @@ With WebRTC however, there’s no need to worry about any of that.</description>
       <pubDate>Sun, 09 Jul 2017 00:20:05 +0200</pubDate>
       
       <guid>https://blog.ivrpowers.com/post/technologies/webrtc-rtmp-to-sip-calling/</guid>
-      <description>Image source: Interactive Powers&amp;rsquo; elaboration How can you call a Desk Phone from any Web Browser? Our both Video Gateways (WebRTC | RTMP) can convert web browser media streams (video - audio - data) to SIP from WebRTC or RTMP peers communications. This interesting feature allows to connect easily web services to existing VoIP telephony channels of your IVR or PBX. We can consider all of this approach like a direct calling webphone or like a WebRTC-DDI or RTMP-DDI in a SIP trunk from an operator service configuration.</description>
+      <description>Image source: Interactive Powers&#39; elaboration How can you call a Desk Phone from any Web Browser? Our both Video Gateways (WebRTC | RTMP) can convert web browser media streams (video - audio - data) to SIP from WebRTC or RTMP peers communications. This interesting feature allows to connect easily web services to existing VoIP telephony channels of your IVR or PBX. We can consider all of this approach like a direct calling webphone or like a WebRTC-DDI or RTMP-DDI in a SIP trunk from an operator service configuration.</description>
     </item>
     
     <item>
