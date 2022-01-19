@@ -6,7 +6,7 @@
         <meta charset="utf-8" />
         <meta http-equiv="X-UA-Compatible" content="IE=edge" />
 
-        <meta property="og:title" content="{{ if ne .Title "" }} {{ .Title }} &middot; {{ .Site.Title }} {{ else }} {{ .Site.Title }} {{ end }}" />
+        <meta property="og:title" content="{{ if and (ne .Title "") (ne .Title "Posts") }} {{ .Title }} &middot; {{ .Site.Title }} {{ else }} {{ .Site.Title }} {{ end }}" />
         <meta property="og:site_name" content="{{ .Site.Title }}" />
         <meta property="og:url" content="{{ .Permalink }}" />
 
@@ -26,7 +26,7 @@
         <meta property="og:type" content="website" />
     {{ end }}
 
-        <title>{{ if ne .Title "" }} {{ .Title }} &middot; {{ .Site.Title }} {{ else }} {{ .Site.Title }} {{ end }}</title>
+        <title>{{ if and (ne .Title "") (ne .Title "Posts") }} {{ .Title }} &middot; {{ .Site.Title }} {{ else }} {{ .Site.Title }} {{ end }}</title>
 
         <link rel="preload" href="{{ .Site.BaseURL }}js/main.js" as="script" />
         <link rel="preload" href="{{ .Site.BaseURL }}css/main.css" as="style" />
@@ -62,7 +62,7 @@
     {{ end }}
 
     {{if .IsNode}}
-        <link href="{{ with .OutputFormats.Get "RSS" }}{{ .RelPermalink }}{{ end }}" rel="alternate" type="application/rss+xml" title="{{ if ne .Title "" }} {{ .Title }} &middot; {{ .Site.Title }} {{ else }} {{ .Site.Title }} {{ end }}" />
+        <link href="{{ with .OutputFormats.Get "RSS" }}{{ .RelPermalink }}{{ end }}" rel="alternate" type="application/rss+xml" title="{{ if and (ne .Title "") (ne .Title "Posts") }} {{ .Title }} &middot; {{ .Site.Title }} {{ else }} {{ .Site.Title }} {{ end }}" />
     {{end}}
         <link rel="canonical" href="{{ .Permalink }}" />
 
