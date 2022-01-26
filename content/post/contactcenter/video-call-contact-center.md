@@ -13,12 +13,14 @@ image = "/postimages/contactcenter/ivrpowers-videocc.009.jpeg"
 ------------
 ###### Photo Source: Interactive Powers
 
-# Video CC productivity must be part of your Call / Contact Center, it's not just a nice to have feature.
+# Delivering real human interactions and unified collaboration in your Digital Space.
 ---
 
-Need to meet face-to-face virtually your clients? Start managing unlimited transactional video calls for your team. It isn't always practical to have every single meeting in person. And today, there are lots of video meeting apps that are designed more for hangouts with colleagues and chatting with loved ones.  Your Call / Contact Center requires a work-focused video calling solution as long as you have a good Wi-Fi signal or 4G/5G data connection on each seat, almost any business can start working remotely while staying face to face in touch with all clients and prospects. 
+**Need to meet face-to-face virtually your clients?** Start managing unlimited transactional video calls for your team. It isn't always practical to have every single meeting in person. Even if there are lots of video meeting apps that are designed more for hangouts with colleagues and chatting with loved ones. Today, any **Call / Contact Center should be turned into a Video CC** to improve its inbound/outbound processes and performance. Today, almost any business can start working remotely while staying face-to-face in touch with all clients and prospects.
 
 > Discover all renewed Video RTC 5.0 features to get the best Video CC experience.
+
+Shifting to a "remote-first" mindset is imperative for organizations to mobilize their online support, responding better to any requests with expediency, and maintain or build sustainable customer relationships in the Digital Space.
  
 ## Streamline your business communications
 
