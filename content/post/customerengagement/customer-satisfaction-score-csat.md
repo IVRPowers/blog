@@ -2,7 +2,7 @@
 categories = ["customerengagement"]
 date = "2022-01-26T21:00:00+02:00"
 description = "Video CC KPI"
-draft = true
+draft = false
 tags = ["rtc","videocc","callcenter","kpi","contactcenter"]
 title = "Customer Satisfaction Score (CSAT)"
 image = "/postimages/customerengagement/slide-2022-01.001.jpeg"
