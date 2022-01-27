@@ -6,13 +6,49 @@
     <description>Recent content in Tags on Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 23 Jan 2022 18:00:01 +0200</lastBuildDate><atom:link href="https://blog.ivrpowers.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 26 Jan 2022 21:00:00 +0200</lastBuildDate><atom:link href="https://blog.ivrpowers.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>callcenter</title>
+      <link>https://blog.ivrpowers.com/tags/callcenter/</link>
+      <pubDate>Wed, 26 Jan 2022 21:00:00 +0200</pubDate>
+      
+      <guid>https://blog.ivrpowers.com/tags/callcenter/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>contactcenter</title>
       <link>https://blog.ivrpowers.com/tags/contactcenter/</link>
-      <pubDate>Sun, 23 Jan 2022 18:00:01 +0200</pubDate>
+      <pubDate>Wed, 26 Jan 2022 21:00:00 +0200</pubDate>
       
       <guid>https://blog.ivrpowers.com/tags/contactcenter/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>kpi</title>
+      <link>https://blog.ivrpowers.com/tags/kpi/</link>
+      <pubDate>Wed, 26 Jan 2022 21:00:00 +0200</pubDate>
+      
+      <guid>https://blog.ivrpowers.com/tags/kpi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>rtc</title>
+      <link>https://blog.ivrpowers.com/tags/rtc/</link>
+      <pubDate>Wed, 26 Jan 2022 21:00:00 +0200</pubDate>
+      
+      <guid>https://blog.ivrpowers.com/tags/rtc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>videocc</title>
+      <link>https://blog.ivrpowers.com/tags/videocc/</link>
+      <pubDate>Wed, 26 Jan 2022 21:00:00 +0200</pubDate>
+      
+      <guid>https://blog.ivrpowers.com/tags/videocc/</guid>
       <description></description>
     </item>
     
@@ -22,24 +58,6 @@
       <pubDate>Sun, 23 Jan 2022 18:00:01 +0200</pubDate>
       
       <guid>https://blog.ivrpowers.com/tags/custexp/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>rtc</title>
-      <link>https://blog.ivrpowers.com/tags/rtc/</link>
-      <pubDate>Sun, 23 Jan 2022 18:00:01 +0200</pubDate>
-      
-      <guid>https://blog.ivrpowers.com/tags/rtc/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>videocc</title>
-      <link>https://blog.ivrpowers.com/tags/videocc/</link>
-      <pubDate>Sun, 23 Jan 2022 18:00:01 +0200</pubDate>
-      
-      <guid>https://blog.ivrpowers.com/tags/videocc/</guid>
       <description></description>
     </item>
     
@@ -157,15 +175,6 @@
       <pubDate>Sat, 30 Oct 2021 00:12:30 +0200</pubDate>
       
       <guid>https://blog.ivrpowers.com/tags/webdialer/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>callcenter</title>
-      <link>https://blog.ivrpowers.com/tags/callcenter/</link>
-      <pubDate>Fri, 29 Oct 2021 12:00:00 +0200</pubDate>
-      
-      <guid>https://blog.ivrpowers.com/tags/callcenter/</guid>
       <description></description>
     </item>
     

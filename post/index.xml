@@ -6,7 +6,7 @@
     <description>Recent content in Posts on Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 23 Jan 2022 18:00:01 +0200</lastBuildDate><atom:link href="https://blog.ivrpowers.com/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 26 Jan 2022 21:00:00 +0200</lastBuildDate><atom:link href="https://blog.ivrpowers.com/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Welcome to our New Blog!</title>
       <link>https://blog.ivrpowers.com/post/general/welcome-blog/</link>
@@ -34,6 +34,15 @@ Our Story Interactive Powers provides Smart IVR and Video RTC platforms to reima
       <guid>https://blog.ivrpowers.com/post/general/about-interactive-powers/</guid>
       <description>Photo source: Interactive Powers Interactive Powers develops technology that helps your organization connect, communicate and engage with your customers, employees and stakeholders. Contact with us to find out more about how we can help you achieve your business communication goals.
 Interactive Powers delivers communication platforms that enables advanced real-time interactions over public or private networks. We allow to deploy secure channels with unified voice, video, live chat and screen sharing capabilities for web, apps, and kiosk-based customer engagement to sale or support faster than ever.</description>
+    </item>
+    
+    <item>
+      <title>Customer Satisfaction Score (CSAT)</title>
+      <link>https://blog.ivrpowers.com/post/customerengagement/customer-satisfaction-score-csat/</link>
+      <pubDate>Wed, 26 Jan 2022 21:00:00 +0200</pubDate>
+      
+      <guid>https://blog.ivrpowers.com/post/customerengagement/customer-satisfaction-score-csat/</guid>
+      <description>Photo source: Interactive Powers How does CSAT differ from Phone and Video interactions in your Call / Contact Center?  What is a Customer Satisfaction Score (CSAT)? A big strength of Customer Satisfaction Score (CSTA) is an easy way to close the loop on a customer interaction and determine whether or not it was effective in producing happiness. If for some reason the experience wasn&amp;rsquo;t satisfactory, it&amp;rsquo;s easy to pinpoint that moment and take actions to remedy the experience.</description>
     </item>
     
     <item>
