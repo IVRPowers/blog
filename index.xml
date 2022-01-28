@@ -6,7 +6,7 @@
     <description>Recent content on Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 26 Jan 2022 21:00:00 +0200</lastBuildDate><atom:link href="https://blog.ivrpowers.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 27 Jan 2022 21:00:00 +0200</lastBuildDate><atom:link href="https://blog.ivrpowers.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Welcome to our New Blog!</title>
       <link>https://blog.ivrpowers.com/post/general/welcome-blog/</link>
@@ -34,6 +34,24 @@ Our Story Interactive Powers provides Smart IVR and Video RTC platforms to reima
       <guid>https://blog.ivrpowers.com/post/general/about-interactive-powers/</guid>
       <description>Photo source: Interactive Powers Interactive Powers develops technology that helps your organization connect, communicate and engage with your customers, employees and stakeholders. Contact with us to find out more about how we can help you achieve your business communication goals.
 Interactive Powers delivers communication platforms that enables advanced real-time interactions over public or private networks. We allow to deploy secure channels with unified voice, video, live chat and screen sharing capabilities for web, apps, and kiosk-based customer engagement to sale or support faster than ever.</description>
+    </item>
+    
+    <item>
+      <title>Average Handle Time  Score (AHT)</title>
+      <link>https://blog.ivrpowers.com/post/customerengagement/average-handle-time-score-aht/</link>
+      <pubDate>Thu, 27 Jan 2022 21:00:00 +0200</pubDate>
+      
+      <guid>https://blog.ivrpowers.com/post/customerengagement/average-handle-time-score-aht/</guid>
+      <description>Photo source: Interactive Powers How does AHT differ from Phone and Video interactions in your Call / Contact Center?  What is a Average Handle Time Score (AHT)? When you work in customer support, you know how important it is to optimize your handle times. But while it’s clearly important to reduce average handling time at a Call / Contact Center, it’s not always that simple. Average handle time (AHT) is, as you’ve probably guessed, the average amount of time that a customer call takes from start to finish a process.</description>
+    </item>
+    
+    <item>
+      <title>First Call Resolution Score (FCR)</title>
+      <link>https://blog.ivrpowers.com/post/customerengagement/first-call-resolution-score-fcr/</link>
+      <pubDate>Thu, 27 Jan 2022 21:00:00 +0200</pubDate>
+      
+      <guid>https://blog.ivrpowers.com/post/customerengagement/first-call-resolution-score-fcr/</guid>
+      <description>Photo source: Interactive Powers How does FCR differ from Phone and Video interactions in your Call / Contact Center?  What is a First Call Resolution Score (FCR)? First Call Resolution (FCR) can come in handy as one of many important metrics to keep track of in the pursuit of exceptional customer service. Furthermore, FCR measures a company&amp;rsquo;s ability to resolve phone calls, chats, emails, video calls, and website customer interactions resolved on the first contact.</description>
     </item>
     
     <item>
