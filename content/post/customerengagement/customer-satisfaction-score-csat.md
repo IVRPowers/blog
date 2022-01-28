@@ -27,7 +27,7 @@ Most of the time, phone calls require to make another interaction and send any m
 
 If we compare CSTA in the same context services the results are:  
 
-> Video (9.0 - 9.5) is higher than Phone (7.5 - 8.0), with surveys processed in a same service context.
+> Video (90% ... 95%) is higher than Phone (75% ...80%), with surveys processed in a same customer care service context.
 
 ---
 [Interactive Powers](http://www.ivrpowers.com/) - Streamline your business communications
