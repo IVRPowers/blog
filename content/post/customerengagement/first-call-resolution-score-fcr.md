@@ -17,7 +17,7 @@ image = "/postimages/customerengagement/slide-2022-01.003.jpeg"
 
 ##	What is a First Call Resolution Score (FCR)?
 
-First Call Resolution (FCR) can come in handy as one of many important metrics to keep track of in the pursuit of exceptional customer service. Furthermore, FCR measures a company's ability to resolve phone calls, chats, emails, video calls, and website customer interactions resolved on the first contact. Originally, the FCR rate was measured only on phone calls but has expanded to all contact channels in a Call / Contact Center.
+The **First Call Resolution (FCR)** can come in handy as one of many important metrics to keep track of in the pursuit of exceptional customer service. Furthermore, FCR measures a company's ability to resolve phone calls, chats, emails, video calls, and website customer interactions resolved on the first contact. Originally, the FCR rate was measured only on phone calls but has expanded to all contact channels in a Call / Contact Center.
 
 ##	How does FCR apply to Video CC?
 

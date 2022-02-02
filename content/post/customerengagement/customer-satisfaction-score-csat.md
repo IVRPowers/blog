@@ -17,7 +17,7 @@ image = "/postimages/customerengagement/slide-2022-01.001.jpeg"
 
 ##	What is a Customer Satisfaction Score (CSAT)?
 
-A big strength of Customer Satisfaction Score (CSTA) is an easy way to close the loop on a customer interaction and determine whether or not it was effective in producing happiness. If for some reason the experience wasn't satisfactory, it's easy to pinpoint that moment and take actions to remedy the experience. Not only that, but you can track customer satisfaction across the customer lifecycle very simply using Customer Satisfaction Score post call and post videocall.
+A big strength of **Customer Satisfaction Score (CSTA)** is an easy way to close the loop on a customer interaction and determine whether or not it was effective in producing happiness. If for some reason the experience wasn't satisfactory, it's easy to pinpoint that moment and take actions to remedy the experience. Not only that, but you can track customer satisfaction across the customer lifecycle very simply using Customer Satisfaction Score post call and post videocall.
 
 ##	How does CSTA apply to Video CC?
 
@@ -27,7 +27,7 @@ Most of the time, phone calls require to make another interaction and send any m
 
 If we compare CSTA in the same context services the results are:  
 
-> Video (90% ... 95%) is higher than Phone (75% ...80%), with surveys processed in a same customer care service context.
+> Video (90% ... 95%) is higher than Phone (75% ... 80%), with surveys processed in a same customer care service context.
 
 ---
 [Interactive Powers](http://www.ivrpowers.com/) - Streamline your business communications

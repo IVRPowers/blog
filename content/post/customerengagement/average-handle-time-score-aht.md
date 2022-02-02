@@ -17,7 +17,7 @@ image = "/postimages/customerengagement/slide-2022-01.002.jpeg"
 
 ##	What is a Average Handle Time  Score (AHT)?
 
-When you work in customer support, you know how important it is to optimize your handle times. But while it’s clearly important to reduce average handling time at a Call / Contact Center, it’s not always that simple. Average handle time (AHT) is, as you’ve probably guessed, the average amount of time that a customer call takes from start to finish a process. This includes the time a customer spends with automated greetings, call routing, hold time, and any time an agent spends on tasks post-conversation to resolve the phone call / video call.
+When you work in customer support, you know how important it is to optimize your handle times. But while it’s clearly important to reduce average handling time at a Call / Contact Center, it’s not always that simple. **Average handle time (AHT)** is, as you’ve probably guessed, the average amount of time that a customer call takes from start to finish a process. This includes the time a customer spends with automated greetings, call routing, hold time, and any time an agent spends on tasks post-conversation to resolve the phone call / video call.
 
 ##	How does AHT apply to Video CC?
 
