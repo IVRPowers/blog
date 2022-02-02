@@ -8,7 +8,7 @@ title = "Video Call / Contact Center metrics (KPI)"
 image = "/postimages/customerengagement/slide-2022-01.006.jpeg"
 +++
 
-![training](/postimages/customerengagement/slide-2022-01.006.jpeg)
+![Video Call / Contact Center metrics (KPI)](/postimages/customerengagement/slide-2022-01.006.jpeg)
 -----------
 ###### Photo source: Interactive Powers
 

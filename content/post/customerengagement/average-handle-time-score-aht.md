@@ -8,7 +8,7 @@ title = "Average Handle Time  Score (AHT)"
 image = "/postimages/customerengagement/slide-2022-01.002.jpeg"
 +++
 
-![training](/postimages/customerengagement/slide-2022-01.002.jpeg)
+![Average Handle Time  Score (AHT)](/postimages/customerengagement/slide-2022-01.002.jpeg)
 -----------
 ###### Photo source: Interactive Powers
 

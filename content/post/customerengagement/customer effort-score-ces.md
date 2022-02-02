@@ -8,7 +8,7 @@ title = "Customer Effort Score (CES)"
 image = "/postimages/customerengagement/slide-2022-01.004.jpeg"
 +++
 
-![training](/postimages/customerengagement/slide-2022-01.004.jpeg)
+![Customer Effort Score (CES)](/postimages/customerengagement/slide-2022-01.004.jpeg)
 -----------
 ###### Photo source: Interactive Powers
 

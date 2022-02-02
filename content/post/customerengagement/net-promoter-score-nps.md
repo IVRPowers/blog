@@ -8,7 +8,7 @@ title = "Net Promoter Score (NPS)"
 image = "/postimages/customerengagement/slide-2022-01.005.jpeg"
 +++
 
-![training](/postimages/customerengagement/slide-2022-01.005.jpeg)
+![Net Promoter Score (NPS)](/postimages/customerengagement/slide-2022-01.005.jpeg)
 -----------
 ###### Photo source: Interactive Powers
 

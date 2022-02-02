@@ -8,7 +8,7 @@ title = "Customer Satisfaction Score (CSAT)"
 image = "/postimages/customerengagement/slide-2022-01.001.jpeg"
 +++
 
-![training](/postimages/customerengagement/slide-2022-01.001.jpeg)
+![Customer Satisfaction Score (CSAT)](/postimages/customerengagement/slide-2022-01.001.jpeg)
 -----------
 ###### Photo source: Interactive Powers
 

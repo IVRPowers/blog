@@ -8,7 +8,7 @@ title = "First Call Resolution Score (FCR)"
 image = "/postimages/customerengagement/slide-2022-01.003.jpeg"
 +++
 
-![training](/postimages/customerengagement/slide-2022-01.003.jpeg)
+![First Call Resolution Score (FCR)](/postimages/customerengagement/slide-2022-01.003.jpeg)
 -----------
 ###### Photo source: Interactive Powers
 
