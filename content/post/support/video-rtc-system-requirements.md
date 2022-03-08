@@ -16,11 +16,11 @@ image = "/postimages/support/blogpost-ivrpowers.005.jpeg"
 
 ###	Operating System Requirements
 
-[Video RTC](https://www.ivrpowers.com/videortc/) platforms are designed to run over a Linux Debian 9.X x86_64 distribution. Please make a minimal Linux Debian installation from Internet, USB or CD / DVD. To download the Linux distribution installation iso file go to: https://www.debian.org 
+[Video RTC](https://www.ivrpowers.com/videortc/) platforms are designed to run over a Linux Debian 11.X x86_64 distribution. Please make a minimal Linux Debian installation from Internet, USB or CD / DVD. To download the Linux distribution installation iso file go to: https://www.debian.org 
 
 | Requirement | Description |
 |-----------|-----------|
-| Distribution | Linux Debian 9 |
+| Distribution | Linux Debian 9-11 |
 | Linux Kernel | x86_64 |
 | Cloud Ready | AWS, Google Cloud, Microsoft Azure |
 | Installer | Minimal Install |
