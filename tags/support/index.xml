@@ -55,8 +55,8 @@ Browser: Firefox 76 76.0 OS: Mac OS X 10.15 1.4.0 Chrome check: undefined Microp
       <pubDate>Sat, 11 Jan 2020 12:00:00 +0200</pubDate>
       
       <guid>https://blog.ivrpowers.com/post/support/video-rtc-system-requirements/</guid>
-      <description>Photo Source: Interactive Powers. Creative Commons What are the recommended Servers? Operating System Requirements Video RTC platforms are designed to run over a Linux Debian 9.X x86_64 distribution. Please make a minimal Linux Debian installation from Internet, USB or CD / DVD. To download the Linux distribution installation iso file go to: https://www.debian.org
-   Requirement  Description      Distribution Linux Debian 9    Linux Kernel x86_64   Cloud Ready AWS, Google Cloud, Microsoft Azure    Installer Minimal Install    Port / Channel Definition A port or channel is an aggregation of multiple software communication interfaces that creates a logical interface in a RTC service.</description>
+      <description>Photo Source: Interactive Powers. Creative Commons What are the recommended Servers? Operating System Requirements Video RTC platforms are designed to run over a Linux Debian 11.X x86_64 distribution. Please make a minimal Linux Debian installation from Internet, USB or CD / DVD. To download the Linux distribution installation iso file go to: https://www.debian.org
+   Requirement  Description      Distribution Linux Debian 9-11    Linux Kernel x86_64   Cloud Ready AWS, Google Cloud, Microsoft Azure    Installer Minimal Install    Port / Channel Definition A port or channel is an aggregation of multiple software communication interfaces that creates a logical interface in a RTC service.</description>
     </item>
     
     <item>
