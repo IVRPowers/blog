@@ -6,7 +6,29 @@
     <description>Recent content in ivr on Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 17 Nov 2021 00:12:00 +0200</lastBuildDate><atom:link href="https://blog.ivrpowers.com/tags/ivr/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 23 Mar 2022 00:20:00 +0200</lastBuildDate><atom:link href="https://blog.ivrpowers.com/tags/ivr/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Smart IVR v2.6</title>
+      <link>https://blog.ivrpowers.com/post/updates/update-voicexml-ivr-2.6.0/</link>
+      <pubDate>Wed, 23 Mar 2022 00:20:00 +0200</pubDate>
+      
+      <guid>https://blog.ivrpowers.com/post/updates/update-voicexml-ivr-2.6.0/</guid>
+      <description>Release Note We are pleased to announce that our new Smart IVR 2.6.0 has been released for suitable production services. This new version includes a lot of improvements and new features. All users with previous maintained versions can upgrade today. Please contact our support!
+ChangeLog Version 2.4:
+## [2.6.0] - 23-03-2022 ### Added - Hability to record the user speech during an ASR session ### Fixed - Applied patch to the speech_create Asterisk function to prevent crashes after lots of ASR sessions  Interactive Powers - Streamline your business communications</description>
+    </item>
+    
+    <item>
+      <title>Smart IVR v2.5</title>
+      <link>https://blog.ivrpowers.com/post/updates/update-voicexml-ivr-2.5.0/</link>
+      <pubDate>Mon, 29 Nov 2021 00:20:00 +0200</pubDate>
+      
+      <guid>https://blog.ivrpowers.com/post/updates/update-voicexml-ivr-2.5.0/</guid>
+      <description>Release Note We are pleased to announce that our new Smart IVR 2.5.0 has been released for suitable production services. This new version includes a lot of improvements and new features. All users with previous maintained versions can upgrade today. Please contact our support!
+ChangeLog Version 2.5:
+## [2.5.0] - 29-11-2021 ### Added - Support for recording the NLU user voice and retrieve its contents - Max duration option for the NLU interaction - PJSIP support ### Changed - Improved the NLU with Google for phrases where the user takes breaks between words - Improved NLU session cleanup - Improved the &amp;#34;voicexml hangup session&amp;#34; Asterisk command - Improved the output of the &amp;#34;voicexml show nlu&amp;#34; Asterisk command - Improved the behavior of the Asterisk module for the cases where the connection with the message queue is lost during a long time ### Fixed - The indexing of the output for the command &amp;#34;voicexml show statistics&amp;#34;  Interactive Powers - Streamline your business communications</description>
+    </item>
+    
     <item>
       <title>The Evolution of Business Communications</title>
       <link>https://blog.ivrpowers.com/post/marketing/the-evolution-of-business-communications/</link>
