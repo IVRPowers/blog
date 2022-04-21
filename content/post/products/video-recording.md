@@ -40,18 +40,18 @@ Format: 640x480 (2 peers)
 
 | Duration | LD <80 kbps | SD 128 kbps | HD >300 kbps |
 |-----------|-----------|-----------|-----------|
-| 1 min | 1,5 Mb | 2,5 Mb | 16 Mb |
-| 1 h (60 min) | 90 Mb | 150 Mb | 1 Gb |
-| 1 day (24 h) | 2,16 Gb | 3,6 Gb | 24 Gb |
-| 1 month (30 days) | 64,8 Gb | 108 Gb | 720 Gb |
+| 1 min | 1,5 MB | 2,5 MB | 16 MB |
+| 1 h (60 min) | 90 MB | 150 MB | 1 GB |
+| 1 day (24 h) | 2,16 GB | 3,6 GB | 24 GB |
+| 1 month (30 days) | 64,8 GB | 108 GB | 720 GB |
 
 ##	Storage Packs
 
 | Unit Pack | Size | Formats | RAW | SD | HD |
 |-----------|-----------|-----------|-----------|-----------|-----------|
-| RecStorage1 | 100 Gb, 500 Gb, 1 Tb | RAW, MP4 |◾️ | ◽️ | ◽️ | 
-| RecStorage2 | 100 Gb, 500 Gb, 1 Tb  | RAW, MP4 |◾️ | ◾️ | ◽️ | 
-| RecStorage3 | 100 Gb, 500 Gb, 1 Tb  | RAW, MP4 |◾️ | ◾️ | ◾️ | 
+| RecStorage1 | 100 GB, 500 GB, 1 TB | RAW, MP4 |◾️ | ◽️ | ◽️ | 
+| RecStorage2 | 100 GB, 500 GB, 1 TB  | RAW, MP4 |◾️ | ◾️ | ◽️ | 
+| RecStorage3 | 100 GB, 500 GB, 1 TB  | RAW, MP4 |◾️ | ◾️ | ◾️ | 
 
 To request any more storage capacity, please contact our Sales team.
 
