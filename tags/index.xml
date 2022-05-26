@@ -6,7 +6,43 @@
     <description>Recent content in Tags on Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 23 Mar 2022 00:20:00 +0200</lastBuildDate><atom:link href="https://blog.ivrpowers.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 24 May 2022 15:00:26 +0200</lastBuildDate><atom:link href="https://blog.ivrpowers.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>demo</title>
+      <link>https://blog.ivrpowers.com/tags/demo/</link>
+      <pubDate>Tue, 24 May 2022 15:00:26 +0200</pubDate>
+      
+      <guid>https://blog.ivrpowers.com/tags/demo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>genesys</title>
+      <link>https://blog.ivrpowers.com/tags/genesys/</link>
+      <pubDate>Tue, 24 May 2022 15:00:26 +0200</pubDate>
+      
+      <guid>https://blog.ivrpowers.com/tags/genesys/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>showroom</title>
+      <link>https://blog.ivrpowers.com/tags/showroom/</link>
+      <pubDate>Tue, 24 May 2022 15:00:26 +0200</pubDate>
+      
+      <guid>https://blog.ivrpowers.com/tags/showroom/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>videortc</title>
+      <link>https://blog.ivrpowers.com/tags/videortc/</link>
+      <pubDate>Tue, 24 May 2022 15:00:26 +0200</pubDate>
+      
+      <guid>https://blog.ivrpowers.com/tags/videortc/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>changelog</title>
       <link>https://blog.ivrpowers.com/tags/changelog/</link>
@@ -94,15 +130,6 @@
       <pubDate>Sun, 23 Jan 2022 18:00:01 +0200</pubDate>
       
       <guid>https://blog.ivrpowers.com/tags/custexp/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>videortc</title>
-      <link>https://blog.ivrpowers.com/tags/videortc/</link>
-      <pubDate>Sun, 23 Jan 2022 18:00:01 +0200</pubDate>
-      
-      <guid>https://blog.ivrpowers.com/tags/videortc/</guid>
       <description></description>
     </item>
     
@@ -1075,15 +1102,6 @@
       <pubDate>Wed, 04 Oct 2017 10:45:24 +0200</pubDate>
       
       <guid>https://blog.ivrpowers.com/tags/videoconference/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>showroom</title>
-      <link>https://blog.ivrpowers.com/tags/showroom/</link>
-      <pubDate>Thu, 28 Sep 2017 11:06:30 +0200</pubDate>
-      
-      <guid>https://blog.ivrpowers.com/tags/showroom/</guid>
       <description></description>
     </item>
     

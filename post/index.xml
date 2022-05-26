@@ -6,7 +6,7 @@
     <description>Recent content in Posts on Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 23 Mar 2022 00:20:00 +0200</lastBuildDate><atom:link href="https://blog.ivrpowers.com/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 24 May 2022 15:00:26 +0200</lastBuildDate><atom:link href="https://blog.ivrpowers.com/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Welcome to our New Blog!</title>
       <link>https://blog.ivrpowers.com/post/general/welcome-blog/</link>
@@ -37,13 +37,25 @@ Interactive Powers delivers communication platforms that enables advanced real-t
     </item>
     
     <item>
+      <title>Video RTC for Genesys</title>
+      <link>https://blog.ivrpowers.com/post/general/demo-center-video-rtc-for-genesys/</link>
+      <pubDate>Tue, 24 May 2022 15:00:26 +0200</pubDate>
+      
+      <guid>https://blog.ivrpowers.com/post/general/demo-center-video-rtc-for-genesys/</guid>
+      <description>Photo Source: Interactive Powers. Creative Commons Getting started&amp;hellip; Help Center is only available for Customers and Partners that are deploying or running our platforms, if you are not registred please contact our Sales Team to get all information and partnerships.
+Register and Login at: https://support.ivrpowers.com
+Frontend portal integrations:
+ Click-to-Video (Button) Scan-to-Video (Widget) Chat-to-Video (Live Chat)  Click-to-Video with responsive desktop/mobile widget Scan-to-Video with dynamic QR code integrated Chat-to-Video with Genesys Live Chat scalating Request your Live Demo Get in touch today and meet online one of our sales consultant or manager.</description>
+    </item>
+    
+    <item>
       <title>Smart IVR v2.6</title>
       <link>https://blog.ivrpowers.com/post/updates/update-voicexml-ivr-2.6.0/</link>
       <pubDate>Wed, 23 Mar 2022 00:20:00 +0200</pubDate>
       
       <guid>https://blog.ivrpowers.com/post/updates/update-voicexml-ivr-2.6.0/</guid>
       <description>Release Note We are pleased to announce that our new Smart IVR 2.6.0 has been released for suitable production services. This new version includes a lot of improvements and new features. All users with previous maintained versions can upgrade today. Please contact our support!
-ChangeLog Version 2.4:
+ChangeLog Version 2.6:
 ## [2.6.0] - 23-03-2022 ### Added - Hability to record the user speech during an ASR session ### Fixed - Applied patch to the speech_create Asterisk function to prevent crashes after lots of ASR sessions  Interactive Powers - Streamline your business communications</description>
     </item>
     

@@ -14,7 +14,7 @@
       
       <guid>https://blog.ivrpowers.com/post/updates/update-voicexml-ivr-2.6.0/</guid>
       <description>Release Note We are pleased to announce that our new Smart IVR 2.6.0 has been released for suitable production services. This new version includes a lot of improvements and new features. All users with previous maintained versions can upgrade today. Please contact our support!
-ChangeLog Version 2.4:
+ChangeLog Version 2.6:
 ## [2.6.0] - 23-03-2022 ### Added - Hability to record the user speech during an ASR session ### Fixed - Applied patch to the speech_create Asterisk function to prevent crashes after lots of ASR sessions  Interactive Powers - Streamline your business communications</description>
     </item>
     
