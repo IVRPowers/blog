@@ -1,10 +1,10 @@
 +++
 categories = ["support"]
 date = "2022-05-24T15:00:26+02:00"
-description = "Showroom / Demo Center"
+description = "Showroom"
 draft = false
 tags = ["demo","videortc","genesys","showroom"]
-title = "Video RTC for Genesys"
+title = "Video RTC for Genesys / Demo Center"
 image = "/postimages/general/Demo-Center-Features.011.jpeg"
 
 +++
@@ -15,9 +15,9 @@ image = "/postimages/general/Demo-Center-Features.011.jpeg"
 
 ##	Getting started...
 
-Help Center is only available for Customers and Partners that are deploying or running our platforms, if you are not registred please contact our Sales Team to get all information and partnerships. 
+Demo Center is only available for Customers and Partners that are deploying or running our platforms, if you are not registred please contact our Sales Team to get all information and partnerships. 
 
-Register and Login at: https://support.ivrpowers.com
+Register and Login at: https://demo.ivrpowers.com
 
 Frontend portal integrations:
 
@@ -49,7 +49,7 @@ Get ready to introduce yourself.
 * Are you a **Technology Partner**?
 * Are you a **End-Customer**?
 
-To contact our [Sales](https://www.ivrpowers.com/about-us/), you have to send a meeting request to schedule your online demo according to your business requirements. 
+To contact our [Sales](https://www.ivrpowers.com/about-us/), you have to send a meeting request to schedule your online demo according to your business and project's requirements. 
 
 ---
 [Interactive Powers](http://www.ivrpowers.com/) - Streamline your business communications
