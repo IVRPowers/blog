@@ -9,15 +9,15 @@ image = "/postimages/general/Demo-Center-Features.011.jpeg"
 
 +++
 
-![Demo Center Video RTC for Genesys](/postimages/general/Demo-Center-Features.011.jpeg)
+![Video RTC for Genesys - Demo Center](/postimages/general/Demo-Center-Features.011.jpeg)
 ------------
 ###### Photo Source: Interactive Powers. Creative Commons
 
 ##	Getting started...
 
-Demo Center is only available for Customers and Partners that are deploying or running our platforms, if you are not registred please contact our Sales Team to get all information and partnerships. 
+**Demo Center** is only available for Customers and Partners that are deploying or running our platforms, if you are not registred please contact our Sales Team to get all information and partnerships. 
 
-Register and Login at: https://demo.ivrpowers.com
+Ask for your Live Demo, register and login at: https://support.ivrpowers.com
 
 Frontend portal integrations:
 
@@ -25,18 +25,25 @@ Frontend portal integrations:
 2. **Scan-to-Video** (Widget)
 3. **Chat-to-Video** (Live Chat)
 
-##	Click-to-Video with responsive desktop/mobile widget
+##	Click-to-Video
 
-![Video RTC for Genesys Demo Center](/postimages/general/Demo-Center-Features.012.jpeg)
+**Click-to-Video** is powered by our responsive desktop/mobile widget. Generate a Video Call (SPLIT Forward) event and make Genesys distribution and queued call to your agents.
 
-##	Scan-to-Video with dynamic QR code integrated
+![Video RTC for Genesys - Click-to-Video](/postimages/general/Demo-Center-Features.012.jpeg)
 
-![Video RTC for Genesys QR](/postimages/general/Demo-Center-Features.013.jpeg)
+##	Scan-to-Video
 
-##	Chat-to-Video with Genesys Live Chat scalating
+**Scan-to-Video** with dynamic QR code widget. Generate Video Call (SPLIT Forward) from your mobile device using Genesys advanced call distribution and queueing with all your agents.
 
-![Video RTC for Genesys Live Chat](/postimages/general/Demo-Center-Features.014.jpeg)
+![Video RTC for Genesys - Scan-to-Video](/postimages/general/Demo-Center-Features.013.jpeg)
 
+##	Chat-to-Video
+
+**Chat-to-Video** with Genesys Live Chat or Web Messenger scalating. Generate Video Call (SPLIT Reverse) from Genesys agents to scale up your text or email asynchronous conversations.
+
+![Video RTC for Genesys - Live Chat](/postimages/general/Demo-Center-Features.014.jpeg)
+
+------------
 ##	Request your Live Demo
 
 Get in touch today and meet online one of our sales consultant or manager.
