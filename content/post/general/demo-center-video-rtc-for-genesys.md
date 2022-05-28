@@ -17,6 +17,17 @@ image = "/postimages/general/Demo-Center-Features.011.jpeg"
 
 **Demo Center** is only available for Customers and Partners that are deploying or running our platforms, if you are not registred please contact our Sales Team to get all information and partnerships. 
 
+Features:
+
+* Video & Voice Calling
+* Live Chat
+* File Sharing
+* Dual Screen Sharing
+* CoBrowsing
+* Snapshot
+* Flip Camera
+* QR Code
+
 Ask for your Live Demo, register and login at: https://support.ivrpowers.com
 
 Frontend portal integrations:
@@ -27,19 +38,19 @@ Frontend portal integrations:
 
 ##	Click-to-Video
 
-**Click-to-Video** is powered by our responsive desktop/mobile widget. Generate a Video Call (SPLIT Forward) event and make Genesys distribution and queued call to your agents.
+**Click-to-Video** is powered by our responsive desktop & mobile widgets. It makes a Video Call (SPLIT Forward) to Genesys with distribution and  enqueueing to your agents.
 
 ![Video RTC for Genesys - Click-to-Video](/postimages/general/Demo-Center-Features.012.jpeg)
 
 ##	Scan-to-Video
 
-**Scan-to-Video** with dynamic QR code widget. Generate Video Call (SPLIT Forward) from your mobile device using Genesys advanced call distribution and queueing with all your agents.
+**Scan-to-Video** is enabled by a dynamic QR code without any app. It makes a Video Call (SPLIT Forward) on your mobile device to Genesys call distribution to your agents.
 
 ![Video RTC for Genesys - Scan-to-Video](/postimages/general/Demo-Center-Features.013.jpeg)
 
 ##	Chat-to-Video
 
-**Chat-to-Video** with Genesys Live Chat or Web Messenger scalating. Generate Video Call (SPLIT Reverse) from Genesys agents to scale up your text or email asynchronous conversations.
+**Chat-to-Video** is running Genesys Live Chat / Web Messenger. Genesys agents can initiate a Video Call (SPLIT Reverse) to scale up any text or email asynchronous conversation.
 
 ![Video RTC for Genesys - Live Chat](/postimages/general/Demo-Center-Features.014.jpeg)
 
