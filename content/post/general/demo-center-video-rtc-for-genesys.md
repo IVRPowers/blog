@@ -26,6 +26,7 @@ Features:
 * CoBrowsing
 * Snapshot
 * Flip Camera
+* Video Recording
 * QR Code
 
 Ask for your Live Demo, register and login at: https://support.ivrpowers.com
