@@ -104,7 +104,7 @@
         },
         "datePublished": "2020-11-17",
         "dateModified": "2020-11-17",
-        "wordCount":  623 ,
+        "wordCount":  691 ,
         "keywords": "[\"support\",\"videortc\",\"rtc\",\"webrtc\",\"acd\"]" 
     }
     </script>
@@ -177,7 +177,7 @@ html{font-family:sans-serif;line-height:1.15;-ms-text-size-adjust:100%;-webkit-t
 
   			<header class="post-header">
   				<span class="post-meta">
-						<span class="post-date">17 Nov 2020</span> <span class="reading-time">| <span class="estimated-reading-time">3 min.</span> (<span class="word-count">623</span> words)</span></span>
+						<span class="post-date">17 Nov 2020</span> <span class="reading-time">| <span class="estimated-reading-time">4 min.</span> (<span class="word-count">691</span> words)</span></span>
   				</span>
   				<div class="clear"></div>
   				<h1 class="post-title">Network Connectivity Requirements</h1>
@@ -245,6 +245,37 @@ html{font-family:sans-serif;line-height:1.15;-ms-text-size-adjust:100%;-webkit-t
 </tbody>
 </table>
 <p>(1) RTP Media ports can be forwarded by STUN/TURN servers, to passthrough the router NAT (no recommended for Agents). If your network has a restrictive firewall you can avoid to set RTP ports range.</p>
+<h3 id="ice-firewall-rules-stunturn-servers">ICE Firewall Rules (STUN/TURN Servers)</h3>
+<table>
+<thead>
+<tr>
+<th>Destination IP</th>
+<th>Type</th>
+<th> Port Range</th>
+<th>Description</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>ICE</td>
+<td>TCP</td>
+<td>80</td>
+<td>HTTP - Web Access (Forwarded)</td>
+</tr>
+<tr>
+<td>ICE</td>
+<td>TCP</td>
+<td>443</td>
+<td>HTTPS - Secure Web Access</td>
+</tr>
+<tr>
+<td>ICE</td>
+<td>UDP</td>
+<td>19099 … 20099</td>
+<td>RTP Media</td>
+</tr>
+</tbody>
+</table>
 <h3 id="acd-firewall-rules-audio-streams">ACD Firewall Rules (Audio Streams)</h3>
 <table>
 <thead>
@@ -330,6 +361,37 @@ html{font-family:sans-serif;line-height:1.15;-ms-text-size-adjust:100%;-webkit-t
 </tbody>
 </table>
 <p>(3) RTP Media ports can be forwarded by STUN/TURN servers, to passthrough the router NAT. If your network has a restrictive firewall you can avoid to set RTP ports range.</p>
+<h3 id="ice-firewall-rules-stunturn-servers-1">ICE Firewall Rules (STUN/TURN Servers)</h3>
+<table>
+<thead>
+<tr>
+<th>Destination IP</th>
+<th>Type</th>
+<th> Port Range</th>
+<th>Description</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>ICE</td>
+<td>TCP</td>
+<td>80</td>
+<td>HTTP - Web Access (Forwarded)</td>
+</tr>
+<tr>
+<td>ICE</td>
+<td>TCP</td>
+<td>443</td>
+<td>HTTPS - Secure Web Access</td>
+</tr>
+<tr>
+<td>ICE</td>
+<td>UDP</td>
+<td>19099 … 20099</td>
+<td>RTP Media</td>
+</tr>
+</tbody>
+</table>
 <h1 id="network-bandwidth-requirements">Network Bandwidth Requirements</h1>
 <hr>
 <p>The following table lists the minimal network requirements to deliver reasonable audio and video quality.</p>
@@ -468,6 +530,7 @@ html{font-family:sans-serif;line-height:1.15;-ms-text-size-adjust:100%;-webkit-t
     <li>
       <ul>
         <li><a href="#rtc-firewall-rules-video-streams">RTC Firewall Rules (Video Streams)</a></li>
+        <li><a href="#ice-firewall-rules-stunturn-servers">ICE Firewall Rules (STUN/TURN Servers)</a></li>
         <li><a href="#acd-firewall-rules-audio-streams">ACD Firewall Rules (Audio Streams)</a></li>
       </ul>
     </li>
@@ -477,6 +540,7 @@ html{font-family:sans-serif;line-height:1.15;-ms-text-size-adjust:100%;-webkit-t
     <li>
       <ul>
         <li><a href="#rtc-firewall-rules-audio--video-streams">RTC Firewall Rules (Audio &amp; Video Streams)</a></li>
+        <li><a href="#ice-firewall-rules-stunturn-servers-1">ICE Firewall Rules (STUN/TURN Servers)</a></li>
       </ul>
     </li>
   </ul>
