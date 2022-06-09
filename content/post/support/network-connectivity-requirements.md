@@ -34,10 +34,10 @@ In a typical organization network setup, a firewall is used to protect the priva
 
 | Destination IP | Type | Port Range | Description |
 |-----------|-----------|-----------|-----------|
-| RTC | TCP | 80 | 	HTTP - Web Access (Forwarded) |
+| RTC | TCP | 80 | HTTP - Web Access (Forwarded) |
 | RTC | TCP | 443 | HTTPS - Secure Web Access |
-| RTC | TCP | 8989 | 	Websocket - Video GW (Recommended) |
-| RTC | TCP | 8089	 |  HTTPS-API - Video GW (Alternative) |
+| RTC | TCP | 8989 |  Websocket - Video GW (Recommended) |
+| RTC | TCP | 8089 |  HTTPS-API - Video GW (Alternative) |
 | RTC | UDP | 19099 … 20099 | RTP Media (Video) (1) |
 
 (1) RTP Media ports can be forwarded by STUN/TURN servers, to passthrough the router NAT (no recommended for Agents). If your network has a restrictive firewall you can avoid to set RTP ports range.
@@ -46,17 +46,17 @@ In a typical organization network setup, a firewall is used to protect the priva
 
 | Destination IP | Type | Port Range | Description |
 |-----------|-----------|-----------|-----------|
-| ICE | TCP | 80 | 	HTTP - Web Access (Forwarded) |
-| ICE | TCP | 443 | HTTPS - Secure Web Access |
+| ICE | TCP UDP | 80 | STUN/TURN |
+| ICE | TCP UDP | 443 | STUN/TURN (TLS) |
 | ICE | UDP | 19099 … 20099 | RTP Media |
 
 ###	ACD Firewall Rules (Audio Streams)
 
 | Destination IP | Type | Port Range | Description |
 |-----------|-----------|-----------|-----------|
-| ACD | TCP | 80 | 	HTTP - Web Access (Forwarded) |
+| ACD | TCP | 80 | HTTP - Web Access (Forwarded) |
 | ACD | TCP | 443 | HTTPS - Secure Web Access |
-| ACD | TCP | 8089	 | Websocket - Voice over IP (Required) |
+| ACD | TCP | 8089 | Websocket - Voice over IP (Required) |
 | ACD | UDP | 10000 … 20000 | RTP Media (Audio) (2) |
 
 (2) RTP Media ports can be forwarded by STUN/TURN servers, to passthrough the router NAT (no recommended for Agents). If your network has a restrictive firewall you can avoid to set RTP ports range.
@@ -81,8 +81,8 @@ In a typical organization network setup, a firewall is used to protect the priva
 
 | Destination IP | Type | Port Range | Description |
 |-----------|-----------|-----------|-----------|
-| ICE | TCP | 80 | 	HTTP - Web Access (Forwarded) |
-| ICE | TCP | 443 | HTTPS - Secure Web Access |
+| ICE | TCP UDP | 80 | STUN/TURN |
+| ICE | TCP UDP | 443 | STUN/TURN (TLS) |
 | ICE | UDP | 19099 … 20099 | RTP Media |
 
 #	Network Bandwidth Requirements
