@@ -44,7 +44,7 @@ Scan-to-Video from QR to any mobile device to quickly access to your video call.
 
 > This feature is available for all plans and new 5.x widgets.
 
-##	4. Video Ad (Waiting Queue)
+##	4. Video Ad (Waiting in Queue)
 
 Add interactive video advertisements in queue. You can show specific information with a video clip / picture / text message during the queueing process be attended by a video agent.
 
@@ -52,7 +52,7 @@ Add interactive video advertisements in queue. You can show specific information
 
 > This feature is available for all plans and new 5.x widgets.
 
-##	5. Back+ (Background Effects)
+##	5. Back + (Background Effects)
 
 Add professional video call backgrounds effects. You can select to add a simple blur or picture background to get a much more professional service and without any plugin. 
 

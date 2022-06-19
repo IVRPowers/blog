@@ -1,6 +1,6 @@
 +++
 categories = ["products"]
-date = "2020-08-08T9:00:00+02:00"
+date = "2022-06-17T21:00:00+02:00"
 description = "New Solution"
 draft = true
 tags = ["solution","rtc","business"]
@@ -14,7 +14,7 @@ image = "/postimages/products/meeting-point-brochure.001.jpeg"
 -------
 ###### Photo source: Interactive Powers Creative Commons
 
-#	Allow your Agents to make Simple, Private and Secure Multi-peers Video Meetings.
+#	Enable Agents to make Simple, Private and Secure Multi-peers Video Meetings.
 ---
 
  The **Cobrowsing** humanises the online sales and support experience, enabling your contact center agents to interact with your customers and assist them via a shared browser. Thanks to the use of the Cobrowsing, the communication becomes far more natural, effective, and efficient, bringing the customer-agent exchange closer to that of an in-store, in-person interaction.
