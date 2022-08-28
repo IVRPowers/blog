@@ -37,19 +37,19 @@ Frontend portal integrations:
 2. **Scan-to-Video** (Widget)
 3. **Chat-to-Video** (Live Chat)
 
-##	Click-to-Video
+##	1. Click-to-Video
 
 **Click-to-Video** is powered by our responsive desktop & mobile widgets. It enables to send Video Calls ([SPLIT Forward](https://blog.ivrpowers.com/post/technologies/what-is-split-forward/)) to Genesys with automatic call distribution (ACD) and enqueueing to your agents.
 
 ![Video RTC for Genesys - Click-to-Video](/postimages/general/Demo-Center-Features.012.jpeg)
 
-##	Scan-to-Video
+##	2. Scan-to-Video
 
 **Scan-to-Video** is enabled by a dynamic QR code without any app. It enables to send Video Calls ([SPLIT Forward](https://blog.ivrpowers.com/post/technologies/what-is-split-forward/)) on your mobile device to Genesys automatic call distribution (ACD) to your agents.
 
 ![Video RTC for Genesys - Scan-to-Video](/postimages/general/Demo-Center-Features.013.jpeg)
 
-##	Chat-to-Video
+##	3. Chat-to-Video
 
 **Chat-to-Video** is running Genesys Live Chat / Web Messenger. Genesys agents can initiate a Video Call ([SPLIT Reverse](https://blog.ivrpowers.com/post/technologies/what-is-split-reverse/)) using agent's extension to scale up any text or email conversation.
 
