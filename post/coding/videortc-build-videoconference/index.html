@@ -188,79 +188,78 @@ html{font-family:sans-serif;line-height:1.15;-ms-text-size-adjust:100%;-webkit-t
 <p>Today we bring you this interesting article on How to build your own videoconference service <strong>based on HTML5 technology by using our API Framework with VideoRTC.js.</strong></p>
 <h2 id="step-one-setting-up-the-basic-structure">Step one: Setting up the basic structure</h2>
 <p>As we have explained in <a href="http://blog.ivrpowers.com/post/coding/videortc-build-videocall/">previous posts,</a> first of all it is important that you include dependency within your project or web page.</p>
-<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-html" data-lang="html">&lt;<span style="color:#f92672">script</span> <span style="color:#a6e22e">type</span><span style="color:#f92672">=</span><span style="color:#e6db74">&#34;text/javascript&#34;</span> <span style="color:#a6e22e">src</span><span style="color:#f92672">=</span><span style="color:#e6db74">&#34;videortc.js&#34;</span>&gt;&lt;/<span style="color:#f92672">script</span>&gt;
-</code></pre></div><p>You can insert a minimized version if you prefer so:</p>
-<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-html" data-lang="html">&lt;<span style="color:#f92672">script</span> <span style="color:#a6e22e">type</span><span style="color:#f92672">=</span><span style="color:#e6db74">&#34;text/javascript&#34;</span> <span style="color:#a6e22e">src</span><span style="color:#f92672">=</span><span style="color:#e6db74">&#34;videortc.min.js&#34;</span>&gt;&lt;/<span style="color:#f92672">script</span>&gt;
-</code></pre></div><p>After the paths to the videoRTC library are configured in your *. js file, we connect with the video gateway server:</p>
-<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-javascript" data-lang="javascript"><span style="color:#66d9ef">var</span> <span style="color:#a6e22e">server</span> <span style="color:#f92672">=</span> [<span style="color:#e6db74">&#34;https://example.com:HTTPS_PORT/webrtc-gateway&#34;</span>];
-<span style="color:#66d9ef">var</span> <span style="color:#a6e22e">iceServers</span> <span style="color:#f92672">=</span> [];
-<span style="color:#66d9ef">var</span> <span style="color:#a6e22e">debugLevel</span> <span style="color:#f92672">=</span> <span style="color:#960050;background-color:#1e0010">“</span><span style="color:#a6e22e">error</span><span style="color:#960050;background-color:#1e0010">”</span>;
-
-<span style="color:#66d9ef">var</span> <span style="color:#a6e22e">myVideoApp</span> <span style="color:#f92672">=</span> <span style="color:#66d9ef">new</span> <span style="color:#a6e22e">VideoRTC</span>(<span style="color:#a6e22e">server</span>, <span style="color:#a6e22e">iceServers</span>, <span style="color:#a6e22e">debugLevel</span>);
-</code></pre></div><p>After connecting with the server, you must copy and paste the following JavaScript code in your development. It is the basic structure to start designing your videoconference service:</p>
-<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-javascript" data-lang="javascript"><span style="color:#66d9ef">var</span> <span style="color:#a6e22e">myVideoApp</span> <span style="color:#f92672">=</span> <span style="color:#66d9ef">new</span> <span style="color:#a6e22e">VideoRTC</span>(<span style="color:#a6e22e">server</span>, <span style="color:#a6e22e">iceServers</span>, <span style="color:#a6e22e">debugLevel</span>);
-
-   <span style="color:#66d9ef">var</span> <span style="color:#a6e22e">connection</span> <span style="color:#f92672">=</span> <span style="color:#a6e22e">myVideoApp</span>.<span style="color:#a6e22e">connect</span>()
-       .<span style="color:#a6e22e">then</span>(<span style="color:#66d9ef">function</span>(<span style="color:#a6e22e">usecases</span>) {
-           <span style="color:#75715e">// Use Cases (Classes)
-</span><span style="color:#75715e"></span>
-           <span style="color:#66d9ef">var</span> <span style="color:#a6e22e">onEvents</span> <span style="color:#f92672">=</span> {
-               <span style="color:#a6e22e">onCreated</span><span style="color:#f92672">:</span> <span style="color:#66d9ef">function</span>(<span style="color:#a6e22e">id</span>) {
-                    <span style="color:#75715e">// Created
-</span><span style="color:#75715e"></span>               },
-               <span style="color:#a6e22e">onJoined</span><span style="color:#f92672">:</span> <span style="color:#66d9ef">function</span>() {
-                    <span style="color:#75715e">// Joined
-</span><span style="color:#75715e"></span>               },
-               <span style="color:#a6e22e">onDestroyed</span><span style="color:#f92672">:</span> <span style="color:#66d9ef">function</span>() {
-                    <span style="color:#75715e">// Destroyed
-</span><span style="color:#75715e"></span>               },
-               <span style="color:#a6e22e">onPeerJoined</span><span style="color:#f92672">:</span> <span style="color:#66d9ef">function</span>(<span style="color:#a6e22e">id</span>, <span style="color:#a6e22e">display</span>) {
-                    <span style="color:#75715e">// Peer Joined
-</span><span style="color:#75715e"></span>               },
-               <span style="color:#a6e22e">onPeerLeft</span><span style="color:#f92672">:</span> <span style="color:#66d9ef">function</span>(<span style="color:#a6e22e">id</span>, <span style="color:#a6e22e">display</span>) {
-                    <span style="color:#75715e">// Peer Left
-</span><span style="color:#75715e"></span>               }
-           };
-
-           <span style="color:#66d9ef">var</span> <span style="color:#a6e22e">domElements</span> <span style="color:#f92672">=</span> {
-
-               <span style="color:#a6e22e">videos</span><span style="color:#f92672">:</span> document.<span style="color:#a6e22e">getElementById</span>(<span style="color:#e6db74">&#39;videortc-videos&#39;</span>)
-           };
-
-           <span style="color:#66d9ef">var</span> <span style="color:#a6e22e">options</span> <span style="color:#f92672">=</span> {
-               <span style="color:#a6e22e">stream</span><span style="color:#f92672">:</span> {
-                   <span style="color:#a6e22e">audioEnabled</span><span style="color:#f92672">:</span> <span style="color:#66d9ef">true</span>,
-                   <span style="color:#a6e22e">videoEnabled</span><span style="color:#f92672">:</span> <span style="color:#66d9ef">true</span>,
-                   <span style="color:#a6e22e">dataEnabled</span><span style="color:#f92672">:</span> <span style="color:#66d9ef">true</span>,
-                   <span style="color:#a6e22e">aDeviceId</span><span style="color:#f92672">:</span> <span style="color:#66d9ef">null</span>,
-                   <span style="color:#a6e22e">vDeviceId</span><span style="color:#f92672">:</span> <span style="color:#66d9ef">null</span>,
-                   <span style="color:#a6e22e">voiceProcessor</span><span style="color:#f92672">:</span> <span style="color:#66d9ef">false</span>
-               }
-           };
-
-           <span style="color:#a6e22e">usecases</span>.<span style="color:#a6e22e">videoRoom</span>(<span style="color:#a6e22e">onEvents</span>, <span style="color:#a6e22e">domElements</span>, <span style="color:#a6e22e">options</span>)
-               .<span style="color:#a6e22e">then</span>(<span style="color:#66d9ef">function</span>(<span style="color:#a6e22e">action</span>) {
-                   <span style="color:#75715e">// Use Case has been atacched succesfully
-</span><span style="color:#75715e"></span>
-               })
-               .<span style="color:#66d9ef">catch</span>(<span style="color:#66d9ef">function</span>(<span style="color:#a6e22e">cause</span>) {
-                   <span style="color:#75715e">// Error attaching the Use Case
-</span><span style="color:#75715e"></span>                  
-               });
-
-       })
-       .<span style="color:#66d9ef">catch</span>(<span style="color:#66d9ef">function</span>(<span style="color:#a6e22e">cause</span>) {
-
-       });
-
-});
-
-</code></pre></div><h2 id="step-2-registering-users-to-the-videoconference">Step 2: Registering users to the videoconference</h2>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-html" data-lang="html"><span style="display:flex;"><span>&lt;<span style="color:#f92672">script</span> <span style="color:#a6e22e">type</span><span style="color:#f92672">=</span><span style="color:#e6db74">&#34;text/javascript&#34;</span> <span style="color:#a6e22e">src</span><span style="color:#f92672">=</span><span style="color:#e6db74">&#34;videortc.js&#34;</span>&gt;&lt;/<span style="color:#f92672">script</span>&gt;
+</span></span></code></pre></div><p>You can insert a minimized version if you prefer so:</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-html" data-lang="html"><span style="display:flex;"><span>&lt;<span style="color:#f92672">script</span> <span style="color:#a6e22e">type</span><span style="color:#f92672">=</span><span style="color:#e6db74">&#34;text/javascript&#34;</span> <span style="color:#a6e22e">src</span><span style="color:#f92672">=</span><span style="color:#e6db74">&#34;videortc.min.js&#34;</span>&gt;&lt;/<span style="color:#f92672">script</span>&gt;
+</span></span></code></pre></div><p>After the paths to the videoRTC library are configured in your *. js file, we connect with the video gateway server:</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-javascript" data-lang="javascript"><span style="display:flex;"><span><span style="color:#66d9ef">var</span> <span style="color:#a6e22e">server</span> <span style="color:#f92672">=</span> [<span style="color:#e6db74">&#34;https://example.com:HTTPS_PORT/webrtc-gateway&#34;</span>];
+</span></span><span style="display:flex;"><span><span style="color:#66d9ef">var</span> <span style="color:#a6e22e">iceServers</span> <span style="color:#f92672">=</span> [];
+</span></span><span style="display:flex;"><span><span style="color:#66d9ef">var</span> <span style="color:#a6e22e">debugLevel</span> <span style="color:#f92672">=</span> <span style="color:#960050;background-color:#1e0010">“</span><span style="color:#a6e22e">error</span><span style="color:#960050;background-color:#1e0010">”</span>;
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span><span style="color:#66d9ef">var</span> <span style="color:#a6e22e">myVideoApp</span> <span style="color:#f92672">=</span> <span style="color:#66d9ef">new</span> <span style="color:#a6e22e">VideoRTC</span>(<span style="color:#a6e22e">server</span>, <span style="color:#a6e22e">iceServers</span>, <span style="color:#a6e22e">debugLevel</span>);
+</span></span></code></pre></div><p>After connecting with the server, you must copy and paste the following JavaScript code in your development. It is the basic structure to start designing your videoconference service:</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-javascript" data-lang="javascript"><span style="display:flex;"><span><span style="color:#66d9ef">var</span> <span style="color:#a6e22e">myVideoApp</span> <span style="color:#f92672">=</span> <span style="color:#66d9ef">new</span> <span style="color:#a6e22e">VideoRTC</span>(<span style="color:#a6e22e">server</span>, <span style="color:#a6e22e">iceServers</span>, <span style="color:#a6e22e">debugLevel</span>);
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span>   <span style="color:#66d9ef">var</span> <span style="color:#a6e22e">connection</span> <span style="color:#f92672">=</span> <span style="color:#a6e22e">myVideoApp</span>.<span style="color:#a6e22e">connect</span>()
+</span></span><span style="display:flex;"><span>       .<span style="color:#a6e22e">then</span>(<span style="color:#66d9ef">function</span>(<span style="color:#a6e22e">usecases</span>) {
+</span></span><span style="display:flex;"><span>           <span style="color:#75715e">// Use Cases (Classes)
+</span></span></span><span style="display:flex;"><span><span style="color:#75715e"></span>
+</span></span><span style="display:flex;"><span>           <span style="color:#66d9ef">var</span> <span style="color:#a6e22e">onEvents</span> <span style="color:#f92672">=</span> {
+</span></span><span style="display:flex;"><span>               <span style="color:#a6e22e">onCreated</span><span style="color:#f92672">:</span> <span style="color:#66d9ef">function</span>(<span style="color:#a6e22e">id</span>) {
+</span></span><span style="display:flex;"><span>                    <span style="color:#75715e">// Created
+</span></span></span><span style="display:flex;"><span><span style="color:#75715e"></span>               },
+</span></span><span style="display:flex;"><span>               <span style="color:#a6e22e">onJoined</span><span style="color:#f92672">:</span> <span style="color:#66d9ef">function</span>() {
+</span></span><span style="display:flex;"><span>                    <span style="color:#75715e">// Joined
+</span></span></span><span style="display:flex;"><span><span style="color:#75715e"></span>               },
+</span></span><span style="display:flex;"><span>               <span style="color:#a6e22e">onDestroyed</span><span style="color:#f92672">:</span> <span style="color:#66d9ef">function</span>() {
+</span></span><span style="display:flex;"><span>                    <span style="color:#75715e">// Destroyed
+</span></span></span><span style="display:flex;"><span><span style="color:#75715e"></span>               },
+</span></span><span style="display:flex;"><span>               <span style="color:#a6e22e">onPeerJoined</span><span style="color:#f92672">:</span> <span style="color:#66d9ef">function</span>(<span style="color:#a6e22e">id</span>, <span style="color:#a6e22e">display</span>) {
+</span></span><span style="display:flex;"><span>                    <span style="color:#75715e">// Peer Joined
+</span></span></span><span style="display:flex;"><span><span style="color:#75715e"></span>               },
+</span></span><span style="display:flex;"><span>               <span style="color:#a6e22e">onPeerLeft</span><span style="color:#f92672">:</span> <span style="color:#66d9ef">function</span>(<span style="color:#a6e22e">id</span>, <span style="color:#a6e22e">display</span>) {
+</span></span><span style="display:flex;"><span>                    <span style="color:#75715e">// Peer Left
+</span></span></span><span style="display:flex;"><span><span style="color:#75715e"></span>               }
+</span></span><span style="display:flex;"><span>           };
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span>           <span style="color:#66d9ef">var</span> <span style="color:#a6e22e">domElements</span> <span style="color:#f92672">=</span> {
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span>               <span style="color:#a6e22e">videos</span><span style="color:#f92672">:</span> document.<span style="color:#a6e22e">getElementById</span>(<span style="color:#e6db74">&#39;videortc-videos&#39;</span>)
+</span></span><span style="display:flex;"><span>           };
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span>           <span style="color:#66d9ef">var</span> <span style="color:#a6e22e">options</span> <span style="color:#f92672">=</span> {
+</span></span><span style="display:flex;"><span>               <span style="color:#a6e22e">stream</span><span style="color:#f92672">:</span> {
+</span></span><span style="display:flex;"><span>                   <span style="color:#a6e22e">audioEnabled</span><span style="color:#f92672">:</span> <span style="color:#66d9ef">true</span>,
+</span></span><span style="display:flex;"><span>                   <span style="color:#a6e22e">videoEnabled</span><span style="color:#f92672">:</span> <span style="color:#66d9ef">true</span>,
+</span></span><span style="display:flex;"><span>                   <span style="color:#a6e22e">dataEnabled</span><span style="color:#f92672">:</span> <span style="color:#66d9ef">true</span>,
+</span></span><span style="display:flex;"><span>                   <span style="color:#a6e22e">aDeviceId</span><span style="color:#f92672">:</span> <span style="color:#66d9ef">null</span>,
+</span></span><span style="display:flex;"><span>                   <span style="color:#a6e22e">vDeviceId</span><span style="color:#f92672">:</span> <span style="color:#66d9ef">null</span>,
+</span></span><span style="display:flex;"><span>                   <span style="color:#a6e22e">voiceProcessor</span><span style="color:#f92672">:</span> <span style="color:#66d9ef">false</span>
+</span></span><span style="display:flex;"><span>               }
+</span></span><span style="display:flex;"><span>           };
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span>           <span style="color:#a6e22e">usecases</span>.<span style="color:#a6e22e">videoRoom</span>(<span style="color:#a6e22e">onEvents</span>, <span style="color:#a6e22e">domElements</span>, <span style="color:#a6e22e">options</span>)
+</span></span><span style="display:flex;"><span>               .<span style="color:#a6e22e">then</span>(<span style="color:#66d9ef">function</span>(<span style="color:#a6e22e">action</span>) {
+</span></span><span style="display:flex;"><span>                   <span style="color:#75715e">// Use Case has been atacched succesfully
+</span></span></span><span style="display:flex;"><span><span style="color:#75715e"></span>
+</span></span><span style="display:flex;"><span>               })
+</span></span><span style="display:flex;"><span>               .<span style="color:#66d9ef">catch</span>(<span style="color:#66d9ef">function</span>(<span style="color:#a6e22e">cause</span>) {
+</span></span><span style="display:flex;"><span>                   <span style="color:#75715e">// Error attaching the Use Case
+</span></span></span><span style="display:flex;"><span><span style="color:#75715e"></span>                  
+</span></span><span style="display:flex;"><span>               });
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span>       })
+</span></span><span style="display:flex;"><span>       .<span style="color:#66d9ef">catch</span>(<span style="color:#66d9ef">function</span>(<span style="color:#a6e22e">cause</span>) {
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span>       });
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span>});
+</span></span></code></pre></div><h2 id="step-2-registering-users-to-the-videoconference">Step 2: Registering users to the videoconference</h2>
 <p>We already have the basic structure to personalize the application. In the following steps, we will add the data required within the method joinVideoroom() to set the videoroom.</p>
 <p>action.joinVideoroom(): -&gt; We should add our name in the method or the user identification , the VideoRoom Id and the Videoroom PIN to Join (Optional).</p>
 <p>For example:</p>
-<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-javascript" data-lang="javascript"><span style="color:#a6e22e">action</span>.<span style="color:#a6e22e">joinVideoroom</span>(<span style="color:#e6db74">&#39;Abraham&#39;</span>, <span style="color:#ae81ff">14586</span>, <span style="color:#e6db74">&#39;mypassword&#39;</span>);
-</code></pre></div><p>In this way, each registered user will be able to enter the videoconference room automatically. The room allows a maximum of six peers.</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-javascript" data-lang="javascript"><span style="display:flex;"><span><span style="color:#a6e22e">action</span>.<span style="color:#a6e22e">joinVideoroom</span>(<span style="color:#e6db74">&#39;Abraham&#39;</span>, <span style="color:#ae81ff">14586</span>, <span style="color:#e6db74">&#39;mypassword&#39;</span>);
+</span></span></code></pre></div><p>In this way, each registered user will be able to enter the videoconference room automatically. The room allows a maximum of six peers.</p>
 <p>After you finish this process, you can shape the design of the application by adding some CSS style.</p>
 <p>P.S: We recommend you to program a feature so that each user can add their name, and a button to access the room.</p>
 <p><img src="/postimages/coding/videoconference-ivrpowers.jpeg" alt="videoconference user"></p>

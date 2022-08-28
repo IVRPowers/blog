@@ -214,149 +214,149 @@ html{font-family:sans-serif;line-height:1.15;-ms-text-size-adjust:100%;-webkit-t
 <h2 id="development">Development.</h2>
 <p>For VideoRTC to work, you must add the basic event structure. We explained it above, but you can also find it in <a href="http://blog.ivrpowers.com/post/coding/videortc-build-mobile-app/">our blog.</a></p>
 <p>At this point, our app will look like this:</p>
-<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-typescript" data-lang="typescript"><span style="color:#66d9ef">export</span> <span style="color:#66d9ef">class</span> <span style="color:#a6e22e">My_App</span> {
-
-    <span style="color:#66d9ef">public</span> <span style="color:#a6e22e">my_videogateway</span>: <span style="color:#66d9ef">any</span> <span style="color:#f92672">=</span> <span style="color:#66d9ef">null</span>;
-    <span style="color:#a6e22e">server</span>:<span style="color:#66d9ef">any</span>  <span style="color:#f92672">=</span> [<span style="color:#e6db74">&#34;https://example.com:HTTPS_PORT/webrtc-gateway&#34;</span>];
-    <span style="color:#a6e22e">iceServers</span>:<span style="color:#66d9ef">any</span>  <span style="color:#f92672">=</span> [ ];
-    <span style="color:#a6e22e">debugLevel</span>:<span style="color:#66d9ef">any</span> <span style="color:#f92672">=</span> <span style="color:#960050;background-color:#1e0010">“</span><span style="color:#a6e22e">error</span><span style="color:#960050;background-color:#1e0010">”</span>;
-    
-    <span style="color:#66d9ef">constructor</span>(<span style="color:#66d9ef">public</span> <span style="color:#a6e22e">navCtrl</span>: <span style="color:#66d9ef">NavController</span>) {
-        <span style="color:#66d9ef">this</span>.<span style="color:#a6e22e">my_videogateway</span> <span style="color:#f92672">=</span> <span style="color:#66d9ef">new</span> <span style="color:#a6e22e">VideoRTC</span>(<span style="color:#66d9ef">this</span>.<span style="color:#a6e22e">server</span>, <span style="color:#66d9ef">this</span>.<span style="color:#a6e22e">iceServers</span>, <span style="color:#66d9ef">this</span>.<span style="color:#a6e22e">debugLevel</span>);
-    }
-}
-</code></pre></div><p>Next, we add the structure of events, which you can find it <a href="http://blog.ivrpowers.com/post/coding/videortc-build-mobile-app/">here,</a> and we put it inside a method. Doing so, after the user enters his name, the process will start by pressing a button. However, this is not a mandatory step.</p>
-<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-typescript" data-lang="typescript"><span style="color:#a6e22e">start() {</span>
-    <span style="color:#66d9ef">this</span>.<span style="color:#a6e22e">my_videogateway</span>.<span style="color:#a6e22e">connect</span>().<span style="color:#a6e22e">then</span>((<span style="color:#a6e22e">useCases</span>) <span style="color:#f92672">=&gt;</span> {
-
-        <span style="color:#66d9ef">this</span>.<span style="color:#a6e22e">useCases</span> <span style="color:#f92672">=</span> <span style="color:#a6e22e">useCases</span>;
-        <span style="color:#66d9ef">let</span> <span style="color:#a6e22e">onEvents</span> <span style="color:#f92672">=</span> {
-                <span style="color:#a6e22e">onAccepted</span><span style="color:#f92672">:</span>(<span style="color:#a6e22e">userName</span>) <span style="color:#f92672">=&gt;</span> {
-                <span style="color:#75715e">//It is executed when the call is accepted by a user;
-</span><span style="color:#75715e"></span>                },
-                <span style="color:#a6e22e">onCalling</span><span style="color:#f92672">:</span>(<span style="color:#a6e22e">userName</span>) <span style="color:#f92672">=&gt;</span> {
-                <span style="color:#75715e">//It is executed when It start calling a user.
-</span><span style="color:#75715e"></span>                },
-                <span style="color:#a6e22e">onDataReceived</span><span style="color:#f92672">:</span>(<span style="color:#66d9ef">type</span>, <span style="color:#a6e22e">data</span>, <span style="color:#a6e22e">filename</span>,<span style="color:#a6e22e">userName</span>) <span style="color:#f92672">=&gt;</span> {
-                <span style="color:#75715e">//It executes when information is received by the data channel.
-</span><span style="color:#75715e"></span>                },
-                <span style="color:#a6e22e">onGotPeers</span><span style="color:#f92672">:</span>(<span style="color:#a6e22e">list</span>) <span style="color:#f92672">=&gt;</span> {
-                <span style="color:#75715e">//It executes when the server responds to the request of .getPeers ();
-</span><span style="color:#75715e"></span>                },
-                <span style="color:#a6e22e">onHangUp</span><span style="color:#f92672">:</span>(<span style="color:#a6e22e">userName</span>, <span style="color:#a6e22e">reason</span>) <span style="color:#f92672">=&gt;</span> {
-                <span style="color:#75715e">//It is executed when a call is hung. (Decline)
-</span><span style="color:#75715e"></span>                },
-                <span style="color:#a6e22e">onIncomingCall</span><span style="color:#f92672">:</span>(<span style="color:#a6e22e">userName</span>) <span style="color:#f92672">=&gt;</span> {
-                <span style="color:#75715e">//It is executed when there is an incoming call.
-</span><span style="color:#75715e"></span>                },
-                <span style="color:#a6e22e">onRegistered</span><span style="color:#f92672">:</span> (<span style="color:#a6e22e">userName</span>, <span style="color:#a6e22e">isRegistered</span>) <span style="color:#f92672">=&gt;</span> {
-                <span style="color:#75715e">//It is executed when the server responds to the register() method;
-</span><span style="color:#75715e"></span>                },
-                <span style="color:#a6e22e">onSetCall</span><span style="color:#f92672">:</span>() <span style="color:#f92672">=&gt;</span> {
-                <span style="color:#75715e">//Set config Call
-</span><span style="color:#75715e"></span>                }
-        };
-        <span style="color:#66d9ef">var</span> <span style="color:#a6e22e">options</span> <span style="color:#f92672">=</span> { <span style="color:#75715e">//Optional
-</span><span style="color:#75715e"></span>            <span style="color:#a6e22e">dataChannel</span><span style="color:#f92672">:</span> {
-                <span style="color:#a6e22e">dataEnabled</span>: <span style="color:#66d9ef">true</span>,
-                <span style="color:#a6e22e">allowedTypes</span><span style="color:#f92672">:</span> [<span style="color:#e6db74">&#39;application/x-chat&#39;</span>, <span style="color:#e6db74">&#39;text-plain&#39;</span>, <span style="color:#e6db74">&#39;application/pdf&#39;</span>]
-            }
-        };
-        <span style="color:#66d9ef">let</span> <span style="color:#a6e22e">domElements</span> <span style="color:#f92672">=</span> {
-            <span style="color:#75715e">//HTML element where the video will be hosted.
-</span><span style="color:#75715e"></span>            <span style="color:#a6e22e">videos</span>: <span style="color:#66d9ef">document.getElementById</span>(<span style="color:#e6db74">&#39;videos&#39;</span>)
-        };
-        <span style="color:#a6e22e">useCases</span>.<span style="color:#a6e22e">videoCall</span>(<span style="color:#a6e22e">onEvents</span>, <span style="color:#a6e22e">domElements</span>,<span style="color:#a6e22e">options</span>)
-            .<span style="color:#a6e22e">then</span>((<span style="color:#a6e22e">action</span>) <span style="color:#f92672">=&gt;</span> {
-            <span style="color:#75715e">// Use Case has been atacched succesfully
-</span><span style="color:#75715e"></span>            })
-            .<span style="color:#66d9ef">catch</span>((<span style="color:#a6e22e">cause</span>) <span style="color:#f92672">=&gt;</span> {
-            <span style="color:#75715e">// Error attaching the Use Case
-</span><span style="color:#75715e"></span>            })
-    })
-    .<span style="color:#66d9ef">catch</span>((<span style="color:#a6e22e">cause</span>) <span style="color:#f92672">=&gt;</span> {
-        <span style="color:#a6e22e">console</span>.<span style="color:#a6e22e">log</span>(<span style="color:#e6db74">&#34;Error: &#34;</span> <span style="color:#f92672">+</span> <span style="color:#a6e22e">cause</span>)
-    })
-}
-</code></pre></div><h2 id="steps-to-set-up-your-video-conference">Steps to set up your video conference.</h2>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-typescript" data-lang="typescript"><span style="display:flex;"><span><span style="color:#66d9ef">export</span> <span style="color:#66d9ef">class</span> <span style="color:#a6e22e">My_App</span> {
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span>    <span style="color:#66d9ef">public</span> <span style="color:#a6e22e">my_videogateway</span>: <span style="color:#66d9ef">any</span> <span style="color:#f92672">=</span> <span style="color:#66d9ef">null</span>;
+</span></span><span style="display:flex;"><span>    <span style="color:#a6e22e">server</span>:<span style="color:#66d9ef">any</span>  <span style="color:#f92672">=</span> [<span style="color:#e6db74">&#34;https://example.com:HTTPS_PORT/webrtc-gateway&#34;</span>];
+</span></span><span style="display:flex;"><span>    <span style="color:#a6e22e">iceServers</span>:<span style="color:#66d9ef">any</span>  <span style="color:#f92672">=</span> [ ];
+</span></span><span style="display:flex;"><span>    <span style="color:#a6e22e">debugLevel</span>:<span style="color:#66d9ef">any</span> <span style="color:#f92672">=</span> <span style="color:#960050;background-color:#1e0010">“</span><span style="color:#a6e22e">error</span><span style="color:#960050;background-color:#1e0010">”</span>;
+</span></span><span style="display:flex;"><span>    
+</span></span><span style="display:flex;"><span>    <span style="color:#66d9ef">constructor</span>(<span style="color:#66d9ef">public</span> <span style="color:#a6e22e">navCtrl</span>: <span style="color:#66d9ef">NavController</span>) {
+</span></span><span style="display:flex;"><span>        <span style="color:#66d9ef">this</span>.<span style="color:#a6e22e">my_videogateway</span> <span style="color:#f92672">=</span> <span style="color:#66d9ef">new</span> <span style="color:#a6e22e">VideoRTC</span>(<span style="color:#66d9ef">this</span>.<span style="color:#a6e22e">server</span>, <span style="color:#66d9ef">this</span>.<span style="color:#a6e22e">iceServers</span>, <span style="color:#66d9ef">this</span>.<span style="color:#a6e22e">debugLevel</span>);
+</span></span><span style="display:flex;"><span>    }
+</span></span><span style="display:flex;"><span>}
+</span></span></code></pre></div><p>Next, we add the structure of events, which you can find it <a href="http://blog.ivrpowers.com/post/coding/videortc-build-mobile-app/">here,</a> and we put it inside a method. Doing so, after the user enters his name, the process will start by pressing a button. However, this is not a mandatory step.</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-typescript" data-lang="typescript"><span style="display:flex;"><span><span style="color:#a6e22e">start() {</span>
+</span></span><span style="display:flex;"><span>    <span style="color:#66d9ef">this</span>.<span style="color:#a6e22e">my_videogateway</span>.<span style="color:#a6e22e">connect</span>().<span style="color:#a6e22e">then</span>((<span style="color:#a6e22e">useCases</span>) <span style="color:#f92672">=&gt;</span> {
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span>        <span style="color:#66d9ef">this</span>.<span style="color:#a6e22e">useCases</span> <span style="color:#f92672">=</span> <span style="color:#a6e22e">useCases</span>;
+</span></span><span style="display:flex;"><span>        <span style="color:#66d9ef">let</span> <span style="color:#a6e22e">onEvents</span> <span style="color:#f92672">=</span> {
+</span></span><span style="display:flex;"><span>                <span style="color:#a6e22e">onAccepted</span><span style="color:#f92672">:</span>(<span style="color:#a6e22e">userName</span>) <span style="color:#f92672">=&gt;</span> {
+</span></span><span style="display:flex;"><span>                <span style="color:#75715e">//It is executed when the call is accepted by a user;
+</span></span></span><span style="display:flex;"><span><span style="color:#75715e"></span>                },
+</span></span><span style="display:flex;"><span>                <span style="color:#a6e22e">onCalling</span><span style="color:#f92672">:</span>(<span style="color:#a6e22e">userName</span>) <span style="color:#f92672">=&gt;</span> {
+</span></span><span style="display:flex;"><span>                <span style="color:#75715e">//It is executed when It start calling a user.
+</span></span></span><span style="display:flex;"><span><span style="color:#75715e"></span>                },
+</span></span><span style="display:flex;"><span>                <span style="color:#a6e22e">onDataReceived</span><span style="color:#f92672">:</span>(<span style="color:#66d9ef">type</span>, <span style="color:#a6e22e">data</span>, <span style="color:#a6e22e">filename</span>,<span style="color:#a6e22e">userName</span>) <span style="color:#f92672">=&gt;</span> {
+</span></span><span style="display:flex;"><span>                <span style="color:#75715e">//It executes when information is received by the data channel.
+</span></span></span><span style="display:flex;"><span><span style="color:#75715e"></span>                },
+</span></span><span style="display:flex;"><span>                <span style="color:#a6e22e">onGotPeers</span><span style="color:#f92672">:</span>(<span style="color:#a6e22e">list</span>) <span style="color:#f92672">=&gt;</span> {
+</span></span><span style="display:flex;"><span>                <span style="color:#75715e">//It executes when the server responds to the request of .getPeers ();
+</span></span></span><span style="display:flex;"><span><span style="color:#75715e"></span>                },
+</span></span><span style="display:flex;"><span>                <span style="color:#a6e22e">onHangUp</span><span style="color:#f92672">:</span>(<span style="color:#a6e22e">userName</span>, <span style="color:#a6e22e">reason</span>) <span style="color:#f92672">=&gt;</span> {
+</span></span><span style="display:flex;"><span>                <span style="color:#75715e">//It is executed when a call is hung. (Decline)
+</span></span></span><span style="display:flex;"><span><span style="color:#75715e"></span>                },
+</span></span><span style="display:flex;"><span>                <span style="color:#a6e22e">onIncomingCall</span><span style="color:#f92672">:</span>(<span style="color:#a6e22e">userName</span>) <span style="color:#f92672">=&gt;</span> {
+</span></span><span style="display:flex;"><span>                <span style="color:#75715e">//It is executed when there is an incoming call.
+</span></span></span><span style="display:flex;"><span><span style="color:#75715e"></span>                },
+</span></span><span style="display:flex;"><span>                <span style="color:#a6e22e">onRegistered</span><span style="color:#f92672">:</span> (<span style="color:#a6e22e">userName</span>, <span style="color:#a6e22e">isRegistered</span>) <span style="color:#f92672">=&gt;</span> {
+</span></span><span style="display:flex;"><span>                <span style="color:#75715e">//It is executed when the server responds to the register() method;
+</span></span></span><span style="display:flex;"><span><span style="color:#75715e"></span>                },
+</span></span><span style="display:flex;"><span>                <span style="color:#a6e22e">onSetCall</span><span style="color:#f92672">:</span>() <span style="color:#f92672">=&gt;</span> {
+</span></span><span style="display:flex;"><span>                <span style="color:#75715e">//Set config Call
+</span></span></span><span style="display:flex;"><span><span style="color:#75715e"></span>                }
+</span></span><span style="display:flex;"><span>        };
+</span></span><span style="display:flex;"><span>        <span style="color:#66d9ef">var</span> <span style="color:#a6e22e">options</span> <span style="color:#f92672">=</span> { <span style="color:#75715e">//Optional
+</span></span></span><span style="display:flex;"><span><span style="color:#75715e"></span>            <span style="color:#a6e22e">dataChannel</span><span style="color:#f92672">:</span> {
+</span></span><span style="display:flex;"><span>                <span style="color:#a6e22e">dataEnabled</span>: <span style="color:#66d9ef">true</span>,
+</span></span><span style="display:flex;"><span>                <span style="color:#a6e22e">allowedTypes</span><span style="color:#f92672">:</span> [<span style="color:#e6db74">&#39;application/x-chat&#39;</span>, <span style="color:#e6db74">&#39;text-plain&#39;</span>, <span style="color:#e6db74">&#39;application/pdf&#39;</span>]
+</span></span><span style="display:flex;"><span>            }
+</span></span><span style="display:flex;"><span>        };
+</span></span><span style="display:flex;"><span>        <span style="color:#66d9ef">let</span> <span style="color:#a6e22e">domElements</span> <span style="color:#f92672">=</span> {
+</span></span><span style="display:flex;"><span>            <span style="color:#75715e">//HTML element where the video will be hosted.
+</span></span></span><span style="display:flex;"><span><span style="color:#75715e"></span>            <span style="color:#a6e22e">videos</span>: <span style="color:#66d9ef">document.getElementById</span>(<span style="color:#e6db74">&#39;videos&#39;</span>)
+</span></span><span style="display:flex;"><span>        };
+</span></span><span style="display:flex;"><span>        <span style="color:#a6e22e">useCases</span>.<span style="color:#a6e22e">videoCall</span>(<span style="color:#a6e22e">onEvents</span>, <span style="color:#a6e22e">domElements</span>,<span style="color:#a6e22e">options</span>)
+</span></span><span style="display:flex;"><span>            .<span style="color:#a6e22e">then</span>((<span style="color:#a6e22e">action</span>) <span style="color:#f92672">=&gt;</span> {
+</span></span><span style="display:flex;"><span>            <span style="color:#75715e">// Use Case has been atacched succesfully
+</span></span></span><span style="display:flex;"><span><span style="color:#75715e"></span>            })
+</span></span><span style="display:flex;"><span>            .<span style="color:#66d9ef">catch</span>((<span style="color:#a6e22e">cause</span>) <span style="color:#f92672">=&gt;</span> {
+</span></span><span style="display:flex;"><span>            <span style="color:#75715e">// Error attaching the Use Case
+</span></span></span><span style="display:flex;"><span><span style="color:#75715e"></span>            })
+</span></span><span style="display:flex;"><span>    })
+</span></span><span style="display:flex;"><span>    .<span style="color:#66d9ef">catch</span>((<span style="color:#a6e22e">cause</span>) <span style="color:#f92672">=&gt;</span> {
+</span></span><span style="display:flex;"><span>        <span style="color:#a6e22e">console</span>.<span style="color:#a6e22e">log</span>(<span style="color:#e6db74">&#34;Error: &#34;</span> <span style="color:#f92672">+</span> <span style="color:#a6e22e">cause</span>)
+</span></span><span style="display:flex;"><span>    })
+</span></span><span style="display:flex;"><span>}
+</span></span></code></pre></div><h2 id="steps-to-set-up-your-video-conference">Steps to set up your video conference.</h2>
 <h3 id="1-user-registration">1) User registration.</h3>
 <p>Firstly, user must be registered in the server. You have to add the user name as follows:</p>
-<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-typescript" data-lang="typescript"><span style="color:#a6e22e">action</span>.<span style="color:#a6e22e">register</span>(<span style="color:#a6e22e">userName</span>);
-</code></pre></div><p>Take into account that a very same user can not be registered twice.</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-typescript" data-lang="typescript"><span style="display:flex;"><span><span style="color:#a6e22e">action</span>.<span style="color:#a6e22e">register</span>(<span style="color:#a6e22e">userName</span>);
+</span></span></code></pre></div><p>Take into account that a very same user can not be registered twice.</p>
 <h3 id="2-how-to-obtain-registered-users-list-to-establish-a-call">2) How to obtain registered users’ list to establish a call.</h3>
 <p>After this step, the user is also registered in the video gateway server. In order to establish a call, it is necessary to know the registered users. We must use the event <strong>onGotPeers</strong> and with an array, we read and save the data. Look at the example:</p>
-<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-typescript" data-lang="typescript"><span style="color:#a6e22e">onGotPeers</span><span style="color:#f92672">:</span>(<span style="color:#a6e22e">list</span>) <span style="color:#f92672">=&gt;</span> {
-    <span style="color:#66d9ef">for</span> (<span style="color:#66d9ef">var</span> <span style="color:#a6e22e">i</span> <span style="color:#f92672">=</span> <span style="color:#ae81ff">0</span>; <span style="color:#a6e22e">i</span>&lt;<span style="color:#f92672">list.length</span><span style="color:#960050;background-color:#1e0010">;</span> <span style="color:#a6e22e">i</span><span style="color:#960050;background-color:#1e0010">++)</span> {
-        <span style="color:#a6e22e">this.users.push</span><span style="color:#960050;background-color:#1e0010">(</span><span style="color:#a6e22e">list</span><span style="color:#960050;background-color:#1e0010">[</span><span style="color:#a6e22e">i</span><span style="color:#960050;background-color:#1e0010">])</span>
-    }
-}
-</code></pre></div><p>Then, we use this method to call:</p>
-<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-typescript" data-lang="typescript"><span style="color:#a6e22e">action</span>.<span style="color:#a6e22e">getPeers</span>();
-</code></pre></div><h3 id="3-establishing-a-call-between-two-users">3) Establishing a call between two users.</h3>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-typescript" data-lang="typescript"><span style="display:flex;"><span><span style="color:#a6e22e">onGotPeers</span><span style="color:#f92672">:</span>(<span style="color:#a6e22e">list</span>) <span style="color:#f92672">=&gt;</span> {
+</span></span><span style="display:flex;"><span>    <span style="color:#66d9ef">for</span> (<span style="color:#66d9ef">var</span> <span style="color:#a6e22e">i</span> <span style="color:#f92672">=</span> <span style="color:#ae81ff">0</span>; <span style="color:#a6e22e">i</span>&lt;<span style="color:#f92672">list.length</span><span style="color:#960050;background-color:#1e0010">;</span> <span style="color:#a6e22e">i</span><span style="color:#960050;background-color:#1e0010">++)</span> {
+</span></span><span style="display:flex;"><span>        <span style="color:#a6e22e">this.users.push</span><span style="color:#960050;background-color:#1e0010">(</span><span style="color:#a6e22e">list</span><span style="color:#960050;background-color:#1e0010">[</span><span style="color:#a6e22e">i</span><span style="color:#960050;background-color:#1e0010">])</span>
+</span></span><span style="display:flex;"><span>    }
+</span></span><span style="display:flex;"><span>}
+</span></span></code></pre></div><p>Then, we use this method to call:</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-typescript" data-lang="typescript"><span style="display:flex;"><span><span style="color:#a6e22e">action</span>.<span style="color:#a6e22e">getPeers</span>();
+</span></span></code></pre></div><h3 id="3-establishing-a-call-between-two-users">3) Establishing a call between two users.</h3>
 <p>Once we know the list of users, we can call a user using the <strong>call()</strong> method. We will explain below how you can create a user list in HTML.</p>
-<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-typescript" data-lang="typescript"><span style="color:#a6e22e">callDoUser</span>(<span style="color:#a6e22e">item</span>) {
-    <span style="color:#66d9ef">this</span>.<span style="color:#a6e22e">actions</span>.<span style="color:#a6e22e">call</span>(<span style="color:#a6e22e">item</span>);
-}
-</code></pre></div><h3 id="4-accepting-and-rejecting-calls">4) Accepting and rejecting calls.</h3>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-typescript" data-lang="typescript"><span style="display:flex;"><span><span style="color:#a6e22e">callDoUser</span>(<span style="color:#a6e22e">item</span>) {
+</span></span><span style="display:flex;"><span>    <span style="color:#66d9ef">this</span>.<span style="color:#a6e22e">actions</span>.<span style="color:#a6e22e">call</span>(<span style="color:#a6e22e">item</span>);
+</span></span><span style="display:flex;"><span>}
+</span></span></code></pre></div><h3 id="4-accepting-and-rejecting-calls">4) Accepting and rejecting calls.</h3>
 <p>In the <strong>onIncomingCall</strong> you must write the code to incorporate the buttons that will allow you to hang up and accept the call. We recommend you to use alerts included in the very same Ionic code. If so, you should add them in the methods.</p>
-<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-typescript" data-lang="typescript"><span style="color:#a6e22e">onIncomingCall</span><span style="color:#f92672">:</span>(<span style="color:#a6e22e">userName</span>) <span style="color:#f92672">=&gt;</span> {
-   <span style="color:#66d9ef">let</span> <span style="color:#a6e22e">confirm</span> <span style="color:#f92672">=</span> <span style="color:#66d9ef">this</span>.<span style="color:#a6e22e">alertCtrl</span>.<span style="color:#a6e22e">create</span>({
-            <span style="color:#a6e22e">title</span><span style="color:#f92672">:</span> <span style="color:#e6db74">&#34;Incoming Call: &#34;</span> <span style="color:#f92672">+</span> <span style="color:#a6e22e">userName</span>,
-            <span style="color:#a6e22e">message</span><span style="color:#f92672">:</span> <span style="color:#e6db74">&#39;Do you accept to call?&#39;</span>,
-            <span style="color:#a6e22e">buttons</span><span style="color:#f92672">:</span> [
-                {
-                    <span style="color:#a6e22e">text</span><span style="color:#f92672">:</span> <span style="color:#e6db74">&#39;Decline&#39;</span>,
-                        <span style="color:#a6e22e">handler</span><span style="color:#f92672">:</span> () <span style="color:#f92672">=&gt;</span> {
-                            <span style="color:#66d9ef">this</span>.<span style="color:#a6e22e">actions</span>.<span style="color:#a6e22e">hangUp</span>();
-                        }
-                },
-                {
-                    <span style="color:#a6e22e">text</span><span style="color:#f92672">:</span> <span style="color:#e6db74">&#39;Accept&#39;</span>,
-                        <span style="color:#a6e22e">handler</span><span style="color:#f92672">:</span> () <span style="color:#f92672">=&gt;</span> {
-                            <span style="color:#66d9ef">this</span>.<span style="color:#a6e22e">actions</span>.<span style="color:#a6e22e">acceptCall</span>();   
-                        }
-                }
-            ]
-        });
-    <span style="color:#a6e22e">confirm</span>.<span style="color:#a6e22e">present</span>();
-}
-</code></pre></div><p>You can customize a message for the person who makes the call, by using the <strong>onCalling</strong> method. The code will be executed when calling.</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-typescript" data-lang="typescript"><span style="display:flex;"><span><span style="color:#a6e22e">onIncomingCall</span><span style="color:#f92672">:</span>(<span style="color:#a6e22e">userName</span>) <span style="color:#f92672">=&gt;</span> {
+</span></span><span style="display:flex;"><span>   <span style="color:#66d9ef">let</span> <span style="color:#a6e22e">confirm</span> <span style="color:#f92672">=</span> <span style="color:#66d9ef">this</span>.<span style="color:#a6e22e">alertCtrl</span>.<span style="color:#a6e22e">create</span>({
+</span></span><span style="display:flex;"><span>            <span style="color:#a6e22e">title</span><span style="color:#f92672">:</span> <span style="color:#e6db74">&#34;Incoming Call: &#34;</span> <span style="color:#f92672">+</span> <span style="color:#a6e22e">userName</span>,
+</span></span><span style="display:flex;"><span>            <span style="color:#a6e22e">message</span><span style="color:#f92672">:</span> <span style="color:#e6db74">&#39;Do you accept to call?&#39;</span>,
+</span></span><span style="display:flex;"><span>            <span style="color:#a6e22e">buttons</span><span style="color:#f92672">:</span> [
+</span></span><span style="display:flex;"><span>                {
+</span></span><span style="display:flex;"><span>                    <span style="color:#a6e22e">text</span><span style="color:#f92672">:</span> <span style="color:#e6db74">&#39;Decline&#39;</span>,
+</span></span><span style="display:flex;"><span>                        <span style="color:#a6e22e">handler</span><span style="color:#f92672">:</span> () <span style="color:#f92672">=&gt;</span> {
+</span></span><span style="display:flex;"><span>                            <span style="color:#66d9ef">this</span>.<span style="color:#a6e22e">actions</span>.<span style="color:#a6e22e">hangUp</span>();
+</span></span><span style="display:flex;"><span>                        }
+</span></span><span style="display:flex;"><span>                },
+</span></span><span style="display:flex;"><span>                {
+</span></span><span style="display:flex;"><span>                    <span style="color:#a6e22e">text</span><span style="color:#f92672">:</span> <span style="color:#e6db74">&#39;Accept&#39;</span>,
+</span></span><span style="display:flex;"><span>                        <span style="color:#a6e22e">handler</span><span style="color:#f92672">:</span> () <span style="color:#f92672">=&gt;</span> {
+</span></span><span style="display:flex;"><span>                            <span style="color:#66d9ef">this</span>.<span style="color:#a6e22e">actions</span>.<span style="color:#a6e22e">acceptCall</span>();   
+</span></span><span style="display:flex;"><span>                        }
+</span></span><span style="display:flex;"><span>                }
+</span></span><span style="display:flex;"><span>            ]
+</span></span><span style="display:flex;"><span>        });
+</span></span><span style="display:flex;"><span>    <span style="color:#a6e22e">confirm</span>.<span style="color:#a6e22e">present</span>();
+</span></span><span style="display:flex;"><span>}
+</span></span></code></pre></div><p>You can customize a message for the person who makes the call, by using the <strong>onCalling</strong> method. The code will be executed when calling.</p>
 <h3 id="5-showing-the-video">5) Showing the video.</h3>
 <p>When the user accepts the call, the onAccepted event is activated. If you use the same view for all the elements of your app, you must include the code to hide the other elements. In this way, only the video will be displayed.</p>
-<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-typescript" data-lang="typescript"><span style="color:#a6e22e">onAccepted</span><span style="color:#f92672">:</span>(<span style="color:#a6e22e">userName</span>) <span style="color:#f92672">=&gt;</span> {
-<span style="color:#75715e">//It is executed when the call is accepted by a user;
-</span><span style="color:#75715e"></span>    <span style="color:#66d9ef">this</span>.<span style="color:#a6e22e">video</span> <span style="color:#f92672">=</span> <span style="color:#66d9ef">false</span>;
-}
-</code></pre></div><p>The video variable refers to the HTML element of the video. This is the Type Script part.</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-typescript" data-lang="typescript"><span style="display:flex;"><span><span style="color:#a6e22e">onAccepted</span><span style="color:#f92672">:</span>(<span style="color:#a6e22e">userName</span>) <span style="color:#f92672">=&gt;</span> {
+</span></span><span style="display:flex;"><span><span style="color:#75715e">//It is executed when the call is accepted by a user;
+</span></span></span><span style="display:flex;"><span><span style="color:#75715e"></span>    <span style="color:#66d9ef">this</span>.<span style="color:#a6e22e">video</span> <span style="color:#f92672">=</span> <span style="color:#66d9ef">false</span>;
+</span></span><span style="display:flex;"><span>}
+</span></span></code></pre></div><p>The video variable refers to the HTML element of the video. This is the Type Script part.</p>
 <p>Next, we explain the HTML elements.</p>
 <h2 id="start-the-app">Start the app.</h2>
 <p>As we stated above, the code enables to start a call by pressing a button after the user adds his/her name. It is a simple process. We just added the click of the <strong>start()</strong> method.</p>
-<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-typescript" data-lang="typescript">&lt;<span style="color:#f92672">button</span> <span style="color:#a6e22e">ion</span><span style="color:#960050;background-color:#1e0010">-</span><span style="color:#a6e22e">button</span> <span style="color:#a6e22e">color</span><span style="color:#f92672">=</span><span style="color:#e6db74">&#34;dark&#34;</span> <span style="color:#a6e22e">padding</span> <span style="color:#a6e22e">text</span><span style="color:#960050;background-color:#1e0010">-</span><span style="color:#a6e22e">center</span> <span style="color:#960050;background-color:#1e0010">(</span><span style="color:#a6e22e">click</span><span style="color:#960050;background-color:#1e0010">)=&#34;</span><span style="color:#a6e22e">start</span><span style="color:#960050;background-color:#1e0010">()&#34;</span>&gt;
-    <span style="color:#a6e22e">Get</span> <span style="color:#a6e22e">Started</span>
-&lt;/<span style="color:#f92672">button</span>&gt;
-</code></pre></div><h2 id="how-to-get-the-user-list">How to get the user list.</h2>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-typescript" data-lang="typescript"><span style="display:flex;"><span>&lt;<span style="color:#f92672">button</span> <span style="color:#a6e22e">ion</span><span style="color:#960050;background-color:#1e0010">-</span><span style="color:#a6e22e">button</span> <span style="color:#a6e22e">color</span><span style="color:#f92672">=</span><span style="color:#e6db74">&#34;dark&#34;</span> <span style="color:#a6e22e">padding</span> <span style="color:#a6e22e">text</span><span style="color:#960050;background-color:#1e0010">-</span><span style="color:#a6e22e">center</span> <span style="color:#960050;background-color:#1e0010">(</span><span style="color:#a6e22e">click</span><span style="color:#960050;background-color:#1e0010">)=&#34;</span><span style="color:#a6e22e">start</span><span style="color:#960050;background-color:#1e0010">()&#34;</span>&gt;
+</span></span><span style="display:flex;"><span>    <span style="color:#a6e22e">Get</span> <span style="color:#a6e22e">Started</span>
+</span></span><span style="display:flex;"><span>&lt;/<span style="color:#f92672">button</span>&gt;
+</span></span></code></pre></div><h2 id="how-to-get-the-user-list">How to get the user list.</h2>
 <p>Once we have the method in the Type Script code, we add its corresponding function in HTML.</p>
-<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-typescript" data-lang="typescript">&lt;<span style="color:#f92672">ion</span><span style="color:#960050;background-color:#1e0010">-</span><span style="color:#a6e22e">list</span> <span style="color:#a6e22e">padding</span> <span style="color:#a6e22e">lines</span>&gt;
-    &lt;<span style="color:#f92672">button</span>  <span style="color:#a6e22e">ion</span><span style="color:#960050;background-color:#1e0010">-</span><span style="color:#a6e22e">button</span> <span style="color:#a6e22e">block</span> <span style="color:#a6e22e">outline</span> <span style="color:#a6e22e">padding</span> <span style="color:#a6e22e">text</span><span style="color:#960050;background-color:#1e0010">-</span><span style="color:#a6e22e">center</span> <span style="color:#960050;background-color:#1e0010">(</span><span style="color:#a6e22e">click</span><span style="color:#960050;background-color:#1e0010">)=&#34;</span><span style="color:#a6e22e">showPeers</span><span style="color:#960050;background-color:#1e0010">()&#34;</span>&gt;
-        <span style="color:#a6e22e">It</span> <span style="color:#a6e22e">show</span> <span style="color:#a6e22e">peers</span> <span style="color:#a6e22e">connect</span> <span style="color:#a6e22e">to</span> <span style="color:#a6e22e">call</span>
-    &lt;/<span style="color:#f92672">button</span>&gt;
-    &lt;<span style="color:#f92672">ion</span><span style="color:#960050;background-color:#1e0010">-</span><span style="color:#a6e22e">item</span>  <span style="color:#a6e22e">padding</span> <span style="color:#960050;background-color:#1e0010">(</span><span style="color:#a6e22e">click</span><span style="color:#960050;background-color:#1e0010">)=&#34;</span><span style="color:#a6e22e">callDoUser</span><span style="color:#960050;background-color:#1e0010">(</span><span style="color:#a6e22e">item</span><span style="color:#960050;background-color:#1e0010">)&#34;</span> <span style="color:#960050;background-color:#1e0010">*</span><span style="color:#a6e22e">ngFor</span><span style="color:#f92672">=</span><span style="color:#e6db74">&#34;let item of users&#34;</span>  &gt;
-        &lt;<span style="color:#f92672">span</span>  <span style="color:#960050;background-color:#1e0010">*</span><span style="color:#a6e22e">ngIf</span><span style="color:#f92672">=</span><span style="color:#e6db74">&#34;item != userName&#34;</span>&gt;
-            &lt;<span style="color:#f92672">ion</span><span style="color:#960050;background-color:#1e0010">-</span><span style="color:#a6e22e">icon</span> <span style="color:#a6e22e">class</span><span style="color:#f92672">=</span><span style="color:#e6db74">&#34;color-call&#34;</span> <span style="color:#a6e22e">name</span><span style="color:#f92672">=</span><span style="color:#e6db74">&#34;call&#34;</span>&gt;<span style="color:#f92672">&lt;</span><span style="color:#960050;background-color:#1e0010">/ion-icon&gt;</span>
-            {{ <span style="color:#a6e22e">item</span> }}
-        &lt;/<span style="color:#f92672">span</span>&gt;
-    <span style="color:#f92672">&lt;</span><span style="color:#960050;background-color:#1e0010">/ion-item&gt;</span>
-<span style="color:#f92672">&lt;</span><span style="color:#960050;background-color:#1e0010">/ion-list&gt;</span>
-</code></pre></div><p>Now, we have the list of connected users. It shows all of them, with the exception of the app user.</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-typescript" data-lang="typescript"><span style="display:flex;"><span>&lt;<span style="color:#f92672">ion</span><span style="color:#960050;background-color:#1e0010">-</span><span style="color:#a6e22e">list</span> <span style="color:#a6e22e">padding</span> <span style="color:#a6e22e">lines</span>&gt;
+</span></span><span style="display:flex;"><span>    &lt;<span style="color:#f92672">button</span>  <span style="color:#a6e22e">ion</span><span style="color:#960050;background-color:#1e0010">-</span><span style="color:#a6e22e">button</span> <span style="color:#a6e22e">block</span> <span style="color:#a6e22e">outline</span> <span style="color:#a6e22e">padding</span> <span style="color:#a6e22e">text</span><span style="color:#960050;background-color:#1e0010">-</span><span style="color:#a6e22e">center</span> <span style="color:#960050;background-color:#1e0010">(</span><span style="color:#a6e22e">click</span><span style="color:#960050;background-color:#1e0010">)=&#34;</span><span style="color:#a6e22e">showPeers</span><span style="color:#960050;background-color:#1e0010">()&#34;</span>&gt;
+</span></span><span style="display:flex;"><span>        <span style="color:#a6e22e">It</span> <span style="color:#a6e22e">show</span> <span style="color:#a6e22e">peers</span> <span style="color:#a6e22e">connect</span> <span style="color:#a6e22e">to</span> <span style="color:#a6e22e">call</span>
+</span></span><span style="display:flex;"><span>    &lt;/<span style="color:#f92672">button</span>&gt;
+</span></span><span style="display:flex;"><span>    &lt;<span style="color:#f92672">ion</span><span style="color:#960050;background-color:#1e0010">-</span><span style="color:#a6e22e">item</span>  <span style="color:#a6e22e">padding</span> <span style="color:#960050;background-color:#1e0010">(</span><span style="color:#a6e22e">click</span><span style="color:#960050;background-color:#1e0010">)=&#34;</span><span style="color:#a6e22e">callDoUser</span><span style="color:#960050;background-color:#1e0010">(</span><span style="color:#a6e22e">item</span><span style="color:#960050;background-color:#1e0010">)&#34;</span> <span style="color:#960050;background-color:#1e0010">*</span><span style="color:#a6e22e">ngFor</span><span style="color:#f92672">=</span><span style="color:#e6db74">&#34;let item of users&#34;</span>  &gt;
+</span></span><span style="display:flex;"><span>        &lt;<span style="color:#f92672">span</span>  <span style="color:#960050;background-color:#1e0010">*</span><span style="color:#a6e22e">ngIf</span><span style="color:#f92672">=</span><span style="color:#e6db74">&#34;item != userName&#34;</span>&gt;
+</span></span><span style="display:flex;"><span>            &lt;<span style="color:#f92672">ion</span><span style="color:#960050;background-color:#1e0010">-</span><span style="color:#a6e22e">icon</span> <span style="color:#a6e22e">class</span><span style="color:#f92672">=</span><span style="color:#e6db74">&#34;color-call&#34;</span> <span style="color:#a6e22e">name</span><span style="color:#f92672">=</span><span style="color:#e6db74">&#34;call&#34;</span>&gt;<span style="color:#f92672">&lt;</span><span style="color:#960050;background-color:#1e0010">/ion-icon&gt;</span>
+</span></span><span style="display:flex;"><span>            {{ <span style="color:#a6e22e">item</span> }}
+</span></span><span style="display:flex;"><span>        &lt;/<span style="color:#f92672">span</span>&gt;
+</span></span><span style="display:flex;"><span>    <span style="color:#f92672">&lt;</span><span style="color:#960050;background-color:#1e0010">/ion-item&gt;</span>
+</span></span><span style="display:flex;"><span><span style="color:#f92672">&lt;</span><span style="color:#960050;background-color:#1e0010">/ion-list&gt;</span>
+</span></span></code></pre></div><p>Now, we have the list of connected users. It shows all of them, with the exception of the app user.</p>
 <p>Note: <strong>showPeers()</strong> only has the <strong>onGotPeers()</strong> method call;</p>
 <h2 id="video-element">Video element.</h2>
 <p>We add a container with an identifier where the video will be hosted. You will obtain the list of users, so you can contact them.</p>
-<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-typescript" data-lang="typescript">&lt;<span style="color:#f92672">ion</span><span style="color:#960050;background-color:#1e0010">-</span><span style="color:#a6e22e">content</span> <span style="color:#960050;background-color:#1e0010">[</span><span style="color:#a6e22e">hidden</span><span style="color:#960050;background-color:#1e0010">]=&#34;</span><span style="color:#a6e22e">video</span><span style="color:#960050;background-color:#1e0010">&#34;</span> &gt;
-    &lt;<span style="color:#f92672">ion</span><span style="color:#960050;background-color:#1e0010">-</span><span style="color:#a6e22e">item</span> &gt;
-        &lt;<span style="color:#f92672">div</span> <span style="color:#a6e22e">id</span><span style="color:#f92672">=</span><span style="color:#e6db74">&#34;videos&#34;</span>&gt;&lt;/<span style="color:#f92672">div</span>&gt;
-    <span style="color:#f92672">&lt;</span><span style="color:#960050;background-color:#1e0010">/ion-item&gt;</span>
-<span style="color:#f92672">&lt;</span><span style="color:#960050;background-color:#1e0010">/ion-content&gt;</span>
-</code></pre></div><p>Feel free to reach out if you have any questions or comments bellow or just want to show off what kind of cool stuff you’ve built with <a href="http://blog.ivrpowers.com/post/development/introducing-videortcjs-developers/">VideoRTC.js</a>.</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-typescript" data-lang="typescript"><span style="display:flex;"><span>&lt;<span style="color:#f92672">ion</span><span style="color:#960050;background-color:#1e0010">-</span><span style="color:#a6e22e">content</span> <span style="color:#960050;background-color:#1e0010">[</span><span style="color:#a6e22e">hidden</span><span style="color:#960050;background-color:#1e0010">]=&#34;</span><span style="color:#a6e22e">video</span><span style="color:#960050;background-color:#1e0010">&#34;</span> &gt;
+</span></span><span style="display:flex;"><span>    &lt;<span style="color:#f92672">ion</span><span style="color:#960050;background-color:#1e0010">-</span><span style="color:#a6e22e">item</span> &gt;
+</span></span><span style="display:flex;"><span>        &lt;<span style="color:#f92672">div</span> <span style="color:#a6e22e">id</span><span style="color:#f92672">=</span><span style="color:#e6db74">&#34;videos&#34;</span>&gt;&lt;/<span style="color:#f92672">div</span>&gt;
+</span></span><span style="display:flex;"><span>    <span style="color:#f92672">&lt;</span><span style="color:#960050;background-color:#1e0010">/ion-item&gt;</span>
+</span></span><span style="display:flex;"><span><span style="color:#f92672">&lt;</span><span style="color:#960050;background-color:#1e0010">/ion-content&gt;</span>
+</span></span></code></pre></div><p>Feel free to reach out if you have any questions or comments bellow or just want to show off what kind of cool stuff you’ve built with <a href="http://blog.ivrpowers.com/post/development/introducing-videortcjs-developers/">VideoRTC.js</a>.</p>
 <p>Email: <a href="mailto:support@ivrpowers.com">support@ivrpowers.com</a> · Twitter: <a href="https://twitter.com/ivrpowers">@ivrpowers</a>
 · Github: <a href="https://github.com/ivrpowers">IVRPowers</a></p>
 

@@ -196,21 +196,21 @@ html{font-family:sans-serif;line-height:1.15;-ms-text-size-adjust:100%;-webkit-t
 <h2 id="what-is-a-turn-server">What is a TURN Server?</h2>
 <p>However, even if we setup properly a STUN server, there are very restrictive corporate networks (e.g: UDP traffic forbidden, only 443 TCP allowed…), which will require clients to use a TURN (Traversal Using Relays around NAT) server to relay traffic if direct (peer to Video Gateway) connection fails. In these cases, you can install our <strong>TURN server</strong> (in another instance) to solve these issues.</p>
 <p>The TURN server is really easy to add for all your <a href="http://blog.ivrpowers.com/post/technologies/what-is-rtc/">RTC</a> developments, including it as another ICE server within the <strong><a href="https://www.ivrpowers.com/videortc/">Video Gateway (WebRTC)</a></strong> connection array like this:</p>
-<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-javascript" data-lang="javascript"><span style="color:#66d9ef">var</span> <span style="color:#a6e22e">endPoints</span> <span style="color:#f92672">=</span> [
-    <span style="color:#e6db74">&#34;https://example.com:HTTPS_PORT/webrtc-gateway&#34;</span>
-];
-<span style="color:#66d9ef">var</span> <span style="color:#a6e22e">iceServers</span> <span style="color:#f92672">=</span> [
-    {
-        <span style="color:#a6e22e">url</span><span style="color:#f92672">:</span> <span style="color:#e6db74">&#34;stun:server:port&#34;</span>
-    },
-    {
-        <span style="color:#a6e22e">url</span><span style="color:#f92672">:</span> <span style="color:#e6db74">&#34;turn:server&#34;</span>, 
-        <span style="color:#a6e22e">username</span><span style="color:#f92672">:</span> <span style="color:#e6db74">&#34;myuser&#34;</span>, 
-        <span style="color:#a6e22e">credential</span><span style="color:#f92672">:</span> <span style="color:#e6db74">&#34;******&#34;</span>
-    }
-];
-<span style="color:#66d9ef">var</span> <span style="color:#a6e22e">myVideoApp</span> <span style="color:#f92672">=</span> <span style="color:#66d9ef">new</span> <span style="color:#a6e22e">VideoRTC</span>(<span style="color:#a6e22e">endPoints</span>, <span style="color:#a6e22e">iceServers</span>, <span style="color:#a6e22e">debugLevel</span>);
-</code></pre></div><p>Feel free to reach out if you have any questions or comments bellow or just want to show off what kind of cool stuff you’ve built with our <a href="https://blog.ivrpowers.com/post/products/video-rtc/">Video RTC</a> solutions.</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-javascript" data-lang="javascript"><span style="display:flex;"><span><span style="color:#66d9ef">var</span> <span style="color:#a6e22e">endPoints</span> <span style="color:#f92672">=</span> [
+</span></span><span style="display:flex;"><span>    <span style="color:#e6db74">&#34;https://example.com:HTTPS_PORT/webrtc-gateway&#34;</span>
+</span></span><span style="display:flex;"><span>];
+</span></span><span style="display:flex;"><span><span style="color:#66d9ef">var</span> <span style="color:#a6e22e">iceServers</span> <span style="color:#f92672">=</span> [
+</span></span><span style="display:flex;"><span>    {
+</span></span><span style="display:flex;"><span>        <span style="color:#a6e22e">url</span><span style="color:#f92672">:</span> <span style="color:#e6db74">&#34;stun:server:port&#34;</span>
+</span></span><span style="display:flex;"><span>    },
+</span></span><span style="display:flex;"><span>    {
+</span></span><span style="display:flex;"><span>        <span style="color:#a6e22e">url</span><span style="color:#f92672">:</span> <span style="color:#e6db74">&#34;turn:server&#34;</span>, 
+</span></span><span style="display:flex;"><span>        <span style="color:#a6e22e">username</span><span style="color:#f92672">:</span> <span style="color:#e6db74">&#34;myuser&#34;</span>, 
+</span></span><span style="display:flex;"><span>        <span style="color:#a6e22e">credential</span><span style="color:#f92672">:</span> <span style="color:#e6db74">&#34;******&#34;</span>
+</span></span><span style="display:flex;"><span>    }
+</span></span><span style="display:flex;"><span>];
+</span></span><span style="display:flex;"><span><span style="color:#66d9ef">var</span> <span style="color:#a6e22e">myVideoApp</span> <span style="color:#f92672">=</span> <span style="color:#66d9ef">new</span> <span style="color:#a6e22e">VideoRTC</span>(<span style="color:#a6e22e">endPoints</span>, <span style="color:#a6e22e">iceServers</span>, <span style="color:#a6e22e">debugLevel</span>);
+</span></span></code></pre></div><p>Feel free to reach out if you have any questions or comments bellow or just want to show off what kind of cool stuff you’ve built with our <a href="https://blog.ivrpowers.com/post/products/video-rtc/">Video RTC</a> solutions.</p>
 <p>Email: <a href="mailto:support@ivrpowers.com">support@ivrpowers.com</a> · Twitter: <a href="https://twitter.com/ivrpowers">@ivrpowers</a> · Github: <a href="https://github.com/ivrpowers">IVRPowers</a></p>
 <hr>
 <p><a href="http://www.ivrpowers.com/">Interactive Powers</a> - Streamline your business communications</p>
