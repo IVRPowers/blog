@@ -13,7 +13,7 @@
       <pubDate>Wed, 02 Jan 2019 20:00:00 +0200</pubDate>
       
       <guid>https://blog.ivrpowers.com/post/news/microsoft-edge-chromium-announcement/</guid>
-      <description>Image source: Interactive Powers&amp;rsquo; elaboration Microsoft annonces officialy that Edge will become a Chromium-based browser in early 2019! Microsoft is reworking its Edge browser on Windows 10 so that it will based on the Chromium open source project. Microsoft CVP Joe Belfiore made a big announcement and explained that it was all about creating “better web compatibility for our customers and less fragmentation of the web for all web developers.</description>
+      <description>Image source: Interactive Powers&#39; elaboration Microsoft annonces officialy that Edge will become a Chromium-based browser in early 2019!  Microsoft is reworking its Edge browser on Windows 10 so that it will based on the Chromium open source project. Microsoft CVP Joe Belfiore made a big announcement and explained that it was all about creating “better web compatibility for our customers and less fragmentation of the web for all web developers.</description>
     </item>
     
     <item>
@@ -42,7 +42,7 @@ Web Browsers. Browsers are still the most important terminals from which to acce
       <pubDate>Fri, 13 Oct 2017 13:09:34 +0200</pubDate>
       
       <guid>https://blog.ivrpowers.com/post/technologies/webrtc-3-things-safari11/</guid>
-      <description>Image source: Interactive Powers&amp;rsquo; elaboration After years, Apple has officially released a new version of Safari with support for WebRTC!
+      <description>Image source: Interactive Powers&#39; elaboration After years, Apple has officially released a new version of Safari with support for WebRTC!
 These are the three essential things to know:
 Interoperability with other web browsers. Basics work fine. If you run a simple peer-to-peer call between any of the 4 browsers, you’ll get a call going. Voice and video work over the lowest common denominator Opus+H.264 in Safari. Although Opus+VP8 will be also a possibility in the future, it is not right now with the current release.</description>
     </item>
@@ -53,7 +53,7 @@ Interoperability with other web browsers. Basics work fine. If you run a simple 
       <pubDate>Fri, 29 Sep 2017 13:09:34 +0200</pubDate>
       
       <guid>https://blog.ivrpowers.com/post/news/webrtc-safari11/</guid>
-      <description>Image source: Interactive Powers&amp;rsquo; elaboration At past WWDC 2017 in San Jose, California, Apple announced that it will include support for WebRTC in Safari 11 and WebKit for all iOS 11 and MacOS Sierra devices. Until now, 80% of all browsers supported WebRTC including Firefox and Chrome. Regarding Safari it grows to 95%. Apple’s announcement gives companies that use WebRTC applications and tools, such as our VideoRTC solutions, a broader range for choice and flexibility over which browser their rich multimedia communications services are delivered.</description>
+      <description>Image source: Interactive Powers&#39; elaboration At past WWDC 2017 in San Jose, California, Apple announced that it will include support for WebRTC in Safari 11 and WebKit for all iOS 11 and MacOS Sierra devices. Until now, 80% of all browsers supported WebRTC including Firefox and Chrome. Regarding Safari it grows to 95%. Apple’s announcement gives companies that use WebRTC applications and tools, such as our VideoRTC solutions, a broader range for choice and flexibility over which browser their rich multimedia communications services are delivered.</description>
     </item>
     
   </channel>

@@ -186,40 +186,40 @@ html{font-family:sans-serif;line-height:1.15;-ms-text-size-adjust:100%;-webkit-t
 <h6 id="photo-source-interactive-powers-pexels-creative-commons">Photo Source: Interactive Powers, Pexels. Creative Commons</h6>
 <p>WebRTC is currently supported <a href="http://blog.ivrpowers.com/post/technologies/videortc-desktop-web-browser/">by Mozilla Firefox, Google Chrome and Opera,</a> in both desktop and Android versions. Microsoft Internet Explorer and Edge and Apple Safari still have to add support for <a href="https://blog.ivrpowers.com/post/technologies/what-is-webrtc/">WebRTC</a>. Currently, support in these browsers is provided by third-party plug-ins, which are not an ideal solution.</p>
 <p>Here, we provide you with <strong>an easy javascript code to check if your browser is supported by WebRTC.</strong> In this way, we can avoid unpleasant surprises and mistakes. In case your browser is not supported, the script will redirect to the page that you specified in the code.</p>
-<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-javascript" data-lang="javascript"><span style="display:flex;"><span><span style="color:#f92672">&lt;!</span><span style="color:#a6e22e">DOCTYPE</span> <span style="color:#a6e22e">html</span><span style="color:#f92672">&gt;</span>
-</span></span><span style="display:flex;"><span><span style="color:#f92672">&lt;</span><span style="color:#a6e22e">html</span><span style="color:#f92672">&gt;</span>
-</span></span><span style="display:flex;"><span><span style="color:#f92672">&lt;</span><span style="color:#a6e22e">head</span><span style="color:#f92672">&gt;&lt;</span><span style="color:#960050;background-color:#1e0010">/head&gt;</span>
-</span></span><span style="display:flex;"><span><span style="color:#f92672">&lt;</span><span style="color:#a6e22e">body</span><span style="color:#f92672">&gt;</span>
-</span></span><span style="display:flex;"><span><span style="color:#f92672">&lt;</span><span style="color:#a6e22e">script</span> <span style="color:#a6e22e">type</span><span style="color:#f92672">=</span><span style="color:#e6db74">&#34;text/javascript&#34;</span><span style="color:#f92672">&gt;</span>
-</span></span><span style="display:flex;"><span>    <span style="color:#66d9ef">var</span> <span style="color:#a6e22e">SUPPORTED_URL</span> <span style="color:#f92672">=</span> <span style="color:#e6db74">&#34;http://webrtc_supported_site.com&#34;</span>;
-</span></span><span style="display:flex;"><span>    <span style="color:#66d9ef">var</span> <span style="color:#a6e22e">UNSUPPORTED_URL</span> <span style="color:#f92672">=</span> <span style="color:#e6db74">&#34;http://webrtc__not_supported_site.com&#34;</span>;
-</span></span><span style="display:flex;"><span>
-</span></span><span style="display:flex;"><span>    <span style="color:#66d9ef">function</span> <span style="color:#a6e22e">selectTechnologyLocation</span>() {
-</span></span><span style="display:flex;"><span>        <span style="color:#66d9ef">var</span> <span style="color:#a6e22e">isWebRTCSupported</span> <span style="color:#f92672">=</span> <span style="color:#a6e22e">navigator</span>.<span style="color:#a6e22e">getUserMedia</span> <span style="color:#f92672">||</span>
-</span></span><span style="display:flex;"><span>        <span style="color:#a6e22e">navigator</span>.<span style="color:#a6e22e">webkitGetUserMedia</span> <span style="color:#f92672">||</span>
-</span></span><span style="display:flex;"><span>        <span style="color:#a6e22e">navigator</span>.<span style="color:#a6e22e">mozGetUserMedia</span> <span style="color:#f92672">||</span>
-</span></span><span style="display:flex;"><span>        <span style="color:#a6e22e">navigator</span>.<span style="color:#a6e22e">msGetUserMedia</span> <span style="color:#f92672">||</span>
-</span></span><span style="display:flex;"><span>        window.<span style="color:#a6e22e">RTCPeerConnection</span>;
-</span></span><span style="display:flex;"><span>
-</span></span><span style="display:flex;"><span>        <span style="color:#66d9ef">if</span> (window.<span style="color:#a6e22e">navigator</span>.<span style="color:#a6e22e">userAgent</span>.<span style="color:#a6e22e">indexOf</span>(<span style="color:#e6db74">&#34;Edge&#34;</span>) <span style="color:#f92672">&gt;</span> <span style="color:#f92672">-</span><span style="color:#ae81ff">1</span>) {
-</span></span><span style="display:flex;"><span>            <span style="color:#66d9ef">return</span> <span style="color:#a6e22e">UNSUPPORTED_URL</span>;
-</span></span><span style="display:flex;"><span>        }
-</span></span><span style="display:flex;"><span>
-</span></span><span style="display:flex;"><span>        <span style="color:#66d9ef">if</span> (<span style="color:#a6e22e">isWebRTCSupported</span>) {
-</span></span><span style="display:flex;"><span>            <span style="color:#66d9ef">return</span> <span style="color:#a6e22e">SUPPORTED_URL</span>;
-</span></span><span style="display:flex;"><span>        }
-</span></span><span style="display:flex;"><span>        <span style="color:#66d9ef">else</span> {
-</span></span><span style="display:flex;"><span>            <span style="color:#66d9ef">return</span> <span style="color:#a6e22e">UNSUPPORTED_URL</span>;
-</span></span><span style="display:flex;"><span>        }
-</span></span><span style="display:flex;"><span>    }
-</span></span><span style="display:flex;"><span>    window.<span style="color:#a6e22e">location</span> <span style="color:#f92672">=</span> <span style="color:#a6e22e">selectTechnologyLocation</span>();
-</span></span><span style="display:flex;"><span><span style="color:#f92672">&lt;</span><span style="color:#960050;background-color:#1e0010">/script&gt;</span>
-</span></span><span style="display:flex;"><span><span style="color:#f92672">&lt;</span><span style="color:#960050;background-color:#1e0010">/body&gt;</span>
-</span></span><span style="display:flex;"><span><span style="color:#f92672">&lt;</span><span style="color:#960050;background-color:#1e0010">/html&gt;</span>
-</span></span></code></pre></div><p>Now, you can see the script to check if your browser is supported by WebRTC. You have to write it in your page HTML. It is a very easy process:</p>
-<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-typescript" data-lang="typescript"><span style="display:flex;"><span><span style="color:#66d9ef">var</span> <span style="color:#a6e22e">SUPPORTED_URL</span> <span style="color:#f92672">=</span> <span style="color:#e6db74">&#34;http://webrtc_supported_site.com&#34;</span>;
-</span></span><span style="display:flex;"><span><span style="color:#66d9ef">var</span> <span style="color:#a6e22e">UNSUPPORTED_URL</span> <span style="color:#f92672">=</span> <span style="color:#e6db74">&#34;http://webrtc__not_supported_site.com&#34;</span>;
-</span></span></code></pre></div><p>In <strong>SUPPORTED_URL,</strong> you should write the url to check it.</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-javascript" data-lang="javascript"><span style="color:#f92672">&lt;!</span><span style="color:#a6e22e">DOCTYPE</span> <span style="color:#a6e22e">html</span><span style="color:#f92672">&gt;</span>
+<span style="color:#f92672">&lt;</span><span style="color:#a6e22e">html</span><span style="color:#f92672">&gt;</span>
+<span style="color:#f92672">&lt;</span><span style="color:#a6e22e">head</span><span style="color:#f92672">&gt;&lt;</span><span style="color:#960050;background-color:#1e0010">/head&gt;</span>
+<span style="color:#f92672">&lt;</span><span style="color:#a6e22e">body</span><span style="color:#f92672">&gt;</span>
+<span style="color:#f92672">&lt;</span><span style="color:#a6e22e">script</span> <span style="color:#a6e22e">type</span><span style="color:#f92672">=</span><span style="color:#e6db74">&#34;text/javascript&#34;</span><span style="color:#f92672">&gt;</span>
+    <span style="color:#66d9ef">var</span> <span style="color:#a6e22e">SUPPORTED_URL</span> <span style="color:#f92672">=</span> <span style="color:#e6db74">&#34;http://webrtc_supported_site.com&#34;</span>;
+    <span style="color:#66d9ef">var</span> <span style="color:#a6e22e">UNSUPPORTED_URL</span> <span style="color:#f92672">=</span> <span style="color:#e6db74">&#34;http://webrtc__not_supported_site.com&#34;</span>;
+
+    <span style="color:#66d9ef">function</span> <span style="color:#a6e22e">selectTechnologyLocation</span>() {
+        <span style="color:#66d9ef">var</span> <span style="color:#a6e22e">isWebRTCSupported</span> <span style="color:#f92672">=</span> <span style="color:#a6e22e">navigator</span>.<span style="color:#a6e22e">getUserMedia</span> <span style="color:#f92672">||</span>
+        <span style="color:#a6e22e">navigator</span>.<span style="color:#a6e22e">webkitGetUserMedia</span> <span style="color:#f92672">||</span>
+        <span style="color:#a6e22e">navigator</span>.<span style="color:#a6e22e">mozGetUserMedia</span> <span style="color:#f92672">||</span>
+        <span style="color:#a6e22e">navigator</span>.<span style="color:#a6e22e">msGetUserMedia</span> <span style="color:#f92672">||</span>
+        window.<span style="color:#a6e22e">RTCPeerConnection</span>;
+
+        <span style="color:#66d9ef">if</span> (window.<span style="color:#a6e22e">navigator</span>.<span style="color:#a6e22e">userAgent</span>.<span style="color:#a6e22e">indexOf</span>(<span style="color:#e6db74">&#34;Edge&#34;</span>) <span style="color:#f92672">&gt;</span> <span style="color:#f92672">-</span><span style="color:#ae81ff">1</span>) {
+            <span style="color:#66d9ef">return</span> <span style="color:#a6e22e">UNSUPPORTED_URL</span>;
+        }
+
+        <span style="color:#66d9ef">if</span> (<span style="color:#a6e22e">isWebRTCSupported</span>) {
+            <span style="color:#66d9ef">return</span> <span style="color:#a6e22e">SUPPORTED_URL</span>;
+        }
+        <span style="color:#66d9ef">else</span> {
+            <span style="color:#66d9ef">return</span> <span style="color:#a6e22e">UNSUPPORTED_URL</span>;
+        }
+    }
+    window.<span style="color:#a6e22e">location</span> <span style="color:#f92672">=</span> <span style="color:#a6e22e">selectTechnologyLocation</span>();
+<span style="color:#f92672">&lt;</span><span style="color:#960050;background-color:#1e0010">/script&gt;</span>
+<span style="color:#f92672">&lt;</span><span style="color:#960050;background-color:#1e0010">/body&gt;</span>
+<span style="color:#f92672">&lt;</span><span style="color:#960050;background-color:#1e0010">/html&gt;</span>
+</code></pre></div><p>Now, you can see the script to check if your browser is supported by WebRTC. You have to write it in your page HTML. It is a very easy process:</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-typescript" data-lang="typescript"><span style="color:#66d9ef">var</span> <span style="color:#a6e22e">SUPPORTED_URL</span> <span style="color:#f92672">=</span> <span style="color:#e6db74">&#34;http://webrtc_supported_site.com&#34;</span>;
+<span style="color:#66d9ef">var</span> <span style="color:#a6e22e">UNSUPPORTED_URL</span> <span style="color:#f92672">=</span> <span style="color:#e6db74">&#34;http://webrtc__not_supported_site.com&#34;</span>;
+</code></pre></div><p>In <strong>SUPPORTED_URL,</strong> you should write the url to check it.</p>
 <p>In <strong>UNSUPPORTED_URL,</strong> you should write the url of the web page. In case your browser is not supported, the script will redirect it to it.</p>
 <p>The rest of the code checks the different browsers and the urls.</p>
 <p>Feel free to reach out if you have any questions or comments bellow or just want to show off what kind of cool stuff you’ve built with <a href="https://blog.ivrpowers.com/post/development/introducing-videortcjs-developers/">VideoRTC.js</a>.</p>

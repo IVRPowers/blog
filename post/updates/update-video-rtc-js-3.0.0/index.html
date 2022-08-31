@@ -187,62 +187,62 @@ html{font-family:sans-serif;line-height:1.15;-ms-text-size-adjust:100%;-webkit-t
 <p>We are pleased to announce that our API Framework for Javascript <strong>VideoRTC.js v3.0.0</strong> has been released for suitable for Web Developments and Mobile SDK . All users with previous maintained versions can upgrade today. Please contact our support!</p>
 <h1 id="changelog">ChangeLog</h1>
 <p>Version 3.0.0:</p>
-<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-bash" data-lang="bash"><span style="display:flex;"><span><span style="color:#75715e">## [2.1.0] - 2018-01-16</span>
-</span></span><span style="display:flex;"><span><span style="color:#75715e">### Added</span>
-</span></span><span style="display:flex;"><span>- Added <span style="color:#e6db74">`</span>videoStream<span style="color:#e6db74">`</span> and <span style="color:#e6db74">`</span>videoEnabled<span style="color:#e6db74">`</span> option parameters in the SplitAgent module
-</span></span><span style="display:flex;"><span>- Added <span style="color:#e6db74">`</span>onReadyLocalAudio<span style="color:#e6db74">`</span>, <span style="color:#e6db74">`</span>onAcceptedData<span style="color:#e6db74">`</span> and <span style="color:#e6db74">`</span>onScreensharingClosed<span style="color:#e6db74">`</span> events in the SplitClient module
-</span></span><span style="display:flex;"><span>- Added <span style="color:#e6db74">`</span>onAcceptedData<span style="color:#e6db74">`</span> and <span style="color:#e6db74">`</span>onReadyLocalStream<span style="color:#e6db74">`</span> events in the SplitAgent module
-</span></span><span style="display:flex;"><span>- Added a mechanism that guarantees the sending of files through the Datachannel
-</span></span><span style="display:flex;"><span>- Added <span style="color:#e6db74">`</span>onFileTransferOk<span style="color:#e6db74">`</span> and <span style="color:#e6db74">`</span>onFileTransferKo<span style="color:#e6db74">`</span> events in the modules that use the Datachannel
-</span></span><span style="display:flex;"><span>- Added <span style="color:#e6db74">`</span>startScreensharing<span style="color:#e6db74">`</span> and <span style="color:#e6db74">`</span>stopScreensharing<span style="color:#e6db74">`</span> actions in the SplitClient module
-</span></span><span style="display:flex;"><span>- Added <span style="color:#e6db74">`</span>notify<span style="color:#e6db74">`</span> method in the following modules: SplitClient and SplitAgent
-</span></span><span style="display:flex;"><span>- Added Safari iOS <span style="color:#ae81ff">11</span> support in the SplitClient module <span style="color:#f92672">(</span>Audio mode<span style="color:#f92672">)</span>
-</span></span><span style="display:flex;"><span><span style="color:#75715e">### Changed</span>
-</span></span><span style="display:flex;"><span>- Updated recording mode in the SPLIT modules
-</span></span><span style="display:flex;"><span><span style="color:#75715e">### Fixed</span>
-</span></span><span style="display:flex;"><span>- Fixed the use of the debug parameter at library level
-</span></span><span style="display:flex;"><span>
-</span></span><span style="display:flex;"><span><span style="color:#75715e">## [2.2.0] - 2018-05-15</span>
-</span></span><span style="display:flex;"><span><span style="color:#75715e">### Added</span>
-</span></span><span style="display:flex;"><span>- Added Detect module in the library
-</span></span><span style="display:flex;"><span>- Added EchoTest module in the library
-</span></span><span style="display:flex;"><span>- Added ScreenSharing and DataChannel features in the Videoroom module
-</span></span><span style="display:flex;"><span>
-</span></span><span style="display:flex;"><span><span style="color:#75715e">## [2.2.1] - 2018-06-08</span>
-</span></span><span style="display:flex;"><span><span style="color:#75715e">### Fixed</span>
-</span></span><span style="display:flex;"><span>- Fixed compatibility of modules with Firefox60+
-</span></span><span style="display:flex;"><span><span style="color:#75715e">### Changed</span>
-</span></span><span style="display:flex;"><span>- Updated <span style="color:#e6db74">`</span>webrtc-adapter<span style="color:#e6db74">`</span> version release to <span style="color:#e6db74">`</span>6.2.1<span style="color:#e6db74">`</span>
-</span></span><span style="display:flex;"><span>
-</span></span><span style="display:flex;"><span><span style="color:#75715e">## [2.3.0] - 2018-07-02</span>
-</span></span><span style="display:flex;"><span><span style="color:#75715e">### Added</span>
-</span></span><span style="display:flex;"><span>- Added SIP module in the library
-</span></span><span style="display:flex;"><span><span style="color:#75715e">### Changed</span>
-</span></span><span style="display:flex;"><span>- Updated README notes
-</span></span><span style="display:flex;"><span>
-</span></span><span style="display:flex;"><span><span style="color:#75715e">## [2.4.0] - 2018-08-02</span>
-</span></span><span style="display:flex;"><span><span style="color:#75715e">### Added</span>
-</span></span><span style="display:flex;"><span>- Added possibility to add custom SIP headers in the SplitClient module
-</span></span><span style="display:flex;"><span>- Added <span style="color:#e6db74">`</span>setMode<span style="color:#e6db74">`</span> and <span style="color:#e6db74">`</span>toggleAudioRemote<span style="color:#e6db74">`</span> methods <span style="color:#66d9ef">for</span> Scalable SPLIT
-</span></span><span style="display:flex;"><span>- Added <span style="color:#e6db74">`</span>onRemoteStreamReady<span style="color:#e6db74">`</span> event in the Videocall module
-</span></span><span style="display:flex;"><span>
-</span></span><span style="display:flex;"><span><span style="color:#75715e">## [2.5.0] - 2018-09-14</span>
-</span></span><span style="display:flex;"><span><span style="color:#75715e">### Added</span>
-</span></span><span style="display:flex;"><span>- Added functionality to work with VideoGateway in multiple mode
-</span></span><span style="display:flex;"><span>
-</span></span><span style="display:flex;"><span><span style="color:#75715e">## [3.0.0] - 2019-03-12</span>
-</span></span><span style="display:flex;"><span><span style="color:#75715e">### Added</span>
-</span></span><span style="display:flex;"><span>- Added API Secret parameter in the VideoGateway connection
-</span></span><span style="display:flex;"><span>- Added account parameter as an option
-</span></span><span style="display:flex;"><span>
-</span></span><span style="display:flex;"><span><span style="color:#75715e">### Changed</span>
-</span></span><span style="display:flex;"><span>- Aligned the library to the new generation of VideoGateway <span style="color:#e6db74">`</span>v4.X<span style="color:#e6db74">`</span>
-</span></span><span style="display:flex;"><span>- Updated <span style="color:#e6db74">`</span>webrtc-adapter<span style="color:#e6db74">`</span> version release to <span style="color:#e6db74">`</span>6.4.8<span style="color:#e6db74">`</span>
-</span></span><span style="display:flex;"><span>
-</span></span><span style="display:flex;"><span><span style="color:#75715e">### Fixed</span>
-</span></span><span style="display:flex;"><span>- Fixed stopped event in the VideoMail module
-</span></span><span style="display:flex;"><span>- Fixed Videocall: Now, it<span style="color:#960050;background-color:#1e0010">&#39;</span>s possible to hangup and call another peer without having to register again
-</span></span></code></pre></div><hr>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-bash" data-lang="bash"><span style="color:#75715e">## [2.1.0] - 2018-01-16</span>
+<span style="color:#75715e">### Added</span>
+- Added <span style="color:#e6db74">`</span>videoStream<span style="color:#e6db74">`</span> and <span style="color:#e6db74">`</span>videoEnabled<span style="color:#e6db74">`</span> option parameters in the SplitAgent module
+- Added <span style="color:#e6db74">`</span>onReadyLocalAudio<span style="color:#e6db74">`</span>, <span style="color:#e6db74">`</span>onAcceptedData<span style="color:#e6db74">`</span> and <span style="color:#e6db74">`</span>onScreensharingClosed<span style="color:#e6db74">`</span> events in the SplitClient module
+- Added <span style="color:#e6db74">`</span>onAcceptedData<span style="color:#e6db74">`</span> and <span style="color:#e6db74">`</span>onReadyLocalStream<span style="color:#e6db74">`</span> events in the SplitAgent module
+- Added a mechanism that guarantees the sending of files through the Datachannel
+- Added <span style="color:#e6db74">`</span>onFileTransferOk<span style="color:#e6db74">`</span> and <span style="color:#e6db74">`</span>onFileTransferKo<span style="color:#e6db74">`</span> events in the modules that use the Datachannel
+- Added <span style="color:#e6db74">`</span>startScreensharing<span style="color:#e6db74">`</span> and <span style="color:#e6db74">`</span>stopScreensharing<span style="color:#e6db74">`</span> actions in the SplitClient module
+- Added <span style="color:#e6db74">`</span>notify<span style="color:#e6db74">`</span> method in the following modules: SplitClient and SplitAgent
+- Added Safari iOS <span style="color:#ae81ff">11</span> support in the SplitClient module <span style="color:#f92672">(</span>Audio mode<span style="color:#f92672">)</span>
+<span style="color:#75715e">### Changed</span>
+- Updated recording mode in the SPLIT modules
+<span style="color:#75715e">### Fixed</span>
+- Fixed the use of the debug parameter at library level
+
+<span style="color:#75715e">## [2.2.0] - 2018-05-15</span>
+<span style="color:#75715e">### Added</span>
+- Added Detect module in the library
+- Added EchoTest module in the library
+- Added ScreenSharing and DataChannel features in the Videoroom module
+
+<span style="color:#75715e">## [2.2.1] - 2018-06-08</span>
+<span style="color:#75715e">### Fixed</span>
+- Fixed compatibility of modules with Firefox60+
+<span style="color:#75715e">### Changed</span>
+- Updated <span style="color:#e6db74">`</span>webrtc-adapter<span style="color:#e6db74">`</span> version release to <span style="color:#e6db74">`</span>6.2.1<span style="color:#e6db74">`</span>
+
+<span style="color:#75715e">## [2.3.0] - 2018-07-02</span>
+<span style="color:#75715e">### Added</span>
+- Added SIP module in the library
+<span style="color:#75715e">### Changed</span>
+- Updated README notes
+
+<span style="color:#75715e">## [2.4.0] - 2018-08-02</span>
+<span style="color:#75715e">### Added</span>
+- Added possibility to add custom SIP headers in the SplitClient module
+- Added <span style="color:#e6db74">`</span>setMode<span style="color:#e6db74">`</span> and <span style="color:#e6db74">`</span>toggleAudioRemote<span style="color:#e6db74">`</span> methods <span style="color:#66d9ef">for</span> Scalable SPLIT
+- Added <span style="color:#e6db74">`</span>onRemoteStreamReady<span style="color:#e6db74">`</span> event in the Videocall module
+
+<span style="color:#75715e">## [2.5.0] - 2018-09-14</span>
+<span style="color:#75715e">### Added</span>
+- Added functionality to work with VideoGateway in multiple mode
+
+<span style="color:#75715e">## [3.0.0] - 2019-03-12</span>
+<span style="color:#75715e">### Added</span>
+- Added API Secret parameter in the VideoGateway connection
+- Added account parameter as an option
+
+<span style="color:#75715e">### Changed</span>
+- Aligned the library to the new generation of VideoGateway <span style="color:#e6db74">`</span>v4.X<span style="color:#e6db74">`</span>
+- Updated <span style="color:#e6db74">`</span>webrtc-adapter<span style="color:#e6db74">`</span> version release to <span style="color:#e6db74">`</span>6.4.8<span style="color:#e6db74">`</span>
+
+<span style="color:#75715e">### Fixed</span>
+- Fixed stopped event in the VideoMail module
+- Fixed Videocall: Now, it<span style="color:#960050;background-color:#1e0010">&#39;</span>s possible to hangup and call another peer without having to register again
+</code></pre></div><hr>
 <p><a href="http://www.ivrpowers.com/">Interactive Powers</a> - Streamline your business communications</p>
 
   			</section>

@@ -15,7 +15,7 @@
       <guid>https://blog.ivrpowers.com/post/updates/update-voicexml-ivr-2.6.0/</guid>
       <description>Release Note We are pleased to announce that our new Smart IVR 2.6.0 has been released for suitable production services. This new version includes a lot of improvements and new features. All users with previous maintained versions can upgrade today. Please contact our support!
 ChangeLog Version 2.6:
-## [2.6.0] - 23-03-2022 ### Added - Hability to record the user speech during an ASR session ### Fixed - Applied patch to the speech_create Asterisk function to prevent crashes after lots of ASR sessions Interactive Powers - Streamline your business communications</description>
+## [2.6.0] - 23-03-2022 ### Added - Hability to record the user speech during an ASR session ### Fixed - Applied patch to the speech_create Asterisk function to prevent crashes after lots of ASR sessions  Interactive Powers - Streamline your business communications</description>
     </item>
     
     <item>
@@ -37,7 +37,7 @@ ChangeLog Version 5.0.0:
       <guid>https://blog.ivrpowers.com/post/updates/update-voicexml-ivr-2.5.0/</guid>
       <description>Release Note We are pleased to announce that our new Smart IVR 2.5.0 has been released for suitable production services. This new version includes a lot of improvements and new features. All users with previous maintained versions can upgrade today. Please contact our support!
 ChangeLog Version 2.5:
-## [2.5.0] - 29-11-2021 ### Added - Support for recording the NLU user voice and retrieve its contents - Max duration option for the NLU interaction - PJSIP support ### Changed - Improved the NLU with Google for phrases where the user takes breaks between words - Improved NLU session cleanup - Improved the &amp;#34;voicexml hangup session&amp;#34; Asterisk command - Improved the output of the &amp;#34;voicexml show nlu&amp;#34; Asterisk command - Improved the behavior of the Asterisk module for the cases where the connection with the message queue is lost during a long time ### Fixed - The indexing of the output for the command &amp;#34;voicexml show statistics&amp;#34; Interactive Powers - Streamline your business communications</description>
+## [2.5.0] - 29-11-2021 ### Added - Support for recording the NLU user voice and retrieve its contents - Max duration option for the NLU interaction - PJSIP support ### Changed - Improved the NLU with Google for phrases where the user takes breaks between words - Improved NLU session cleanup - Improved the &amp;#34;voicexml hangup session&amp;#34; Asterisk command - Improved the output of the &amp;#34;voicexml show nlu&amp;#34; Asterisk command - Improved the behavior of the Asterisk module for the cases where the connection with the message queue is lost during a long time ### Fixed - The indexing of the output for the command &amp;#34;voicexml show statistics&amp;#34;  Interactive Powers - Streamline your business communications</description>
     </item>
     
     <item>
@@ -48,7 +48,7 @@ ChangeLog Version 2.5:
       <guid>https://blog.ivrpowers.com/post/updates/update-voicexml-ivr-2.4.0/</guid>
       <description>Release Note We are pleased to announce that our new Smart IVR 2.4.0 has been released for suitable production services. This new version includes a lot of improvements and new features. All users with previous maintained versions can upgrade today. Please contact our support!
 ChangeLog Version 2.4:
-## [2.4.0] - 04-03-2021 ### Added - Added res_srtp Asterisk module to support RTP over SSL - Added &amp;lt;context&amp;gt; support for the &amp;lt;nlu&amp;gt; recognition ### Changed - General internal updates to the NLU logic ### Fixed - Fixed a couple of scenarios where the NLU result was not properly detected - Properly cleaned the CompletionQueue of the GRPC NLU Google session by performing the needed tasks explicitly- Memory leak on the interpreter engine Interactive Powers - Streamline your business communications</description>
+## [2.4.0] - 04-03-2021 ### Added - Added res_srtp Asterisk module to support RTP over SSL - Added &amp;lt;context&amp;gt; support for the &amp;lt;nlu&amp;gt; recognition ### Changed - General internal updates to the NLU logic ### Fixed - Fixed a couple of scenarios where the NLU result was not properly detected - Properly cleaned the CompletionQueue of the GRPC NLU Google session by performing the needed tasks explicitly- Memory leak on the interpreter engine  Interactive Powers - Streamline your business communications</description>
     </item>
     
     <item>
@@ -81,7 +81,7 @@ ChangeLog Version 4.3.0:
       <guid>https://blog.ivrpowers.com/post/updates/update-video-rtc-webrtc-4.2.1/</guid>
       <description>Release Note We are pleased to announce that our new Video RTC (Gateway WebRTC) v4.2.1 has been released for suitable production services. This new version includes a specific security fix for data channel recommendations. All users with previous maintained versions can upgrade today. Please contact our support!
 ChangeLog Version 4.2.1:
-## [4.2.1] - 2020-08-13 ### Fixed - Fixed usrsctp vulnerability in SCTP module Interactive Powers - Streamline your business communications</description>
+## [4.2.1] - 2020-08-13 ### Fixed - Fixed usrsctp vulnerability in SCTP module  Interactive Powers - Streamline your business communications</description>
     </item>
     
     <item>
@@ -103,7 +103,7 @@ ChangeLog Version 2.2:
       <guid>https://blog.ivrpowers.com/post/updates/update-video-rtc-js-3.3.0/</guid>
       <description>Release Note We are pleased to announce that our API Framework for Javascript VideoRTC.js v3.3.0 has been released for suitable for Web Developments and Mobile SDK . All users with previous maintained versions can upgrade today. Please contact our support!
 ChangeLog Version 3.3.0:
-## [3.3.0] - 2020-03-25 ### Added - Added a new event `onSipMessage` on the SPLIT Client to receive SIP Messages - Added a new streamOption `resolution` in all modules where video is used - Added a new className `is-local-video` in all local video elements Interactive Powers - Streamline your business communications</description>
+## [3.3.0] - 2020-03-25 ### Added - Added a new event `onSipMessage` on the SPLIT Client to receive SIP Messages - Added a new streamOption `resolution` in all modules where video is used - Added a new className `is-local-video` in all local video elements  Interactive Powers - Streamline your business communications</description>
     </item>
     
     <item>
@@ -125,7 +125,7 @@ ChangeLog Version 4.2.0:
       <guid>https://blog.ivrpowers.com/post/updates/update-video-rtc-webrtc-4.1.1/</guid>
       <description>Release Note We are pleased to announce that our new Video RTC (Gateway WebRTC) v4.1.1 has been released for suitable production services. This new version includes a hot fix a vulnerability in usrsctplib that has already been fixed, so make sure you pull this latest release if you&amp;rsquo;re using data channels. All users with previous maintained versions can upgrade today. Please contact our support!
 ChangeLog Version 4.1.1:
-## [4.1.1] - 2020-02-28 ### Fixed - Fixed critical vulnerability in `usrsctp` library Interactive Powers - Streamline your business communications</description>
+## [4.1.1] - 2020-02-28 ### Fixed - Fixed critical vulnerability in `usrsctp` library  Interactive Powers - Streamline your business communications</description>
     </item>
     
     <item>
@@ -147,7 +147,7 @@ ChangeLog Version 2.1:
       <guid>https://blog.ivrpowers.com/post/updates/update-video-rtc-js-3.2.0/</guid>
       <description>Release Note We are pleased to announce that our API Framework for Javascript VideoRTC.js v3.2.0 has been released for suitable for Web Developments and Mobile SDK . All users with previous maintained versions can upgrade today. Please contact our support!
 ChangeLog Version 3.2.0:
-## [3.2.0] - 2019-11-28 ### Added - Added new events on the Videocall and SPLIT modules to detect slow links with the remote video Interactive Powers - Streamline your business communications</description>
+## [3.2.0] - 2019-11-28 ### Added - Added new events on the Videocall and SPLIT modules to detect slow links with the remote video  Interactive Powers - Streamline your business communications</description>
     </item>
     
     <item>
@@ -202,7 +202,7 @@ ChangeLog Version 3.0.0:
       <guid>https://blog.ivrpowers.com/post/updates/update-voicexml-ivr-2.0.0/</guid>
       <description>Release Note We are pleased to announce that our new Smart IVR 2.0 has been released for suitable production services. This new version includes a lot of improvements and new features. All users with previous maintained versions can upgrade today. Please contact our support!
 ChangeLog Version 2.0:
-## [2.0] - 2019-02-29 ### New - First release of Smart IVR 2.0 - New PBX-SIP Connect - New TTS-HTTP/MRCP - New ASR-HTTP/MRCP Interactive Powers - Streamline your business communications</description>
+## [2.0] - 2019-02-29 ### New - First release of Smart IVR 2.0 - New PBX-SIP Connect - New TTS-HTTP/MRCP - New ASR-HTTP/MRCP  Interactive Powers - Streamline your business communications</description>
     </item>
     
     <item>
@@ -224,7 +224,7 @@ ChangeLog Version 2.1.0 · 2.5.1:
       <guid>https://blog.ivrpowers.com/post/updates/update-video-rtc-webrtc-3.3.1/</guid>
       <description>Release Note We are pleased to announce that our new Video RTC (Gateway WebRTC) v3.3.1 has been released for suitable production services. This new version includes a hot fix for Firefox Web Browsers. All users with previous maintained versions can upgrade today. Please contact our support!
 ChangeLog Version 3.3.1:
-## [3.3.1] - 2018-11-13 ### Added - If the Videoplayer only finds one record, it&amp;#39;s preselected ### Fixed - Resized calling message for mobile devices - Fixed SDP negotiations from Firefox 63+ Interactive Powers - Streamline your business communications</description>
+## [3.3.1] - 2018-11-13 ### Added - If the Videoplayer only finds one record, it&amp;#39;s preselected ### Fixed - Resized calling message for mobile devices - Fixed SDP negotiations from Firefox 63+  Interactive Powers - Streamline your business communications</description>
     </item>
     
     <item>
@@ -235,7 +235,7 @@ ChangeLog Version 3.3.1:
       <guid>https://blog.ivrpowers.com/post/updates/update-video-rtc-webrtc-3.3.0/</guid>
       <description>Release Note We are pleased to announce that our new Video RTC (Gateway WebRTC) v3.3.0 has been released for suitable production services. This new version includes a lot of improvements and new features. All users with previous maintained versions can upgrade today. Please contact our support!
 ChangeLog Version 3.3.0:
-## [3.3.0] - 2018-09-14 ### Added - Added Log rotation utility ### Changed - Updated VideoRTC.js library (v2.5.0) - Updated Videocall usecase (UX improvement) - Updated the webrtc-gateway internal core Interactive Powers - Streamline your business communications</description>
+## [3.3.0] - 2018-09-14 ### Added - Added Log rotation utility ### Changed - Updated VideoRTC.js library (v2.5.0) - Updated Videocall usecase (UX improvement) - Updated the webrtc-gateway internal core  Interactive Powers - Streamline your business communications</description>
     </item>
     
     <item>
@@ -334,7 +334,7 @@ ChangeLog Version 1.0.0 · 2.0.0:
       <guid>https://blog.ivrpowers.com/post/updates/update-video-rtc-webrtc-2.2.0/</guid>
       <description>Release Note We are pleased to announce that our new Video RTC (Gateway WebRTC) v2.2.0 has been released for suitable production services. This new version includes a lot of improvements and new features. All users with previous maintained versions can upgrade today. Please contact our support!
 ChangeLog Version 2.2.0:
-## [2.2.0] - 2017-07-27 ### Added - Added interval Watchdog - Added autocall GET parameter to the Webclient URL usecase - Added overprint logo in the Webclient usecase Interactive Powers - Streamline your business communications</description>
+## [2.2.0] - 2017-07-27 ### Added - Added interval Watchdog - Added autocall GET parameter to the Webclient URL usecase - Added overprint logo in the Webclient usecase  Interactive Powers - Streamline your business communications</description>
     </item>
     
     <item>

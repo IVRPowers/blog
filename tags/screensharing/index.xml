@@ -13,7 +13,7 @@
       <pubDate>Thu, 15 Nov 2018 19:00:00 +0100</pubDate>
       
       <guid>https://blog.ivrpowers.com/post/news/firefox63-spd-format-fix/</guid>
-      <description>Photo Source: Mozilla Foundation Avoiding the Datachannel breaking in Firefox 63+ Nowadays, it is common for web browsers to make updates and changes to their implementations. This is even more common when we talk about modern technologies like WebRTC. A new web browser update that confirms this theory is the last change on Firefox 63 when negotiating the Datachannel.
+      <description>Photo Source: Mozilla Foundation Avoiding the Datachannel breaking in Firefox 63+  Nowadays, it is common for web browsers to make updates and changes to their implementations. This is even more common when we talk about modern technologies like WebRTC. A new web browser update that confirms this theory is the last change on Firefox 63 when negotiating the Datachannel.
 If you are negotiating a Datachannel with a Firefox version lower than 63, the Session Description Protocol (SDP) will looks something like this:</description>
     </item>
     
@@ -23,7 +23,7 @@ If you are negotiating a Datachannel with a Firefox version lower than 63, the S
       <pubDate>Fri, 10 Nov 2017 11:46:54 +0100</pubDate>
       
       <guid>https://blog.ivrpowers.com/post/news/screensharing-firefox/</guid>
-      <description>Photo Source: Pixabay. Creative Commons Screen Sharing: now, without installing any plugin for all Firefox Web Browsers! Screen Sharing is a very powerful feature that allows users to share in a screen or a window of any documents or application including images, videos, forms… among other capabilities. However, in order to build screen sharing capabilities, first, it is necessary to build screen capture. Until now, it was only supported in one browser, Chrome, which gives access to screen capture by writing an extension.</description>
+      <description>Photo Source: Pixabay. Creative Commons Screen Sharing: now, without installing any plugin for all Firefox Web Browsers!  Screen Sharing is a very powerful feature that allows users to share in a screen or a window of any documents or application including images, videos, forms… among other capabilities. However, in order to build screen sharing capabilities, first, it is necessary to build screen capture. Until now, it was only supported in one browser, Chrome, which gives access to screen capture by writing an extension.</description>
     </item>
     
   </channel>

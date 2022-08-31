@@ -189,83 +189,83 @@ html{font-family:sans-serif;line-height:1.15;-ms-text-size-adjust:100%;-webkit-t
 <p>In this post we will show you how to build your videocall service based on HTML5 technology by using our API Framework with <a href="http://blog.ivrpowers.com/post/development/introducing-videortcjs-developers/">VideoRTC.js</a>.</p>
 <h2 id="step-1-setting-up-the-basic-structure">Step 1: Setting up the basic structure</h2>
 <p>Firstly, you will need to include dependency within your project or web page:</p>
-<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-html" data-lang="html"><span style="display:flex;"><span>&lt;<span style="color:#f92672">script</span> <span style="color:#a6e22e">type</span><span style="color:#f92672">=</span><span style="color:#e6db74">&#34;text/javascript&#34;</span> <span style="color:#a6e22e">src</span><span style="color:#f92672">=</span><span style="color:#e6db74">&#34;videortc.js&#34;</span>&gt;&lt;/<span style="color:#f92672">script</span>&gt;
-</span></span></code></pre></div><p>You can insert a minimized version if you prefer so:</p>
-<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-html" data-lang="html"><span style="display:flex;"><span>&lt;<span style="color:#f92672">script</span> <span style="color:#a6e22e">type</span><span style="color:#f92672">=</span><span style="color:#e6db74">&#34;text/javascript&#34;</span> <span style="color:#a6e22e">src</span><span style="color:#f92672">=</span><span style="color:#e6db74">&#34;videortc.min.js&#34;</span>&gt;&lt;/<span style="color:#f92672">script</span>&gt;
-</span></span></code></pre></div><p>Next, we connect with the video gateway server:</p>
-<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-javascript" data-lang="javascript"><span style="display:flex;"><span><span style="color:#66d9ef">var</span> <span style="color:#a6e22e">server</span> <span style="color:#f92672">=</span> [<span style="color:#e6db74">&#34;https://example.com:HTTPS_PORT/webrtc-gateway&#34;</span>];
-</span></span><span style="display:flex;"><span><span style="color:#66d9ef">var</span> <span style="color:#a6e22e">iceServers</span> <span style="color:#f92672">=</span> [];
-</span></span><span style="display:flex;"><span><span style="color:#66d9ef">var</span> <span style="color:#a6e22e">debugLevel</span> <span style="color:#f92672">=</span> <span style="color:#960050;background-color:#1e0010">“</span><span style="color:#a6e22e">error</span><span style="color:#960050;background-color:#1e0010">”</span>;
-</span></span><span style="display:flex;"><span>
-</span></span><span style="display:flex;"><span><span style="color:#66d9ef">var</span> <span style="color:#a6e22e">myVideoApp</span> <span style="color:#f92672">=</span> <span style="color:#66d9ef">new</span> <span style="color:#a6e22e">VideoRTC</span>(<span style="color:#a6e22e">server</span>, <span style="color:#a6e22e">iceServers</span>, <span style="color:#a6e22e">debugLevel</span>);
-</span></span></code></pre></div><p>After connecting with the server, you must copy and paste the following JavaScript code in your development. It is the basic structure to start designing your videocall service:</p>
-<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-javascript" data-lang="javascript"><span style="display:flex;"><span><span style="color:#66d9ef">var</span> <span style="color:#a6e22e">connection</span> <span style="color:#f92672">=</span> <span style="color:#a6e22e">myVideoApp</span>.<span style="color:#a6e22e">connect</span>().<span style="color:#a6e22e">then</span>(<span style="color:#66d9ef">function</span>(<span style="color:#a6e22e">usecases</span>) {	
-</span></span><span style="display:flex;"><span><span style="color:#66d9ef">var</span> <span style="color:#a6e22e">onEvents</span> <span style="color:#f92672">=</span> {
-</span></span><span style="display:flex;"><span>    <span style="color:#a6e22e">onAccepted</span><span style="color:#f92672">:</span> <span style="color:#66d9ef">function</span>(<span style="color:#a6e22e">userName</span>) {
-</span></span><span style="display:flex;"><span>      <span style="color:#75715e">//It is executed when the call is accepted by a user; 
-</span></span></span><span style="display:flex;"><span><span style="color:#75715e"></span>    },
-</span></span><span style="display:flex;"><span>    <span style="color:#a6e22e">onCalling</span><span style="color:#f92672">:</span> <span style="color:#66d9ef">function</span>(<span style="color:#a6e22e">userName</span>) {
-</span></span><span style="display:flex;"><span>         <span style="color:#75715e">//It is executed when I start calling a user.
-</span></span></span><span style="display:flex;"><span><span style="color:#75715e"></span>    },
-</span></span><span style="display:flex;"><span>    <span style="color:#a6e22e">onDataReceived</span><span style="color:#f92672">:</span> <span style="color:#66d9ef">function</span>(<span style="color:#a6e22e">type</span>, <span style="color:#a6e22e">data</span>, <span style="color:#a6e22e">filename</span>) {
-</span></span><span style="display:flex;"><span>        <span style="color:#75715e">// Data received
-</span></span></span><span style="display:flex;"><span><span style="color:#75715e"></span>        <span style="color:#66d9ef">if</span>(<span style="color:#a6e22e">type</span> <span style="color:#f92672">===</span> <span style="color:#e6db74">&#39;application/x-chat&#39;</span>) { }
-</span></span><span style="display:flex;"><span>        <span style="color:#66d9ef">if</span>(<span style="color:#a6e22e">type</span> <span style="color:#f92672">===</span> <span style="color:#e6db74">&#39;text/plain&#39;</span>) { }
-</span></span><span style="display:flex;"><span>        <span style="color:#66d9ef">if</span>(<span style="color:#a6e22e">type</span> <span style="color:#f92672">===</span> <span style="color:#e6db74">&#39;application/pdf&#39;</span>) { }
-</span></span><span style="display:flex;"><span>
-</span></span><span style="display:flex;"><span>     <span style="color:#75715e">//It is executed when information is received by the data channel. 
-</span></span></span><span style="display:flex;"><span><span style="color:#75715e"></span>    },
-</span></span><span style="display:flex;"><span>    <span style="color:#a6e22e">onGotPeers</span><span style="color:#f92672">:</span> <span style="color:#66d9ef">function</span>(<span style="color:#a6e22e">list</span>) {
-</span></span><span style="display:flex;"><span>         <span style="color:#75715e">//It executes when the server responds to the request of .getPeers();
-</span></span></span><span style="display:flex;"><span><span style="color:#75715e"></span>    },
-</span></span><span style="display:flex;"><span>    <span style="color:#a6e22e">onHangUp</span><span style="color:#f92672">:</span> <span style="color:#66d9ef">function</span>(<span style="color:#a6e22e">userName</span>, <span style="color:#a6e22e">reason</span>) {
-</span></span><span style="display:flex;"><span>         <span style="color:#75715e">//It is executed when a call is decline.
-</span></span></span><span style="display:flex;"><span><span style="color:#75715e"></span>    },
-</span></span><span style="display:flex;"><span>    <span style="color:#a6e22e">onIncomingCall</span><span style="color:#f92672">:</span> <span style="color:#66d9ef">function</span>(<span style="color:#a6e22e">userName</span>) {
-</span></span><span style="display:flex;"><span>     <span style="color:#75715e">//It is executed when there is an incoming call.
-</span></span></span><span style="display:flex;"><span><span style="color:#75715e"></span>    },
-</span></span><span style="display:flex;"><span>    <span style="color:#a6e22e">onRegistered</span><span style="color:#f92672">:</span> <span style="color:#66d9ef">function</span>(<span style="color:#a6e22e">userName</span>, <span style="color:#a6e22e">isRegistered</span>) {
-</span></span><span style="display:flex;"><span>        <span style="color:#75715e">//It is executed when the server responds to the action.register () method; 
-</span></span></span><span style="display:flex;"><span><span style="color:#75715e"></span>    }
-</span></span><span style="display:flex;"><span>};
-</span></span><span style="display:flex;"><span> 
-</span></span><span style="display:flex;"><span><span style="color:#66d9ef">var</span> <span style="color:#a6e22e">domElements</span> <span style="color:#f92672">=</span> {
-</span></span><span style="display:flex;"><span>    <span style="color:#a6e22e">videos</span><span style="color:#f92672">:</span> document.<span style="color:#a6e22e">getElementById</span>(<span style="color:#e6db74">&#39;videos&#39;</span>)
-</span></span><span style="display:flex;"><span>   <span style="color:#75715e">//HTML element where the video will be hosted.
-</span></span></span><span style="display:flex;"><span><span style="color:#75715e"></span>};
-</span></span><span style="display:flex;"><span> 
-</span></span><span style="display:flex;"><span><span style="color:#66d9ef">var</span> <span style="color:#a6e22e">options</span> <span style="color:#f92672">=</span> { <span style="color:#75715e">// Optional
-</span></span></span><span style="display:flex;"><span><span style="color:#75715e"></span>     <span style="color:#a6e22e">dataChannel</span><span style="color:#f92672">:</span> {
-</span></span><span style="display:flex;"><span>         <span style="color:#a6e22e">dataEnabled</span><span style="color:#f92672">:</span> <span style="color:#66d9ef">true</span>,
-</span></span><span style="display:flex;"><span>         <span style="color:#a6e22e">allowedTypes</span><span style="color:#f92672">:</span> [<span style="color:#e6db74">&#39;application/x-chat&#39;</span>, <span style="color:#e6db74">&#39;text-plain&#39;</span>, <span style="color:#e6db74">&#39;application/pdf&#39;</span>]
-</span></span><span style="display:flex;"><span>     }
-</span></span><span style="display:flex;"><span>}
-</span></span><span style="display:flex;"><span><span style="color:#a6e22e">usecases</span>.<span style="color:#a6e22e">videoCall</span>(<span style="color:#a6e22e">onEvents</span>, <span style="color:#a6e22e">domElements</span>, <span style="color:#a6e22e">options</span>)
-</span></span><span style="display:flex;"><span>    .<span style="color:#a6e22e">then</span>(<span style="color:#66d9ef">function</span>(<span style="color:#a6e22e">action</span>) {
-</span></span><span style="display:flex;"><span>         <span style="color:#75715e">// Use Case has been atacched succesfully
-</span></span></span><span style="display:flex;"><span><span style="color:#75715e"></span>        <span style="color:#a6e22e">action</span>.<span style="color:#a6e22e">register</span>(); 
-</span></span><span style="display:flex;"><span> 
-</span></span><span style="display:flex;"><span>    })
-</span></span><span style="display:flex;"><span>    .<span style="color:#66d9ef">catch</span>(<span style="color:#66d9ef">function</span>(<span style="color:#a6e22e">cause</span>) {
-</span></span><span style="display:flex;"><span>        <span style="color:#75715e">// Error attaching the Use Case
-</span></span></span><span style="display:flex;"><span><span style="color:#75715e"></span>        <span style="color:#a6e22e">console</span>.<span style="color:#a6e22e">log</span>(<span style="color:#e6db74">&#34;Error Attach &#34;</span> <span style="color:#f92672">+</span> <span style="color:#a6e22e">cause</span> );
-</span></span><span style="display:flex;"><span>    })
-</span></span><span style="display:flex;"><span> 
-</span></span><span style="display:flex;"><span>}) .<span style="color:#66d9ef">catch</span>( <span style="color:#66d9ef">function</span>(<span style="color:#a6e22e">cause</span>) { <span style="color:#a6e22e">console</span>.<span style="color:#a6e22e">log</span>(<span style="color:#e6db74">&#34;Error connecting with the VideoGateway&#34;</span>);  })
-</span></span></code></pre></div><h2 id="step-2-registering-users">Step 2: Registering users</h2>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-html" data-lang="html">&lt;<span style="color:#f92672">script</span> <span style="color:#a6e22e">type</span><span style="color:#f92672">=</span><span style="color:#e6db74">&#34;text/javascript&#34;</span> <span style="color:#a6e22e">src</span><span style="color:#f92672">=</span><span style="color:#e6db74">&#34;videortc.js&#34;</span>&gt;&lt;/<span style="color:#f92672">script</span>&gt;
+</code></pre></div><p>You can insert a minimized version if you prefer so:</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-html" data-lang="html">&lt;<span style="color:#f92672">script</span> <span style="color:#a6e22e">type</span><span style="color:#f92672">=</span><span style="color:#e6db74">&#34;text/javascript&#34;</span> <span style="color:#a6e22e">src</span><span style="color:#f92672">=</span><span style="color:#e6db74">&#34;videortc.min.js&#34;</span>&gt;&lt;/<span style="color:#f92672">script</span>&gt;
+</code></pre></div><p>Next, we connect with the video gateway server:</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-javascript" data-lang="javascript"><span style="color:#66d9ef">var</span> <span style="color:#a6e22e">server</span> <span style="color:#f92672">=</span> [<span style="color:#e6db74">&#34;https://example.com:HTTPS_PORT/webrtc-gateway&#34;</span>];
+<span style="color:#66d9ef">var</span> <span style="color:#a6e22e">iceServers</span> <span style="color:#f92672">=</span> [];
+<span style="color:#66d9ef">var</span> <span style="color:#a6e22e">debugLevel</span> <span style="color:#f92672">=</span> <span style="color:#960050;background-color:#1e0010">“</span><span style="color:#a6e22e">error</span><span style="color:#960050;background-color:#1e0010">”</span>;
+
+<span style="color:#66d9ef">var</span> <span style="color:#a6e22e">myVideoApp</span> <span style="color:#f92672">=</span> <span style="color:#66d9ef">new</span> <span style="color:#a6e22e">VideoRTC</span>(<span style="color:#a6e22e">server</span>, <span style="color:#a6e22e">iceServers</span>, <span style="color:#a6e22e">debugLevel</span>);
+</code></pre></div><p>After connecting with the server, you must copy and paste the following JavaScript code in your development. It is the basic structure to start designing your videocall service:</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-javascript" data-lang="javascript"><span style="color:#66d9ef">var</span> <span style="color:#a6e22e">connection</span> <span style="color:#f92672">=</span> <span style="color:#a6e22e">myVideoApp</span>.<span style="color:#a6e22e">connect</span>().<span style="color:#a6e22e">then</span>(<span style="color:#66d9ef">function</span>(<span style="color:#a6e22e">usecases</span>) {	
+<span style="color:#66d9ef">var</span> <span style="color:#a6e22e">onEvents</span> <span style="color:#f92672">=</span> {
+    <span style="color:#a6e22e">onAccepted</span><span style="color:#f92672">:</span> <span style="color:#66d9ef">function</span>(<span style="color:#a6e22e">userName</span>) {
+      <span style="color:#75715e">//It is executed when the call is accepted by a user; 
+</span><span style="color:#75715e"></span>    },
+    <span style="color:#a6e22e">onCalling</span><span style="color:#f92672">:</span> <span style="color:#66d9ef">function</span>(<span style="color:#a6e22e">userName</span>) {
+         <span style="color:#75715e">//It is executed when I start calling a user.
+</span><span style="color:#75715e"></span>    },
+    <span style="color:#a6e22e">onDataReceived</span><span style="color:#f92672">:</span> <span style="color:#66d9ef">function</span>(<span style="color:#a6e22e">type</span>, <span style="color:#a6e22e">data</span>, <span style="color:#a6e22e">filename</span>) {
+        <span style="color:#75715e">// Data received
+</span><span style="color:#75715e"></span>        <span style="color:#66d9ef">if</span>(<span style="color:#a6e22e">type</span> <span style="color:#f92672">===</span> <span style="color:#e6db74">&#39;application/x-chat&#39;</span>) { }
+        <span style="color:#66d9ef">if</span>(<span style="color:#a6e22e">type</span> <span style="color:#f92672">===</span> <span style="color:#e6db74">&#39;text/plain&#39;</span>) { }
+        <span style="color:#66d9ef">if</span>(<span style="color:#a6e22e">type</span> <span style="color:#f92672">===</span> <span style="color:#e6db74">&#39;application/pdf&#39;</span>) { }
+
+     <span style="color:#75715e">//It is executed when information is received by the data channel. 
+</span><span style="color:#75715e"></span>    },
+    <span style="color:#a6e22e">onGotPeers</span><span style="color:#f92672">:</span> <span style="color:#66d9ef">function</span>(<span style="color:#a6e22e">list</span>) {
+         <span style="color:#75715e">//It executes when the server responds to the request of .getPeers();
+</span><span style="color:#75715e"></span>    },
+    <span style="color:#a6e22e">onHangUp</span><span style="color:#f92672">:</span> <span style="color:#66d9ef">function</span>(<span style="color:#a6e22e">userName</span>, <span style="color:#a6e22e">reason</span>) {
+         <span style="color:#75715e">//It is executed when a call is decline.
+</span><span style="color:#75715e"></span>    },
+    <span style="color:#a6e22e">onIncomingCall</span><span style="color:#f92672">:</span> <span style="color:#66d9ef">function</span>(<span style="color:#a6e22e">userName</span>) {
+     <span style="color:#75715e">//It is executed when there is an incoming call.
+</span><span style="color:#75715e"></span>    },
+    <span style="color:#a6e22e">onRegistered</span><span style="color:#f92672">:</span> <span style="color:#66d9ef">function</span>(<span style="color:#a6e22e">userName</span>, <span style="color:#a6e22e">isRegistered</span>) {
+        <span style="color:#75715e">//It is executed when the server responds to the action.register () method; 
+</span><span style="color:#75715e"></span>    }
+};
+ 
+<span style="color:#66d9ef">var</span> <span style="color:#a6e22e">domElements</span> <span style="color:#f92672">=</span> {
+    <span style="color:#a6e22e">videos</span><span style="color:#f92672">:</span> document.<span style="color:#a6e22e">getElementById</span>(<span style="color:#e6db74">&#39;videos&#39;</span>)
+   <span style="color:#75715e">//HTML element where the video will be hosted.
+</span><span style="color:#75715e"></span>};
+ 
+<span style="color:#66d9ef">var</span> <span style="color:#a6e22e">options</span> <span style="color:#f92672">=</span> { <span style="color:#75715e">// Optional
+</span><span style="color:#75715e"></span>     <span style="color:#a6e22e">dataChannel</span><span style="color:#f92672">:</span> {
+         <span style="color:#a6e22e">dataEnabled</span><span style="color:#f92672">:</span> <span style="color:#66d9ef">true</span>,
+         <span style="color:#a6e22e">allowedTypes</span><span style="color:#f92672">:</span> [<span style="color:#e6db74">&#39;application/x-chat&#39;</span>, <span style="color:#e6db74">&#39;text-plain&#39;</span>, <span style="color:#e6db74">&#39;application/pdf&#39;</span>]
+     }
+}
+<span style="color:#a6e22e">usecases</span>.<span style="color:#a6e22e">videoCall</span>(<span style="color:#a6e22e">onEvents</span>, <span style="color:#a6e22e">domElements</span>, <span style="color:#a6e22e">options</span>)
+    .<span style="color:#a6e22e">then</span>(<span style="color:#66d9ef">function</span>(<span style="color:#a6e22e">action</span>) {
+         <span style="color:#75715e">// Use Case has been atacched succesfully
+</span><span style="color:#75715e"></span>        <span style="color:#a6e22e">action</span>.<span style="color:#a6e22e">register</span>(); 
+ 
+    })
+    .<span style="color:#66d9ef">catch</span>(<span style="color:#66d9ef">function</span>(<span style="color:#a6e22e">cause</span>) {
+        <span style="color:#75715e">// Error attaching the Use Case
+</span><span style="color:#75715e"></span>        <span style="color:#a6e22e">console</span>.<span style="color:#a6e22e">log</span>(<span style="color:#e6db74">&#34;Error Attach &#34;</span> <span style="color:#f92672">+</span> <span style="color:#a6e22e">cause</span> );
+    })
+ 
+}) .<span style="color:#66d9ef">catch</span>( <span style="color:#66d9ef">function</span>(<span style="color:#a6e22e">cause</span>) { <span style="color:#a6e22e">console</span>.<span style="color:#a6e22e">log</span>(<span style="color:#e6db74">&#34;Error connecting with the VideoGateway&#34;</span>);  })
+</code></pre></div><h2 id="step-2-registering-users">Step 2: Registering users</h2>
 <p>We already have the basic structure to personalize the application. In the following steps, we will add the logic that allows register and call between two users.</p>
 <ul>
 <li><strong>action.register();</strong> → We should add our name in the method or the user identification that it is registered in the videocall.</li>
 </ul>
 <p>For instance:</p>
-<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-javascript" data-lang="javascript"><span style="display:flex;"><span><span style="color:#a6e22e">action</span>.<span style="color:#a6e22e">register</span>(<span style="color:#960050;background-color:#1e0010">‘</span><span style="color:#a6e22e">Tom</span><span style="color:#960050;background-color:#1e0010">’</span>); 
-</span></span></code></pre></div><p>Once the call has been registered, user ‘Tom’ can call another user. You have to insert it in a code block, so that you can see it within onRegistered.</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-javascript" data-lang="javascript"><span style="color:#a6e22e">action</span>.<span style="color:#a6e22e">register</span>(<span style="color:#960050;background-color:#1e0010">‘</span><span style="color:#a6e22e">Tom</span><span style="color:#960050;background-color:#1e0010">’</span>); 
+</code></pre></div><p>Once the call has been registered, user ‘Tom’ can call another user. You have to insert it in a code block, so that you can see it within onRegistered.</p>
 <ul>
 <li><strong>action.call();</strong> → We must also include in the following method the name of the receiver.</li>
 </ul>
 <p>For instance:</p>
-<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-javascript" data-lang="javascript"><span style="display:flex;"><span><span style="color:#a6e22e">action</span>.<span style="color:#a6e22e">call</span>(<span style="color:#960050;background-color:#1e0010">‘</span><span style="color:#a6e22e">Jack</span><span style="color:#960050;background-color:#1e0010">’</span>).
-</span></span></code></pre></div><h2 id="step-3-how-to-accept-the-videocall">Step 3: How to accept the videocall</h2>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-javascript" data-lang="javascript"><span style="color:#a6e22e">action</span>.<span style="color:#a6e22e">call</span>(<span style="color:#960050;background-color:#1e0010">‘</span><span style="color:#a6e22e">Jack</span><span style="color:#960050;background-color:#1e0010">’</span>).
+</code></pre></div><h2 id="step-3-how-to-accept-the-videocall">Step 3: How to accept the videocall</h2>
 <p>Finally, we must follow the procedure that allows to accept the call. Here, there are two different options. We can either directly include ‘action.call()’ in the object onIncomingCall, so the call is automatically accepted, or you can design your own logic. In this way onIncomingCall should click a button whenever a videocall is received.</p>
 <p>After the explained process, and by adding some CSS style, you can shape the design of the application.</p>
 <h2 id="step-4-running-the-service-and-peers">Step 4: Running the service and peers&hellip;</h2>

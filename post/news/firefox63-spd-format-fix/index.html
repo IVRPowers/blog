@@ -189,12 +189,12 @@ html{font-family:sans-serif;line-height:1.15;-ms-text-size-adjust:100%;-webkit-t
 <hr>
 <p>Nowadays, it is common for web browsers to make updates and changes to their implementations. This is even more common when we talk about modern technologies like <a href="http://blog.ivrpowers.com/post/technologies/what-is-webrtc/">WebRTC</a>. A new web browser update that confirms this theory is the last change on Firefox 63 when negotiating the Datachannel.</p>
 <p>If you are negotiating a Datachannel with a Firefox version lower than 63, the Session Description Protocol (SDP) will looks something like this:</p>
-<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-bash" data-lang="bash"><span style="display:flex;"><span>m<span style="color:#f92672">=</span>application <span style="color:#ae81ff">9</span> DTLS/SCTP <span style="color:#ae81ff">5000</span>
-</span></span><span style="display:flex;"><span>a<span style="color:#f92672">=</span>sctpmap:5000 webrtc-datachannel <span style="color:#ae81ff">1024</span>
-</span></span></code></pre></div><p>However, this same negotiation in a Firefox63+ browser is different:</p>
-<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-bash" data-lang="bash"><span style="display:flex;"><span>m<span style="color:#f92672">=</span>application <span style="color:#ae81ff">9</span> UDP/DTLS/SCTP webrtc-datachannel
-</span></span><span style="display:flex;"><span>a<span style="color:#f92672">=</span>sctp-port:5000
-</span></span></code></pre></div><p>As you can see, the problem is that the new format is incompatible with the previous one. The old parser expected to find a number (5000) where the new parser expects a text (webrtc-datachannel).</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-bash" data-lang="bash">m<span style="color:#f92672">=</span>application <span style="color:#ae81ff">9</span> DTLS/SCTP <span style="color:#ae81ff">5000</span>
+a<span style="color:#f92672">=</span>sctpmap:5000 webrtc-datachannel <span style="color:#ae81ff">1024</span>
+</code></pre></div><p>However, this same negotiation in a Firefox63+ browser is different:</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-bash" data-lang="bash">m<span style="color:#f92672">=</span>application <span style="color:#ae81ff">9</span> UDP/DTLS/SCTP webrtc-datachannel
+a<span style="color:#f92672">=</span>sctp-port:5000
+</code></pre></div><p>As you can see, the problem is that the new format is incompatible with the previous one. The old parser expected to find a number (5000) where the new parser expects a text (webrtc-datachannel).</p>
 <p>To fix it, we have added the new SDP format to our Video Gateway (WebRTC). This <a href="http://blog.ivrpowers.com/post/updates/update-video-rtc-webrtc-3.3.1/">new 3.3.1 release</a> includes a new parser will be able to handle the offers of Firefox 63+.</p>
 <hr>
 <p><a href="http://www.ivrpowers.com/">Interactive Powers</a> - Streamline your business communications</p>

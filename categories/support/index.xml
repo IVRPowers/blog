@@ -15,7 +15,7 @@
       <guid>https://blog.ivrpowers.com/post/general/demo-center-video-rtc-for-genesys/</guid>
       <description>Photo Source: Interactive Powers. Creative Commons Getting started&amp;hellip; Demo Center is only available for Customers and Partners that are deploying or running our platforms, if you are not registred please contact our Sales Team to get all information and partnerships.
 Features:
-Video &amp;amp; Voice Calling Live Chat File Sharing Dual Screen Sharing CoBrowsing Snapshot Flip Camera Video Recording QR Code Ask for your Live Demo, register and login at: https://support.</description>
+ Video &amp;amp; Voice Calling Live Chat File Sharing Dual Screen Sharing CoBrowsing Snapshot Flip Camera Video Recording QR Code  Ask for your Live Demo, register and login at: https://support.</description>
     </item>
     
     <item>
@@ -25,7 +25,7 @@ Video &amp;amp; Voice Calling Live Chat File Sharing Dual Screen Sharing CoBrows
       
       <guid>https://blog.ivrpowers.com/post/support/web-acd-system-requirements/</guid>
       <description>Photo Source: Interactive Powers. Creative Commons What are the recommended Servers? Operating System Requirements Web ACD platforms are designed to run over a Linux Debian 10.X x86_64 distribution. Please make a minimal Linux Debian installation from Internet, USB or CD / DVD. To download the Linux distribution installation iso file go to: https://www.debian.org
-Requirement Description Distribution Linux Debian 10 Linux Kernel x86_64 Cloud Ready AWS, Google Cloud, Microsoft Azure Installer Minimal Install Port / Channel Definition A port or channel is an aggregation of multiple software communication interfaces that creates a logical interface in an ACD service.</description>
+   Requirement  Description      Distribution Linux Debian 10    Linux Kernel x86_64   Cloud Ready AWS, Google Cloud, Microsoft Azure    Installer Minimal Install    Port / Channel Definition A port or channel is an aggregation of multiple software communication interfaces that creates a logical interface in an ACD service.</description>
     </item>
     
     <item>
@@ -57,7 +57,7 @@ Browser: Firefox 76 76.0 OS: Mac OS X 10.15 1.4.0 Chrome check: undefined Microp
       
       <guid>https://blog.ivrpowers.com/post/support/smart-ivr-system-requirements/</guid>
       <description>Photo Source: Interactive Powers. Creative Commons What are the recommended Servers? Operating System Requirements Smart IVR platforms are designed to run over a Linux CentOS 7 x86_64 distribution. Please make a minimal Linux Debian installation from Internet, USB or CD / DVD. To download the Linux distribution installation iso file go to: https://www.centos.org
-Requirement Description Distribution Linux CentOS 7 Linux Kernel x86_64 Cloud Ready AWS, Google Cloud, Microsoft Azure Installer Minimal Install Port / Channel Definition A port or channel is an aggregation of multiple software communication interfaces that creates a logical interface in a IVR service.</description>
+   Requirement  Description      Distribution Linux CentOS 7    Linux Kernel x86_64   Cloud Ready AWS, Google Cloud, Microsoft Azure    Installer Minimal Install    Port / Channel Definition A port or channel is an aggregation of multiple software communication interfaces that creates a logical interface in a IVR service.</description>
     </item>
     
     <item>
@@ -67,7 +67,7 @@ Requirement Description Distribution Linux CentOS 7 Linux Kernel x86_64 Cloud Re
       
       <guid>https://blog.ivrpowers.com/post/support/video-rtc-system-requirements/</guid>
       <description>Photo Source: Interactive Powers. Creative Commons What are the recommended Servers? Operating System Requirements Video RTC platforms are designed to run over a Linux Debian 11.X x86_64 distribution. Please make a minimal Linux Debian installation from Internet, USB or CD / DVD. To download the Linux distribution installation iso file go to: https://www.debian.org
-Requirement Description Distribution Linux Debian 9-11 Linux Kernel x86_64 Cloud Ready AWS, Google Cloud, Microsoft Azure Installer Minimal Install Port / Channel Definition A port or channel is an aggregation of multiple software communication interfaces that creates a logical interface in a RTC service.</description>
+   Requirement  Description      Distribution Linux Debian 9-11    Linux Kernel x86_64   Cloud Ready AWS, Google Cloud, Microsoft Azure    Installer Minimal Install    Port / Channel Definition A port or channel is an aggregation of multiple software communication interfaces that creates a logical interface in a RTC service.</description>
     </item>
     
     <item>
@@ -79,8 +79,8 @@ Requirement Description Distribution Linux Debian 9-11 Linux Kernel x86_64 Cloud
       <description>Photo Source: Interactive Powers. Creative Commons Getting started&amp;hellip; Help Center is only available for Customers and Partners that are deploying or running our platforms, if you are not registred please contact our Sales Team to get all information and partnerships.
 Register and Login at: https://support.ivrpowers.com
 Service Desk Portals:
-Smart IVR Video RTC Cloud Hosting Solutions Get support with our team in a single place Channels available:
-Email Web Portal, when logged in at: https://support.</description>
+ Smart IVR Video RTC Cloud Hosting Solutions  Get support with our team in a single place Channels available:
+ Email Web Portal, when logged in at: https://support.</description>
     </item>
     
     <item>
@@ -89,7 +89,7 @@ Email Web Portal, when logged in at: https://support.</description>
       <pubDate>Tue, 19 Feb 2019 15:00:26 +0200</pubDate>
       
       <guid>https://blog.ivrpowers.com/post/support/video-rtc-upgrade-debian9/</guid>
-      <description>Photo Source: Interactive Powers. Creative Commons Here’s how to go from Debian 8 to Debian 9 If you running a Video RTC Gateway (WebRTC) since 2017 or 2018, then your operating system is on Debian 8. To move up to the next update or version 4.0 you will have to upgrade to Linux OS Debian 9 (Stretch) x86 64-bit.
+      <description>Photo Source: Interactive Powers. Creative Commons Here’s how to go from Debian 8 to Debian 9  If you running a Video RTC Gateway (WebRTC) since 2017 or 2018, then your operating system is on Debian 8. To move up to the next update or version 4.0 you will have to upgrade to Linux OS Debian 9 (Stretch) x86 64-bit.
 Our next binary packages or CPaaS instances will now includes an installer script to automatically take you to Debian 9.</description>
     </item>
     

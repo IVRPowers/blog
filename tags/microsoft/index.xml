@@ -13,7 +13,7 @@
       <pubDate>Sat, 01 Feb 2020 14:00:00 +0200</pubDate>
       
       <guid>https://blog.ivrpowers.com/post/technologies/videortc-microsoft-edge/</guid>
-      <description>Image source: Interactive Powers&amp;rsquo; elaboration The Video RTC Gateway is now ready to run with Edge Browser over Windows computers and devices. At Interactive Powers, we are really excited that Video RTC platforms and API Framework / Mobile SDK are now supporting Microsoft’s new Chromium based Edge Browser aka Edgium. From now, your real-time applications will work on Microsoft’s latest Edge browser released without any changes or updates in your existing code / services already deployed!</description>
+      <description>Image source: Interactive Powers&#39; elaboration The Video RTC Gateway is now ready to run with Edge Browser over Windows computers and devices.  At Interactive Powers, we are really excited that Video RTC platforms and API Framework / Mobile SDK are now supporting Microsoft’s new Chromium based Edge Browser aka Edgium. From now, your real-time applications will work on Microsoft’s latest Edge browser released without any changes or updates in your existing code / services already deployed!</description>
     </item>
     
     <item>
@@ -22,7 +22,7 @@
       <pubDate>Sun, 08 Sep 2019 12:00:00 +0100</pubDate>
       
       <guid>https://blog.ivrpowers.com/post/technologies/tts-api-connectors-updated/</guid>
-      <description>Image source: Interactive Powers Interactive Powers introduces 45+ Languages &amp;amp; 300+ additional Text-to-Speech voices with Amazon, Google and Microsoft Cloud TTS-API Integration. Natural Language over the Phone&amp;hellip; All of you know about cognitive services is growing these days, and that&amp;rsquo;s why today we&amp;rsquo;re going to talk about our new TTS-API for &amp;ldquo;Text to speech&amp;rdquo;. This connector converts text into a dynamic natural voice in just a few milliseconds. There are a lot of Cloud Speech API, but we will focus on the Cloud Services main giants: Google Cloud, Microsoft Azure and Amazon Web Services.</description>
+      <description>Image source: Interactive Powers Interactive Powers introduces 45+ Languages &amp;amp; 300+ additional Text-to-Speech voices with Amazon, Google and Microsoft Cloud TTS-API Integration.  Natural Language over the Phone&amp;hellip; All of you know about cognitive services is growing these days, and that&amp;rsquo;s why today we&amp;rsquo;re going to talk about our new TTS-API for &amp;ldquo;Text to speech&amp;rdquo;. This connector converts text into a dynamic natural voice in just a few milliseconds. There are a lot of Cloud Speech API, but we will focus on the Cloud Services main giants: Google Cloud, Microsoft Azure and Amazon Web Services.</description>
     </item>
     
     <item>
@@ -31,8 +31,8 @@
       <pubDate>Tue, 03 Sep 2019 12:00:00 +0100</pubDate>
       
       <guid>https://blog.ivrpowers.com/post/technologies/microsoft-tts-connector/</guid>
-      <description>Image source: Interactive Powers Interactive Powers introduces 45 Languages &amp;amp; 75+ additional Text-to-Speech voices with Microsoft Azure TTS Integration About Microsoft&amp;hellip; Microsoft Azure like Google Cloud provides his own Text To Speech API. It is quite big and here are some of its main features with more than 75 voices over 45 languages.
-Parameters for speed, pitch, volume, pronunciation, and additional pauses Custom voice models for developers and enterprises Neural Voices technology To get more information, you can read Microsoft TTS documentation.</description>
+      <description>Image source: Interactive Powers Interactive Powers introduces 45 Languages &amp;amp; 75+ additional Text-to-Speech voices with Microsoft Azure TTS Integration  About Microsoft&amp;hellip; Microsoft Azure like Google Cloud provides his own Text To Speech API. It is quite big and here are some of its main features with more than 75 voices over 45 languages.
+ Parameters for speed, pitch, volume, pronunciation, and additional pauses Custom voice models for developers and enterprises Neural Voices technology  To get more information, you can read Microsoft TTS documentation.</description>
     </item>
     
     <item>
@@ -41,7 +41,7 @@ Parameters for speed, pitch, volume, pronunciation, and additional pauses Custom
       <pubDate>Wed, 02 Jan 2019 20:00:00 +0200</pubDate>
       
       <guid>https://blog.ivrpowers.com/post/news/microsoft-edge-chromium-announcement/</guid>
-      <description>Image source: Interactive Powers&amp;rsquo; elaboration Microsoft annonces officialy that Edge will become a Chromium-based browser in early 2019! Microsoft is reworking its Edge browser on Windows 10 so that it will based on the Chromium open source project. Microsoft CVP Joe Belfiore made a big announcement and explained that it was all about creating “better web compatibility for our customers and less fragmentation of the web for all web developers.</description>
+      <description>Image source: Interactive Powers&#39; elaboration Microsoft annonces officialy that Edge will become a Chromium-based browser in early 2019!  Microsoft is reworking its Edge browser on Windows 10 so that it will based on the Chromium open source project. Microsoft CVP Joe Belfiore made a big announcement and explained that it was all about creating “better web compatibility for our customers and less fragmentation of the web for all web developers.</description>
     </item>
     
   </channel>

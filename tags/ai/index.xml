@@ -13,8 +13,8 @@
       <pubDate>Sat, 29 Feb 2020 19:00:00 +0200</pubDate>
       
       <guid>https://blog.ivrpowers.com/post/customerengagement/connecting-phone-calls-to-dialogflow/</guid>
-      <description>Photo source: Interactive Powers. Creative Commons What are main questions about connecting a DialogFlow agent to a telephony system? It’s important to get some important differences between the Google Phone Gateway and our DialogFlow Gateway powered by a Smart IVR platform.
-Can I get a Number (PSTN) from any country? 🟢 Phone Gateway = Yes, select a PSTN Number in the list of each available country. 🟢 DialogFlow Gateway = Yes, connect your own DDI Number or any IP PBX extensions.</description>
+      <description>Photo source: Interactive Powers. Creative Commons What are main questions about connecting a DialogFlow agent to a telephony system?  It’s important to get some important differences between the Google Phone Gateway and our DialogFlow Gateway powered by a Smart IVR platform.
+Can I get a Number (PSTN) from any country?  🟢 Phone Gateway = Yes, select a PSTN Number in the list of each available country. 🟢 DialogFlow Gateway = Yes, connect your own DDI Number or any IP PBX extensions.</description>
     </item>
     
     <item>
@@ -23,7 +23,7 @@ Can I get a Number (PSTN) from any country? 🟢 Phone Gateway = Yes, select a P
       <pubDate>Sat, 29 Feb 2020 18:00:00 +0200</pubDate>
       
       <guid>https://blog.ivrpowers.com/post/customerengagement/how-to-connect-dialogflow-to-your-pbx/</guid>
-      <description>Photo source: Interactive Powers. Creative Commons Build a Voicebot IVR with DialogFlow for your existing PBX and telephony system. Continuing on our quest of better business communications, both old DTMF menus and speech direct dialog are outdated IVR options, we can replace them by the power of a DialogFlow advanced Conversational AI service.
+      <description>Photo source: Interactive Powers. Creative Commons Build a Voicebot IVR with DialogFlow for your existing PBX and telephony system.  Continuing on our quest of better business communications, both old DTMF menus and speech direct dialog are outdated IVR options, we can replace them by the power of a DialogFlow advanced Conversational AI service.
 Prerequisities 1- Text-to-Speech API account (TTS) You can connect any TTS according to your language and voice preferences.</description>
     </item>
     
@@ -33,9 +33,9 @@ Prerequisities 1- Text-to-Speech API account (TTS) You can connect any TTS accor
       <pubDate>Sun, 09 Feb 2020 18:00:00 +0200</pubDate>
       
       <guid>https://blog.ivrpowers.com/post/customerengagement/how-to-improve-your-pbx-with-conversational-ai/</guid>
-      <description>The Old Way In The New Digital Age, standards commons PBX functions used by most companies are weighing down Customer Experience (CX) making tedious to contact their phone services or customer assistance.
-Photo source: Pixabay. Creative Commons What most companies still doing…
-DTMF Menus. Most PBX use touch tone menus to select departments, services or key an extension. Of course, everybody may knows how to press a key, but it’s not really confortable to do this with hands free, driving or when you don’t get the right option…</description>
+      <description>The Old Way  In The New Digital Age, standards commons PBX functions used by most companies are weighing down Customer Experience (CX) making tedious to contact their phone services or customer assistance.
+ Photo source: Pixabay. Creative Commons  What most companies still doing…
+ DTMF Menus. Most PBX use touch tone menus to select departments, services or key an extension. Of course, everybody may knows how to press a key, but it’s not really confortable to do this with hands free, driving or when you don’t get the right option…</description>
     </item>
     
     <item>
@@ -44,7 +44,7 @@ DTMF Menus. Most PBX use touch tone menus to select departments, services or key
       <pubDate>Sun, 06 Oct 2019 20:00:00 +0200</pubDate>
       
       <guid>https://blog.ivrpowers.com/post/customerengagement/voicebot-training/</guid>
-      <description>Photo source: Unsplash. Creative Commons Like any human performance, your AI powered system requires to be properly trained. Training is the most important thing to consider to make your Voicebot IVR smart enough when it goes in production. Many projects forgot to review continuously learning rules, intents and transactions logs.
+      <description>Photo source: Unsplash. Creative Commons Like any human performance, your AI powered system requires to be properly trained.  Training is the most important thing to consider to make your Voicebot IVR smart enough when it goes in production. Many projects forgot to review continuously learning rules, intents and transactions logs.
 When a Voicebot or conversational agent does not understand you, it is because, in reality, he does not have been properly trained.</description>
     </item>
     
@@ -54,7 +54,7 @@ When a Voicebot or conversational agent does not understand you, it is because, 
       <pubDate>Tue, 02 Jan 2018 21:00:00 +0100</pubDate>
       
       <guid>https://blog.ivrpowers.com/post/trends/ai-contact-center/</guid>
-      <description>Photo source: Pixabay. Creative Commons. By 2030, AI solutions will surpass the services provided by agents. Just a few years ago, talking about Artificial Intelligence (AI) meant talking about a futuristic scenario. Today, AI is everywhere and, directly or indirectly, we are starting to use it almost every day. The rapid evolution of AI allows it to be increasingly applied to more sophisticated processes which require a high precision like customer services.</description>
+      <description>Photo source: Pixabay. Creative Commons. By 2030, AI solutions will surpass the services provided by agents.  Just a few years ago, talking about Artificial Intelligence (AI) meant talking about a futuristic scenario. Today, AI is everywhere and, directly or indirectly, we are starting to use it almost every day. The rapid evolution of AI allows it to be increasingly applied to more sophisticated processes which require a high precision like customer services.</description>
     </item>
     
   </channel>
