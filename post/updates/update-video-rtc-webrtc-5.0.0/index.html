@@ -187,38 +187,38 @@ html{font-family:sans-serif;line-height:1.15;-ms-text-size-adjust:100%;-webkit-t
 <p>We are pleased to announce that our new <strong>Video RTC (Gateway WebRTC) v5.0.0</strong> has been released for suitable production services. This new version includes a specific security fix for data channel recommendations.  All users with previous maintained versions can upgrade today. Please contact our support!</p>
 <h1 id="changelog">ChangeLog</h1>
 <p>Version 5.0.0:</p>
-<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-bash" data-lang="bash"><span style="color:#75715e">## [5.0.0] - 2022-01-12</span>
-<span style="color:#75715e">### Added</span>
-- New configuration params to the Tester usecase: autoStart, autoTroubleshoot and showRedirectBtnOnlyIfTestOk
-- Added a way <span style="color:#66d9ef">for</span> the Tester to know which checks are necessary to display the Next button
-- Advice feature to the SPLIT Agent usecase
-- Possibility in the Webclient to differentiate when a call in queue or on hold
-- Possibility to download chat history from the SPLIT Agent usecase
-- Flip Camera action on both the Videocall and RemoteViewer usecases
-- Possibility to configure webpage title and favicon by theme
-- Possibility to setup RemoteViewer without ScreenSharing or Audio
-- Option to configure an endpoint to send snapshots via URL request from the SplitAgent
-- Added a way to apply different CSS rules depending on the theme name
-- Webclient can now be configured in escalating mode
-
-<span style="color:#75715e">### Changed</span>
-- OS System required has gone up to Debian <span style="color:#ae81ff">11</span>
-- New structure of the web resources after a build
-- Added camera check before starting SplitAgent plus moved auto recording trigger from onAcceptedVideo to onJoined event
-
-<span style="color:#75715e">### Updated</span>
-- Updated VideoRTC.js library <span style="color:#f92672">(</span>v4.0.0<span style="color:#f92672">)</span>
-- Updated the webrtc-gateway internal core
-- Updated Asterisk release version to v16.20.0
-- Updated PHP version to v8.0
-
-<span style="color:#75715e">### Fixed</span>
-- Fixed hold-video visibility on the Webclient: It is also rendered when the agent mutes the video
-- Fixed a race condition in the Webclient between the onHangup and onVideoClosed events that was preventing correct urlClose redirections
-- Added a check to prevent JS errors <span style="color:#66d9ef">if</span> no fabs are configured
-- Fixed the detection of the local user screenshare stream when using the RemoteViewer
-- Fixed geoposition feature by waiting <span style="color:#66d9ef">until</span> the location data is available before starting a call
-</code></pre></div><hr>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-bash" data-lang="bash"><span style="display:flex;"><span><span style="color:#75715e">## [5.0.0] - 2022-01-12</span>
+</span></span><span style="display:flex;"><span><span style="color:#75715e">### Added</span>
+</span></span><span style="display:flex;"><span>- New configuration params to the Tester usecase: autoStart, autoTroubleshoot and showRedirectBtnOnlyIfTestOk
+</span></span><span style="display:flex;"><span>- Added a way <span style="color:#66d9ef">for</span> the Tester to know which checks are necessary to display the Next button
+</span></span><span style="display:flex;"><span>- Advice feature to the SPLIT Agent usecase
+</span></span><span style="display:flex;"><span>- Possibility in the Webclient to differentiate when a call in queue or on hold
+</span></span><span style="display:flex;"><span>- Possibility to download chat history from the SPLIT Agent usecase
+</span></span><span style="display:flex;"><span>- Flip Camera action on both the Videocall and RemoteViewer usecases
+</span></span><span style="display:flex;"><span>- Possibility to configure webpage title and favicon by theme
+</span></span><span style="display:flex;"><span>- Possibility to setup RemoteViewer without ScreenSharing or Audio
+</span></span><span style="display:flex;"><span>- Option to configure an endpoint to send snapshots via URL request from the SplitAgent
+</span></span><span style="display:flex;"><span>- Added a way to apply different CSS rules depending on the theme name
+</span></span><span style="display:flex;"><span>- Webclient can now be configured in escalating mode
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span><span style="color:#75715e">### Changed</span>
+</span></span><span style="display:flex;"><span>- OS System required has gone up to Debian <span style="color:#ae81ff">11</span>
+</span></span><span style="display:flex;"><span>- New structure of the web resources after a build
+</span></span><span style="display:flex;"><span>- Added camera check before starting SplitAgent plus moved auto recording trigger from onAcceptedVideo to onJoined event
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span><span style="color:#75715e">### Updated</span>
+</span></span><span style="display:flex;"><span>- Updated VideoRTC.js library <span style="color:#f92672">(</span>v4.0.0<span style="color:#f92672">)</span>
+</span></span><span style="display:flex;"><span>- Updated the webrtc-gateway internal core
+</span></span><span style="display:flex;"><span>- Updated Asterisk release version to v16.20.0
+</span></span><span style="display:flex;"><span>- Updated PHP version to v8.0
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span><span style="color:#75715e">### Fixed</span>
+</span></span><span style="display:flex;"><span>- Fixed hold-video visibility on the Webclient: It is also rendered when the agent mutes the video
+</span></span><span style="display:flex;"><span>- Fixed a race condition in the Webclient between the onHangup and onVideoClosed events that was preventing correct urlClose redirections
+</span></span><span style="display:flex;"><span>- Added a check to prevent JS errors <span style="color:#66d9ef">if</span> no fabs are configured
+</span></span><span style="display:flex;"><span>- Fixed the detection of the local user screenshare stream when using the RemoteViewer
+</span></span><span style="display:flex;"><span>- Fixed geoposition feature by waiting <span style="color:#66d9ef">until</span> the location data is available before starting a call
+</span></span></code></pre></div><hr>
 <p><a href="http://www.ivrpowers.com/">Interactive Powers</a> - Streamline your business communications</p>
 
   			</section>

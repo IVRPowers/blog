@@ -223,60 +223,60 @@ Here a list of interesting features available to update your Webclient:</p>
 <li><strong>typeCall</strong> - Set Webclient as audio call only or video call.</li>
 </ul>
 <p>configWebclient.js - JavaScript:</p>
-<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-javascript" data-lang="javascript"><span style="color:#66d9ef">var</span> <span style="color:#a6e22e">phoneColor</span> <span style="color:#f92672">=</span> <span style="color:#e6db74">&#39;#FD554D&#39;</span>;
-<span style="color:#66d9ef">var</span> <span style="color:#a6e22e">configWebClient</span> <span style="color:#f92672">=</span> {
-    <span style="color:#a6e22e">autocall</span><span style="color:#f92672">:</span> <span style="color:#66d9ef">false</span>,
-    <span style="color:#a6e22e">autoClose</span><span style="color:#f92672">:</span> <span style="color:#66d9ef">false</span>,
-    <span style="color:#a6e22e">calling</span><span style="color:#f92672">:</span> {
-        <span style="color:#a6e22e">title</span><span style="color:#f92672">:</span> <span style="color:#e6db74">&#39;Calling&#39;</span>,
-        ...
-    },
-    <span style="color:#a6e22e">callSettings</span><span style="color:#f92672">:</span> {
-        <span style="color:#a6e22e">startAudioMuted</span><span style="color:#f92672">:</span> <span style="color:#66d9ef">false</span>,
-        ...
-    },
-    <span style="color:#a6e22e">controls</span><span style="color:#f92672">:</span> {
-        <span style="color:#a6e22e">type</span><span style="color:#f92672">:</span> <span style="color:#e6db74">&#39;classic&#39;</span>, <span style="color:#75715e">// toolbar-top, toolbar-bottom, classic
-</span><span style="color:#75715e"></span>        <span style="color:#a6e22e">buttons</span><span style="color:#f92672">:</span> [
-            {
-                <span style="color:#a6e22e">id</span><span style="color:#f92672">:</span> <span style="color:#e6db74">&#39;call&#39;</span>,
-                <span style="color:#66d9ef">class</span><span style="color:#f92672">:</span> <span style="color:#e6db74">&#39;webclient-btn-hover-green&#39;</span>,
-                <span style="color:#a6e22e">btnSrc</span><span style="color:#f92672">:</span> <span style="color:#e6db74">&#39;assets/icons/Call-White.png&#39;</span>,
-                <span style="color:#a6e22e">btnOption</span><span style="color:#f92672">:</span> <span style="color:#e6db74">&#39;enabled&#39;</span>,
-                <span style="color:#a6e22e">classicMode</span><span style="color:#f92672">:</span> {
-                    <span style="color:#a6e22e">positionX</span><span style="color:#f92672">:</span> <span style="color:#e6db74">&#39;left&#39;</span>,
-                    <span style="color:#a6e22e">positionY</span><span style="color:#f92672">:</span> <span style="color:#e6db74">&#39;bottom&#39;</span>,
-                    <span style="color:#a6e22e">distanceX</span><span style="color:#f92672">:</span> <span style="color:#e6db74">&#39;15px&#39;</span>,
-                    <span style="color:#a6e22e">distanceY</span><span style="color:#f92672">:</span> <span style="color:#e6db74">&#39;15px&#39;</span>
-                }
-            },
-            ...
-        ],
-        ...
-    }
-    <span style="color:#a6e22e">liveChat</span><span style="color:#f92672">:</span> {
-        <span style="color:#a6e22e">enabled</span><span style="color:#f92672">:</span> <span style="color:#66d9ef">true</span>,
-        <span style="color:#a6e22e">emoji</span><span style="color:#f92672">:</span> <span style="color:#66d9ef">true</span>,
-        <span style="color:#a6e22e">soundHandle</span><span style="color:#f92672">:</span> <span style="color:#66d9ef">true</span>,
-        <span style="color:#a6e22e">allowedTypes</span><span style="color:#f92672">:</span> [<span style="color:#e6db74">&#39;image/jpeg&#39;</span>, <span style="color:#e6db74">&#39;image/png&#39;</span>],
-        <span style="color:#a6e22e">maxSize</span><span style="color:#f92672">:</span> <span style="color:#ae81ff">5</span>, <span style="color:#75715e">// MB
-</span><span style="color:#75715e"></span>        ...
-    },
-    <span style="color:#a6e22e">overprint</span><span style="color:#f92672">:</span> {
-        <span style="color:#a6e22e">enabled</span><span style="color:#f92672">:</span> <span style="color:#66d9ef">true</span>,
-        <span style="color:#a6e22e">position</span><span style="color:#f92672">:</span> <span style="color:#e6db74">&#39;right&#39;</span>,
-        ...
-    },
-    <span style="color:#a6e22e">texts</span><span style="color:#f92672">:</span> {
-        <span style="color:#a6e22e">labelCallHungUp</span><span style="color:#f92672">:</span> <span style="color:#e6db74">&#39;Call hung up&#39;</span>,
-        ...
-    },
-    <span style="color:#a6e22e">typeCall</span><span style="color:#f92672">:</span> {
-        <span style="color:#a6e22e">audio</span><span style="color:#f92672">:</span> <span style="color:#66d9ef">true</span>,
-        <span style="color:#a6e22e">video</span><span style="color:#f92672">:</span> <span style="color:#66d9ef">true</span>
-    }
-};
-</code></pre></div><p>If you require a specific custom design and these available options do not fit with it, you can always develop your own WebClient application from an empty document using our <a href="https://blog.ivrpowers.com/post/development/introducing-videortcjs-developers/">VideoRTC.js</a> library.</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-javascript" data-lang="javascript"><span style="display:flex;"><span><span style="color:#66d9ef">var</span> <span style="color:#a6e22e">phoneColor</span> <span style="color:#f92672">=</span> <span style="color:#e6db74">&#39;#FD554D&#39;</span>;
+</span></span><span style="display:flex;"><span><span style="color:#66d9ef">var</span> <span style="color:#a6e22e">configWebClient</span> <span style="color:#f92672">=</span> {
+</span></span><span style="display:flex;"><span>    <span style="color:#a6e22e">autocall</span><span style="color:#f92672">:</span> <span style="color:#66d9ef">false</span>,
+</span></span><span style="display:flex;"><span>    <span style="color:#a6e22e">autoClose</span><span style="color:#f92672">:</span> <span style="color:#66d9ef">false</span>,
+</span></span><span style="display:flex;"><span>    <span style="color:#a6e22e">calling</span><span style="color:#f92672">:</span> {
+</span></span><span style="display:flex;"><span>        <span style="color:#a6e22e">title</span><span style="color:#f92672">:</span> <span style="color:#e6db74">&#39;Calling&#39;</span>,
+</span></span><span style="display:flex;"><span>        ...
+</span></span><span style="display:flex;"><span>    },
+</span></span><span style="display:flex;"><span>    <span style="color:#a6e22e">callSettings</span><span style="color:#f92672">:</span> {
+</span></span><span style="display:flex;"><span>        <span style="color:#a6e22e">startAudioMuted</span><span style="color:#f92672">:</span> <span style="color:#66d9ef">false</span>,
+</span></span><span style="display:flex;"><span>        ...
+</span></span><span style="display:flex;"><span>    },
+</span></span><span style="display:flex;"><span>    <span style="color:#a6e22e">controls</span><span style="color:#f92672">:</span> {
+</span></span><span style="display:flex;"><span>        <span style="color:#a6e22e">type</span><span style="color:#f92672">:</span> <span style="color:#e6db74">&#39;classic&#39;</span>, <span style="color:#75715e">// toolbar-top, toolbar-bottom, classic
+</span></span></span><span style="display:flex;"><span><span style="color:#75715e"></span>        <span style="color:#a6e22e">buttons</span><span style="color:#f92672">:</span> [
+</span></span><span style="display:flex;"><span>            {
+</span></span><span style="display:flex;"><span>                <span style="color:#a6e22e">id</span><span style="color:#f92672">:</span> <span style="color:#e6db74">&#39;call&#39;</span>,
+</span></span><span style="display:flex;"><span>                <span style="color:#66d9ef">class</span><span style="color:#f92672">:</span> <span style="color:#e6db74">&#39;webclient-btn-hover-green&#39;</span>,
+</span></span><span style="display:flex;"><span>                <span style="color:#a6e22e">btnSrc</span><span style="color:#f92672">:</span> <span style="color:#e6db74">&#39;assets/icons/Call-White.png&#39;</span>,
+</span></span><span style="display:flex;"><span>                <span style="color:#a6e22e">btnOption</span><span style="color:#f92672">:</span> <span style="color:#e6db74">&#39;enabled&#39;</span>,
+</span></span><span style="display:flex;"><span>                <span style="color:#a6e22e">classicMode</span><span style="color:#f92672">:</span> {
+</span></span><span style="display:flex;"><span>                    <span style="color:#a6e22e">positionX</span><span style="color:#f92672">:</span> <span style="color:#e6db74">&#39;left&#39;</span>,
+</span></span><span style="display:flex;"><span>                    <span style="color:#a6e22e">positionY</span><span style="color:#f92672">:</span> <span style="color:#e6db74">&#39;bottom&#39;</span>,
+</span></span><span style="display:flex;"><span>                    <span style="color:#a6e22e">distanceX</span><span style="color:#f92672">:</span> <span style="color:#e6db74">&#39;15px&#39;</span>,
+</span></span><span style="display:flex;"><span>                    <span style="color:#a6e22e">distanceY</span><span style="color:#f92672">:</span> <span style="color:#e6db74">&#39;15px&#39;</span>
+</span></span><span style="display:flex;"><span>                }
+</span></span><span style="display:flex;"><span>            },
+</span></span><span style="display:flex;"><span>            ...
+</span></span><span style="display:flex;"><span>        ],
+</span></span><span style="display:flex;"><span>        ...
+</span></span><span style="display:flex;"><span>    }
+</span></span><span style="display:flex;"><span>    <span style="color:#a6e22e">liveChat</span><span style="color:#f92672">:</span> {
+</span></span><span style="display:flex;"><span>        <span style="color:#a6e22e">enabled</span><span style="color:#f92672">:</span> <span style="color:#66d9ef">true</span>,
+</span></span><span style="display:flex;"><span>        <span style="color:#a6e22e">emoji</span><span style="color:#f92672">:</span> <span style="color:#66d9ef">true</span>,
+</span></span><span style="display:flex;"><span>        <span style="color:#a6e22e">soundHandle</span><span style="color:#f92672">:</span> <span style="color:#66d9ef">true</span>,
+</span></span><span style="display:flex;"><span>        <span style="color:#a6e22e">allowedTypes</span><span style="color:#f92672">:</span> [<span style="color:#e6db74">&#39;image/jpeg&#39;</span>, <span style="color:#e6db74">&#39;image/png&#39;</span>],
+</span></span><span style="display:flex;"><span>        <span style="color:#a6e22e">maxSize</span><span style="color:#f92672">:</span> <span style="color:#ae81ff">5</span>, <span style="color:#75715e">// MB
+</span></span></span><span style="display:flex;"><span><span style="color:#75715e"></span>        ...
+</span></span><span style="display:flex;"><span>    },
+</span></span><span style="display:flex;"><span>    <span style="color:#a6e22e">overprint</span><span style="color:#f92672">:</span> {
+</span></span><span style="display:flex;"><span>        <span style="color:#a6e22e">enabled</span><span style="color:#f92672">:</span> <span style="color:#66d9ef">true</span>,
+</span></span><span style="display:flex;"><span>        <span style="color:#a6e22e">position</span><span style="color:#f92672">:</span> <span style="color:#e6db74">&#39;right&#39;</span>,
+</span></span><span style="display:flex;"><span>        ...
+</span></span><span style="display:flex;"><span>    },
+</span></span><span style="display:flex;"><span>    <span style="color:#a6e22e">texts</span><span style="color:#f92672">:</span> {
+</span></span><span style="display:flex;"><span>        <span style="color:#a6e22e">labelCallHungUp</span><span style="color:#f92672">:</span> <span style="color:#e6db74">&#39;Call hung up&#39;</span>,
+</span></span><span style="display:flex;"><span>        ...
+</span></span><span style="display:flex;"><span>    },
+</span></span><span style="display:flex;"><span>    <span style="color:#a6e22e">typeCall</span><span style="color:#f92672">:</span> {
+</span></span><span style="display:flex;"><span>        <span style="color:#a6e22e">audio</span><span style="color:#f92672">:</span> <span style="color:#66d9ef">true</span>,
+</span></span><span style="display:flex;"><span>        <span style="color:#a6e22e">video</span><span style="color:#f92672">:</span> <span style="color:#66d9ef">true</span>
+</span></span><span style="display:flex;"><span>    }
+</span></span><span style="display:flex;"><span>};
+</span></span></code></pre></div><p>If you require a specific custom design and these available options do not fit with it, you can always develop your own WebClient application from an empty document using our <a href="https://blog.ivrpowers.com/post/development/introducing-videortcjs-developers/">VideoRTC.js</a> library.</p>
 <p>Feel free to reach out if you have any questions or comments bellow or just want to show off what kind of cool stuff you’ve built with our <strong>API Framework</strong>.</p>
 <p>Email: <a href="mailto:support@ivrpowers.com">support@ivrpowers.com</a> · Twitter: <a href="https://twitter.com/ivrpowers">@ivrpowers</a> · Github: <a href="https://github.com/ivrpowers">IVRPowers</a></p>
 <hr>

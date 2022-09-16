@@ -13,7 +13,7 @@
       <pubDate>Tue, 23 Jul 2019 20:00:00 +0200</pubDate>
       
       <guid>https://blog.ivrpowers.com/post/news/firefox68-requires-https-in-all-sources/</guid>
-      <description>Photo Source: Creative Commons Firefox 68 will now only expose camera and microphone in secure contexts.  As of Firefox 68 — releasing past weeks — WebRTC camera and microphone will require an https connection to work. Access from insecure http will cease to work, matching how Chrome works. Camera and microhone are powerful features, and Firefox will now only expose them in secure contexts, a security and privacy improvement.</description>
+      <description>Photo Source: Creative Commons Firefox 68 will now only expose camera and microphone in secure contexts. As of Firefox 68 — releasing past weeks — WebRTC camera and microphone will require an https connection to work. Access from insecure http will cease to work, matching how Chrome works. Camera and microhone are powerful features, and Firefox will now only expose them in secure contexts, a security and privacy improvement.</description>
     </item>
     
   </channel>

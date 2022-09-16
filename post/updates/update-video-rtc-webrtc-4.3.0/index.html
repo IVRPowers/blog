@@ -187,44 +187,44 @@ html{font-family:sans-serif;line-height:1.15;-ms-text-size-adjust:100%;-webkit-t
 <p>We are pleased to announce that our new <strong>Video RTC (Gateway WebRTC) v4.3.0</strong> has been released for suitable production services. This new version includes a specific security fix for data channel recommendations.  All users with previous maintained versions can upgrade today. Please contact our support!</p>
 <h1 id="changelog">ChangeLog</h1>
 <p>Version 4.3.0:</p>
-<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-bash" data-lang="bash"><span style="color:#75715e">## [4.3.0] - 2021-02-04</span>
-<span style="color:#75715e">### Added</span>
-- Video feature in the Remote Viewer usecase
-- Parameter to set the bitrate when screensharing in the SPLIT usecases
-- Possibility to mute/unmute audio when using the RemoteViewer
-- Autoconnect feature in the RemoteViewer
-- Added a new usecase: SIPClient
-- Possibility to configure a shortener URL to the RemoteViewer
-- Possibility to start a RemoteViewer interaction without audio
-- Recording prefix parameter on the SPLIT Agent
-- Possibility to mute/unmute the local video automatically when screensharing
-- Added urlClose param on the SPLIT Agent usecase
-- File sharing as action on the Webclient
-- Possibility to customize the Max. Channels message
-- Possibility to hide remote labels on the Webclient
-- Possibility to send via SIP the geoposition of the user when using the Webclient
-- Possibility to send via SIP device information of the user when using the Webclient
-- Added Blur background on the Split Agent usecase
-- Added extra param on the Webclient to send custom data via SIP headers
-- Possibility to disable emojis when using the RemoteViewer
-- Possibility to send the same file twice when using the RemoteViewer
-- Optional username field on the guest side when using the RemoteViewer
-- Flip Camera action on the SPLIT usecases
-- Possibility to allow the account param <span style="color:#66d9ef">if</span> needed
-- Possibility to enable hold dialog when a call is stablished
-- Multiple troubleshoot URLs <span style="color:#66d9ef">for</span> the Tester usecase
-- Possibility to enable a waiting video before the remote video is accepted by the agent <span style="color:#f92672">(</span>Webclient<span style="color:#f92672">)</span>
-- Possibility to send the Tester results via HTTP request
-- Redirect param to the Tester usecase
-<span style="color:#75715e">### Updated</span>
-- Updated VideoRTC.js library <span style="color:#f92672">(</span>v3.4.0<span style="color:#f92672">)</span>
-- Updated the webrtc-gateway internal core
-- Remote video is now resized when remote peer is screensharing
-- Improved design of the Tester usecase
-- Improved design of the Webclient usecase by adding FAB
-<span style="color:#75715e">### Fixed</span>
-- Fixed a bug that opened the advice URL when the user clicked on the Save button
-</code></pre></div><hr>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-bash" data-lang="bash"><span style="display:flex;"><span><span style="color:#75715e">## [4.3.0] - 2021-02-04</span>
+</span></span><span style="display:flex;"><span><span style="color:#75715e">### Added</span>
+</span></span><span style="display:flex;"><span>- Video feature in the Remote Viewer usecase
+</span></span><span style="display:flex;"><span>- Parameter to set the bitrate when screensharing in the SPLIT usecases
+</span></span><span style="display:flex;"><span>- Possibility to mute/unmute audio when using the RemoteViewer
+</span></span><span style="display:flex;"><span>- Autoconnect feature in the RemoteViewer
+</span></span><span style="display:flex;"><span>- Added a new usecase: SIPClient
+</span></span><span style="display:flex;"><span>- Possibility to configure a shortener URL to the RemoteViewer
+</span></span><span style="display:flex;"><span>- Possibility to start a RemoteViewer interaction without audio
+</span></span><span style="display:flex;"><span>- Recording prefix parameter on the SPLIT Agent
+</span></span><span style="display:flex;"><span>- Possibility to mute/unmute the local video automatically when screensharing
+</span></span><span style="display:flex;"><span>- Added urlClose param on the SPLIT Agent usecase
+</span></span><span style="display:flex;"><span>- File sharing as action on the Webclient
+</span></span><span style="display:flex;"><span>- Possibility to customize the Max. Channels message
+</span></span><span style="display:flex;"><span>- Possibility to hide remote labels on the Webclient
+</span></span><span style="display:flex;"><span>- Possibility to send via SIP the geoposition of the user when using the Webclient
+</span></span><span style="display:flex;"><span>- Possibility to send via SIP device information of the user when using the Webclient
+</span></span><span style="display:flex;"><span>- Added Blur background on the Split Agent usecase
+</span></span><span style="display:flex;"><span>- Added extra param on the Webclient to send custom data via SIP headers
+</span></span><span style="display:flex;"><span>- Possibility to disable emojis when using the RemoteViewer
+</span></span><span style="display:flex;"><span>- Possibility to send the same file twice when using the RemoteViewer
+</span></span><span style="display:flex;"><span>- Optional username field on the guest side when using the RemoteViewer
+</span></span><span style="display:flex;"><span>- Flip Camera action on the SPLIT usecases
+</span></span><span style="display:flex;"><span>- Possibility to allow the account param <span style="color:#66d9ef">if</span> needed
+</span></span><span style="display:flex;"><span>- Possibility to enable hold dialog when a call is stablished
+</span></span><span style="display:flex;"><span>- Multiple troubleshoot URLs <span style="color:#66d9ef">for</span> the Tester usecase
+</span></span><span style="display:flex;"><span>- Possibility to enable a waiting video before the remote video is accepted by the agent <span style="color:#f92672">(</span>Webclient<span style="color:#f92672">)</span>
+</span></span><span style="display:flex;"><span>- Possibility to send the Tester results via HTTP request
+</span></span><span style="display:flex;"><span>- Redirect param to the Tester usecase
+</span></span><span style="display:flex;"><span><span style="color:#75715e">### Updated</span>
+</span></span><span style="display:flex;"><span>- Updated VideoRTC.js library <span style="color:#f92672">(</span>v3.4.0<span style="color:#f92672">)</span>
+</span></span><span style="display:flex;"><span>- Updated the webrtc-gateway internal core
+</span></span><span style="display:flex;"><span>- Remote video is now resized when remote peer is screensharing
+</span></span><span style="display:flex;"><span>- Improved design of the Tester usecase
+</span></span><span style="display:flex;"><span>- Improved design of the Webclient usecase by adding FAB
+</span></span><span style="display:flex;"><span><span style="color:#75715e">### Fixed</span>
+</span></span><span style="display:flex;"><span>- Fixed a bug that opened the advice URL when the user clicked on the Save button
+</span></span></code></pre></div><hr>
 <p><a href="http://www.ivrpowers.com/">Interactive Powers</a> - Streamline your business communications</p>
 
   			</section>

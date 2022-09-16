@@ -187,32 +187,32 @@ html{font-family:sans-serif;line-height:1.15;-ms-text-size-adjust:100%;-webkit-t
 <p>We are pleased to announce that our new <strong>Video RTC (Gateway WebRTC) v2.1.0</strong> has been released for suitable production services. This new version includes a lot of improvements and new features. All users with previous maintained versions can upgrade today. Please contact our support!</p>
 <h1 id="changelog">ChangeLog</h1>
 <p>Version 2.1.0:</p>
-<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-bash" data-lang="bash"><span style="color:#75715e">## [2.1.0] - 2017-04-17</span>
-<span style="color:#75715e">### Added</span>
-- Added Snapshot feature in the Split Agent usecase
-- VideoGateway notifies to participants when a Split session is finished
-- Added Autoclose feature in the Split Agent usecase
-- Added <span style="color:#e6db74">`</span>split_screen_bitrate<span style="color:#e6db74">`</span> in the Split configuration file
-- Added <span style="color:#e6db74">`</span>videorate<span style="color:#e6db74">`</span> and <span style="color:#e6db74">`</span>screenrate<span style="color:#e6db74">`</span> parameters in the <span style="color:#e6db74">`</span>call_split<span style="color:#e6db74">`</span> request
-- Added Quality selector in the Webclient usecase
-- Added sound notification when a message is received in the Split Agent usecase
-- Added sound notificator handle <span style="color:#f92672">(</span>Mute/Unmute<span style="color:#f92672">)</span> in LiveChat mode
-- Added visual notificacion when a file is sent in the Split Agent usecase
-- Added icon that identifies the file type sent/received
-- Added Drop feature <span style="color:#66d9ef">for</span> File Sharing <span style="color:#f92672">(</span>Agent -&gt; Client<span style="color:#f92672">)</span>
-- Added Emoji feature in LiveChat <span style="color:#f92672">(</span>Webclient and Split Agent<span style="color:#f92672">)</span>
-- Added FullScreen mode in ScreenSharing <span style="color:#f92672">(</span>Webclient<span style="color:#f92672">)</span>
-- Added SplitAgent configuration feature via Flavour <span style="color:#f92672">(</span>Autoclose, Emoji...<span style="color:#f92672">)</span>
-
-<span style="color:#75715e">### Changed</span>
-- Updated VideoRTC.js library <span style="color:#f92672">(</span>v1.1.0<span style="color:#f92672">)</span>
-- Dialog boxes has now vertical alignment and smaller width value in the WebClient and Split Agent
-
-<span style="color:#75715e">### Fixed</span>
-- Fixed resizing of Screensharing feature in the WebClient and Split Agent
-- Fixed minimizer bar in the Videomail and Videoplayer usecases
-- Fixed recording feature with the same name/id in the Videomail usecase
-</code></pre></div><hr>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-bash" data-lang="bash"><span style="display:flex;"><span><span style="color:#75715e">## [2.1.0] - 2017-04-17</span>
+</span></span><span style="display:flex;"><span><span style="color:#75715e">### Added</span>
+</span></span><span style="display:flex;"><span>- Added Snapshot feature in the Split Agent usecase
+</span></span><span style="display:flex;"><span>- VideoGateway notifies to participants when a Split session is finished
+</span></span><span style="display:flex;"><span>- Added Autoclose feature in the Split Agent usecase
+</span></span><span style="display:flex;"><span>- Added <span style="color:#e6db74">`</span>split_screen_bitrate<span style="color:#e6db74">`</span> in the Split configuration file
+</span></span><span style="display:flex;"><span>- Added <span style="color:#e6db74">`</span>videorate<span style="color:#e6db74">`</span> and <span style="color:#e6db74">`</span>screenrate<span style="color:#e6db74">`</span> parameters in the <span style="color:#e6db74">`</span>call_split<span style="color:#e6db74">`</span> request
+</span></span><span style="display:flex;"><span>- Added Quality selector in the Webclient usecase
+</span></span><span style="display:flex;"><span>- Added sound notification when a message is received in the Split Agent usecase
+</span></span><span style="display:flex;"><span>- Added sound notificator handle <span style="color:#f92672">(</span>Mute/Unmute<span style="color:#f92672">)</span> in LiveChat mode
+</span></span><span style="display:flex;"><span>- Added visual notificacion when a file is sent in the Split Agent usecase
+</span></span><span style="display:flex;"><span>- Added icon that identifies the file type sent/received
+</span></span><span style="display:flex;"><span>- Added Drop feature <span style="color:#66d9ef">for</span> File Sharing <span style="color:#f92672">(</span>Agent -&gt; Client<span style="color:#f92672">)</span>
+</span></span><span style="display:flex;"><span>- Added Emoji feature in LiveChat <span style="color:#f92672">(</span>Webclient and Split Agent<span style="color:#f92672">)</span>
+</span></span><span style="display:flex;"><span>- Added FullScreen mode in ScreenSharing <span style="color:#f92672">(</span>Webclient<span style="color:#f92672">)</span>
+</span></span><span style="display:flex;"><span>- Added SplitAgent configuration feature via Flavour <span style="color:#f92672">(</span>Autoclose, Emoji...<span style="color:#f92672">)</span>
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span><span style="color:#75715e">### Changed</span>
+</span></span><span style="display:flex;"><span>- Updated VideoRTC.js library <span style="color:#f92672">(</span>v1.1.0<span style="color:#f92672">)</span>
+</span></span><span style="display:flex;"><span>- Dialog boxes has now vertical alignment and smaller width value in the WebClient and Split Agent
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span><span style="color:#75715e">### Fixed</span>
+</span></span><span style="display:flex;"><span>- Fixed resizing of Screensharing feature in the WebClient and Split Agent
+</span></span><span style="display:flex;"><span>- Fixed minimizer bar in the Videomail and Videoplayer usecases
+</span></span><span style="display:flex;"><span>- Fixed recording feature with the same name/id in the Videomail usecase
+</span></span></code></pre></div><hr>
 <p><a href="http://www.ivrpowers.com/">Interactive Powers</a> - Streamline your business communications</p>
 
   			</section>

@@ -193,67 +193,67 @@ html{font-family:sans-serif;line-height:1.15;-ms-text-size-adjust:100%;-webkit-t
 <li>application/x-chat (Chat message)</li>
 <li>application/x-custom-command (Custom command)</li>
 </ul>
-<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-javascript" data-lang="javascript"><span style="color:#66d9ef">var</span> <span style="color:#a6e22e">options</span> <span style="color:#f92672">=</span> {
-	<span style="color:#a6e22e">dataChannel</span><span style="color:#f92672">:</span> {
-		<span style="color:#a6e22e">dataEnabled</span><span style="color:#f92672">:</span> <span style="color:#66d9ef">true</span>,
-		<span style="color:#a6e22e">allowedTypes</span><span style="color:#f92672">:</span> [<span style="color:#e6db74">&#39;application/x-chat&#39;</span>, <span style="color:#e6db74">&#39;application/x-custom-command&#39;</span>]
-	}
-};
-</code></pre></div><h2 id="sending-a-chat-message">Sending a chat message</h2>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-javascript" data-lang="javascript"><span style="display:flex;"><span><span style="color:#66d9ef">var</span> <span style="color:#a6e22e">options</span> <span style="color:#f92672">=</span> {
+</span></span><span style="display:flex;"><span>	<span style="color:#a6e22e">dataChannel</span><span style="color:#f92672">:</span> {
+</span></span><span style="display:flex;"><span>		<span style="color:#a6e22e">dataEnabled</span><span style="color:#f92672">:</span> <span style="color:#66d9ef">true</span>,
+</span></span><span style="display:flex;"><span>		<span style="color:#a6e22e">allowedTypes</span><span style="color:#f92672">:</span> [<span style="color:#e6db74">&#39;application/x-chat&#39;</span>, <span style="color:#e6db74">&#39;application/x-custom-command&#39;</span>]
+</span></span><span style="display:flex;"><span>	}
+</span></span><span style="display:flex;"><span>};
+</span></span></code></pre></div><h2 id="sending-a-chat-message">Sending a chat message</h2>
 <p>Here is a small example of the method we use to send a chat message between two peers through the datachannel:</p>
-<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-javascript" data-lang="javascript"><span style="color:#a6e22e">action</span>.<span style="color:#a6e22e">sendData</span>(
-	<span style="color:#e6db74">&#39;application/x-chat&#39;</span>, 
-	<span style="color:#e6db74">&#39;Hello Mike!&#39;</span>,
-	<span style="color:#66d9ef">function</span>(<span style="color:#a6e22e">cOk</span>) {
-		<span style="color:#75715e">// Success
-</span><span style="color:#75715e"></span>	},
-	<span style="color:#66d9ef">function</span>(<span style="color:#a6e22e">error</span>) {
-		<span style="color:#75715e">// Error
-</span><span style="color:#75715e"></span>	}
-);
-</code></pre></div><p>The first parameter identifies the type of data (MIME type) we are sending through the datachannel and it is very important that the receiver knows this in order to recover it properly.
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-javascript" data-lang="javascript"><span style="display:flex;"><span><span style="color:#a6e22e">action</span>.<span style="color:#a6e22e">sendData</span>(
+</span></span><span style="display:flex;"><span>	<span style="color:#e6db74">&#39;application/x-chat&#39;</span>, 
+</span></span><span style="display:flex;"><span>	<span style="color:#e6db74">&#39;Hello Mike!&#39;</span>,
+</span></span><span style="display:flex;"><span>	<span style="color:#66d9ef">function</span>(<span style="color:#a6e22e">cOk</span>) {
+</span></span><span style="display:flex;"><span>		<span style="color:#75715e">// Success
+</span></span></span><span style="display:flex;"><span><span style="color:#75715e"></span>	},
+</span></span><span style="display:flex;"><span>	<span style="color:#66d9ef">function</span>(<span style="color:#a6e22e">error</span>) {
+</span></span><span style="display:flex;"><span>		<span style="color:#75715e">// Error
+</span></span></span><span style="display:flex;"><span><span style="color:#75715e"></span>	}
+</span></span><span style="display:flex;"><span>);
+</span></span></code></pre></div><p>The first parameter identifies the type of data (MIME type) we are sending through the datachannel and it is very important that the receiver knows this in order to recover it properly.
 Therefore, in this case when we receive a message of this kind, we&rsquo;ll print it on the console:</p>
-<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-javascript" data-lang="javascript"><span style="color:#66d9ef">var</span> <span style="color:#a6e22e">onEvents</span> <span style="color:#f92672">=</span> {
-	<span style="color:#a6e22e">onDataReceived</span><span style="color:#f92672">:</span> <span style="color:#66d9ef">function</span>(<span style="color:#a6e22e">type</span>, <span style="color:#a6e22e">data</span>, <span style="color:#a6e22e">filename</span>) {
-		<span style="color:#66d9ef">if</span>(<span style="color:#a6e22e">type</span> <span style="color:#f92672">===</span> <span style="color:#e6db74">&#39;application/x-chat&#39;</span>) { 
-			<span style="color:#a6e22e">console</span>.<span style="color:#a6e22e">log</span>(<span style="color:#e6db74">&#34;Chat message received: &#34;</span> <span style="color:#f92672">+</span> <span style="color:#a6e22e">data</span>);
-		}
-	}
-};
-</code></pre></div><h2 id="sending-a-custom-command">Sending a custom command</h2>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-javascript" data-lang="javascript"><span style="display:flex;"><span><span style="color:#66d9ef">var</span> <span style="color:#a6e22e">onEvents</span> <span style="color:#f92672">=</span> {
+</span></span><span style="display:flex;"><span>	<span style="color:#a6e22e">onDataReceived</span><span style="color:#f92672">:</span> <span style="color:#66d9ef">function</span>(<span style="color:#a6e22e">type</span>, <span style="color:#a6e22e">data</span>, <span style="color:#a6e22e">filename</span>) {
+</span></span><span style="display:flex;"><span>		<span style="color:#66d9ef">if</span>(<span style="color:#a6e22e">type</span> <span style="color:#f92672">===</span> <span style="color:#e6db74">&#39;application/x-chat&#39;</span>) { 
+</span></span><span style="display:flex;"><span>			<span style="color:#a6e22e">console</span>.<span style="color:#a6e22e">log</span>(<span style="color:#e6db74">&#34;Chat message received: &#34;</span> <span style="color:#f92672">+</span> <span style="color:#a6e22e">data</span>);
+</span></span><span style="display:flex;"><span>		}
+</span></span><span style="display:flex;"><span>	}
+</span></span><span style="display:flex;"><span>};
+</span></span></code></pre></div><h2 id="sending-a-custom-command">Sending a custom command</h2>
 <p>As you can expect, you can create your own MIME type and treat it the way you want in your own application. The Datachannel allows you to send any data that can be serialized as string.</p>
 <p>In the same way that we send a chat message, we can send a command type message (x-custom-command) in the following way:</p>
-<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-javascript" data-lang="javascript"><span style="color:#66d9ef">var</span> <span style="color:#a6e22e">data</span> <span style="color:#f92672">=</span> {
-	<span style="color:#a6e22e">id</span><span style="color:#f92672">:</span> <span style="color:#ae81ff">23</span>,
-	<span style="color:#a6e22e">position</span><span style="color:#f92672">:</span> {
-		<span style="color:#a6e22e">latitude</span><span style="color:#f92672">:</span> <span style="color:#ae81ff">40.4343941</span>,
-		<span style="color:#a6e22e">longitude</span><span style="color:#f92672">:</span> <span style="color:#f92672">-</span><span style="color:#ae81ff">3.7079737</span>
-	},
-	<span style="color:#a6e22e">tags</span><span style="color:#f92672">:</span> [<span style="color:#e6db74">&#34;Interative Powers&#34;</span>, <span style="color:#e6db74">&#34;IntPowers&#34;</span>]
-};
-<span style="color:#a6e22e">action</span>.<span style="color:#a6e22e">sendData</span>(
-	<span style="color:#e6db74">&#39;application/x-custom-command&#39;</span>,
-	<span style="color:#a6e22e">JSON</span>.<span style="color:#a6e22e">stringify</span>(<span style="color:#a6e22e">data</span>),
-	<span style="color:#66d9ef">function</span>(<span style="color:#a6e22e">cOk</span>) {
-		<span style="color:#75715e">// Success
-</span><span style="color:#75715e"></span>	},
-	<span style="color:#66d9ef">function</span>(<span style="color:#a6e22e">error</span>) {
-		<span style="color:#75715e">// Error
-</span><span style="color:#75715e"></span>	}
-);
-</code></pre></div><p>In this case, when we receive a message of this kind, we&rsquo;ll do whatever the developer wants.</p>
-<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-javascript" data-lang="javascript"><span style="color:#66d9ef">var</span> <span style="color:#a6e22e">onEvents</span> <span style="color:#f92672">=</span> {
-	<span style="color:#a6e22e">onDataReceived</span><span style="color:#f92672">:</span> <span style="color:#66d9ef">function</span>(<span style="color:#a6e22e">type</span>, <span style="color:#a6e22e">data</span>, <span style="color:#a6e22e">filename</span>) {
-		<span style="color:#66d9ef">if</span>(<span style="color:#a6e22e">type</span> <span style="color:#f92672">===</span> <span style="color:#e6db74">&#39;application/x-custom-command&#39;</span>) { 
-			<span style="color:#66d9ef">var</span> <span style="color:#a6e22e">dataReceived</span> <span style="color:#f92672">=</span> <span style="color:#a6e22e">JSON</span>.<span style="color:#a6e22e">parse</span>(<span style="color:#a6e22e">data</span>);
-			<span style="color:#75715e">// TODO: Whatever you want
-</span><span style="color:#75715e"></span>			<span style="color:#a6e22e">console</span>.<span style="color:#a6e22e">log</span>(<span style="color:#e6db74">&#34;Latitude: &#34;</span> <span style="color:#f92672">+</span> <span style="color:#a6e22e">dataReceived</span>.<span style="color:#a6e22e">position</span>.<span style="color:#a6e22e">latitude</span>);
-			<span style="color:#a6e22e">console</span>.<span style="color:#a6e22e">log</span>(<span style="color:#e6db74">&#34;Longitude: &#34;</span> <span style="color:#f92672">+</span> <span style="color:#a6e22e">dataReceived</span>.<span style="color:#a6e22e">position</span>.<span style="color:#a6e22e">longitude</span>);
-		}
-
-	}
-};
-</code></pre></div><p>Feel free to reach out if you have any questions or comments bellow or just want to show off what kind of cool stuff you’ve built with <a href="http://blog.ivrpowers.com/post/development/introducing-videortcjs-developers/">VideoRTC.js</a>.</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-javascript" data-lang="javascript"><span style="display:flex;"><span><span style="color:#66d9ef">var</span> <span style="color:#a6e22e">data</span> <span style="color:#f92672">=</span> {
+</span></span><span style="display:flex;"><span>	<span style="color:#a6e22e">id</span><span style="color:#f92672">:</span> <span style="color:#ae81ff">23</span>,
+</span></span><span style="display:flex;"><span>	<span style="color:#a6e22e">position</span><span style="color:#f92672">:</span> {
+</span></span><span style="display:flex;"><span>		<span style="color:#a6e22e">latitude</span><span style="color:#f92672">:</span> <span style="color:#ae81ff">40.4343941</span>,
+</span></span><span style="display:flex;"><span>		<span style="color:#a6e22e">longitude</span><span style="color:#f92672">:</span> <span style="color:#f92672">-</span><span style="color:#ae81ff">3.7079737</span>
+</span></span><span style="display:flex;"><span>	},
+</span></span><span style="display:flex;"><span>	<span style="color:#a6e22e">tags</span><span style="color:#f92672">:</span> [<span style="color:#e6db74">&#34;Interative Powers&#34;</span>, <span style="color:#e6db74">&#34;IntPowers&#34;</span>]
+</span></span><span style="display:flex;"><span>};
+</span></span><span style="display:flex;"><span><span style="color:#a6e22e">action</span>.<span style="color:#a6e22e">sendData</span>(
+</span></span><span style="display:flex;"><span>	<span style="color:#e6db74">&#39;application/x-custom-command&#39;</span>,
+</span></span><span style="display:flex;"><span>	<span style="color:#a6e22e">JSON</span>.<span style="color:#a6e22e">stringify</span>(<span style="color:#a6e22e">data</span>),
+</span></span><span style="display:flex;"><span>	<span style="color:#66d9ef">function</span>(<span style="color:#a6e22e">cOk</span>) {
+</span></span><span style="display:flex;"><span>		<span style="color:#75715e">// Success
+</span></span></span><span style="display:flex;"><span><span style="color:#75715e"></span>	},
+</span></span><span style="display:flex;"><span>	<span style="color:#66d9ef">function</span>(<span style="color:#a6e22e">error</span>) {
+</span></span><span style="display:flex;"><span>		<span style="color:#75715e">// Error
+</span></span></span><span style="display:flex;"><span><span style="color:#75715e"></span>	}
+</span></span><span style="display:flex;"><span>);
+</span></span></code></pre></div><p>In this case, when we receive a message of this kind, we&rsquo;ll do whatever the developer wants.</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-javascript" data-lang="javascript"><span style="display:flex;"><span><span style="color:#66d9ef">var</span> <span style="color:#a6e22e">onEvents</span> <span style="color:#f92672">=</span> {
+</span></span><span style="display:flex;"><span>	<span style="color:#a6e22e">onDataReceived</span><span style="color:#f92672">:</span> <span style="color:#66d9ef">function</span>(<span style="color:#a6e22e">type</span>, <span style="color:#a6e22e">data</span>, <span style="color:#a6e22e">filename</span>) {
+</span></span><span style="display:flex;"><span>		<span style="color:#66d9ef">if</span>(<span style="color:#a6e22e">type</span> <span style="color:#f92672">===</span> <span style="color:#e6db74">&#39;application/x-custom-command&#39;</span>) { 
+</span></span><span style="display:flex;"><span>			<span style="color:#66d9ef">var</span> <span style="color:#a6e22e">dataReceived</span> <span style="color:#f92672">=</span> <span style="color:#a6e22e">JSON</span>.<span style="color:#a6e22e">parse</span>(<span style="color:#a6e22e">data</span>);
+</span></span><span style="display:flex;"><span>			<span style="color:#75715e">// TODO: Whatever you want
+</span></span></span><span style="display:flex;"><span><span style="color:#75715e"></span>			<span style="color:#a6e22e">console</span>.<span style="color:#a6e22e">log</span>(<span style="color:#e6db74">&#34;Latitude: &#34;</span> <span style="color:#f92672">+</span> <span style="color:#a6e22e">dataReceived</span>.<span style="color:#a6e22e">position</span>.<span style="color:#a6e22e">latitude</span>);
+</span></span><span style="display:flex;"><span>			<span style="color:#a6e22e">console</span>.<span style="color:#a6e22e">log</span>(<span style="color:#e6db74">&#34;Longitude: &#34;</span> <span style="color:#f92672">+</span> <span style="color:#a6e22e">dataReceived</span>.<span style="color:#a6e22e">position</span>.<span style="color:#a6e22e">longitude</span>);
+</span></span><span style="display:flex;"><span>		}
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span>	}
+</span></span><span style="display:flex;"><span>};
+</span></span></code></pre></div><p>Feel free to reach out if you have any questions or comments bellow or just want to show off what kind of cool stuff you’ve built with <a href="http://blog.ivrpowers.com/post/development/introducing-videortcjs-developers/">VideoRTC.js</a>.</p>
 <p>Email: <a href="mailto:support@ivrpowers.com">support@ivrpowers.com</a> · Twitter: <a href="https://twitter.com/ivrpowers">@ivrpowers</a>
 · Github: <a href="https://github.com/ivrpowers">IVRPowers</a></p>
 
