@@ -17,7 +17,7 @@ image = "/postimages/customerengagement/slide-2022-01.006.jpeg"
 
 Our approach to **video communications allows to deliver security, scalability, and reliability** to our customers.  Ensure that your strategic plans for this  year will improve both the employee and customer experience. An exceptional employee experience fuels an unparalleled customer experience, two key ingredients necessary to retain customer loyalty, drive new customer acquisition, and gain a competitive.
 
-Here are other KPIs that are just as, if not more important, to look at as you’re measuring and benchmarking your Video CC or Call / Contact Center’s performance:
+Here are other KPIs that are just as, if not more important, to look at as you’re measuring and benchmarking your [Video CC](https://blog.ivrpowers.com/post/contactcenter/video-call-contact-center/) or Call / Contact Center’s performance:
 
 * [Customer Satisfaction Score (CSAT)](https://blog.ivrpowers.com/post/customerengagement/customer-satisfaction-score-csat/)
 * [Average Handle Time Score (AHT)](https://blog.ivrpowers.com/post/customerengagement/average-handle-time-score-aht/)
