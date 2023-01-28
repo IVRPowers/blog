@@ -17,20 +17,11 @@
     </item>
     
     <item>
-      <title>partnership</title>
-      <link>https://blog.ivrpowers.com/tags/partnership/</link>
+      <title>website</title>
+      <link>https://blog.ivrpowers.com/tags/website/</link>
       <pubDate>Sat, 28 Jan 2023 11:00:00 +0200</pubDate>
       
-      <guid>https://blog.ivrpowers.com/tags/partnership/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>videortc</title>
-      <link>https://blog.ivrpowers.com/tags/videortc/</link>
-      <pubDate>Sat, 28 Jan 2023 11:00:00 +0200</pubDate>
-      
-      <guid>https://blog.ivrpowers.com/tags/videortc/</guid>
+      <guid>https://blog.ivrpowers.com/tags/website/</guid>
       <description></description>
     </item>
     
@@ -58,6 +49,15 @@
       <pubDate>Fri, 17 Jun 2022 20:00:00 +0200</pubDate>
       
       <guid>https://blog.ivrpowers.com/tags/rtc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>videortc</title>
+      <link>https://blog.ivrpowers.com/tags/videortc/</link>
+      <pubDate>Fri, 17 Jun 2022 20:00:00 +0200</pubDate>
+      
+      <guid>https://blog.ivrpowers.com/tags/videortc/</guid>
       <description></description>
     </item>
     
@@ -274,6 +274,15 @@
       <pubDate>Fri, 27 Aug 2021 10:00:00 +0200</pubDate>
       
       <guid>https://blog.ivrpowers.com/tags/chatbot/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>partnership</title>
+      <link>https://blog.ivrpowers.com/tags/partnership/</link>
+      <pubDate>Fri, 27 Aug 2021 10:00:00 +0200</pubDate>
+      
+      <guid>https://blog.ivrpowers.com/tags/partnership/</guid>
       <description></description>
     </item>
     
