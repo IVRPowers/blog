@@ -3,7 +3,7 @@ categories = ["news"]
 date = "2023-01-28T11:00:00+02:00"
 description = "Announcement"
 draft = false
-tags = ["partnership","videortc","news"]
+tags = ["website","news"]
 title = "New Website Launch: Interactive Powers unveils state-of-the-art technology solutions"
 image = "/postimages/news/website-2023.webp"
 +++
