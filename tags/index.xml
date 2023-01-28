@@ -6,7 +6,34 @@
     <description>Recent content in Tags on Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 23 Dec 2022 12:00:00 +0200</lastBuildDate><atom:link href="https://blog.ivrpowers.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 28 Jan 2023 11:00:00 +0200</lastBuildDate><atom:link href="https://blog.ivrpowers.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>news</title>
+      <link>https://blog.ivrpowers.com/tags/news/</link>
+      <pubDate>Sat, 28 Jan 2023 11:00:00 +0200</pubDate>
+      
+      <guid>https://blog.ivrpowers.com/tags/news/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>partnership</title>
+      <link>https://blog.ivrpowers.com/tags/partnership/</link>
+      <pubDate>Sat, 28 Jan 2023 11:00:00 +0200</pubDate>
+      
+      <guid>https://blog.ivrpowers.com/tags/partnership/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>videortc</title>
+      <link>https://blog.ivrpowers.com/tags/videortc/</link>
+      <pubDate>Sat, 28 Jan 2023 11:00:00 +0200</pubDate>
+      
+      <guid>https://blog.ivrpowers.com/tags/videortc/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>ivrpowers</title>
       <link>https://blog.ivrpowers.com/tags/ivrpowers/</link>
@@ -31,15 +58,6 @@
       <pubDate>Fri, 17 Jun 2022 20:00:00 +0200</pubDate>
       
       <guid>https://blog.ivrpowers.com/tags/rtc/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>videortc</title>
-      <link>https://blog.ivrpowers.com/tags/videortc/</link>
-      <pubDate>Fri, 17 Jun 2022 20:00:00 +0200</pubDate>
-      
-      <guid>https://blog.ivrpowers.com/tags/videortc/</guid>
       <description></description>
     </item>
     
@@ -256,24 +274,6 @@
       <pubDate>Fri, 27 Aug 2021 10:00:00 +0200</pubDate>
       
       <guid>https://blog.ivrpowers.com/tags/chatbot/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>news</title>
-      <link>https://blog.ivrpowers.com/tags/news/</link>
-      <pubDate>Fri, 27 Aug 2021 10:00:00 +0200</pubDate>
-      
-      <guid>https://blog.ivrpowers.com/tags/news/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>partnership</title>
-      <link>https://blog.ivrpowers.com/tags/partnership/</link>
-      <pubDate>Fri, 27 Aug 2021 10:00:00 +0200</pubDate>
-      
-      <guid>https://blog.ivrpowers.com/tags/partnership/</guid>
       <description></description>
     </item>
     
