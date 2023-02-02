@@ -6,7 +6,7 @@
     <description>Recent content in Posts on Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 28 Jan 2023 11:00:00 +0200</lastBuildDate><atom:link href="https://blog.ivrpowers.com/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 02 Feb 2023 12:00:00 +0200</lastBuildDate><atom:link href="https://blog.ivrpowers.com/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Welcome to our New Blog!</title>
       <link>https://blog.ivrpowers.com/post/general/welcome-blog/</link>
@@ -37,6 +37,17 @@ Interactive Powers delivers communication platforms that enables advanced real-t
     </item>
     
     <item>
+      <title>Web ACD v1.14.0</title>
+      <link>https://blog.ivrpowers.com/post/updates/update-web-acd-1.14.0/</link>
+      <pubDate>Thu, 02 Feb 2023 12:00:00 +0200</pubDate>
+      
+      <guid>https://blog.ivrpowers.com/post/updates/update-web-acd-1.14.0/</guid>
+      <description>Release Note We are pleased to announce that our new Web ACD v1.14.0 has been released for suitable production services. This new version includes a specific security fix for data channel recommendations. All users with previous maintained versions can upgrade today. Please contact our support!
+ChangeLog Version 1.14.0:
+### [1.14.0] - 2023-01-25 ​ ### Added ​ - Added getUserfieldById method to the DB custom module ​ ### Changed ​ - Disabled Google Translate from the platform - Upgraded videortc font to release v1.</description>
+    </item>
+    
+    <item>
       <title>New Website Launch: Interactive Powers unveils state-of-the-art technology solutions</title>
       <link>https://blog.ivrpowers.com/post/news/new-website-launch-2023/</link>
       <pubDate>Sat, 28 Jan 2023 11:00:00 +0200</pubDate>
@@ -56,6 +67,17 @@ We specialize in providing cutting-edge technology solutions for businesses of a
       <description>Photo source: Interactive Powers Wishing you a wonderful holiday season. We are grateful for the opportunity to collaborate and celebrate with our community. We hope that you are able to cherish these holidays and enjoy a truly remarkable gift - the gift of togetherness. With our partners and clients, we venture into a new year filled with opportunity.
 Merry Christmas 2022 and hope you to your loved ones.
 God bless you all!</description>
+    </item>
+    
+    <item>
+      <title>Web ACD v1.13.0</title>
+      <link>https://blog.ivrpowers.com/post/updates/update-web-acd-1.13.0/</link>
+      <pubDate>Wed, 06 Jul 2022 12:00:00 +0200</pubDate>
+      
+      <guid>https://blog.ivrpowers.com/post/updates/update-web-acd-1.13.0/</guid>
+      <description>Release Note We are pleased to announce that our new Web ACD v1.13.0 has been released for suitable production services. This new version includes a specific security fix for data channel recommendations. All users with previous maintained versions can upgrade today. Please contact our support!
+ChangeLog Version 1.13.0:
+### [1.12.0] - 2022-05-12 ​ ### Added ​ - Target selection (iframe/tab) for the queue triggers - Home page customization ​ ### [1.</description>
     </item>
     
     <item>
@@ -353,6 +375,17 @@ Remote Working is Required Consumers are now building their whole lifestyles aro
     </item>
     
     <item>
+      <title>Web ACD v1.11.0</title>
+      <link>https://blog.ivrpowers.com/post/updates/update-web-acd-1.11.0/</link>
+      <pubDate>Thu, 30 Sep 2021 12:00:00 +0200</pubDate>
+      
+      <guid>https://blog.ivrpowers.com/post/updates/update-web-acd-1.11.0/</guid>
+      <description>Release Note We are pleased to announce that our new Web ACD v1.11.0 has been released for suitable production services. This new version includes a specific security fix for data channel recommendations. All users with previous maintained versions can upgrade today. Please contact our support!
+ChangeLog Version 1.11.0:
+## [1.5.0] - 2021-01-28 ​ ### Added ​ - Auto close functionality for the Queue triggers to select if they must be closed at call end or not - Administration/Supervision message to the agents - Custom PHP modules to extend platform functionalities ​ ## [1.</description>
+    </item>
+    
+    <item>
       <title>Centribal Chatbot integration for Video RTC</title>
       <link>https://blog.ivrpowers.com/post/news/centribal-chatbots-integration-for-video-rtc/</link>
       <pubDate>Fri, 27 Aug 2021 10:00:00 +0200</pubDate>
@@ -556,6 +589,17 @@ FAB Button enabled Flip Camera (new) Mute Camera Mute Audio Live Chat File Shari
     </item>
     
     <item>
+      <title>Web ACD v1.4.2</title>
+      <link>https://blog.ivrpowers.com/post/updates/update-web-acd-1.4.2/</link>
+      <pubDate>Tue, 15 Dec 2020 12:00:00 +0200</pubDate>
+      
+      <guid>https://blog.ivrpowers.com/post/updates/update-web-acd-1.4.2/</guid>
+      <description>Release Note We are pleased to announce that our new Web ACD v1.4.2 has been released for suitable production services. This new version includes a specific security fix for data channel recommendations. All users with previous maintained versions can upgrade today. Please contact our support!
+ChangeLog Version 1.4.2:
+## [1.1.1] - 2020-10-28 ​ ### Fixed ​ - Last status is only checked and rendered for SIP users ​ ## [1.1.2] - 2020-10-28 ​ ### Fixed ​ - The report directory creation is now done with the proper mode and mask ​ ## [1.</description>
+    </item>
+    
+    <item>
       <title>Virgo · Stats</title>
       <link>https://blog.ivrpowers.com/post/products/virgo-stats/</link>
       <pubDate>Thu, 10 Dec 2020 16:00:00 +0200</pubDate>
@@ -689,6 +733,17 @@ It’s no longer a world of call centers, today’s contact center has to be pre
       <guid>https://blog.ivrpowers.com/post/general/happy-halloween-2020/</guid>
       <description>Photo source: Interactive Powers, Creative Commons We want to wish you a dreadful and spooky 👻 Halloween 🎃 night from all Interactive Powers&amp;rsquo; team.
 Interactive Powers - Streamline your business communications</description>
+    </item>
+    
+    <item>
+      <title>Web ACD v1.1.0</title>
+      <link>https://blog.ivrpowers.com/post/updates/update-web-acd-1.1.0/</link>
+      <pubDate>Wed, 28 Oct 2020 12:00:00 +0200</pubDate>
+      
+      <guid>https://blog.ivrpowers.com/post/updates/update-web-acd-1.1.0/</guid>
+      <description>Release Note We are pleased to announce that our new Web ACD v1.1.0 has been released for suitable production services. This new version includes a specific security fix for data channel recommendations. All users with previous maintained versions can upgrade today. Please contact our support!
+ChangeLog Version 1.1.0:
+## [1.0.0] - 2020-10-14 ​ ### First release ​ ## [1.0.1] - 2020-10-15 ​ ### Fixed ​ - Normalized the CallerID of the user to remove accents to avoid crashes on calls ​ ## [1.</description>
     </item>
     
     <item>

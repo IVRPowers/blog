@@ -291,6 +291,17 @@ FAB Button enabled Flip Camera (new) Mute Camera Mute Audio Live Chat File Shari
     </item>
     
     <item>
+      <title>Web ACD v1.4.2</title>
+      <link>https://blog.ivrpowers.com/post/updates/update-web-acd-1.4.2/</link>
+      <pubDate>Tue, 15 Dec 2020 12:00:00 +0200</pubDate>
+      
+      <guid>https://blog.ivrpowers.com/post/updates/update-web-acd-1.4.2/</guid>
+      <description>Release Note We are pleased to announce that our new Web ACD v1.4.2 has been released for suitable production services. This new version includes a specific security fix for data channel recommendations. All users with previous maintained versions can upgrade today. Please contact our support!
+ChangeLog Version 1.4.2:
+## [1.1.1] - 2020-10-28 ​ ### Fixed ​ - Last status is only checked and rendered for SIP users ​ ## [1.1.2] - 2020-10-28 ​ ### Fixed ​ - The report directory creation is now done with the proper mode and mask ​ ## [1.</description>
+    </item>
+    
+    <item>
       <title>Virgo · Stats</title>
       <link>https://blog.ivrpowers.com/post/products/virgo-stats/</link>
       <pubDate>Thu, 10 Dec 2020 16:00:00 +0200</pubDate>

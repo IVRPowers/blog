@@ -6,7 +6,29 @@
     <description>Recent content in acd on Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 17 Nov 2021 00:12:00 +0200</lastBuildDate><atom:link href="https://blog.ivrpowers.com/tags/acd/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 02 Feb 2023 12:00:00 +0200</lastBuildDate><atom:link href="https://blog.ivrpowers.com/tags/acd/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Web ACD v1.14.0</title>
+      <link>https://blog.ivrpowers.com/post/updates/update-web-acd-1.14.0/</link>
+      <pubDate>Thu, 02 Feb 2023 12:00:00 +0200</pubDate>
+      
+      <guid>https://blog.ivrpowers.com/post/updates/update-web-acd-1.14.0/</guid>
+      <description>Release Note We are pleased to announce that our new Web ACD v1.14.0 has been released for suitable production services. This new version includes a specific security fix for data channel recommendations. All users with previous maintained versions can upgrade today. Please contact our support!
+ChangeLog Version 1.14.0:
+### [1.14.0] - 2023-01-25 ​ ### Added ​ - Added getUserfieldById method to the DB custom module ​ ### Changed ​ - Disabled Google Translate from the platform - Upgraded videortc font to release v1.</description>
+    </item>
+    
+    <item>
+      <title>Web ACD v1.13.0</title>
+      <link>https://blog.ivrpowers.com/post/updates/update-web-acd-1.13.0/</link>
+      <pubDate>Wed, 06 Jul 2022 12:00:00 +0200</pubDate>
+      
+      <guid>https://blog.ivrpowers.com/post/updates/update-web-acd-1.13.0/</guid>
+      <description>Release Note We are pleased to announce that our new Web ACD v1.13.0 has been released for suitable production services. This new version includes a specific security fix for data channel recommendations. All users with previous maintained versions can upgrade today. Please contact our support!
+ChangeLog Version 1.13.0:
+### [1.12.0] - 2022-05-12 ​ ### Added ​ - Target selection (iframe/tab) for the queue triggers - Home page customization ​ ### [1.</description>
+    </item>
+    
     <item>
       <title>The Evolution of Business Communications</title>
       <link>https://blog.ivrpowers.com/post/marketing/the-evolution-of-business-communications/</link>
@@ -27,6 +49,17 @@ Requirement Description Distribution Linux Debian 10 Linux Kernel x86_64 Cloud R
     </item>
     
     <item>
+      <title>Web ACD v1.11.0</title>
+      <link>https://blog.ivrpowers.com/post/updates/update-web-acd-1.11.0/</link>
+      <pubDate>Thu, 30 Sep 2021 12:00:00 +0200</pubDate>
+      
+      <guid>https://blog.ivrpowers.com/post/updates/update-web-acd-1.11.0/</guid>
+      <description>Release Note We are pleased to announce that our new Web ACD v1.11.0 has been released for suitable production services. This new version includes a specific security fix for data channel recommendations. All users with previous maintained versions can upgrade today. Please contact our support!
+ChangeLog Version 1.11.0:
+## [1.5.0] - 2021-01-28 ​ ### Added ​ - Auto close functionality for the Queue triggers to select if they must be closed at call end or not - Administration/Supervision message to the agents - Custom PHP modules to extend platform functionalities ​ ## [1.</description>
+    </item>
+    
+    <item>
       <title>What is ACD?</title>
       <link>https://blog.ivrpowers.com/post/technologies/what-is-acd/</link>
       <pubDate>Mon, 23 Aug 2021 00:20:05 +0200</pubDate>
@@ -42,6 +75,17 @@ Requirement Description Distribution Linux Debian 10 Linux Kernel x86_64 Cloud R
       
       <guid>https://blog.ivrpowers.com/post/support/network-connectivity-requirements/</guid>
       <description>Photo Source: Freepik. Creative Commons The following article outlines Video RTC and Mobile SDKs’ requirements for network connectivity. It lists the Interactive Powers CPaaS servers’ ports and IP addresses that the Widgets, Webclients or SDKs must be able to reach, and the bandwidth required for quality audio &amp;amp; video. As shown in the diagram below, two types of connections are required, Signalling and Media for Users and Agents sides.</description>
+    </item>
+    
+    <item>
+      <title>Web ACD v1.1.0</title>
+      <link>https://blog.ivrpowers.com/post/updates/update-web-acd-1.1.0/</link>
+      <pubDate>Wed, 28 Oct 2020 12:00:00 +0200</pubDate>
+      
+      <guid>https://blog.ivrpowers.com/post/updates/update-web-acd-1.1.0/</guid>
+      <description>Release Note We are pleased to announce that our new Web ACD v1.1.0 has been released for suitable production services. This new version includes a specific security fix for data channel recommendations. All users with previous maintained versions can upgrade today. Please contact our support!
+ChangeLog Version 1.1.0:
+## [1.0.0] - 2020-10-14 ​ ### First release ​ ## [1.0.1] - 2020-10-15 ​ ### Fixed ​ - Normalized the CallerID of the user to remove accents to avoid crashes on calls ​ ## [1.</description>
     </item>
     
   </channel>

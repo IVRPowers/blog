@@ -6,7 +6,29 @@
     <description>Recent content in changelog on Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 23 Mar 2022 00:20:00 +0200</lastBuildDate><atom:link href="https://blog.ivrpowers.com/tags/changelog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 02 Feb 2023 12:00:00 +0200</lastBuildDate><atom:link href="https://blog.ivrpowers.com/tags/changelog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Web ACD v1.14.0</title>
+      <link>https://blog.ivrpowers.com/post/updates/update-web-acd-1.14.0/</link>
+      <pubDate>Thu, 02 Feb 2023 12:00:00 +0200</pubDate>
+      
+      <guid>https://blog.ivrpowers.com/post/updates/update-web-acd-1.14.0/</guid>
+      <description>Release Note We are pleased to announce that our new Web ACD v1.14.0 has been released for suitable production services. This new version includes a specific security fix for data channel recommendations. All users with previous maintained versions can upgrade today. Please contact our support!
+ChangeLog Version 1.14.0:
+### [1.14.0] - 2023-01-25 ​ ### Added ​ - Added getUserfieldById method to the DB custom module ​ ### Changed ​ - Disabled Google Translate from the platform - Upgraded videortc font to release v1.</description>
+    </item>
+    
+    <item>
+      <title>Web ACD v1.13.0</title>
+      <link>https://blog.ivrpowers.com/post/updates/update-web-acd-1.13.0/</link>
+      <pubDate>Wed, 06 Jul 2022 12:00:00 +0200</pubDate>
+      
+      <guid>https://blog.ivrpowers.com/post/updates/update-web-acd-1.13.0/</guid>
+      <description>Release Note We are pleased to announce that our new Web ACD v1.13.0 has been released for suitable production services. This new version includes a specific security fix for data channel recommendations. All users with previous maintained versions can upgrade today. Please contact our support!
+ChangeLog Version 1.13.0:
+### [1.12.0] - 2022-05-12 ​ ### Added ​ - Target selection (iframe/tab) for the queue triggers - Home page customization ​ ### [1.</description>
+    </item>
+    
     <item>
       <title>Smart IVR v2.6</title>
       <link>https://blog.ivrpowers.com/post/updates/update-voicexml-ivr-2.6.0/</link>
@@ -41,6 +63,17 @@ ChangeLog Version 2.5:
     </item>
     
     <item>
+      <title>Web ACD v1.11.0</title>
+      <link>https://blog.ivrpowers.com/post/updates/update-web-acd-1.11.0/</link>
+      <pubDate>Thu, 30 Sep 2021 12:00:00 +0200</pubDate>
+      
+      <guid>https://blog.ivrpowers.com/post/updates/update-web-acd-1.11.0/</guid>
+      <description>Release Note We are pleased to announce that our new Web ACD v1.11.0 has been released for suitable production services. This new version includes a specific security fix for data channel recommendations. All users with previous maintained versions can upgrade today. Please contact our support!
+ChangeLog Version 1.11.0:
+## [1.5.0] - 2021-01-28 ​ ### Added ​ - Auto close functionality for the Queue triggers to select if they must be closed at call end or not - Administration/Supervision message to the agents - Custom PHP modules to extend platform functionalities ​ ## [1.</description>
+    </item>
+    
+    <item>
       <title>Smart IVR v2.4</title>
       <link>https://blog.ivrpowers.com/post/updates/update-voicexml-ivr-2.4.0/</link>
       <pubDate>Mon, 19 Jul 2021 00:20:00 +0200</pubDate>
@@ -71,6 +104,28 @@ ChangeLog Version 3.4.0:
       <description>Release Note We are pleased to announce that our new Video RTC (Gateway WebRTC) v4.3.0 has been released for suitable production services. This new version includes a specific security fix for data channel recommendations. All users with previous maintained versions can upgrade today. Please contact our support!
 ChangeLog Version 4.3.0:
 ## [4.3.0] - 2021-02-04 ### Added - Video feature in the Remote Viewer usecase - Parameter to set the bitrate when screensharing in the SPLIT usecases - Possibility to mute/unmute audio when using the RemoteViewer - Autoconnect feature in the RemoteViewer - Added a new usecase: SIPClient - Possibility to configure a shortener URL to the RemoteViewer - Possibility to start a RemoteViewer interaction without audio - Recording prefix parameter on the SPLIT Agent - Possibility to mute/unmute the local video automatically when screensharing - Added urlClose param on the SPLIT Agent usecase - File sharing as action on the Webclient - Possibility to customize the Max.</description>
+    </item>
+    
+    <item>
+      <title>Web ACD v1.4.2</title>
+      <link>https://blog.ivrpowers.com/post/updates/update-web-acd-1.4.2/</link>
+      <pubDate>Tue, 15 Dec 2020 12:00:00 +0200</pubDate>
+      
+      <guid>https://blog.ivrpowers.com/post/updates/update-web-acd-1.4.2/</guid>
+      <description>Release Note We are pleased to announce that our new Web ACD v1.4.2 has been released for suitable production services. This new version includes a specific security fix for data channel recommendations. All users with previous maintained versions can upgrade today. Please contact our support!
+ChangeLog Version 1.4.2:
+## [1.1.1] - 2020-10-28 ​ ### Fixed ​ - Last status is only checked and rendered for SIP users ​ ## [1.1.2] - 2020-10-28 ​ ### Fixed ​ - The report directory creation is now done with the proper mode and mask ​ ## [1.</description>
+    </item>
+    
+    <item>
+      <title>Web ACD v1.1.0</title>
+      <link>https://blog.ivrpowers.com/post/updates/update-web-acd-1.1.0/</link>
+      <pubDate>Wed, 28 Oct 2020 12:00:00 +0200</pubDate>
+      
+      <guid>https://blog.ivrpowers.com/post/updates/update-web-acd-1.1.0/</guid>
+      <description>Release Note We are pleased to announce that our new Web ACD v1.1.0 has been released for suitable production services. This new version includes a specific security fix for data channel recommendations. All users with previous maintained versions can upgrade today. Please contact our support!
+ChangeLog Version 1.1.0:
+## [1.0.0] - 2020-10-14 ​ ### First release ​ ## [1.0.1] - 2020-10-15 ​ ### Fixed ​ - Normalized the CallerID of the user to remove accents to avoid crashes on calls ​ ## [1.</description>
     </item>
     
     <item>

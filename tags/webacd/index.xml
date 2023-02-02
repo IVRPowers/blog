@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>webacd on Blog</title>
+    <link>https://blog.ivrpowers.com/tags/webacd/</link>
+    <description>Recent content in webacd on Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 02 Feb 2023 12:00:00 +0200</lastBuildDate><atom:link href="https://blog.ivrpowers.com/tags/webacd/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Web ACD v1.14.0</title>
+      <link>https://blog.ivrpowers.com/post/updates/update-web-acd-1.14.0/</link>
+      <pubDate>Thu, 02 Feb 2023 12:00:00 +0200</pubDate>
+      
+      <guid>https://blog.ivrpowers.com/post/updates/update-web-acd-1.14.0/</guid>
+      <description>Release Note We are pleased to announce that our new Web ACD v1.14.0 has been released for suitable production services. This new version includes a specific security fix for data channel recommendations. All users with previous maintained versions can upgrade today. Please contact our support!
+ChangeLog Version 1.14.0:
+### [1.14.0] - 2023-01-25 ​ ### Added ​ - Added getUserfieldById method to the DB custom module ​ ### Changed ​ - Disabled Google Translate from the platform - Upgraded videortc font to release v1.</description>
+    </item>
+    
+    <item>
+      <title>Web ACD v1.13.0</title>
+      <link>https://blog.ivrpowers.com/post/updates/update-web-acd-1.13.0/</link>
+      <pubDate>Wed, 06 Jul 2022 12:00:00 +0200</pubDate>
+      
+      <guid>https://blog.ivrpowers.com/post/updates/update-web-acd-1.13.0/</guid>
+      <description>Release Note We are pleased to announce that our new Web ACD v1.13.0 has been released for suitable production services. This new version includes a specific security fix for data channel recommendations. All users with previous maintained versions can upgrade today. Please contact our support!
+ChangeLog Version 1.13.0:
+### [1.12.0] - 2022-05-12 ​ ### Added ​ - Target selection (iframe/tab) for the queue triggers - Home page customization ​ ### [1.</description>
+    </item>
+    
+    <item>
+      <title>Web ACD v1.11.0</title>
+      <link>https://blog.ivrpowers.com/post/updates/update-web-acd-1.11.0/</link>
+      <pubDate>Thu, 30 Sep 2021 12:00:00 +0200</pubDate>
+      
+      <guid>https://blog.ivrpowers.com/post/updates/update-web-acd-1.11.0/</guid>
+      <description>Release Note We are pleased to announce that our new Web ACD v1.11.0 has been released for suitable production services. This new version includes a specific security fix for data channel recommendations. All users with previous maintained versions can upgrade today. Please contact our support!
+ChangeLog Version 1.11.0:
+## [1.5.0] - 2021-01-28 ​ ### Added ​ - Auto close functionality for the Queue triggers to select if they must be closed at call end or not - Administration/Supervision message to the agents - Custom PHP modules to extend platform functionalities ​ ## [1.</description>
+    </item>
+    
+    <item>
+      <title>Web ACD v1.1.0</title>
+      <link>https://blog.ivrpowers.com/post/updates/update-web-acd-1.1.0/</link>
+      <pubDate>Wed, 28 Oct 2020 12:00:00 +0200</pubDate>
+      
+      <guid>https://blog.ivrpowers.com/post/updates/update-web-acd-1.1.0/</guid>
+      <description>Release Note We are pleased to announce that our new Web ACD v1.1.0 has been released for suitable production services. This new version includes a specific security fix for data channel recommendations. All users with previous maintained versions can upgrade today. Please contact our support!
+ChangeLog Version 1.1.0:
+## [1.0.0] - 2020-10-14 ​ ### First release ​ ## [1.0.1] - 2020-10-15 ​ ### Fixed ​ - Normalized the CallerID of the user to remove accents to avoid crashes on calls ​ ## [1.</description>
+    </item>
+    
+  </channel>
+</rss>
