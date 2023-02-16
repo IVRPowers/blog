@@ -6,7 +6,43 @@
     <description>Recent content in Tags on Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 13 Feb 2023 20:00:00 +0200</lastBuildDate><atom:link href="https://blog.ivrpowers.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 15 Feb 2023 20:00:00 +0200</lastBuildDate><atom:link href="https://blog.ivrpowers.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>cctr</title>
+      <link>https://blog.ivrpowers.com/tags/cctr/</link>
+      <pubDate>Wed, 15 Feb 2023 20:00:00 +0200</pubDate>
+      
+      <guid>https://blog.ivrpowers.com/tags/cctr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>rtc</title>
+      <link>https://blog.ivrpowers.com/tags/rtc/</link>
+      <pubDate>Wed, 15 Feb 2023 20:00:00 +0200</pubDate>
+      
+      <guid>https://blog.ivrpowers.com/tags/rtc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>vcc</title>
+      <link>https://blog.ivrpowers.com/tags/vcc/</link>
+      <pubDate>Wed, 15 Feb 2023 20:00:00 +0200</pubDate>
+      
+      <guid>https://blog.ivrpowers.com/tags/vcc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>webrtc</title>
+      <link>https://blog.ivrpowers.com/tags/webrtc/</link>
+      <pubDate>Wed, 15 Feb 2023 20:00:00 +0200</pubDate>
+      
+      <guid>https://blog.ivrpowers.com/tags/webrtc/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>ivrpowers</title>
       <link>https://blog.ivrpowers.com/tags/ivrpowers/</link>
@@ -85,15 +121,6 @@
       <pubDate>Sat, 28 Jan 2023 11:00:00 +0200</pubDate>
       
       <guid>https://blog.ivrpowers.com/tags/website/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>rtc</title>
-      <link>https://blog.ivrpowers.com/tags/rtc/</link>
-      <pubDate>Fri, 17 Jun 2022 20:00:00 +0200</pubDate>
-      
-      <guid>https://blog.ivrpowers.com/tags/rtc/</guid>
       <description></description>
     </item>
     
@@ -193,15 +220,6 @@
       <pubDate>Sun, 23 Jan 2022 18:00:01 +0200</pubDate>
       
       <guid>https://blog.ivrpowers.com/tags/custexp/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>webrtc</title>
-      <link>https://blog.ivrpowers.com/tags/webrtc/</link>
-      <pubDate>Thu, 13 Jan 2022 12:00:00 +0200</pubDate>
-      
-      <guid>https://blog.ivrpowers.com/tags/webrtc/</guid>
       <description></description>
     </item>
     
@@ -400,15 +418,6 @@
       <pubDate>Mon, 28 Dec 2020 00:00:00 +0200</pubDate>
       
       <guid>https://blog.ivrpowers.com/tags/solution/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>cctr</title>
-      <link>https://blog.ivrpowers.com/tags/cctr/</link>
-      <pubDate>Sat, 19 Dec 2020 20:20:00 +0200</pubDate>
-      
-      <guid>https://blog.ivrpowers.com/tags/cctr/</guid>
       <description></description>
     </item>
     
