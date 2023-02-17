@@ -14,7 +14,7 @@ comments = true
 # Connect, Reinvent, Empower... your Business
 ---
 
-In today's digital world, customers expect to have a variety of communication options when interacting with businesses. Video is becoming an increasingly popular choice, and companies are finding that adding a video channel to their contact center is not just "a nice to have" but a necessity. That's why a **Video Contact Center** is the solution you've been looking for.
+In today's digital world, customers expect to have a variety of communication options when interacting with businesses. Video is becoming an increasingly popular choice, and companies are finding that adding a video channel to their contact center is not just "a nice to have" but a necessity. That's why a **Video Contact Center** is the game changer you've been looking for.
 
 ### Video Channels as a game changer
 
