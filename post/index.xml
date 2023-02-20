@@ -6,7 +6,7 @@
     <description>Recent content in Posts on Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 15 Feb 2023 20:00:00 +0200</lastBuildDate><atom:link href="https://blog.ivrpowers.com/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 19 Feb 2023 19:00:00 +0100</lastBuildDate><atom:link href="https://blog.ivrpowers.com/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Welcome to our New Blog!</title>
       <link>https://blog.ivrpowers.com/post/general/welcome-blog/</link>
@@ -34,6 +34,24 @@ Our Story Interactive Powers provides Smart IVR and Video RTC platforms to reima
       <guid>https://blog.ivrpowers.com/post/general/about-interactive-powers/</guid>
       <description>Photo source: Interactive Powers Interactive Powers develops technology that helps your organization connect, communicate and engage with your customers, employees and stakeholders. Contact with us to find out more about how we can help you achieve your business communication goals.
 Interactive Powers delivers communication platforms that enables advanced real-time interactions over public or private networks. We allow to deploy secure channels with unified voice, video, live chat and screen sharing capabilities for web, apps, and kiosk-based customer engagement to sale or support faster than ever.</description>
+    </item>
+    
+    <item>
+      <title>Top 6 reasons you should upgrade your Call Center to a Video Contact Center</title>
+      <link>https://blog.ivrpowers.com/post/trends/6-top-reasons-you-may-upgrade-your-call-center-to-a-video-contact-center/</link>
+      <pubDate>Sun, 19 Feb 2023 19:00:00 +0100</pubDate>
+      
+      <guid>https://blog.ivrpowers.com/post/trends/6-top-reasons-you-may-upgrade-your-call-center-to-a-video-contact-center/</guid>
+      <description>Source: Interactive Powers Video Contact Centers are a rising trend in the customer service industry As the world emerges from the pandemic, the way businesses operate is also changing. One emerging trend in the customer service industry is the adoption of video contact centers. Unlike traditional call centers, video contact centers offer a more personalized and interactive experience for customers, and are becoming increasingly popular among Digital Age consumers. In this post, we will discuss the advantages of video contact centers over traditional call centers, and how they can benefit businesses and their customers alike.</description>
+    </item>
+    
+    <item>
+      <title>Standard VoiceXML IVR vs Call Flow Diagram IVR</title>
+      <link>https://blog.ivrpowers.com/post/trends/standard-voicexml-vs-call-flow-diagram-powered-ivr/</link>
+      <pubDate>Sun, 19 Feb 2023 15:00:00 +0100</pubDate>
+      
+      <guid>https://blog.ivrpowers.com/post/trends/standard-voicexml-vs-call-flow-diagram-powered-ivr/</guid>
+      <description>Source: Interactive Powers Comparing Standard VoiceXML IVR and Call Flow Diagram IVR for Interactive Voice Response (IVR) Systems. Interactive Voice Response (IVR) systems are commonly used in many organizations to enhance customer service, increase efficiency, and reduce costs. There are different types of IVR systems available in the market, such as Standard VoiceXML IVR and Call Flow Diagram IVR. In this post, we will compare these two types of IVR systems.</description>
     </item>
     
     <item>

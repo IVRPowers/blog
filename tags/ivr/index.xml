@@ -6,7 +6,16 @@
     <description>Recent content in ivr on Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 23 Mar 2022 00:20:00 +0200</lastBuildDate><atom:link href="https://blog.ivrpowers.com/tags/ivr/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 19 Feb 2023 15:00:00 +0100</lastBuildDate><atom:link href="https://blog.ivrpowers.com/tags/ivr/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Standard VoiceXML IVR vs Call Flow Diagram IVR</title>
+      <link>https://blog.ivrpowers.com/post/trends/standard-voicexml-vs-call-flow-diagram-powered-ivr/</link>
+      <pubDate>Sun, 19 Feb 2023 15:00:00 +0100</pubDate>
+      
+      <guid>https://blog.ivrpowers.com/post/trends/standard-voicexml-vs-call-flow-diagram-powered-ivr/</guid>
+      <description>Source: Interactive Powers Comparing Standard VoiceXML IVR and Call Flow Diagram IVR for Interactive Voice Response (IVR) Systems. Interactive Voice Response (IVR) systems are commonly used in many organizations to enhance customer service, increase efficiency, and reduce costs. There are different types of IVR systems available in the market, such as Standard VoiceXML IVR and Call Flow Diagram IVR. In this post, we will compare these two types of IVR systems.</description>
+    </item>
+    
     <item>
       <title>Smart IVR v2.6</title>
       <link>https://blog.ivrpowers.com/post/updates/update-voicexml-ivr-2.6.0/</link>
