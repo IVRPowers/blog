@@ -13,14 +13,14 @@ image = "/postimages/trends/ivrpowers-slides-2023.005.webp"
 ------------
 ###### Source: Interactive Powers
 
-#	Comparing Standard VoiceXML IVR and Call Flow Diagram IVR for Interactive Voice Response (IVR) Systems.
+#	Comparing Standard VoiceXML and Call Flow Diagram implementation approach for Interactive Voice Response (IVR) Systems.
 --- 
 
 Interactive Voice Response (IVR) systems are commonly used in many organizations to enhance customer service, increase efficiency, and reduce costs. There are different types of IVR systems available in the market, such as Standard VoiceXML IVR and Call Flow Diagram IVR. In this post, we will compare these two types of IVR systems.
 
 ## Standard VoiceXML IVR advantages
 
-VoiceXML is a markup open standard language that is used to create voice applications for IVR systems. VoiceXML powered IVR systems use VoiceXML scripts to define the call flow and interaction between the caller and the system. These scripts are written in a text editor and can be edited and modified as needed. VoiceXML scripts are platform-independent, which means they can be used with different IVR systems.
+VoiceXML is a markup open standard language that is used to create voice applications for IVR systems. VoiceXML powered IVR systems use scripts with XML tags to define the call flow and interaction between the caller and the system. These scripts are written in a text editor and can be edited and modified as needed. VoiceXML scripts are platform-independent, which means they can be used with different IVR systems.
 
 Pros:
 
