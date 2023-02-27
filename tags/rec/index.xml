@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>rec on Blog</title>
+    <link>https://blog.ivrpowers.com/tags/rec/</link>
+    <description>Recent content in rec on Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 21 Feb 2023 15:00:00 +0100</lastBuildDate><atom:link href="https://blog.ivrpowers.com/tags/rec/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The importance of video call recording for face-to-face customer support</title>
+      <link>https://blog.ivrpowers.com/post/trends/the-importance-of-video-call-recording/</link>
+      <pubDate>Tue, 21 Feb 2023 15:00:00 +0100</pubDate>
+      
+      <guid>https://blog.ivrpowers.com/post/trends/the-importance-of-video-call-recording/</guid>
+      <description>Source: Interactive Powers Why getting video recordings is key for a successful video contact center? Benefits, Implementation Considerations, and Recommendations Currently, many companies are implementing video contact centers as a way to improve the customer experience. However, not all of these companies are fully taking advantage of the potential of this tool. One of the most important features to consider when implementing a video contact center is the ability to record customer interactions on video.</description>
+    </item>
+    
+  </channel>
+</rss>
