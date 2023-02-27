@@ -13,7 +13,7 @@ image = "/postimages/trends/ivrpowers-slides-2023.013.webp"
 ------------
 ###### Source: Interactive Powers
 
-#	Why getting video recordings is key for a successful video contact center? Benefits, Implementation Considerations, and Recommendations
+#	Improving Video Calling performance and Customer Experience with professional Background Effects: Solid, Picture or Blur
 --- 
 
 In recent years, video contact center services have become increasingly popular as more and more businesses realize the benefits of being able to connect with customers face-to-face, even if they're not in the same physical location. With the pandemic accelerating the shift to remote work, the use of video calls has become a critical part of providing customer support, sales, and other services.
