@@ -13,7 +13,7 @@ image = "/postimages/trends/ivrpowers-slides-2023.011.webp"
 ------------
 ###### Source: Interactive Powers
 
-#	Why getting video recordings is key for a successful video contact center? Benefits, Implementation Considerations, and Recommendations
+#	Why getting video recordings is key for a successful Video Contact Center? Benefits, Implementation Considerations, and Recommendations
 --- 
 
 Currently, many companies are looking for implementing a [video contact center](https://interactivepowers.com/en/processes/video-contact-center) as a way to improve the customer experience. However, not all of these companies are fully taking advantage of the potential of this tool. One of the most important features to consider when implementing a video contact center is the ability to record customer interactions on video. In this post, we will explain why having [video call recording](https://interactivepowers.com/en/processes/video-call-recording) in a video contact center is so important and how it can improve the customer experience or business efficiency.
