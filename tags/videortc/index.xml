@@ -6,7 +6,17 @@
     <description>Recent content in videortc on Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 17 Jun 2022 20:00:00 +0200</lastBuildDate><atom:link href="https://blog.ivrpowers.com/tags/videortc/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 07 Mar 2023 15:00:00 +0100</lastBuildDate><atom:link href="https://blog.ivrpowers.com/tags/videortc/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Testing device and network conditions before making Video Calls in Customer Support or Customer Service</title>
+      <link>https://blog.ivrpowers.com/post/trends/test-device-conditions-before-making-video-calls/</link>
+      <pubDate>Tue, 07 Mar 2023 15:00:00 +0100</pubDate>
+      
+      <guid>https://blog.ivrpowers.com/post/trends/test-device-conditions-before-making-video-calls/</guid>
+      <description>Source: Interactive Powers In the digital communication era, video calls have become a fundamental tool for companies that offer advanced customer services or customer support as well. However, often these video calls can present technical and network issues that can affect the quality of communication and the user&amp;rsquo;s experience.
+That is why it is essential to have a Tester application that tests the communication conditions, web browser, audio devices, microphone, and bandwidth available before making a video call with Internet users in a service open to the public.</description>
+    </item>
+    
     <item>
       <title>Five new features coming to Video RTC 5.x</title>
       <link>https://blog.ivrpowers.com/post/products/five-new-features-video-rtc-5x/</link>
