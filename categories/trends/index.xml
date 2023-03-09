@@ -6,7 +6,17 @@
     <description>Recent content in trends on Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 07 Mar 2023 15:00:00 +0100</lastBuildDate><atom:link href="https://blog.ivrpowers.com/categories/trends/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 08 Mar 2023 15:00:00 +0100</lastBuildDate><atom:link href="https://blog.ivrpowers.com/categories/trends/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Operational differences between transactional video calls and video room meetings</title>
+      <link>https://blog.ivrpowers.com/post/trends/transactional-video-calls-vs-video-room-meeting/</link>
+      <pubDate>Wed, 08 Mar 2023 15:00:00 +0100</pubDate>
+      
+      <guid>https://blog.ivrpowers.com/post/trends/transactional-video-calls-vs-video-room-meeting/</guid>
+      <description>Source: Interactive Powers Transactional video calls and video room meetings are two different forms of communication that have been made possible by modern WebRTC and SIP technologies. Transactional video calls are a form of one-on-one communication in real-time, while video room meetings are a form of group collaboration linked connection.
+Transactional Video Calls Transactional video calls enable two or three people to communicate with each other in real-time, and are typically used for professional conversations.</description>
+    </item>
+    
     <item>
       <title>Testing device and network conditions before making Video Calls in Customer Support or Customer Service</title>
       <link>https://blog.ivrpowers.com/post/trends/test-device-conditions-before-making-video-calls/</link>
