@@ -18,6 +18,7 @@
         <meta property="og:article:tag" content="video" />
         <meta property="og:article:tag" content="cctr" />
         <meta property="og:article:tag" content="videortc" />
+        <meta property="og:article:tag" content="videocall" />
         
 
         <meta name="twitter:card" content="summary" />
@@ -103,8 +104,8 @@
         },
         "datePublished": "2023-03-08",
         "dateModified": "2023-03-08",
-        "wordCount":  641 ,
-        "keywords": "[\"rtc\",\"video\",\"cctr\",\"videortc\"]" 
+        "wordCount":  655 ,
+        "keywords": "[\"rtc\",\"video\",\"cctr\",\"videortc\",\"videocall\"]" 
     }
     </script>
 
@@ -176,7 +177,7 @@ html{font-family:sans-serif;line-height:1.15;-ms-text-size-adjust:100%;-webkit-t
 
   			<header class="post-header">
   				<span class="post-meta">
-						<span class="post-date">8 Mar 2023</span> <span class="reading-time">| <span class="estimated-reading-time">4 min.</span> (<span class="word-count">641</span> words)</span></span>
+						<span class="post-date">8 Mar 2023</span> <span class="reading-time">| <span class="estimated-reading-time">4 min.</span> (<span class="word-count">655</span> words)</span></span>
   				</span>
   				<div class="clear"></div>
   				<h1 class="post-title">Operational differences between transactional video calls and video room meetings</h1>
@@ -191,7 +192,7 @@ html{font-family:sans-serif;line-height:1.15;-ms-text-size-adjust:100%;-webkit-t
 <p>Transactional video calls are the ideal choice for businesses that need to quickly and efficiently route multiple video calls to huge team of agents. This type of call queuing allows businesses to quickly and effectively manage and prioritize incoming video calls in customer care, as well as route them to the most appropriate agents. This can help ensure that all calls are answered in a timely manner, and helps to create a proactive positive customer experience.</p>
 <h2 id="video-room-meetings">Video Room Meetings</h2>
 <p>Video room meetings are used to facilitate a group communication and collaboration, as it allows for multiple people to join the same virtual space and discuss various topics. <strong>These meetings can be used for work-related purposes, such as brainstorming ideas or having team meetings</strong>. Unlike video calls, video room meetings are not transaccional, no video call transfer is possible as multiple people can be talking at the same time. This mainly allows for more ideas to be shared and discussed in a shorter amount of time.</p>
-<p>One downside of video meetings is that it can be difficult to keep track of who said what and which ideas were discussed, especially when dealing with customer attention. In transactional video calls, the conversation flows and is each session is recorded in a more orderly fashion, similar phone call services, making it easier to keep track of who said what and ensuring that all participants have a chance to express their opinions. This helps to ensure that decisions are made efficiently and transactions are processed smoothly.</p>
+<p>One downside of video meetings is that it can be difficult to keep track of who said what and which ideas were discussed, especially when dealing with customer attention. However, in transactional video calls, the conversation flows in an orderly routed manner, similar to the operation of bulk call services, which facilitates tracking and ensures that multiple participants have the opportunity to intervene in sequential order. This ensures that all tasks are executed efficiently and transactions are processed smoothly.</p>
 <h2 id="summary-comparison-table">Summary Comparison Table</h2>
 <table>
 <thead>
@@ -204,28 +205,33 @@ html{font-family:sans-serif;line-height:1.15;-ms-text-size-adjust:100%;-webkit-t
 <tbody>
 <tr>
 <td>Number of participants</td>
-<td>2 .. 3 peers (supervisor)</td>
+<td>2 peers (+ Supervisor)</td>
 <td>2 .. 6 peers or more</td>
 </tr>
 <tr>
-<td>Caller ID &amp; Metadata Fields</td>
-<td>Yes</td>
-<td>No</td>
+<td>Call Session ID</td>
+<td>✅ Yes (SPLIT ID)</td>
+<td>✅ Yes (Session ID)</td>
+</tr>
+<tr>
+<td>Call Metadata Fields</td>
+<td>✅ Yes (Tokenized)</td>
+<td>❌ No</td>
 </tr>
 <tr>
 <td>Call Routing (Queuing)</td>
-<td>Yes (ACD)</td>
-<td>No</td>
+<td>✅ Yes (ACD)</td>
+<td>❌ No</td>
 </tr>
 <tr>
 <td>Call Transfer</td>
-<td>Yes (voice)</td>
-<td>No</td>
+<td>✅ Yes (Voice)</td>
+<td>❌ No</td>
 </tr>
 <tr>
 <td>Video Call Transfer</td>
-<td>Yes  (voice &amp; video)</td>
-<td>No</td>
+<td>✅ Yes  (Voice &amp; Video)</td>
+<td>❌ No</td>
 </tr>
 <tr>
 <td>Web Collaboration</td>
@@ -244,23 +250,23 @@ html{font-family:sans-serif;line-height:1.15;-ms-text-size-adjust:100%;-webkit-t
 </tr>
 <tr>
 <td>Call Whispering</td>
-<td>Yes</td>
-<td>No</td>
+<td>✅ Yes</td>
+<td>❌ No</td>
 </tr>
 <tr>
 <td>Background Effects</td>
-<td>Yes</td>
-<td>Yes</td>
+<td>✅ Yes</td>
+<td>✅ Yes</td>
 </tr>
 <tr>
 <td>Video Recording</td>
-<td>Yes (Transactional, per sequence)</td>
-<td>Yes (whole video room)</td>
+<td>✅ Yes (Sequential)</td>
+<td>✅ Yes (Video Room)</td>
 </tr>
 <tr>
 <td>Phone interoperability</td>
-<td>Yes, enable to forward all the conversation (voice) to a phone system.</td>
-<td>No, video room conversation cannot be forwarded to a phone system.</td>
+<td>✅ Yes, enable to forward all the conversation (voice) to a phone system.</td>
+<td>❌ No, video room conversation cannot be forwarded to a phone system.</td>
 </tr>
 </tbody>
 </table>
@@ -282,6 +288,8 @@ html{font-family:sans-serif;line-height:1.15;-ms-text-size-adjust:100%;-webkit-t
                 <a href="https://blog.ivrpowers.com//tags/cctr/">cctr</a>
             
                 <a href="https://blog.ivrpowers.com//tags/videortc/">videortc</a>
+            
+                <a href="https://blog.ivrpowers.com//tags/videocall/">videocall</a>
             
             
   				</div>
@@ -317,7 +325,7 @@ html{font-family:sans-serif;line-height:1.15;-ms-text-size-adjust:100%;-webkit-t
 							<span class="post-nav-icon"><i class="icon-arrow-left"></i></span>
 							<span class="post-nav-info">
 								<h4 class="post-nav-title">Dangers of Instant Messaging apps for businesses: WhatsApp, Messenger, TikTok...</h4>
-								<p class="post-nav-excerpt">Video Communications Trends&hellip;</p>
+								<p class="post-nav-excerpt">Live Communications&hellip;</p>
 							</span>
 						</section>
 					</a>
