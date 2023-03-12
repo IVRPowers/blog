@@ -1,9 +1,9 @@
 +++
 categories = ["trends"]
 date = "2023-03-11T15:00:00+01:00"
-description = "Video Communications Trends"
+description = "Live Communications"
 draft = false
-tags = ["IM","videocall","chat","whatsapp"]
+tags = ["IM","livechat","whatsapp"]
 title = "Dangers of Instant Messaging apps for businesses: WhatsApp, Messenger, TikTok..."
 image = "/postimages/trends/ivrpowers-slides-2023.016.webp"
 
@@ -29,11 +29,11 @@ Companies that use or incorporate them without much considerations, **run the po
 
 ## How we can solve it...
 
-Fortunately, today there is the possibility of implementing real-time telecommunications technology that allows companies to connect with their customers easily and efficiently, without the need for WhatsApp, TikTok, Messenger, ...etc. These channels can be accessed through **web browsers or directly from existing mobile devices without requiring specific applications, downloads, or plugins**. Customizable links with their own domain can be used, dedicated nodes can be used towards the contact center, guaranteeing reliable and secure conversations. Additionally, this mode allows for encrypted communications with higher quality audio or video than the phone so that customers can contact companies anytime and from anywhere in the world through the Internet.
+Fortunately, today there is the possibility of implementing real-time telecommunications technology that allows companies to connect directly with their customers easily and efficiently, without the need for WhatsApp, TikTok, Messenger, ...etc. These channels can be accessed through **web browsers from existing mobile devices without requiring specific applications, downloads or plugins**. Customizable links with their own domain can be used, dedicated nodes can be used towards the contact center, guaranteeing reliable and secure conversations. Additionally, this mode allows for encrypted communications with higher quality audio or video than the phone so that customers can contact companies anytime and from anywhere in the world through the Internet.
 
 ---
 
-In conclusion, the most surprising thing is that despite the clear warnings, major scandals that have occurred, evidence of the business or geopolitical risks behind the big data, WhatsApp is still the most used app by companies, followed closely by Messenger, Tiktok or Instagram. Therefore, it is really crucial that companies become aware of this situation, promoting the use of direct, secure, and truly private channels to communicate with their customers with technical conditions that they can supervise or control. The risks associated with social media chat tools are too high for businesses and can affect both companies and customers. It is important to note that **the risk is not only in the leakage of data but also in the cross-use of the data with the customer profile for third-party purposes that are beyond the interests of the company and its users**. Therefore, companies should consider ensuring the confidentiality of their conversations and implementing reliable solutions to directly converse with their customers over the Internet without the imperative need to use the phone again.
+In conclusion, the most surprising thing is that despite all [news warnings](https://www.reuters.com/article/us-un-whatsapp-idUSKBN1ZM32P), [major scandals](https://fortune.com/2022/09/27/wall-street-fines-employee-use-of-whatsapp-unauthorized-messaging-apps/) that have occurred, evidence of the business or [geopolitical risks](https://apnews.com/article/why-is-tiktok-being-banned-7d2de01d3ac5ab2b8ec2239dc7f2b20d) behind the big data, WhatsApp is still the most used app by companies, followed closely by Messenger, Tiktok or Instagram. Therefore, it is really crucial that companies become aware of this situation, promoting the use of direct, secure, and truly private channels to communicate with their customers with technical conditions that they can supervise or control. The risks associated with social media chat tools are too high for businesses and can affect both companies and customers. It is important to note that **the risk is not only in the leakage of data but also in the cross-use of the data with the customer profile for third-party purposes that are beyond the interests of the company and its users**. Therefore, companies should consider ensuring the confidentiality of their conversations and implementing reliable solutions to directly converse with their customers over the Internet without the imperative need to use the phone again.
 
 ---
 News References:

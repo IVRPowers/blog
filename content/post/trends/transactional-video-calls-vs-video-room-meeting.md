@@ -3,7 +3,7 @@ categories = ["trends"]
 date = "2023-03-08T15:00:00+01:00"
 description = "Video Communications Trends"
 draft = false
-tags = ["rtc","video","cctr","videortc"]
+tags = ["rtc","video","cctr","videortc","videocall"]
 title = "Operational differences between transactional video calls and video room meetings"
 image = "/postimages/trends/ivrpowers-slides-2023.014.webp"
 
@@ -25,24 +25,25 @@ Transactional video calls are the ideal choice for businesses that need to quick
 
 Video room meetings are used to facilitate a group communication and collaboration, as it allows for multiple people to join the same virtual space and discuss various topics. **These meetings can be used for work-related purposes, such as brainstorming ideas or having team meetings**. Unlike video calls, video room meetings are not transaccional, no video call transfer is possible as multiple people can be talking at the same time. This mainly allows for more ideas to be shared and discussed in a shorter amount of time.
 
-One downside of video meetings is that it can be difficult to keep track of who said what and which ideas were discussed, especially when dealing with customer attention. In transactional video calls, the conversation flows and is each session is recorded in a more orderly fashion, similar phone call services, making it easier to keep track of who said what and ensuring that all participants have a chance to express their opinions. This helps to ensure that decisions are made efficiently and transactions are processed smoothly.
+One downside of video meetings is that it can be difficult to keep track of who said what and which ideas were discussed, especially when dealing with customer attention. However, in transactional video calls, the conversation flows in an orderly routed manner, similar to the operation of bulk call services, which facilitates tracking and ensures that multiple participants have the opportunity to intervene in sequential order. This ensures that all tasks are executed efficiently and transactions are processed smoothly.
 
 ## Summary Comparison Table
 
 | Features | Transactional Video Calls | Video Room Meetings    |
 | --- | --- | --- |
-| Number of participants | 2 .. 3 peers (supervisor) | 2 .. 6 peers or more |
-| Caller ID & Metadata Fields | Yes | No |
-| Call Routing (Queuing) | Yes (ACD) | No |
-| Call Transfer | Yes (voice) | No |
-| Video Call Transfer | Yes  (voice & video)| No |
+| Number of participants | 2 peers (+ Supervisor) | 2 .. 6 peers or more |
+| Call Session ID | ✅ Yes (SPLIT ID) | ✅ Yes (Session ID) |
+| Call Metadata Fields | ✅ Yes (Tokenized) | ❌ No |
+| Call Routing (Queuing) | ✅ Yes (ACD) | ❌ No |
+| Call Transfer | ✅ Yes (Voice) | ❌ No |
+| Video Call Transfer | ✅ Yes  (Voice & Video)| ❌ No |
 | Web Collaboration | Live Chat, File Sharing, Dual Screen Sharing, CoBrowsing | Live Chat, File Sharing, Screen Sharing |
 | Connection Mode | Real-Time or Scheduled Link | Scheduled Link |
 | Protocol Technology | Hybrid (SIP+WebRTC) | Video Room (WebRTC) |
-| Call Whispering | Yes | No |
-| Background Effects | Yes | Yes |
-| Video Recording | Yes (Transactional, per sequence) | Yes (whole video room) |
-| Phone interoperability | Yes, enable to forward all the conversation (voice) to a phone system. | No, video room conversation cannot be forwarded to a phone system. |
+| Call Whispering | ✅ Yes | ❌ No |
+| Background Effects | ✅ Yes | ✅ Yes |
+| Video Recording | ✅ Yes (Sequential) | ✅ Yes (Video Room) |
+| Phone interoperability | ✅ Yes, enable to forward all the conversation (voice) to a phone system. | ❌ No, video room conversation cannot be forwarded to a phone system. |
 
 Conclusion: 
 
