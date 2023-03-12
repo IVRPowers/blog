@@ -23,9 +23,9 @@ Transactional video calls are the ideal choice for businesses that need to quick
 
 ##	Video Room Meetings
 
-Video room meetings are used to facilitate a group communication and collaboration, as it allows for multiple people to join the same virtual space and discuss various topics. **These meetings can be used for work-related purposes, such as brainstorming ideas or having team meetings**. Unlike video calls, video room meetings are not transaccional, as multiple people can be talking at the same time. This allows for more ideas to be shared and discussed in a shorter amount of time.
+Video room meetings are used to facilitate a group communication and collaboration, as it allows for multiple people to join the same virtual space and discuss various topics. **These meetings can be used for work-related purposes, such as brainstorming ideas or having team meetings**. Unlike video calls, video room meetings are not transaccional, no video call transfer is possible as multiple people can be talking at the same time. This mainly allows for more ideas to be shared and discussed in a shorter amount of time.
 
-One downside of video meetings is that it can be difficult to keep track of who said what and which ideas were discussed, especially when dealing with customer attention. In transactional video calls, the conversation flows and is recorded in a more orderly fashion, similar phone call services, making it easier to keep track of who said what and ensuring that all participants have a chance to express their opinions. This helps to ensure that decisions are made efficiently and transactions are processed smoothly.
+One downside of video meetings is that it can be difficult to keep track of who said what and which ideas were discussed, especially when dealing with customer attention. In transactional video calls, the conversation flows and is each session is recorded in a more orderly fashion, similar phone call services, making it easier to keep track of who said what and ensuring that all participants have a chance to express their opinions. This helps to ensure that decisions are made efficiently and transactions are processed smoothly.
 
 ## Summary Comparison Table
 
