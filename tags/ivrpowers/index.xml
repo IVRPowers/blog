@@ -69,6 +69,17 @@ God bless you all!</description>
     </item>
     
     <item>
+      <title>Smart IVR v2.7</title>
+      <link>https://blog.ivrpowers.com/post/updates/update-voicexml-ivr-2.7.0/</link>
+      <pubDate>Thu, 03 Nov 2022 00:20:00 +0200</pubDate>
+      
+      <guid>https://blog.ivrpowers.com/post/updates/update-voicexml-ivr-2.7.0/</guid>
+      <description>Release Note We are pleased to announce that our new Smart IVR 2.7.0 has been released for suitable production services. This new version includes a lot of improvements and new features. All users with previous maintained versions can upgrade today. Please contact our support!
+ChangeLog Version 2.7:
+## [2.7.0] - 03-11-2022 ### Added - Parameter start-input-timers to res-speech-unimrcp to disable the default timers initialization in the RECOGNIZE - Channel variable (VOICEDETECTED_TIMEOUT) to select a different timeout to allow speech inputs longer than 10s ### Fixed - A bug during the collection of the next audio sample during the NLU phase Interactive Powers - Streamline your business communications</description>
+    </item>
+    
+    <item>
       <title>Web ACD v1.13.0</title>
       <link>https://blog.ivrpowers.com/post/updates/update-web-acd-1.13.0/</link>
       <pubDate>Wed, 06 Jul 2022 12:00:00 +0200</pubDate>
@@ -77,6 +88,17 @@ God bless you all!</description>
       <description>Release Note We are pleased to announce that our new Web ACD v1.13.0 has been released for suitable production services. This new version includes a specific security fix for data channel recommendations. All users with previous maintained versions can upgrade today. Please contact our support!
 ChangeLog Version 1.13.0:
 ### [1.12.0] - 2022-05-12 ​ ### Added ​ - Target selection (iframe/tab) for the queue triggers - Home page customization ​ ### [1.</description>
+    </item>
+    
+    <item>
+      <title>Smart IVR v2.6.1</title>
+      <link>https://blog.ivrpowers.com/post/updates/update-voicexml-ivr-2.6.1/</link>
+      <pubDate>Mon, 28 Mar 2022 00:20:00 +0200</pubDate>
+      
+      <guid>https://blog.ivrpowers.com/post/updates/update-voicexml-ivr-2.6.1/</guid>
+      <description>Release Note We are pleased to announce that our new Smart IVR 2.6.1 has been released for suitable production services. This new version includes a lot of improvements and new features. All users with previous maintained versions can upgrade today. Please contact our support!
+ChangeLog Version 2.6:
+## [2.6.1] - 28-03-2022 ### Fixed - Added a safeguard to the restoring of the readformat of the channel for the cases where it is not present Interactive Powers - Streamline your business communications</description>
     </item>
     
     <item>
