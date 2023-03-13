@@ -16,7 +16,7 @@ We are pleased to announce that our new **Smart IVR 2.6.1** has been released fo
 
 # ChangeLog
 
-Version 2.6:
+Version 2.6.1:
 
 ```bash
 ## [2.6.1] - 28-03-2022
