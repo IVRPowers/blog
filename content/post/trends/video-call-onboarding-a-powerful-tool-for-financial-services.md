@@ -3,7 +3,7 @@ categories = ["trends"]
 date = "2023-04-08T09:00:00+01:00"
 description = "Video Communications Trends"
 draft = false
-tags = ["rtc","video","cctr","videortc","videocall"]
+tags = ["rtc","video","kyc","onboarding","videocall"]
 title = "Video Call Onboarding: A Powerful Tool for Financial Services"
 image = "/postimages/trends/ivrpowers-slides-2023.018.webp"
 
@@ -13,7 +13,7 @@ image = "/postimages/trends/ivrpowers-slides-2023.018.webp"
 ------------
 ###### Source: Interactive Powers
 
-In today's Digital Age, opening a new account or service without a face-to-face verification has become a absolute need. This has created a need for online identity verification tools that can be integrated into digital channels to ensure a secure and efficient customer onboarding experience.
+In today's Digital Age, opening a new account or service with a face-to-face verification has become a absolute need. This has created a need for online identity verification tools that can be integrated into digital channels to ensure a secure and efficient customer onboarding experience.
 
 **Video Call Onboarding** is one such tool that has become increasingly required for online services effectivity. It is a process that allows financial products providers to verify a customer's identity through a video real-time communication. This onboarding process is quick, convenient, and secure, and it can help financial institutions to comply with regulatory requirements while enhancing the customer experience.
 
