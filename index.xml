@@ -6,7 +6,7 @@
     <description>Recent content on Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 09 Apr 2023 15:00:00 +0100</lastBuildDate><atom:link href="https://blog.ivrpowers.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 14 Apr 2023 16:00:00 +0200</lastBuildDate><atom:link href="https://blog.ivrpowers.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Welcome to our New Blog!</title>
       <link>https://blog.ivrpowers.com/post/general/welcome-blog/</link>
@@ -37,6 +37,16 @@ Interactive Powers delivers communication platforms that enables advanced real-t
     </item>
     
     <item>
+      <title>Video RTC · Picture-in-Picture</title>
+      <link>https://blog.ivrpowers.com/post/products/picture-in-picture-video-calls/</link>
+      <pubDate>Fri, 14 Apr 2023 16:00:00 +0200</pubDate>
+      
+      <guid>https://blog.ivrpowers.com/post/products/picture-in-picture-video-calls/</guid>
+      <description>Maximizing Agent Productivity with “Picture-in-Picture” during Video Calls. Picture-in-picture (PiP) is a useful feature for contact center agents who need to multitask during transactional video calls. With PiP, agents can continue to have a conversation with their customers while also keeping an eye on other important information or tasks that require their attention.
+Some features that can make PiP even more useful for agents include the ability to resize and reposition the PiP window, the option to customize which part of the screen is shown in the PiP window, and the ability to mute or pause the PiP video while still keeping it visible on the screen.</description>
+    </item>
+    
+    <item>
       <title>Phone Number Obsolescence: The Shift to Web Calling</title>
       <link>https://blog.ivrpowers.com/post/trends/phone-number-obsolescence-the-shift-to-web-calling/</link>
       <pubDate>Sun, 09 Apr 2023 15:00:00 +0100</pubDate>
@@ -52,7 +62,7 @@ Interactive Powers delivers communication platforms that enables advanced real-t
       
       <guid>https://blog.ivrpowers.com/post/trends/video-call-onboarding-a-powerful-tool-for-financial-services/</guid>
       <description>Source: Interactive Powers In today&amp;rsquo;s Digital Age, opening a new account or service with a face-to-face verification has become a absolute need. This has created a need for online identity verification tools that can be integrated into digital channels to ensure a secure and efficient customer onboarding experience.
-Video Call Onboarding is one such tool that has become increasingly required for online services effectivity. It is a process that allows financial products providers to verify a customer&amp;rsquo;s identity through a video real-time communication.</description>
+Video Call Onboarding is one such tool that has become increasingly required for online services effectivity. It is a process that allows financial products providers to verify a customer&amp;rsquo;s identity through a video real-time communication with recording.</description>
     </item>
     
     <item>
