@@ -29,6 +29,8 @@ The internet and digital technology have transformed the way we communicate with
 
 VoIP technology are becoming increasingly popular over the past few years. It uses the internet data network to transmit voice calls instead of the traditional PSTN, enabling users to make calls from anywhere in the world with an internet access. VoIP services like Skype and Zoom have become the go-to solutions for business meetings and remote communication, allowing businesses to connect with customers and employees from anywhere.
 
+![Web Phone Calling](/postimages/marketing/slides-2021-10.005.jpeg)
+
 Web calling methods have also revolutionized customer service. Many businesses now offer live chat and messaging services, allowing customers to contact them through their websites or social media pages. These methods have become increasingly popular as they provide a quick and convenient way for customers to receive support.
 
 ## The Future of Voice Communications
