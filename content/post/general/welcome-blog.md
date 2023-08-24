@@ -15,7 +15,7 @@ featured = true
 ---------
 ###### Photo source: Pexels. Creative Commons
 
-Our Corporate [Blog](http://blog.ivrpowers.com) is build with Hugo and will give us a unique opportunity to better share news, updates and technology content, while also offering a place for us to interact with all our community. If you’re wondering what you can expect from the content you find on our blog, and how the information here differs from the information you may find on our [website](http://www.ivrpowers.com/), read on.
+Our Corporate [Blog](http://blog.ivrpowers.com) is build with Hugo and will give us a unique opportunity to better share news, updates and technology content, while also offering a place for us to interact with all our community. If you’re wondering what you can expect from the content you find on our blog, and how the information here differs from the information you may find on our [website](http://www.interactivepowers.com/), read on.
 
 Our blog will allow us to leverage social technologies to engage in two-way communication with our community and to take your feedback into consideration as we create new content, tools and resources. We'll share stories about the work we are doing. In addition, we’ll use the blog to share multimedia, such as videos, photo albums and more. Here you’ll also find customers stories, resources, event updates and business news!
 
