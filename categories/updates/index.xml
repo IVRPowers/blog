@@ -6,7 +6,18 @@
     <description>Recent content in updates on Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 02 Feb 2023 12:00:00 +0200</lastBuildDate><atom:link href="https://blog.ivrpowers.com/categories/updates/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 07 Nov 2023 12:00:00 +0200</lastBuildDate><atom:link href="https://blog.ivrpowers.com/categories/updates/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Web ACD v1.15.0</title>
+      <link>https://blog.ivrpowers.com/post/updates/update-web-acd-1.15.0/</link>
+      <pubDate>Tue, 07 Nov 2023 12:00:00 +0200</pubDate>
+      
+      <guid>https://blog.ivrpowers.com/post/updates/update-web-acd-1.15.0/</guid>
+      <description>Release Note We are pleased to announce that our new Web ACD v1.15.0 has been released for suitable production services. This new version includes a specific security fix for data channel recommendations with a hotfix 1.15.1 included for all deployments as well. All users with previous maintained versions can upgrade today. Please contact our support!
+ChangeLog Version 1.15.0:
+### [1.15.0] - 2023-06-14 ### Added - WebSocket request to obtain a list of all users in the system for admins and supervisors - Parameter maxAttentionTime to a realtime queue - Option to show offline users in the dashboard - Added Copy and QRCode actions for the selected trigger - Sounds when dialpad keys are pressed - Added both user and name fixed vars for applications and queue triggers - Home section to the menu - Latest Calls view - Added new languages (en_CA, en_GB, es_AR, es_CL, es_CO, es_CR, es_EC, es_PA, es_PE, es_PR, pt_BR, pt_PT) to the platform ### Changed - The send-announce WebSocket action takes now a *to* parameter to allow directing the message to specific agents - Allowed the : character as part of the report query - The username can only contain letters, numbers or periods ### Fixed - Correctly limit the report preview of queries with the LIMIT word in them - Moved scroll from &amp;lt;html&amp;gt; to the main container - Dashboard items are now aligned via stretch ### [1.</description>
+    </item>
+    
     <item>
       <title>Web ACD v1.14.0</title>
       <link>https://blog.ivrpowers.com/post/updates/update-web-acd-1.14.0/</link>
