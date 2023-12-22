@@ -5,10 +5,10 @@ description = "Season Greetings"
 draft = false
 tags = ["marketing","ivrpowers"]
 title = "Merry Christmas!"
-image = "/postimages/general/christmas-2023.001.jpeg"
+image = "/postimages/general/christmas-2023.002.jpeg"
 +++
 
-![Interactive Powers](/postimages/general/christmas-2023.001.jpeg)
+![Interactive Powers](/postimages/general/christmas-2023.002.jpeg)
 ---------
 ###### Photo source: Interactive Powers
 
