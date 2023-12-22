@@ -6,7 +6,25 @@
     <description>Recent content in Tags on Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 07 Nov 2023 12:00:00 +0200</lastBuildDate><atom:link href="https://blog.ivrpowers.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 21 Dec 2023 12:00:00 +0200</lastBuildDate><atom:link href="https://blog.ivrpowers.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>ivrpowers</title>
+      <link>https://blog.ivrpowers.com/tags/ivrpowers/</link>
+      <pubDate>Thu, 21 Dec 2023 12:00:00 +0200</pubDate>
+      
+      <guid>https://blog.ivrpowers.com/tags/ivrpowers/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>marketing</title>
+      <link>https://blog.ivrpowers.com/tags/marketing/</link>
+      <pubDate>Thu, 21 Dec 2023 12:00:00 +0200</pubDate>
+      
+      <guid>https://blog.ivrpowers.com/tags/marketing/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>acd</title>
       <link>https://blog.ivrpowers.com/tags/acd/</link>
@@ -22,15 +40,6 @@
       <pubDate>Tue, 07 Nov 2023 12:00:00 +0200</pubDate>
       
       <guid>https://blog.ivrpowers.com/tags/changelog/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>ivrpowers</title>
-      <link>https://blog.ivrpowers.com/tags/ivrpowers/</link>
-      <pubDate>Tue, 07 Nov 2023 12:00:00 +0200</pubDate>
-      
-      <guid>https://blog.ivrpowers.com/tags/ivrpowers/</guid>
       <description></description>
     </item>
     
@@ -247,15 +256,6 @@
       <pubDate>Wed, 15 Feb 2023 20:00:00 +0200</pubDate>
       
       <guid>https://blog.ivrpowers.com/tags/vcc/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>marketing</title>
-      <link>https://blog.ivrpowers.com/tags/marketing/</link>
-      <pubDate>Mon, 13 Feb 2023 20:00:00 +0200</pubDate>
-      
-      <guid>https://blog.ivrpowers.com/tags/marketing/</guid>
       <description></description>
     </item>
     
