@@ -14,6 +14,9 @@ comments = true
 -------
 ###### Photo source: Creative Commons
 
+# 6 Reasons to consider adding video calling support to your retail business with or without online store.
+---
+
 In today's digital age, video calls are not just a means of meetings or communication; they're a powerful tool for transforming the retail landscape. Here's how integrating video calls can significantly boost the success of retail businesses:
 
 ## 1. Personalized Customer Service
