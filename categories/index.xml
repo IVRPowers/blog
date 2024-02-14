@@ -6,7 +6,16 @@
     <description>Recent content in Categories on Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 21 Dec 2023 12:00:00 +0200</lastBuildDate><atom:link href="https://blog.ivrpowers.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 13 Feb 2024 10:51:29 +0200</lastBuildDate><atom:link href="https://blog.ivrpowers.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>marketing</title>
+      <link>https://blog.ivrpowers.com/categories/marketing/</link>
+      <pubDate>Tue, 13 Feb 2024 10:51:29 +0200</pubDate>
+      
+      <guid>https://blog.ivrpowers.com/categories/marketing/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>general</title>
       <link>https://blog.ivrpowers.com/categories/general/</link>
@@ -85,15 +94,6 @@
       <pubDate>Tue, 01 Feb 2022 12:00:00 +0200</pubDate>
       
       <guid>https://blog.ivrpowers.com/categories/customerengagement/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>marketing</title>
-      <link>https://blog.ivrpowers.com/categories/marketing/</link>
-      <pubDate>Wed, 17 Nov 2021 00:12:00 +0200</pubDate>
-      
-      <guid>https://blog.ivrpowers.com/categories/marketing/</guid>
       <description></description>
     </item>
     
