@@ -6,7 +6,52 @@
     <description>Recent content in Tags on Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 13 Feb 2024 10:51:29 +0200</lastBuildDate><atom:link href="https://blog.ivrpowers.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 15 Feb 2024 20:00:26 +0200</lastBuildDate><atom:link href="https://blog.ivrpowers.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>smartivr</title>
+      <link>https://blog.ivrpowers.com/tags/smartivr/</link>
+      <pubDate>Thu, 15 Feb 2024 20:00:26 +0200</pubDate>
+      
+      <guid>https://blog.ivrpowers.com/tags/smartivr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>support</title>
+      <link>https://blog.ivrpowers.com/tags/support/</link>
+      <pubDate>Thu, 15 Feb 2024 20:00:26 +0200</pubDate>
+      
+      <guid>https://blog.ivrpowers.com/tags/support/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>videorec</title>
+      <link>https://blog.ivrpowers.com/tags/videorec/</link>
+      <pubDate>Thu, 15 Feb 2024 20:00:26 +0200</pubDate>
+      
+      <guid>https://blog.ivrpowers.com/tags/videorec/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>videortc</title>
+      <link>https://blog.ivrpowers.com/tags/videortc/</link>
+      <pubDate>Thu, 15 Feb 2024 20:00:26 +0200</pubDate>
+      
+      <guid>https://blog.ivrpowers.com/tags/videortc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>webacd</title>
+      <link>https://blog.ivrpowers.com/tags/webacd/</link>
+      <pubDate>Thu, 15 Feb 2024 20:00:26 +0200</pubDate>
+      
+      <guid>https://blog.ivrpowers.com/tags/webacd/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>businessstrategy</title>
       <link>https://blog.ivrpowers.com/tags/businessstrategy/</link>
@@ -80,15 +125,6 @@
     </item>
     
     <item>
-      <title>webacd</title>
-      <link>https://blog.ivrpowers.com/tags/webacd/</link>
-      <pubDate>Tue, 07 Nov 2023 12:00:00 +0200</pubDate>
-      
-      <guid>https://blog.ivrpowers.com/tags/webacd/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>contactcenter</title>
       <link>https://blog.ivrpowers.com/tags/contactcenter/</link>
       <pubDate>Thu, 28 Sep 2023 12:00:01 +0200</pubDate>
@@ -121,15 +157,6 @@
       <pubDate>Thu, 28 Sep 2023 12:00:01 +0200</pubDate>
       
       <guid>https://blog.ivrpowers.com/tags/videocc/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>videortc</title>
-      <link>https://blog.ivrpowers.com/tags/videortc/</link>
-      <pubDate>Thu, 28 Sep 2023 12:00:01 +0200</pubDate>
-      
-      <guid>https://blog.ivrpowers.com/tags/videortc/</guid>
       <description></description>
     </item>
     
@@ -418,15 +445,6 @@
       <pubDate>Sat, 30 Oct 2021 00:12:30 +0200</pubDate>
       
       <guid>https://blog.ivrpowers.com/tags/webdialer/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>support</title>
-      <link>https://blog.ivrpowers.com/tags/support/</link>
-      <pubDate>Fri, 29 Oct 2021 12:00:00 +0200</pubDate>
-      
-      <guid>https://blog.ivrpowers.com/tags/support/</guid>
       <description></description>
     </item>
     
@@ -724,15 +742,6 @@
       <pubDate>Sat, 11 Jan 2020 15:00:00 +0200</pubDate>
       
       <guid>https://blog.ivrpowers.com/tags/saas/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>smartivr</title>
-      <link>https://blog.ivrpowers.com/tags/smartivr/</link>
-      <pubDate>Sat, 11 Jan 2020 12:00:00 +0200</pubDate>
-      
-      <guid>https://blog.ivrpowers.com/tags/smartivr/</guid>
       <description></description>
     </item>
     
