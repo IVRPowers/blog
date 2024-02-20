@@ -4,7 +4,7 @@ date = "2024-02-13T10:51:29+02:00"
 description = "Customer Engagement"
 draft = false
 tags = ["retail","videochat","businessstrategy", "videocalls"]
-title = "Enhancing Retail Success Through Video Calls"
+title = "Enhancing Retail Success through Video Calls"
 image = "/postimages/marketing/ivrpowers-post-08.005.jpeg"
 comments = true
 
