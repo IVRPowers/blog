@@ -18,13 +18,13 @@ comments = true
 
 We're thrilled to announce that we've enhanced our Web ACD solution to better serve your needs across multiple countries and locations in the Americas! Now, our platform supports a variety of languages, including Spanish, English, and Portuguese, ensuring a seamless experience for users in diverse linguistic regions.
 
-## Improved Accessibility
+## 1. Improved Accessibility
 Navigate our Web ACD solution effortlessly in your preferred language, making communication smoother and more efficient.
 
-## Enhanced User Experience
+## 2. Enhanced User Experience
 Say goodbye to language barriers! Our platform now caters to Spanish, English, and Portuguese speakers, providing a tailored experience for all users.
 
-## Expanded Market Reach
+## 3. Expanded Market Reach
 Whether you operate in the United States, Mexico, Brazil, or beyond, our multilingual support ensures that your communication needs are met, no matter where you are.
 
 
