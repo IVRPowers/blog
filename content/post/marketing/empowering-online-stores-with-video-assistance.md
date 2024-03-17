@@ -1,8 +1,8 @@
 +++
 categories = ["marketing"]
-date = "2024-02-19T10:51:29+02:00"
+date = "2024-03-16T10:00:00+02:00"
 description = "Customer Engagement"
-draft = true
+draft = false
 tags = ["ecommerce","videochat","businessstrategy", "videocalls","store"]
 title = "Empowering Online Stores with Video Assistance"
 image = "/postimages/marketing/ivrpowers-post-08.007.jpeg"
