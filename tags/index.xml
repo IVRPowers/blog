@@ -6,38 +6,74 @@
     <description>Recent content in Tags on Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 12 Mar 2024 20:00:00 +0200</lastBuildDate><atom:link href="https://blog.ivrpowers.com/tags/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>businessstrategy</title>
-      <link>https://blog.ivrpowers.com/tags/businessstrategy/</link>
-      <pubDate>Tue, 12 Mar 2024 20:00:00 +0200</pubDate>
-      
-      <guid>https://blog.ivrpowers.com/tags/businessstrategy/</guid>
-      <description></description>
-    </item>
-    
+    <lastBuildDate>Sun, 17 Mar 2024 20:00:00 +0200</lastBuildDate><atom:link href="https://blog.ivrpowers.com/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>cx</title>
       <link>https://blog.ivrpowers.com/tags/cx/</link>
-      <pubDate>Tue, 12 Mar 2024 20:00:00 +0200</pubDate>
+      <pubDate>Sun, 17 Mar 2024 20:00:00 +0200</pubDate>
       
       <guid>https://blog.ivrpowers.com/tags/cx/</guid>
       <description></description>
     </item>
     
     <item>
+      <title>rtc</title>
+      <link>https://blog.ivrpowers.com/tags/rtc/</link>
+      <pubDate>Sun, 17 Mar 2024 20:00:00 +0200</pubDate>
+      
+      <guid>https://blog.ivrpowers.com/tags/rtc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>videocalls</title>
       <link>https://blog.ivrpowers.com/tags/videocalls/</link>
-      <pubDate>Tue, 12 Mar 2024 20:00:00 +0200</pubDate>
+      <pubDate>Sun, 17 Mar 2024 20:00:00 +0200</pubDate>
       
       <guid>https://blog.ivrpowers.com/tags/videocalls/</guid>
       <description></description>
     </item>
     
     <item>
+      <title>videortc</title>
+      <link>https://blog.ivrpowers.com/tags/videortc/</link>
+      <pubDate>Sun, 17 Mar 2024 20:00:00 +0200</pubDate>
+      
+      <guid>https://blog.ivrpowers.com/tags/videortc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>businessstrategy</title>
+      <link>https://blog.ivrpowers.com/tags/businessstrategy/</link>
+      <pubDate>Sat, 16 Mar 2024 10:00:00 +0200</pubDate>
+      
+      <guid>https://blog.ivrpowers.com/tags/businessstrategy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ecommerce</title>
+      <link>https://blog.ivrpowers.com/tags/ecommerce/</link>
+      <pubDate>Sat, 16 Mar 2024 10:00:00 +0200</pubDate>
+      
+      <guid>https://blog.ivrpowers.com/tags/ecommerce/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>store</title>
+      <link>https://blog.ivrpowers.com/tags/store/</link>
+      <pubDate>Sat, 16 Mar 2024 10:00:00 +0200</pubDate>
+      
+      <guid>https://blog.ivrpowers.com/tags/store/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>videochat</title>
       <link>https://blog.ivrpowers.com/tags/videochat/</link>
-      <pubDate>Tue, 12 Mar 2024 20:00:00 +0200</pubDate>
+      <pubDate>Sat, 16 Mar 2024 10:00:00 +0200</pubDate>
       
       <guid>https://blog.ivrpowers.com/tags/videochat/</guid>
       <description></description>
@@ -94,15 +130,6 @@
       <pubDate>Sun, 25 Feb 2024 21:00:00 +0200</pubDate>
       
       <guid>https://blog.ivrpowers.com/tags/videorec/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>videortc</title>
-      <link>https://blog.ivrpowers.com/tags/videortc/</link>
-      <pubDate>Sun, 25 Feb 2024 21:00:00 +0200</pubDate>
-      
-      <guid>https://blog.ivrpowers.com/tags/videortc/</guid>
       <description></description>
     </item>
     
@@ -211,15 +238,6 @@
       <pubDate>Thu, 28 Sep 2023 12:00:01 +0200</pubDate>
       
       <guid>https://blog.ivrpowers.com/tags/custexp/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>rtc</title>
-      <link>https://blog.ivrpowers.com/tags/rtc/</link>
-      <pubDate>Thu, 28 Sep 2023 12:00:01 +0200</pubDate>
-      
-      <guid>https://blog.ivrpowers.com/tags/rtc/</guid>
       <description></description>
     </item>
     
@@ -1030,15 +1048,6 @@
       <pubDate>Thu, 05 Jul 2018 09:00:00 +0200</pubDate>
       
       <guid>https://blog.ivrpowers.com/tags/webclient/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>ecommerce</title>
-      <link>https://blog.ivrpowers.com/tags/ecommerce/</link>
-      <pubDate>Wed, 04 Jul 2018 20:00:00 +0200</pubDate>
-      
-      <guid>https://blog.ivrpowers.com/tags/ecommerce/</guid>
       <description></description>
     </item>
     
