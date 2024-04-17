@@ -27,7 +27,7 @@ Video kiosks are interactive terminals equipped with touch screens, interactive 
 
 Video kiosks do not come with specialized software for managing advanced communications; that layer of application is not part of their technical specifications. They must focus on providing excellent image and sound capture devices (directional microphones with noise cancellation, high-definition speakers with enhanced sound, high-definition cameras with wide focus, Ethernet or mobile 4G-5G network interface). Generally, Video Kiosks are terminals with a simplified OS and a web browser with multimedia capabilities.
 
-### What Type of Contact Center Do I Need to Operate Video Kiosks?
+### What Type of Contact Center Do I Need for Video Kiosks?
 
 Video kiosks are not tools for managing human resources of attention; hence, it is necessary to connect them to video channels that can, in turn, be operated by a contact center (call center) where teams of agents will operate the service. Management should be in real-time because users will not wait to be attended to. Therefore, we recommend an advanced **SPLIT (3)** interconnection that allows using video kiosks with very high performance without delays and optimizing agent provision.
 
@@ -42,7 +42,7 @@ In summary, video kiosks represent a powerful digital tool for business optimiza
 “Multi-ubiquity" imply the ability of a system, service, or organization to be available and accessible across various devices, networks, or physical locations. This could include having a presence in both physical and digital spaces, as well as being accessible through different communication channels such as web, mobile, social media, etc.
 
 #### (3) SPLIT
-“SPLIT” is a special protocol developed by Interactive Powers which allows separate the media streams (video - audio - data) for any communication between users and agents. This development is based on SIP and WebRTC | RTMP peers communications for the integration of voice, video and data for any VoIP Contact Centers.
+“SPLIT” is a special protocol developed by Interactive Powers which allows separate the media streams (video - audio - data) for any communication between users and agents. This development is based on SIP and WebRTC | RTMP peers communications for the integration of voice, video and data for any VoIP Contact Center.
 
 # Streamline your business communications
 Interactive Powers can help you to turn easily customer experience into a competitive advantage, as our solutions are integrated into your existing processes.
