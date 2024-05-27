@@ -49,7 +49,7 @@ Here’s why they will love it:
 
 # How to Enable Dark Mode?
 
-Activating Dark Mode is simple. Go to your app settings, select the display options, and switch to Dark Mode. Enjoy a new, visually comfortable experience with just a few taps.
+Activating **Dark Mode** is very simple. Go to your app settings or icon bar, select the display options, and switch to Dark Mode. Enjoy a new, visually comfortable experience with just a few taps.
 
 ![Dark Mode on Web ACD](/postimages/products/ivrpowers-post-12.008.jpeg)
 
