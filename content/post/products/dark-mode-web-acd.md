@@ -16,7 +16,7 @@ comments = true
 # Stay tuned for a sleek New Look, enhance your agents video calling experience
 ---
 
-We're excited to announce the launch of **Dark Mode**, a highly recommended feature that offers a sleek new look for our Web ACD platforms. Designed to improve your user experience, **Dark Mode** offers a sleek new look that is easy on the eyes and perfect for low-light working environments.
+We're excited to announce the launch of **Dark Mode**, a highly recommended feature that offers a sleek new look for our Web ACD platforms. Designed to improve your agents productivity and confort, **Dark Mode** offers a better video calling experience that is easy on the eyes and perfect for low-light working environments.
 
 Here’s why they will love it:
 
