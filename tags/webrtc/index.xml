@@ -6,7 +6,18 @@
     <description>Recent content in webrtc on Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 14 Apr 2023 16:00:00 +0200</lastBuildDate><atom:link href="https://blog.ivrpowers.com/tags/webrtc/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 03 Oct 2023 12:00:00 +0200</lastBuildDate><atom:link href="https://blog.ivrpowers.com/tags/webrtc/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Video RTC (WebRTC) v5.2.0</title>
+      <link>https://blog.ivrpowers.com/post/updates/update-video-rtc-webrtc-5.2.0/</link>
+      <pubDate>Tue, 03 Oct 2023 12:00:00 +0200</pubDate>
+      
+      <guid>https://blog.ivrpowers.com/post/updates/update-video-rtc-webrtc-5.2.0/</guid>
+      <description>Release Note We are pleased to announce that our new Video RTC (Gateway WebRTC) v5.2.0 has been released for suitable production services. This new version includes a specific security fix for data channel recommendations. All users with previous maintained versions can upgrade today. Please contact our support!
+ChangeLog Version 5.2.0:
+## [5.2.0] - 2023-10-03 ### Added - Added pulse effect as option to the Webclient buttons - Added option to store user data via URL param when recording a videomail - Added box-shadow effect to the webclient controls - Added option to enable recording in the Videocall usecase - Added possibility to configure a specific waiting video by name - Added unmute icon for waiting video when using Safari browser - Added Picture-in-Picture in the Webclient and SplitAgent usecases - Added option to display agent information via split agent url param plus adjusted video remote sizing in the Webclient - Added reconnect option for the Webclient - Added possibility to open the SplitAgent usecase without camera device - Added microphone and camera available checks before calling from the Webclient - Added device selection (audio/cam/speaker) in the Webclient during the call is active ### Changed - Updated local-state design in the webclient - Upgraded videortc font to v1.</description>
+    </item>
+    
     <item>
       <title>Video RTC · Picture-in-Picture</title>
       <link>https://blog.ivrpowers.com/post/products/picture-in-picture-video-calls/</link>
@@ -25,6 +36,17 @@ Some features that can make PiP even more useful for agents include the ability 
       <guid>https://blog.ivrpowers.com/post/technologies/revolutionize-your-customer-experience-with-video-contact-center/</guid>
       <description>Connect, Reinvent, Empower&amp;hellip; your Business In today&amp;rsquo;s digital world, customers expect to have a variety of communication options when interacting with businesses. Video is becoming an increasingly popular choice, and companies are finding that adding a video channel to their contact center is not just &amp;ldquo;a nice to have&amp;rdquo; but a necessity. That&amp;rsquo;s why a Video Contact Center is the game changer you&amp;rsquo;ve been looking for.
 Video Channels as a game changer By adding Video Channels to your Contact Center, you can provide face-to-face interaction for your agents and improve your business with a more human customer care experience.</description>
+    </item>
+    
+    <item>
+      <title>Video RTC (WebRTC) v5.1.0</title>
+      <link>https://blog.ivrpowers.com/post/updates/update-video-rtc-webrtc-5.1.0/</link>
+      <pubDate>Thu, 08 Sep 2022 12:00:00 +0200</pubDate>
+      
+      <guid>https://blog.ivrpowers.com/post/updates/update-video-rtc-webrtc-5.1.0/</guid>
+      <description>Release Note We are pleased to announce that our new Video RTC (Gateway WebRTC) v5.1.0 has been released for suitable production services. This new version includes a specific security fix for data channel recommendations. All users with previous maintained versions can upgrade today. Please contact our support!
+ChangeLog Version 5.1.0:
+## [5.1.0] - 2022-09-08 ### Added - Possibility to join into a RemoteViewer session by passing session params via URL (for agents) - QR Code feature in the Webclient usecase - X-Theme SIP header in the Webclient usecase - Added Virtual Background feature in the SPLIT Agent usecase - Added Video ID usecase - Added playBeeps option to the DTMF configuration in the Webclient usecase - Added REC text message in the Webclient when the call is being recorded - Added some Start messages in both the Tester and Video ID usecases ### Changed - Improved user interface of the Tester usecase (Progressbar design) - Improved user interface of the Webclient usecase (Custom modals) - Improved user interface of the Videomail usecase - Blur effect is now using MediaPipe instead of TensorFlow - Updated VideoRTC font (v1.</description>
     </item>
     
     <item>
@@ -1296,6 +1318,17 @@ Live Chat. Video Gateway supports Live Chat feature thru a DataChannel. You can 
       <guid>https://blog.ivrpowers.com/post/technologies/what-is-rtc/</guid>
       <description>A clear definition of Real-time communications (RTC) is important to understand what will be the newest evolution of Internet applications and services for businesses and individuals. All is moving around to more real-time, more video, better sound quality, better screen resolution, easier human-interfaces… RTC technology helps to share together most of our senses thru digital networks at light’s speed:
 RTC is any mode of telecommunications in which all users can exchange information instantly or with negligible latency.</description>
+    </item>
+    
+    <item>
+      <title>Video RTC (WebRTC) v6.0.0</title>
+      <link>https://blog.ivrpowers.com/post/updates/update-video-rtc-webrtc-6.0.0/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.ivrpowers.com/post/updates/update-video-rtc-webrtc-6.0.0/</guid>
+      <description>Release Note We are pleased to announce that our new Video RTC (Gateway WebRTC) v6.0.0 has been released for suitable production services. This new version includes a specific security fix for data channel recommendations. All users with previous maintained versions can upgrade today. Please contact our support!
+ChangeLog Version 6.0.0:
+## [6.0.0] - 2024-07-04 ### Added - Added the `browserEvents` option to the Webclient to notify the parent when it is opened as an iframe: `videortc.</description>
     </item>
     
   </channel>

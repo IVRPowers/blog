@@ -6,7 +6,7 @@
     <description>Recent content in ivrpowers on Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 21 Dec 2023 12:00:00 +0200</lastBuildDate><atom:link href="https://blog.ivrpowers.com/tags/ivrpowers/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 09 Oct 2024 12:00:00 +0200</lastBuildDate><atom:link href="https://blog.ivrpowers.com/tags/ivrpowers/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Welcome to our New Blog!</title>
       <link>https://blog.ivrpowers.com/post/general/welcome-blog/</link>
@@ -37,6 +37,61 @@ Interactive Powers delivers communication platforms that enables advanced real-t
     </item>
     
     <item>
+      <title>Web ACD v1.21.0</title>
+      <link>https://blog.ivrpowers.com/post/updates/update-web-acd-1.21.0/</link>
+      <pubDate>Wed, 09 Oct 2024 12:00:00 +0200</pubDate>
+      
+      <guid>https://blog.ivrpowers.com/post/updates/update-web-acd-1.21.0/</guid>
+      <description>Release Note We are pleased to announce that our new Web ACD v1.21.0 has been released for suitable production services. This new version includes a specific security fix for data channel recommendations. All users with previous maintained versions can upgrade today. Please contact our support!
+ChangeLog Version 1.21.0:
+## [1.21.0] - 2024-10-09 ### Added - New supervisor permission to edit a subset of the queue parameters - New queue listing permission for supervisor to separate the action from the agent managent permission - Call events to the triggers - New selector for listing available users for both call transfers and outgoing calls - Added toggle button in the Dashboard &amp;gt; Queues panel to revert to the previous interface``` --- [Interactive Powers](http://www.</description>
+    </item>
+    
+    <item>
+      <title>Web ACD v1.20.0</title>
+      <link>https://blog.ivrpowers.com/post/updates/update-web-acd-1.20.0/</link>
+      <pubDate>Tue, 27 Aug 2024 12:00:00 +0200</pubDate>
+      
+      <guid>https://blog.ivrpowers.com/post/updates/update-web-acd-1.20.0/</guid>
+      <description>Release Note We are pleased to announce that our new Web ACD v1.20.0 has been released for suitable production services. This new version includes a specific security fix for data channel recommendations. All users with previous maintained versions can upgrade today. Please contact our support!
+ChangeLog Version 1.20.0:
+## [1.20.0] - 2024-08-27 ### Added - Visual feedback during the request of adding/removing agents from a queue ### Updated - Revamp of the Dashboard &amp;gt; Queues panel - Improved the Incoming Call modal - The SIP code for calls declined by an agent is now &amp;#34;486 Busy Here&amp;#34; ### Fixed - Correctly edited the &amp;#34;Leave when empty&amp;#34; parameter of a queue - Correctly paused an agent in a new queue when added if it was already paused - Queue triggers rendering issue when navigating between different ACD pages Interactive Powers - Streamline your business communications</description>
+    </item>
+    
+    <item>
+      <title>Web ACD v1.19.0</title>
+      <link>https://blog.ivrpowers.com/post/updates/update-web-acd-1.19.0/</link>
+      <pubDate>Tue, 28 May 2024 12:00:00 +0200</pubDate>
+      
+      <guid>https://blog.ivrpowers.com/post/updates/update-web-acd-1.19.0/</guid>
+      <description>Release Note We are pleased to announce that our new Web ACD v1.19.0 has been released for suitable production services. This new version includes a specific security fix for data channel recommendations. All users with previous maintained versions can upgrade today. Please contact our support!
+ChangeLog Version 1.19.0:
+## [1.19.0] - 2024-05-28 ### Added - Implemented Dark mode feature for the web interface Interactive Powers - Streamline your business communications</description>
+    </item>
+    
+    <item>
+      <title>Web ACD v1.18.0</title>
+      <link>https://blog.ivrpowers.com/post/updates/update-web-acd-1.18.0/</link>
+      <pubDate>Fri, 26 Apr 2024 12:00:00 +0200</pubDate>
+      
+      <guid>https://blog.ivrpowers.com/post/updates/update-web-acd-1.18.0/</guid>
+      <description>Release Note We are pleased to announce that our new Web ACD v1.18.0 has been released for suitable production services. This new version includes a specific security fix for data channel recommendations. All users with previous maintained versions can upgrade today. Please contact our support!
+ChangeLog Version 1.18.0:
+## [1.18.0] - 2024-04-26 ### Added - New languages (es-GT, es-SV, es-MX and es-HN) plus fixed some missing locales imports - Possibility to edit Queue apps in text mode when editing call flows ### Fixed - Fixed blank space in homepage for administrators - Sorted Queue Stats response when receiving from the socket to ensure alphabetical rendering in monitoring - Deleted autocomplete in some password fields Interactive Powers - Streamline your business communications</description>
+    </item>
+    
+    <item>
+      <title>Web ACD v1.170</title>
+      <link>https://blog.ivrpowers.com/post/updates/update-web-acd-1.17.0/</link>
+      <pubDate>Fri, 19 Jan 2024 12:00:00 +0200</pubDate>
+      
+      <guid>https://blog.ivrpowers.com/post/updates/update-web-acd-1.17.0/</guid>
+      <description>Release Note We are pleased to announce that our new Web ACD v1.17.0 has been released for suitable production services. This new version includes a specific security fix for data channel recommendations. All users with previous maintained versions can upgrade today. Please contact our support!
+ChangeLog Version 1.17.0:
+## [1.17.0] - 2024-01-19 ### Modified - Database connection overhaul. Changed from single connection to pool mode Interactive Powers - Streamline your business communications</description>
+    </item>
+    
+    <item>
       <title>Merry Christmas!</title>
       <link>https://blog.ivrpowers.com/post/general/merry-christmas-2023/</link>
       <pubDate>Thu, 21 Dec 2023 12:00:00 +0200</pubDate>
@@ -49,6 +104,17 @@ Interactive Powers - Streamline your business communications</description>
     </item>
     
     <item>
+      <title>Web ACD v1.16.0</title>
+      <link>https://blog.ivrpowers.com/post/updates/update-web-acd-1.16.0/</link>
+      <pubDate>Fri, 01 Dec 2023 12:00:00 +0200</pubDate>
+      
+      <guid>https://blog.ivrpowers.com/post/updates/update-web-acd-1.16.0/</guid>
+      <description>Release Note We are pleased to announce that our new Web ACD v1.16.0 has been released for suitable production services. This new version includes a specific security fix for data channel recommendations. All users with previous maintained versions can upgrade today. Please contact our support!
+ChangeLog Version 1.16.0:
+## [1.16.0] - 2023-12-01 ### Added - Remote database mode por the reporting worker Interactive Powers - Streamline your business communications</description>
+    </item>
+    
+    <item>
       <title>Web ACD v1.15.0</title>
       <link>https://blog.ivrpowers.com/post/updates/update-web-acd-1.15.0/</link>
       <pubDate>Tue, 07 Nov 2023 12:00:00 +0200</pubDate>
@@ -57,6 +123,17 @@ Interactive Powers - Streamline your business communications</description>
       <description>Release Note We are pleased to announce that our new Web ACD v1.15.0 has been released for suitable production services. This new version includes a specific security fix for data channel recommendations with a hotfix 1.15.1 included for all deployments as well. All users with previous maintained versions can upgrade today. Please contact our support!
 ChangeLog Version 1.15.0:
 ### [1.15.0] - 2023-06-14 ### Added - WebSocket request to obtain a list of all users in the system for admins and supervisors - Parameter maxAttentionTime to a realtime queue - Option to show offline users in the dashboard - Added Copy and QRCode actions for the selected trigger - Sounds when dialpad keys are pressed - Added both user and name fixed vars for applications and queue triggers - Home section to the menu - Latest Calls view - Added new languages (en_CA, en_GB, es_AR, es_CL, es_CO, es_CR, es_EC, es_PA, es_PE, es_PR, pt_BR, pt_PT) to the platform ### Changed - The send-announce WebSocket action takes now a *to* parameter to allow directing the message to specific agents - Allowed the : character as part of the report query - The username can only contain letters, numbers or periods ### Fixed - Correctly limit the report preview of queries with the LIMIT word in them - Moved scroll from &amp;lt;html&amp;gt; to the main container - Dashboard items are now aligned via stretch ### [1.</description>
+    </item>
+    
+    <item>
+      <title>Video RTC (WebRTC) v5.2.0</title>
+      <link>https://blog.ivrpowers.com/post/updates/update-video-rtc-webrtc-5.2.0/</link>
+      <pubDate>Tue, 03 Oct 2023 12:00:00 +0200</pubDate>
+      
+      <guid>https://blog.ivrpowers.com/post/updates/update-video-rtc-webrtc-5.2.0/</guid>
+      <description>Release Note We are pleased to announce that our new Video RTC (Gateway WebRTC) v5.2.0 has been released for suitable production services. This new version includes a specific security fix for data channel recommendations. All users with previous maintained versions can upgrade today. Please contact our support!
+ChangeLog Version 5.2.0:
+## [5.2.0] - 2023-10-03 ### Added - Added pulse effect as option to the Webclient buttons - Added option to store user data via URL param when recording a videomail - Added box-shadow effect to the webclient controls - Added option to enable recording in the Videocall usecase - Added possibility to configure a specific waiting video by name - Added unmute icon for waiting video when using Safari browser - Added Picture-in-Picture in the Webclient and SplitAgent usecases - Added option to display agent information via split agent url param plus adjusted video remote sizing in the Webclient - Added reconnect option for the Webclient - Added possibility to open the SplitAgent usecase without camera device - Added microphone and camera available checks before calling from the Webclient - Added device selection (audio/cam/speaker) in the Webclient during the call is active ### Changed - Updated local-state design in the webclient - Upgraded videortc font to v1.</description>
     </item>
     
     <item>
@@ -100,6 +177,17 @@ God bless you all!</description>
       <description>Release Note We are pleased to announce that our new Smart IVR 2.7.0 has been released for suitable production services. This new version includes a lot of improvements and new features. All users with previous maintained versions can upgrade today. Please contact our support!
 ChangeLog Version 2.7:
 ## [2.7.0] - 03-11-2022 ### Added - Parameter start-input-timers to res-speech-unimrcp to disable the default timers initialization in the RECOGNIZE - Channel variable (VOICEDETECTED_TIMEOUT) to select a different timeout to allow speech inputs longer than 10s ### Fixed - A bug during the collection of the next audio sample during the NLU phase Interactive Powers - Streamline your business communications</description>
+    </item>
+    
+    <item>
+      <title>Video RTC (WebRTC) v5.1.0</title>
+      <link>https://blog.ivrpowers.com/post/updates/update-video-rtc-webrtc-5.1.0/</link>
+      <pubDate>Thu, 08 Sep 2022 12:00:00 +0200</pubDate>
+      
+      <guid>https://blog.ivrpowers.com/post/updates/update-video-rtc-webrtc-5.1.0/</guid>
+      <description>Release Note We are pleased to announce that our new Video RTC (Gateway WebRTC) v5.1.0 has been released for suitable production services. This new version includes a specific security fix for data channel recommendations. All users with previous maintained versions can upgrade today. Please contact our support!
+ChangeLog Version 5.1.0:
+## [5.1.0] - 2022-09-08 ### Added - Possibility to join into a RemoteViewer session by passing session params via URL (for agents) - QR Code feature in the Webclient usecase - X-Theme SIP header in the Webclient usecase - Added Virtual Background feature in the SPLIT Agent usecase - Added Video ID usecase - Added playBeeps option to the DTMF configuration in the Webclient usecase - Added REC text message in the Webclient when the call is being recorded - Added some Start messages in both the Tester and Video ID usecases ### Changed - Improved user interface of the Tester usecase (Progressbar design) - Improved user interface of the Webclient usecase (Custom modals) - Improved user interface of the Videomail usecase - Blur effect is now using MediaPipe instead of TensorFlow - Updated VideoRTC font (v1.</description>
     </item>
     
     <item>
@@ -983,6 +1071,17 @@ Cloud Ready. Our Video Gateway solutions are software based and ready to run ove
       <description>The Interactive Voice Response Platform Our VoiceXML IVR software platform gives operators and solution providers the ability to rapidly develop and deploy innovative voice applications from VoIP to PSTN networks.
 This powerful IVR solution is fully compliant with the W3C’s VoiceXML 2.1 specification and is integrated with automatic speech recognition (ASR) and text-to-speech (TTS) software to enable advanced interactive services, and real-time calling applications.
 It can be installed in common hardware or Cloud VM servers configurations, providing a highly scalable base system to meet all customers’ business and technical requirements.</description>
+    </item>
+    
+    <item>
+      <title>Video RTC (WebRTC) v6.0.0</title>
+      <link>https://blog.ivrpowers.com/post/updates/update-video-rtc-webrtc-6.0.0/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.ivrpowers.com/post/updates/update-video-rtc-webrtc-6.0.0/</guid>
+      <description>Release Note We are pleased to announce that our new Video RTC (Gateway WebRTC) v6.0.0 has been released for suitable production services. This new version includes a specific security fix for data channel recommendations. All users with previous maintained versions can upgrade today. Please contact our support!
+ChangeLog Version 6.0.0:
+## [6.0.0] - 2024-07-04 ### Added - Added the `browserEvents` option to the Webclient to notify the parent when it is opened as an iframe: `videortc.</description>
     </item>
     
   </channel>
