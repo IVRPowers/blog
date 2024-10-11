@@ -59,6 +59,17 @@ ChangeLog Version 1.20.0:
     </item>
     
     <item>
+      <title>Video RTC (WebRTC) v6.0.0</title>
+      <link>https://blog.ivrpowers.com/post/updates/update-video-rtc-webrtc-6.0.0/</link>
+      <pubDate>Thu, 04 Jul 2024 12:00:00 +0200</pubDate>
+      
+      <guid>https://blog.ivrpowers.com/post/updates/update-video-rtc-webrtc-6.0.0/</guid>
+      <description>Release Note We are pleased to announce that our new Video RTC (Gateway WebRTC) v6.0.0 has been released for suitable production services. This new version includes a specific security fix for data channel recommendations. All users with previous maintained versions can upgrade today. Please contact our support!
+ChangeLog Version 6.0.0:
+## [6.0.0] - 2024-07-04 ### Added - Added the `browserEvents` option to the Webclient to notify the parent when it is opened as an iframe: `videortc.</description>
+    </item>
+    
+    <item>
       <title>Web ACD v1.19.0</title>
       <link>https://blog.ivrpowers.com/post/updates/update-web-acd-1.19.0/</link>
       <pubDate>Tue, 28 May 2024 12:00:00 +0200</pubDate>
@@ -4125,17 +4136,6 @@ RTC is any mode of telecommunications in which all users can exchange informatio
       
       <guid>https://blog.ivrpowers.com/post/technologies/what-is-voicexml/</guid>
       <description>The Voice eXtensible Markup Language (VoiceXML) is an XML-based markup language for creating distributed voice applications, much as HTML is a markup language for creating distributed visual applications. It is an industry standard defined by the World Wide Web Consortium (W3C) at http://www.w3.org/TR/voicexml21/ (for VoiceXML V2.1) and http://www.w3.org/TR/voicexml20/ (for VoiceXML V2.0). The VoiceXML language enables IVR developers to use a familiar markup style and Web server-side logic to deliver applications for use over telephone lines.</description>
-    </item>
-    
-    <item>
-      <title>Video RTC (WebRTC) v6.0.0</title>
-      <link>https://blog.ivrpowers.com/post/updates/update-video-rtc-webrtc-6.0.0/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://blog.ivrpowers.com/post/updates/update-video-rtc-webrtc-6.0.0/</guid>
-      <description>Release Note We are pleased to announce that our new Video RTC (Gateway WebRTC) v6.0.0 has been released for suitable production services. This new version includes a specific security fix for data channel recommendations. All users with previous maintained versions can upgrade today. Please contact our support!
-ChangeLog Version 6.0.0:
-## [6.0.0] - 2024-07-04 ### Added - Added the `browserEvents` option to the Webclient to notify the parent when it is opened as an iframe: `videortc.</description>
     </item>
     
   </channel>

@@ -6,7 +6,18 @@
     <description>Recent content in webrtc on Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 03 Oct 2023 12:00:00 +0200</lastBuildDate><atom:link href="https://blog.ivrpowers.com/tags/webrtc/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 04 Jul 2024 12:00:00 +0200</lastBuildDate><atom:link href="https://blog.ivrpowers.com/tags/webrtc/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Video RTC (WebRTC) v6.0.0</title>
+      <link>https://blog.ivrpowers.com/post/updates/update-video-rtc-webrtc-6.0.0/</link>
+      <pubDate>Thu, 04 Jul 2024 12:00:00 +0200</pubDate>
+      
+      <guid>https://blog.ivrpowers.com/post/updates/update-video-rtc-webrtc-6.0.0/</guid>
+      <description>Release Note We are pleased to announce that our new Video RTC (Gateway WebRTC) v6.0.0 has been released for suitable production services. This new version includes a specific security fix for data channel recommendations. All users with previous maintained versions can upgrade today. Please contact our support!
+ChangeLog Version 6.0.0:
+## [6.0.0] - 2024-07-04 ### Added - Added the `browserEvents` option to the Webclient to notify the parent when it is opened as an iframe: `videortc.</description>
+    </item>
+    
     <item>
       <title>Video RTC (WebRTC) v5.2.0</title>
       <link>https://blog.ivrpowers.com/post/updates/update-video-rtc-webrtc-5.2.0/</link>
@@ -1318,17 +1329,6 @@ Live Chat. Video Gateway supports Live Chat feature thru a DataChannel. You can 
       <guid>https://blog.ivrpowers.com/post/technologies/what-is-rtc/</guid>
       <description>A clear definition of Real-time communications (RTC) is important to understand what will be the newest evolution of Internet applications and services for businesses and individuals. All is moving around to more real-time, more video, better sound quality, better screen resolution, easier human-interfaces… RTC technology helps to share together most of our senses thru digital networks at light’s speed:
 RTC is any mode of telecommunications in which all users can exchange information instantly or with negligible latency.</description>
-    </item>
-    
-    <item>
-      <title>Video RTC (WebRTC) v6.0.0</title>
-      <link>https://blog.ivrpowers.com/post/updates/update-video-rtc-webrtc-6.0.0/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://blog.ivrpowers.com/post/updates/update-video-rtc-webrtc-6.0.0/</guid>
-      <description>Release Note We are pleased to announce that our new Video RTC (Gateway WebRTC) v6.0.0 has been released for suitable production services. This new version includes a specific security fix for data channel recommendations. All users with previous maintained versions can upgrade today. Please contact our support!
-ChangeLog Version 6.0.0:
-## [6.0.0] - 2024-07-04 ### Added - Added the `browserEvents` option to the Webclient to notify the parent when it is opened as an iframe: `videortc.</description>
     </item>
     
   </channel>
