@@ -27,6 +27,7 @@ Version 1.21.0:
 -   Call events to the triggers
 -   New selector for listing available users for both call transfers and outgoing calls
 -   Added toggle button in the Dashboard > Queues panel to revert to the previous interface```
+```
 
 ---
 [Interactive Powers](http://www.ivrpowers.com/) - Streamline your business communications
