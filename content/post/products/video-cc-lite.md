@@ -70,6 +70,7 @@ Move beyond chat and text to provide effective support with voice or video calls
 
 Does your business require more power, agents, integrations, or recording capabilities? Video CC Lite is just a starting point. You can easily add more plans to enhance your operations with specific features and options tailored to your growing needs.
 
+
 By incorporating **Video CC Lite** into your business ecosystem, you'll unlock a new dimension of customer engagement and internal collaboration. This turnkey solution not only streamlines your communication processes but also enhances your ability to provide personalized, face-to-face interactions at scale. Whether you're looking to boost sales conversions, improve customer support, or facilitate remote teamwork, **Video CC Lite** adapts to meet your specific needs, ensuring a seamless integration with your existing website.
 
 ---
