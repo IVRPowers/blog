@@ -20,7 +20,7 @@ WhatsApp business conversations with contact centers or bots face significant li
 
 Now, you can expand your reach and connect with customers on WhatsApp in groundbreaking ways. WhatsApp Business enables you to create highly personalized and scalable customer engagement tailored to your unique live chat needs. By combining Video RTC's advanced real-time communications with access to first-party customer data, you'll have all the tools necessary to enhance customer relationships, streamline communications, and drive business growth.
 
----
+![diagram video call for WhatsApp](/postimages/marketing/WhatsApp-RTC.006.jpeg)
 
 Video RTC seamlessly integrates voice and video call interactions at any scale, whether you're automating responses, offering real-time support, or launching targeted marketing campaigns. This empowers your human agents to provide superior support during WhatsApp conversations.
 

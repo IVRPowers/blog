@@ -14,7 +14,7 @@ image = "/postimages/products/ivrpowers-slides-11-2024.007.jpeg"
 -------
 ###### Photo source: Interactive Powers - Freepik
 
-#	Video Contact Center Lite: Your All-in-One Starter Bundle.
+#	Video Contact Center Lite: All-in-One Starter Bundle.
 ---
 
  **Video CC Lite** represents the epitome of simplicity and affordability in service plans, meticulously crafted to cater to the unique needs of small businesses and startups operating within select markets. This innovative solution provides users with access to video agent seats, offering a streamlined experience that, while having some limitations compared to our standard plans, opens up an extraordinary gateway to a revolutionary video-based customer interaction paradigm. By choosing **Video CC Lite**, businesses embark on an exciting journey that not only enhances their communication capabilities but also positions them at the forefront of customer engagement technology, all while maintaining a cost-effective approach that aligns perfectly with the budgetary constraints often faced by emerging enterprises.
@@ -46,25 +46,27 @@ Modes:
 
 Video CC Lite offers two deployment options: Mutualized SaaS (M) or Dedicated PaaS (D). These options allow your business to operate according to your data and operational priorities and policies. Contact our sales team to determine the best plan for your needs.
 
+![Video CC Lite screenshots](/postimages/products/ivrpowers-slides-11-2024.018.jpeg)
+
 Considerations:
 
-### Customize your Online Business Support
+### 1- Customize your Online Business Support
 
 Setup your widgets according to your business look&feel. Video CC Lite is pre-configured to enable a simple customization for your website or e-commerce.
 
-### **Create Services and Assign Video Agents**
+### 2- Create Services and Assign Video Agents
 
 Set up dedicated areas or departments to assist all your customers requirements with the right queuing service categories, allowing them to choose the support they need directly from your website through video call.
 
-### **Support your Website from a Single Platform**
+### 3- Support your Website from a Single Platform
 
 Manage video support for all your websites and mobile apps using one team. Video CC Lite is fully responsive and easy to deploy, making it a seamless addition to any business site or e-commerce platform.
 
-### **Real-Time Connections for all your Video Agents**
+### 4- Real-Time Connections for all your Video Agents
 
 Move beyond chat and text to provide effective support with voice or video calls. Video CC Lite enables real-time connections, enhancing customer interactions and delivering the assistance they need instantly.
 
-### Upgradable to Standard RTC, ACD, REC Plans
+### 5- Upgradable to Standard RTC, ACD, REC Plans
 
 Does your business require more power, agents, integrations, or recording capabilities? Video CC Lite is just a starting point. You can easily add more plans to enhance your operations with specific features and options tailored to your growing needs.
 
