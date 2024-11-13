@@ -6,7 +6,26 @@
     <description>Recent content in technologies on Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 25 Feb 2024 21:00:00 +0200</lastBuildDate><atom:link href="https://blog.ivrpowers.com/categories/technologies/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 12 Nov 2024 21:30:00 +0200</lastBuildDate><atom:link href="https://blog.ivrpowers.com/categories/technologies/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>What is e-Call Center?</title>
+      <link>https://blog.ivrpowers.com/post/technologies/what-is-e-call-center/</link>
+      <pubDate>Tue, 12 Nov 2024 21:30:00 +0200</pubDate>
+      
+      <guid>https://blog.ivrpowers.com/post/technologies/what-is-e-call-center/</guid>
+      <description>The Rise of e-Call Centers: Transforming Customer Service in the Digital Age. Traditional contact centers have primarily relied on phone-based interactions for real-time customer service. This approach has been the industry standard, providing direct and immediate connections between customers and service representatives. However, in today&amp;rsquo;s rapidly evolving digital landscape, customer preferences are shifting dramatically. Many consumers no longer consider phone communication the most convenient or necessary method for resolving their queries or concerns.</description>
+    </item>
+    
+    <item>
+      <title>SPLIT 6.x Update</title>
+      <link>https://blog.ivrpowers.com/post/technologies/split-6-x-update/</link>
+      <pubDate>Mon, 11 Nov 2024 20:00:05 +0200</pubDate>
+      
+      <guid>https://blog.ivrpowers.com/post/technologies/split-6-x-update/</guid>
+      <description>The sixth generation Video RTC Gateways, meticulously developed by Interactive Powers, incorporate the innovative SPLIT module. This advanced feature enables the seamless separation of all media streams, including video, audio, and data, providing unprecedented flexibility and control. The SPLIT module represents a significant leap forward in communication technology, allowing for more efficient handling and routing of multimedia content.
+This cutting-edge development is currently based on a robust combination of SIP (Session Initiation Protocol) and WebRTC (Web Real-Time Communication) technologies.</description>
+    </item>
+    
     <item>
       <title>Transactional Video Calls: Revolutionizing Virtual Interactions</title>
       <link>https://blog.ivrpowers.com/post/technologies/transactional-video-calls/</link>

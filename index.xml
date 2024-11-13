@@ -6,7 +6,7 @@
     <description>Recent content on Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 09 Oct 2024 12:00:00 +0200</lastBuildDate><atom:link href="https://blog.ivrpowers.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 12 Nov 2024 21:30:00 +0200</lastBuildDate><atom:link href="https://blog.ivrpowers.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Welcome to our New Blog!</title>
       <link>https://blog.ivrpowers.com/post/general/welcome-blog/</link>
@@ -34,6 +34,61 @@ Our Story Interactive Powers provides Smart IVR and Video RTC platforms to reima
       <guid>https://blog.ivrpowers.com/post/general/about-interactive-powers/</guid>
       <description>Photo source: Interactive Powers Interactive Powers develops technology that helps your organization connect, communicate and engage with your customers, employees and stakeholders. Contact with us to find out more about how we can help you achieve your business communication goals.
 Interactive Powers delivers communication platforms that enables advanced real-time interactions over public or private networks. We allow to deploy secure channels with unified voice, video, live chat and screen sharing capabilities for web, apps, and kiosk-based customer engagement to sale or support faster than ever.</description>
+    </item>
+    
+    <item>
+      <title>What is e-Call Center?</title>
+      <link>https://blog.ivrpowers.com/post/technologies/what-is-e-call-center/</link>
+      <pubDate>Tue, 12 Nov 2024 21:30:00 +0200</pubDate>
+      
+      <guid>https://blog.ivrpowers.com/post/technologies/what-is-e-call-center/</guid>
+      <description>The Rise of e-Call Centers: Transforming Customer Service in the Digital Age. Traditional contact centers have primarily relied on phone-based interactions for real-time customer service. This approach has been the industry standard, providing direct and immediate connections between customers and service representatives. However, in today&amp;rsquo;s rapidly evolving digital landscape, customer preferences are shifting dramatically. Many consumers no longer consider phone communication the most convenient or necessary method for resolving their queries or concerns.</description>
+    </item>
+    
+    <item>
+      <title>Video Contact Center Trends</title>
+      <link>https://blog.ivrpowers.com/post/trends/video-contact-center-trends/</link>
+      <pubDate>Tue, 12 Nov 2024 21:00:00 +0200</pubDate>
+      
+      <guid>https://blog.ivrpowers.com/post/trends/video-contact-center-trends/</guid>
+      <description>Photo source: Creative Commons How Can We Help Your Business with Video Calls? In today’s customer-centric world, providing seamless, high-quality service experiences is crucial for businesses to stay competitive. However, one highly effective channel often goes underutilized in contact centers: video calling. Many businesses overlook video support, which has the potential to transform customer service, enhance customer satisfaction, and optimize operational resources. Here&amp;rsquo;s a closer look at why video calling is an invaluable asset for modern businesses and how it meets the needs of both companies and consumers alike.</description>
+    </item>
+    
+    <item>
+      <title>Click-to-Call into WhatsApp conversations</title>
+      <link>https://blog.ivrpowers.com/post/marketing/click-to-call-into-whatsapp-conversations/</link>
+      <pubDate>Tue, 12 Nov 2024 20:00:00 +0200</pubDate>
+      
+      <guid>https://blog.ivrpowers.com/post/marketing/click-to-call-into-whatsapp-conversations/</guid>
+      <description>Photo source: Interactive Powers - Freepik Make a Voice or Video Call from WhatsApp conversations WhatsApp business conversations with contact centers or bots face significant limitations. They primarily rely on text-based communication, lacking real-time, voice-to-voice interaction. These constraints often result in misunderstandings, slower problem resolution, and a less personal customer experience (CX). Without immediate vocal communication, the natural flow of conversation is impeded, making it challenging to convey tone, urgency, or complex information effectively.</description>
+    </item>
+    
+    <item>
+      <title>Video CC Lite</title>
+      <link>https://blog.ivrpowers.com/post/products/video-cc-lite/</link>
+      <pubDate>Mon, 11 Nov 2024 21:30:00 +0200</pubDate>
+      
+      <guid>https://blog.ivrpowers.com/post/products/video-cc-lite/</guid>
+      <description>Photo source: Interactive Powers - Freepik Video Contact Center Lite: Your All-in-One Starter Bundle. Video CC Lite represents the epitome of simplicity and affordability in service plans, meticulously crafted to cater to the unique needs of small businesses and startups operating within select markets. This innovative solution provides users with access to video agent seats, offering a streamlined experience that, while having some limitations compared to our standard plans, opens up an extraordinary gateway to a revolutionary video-based customer interaction paradigm.</description>
+    </item>
+    
+    <item>
+      <title>Video Calling for WhatsApp</title>
+      <link>https://blog.ivrpowers.com/post/marketing/video-calling-for-whatsapp/</link>
+      <pubDate>Mon, 11 Nov 2024 21:00:00 +0200</pubDate>
+      
+      <guid>https://blog.ivrpowers.com/post/marketing/video-calling-for-whatsapp/</guid>
+      <description>Photo source: Interactive Powers - Freepik Make video calls from WhatsApp conversations Have you ever found yourself in a situation where you needed to seamlessly transition from a WhatsApp text conversation between a user and an agent to a direct call or video call? Unfortunately, WhatsApp&amp;rsquo;s default functionality does not provide direct call trunking capabilities to enable Voice over IP (VOIP) calls within a conversation. This limitation significantly hampers the potential for enhancing user support experiences.</description>
+    </item>
+    
+    <item>
+      <title>SPLIT 6.x Update</title>
+      <link>https://blog.ivrpowers.com/post/technologies/split-6-x-update/</link>
+      <pubDate>Mon, 11 Nov 2024 20:00:05 +0200</pubDate>
+      
+      <guid>https://blog.ivrpowers.com/post/technologies/split-6-x-update/</guid>
+      <description>The sixth generation Video RTC Gateways, meticulously developed by Interactive Powers, incorporate the innovative SPLIT module. This advanced feature enables the seamless separation of all media streams, including video, audio, and data, providing unprecedented flexibility and control. The SPLIT module represents a significant leap forward in communication technology, allowing for more efficient handling and routing of multimedia content.
+This cutting-edge development is currently based on a robust combination of SIP (Session Initiation Protocol) and WebRTC (Web Real-Time Communication) technologies.</description>
     </item>
     
     <item>

@@ -6,7 +6,17 @@
     <description>Recent content in cctr on Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 14 Apr 2023 16:00:00 +0200</lastBuildDate><atom:link href="https://blog.ivrpowers.com/tags/cctr/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 11 Nov 2024 20:00:05 +0200</lastBuildDate><atom:link href="https://blog.ivrpowers.com/tags/cctr/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>SPLIT 6.x Update</title>
+      <link>https://blog.ivrpowers.com/post/technologies/split-6-x-update/</link>
+      <pubDate>Mon, 11 Nov 2024 20:00:05 +0200</pubDate>
+      
+      <guid>https://blog.ivrpowers.com/post/technologies/split-6-x-update/</guid>
+      <description>The sixth generation Video RTC Gateways, meticulously developed by Interactive Powers, incorporate the innovative SPLIT module. This advanced feature enables the seamless separation of all media streams, including video, audio, and data, providing unprecedented flexibility and control. The SPLIT module represents a significant leap forward in communication technology, allowing for more efficient handling and routing of multimedia content.
+This cutting-edge development is currently based on a robust combination of SIP (Session Initiation Protocol) and WebRTC (Web Real-Time Communication) technologies.</description>
+    </item>
+    
     <item>
       <title>Video RTC · Picture-in-Picture</title>
       <link>https://blog.ivrpowers.com/post/products/picture-in-picture-video-calls/</link>

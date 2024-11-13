@@ -6,40 +6,49 @@
     <description>Recent content in Categories on Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 09 Oct 2024 12:00:00 +0200</lastBuildDate><atom:link href="https://blog.ivrpowers.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 12 Nov 2024 21:30:00 +0200</lastBuildDate><atom:link href="https://blog.ivrpowers.com/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>updates</title>
-      <link>https://blog.ivrpowers.com/categories/updates/</link>
-      <pubDate>Wed, 09 Oct 2024 12:00:00 +0200</pubDate>
+      <title>technologies</title>
+      <link>https://blog.ivrpowers.com/categories/technologies/</link>
+      <pubDate>Tue, 12 Nov 2024 21:30:00 +0200</pubDate>
       
-      <guid>https://blog.ivrpowers.com/categories/updates/</guid>
+      <guid>https://blog.ivrpowers.com/categories/technologies/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>products</title>
-      <link>https://blog.ivrpowers.com/categories/products/</link>
-      <pubDate>Mon, 27 May 2024 10:00:00 +0200</pubDate>
+      <title>trends</title>
+      <link>https://blog.ivrpowers.com/categories/trends/</link>
+      <pubDate>Tue, 12 Nov 2024 21:00:00 +0200</pubDate>
       
-      <guid>https://blog.ivrpowers.com/categories/products/</guid>
+      <guid>https://blog.ivrpowers.com/categories/trends/</guid>
       <description></description>
     </item>
     
     <item>
       <title>marketing</title>
       <link>https://blog.ivrpowers.com/categories/marketing/</link>
-      <pubDate>Tue, 16 Apr 2024 10:00:00 +0200</pubDate>
+      <pubDate>Tue, 12 Nov 2024 20:00:00 +0200</pubDate>
       
       <guid>https://blog.ivrpowers.com/categories/marketing/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>technologies</title>
-      <link>https://blog.ivrpowers.com/categories/technologies/</link>
-      <pubDate>Sun, 25 Feb 2024 21:00:00 +0200</pubDate>
+      <title>products</title>
+      <link>https://blog.ivrpowers.com/categories/products/</link>
+      <pubDate>Mon, 11 Nov 2024 21:30:00 +0200</pubDate>
       
-      <guid>https://blog.ivrpowers.com/categories/technologies/</guid>
+      <guid>https://blog.ivrpowers.com/categories/products/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>updates</title>
+      <link>https://blog.ivrpowers.com/categories/updates/</link>
+      <pubDate>Wed, 09 Oct 2024 12:00:00 +0200</pubDate>
+      
+      <guid>https://blog.ivrpowers.com/categories/updates/</guid>
       <description></description>
     </item>
     
@@ -67,15 +76,6 @@
       <pubDate>Thu, 28 Sep 2023 12:00:01 +0200</pubDate>
       
       <guid>https://blog.ivrpowers.com/categories/contactcenter/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>trends</title>
-      <link>https://blog.ivrpowers.com/categories/trends/</link>
-      <pubDate>Sun, 09 Apr 2023 15:00:00 +0100</pubDate>
-      
-      <guid>https://blog.ivrpowers.com/categories/trends/</guid>
       <description></description>
     </item>
     
