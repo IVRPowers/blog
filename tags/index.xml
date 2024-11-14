@@ -6,22 +6,58 @@
     <description>Recent content in Tags on Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 12 Nov 2024 21:30:00 +0200</lastBuildDate><atom:link href="https://blog.ivrpowers.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 13 Nov 2024 21:00:00 +0200</lastBuildDate><atom:link href="https://blog.ivrpowers.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AI</title>
+      <link>https://blog.ivrpowers.com/tags/ai/</link>
+      <pubDate>Wed, 13 Nov 2024 21:00:00 +0200</pubDate>
+      
+      <guid>https://blog.ivrpowers.com/tags/ai/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>cctr</title>
+      <link>https://blog.ivrpowers.com/tags/cctr/</link>
+      <pubDate>Wed, 13 Nov 2024 21:00:00 +0200</pubDate>
+      
+      <guid>https://blog.ivrpowers.com/tags/cctr/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>rtc</title>
       <link>https://blog.ivrpowers.com/tags/rtc/</link>
-      <pubDate>Tue, 12 Nov 2024 21:30:00 +0200</pubDate>
+      <pubDate>Wed, 13 Nov 2024 21:00:00 +0200</pubDate>
       
       <guid>https://blog.ivrpowers.com/tags/rtc/</guid>
       <description></description>
     </item>
     
     <item>
+      <title>split</title>
+      <link>https://blog.ivrpowers.com/tags/split/</link>
+      <pubDate>Wed, 13 Nov 2024 21:00:00 +0200</pubDate>
+      
+      <guid>https://blog.ivrpowers.com/tags/split/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>webrtc</title>
       <link>https://blog.ivrpowers.com/tags/webrtc/</link>
-      <pubDate>Tue, 12 Nov 2024 21:30:00 +0200</pubDate>
+      <pubDate>Wed, 13 Nov 2024 21:00:00 +0200</pubDate>
       
       <guid>https://blog.ivrpowers.com/tags/webrtc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>whatsapp</title>
+      <link>https://blog.ivrpowers.com/tags/whatsapp/</link>
+      <pubDate>Wed, 13 Nov 2024 20:00:00 +0200</pubDate>
+      
+      <guid>https://blog.ivrpowers.com/tags/whatsapp/</guid>
       <description></description>
     </item>
     
@@ -98,38 +134,11 @@
     </item>
     
     <item>
-      <title>whatsapp</title>
-      <link>https://blog.ivrpowers.com/tags/whatsapp/</link>
-      <pubDate>Tue, 12 Nov 2024 20:00:00 +0200</pubDate>
-      
-      <guid>https://blog.ivrpowers.com/tags/whatsapp/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>videocc</title>
       <link>https://blog.ivrpowers.com/tags/videocc/</link>
       <pubDate>Mon, 11 Nov 2024 21:30:00 +0200</pubDate>
       
       <guid>https://blog.ivrpowers.com/tags/videocc/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>cctr</title>
-      <link>https://blog.ivrpowers.com/tags/cctr/</link>
-      <pubDate>Mon, 11 Nov 2024 20:00:05 +0200</pubDate>
-      
-      <guid>https://blog.ivrpowers.com/tags/cctr/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>split</title>
-      <link>https://blog.ivrpowers.com/tags/split/</link>
-      <pubDate>Mon, 11 Nov 2024 20:00:05 +0200</pubDate>
-      
-      <guid>https://blog.ivrpowers.com/tags/split/</guid>
       <description></description>
     </item>
     
@@ -697,15 +706,6 @@
       <pubDate>Sun, 05 Apr 2020 22:00:00 +0200</pubDate>
       
       <guid>https://blog.ivrpowers.com/tags/humaninteraction/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>AI</title>
-      <link>https://blog.ivrpowers.com/tags/ai/</link>
-      <pubDate>Sat, 29 Feb 2020 19:00:00 +0200</pubDate>
-      
-      <guid>https://blog.ivrpowers.com/tags/ai/</guid>
       <description></description>
     </item>
     

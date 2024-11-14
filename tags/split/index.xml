@@ -6,7 +6,34 @@
     <description>Recent content in split on Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 11 Nov 2024 20:00:05 +0200</lastBuildDate><atom:link href="https://blog.ivrpowers.com/tags/split/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 13 Nov 2024 21:00:00 +0200</lastBuildDate><atom:link href="https://blog.ivrpowers.com/tags/split/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>What is SPLIT AI Copilot?</title>
+      <link>https://blog.ivrpowers.com/post/technologies/what-is-split-ai-copilot/</link>
+      <pubDate>Wed, 13 Nov 2024 21:00:00 +0200</pubDate>
+      
+      <guid>https://blog.ivrpowers.com/post/technologies/what-is-split-ai-copilot/</guid>
+      <description>SPLIT AI Copilot: Delivers real-time, proactive knowledge and actions during user-agent interactions. SPLIT AI Copilot is an AI-driven interface based on SIP and designed to support contact center agents by providing real-time assistance during customer interactions. Part of the Video RTC platform, SPLIT AI Copilot identifies customer intent and offers agents immediate access to relevant knowledge resources, next-step guidance, and real-time suggestions. This enables agents to handle inquiries more effectively without needing to search for information manually.</description>
+    </item>
+    
+    <item>
+      <title>What is SPLIT Deaf Interpreter?</title>
+      <link>https://blog.ivrpowers.com/post/technologies/what-is-split-deaf-interpreter/</link>
+      <pubDate>Wed, 13 Nov 2024 20:00:00 +0200</pubDate>
+      
+      <guid>https://blog.ivrpowers.com/post/technologies/what-is-split-deaf-interpreter/</guid>
+      <description>SPLIT Deaf Interpreter: Provides efficient sign language interpretation through real-time video communication to phone calls. SPLIT Deaf Interpreter is an innovative video communication interface designed to bridge the communication gap for deaf users during phone calls. This cutting-edge solution seamlessly connects deaf individuals with skilled sign language interpreters in real-time, enabling smooth and effective communication. By leveraging advanced video technology, SPLIT Deaf Interpreter ensures that deaf users can engage in phone conversations with ease, overcoming traditional barriers and fostering inclusivity in telecommunications.</description>
+    </item>
+    
+    <item>
+      <title>What is SPLIT WhatsApp?</title>
+      <link>https://blog.ivrpowers.com/post/technologies/what-is-split-whatsapp/</link>
+      <pubDate>Wed, 13 Nov 2024 20:00:00 +0200</pubDate>
+      
+      <guid>https://blog.ivrpowers.com/post/technologies/what-is-split-whatsapp/</guid>
+      <description>SPLIT WhatsApp: Enhancing Contact Center Communication with Voice and Video Calls. SPLIT WhatsApp offers a powerful feature that allows users to seamlessly transition from a standard WhatsApp conversation to a full-fledged video call. This functionality provides a smooth and efficient way to escalate communication when needed, enhancing the overall user experience. By enabling this scale-up capability, SPLIT WhatsApp bridges the gap between text-based messaging and face-to-face interaction, all within the familiar WhatsApp environment.</description>
+    </item>
+    
     <item>
       <title>SPLIT 6.x Update</title>
       <link>https://blog.ivrpowers.com/post/technologies/split-6-x-update/</link>

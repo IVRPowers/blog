@@ -6,7 +6,16 @@
     <description>Recent content in AI on Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 29 Feb 2020 19:00:00 +0200</lastBuildDate><atom:link href="https://blog.ivrpowers.com/tags/ai/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 13 Nov 2024 21:00:00 +0200</lastBuildDate><atom:link href="https://blog.ivrpowers.com/tags/ai/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>What is SPLIT AI Copilot?</title>
+      <link>https://blog.ivrpowers.com/post/technologies/what-is-split-ai-copilot/</link>
+      <pubDate>Wed, 13 Nov 2024 21:00:00 +0200</pubDate>
+      
+      <guid>https://blog.ivrpowers.com/post/technologies/what-is-split-ai-copilot/</guid>
+      <description>SPLIT AI Copilot: Delivers real-time, proactive knowledge and actions during user-agent interactions. SPLIT AI Copilot is an AI-driven interface based on SIP and designed to support contact center agents by providing real-time assistance during customer interactions. Part of the Video RTC platform, SPLIT AI Copilot identifies customer intent and offers agents immediate access to relevant knowledge resources, next-step guidance, and real-time suggestions. This enables agents to handle inquiries more effectively without needing to search for information manually.</description>
+    </item>
+    
     <item>
       <title>Connecting Phone Calls to DialogFlow</title>
       <link>https://blog.ivrpowers.com/post/customerengagement/connecting-phone-calls-to-dialogflow/</link>
