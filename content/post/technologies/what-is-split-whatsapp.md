@@ -10,6 +10,8 @@ comments = true
 +++
 
 ![SPLIT WhatsApp](/postimages/technologies/ivrpowers-slides-11-2024.006.jpeg)
+-------
+###### Photo source: Interactive Powers - Freepik
 
 # SPLIT WhatsApp: Enhancing Contact Center Communication with Voice and Video Calls.
 ---

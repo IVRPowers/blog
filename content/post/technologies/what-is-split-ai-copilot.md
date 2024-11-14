@@ -10,6 +10,8 @@ comments = true
 +++
 
 ![SPLIT AI Copilot](/postimages/technologies/ivrpowers-slides-11-2024.005.jpeg)
+-------
+###### Photo source: Interactive Powers - Freepik
 
 # SPLIT AI Copilot: Delivers real-time, proactive knowledge and actions during user-agent interactions.
 ---

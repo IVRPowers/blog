@@ -7,7 +7,6 @@ tags = ["whatsapp","videortc","videocall"]
 title = "Click-to-Call into WhatsApp conversations"
 image = "/postimages/marketing/ivrpowers-slides-11-2024.009.jpeg"
 comments = true
-
 +++
 
 ![Click-to-Call into WhatsApp conversations](/postimages/marketing/ivrpowers-slides-11-2024.009.jpeg)
