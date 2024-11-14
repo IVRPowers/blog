@@ -10,7 +10,7 @@ comments = true
 
 +++
 
-![Live video chat](/postimages/marketing/ivrpowers-slides-11-2024.009.jpeg)
+![Click-to-Call into WhatsApp conversations](/postimages/marketing/ivrpowers-slides-11-2024.009.jpeg)
 -------
 ###### Photo source: Interactive Powers - Freepik
 
