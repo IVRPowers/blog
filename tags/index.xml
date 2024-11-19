@@ -6,7 +6,34 @@
     <description>Recent content in Tags on Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 19 Nov 2024 11:00:00 +0200</lastBuildDate><atom:link href="https://blog.ivrpowers.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 19 Nov 2024 12:00:00 +0200</lastBuildDate><atom:link href="https://blog.ivrpowers.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>contactcenter</title>
+      <link>https://blog.ivrpowers.com/tags/contactcenter/</link>
+      <pubDate>Tue, 19 Nov 2024 12:00:00 +0200</pubDate>
+      
+      <guid>https://blog.ivrpowers.com/tags/contactcenter/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>videocall</title>
+      <link>https://blog.ivrpowers.com/tags/videocall/</link>
+      <pubDate>Tue, 19 Nov 2024 12:00:00 +0200</pubDate>
+      
+      <guid>https://blog.ivrpowers.com/tags/videocall/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>videortc</title>
+      <link>https://blog.ivrpowers.com/tags/videortc/</link>
+      <pubDate>Tue, 19 Nov 2024 12:00:00 +0200</pubDate>
+      
+      <guid>https://blog.ivrpowers.com/tags/videortc/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>acd</title>
       <link>https://blog.ivrpowers.com/tags/acd/</link>
@@ -98,15 +125,6 @@
     </item>
     
     <item>
-      <title>contactcenter</title>
-      <link>https://blog.ivrpowers.com/tags/contactcenter/</link>
-      <pubDate>Tue, 12 Nov 2024 21:00:00 +0200</pubDate>
-      
-      <guid>https://blog.ivrpowers.com/tags/contactcenter/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>custexp</title>
       <link>https://blog.ivrpowers.com/tags/custexp/</link>
       <pubDate>Tue, 12 Nov 2024 21:00:00 +0200</pubDate>
@@ -139,24 +157,6 @@
       <pubDate>Tue, 12 Nov 2024 21:00:00 +0200</pubDate>
       
       <guid>https://blog.ivrpowers.com/tags/videochat/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>videocall</title>
-      <link>https://blog.ivrpowers.com/tags/videocall/</link>
-      <pubDate>Tue, 12 Nov 2024 20:00:00 +0200</pubDate>
-      
-      <guid>https://blog.ivrpowers.com/tags/videocall/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>videortc</title>
-      <link>https://blog.ivrpowers.com/tags/videortc/</link>
-      <pubDate>Tue, 12 Nov 2024 20:00:00 +0200</pubDate>
-      
-      <guid>https://blog.ivrpowers.com/tags/videortc/</guid>
       <description></description>
     </item>
     
