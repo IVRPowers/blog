@@ -22,6 +22,8 @@ Given these changing preferences, it's crucial to introduce and embrace the conc
 
 By adopting this web-centric model, **e-Call Centers** offer a more flexible, accessible, and user-friendly experience that aligns with contemporary consumer communication preferences. This approach not only enhances customer satisfaction but also potentially reduces operational costs and improves overall efficiency in customer service delivery.
 
+![e-Call Center Video Agents Working](/postimages/technologies/ivrpowers-slides-11-2024.015.jpeg)
+
 Key Features:
 
 ## 1- Omni-channel support
