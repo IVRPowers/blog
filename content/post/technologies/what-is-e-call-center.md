@@ -10,6 +10,8 @@ image = "/postimages/technologies/ivrpowers-slides-11-2024.014.jpeg"
 +++
 
 ![e-Call Center](/postimages/technologies/ivrpowers-slides-11-2024.014.jpeg)
+-------
+###### Photo source: Interactive Powers - Freepik
 
 # The Rise of e-Call Centers: Transforming Customer Service in the Digital Age.
 ---
