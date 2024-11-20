@@ -6,7 +6,7 @@
     <description>Recent content on Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 19 Nov 2024 12:00:00 +0200</lastBuildDate><atom:link href="https://blog.ivrpowers.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 20 Nov 2024 12:00:00 +0200</lastBuildDate><atom:link href="https://blog.ivrpowers.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Welcome to our New Blog!</title>
       <link>https://blog.ivrpowers.com/post/general/welcome-blog/</link>
@@ -34,6 +34,15 @@ Our Story Interactive Powers provides Smart IVR and Video RTC platforms to reima
       <guid>https://blog.ivrpowers.com/post/general/about-interactive-powers/</guid>
       <description>Photo source: Interactive Powers Interactive Powers develops technology that helps your organization connect, communicate and engage with your customers, employees and stakeholders. Contact with us to find out more about how we can help you achieve your business communication goals.
 Interactive Powers delivers communication platforms that enables advanced real-time interactions over public or private networks. We allow to deploy secure channels with unified voice, video, live chat and screen sharing capabilities for web, apps, and kiosk-based customer engagement to sale or support faster than ever.</description>
+    </item>
+    
+    <item>
+      <title>Video Call Recovery</title>
+      <link>https://blog.ivrpowers.com/post/technologies/video-call-recovery/</link>
+      <pubDate>Wed, 20 Nov 2024 12:00:00 +0200</pubDate>
+      
+      <guid>https://blog.ivrpowers.com/post/technologies/video-call-recovery/</guid>
+      <description>Photo source: Interactive Powers - Freepik Revolutionizing Customer Experience in Video Communications In today&amp;rsquo;s communication landscape, interruptions and wireless network disconnections are inevitable. These issues can significantly affect the quality of internet and video calls, presenting a serious challenge. They often lead to substantial time waste for both agents and users, frequently resulting in incomplete transactions. This problem is particularly critical in contact centers, where most service providers lack effective recovery mechanisms for phone calls.</description>
     </item>
     
     <item>
