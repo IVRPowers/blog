@@ -14,6 +14,7 @@ comments = true
 ###### Photo source: Interactive Powers - Freepik
 
 # Transactional Video Calls: Upgrading Contact Center Communications
+---
 
 **Transactional Video Calls** offer a suite of advanced communication features designed to boost performance and productivity in contact center environments. These calls provide a more efficient and targeted approach compared to traditional video meetings, rooms, or peer-to-peer conferencing methods. They enable streamlined interactions and improved customer service through routing, distribution, queuing, on-hold capabilities, and transfer functions. Additionally, they include collaboration features such as Live Chat, File Sharing, Screen Sharing, and CoBrowsing to enhance human conversation and remote assistance resolution.
 
