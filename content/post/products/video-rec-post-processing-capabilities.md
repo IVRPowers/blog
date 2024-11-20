@@ -40,13 +40,15 @@ The Post-Processing module supports a wide range of transfer protocols, includin
 
 The module offers customizable archiving capabilities. Users can define specific criteria for archiving based on factors like file size, date ranges, or content type. This enables efficient long-term storage management, helping users optimize resources by automatically organizing and categorizing video content based on predefined rules. It streamlines the archiving process, making it easier to manage large volumes of recordings over time.
 
-### 6- Notification System
+### 6- Early Notification System
 
 An advanced notification system keeps administrators informed about critical storage and archiving operations. It sends detailed alerts about storage capacity and archiving processes, enabling proactive issue management. By providing real-time updates on storage utilization, capacity limits, and archiving anomalies, the system ensures optimal performance and data integrity. This feature is crucial in high-volume environments where efficient storage management is essential for continuous operations.
 
 ### 7- Metadata Management
 
 The Post-Processing module provides robust metadata management tools. Users can easily add, edit, and organize metadata for their video recordings, creating a rich information ecosystem around their content. This enhances searchability and improves content categorization and retrieval, significantly boosting the discoverability and usability of video assets. Users can effortlessly tag, describe, and classify recordings, making it simple to locate specific content within large video libraries and enabling more efficient content management workflows.
+
+---
 
 Video REC leverages Amazon Web Services' (AWS) robust and secure infrastructure. It uses Amazon Elastic Container Service (ECS) for efficient, scalable video processing, dynamically allocating computing resources to ensure optimal performance, even during peak usage. For storage, Video REC combines Amazon S3 Buckets and Glacier. S3 Buckets provide fast, reliable storage for frequently accessed data, while Glacier offers cost-effective long-term archival for less-used content. This two-tiered storage approach enables immediate access to recent recordings and economical preservation of older content, optimizing both performance and cost-effectiveness in Video REC's cloud operations.
 
