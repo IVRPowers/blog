@@ -6,7 +6,34 @@
     <description>Recent content in Tags on Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 20 Nov 2024 12:00:00 +0200</lastBuildDate><atom:link href="https://blog.ivrpowers.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 20 Nov 2024 18:00:00 +0200</lastBuildDate><atom:link href="https://blog.ivrpowers.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>recording</title>
+      <link>https://blog.ivrpowers.com/tags/recording/</link>
+      <pubDate>Wed, 20 Nov 2024 18:00:00 +0200</pubDate>
+      
+      <guid>https://blog.ivrpowers.com/tags/recording/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>security</title>
+      <link>https://blog.ivrpowers.com/tags/security/</link>
+      <pubDate>Wed, 20 Nov 2024 18:00:00 +0200</pubDate>
+      
+      <guid>https://blog.ivrpowers.com/tags/security/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>videorec</title>
+      <link>https://blog.ivrpowers.com/tags/videorec/</link>
+      <pubDate>Wed, 20 Nov 2024 18:00:00 +0200</pubDate>
+      
+      <guid>https://blog.ivrpowers.com/tags/videorec/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>cctr</title>
       <link>https://blog.ivrpowers.com/tags/cctr/</link>
@@ -256,15 +283,6 @@
       <pubDate>Sun, 25 Feb 2024 21:00:00 +0200</pubDate>
       
       <guid>https://blog.ivrpowers.com/tags/video/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>videorec</title>
-      <link>https://blog.ivrpowers.com/tags/videorec/</link>
-      <pubDate>Sun, 25 Feb 2024 21:00:00 +0200</pubDate>
-      
-      <guid>https://blog.ivrpowers.com/tags/videorec/</guid>
       <description></description>
     </item>
     
@@ -562,15 +580,6 @@
       <pubDate>Sat, 06 Mar 2021 21:00:00 +0200</pubDate>
       
       <guid>https://blog.ivrpowers.com/tags/cpaas/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>recording</title>
-      <link>https://blog.ivrpowers.com/tags/recording/</link>
-      <pubDate>Sat, 06 Mar 2021 21:00:00 +0200</pubDate>
-      
-      <guid>https://blog.ivrpowers.com/tags/recording/</guid>
       <description></description>
     </item>
     
@@ -1030,15 +1039,6 @@
       <pubDate>Sat, 21 Jul 2018 23:00:00 +0200</pubDate>
       
       <guid>https://blog.ivrpowers.com/tags/development/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>security</title>
-      <link>https://blog.ivrpowers.com/tags/security/</link>
-      <pubDate>Tue, 10 Jul 2018 09:00:05 +0200</pubDate>
-      
-      <guid>https://blog.ivrpowers.com/tags/security/</guid>
       <description></description>
     </item>
     
