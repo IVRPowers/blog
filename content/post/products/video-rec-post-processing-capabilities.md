@@ -16,7 +16,7 @@ comments = true
 # Post-Processing Module: Automation, Transfer and Exportation Services
 --- 
 
-The **Post-Processing** module is an advanced component of Video REC services that provides a comprehensive toolkit for handling video recordings. This powerful module streamlines the management, storage, and manipulation of recorded content, helping users maximize the potential of their video assets.
+The **Post-Processing** module is an advanced component of [Video REC](https://interactivepowers.com/en/platforms/videorec) services that provides a comprehensive toolkit for handling video recordings. This powerful module streamlines the management, storage, and manipulation of recorded content, helping users maximize the potential of their video assets.
 
 Key features of the Post-Processing module include:
 
@@ -50,7 +50,7 @@ The Post-Processing module provides robust metadata management tools. Users can 
 
 ---
 
-Video REC leverages Amazon Web Services' (AWS) robust and secure infrastructure. It uses Amazon Elastic Container Service (ECS) for efficient, scalable video processing, dynamically allocating computing resources to ensure optimal performance, even during peak usage. For storage, Video REC combines Amazon S3 Buckets and Glacier. S3 Buckets provide fast, reliable storage for frequently accessed data, while Glacier offers cost-effective long-term archival for less-used content. This two-tiered storage approach enables immediate access to recent recordings and economical preservation of older content, optimizing both performance and cost-effectiveness in Video REC's cloud operations.
+[Video REC](https://interactivepowers.com/en/platforms/videorec) leverages Amazon Web Services' (AWS) robust and secure infrastructure. It uses Amazon Elastic Container Service (ECS) for efficient, scalable video processing, dynamically allocating computing resources to ensure optimal performance, even during peak usage. For storage, Video REC combines Amazon S3 Buckets and Glacier. S3 Buckets provide fast, reliable storage for frequently accessed data, while Glacier offers cost-effective long-term archival for less-used content. This two-tiered storage approach enables immediate access to recent recordings and economical preservation of older content, optimizing both performance and cost-effectiveness in [Video REC](https://interactivepowers.com/en/platforms/videorec)'s cloud operations.
 
 ![Video REC Infrastructure](/postimages/products/Video-REC-configuration.008.png)
 

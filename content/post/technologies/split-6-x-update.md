@@ -19,11 +19,11 @@ Available SPLIT Modes:
 
 ## SPLIT Forward
 
-Automatically route Inbound Video Calls to available CC Agents.
+Automatically route Inbound Video Calls to available CC Agents. 
 
 ## SPLIT Reverse
 
-Make Outbound Video Calls from a CC Agent to an Internet User.
+Make Outbound Video Calls from a CC Agent to an Internet User. 
 
 ## SPLIT Scheduled
 
@@ -33,15 +33,15 @@ Schedule Video Calls to any CC Agent for a negotiated task.
 
 ## SPLIT IA Copilot *New
 
-Connect an IA Assistant to CC Agents during Calls or Video Calls.
+Connect an IA Assistant to CC Agents during Calls or Video Calls. [Learn more...](https://blog.ivrpowers.com/post/technologies/what-is-split-ai-copilot/)
 
 ## SPLIT Deaf Interpreter *New
 
-Connect a Deaf Sign Language Interpreter to Outbound Phone Calls.
+Connect a Deaf Sign Language Interpreter to Outbound Phone Calls. [Learn more...](https://blog.ivrpowers.com/post/technologies/what-is-split-deaf-interpreter/)
 
 ## SPLIT WhatsApp *New
 
-Connect WhatsApp conversations to a Voice or Video Call.
+Connect WhatsApp conversations to a Voice or Video Call. [Learn more...](https://blog.ivrpowers.com/post/technologies/what-is-split-whatsapp/)
 
 It's important to note that the SPLIT module and its associated protocols have been engineered with versatility in mind. They are fully compatible with Web ACD, our proprietary video-centric Contact Center agent platform, which has been specifically designed to leverage the full potential of these advanced features. However, the flexibility of our solution extends beyond our own ecosystem. The SPLIT module seamlessly integrates with any CCaaS (Contact Center as a Service) solution available in the market, ensuring that businesses can incorporate our cutting-edge video communication capabilities into their existing infrastructure without disruption.
 

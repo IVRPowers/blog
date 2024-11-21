@@ -19,7 +19,7 @@ image = "/postimages/products/ivrpowers-slides-11-2024.007.jpeg"
 
  **Video CC Lite** represents the epitome of simplicity and affordability in service plans, meticulously crafted to cater to the unique needs of small businesses and startups operating within select markets. This innovative solution provides users with access to video agent seats, offering a streamlined experience that, while having some limitations compared to our standard plans, opens up an extraordinary gateway to a revolutionary video-based customer interaction paradigm. By choosing **Video CC Lite**, businesses embark on an exciting journey that not only enhances their communication capabilities but also positions them at the forefront of customer engagement technology, all while maintaining a cost-effective approach that aligns perfectly with the budgetary constraints often faced by emerging enterprises.
 
-Elevate your business operations with secure, seamlessly integrated video call capabilities that effortlessly adapt to your unique workflows, e-commerce platforms, and customer support systems. **Video CC Lite** stands out as a fully customizable, all-in-one solution that brings together cutting-edge RTC (Real-Time Communication), ACD (Automatic Call Distribution), and REC (Recording) technologies into a single, robust platform. This powerful bundle is designed to revolutionize your communication infrastructure, offering unparalleled flexibility and efficiency.
+Elevate your business operations with secure, seamlessly integrated video call capabilities that effortlessly adapt to your unique workflows, e-commerce platforms, and customer support systems. **Video CC Lite** stands out as a fully customizable, all-in-one solution that brings together cutting-edge [RTC](https://interactivepowers.com/en/platforms/videortc) (Real-Time Communication), [ACD](https://interactivepowers.com/en/platforms/webacd) (Automatic Call Distribution), and [REC](https://interactivepowers.com/en/platforms/videorec) (Video Recording) technologies into a single, robust platform. This powerful bundle is designed to revolutionize your communication infrastructure, offering unparalleled flexibility and efficiency.
 
 Features:
 
@@ -44,7 +44,7 @@ Modes:
 - Mutualized SaaS (M)
 - Dedicated PaaS (D)
 
-Video CC Lite offers two deployment options: Mutualized SaaS (M) or Dedicated PaaS (D). These options allow your business to operate according to your data and operational priorities and policies. Contact our sales team to determine the best plan for your needs.
+**Video CC Lite** offers two deployment options: Mutualized SaaS (M) or Dedicated PaaS (D). These options allow your business to operate according to your data and operational priorities and policies. Contact our sales team to determine the best plan for your needs.
 
 ![Video CC Lite screenshots](/postimages/products/ivrpowers-slides-11-2024.018.jpeg)
 
