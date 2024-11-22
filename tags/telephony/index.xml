@@ -6,7 +6,17 @@
     <description>Recent content in telephony on Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 09 Feb 2020 18:00:00 +0200</lastBuildDate><atom:link href="https://blog.ivrpowers.com/tags/telephony/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 21 Nov 2024 18:00:00 +0200</lastBuildDate><atom:link href="https://blog.ivrpowers.com/tags/telephony/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>IVR PCI-DSS for Credit Card Payments</title>
+      <link>https://blog.ivrpowers.com/post/contactcenter/securing-credit-card-transations-contact-centers/</link>
+      <pubDate>Thu, 21 Nov 2024 18:00:00 +0200</pubDate>
+      
+      <guid>https://blog.ivrpowers.com/post/contactcenter/securing-credit-card-transations-contact-centers/</guid>
+      <description>Photo source: Interactive Powers - Freepik Securing Credit Card Transactions for your Contact Center A &amp;ldquo;Secure Payment IVR System&amp;rdquo; is a specialized environment that processes credit card transactions via telephone using an automated Interactive Voice Response (IVR) system. This eliminates the need for call center representatives to handle sensitive information. This innovative solution ensures maximum security and efficiency in managing payment data.
+Legal Operating Requirements At present, a significant number of contact centers have yet to implement a robust and secure card payment process that completely removes the requirement for agents to handle and collect sensitive card data.</description>
+    </item>
+    
     <item>
       <title>How to improve your PBX with Conversational AI?</title>
       <link>https://blog.ivrpowers.com/post/customerengagement/how-to-improve-your-pbx-with-conversational-ai/</link>

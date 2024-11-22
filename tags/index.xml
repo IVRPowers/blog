@@ -6,7 +6,52 @@
     <description>Recent content in Tags on Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 20 Nov 2024 18:00:00 +0200</lastBuildDate><atom:link href="https://blog.ivrpowers.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 21 Nov 2024 18:00:00 +0200</lastBuildDate><atom:link href="https://blog.ivrpowers.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>contactcenter</title>
+      <link>https://blog.ivrpowers.com/tags/contactcenter/</link>
+      <pubDate>Thu, 21 Nov 2024 18:00:00 +0200</pubDate>
+      
+      <guid>https://blog.ivrpowers.com/tags/contactcenter/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>creditcard</title>
+      <link>https://blog.ivrpowers.com/tags/creditcard/</link>
+      <pubDate>Thu, 21 Nov 2024 18:00:00 +0200</pubDate>
+      
+      <guid>https://blog.ivrpowers.com/tags/creditcard/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ivr</title>
+      <link>https://blog.ivrpowers.com/tags/ivr/</link>
+      <pubDate>Thu, 21 Nov 2024 18:00:00 +0200</pubDate>
+      
+      <guid>https://blog.ivrpowers.com/tags/ivr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>payments</title>
+      <link>https://blog.ivrpowers.com/tags/payments/</link>
+      <pubDate>Thu, 21 Nov 2024 18:00:00 +0200</pubDate>
+      
+      <guid>https://blog.ivrpowers.com/tags/payments/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>telephony</title>
+      <link>https://blog.ivrpowers.com/tags/telephony/</link>
+      <pubDate>Thu, 21 Nov 2024 18:00:00 +0200</pubDate>
+      
+      <guid>https://blog.ivrpowers.com/tags/telephony/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>recording</title>
       <link>https://blog.ivrpowers.com/tags/recording/</link>
@@ -67,15 +112,6 @@
       <pubDate>Wed, 20 Nov 2024 12:00:00 +0200</pubDate>
       
       <guid>https://blog.ivrpowers.com/tags/webrtc/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>contactcenter</title>
-      <link>https://blog.ivrpowers.com/tags/contactcenter/</link>
-      <pubDate>Tue, 19 Nov 2024 12:00:00 +0200</pubDate>
-      
-      <guid>https://blog.ivrpowers.com/tags/contactcenter/</guid>
       <description></description>
     </item>
     
@@ -413,15 +449,6 @@
     </item>
     
     <item>
-      <title>ivr</title>
-      <link>https://blog.ivrpowers.com/tags/ivr/</link>
-      <pubDate>Sun, 19 Feb 2023 15:00:00 +0100</pubDate>
-      
-      <guid>https://blog.ivrpowers.com/tags/ivr/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>voicexml</title>
       <link>https://blog.ivrpowers.com/tags/voicexml/</link>
       <pubDate>Sun, 19 Feb 2023 15:00:00 +0100</pubDate>
@@ -733,15 +760,6 @@
       <pubDate>Fri, 28 Feb 2020 15:00:00 +0200</pubDate>
       
       <guid>https://blog.ivrpowers.com/tags/nlu/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>telephony</title>
-      <link>https://blog.ivrpowers.com/tags/telephony/</link>
-      <pubDate>Sun, 09 Feb 2020 18:00:00 +0200</pubDate>
-      
-      <guid>https://blog.ivrpowers.com/tags/telephony/</guid>
       <description></description>
     </item>
     
