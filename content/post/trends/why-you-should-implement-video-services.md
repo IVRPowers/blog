@@ -41,9 +41,9 @@ Significantly improve the quality and efficiency of online service through avail
 Benefits:
 > Introduce direct face-to-face interaction, ensures authenticity and improves service.
 
-### 4- Interaction Optimization: Enables Web Collaborative Capabilities
+### 4- Interaction Optimization: Enables Online Web Collaboration
 
-Notably elevate the customer experience (CX) above the inherent limitations of traditional voice or telephone channels to effectively resolve complex situations remotely. Real-time visual communication adds an additional dimension that significantly improves human interaction and mutual understanding, and it is also enriched with options that include web collaborative tools.
+Notably elevate the customer experience (CX) above the inherent limitations of traditional voice or telephone channels to effectively resolve complex situations remotely. Real-time visual communication adds an additional dimension that significantly improves human interaction and mutual understanding, and it is also enriched with options that include web collaborative tools (screen sharing, cobrowsing, file sharing...).
 
 Benefits:
 > Extend remote service capability with web collaborative tools.
@@ -55,7 +55,7 @@ In most digital onboarding processes, identifying and verifying properly custome
 Benefits:
 > Enables simpler, more effective, and faster customer identity verification.
 
-### 6- Personalization and Loyalty: Improves Customer Experience (CX)
+### 6- Personalization and Loyalty: Improves Customer Experience
 
 Significantly increase the level of satisfaction and personal treatment in each digital interaction with customers ensures closer and more memorable experiences that strengthen the relationship with the brand. Visual communication allows establishing more human and lasting connections with customers, improving loyalty and enabling a more positive brand perception.
 
