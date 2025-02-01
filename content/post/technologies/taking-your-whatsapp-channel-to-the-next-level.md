@@ -17,6 +17,8 @@ comments = true
 
 WhatsApp has become an indispensable communication channel in today's digital landscape, bridging the gap between consumers and businesses of all sizes. This transformation is especially notable in European and Latin American markets—with Brazil leading the way—where WhatsApp is deeply woven into daily communications, achieving remarkable user adoption and engagement. Contact centers have recognized this shift and are integrating WhatsApp into their customer engagement frameworks, meeting customers on their preferred platform while providing natural, accessible support. The shift has been so successful that even small and medium-sized enterprises have moved away from traditional phone lines and SMS in favor of WhatsApp's dynamic platform.
 
+![WhatsApp penetration rate by country](/postimages/technologies/ivrpowers-slides-01-2025.004.jpeg)
+
 Contact centers can integrate WhatsApp through two main approaches: directly using WhatsApp Business tools or implementing comprehensive omnichannel platforms that incorporate WhatsApp alongside other channels. These platforms efficiently handle routing automation and agent task distribution, optimizing resource allocation. Through these integrations, organizations maintain efficient communication while managing customer interactions to maximize both operational efficiency and satisfaction.
 
 ### **The Power of Automation: First-Level Chatbots**
