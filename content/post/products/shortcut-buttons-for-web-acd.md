@@ -17,13 +17,13 @@ comments = true
 ---
 We're excited to announce our new skin featuring **Shortcut Buttons** for Web ACD—a powerful tool that enhances customer engagement. These intuitive buttons seamlessly integrate with all messaging, chat platforms and social media like **WhatsApp, Telegram, Messenger, Facebook, Instagram, X ….** enabling your team to effortlessly switch from text chats to direct **Video Calls** or **Voice Calls** (over IP).
 
-![image.png](/postimages/products/ivrpowers-slides-01-2025.006.jpeg)
+![Shortcut Buttons for WhatsApp](/postimages/products/ivrpowers-slides-01-2025.006.jpeg)
 
 ### New Home Screen (Skin)
 
 The **Shortcut Buttons** are placed right on the main home screen, giving you instant access to essential communication tools. With their intuitive design, your team can quickly switch between different communication channels to streamline business processes. This smart placement helps manage customer interactions efficiently without navigating complex menus or any applications, web screens.
 
-![image.png](/postimages/products/ivrpowers-slides-01-2025.012.jpeg)
+![Web ACD Home Screen with Shortcut Buttons](/postimages/products/ivrpowers-slides-01-2025.012.jpeg)
 
 ### Key Benefits
 
