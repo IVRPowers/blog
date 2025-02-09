@@ -28,8 +28,6 @@ This technical limitation also affects the scalability capacity between differen
 
 ![The Omnichannel Paradox: The Real-time Barrier](/postimages/technologies/ivrpowers-slides-01-2025.017.jpeg)
 
-## Real Scenarios without Connection or Interoperability
-
 We can describe some of the flagrant cases that we have all experienced regardless of the organization and its technological advancement. Although in many cases economic capacity may allow for a greater number of channels simultaneously within Omnichannel environments, these situations are common and companies generally consider them as "standard" or "normal" limitations within the field of direct customer service.
 
 Use Cases:
@@ -58,7 +56,7 @@ If we have initiated an interaction in a web-based or WebRTC environment, curren
 
 Learn more - SPLIT Web Caller
 
-### SPLIT: The Interoperability Hub
+## The Interoperability Hub: SPLIT Protocol
 
 To resolve the above situations while maintaining existing operating systems and channels, it is necessary to incorporate a new concept of connectivity and interoperability compatible with current standards. For this, we have developed a hybrid protocol called SPLIT that unifies standard SIP capabilities —present in most Omnichannel Contact Center environments, especially in their telephone channel— with the de facto standard for browsers: WebRTC. Once the ability to connect both telephone and digital interactions is established, we have developed specific modes that integrate all the above scenarios to operate with the same Omnichannel Contact Center agents.
 
