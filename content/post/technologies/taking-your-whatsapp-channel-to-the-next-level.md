@@ -38,11 +38,11 @@ What are your WhatsApp Levels:
 
 * ☑️ **Level 1** - WhatsApp Single User integration
 * ☑️ **Level 2** - WhatsApp Business integration
-* ☑️ **Level 3** - Transfer to Human Agents
+* ☑️ **Level 3** - Transfer to Contact Center Agents
 * ☑️ **Level 4** - Prompts & Menus Chatbot
 * ☑️ **Level 5** - AI Conversational Chatbot
 * ✅ **Level 6** - Direct Call (Voice over IP)
-* ✅ **Level 7** - Video Call
+* ✅ **Level 7** - Video Call (Voice over IP)
 
  Current Implementation Status:
 
