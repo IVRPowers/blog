@@ -15,15 +15,21 @@ image = "/postimages/customerengagement/ivrpowers-slides-04-2025.009.jpeg"
 # Consumers rank first-contact resolution as the most valued aspect of a service interaction, yet CX leaders rank it ninth
 --- 
 
-In the competitive world of customer service, a key metric or Key Performance Indicator (KPI) stands out: **First Call Resolution (FCR)**. Customers not only expect quick solutions—ideally, speaking with an agent within 1 to 10 minutes—but they also expect to resolve their query in that first interaction. According to a [**Genesys Study**](https://www.genesys.com/company/newsroom/announcements/genesys-research-finds-consumers-believe-ai-will-improve-customer-experience-and-businesses-are-rising-to-the-opportunity), although consumers trust that artificial intelligence and innovative tools will improve their experience, when facing personal situations or complex complaints, they prefer direct attention from a human agent capable of listening, understanding, and resolving situations beyond simple automated responses. This is where [**Transactional video calls**](https://blog.ivrpowers.com/post/marketing/transactional-video-calls/), which connect Contact Center agents through phone and other channels like WhatsApp or chatbots, become the ideal solution to prioritize FCR and improve customer satisfaction. This is especially valuable when resolving queries that automated text or voice systems cannot handle.
+In the competitive world of customer service, a key metric or Key Performance Indicator (KPI) stands out: **First-Contact Resolution (FCR)**. Customers not only expect quick solutions—ideally, speaking with an agent within 1 to 10 minutes—but they also expect to resolve their query in that first interaction. According to a [**Genesys Study**](https://www.genesys.com/company/newsroom/announcements/genesys-research-finds-consumers-believe-ai-will-improve-customer-experience-and-businesses-are-rising-to-the-opportunity), although consumers trust that artificial intelligence and innovative tools will improve their experience, when facing personal situations or complex complaints, they prefer direct attention from a human agent capable of listening, understanding, and resolving situations beyond simple automated responses. This is where [**Transactional video calls**](https://blog.ivrpowers.com/post/marketing/transactional-video-calls/), which connect Contact Center agents through phone and other channels like WhatsApp or chatbots, become the ideal solution to prioritize FCR and improve customer satisfaction. This is especially valuable when resolving queries that automated text or voice systems cannot handle.
+
+> 86% of consumers expect to be attended by a human agent within the first 10 minutes.
 
 ### Why Should FCR be the Number One Priority?
 
 FCR is not just a KPI of operational efficiency; it's also a reflection of how customers perceive the brand. Resolving a problem on first contact reduces frustrations, strengthens loyalty, and decreases operational costs by avoiding repeated interactions. However, achieving high FCR in an environment where queries are increasingly complex is not an easy task. Traditional tools like telephone or chat often fall short, leaving agents and customers in a cycle of frustrated expectations or misunderstandings. The answer lies in a more direct, visual, and human approach: transactional video calls.
 
+> Consumers ranked First-Contact Resolution as the most valued aspect of a service interaction.
+
 ### Why Do CX Leaders Tend Not to Prioritize FCR?
 
 Although FCR is regularly measured in processes, customer experience leaders don't give it the priority it deserves. Studies show that companies rank it as the ninth priority in their service strategies—a position that directly contradicts customer expectations revealed in these same studies. This low prioritization has an obvious reason: without adequate tools like video, companies don't achieve significant improvements in case resolution when limited to using only voice and text. Therefore, it's crucial to focus on implementing changes in channels that effectively address customer needs.
+
+> CX Leaders rank First-Contact Resolution metrics improvement priority ninth.
 
 ### Transactional Video Calls: The Boost FCR Needs
 
@@ -36,6 +42,8 @@ Although FCR is regularly measured in processes, customer experience leaders don
 
 Consider a customer with a technical problem: instead of clumsily describing it over the phone, the agent visualizes the issue on screen, takes screenshots, and resolves it in minutes. That's FCR in action.
 
+> 53% of consumers said they will abandon a favorite brand after experiencing as few as two poor interactions.
+
 ### Direct FCR Benefits for Companies
 
 [**Transactional video calls**](https://blog.ivrpowers.com/post/marketing/transactional-video-calls/) bring significant advantages to improve FCR and your company's operational efficiency. Below, we explore the most outstanding benefits that directly impact your results:
@@ -46,6 +54,8 @@ Consider a customer with a technical problem: instead of clumsily describing it 
 - **✅ Operational Cost Savings**: Reducing repeated contacts decreases workload for teams, saves interaction time, and increases agent satisfaction with their productivity and resolution.
 
 These points cannot be ignored by any company that truly wants to improve their customer service, thus avoiding falling into the trap of doing the same as always or simply copying their competition's methodology. FCR is the key.
+
+> Only 16% of CX leaders surveyed say their organizations provide fully integrated omnichannel experiences..
 
 ---
 [Interactive Powers](http://www.ivrpowers.com/) - Streamline your business communications
