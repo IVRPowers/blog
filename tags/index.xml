@@ -6,22 +6,40 @@
     <description>Recent content in Tags on Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 12 Mar 2025 12:00:00 +0200</lastBuildDate><atom:link href="https://blog.ivrpowers.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 20 Mar 2025 20:00:00 +0200</lastBuildDate><atom:link href="https://blog.ivrpowers.com/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>cctr</title>
-      <link>https://blog.ivrpowers.com/tags/cctr/</link>
-      <pubDate>Wed, 12 Mar 2025 12:00:00 +0200</pubDate>
+      <title>kpi</title>
+      <link>https://blog.ivrpowers.com/tags/kpi/</link>
+      <pubDate>Thu, 20 Mar 2025 20:00:00 +0200</pubDate>
       
-      <guid>https://blog.ivrpowers.com/tags/cctr/</guid>
+      <guid>https://blog.ivrpowers.com/tags/kpi/</guid>
       <description></description>
     </item>
     
     <item>
       <title>rtc</title>
       <link>https://blog.ivrpowers.com/tags/rtc/</link>
-      <pubDate>Wed, 12 Mar 2025 12:00:00 +0200</pubDate>
+      <pubDate>Thu, 20 Mar 2025 20:00:00 +0200</pubDate>
       
       <guid>https://blog.ivrpowers.com/tags/rtc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>videocall</title>
+      <link>https://blog.ivrpowers.com/tags/videocall/</link>
+      <pubDate>Thu, 20 Mar 2025 20:00:00 +0200</pubDate>
+      
+      <guid>https://blog.ivrpowers.com/tags/videocall/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>cctr</title>
+      <link>https://blog.ivrpowers.com/tags/cctr/</link>
+      <pubDate>Wed, 12 Mar 2025 12:00:00 +0200</pubDate>
+      
+      <guid>https://blog.ivrpowers.com/tags/cctr/</guid>
       <description></description>
     </item>
     
@@ -94,15 +112,6 @@
       <pubDate>Sun, 23 Feb 2025 12:00:00 +0200</pubDate>
       
       <guid>https://blog.ivrpowers.com/tags/marketing/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>videocall</title>
-      <link>https://blog.ivrpowers.com/tags/videocall/</link>
-      <pubDate>Sun, 23 Feb 2025 12:00:00 +0200</pubDate>
-      
-      <guid>https://blog.ivrpowers.com/tags/videocall/</guid>
       <description></description>
     </item>
     
@@ -220,15 +229,6 @@
       <pubDate>Tue, 19 Nov 2024 12:00:00 +0200</pubDate>
       
       <guid>https://blog.ivrpowers.com/tags/videortc/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>kpi</title>
-      <link>https://blog.ivrpowers.com/tags/kpi/</link>
-      <pubDate>Tue, 19 Nov 2024 11:00:00 +0200</pubDate>
-      
-      <guid>https://blog.ivrpowers.com/tags/kpi/</guid>
       <description></description>
     </item>
     
