@@ -46,7 +46,7 @@ Many digital platforms feature end-to-end encryption, also avoiding the need to 
 
 ---
 
-### **5. The Consumer has Already Changed: Their Expectations are Digital**
+### **5. Consumers have Already Changed: Their Expectations are Digital**
 
 The massive adoption of apps like WhatsApp or Meet reflects a reality: both customers and employees prefer digital channels. Traditional calls are perceived as slow, invasive, or unnecessary compared to more practical, instant options aligned with their daily habits.
 
