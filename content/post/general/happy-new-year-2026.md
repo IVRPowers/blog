@@ -8,7 +8,7 @@ title = "Happy New Year 2026!"
 image = "/postimages/general/ivrpowers-slides-12-2025-Christmas.004.webp"
 +++
 
-![Interactive Powers](/postimages/general/ivrpowers-slides-12-2025-Christmas.004.webp)
+![Interactive Powers - Happy New Year 2026](/postimages/general/ivrpowers-slides-12-2025-Christmas.004.webp)
 ---------
 ###### Photo source: Interactive Powers
 
