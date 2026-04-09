@@ -1,7 +1,7 @@
 +++
 categories = ["trends"]
-date = "2026-04-07T08:00:00+02:00"
-draft = true
+date = "2026-04-08T15:00:00+02:00"
+draft = false
 tags = ["ai","rtc", "cx"]
 title = "The “Uncanny Valley” in AI: overconfidence in LLMs harms customer experience (CX)"
 description = "The Future of CX"
