@@ -6,7 +6,7 @@
     <description>Recent content in Posts on Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 05 Apr 2026 21:00:00 +0200</lastBuildDate><atom:link href="https://blog.ivrpowers.com/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 08 Apr 2026 15:00:00 +0200</lastBuildDate><atom:link href="https://blog.ivrpowers.com/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Welcome to our New Blog!</title>
       <link>https://blog.ivrpowers.com/post/general/welcome-blog/</link>
@@ -34,6 +34,15 @@ Our Story Interactive Powers provides Smart IVR and Video RTC platforms to reima
       <guid>https://blog.ivrpowers.com/post/general/about-interactive-powers/</guid>
       <description>Photo source: Interactive Powers Interactive Powers develops technology that helps your organization connect, communicate and engage with your customers, employees and stakeholders. Contact with us to find out more about how we can help you achieve your business communication goals.
 Interactive Powers delivers communication platforms that enables advanced real-time interactions over public or private networks. We allow to deploy secure channels with unified voice, video, live chat and screen sharing capabilities for web, apps, and kiosk-based customer engagement to sale or support faster than ever.</description>
+    </item>
+    
+    <item>
+      <title>The “Uncanny Valley” in AI: overconfidence in LLMs harms customer experience (CX)</title>
+      <link>https://blog.ivrpowers.com/post/trends/the-uncanny-valley-in-ai/</link>
+      <pubDate>Wed, 08 Apr 2026 15:00:00 +0200</pubDate>
+      
+      <guid>https://blog.ivrpowers.com/post/trends/the-uncanny-valley-in-ai/</guid>
+      <description>Photo source: Interactive Powers The “Uncanny Valley” in AI: overconfidence in LLMs harms customer experience (CX) The concept of the “uncanny valley,” proposed by Masahiro Mori in 1970, is back at the center of the debate more than 50 years later. It describes a non-linear curve of emotional affinity toward artificial entities: acceptance rises as something looks more human, but drops sharply when it is perceived as “almost human, but not quite.</description>
     </item>
     
     <item>
