@@ -1,10 +1,10 @@
 +++
 categories = ["trends"]
-date = "2026-04-07T08:00:00+02:00"
-draft = true
+date = "2026-04-11T08:00:00+02:00"
+draft = false
 tags = ["ai","rtc", "cx"]
 title = "Responsible AI implementation: beyond maximalist automation in customer experience (CX)"
-description = "The Future of CX"
+description = "CX Trends"
 image = "/postimages/trends/ivrpowers-slides-03-2026.005.jpeg"
 comments = true
 +++
