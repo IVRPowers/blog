@@ -6,7 +6,16 @@
     <description>Recent content in rtc on Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 08 Apr 2026 15:00:00 +0200</lastBuildDate><atom:link href="https://blog.ivrpowers.com/tags/rtc/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 11 Apr 2026 08:00:00 +0200</lastBuildDate><atom:link href="https://blog.ivrpowers.com/tags/rtc/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Responsible AI implementation: beyond maximalist automation in customer experience (CX)</title>
+      <link>https://blog.ivrpowers.com/post/trends/responsible-ai-implementation/</link>
+      <pubDate>Sat, 11 Apr 2026 08:00:00 +0200</pubDate>
+      
+      <guid>https://blog.ivrpowers.com/post/trends/responsible-ai-implementation/</guid>
+      <description>Photo source: Interactive Powers Responsible AI implementation: beyond maximalist automation in customer experience (CX) Combining the two phenomena above—the customer’s perception of emotional betrayal illustrated by Anthropic, and the uncanny valley in AI interactions—reveals a systemic risk in today’s adoption of AI within customer experience processes. Companies that deploy AI in a maximalist way, aiming to automate 100% of the funnel without considering these psychological barriers, are making a strategic mistake—even in mature sectors.</description>
+    </item>
+    
     <item>
       <title>The “Uncanny Valley” in AI: overconfidence in LLMs harms customer experience (CX)</title>
       <link>https://blog.ivrpowers.com/post/trends/the-uncanny-valley-in-ai/</link>
