@@ -6,7 +6,43 @@
     <description>Recent content in Tags on Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 11 Apr 2026 08:00:00 +0200</lastBuildDate><atom:link href="https://blog.ivrpowers.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 01 Aug 2026 09:00:00 +0200</lastBuildDate><atom:link href="https://blog.ivrpowers.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>business</title>
+      <link>https://blog.ivrpowers.com/tags/business/</link>
+      <pubDate>Sat, 01 Aug 2026 09:00:00 +0200</pubDate>
+      
+      <guid>https://blog.ivrpowers.com/tags/business/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ivr</title>
+      <link>https://blog.ivrpowers.com/tags/ivr/</link>
+      <pubDate>Sat, 01 Aug 2026 09:00:00 +0200</pubDate>
+      
+      <guid>https://blog.ivrpowers.com/tags/ivr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>smartivr</title>
+      <link>https://blog.ivrpowers.com/tags/smartivr/</link>
+      <pubDate>Sat, 01 Aug 2026 09:00:00 +0200</pubDate>
+      
+      <guid>https://blog.ivrpowers.com/tags/smartivr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>solution</title>
+      <link>https://blog.ivrpowers.com/tags/solution/</link>
+      <pubDate>Sat, 01 Aug 2026 09:00:00 +0200</pubDate>
+      
+      <guid>https://blog.ivrpowers.com/tags/solution/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>AI</title>
       <link>https://blog.ivrpowers.com/tags/ai/</link>
@@ -215,15 +251,6 @@
     </item>
     
     <item>
-      <title>ivr</title>
-      <link>https://blog.ivrpowers.com/tags/ivr/</link>
-      <pubDate>Thu, 21 Nov 2024 18:00:00 +0200</pubDate>
-      
-      <guid>https://blog.ivrpowers.com/tags/ivr/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>payments</title>
       <link>https://blog.ivrpowers.com/tags/payments/</link>
       <pubDate>Thu, 21 Nov 2024 18:00:00 +0200</pubDate>
@@ -373,15 +400,6 @@
       <pubDate>Wed, 21 Feb 2024 21:00:00 +0200</pubDate>
       
       <guid>https://blog.ivrpowers.com/tags/cardealer/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>smartivr</title>
-      <link>https://blog.ivrpowers.com/tags/smartivr/</link>
-      <pubDate>Thu, 15 Feb 2024 20:00:26 +0200</pubDate>
-      
-      <guid>https://blog.ivrpowers.com/tags/smartivr/</guid>
       <description></description>
     </item>
     
@@ -634,24 +652,6 @@
       <pubDate>Tue, 12 Jan 2021 09:42:42 +0200</pubDate>
       
       <guid>https://blog.ivrpowers.com/tags/voicebot/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>business</title>
-      <link>https://blog.ivrpowers.com/tags/business/</link>
-      <pubDate>Mon, 28 Dec 2020 00:00:00 +0200</pubDate>
-      
-      <guid>https://blog.ivrpowers.com/tags/business/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>solution</title>
-      <link>https://blog.ivrpowers.com/tags/solution/</link>
-      <pubDate>Mon, 28 Dec 2020 00:00:00 +0200</pubDate>
-      
-      <guid>https://blog.ivrpowers.com/tags/solution/</guid>
       <description></description>
     </item>
     
