@@ -14,9 +14,8 @@ image = "/postimages/products/ivrpowers-slides-06-2026.011.jpeg"
 -------
 ###### Photo source: Interactive Powers Creative Commons
 
-# Smart IVR is the Voice of AI Agents
-
-## AI Agent Gateway: your Agent handles the conversation, Smart IVR handles the phone
+---
+# AI Agent Gateway: your Agent handles the conversation, Smart IVR handles the phone
 
 Smart IVR has always been built on a simple idea: give operators, integrators and enterprises a carrier-grade platform to run their own automated phone applications — instead of forcing them to code telephony from scratch.
 
@@ -27,8 +26,6 @@ But the way conversations get designed has changed. Companies and technology pro
 What they are missing is not intelligence. It is the phone.
 
 **AI Agent Gateway** is the Smart IVR dialogue interface that closes that gap.
-
----
 
 ## Telephony is not an implementation detail
 
@@ -92,7 +89,7 @@ In most industries, the phone is still where the conversations that matter actua
 
 With AI Agent Gateway, that channel stops being a barrier to entry for AI and becomes a natural extension of the Agent you have already built.
 
-**Smart IVR is the voice of AI Agents.**
+> Smart IVR is the voice of AI Agents.
 
 *Want to review the interface specification or test it with your own Agent? [Talk to our team](https://interactivepowers.com/en/talk-to-sales) or [request a demo](https://interactivepowers.com/en/showroom#request-a-demo).*
 
