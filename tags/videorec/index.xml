@@ -6,7 +6,47 @@
     <description>Recent content in videorec on Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 20 Nov 2024 18:00:00 +0200</lastBuildDate><atom:link href="https://blog.ivrpowers.com/tags/videorec/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 23 May 2025 09:00:00 +0200</lastBuildDate><atom:link href="https://blog.ivrpowers.com/tags/videorec/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Video REC v2.14.0</title>
+      <link>https://blog.ivrpowers.com/post/updates/update-video-rec-2.14.0/</link>
+      <pubDate>Fri, 23 May 2025 09:00:00 +0200</pubDate>
+      
+      <guid>https://blog.ivrpowers.com/post/updates/update-video-rec-2.14.0/</guid>
+      <description>Photo source: Interactive Powers Video REC v2.14.0 We are pleased to announce that our new Video REC v2.14.0 has been released for suitable production services. This new version adds Single Sign-On (SSO) via SAML, including full login, callback, and per-user auth provider configuration. All users with previous maintained versions can upgrade today. Please contact our support!
+## [2.14.0] - 2025-05-23 ### Added - SSO integration via SAML, including login flow, callback handling, and user-level auth provider config ### Changed - Renamed `processingTimeout` server config variable to camelCase for consistency ### Fixed - Increased timeout on server and webapp for service deletion plus suppressed S3 CLI output to prevent buffer errors during bucket cleanup Interactive Powers - Streamline your business communications</description>
+    </item>
+    
+    <item>
+      <title>Video REC v2.13.0</title>
+      <link>https://blog.ivrpowers.com/post/updates/update-video-rec-2.13.0/</link>
+      <pubDate>Tue, 21 Jan 2025 09:00:00 +0200</pubDate>
+      
+      <guid>https://blog.ivrpowers.com/post/updates/update-video-rec-2.13.0/</guid>
+      <description>Photo source: Interactive Powers Video REC v2.13.0 We are pleased to announce that our new Video REC v2.13.0 has been released for suitable production services. This new version migrates Slack usage notifications to the Slack Web API and improves the recordings interface. All users with previous maintained versions can upgrade today. Please contact our support!
+## [2.13.0] - 2025-01-21 ### Changed - Updated Slack notification method to use Web API instead of Incoming Webhook - Improved styles for child rows ### Fixed - Fixed sidebar toggle icon when resizing screen Interactive Powers - Streamline your business communications</description>
+    </item>
+    
+    <item>
+      <title>Video REC v2.12.0</title>
+      <link>https://blog.ivrpowers.com/post/updates/update-video-rec-2.12.0/</link>
+      <pubDate>Fri, 20 Dec 2024 09:00:00 +0200</pubDate>
+      
+      <guid>https://blog.ivrpowers.com/post/updates/update-video-rec-2.12.0/</guid>
+      <description>Photo source: Interactive Powers Video REC v2.12.0 We are pleased to announce that our new Video REC v2.12.0 has been released for suitable production services. This new version improves the recordings list with sequence-number ordering and a clearer visual grouping of related recordings. All users with previous maintained versions can upgrade today. Please contact our support!
+## [2.12.0] - 2024-12-20 ### Added - Ordering recordings by Seq Nb plus added visual effect for child rows Interactive Powers - Streamline your business communications</description>
+    </item>
+    
+    <item>
+      <title>Video REC v2.11.0</title>
+      <link>https://blog.ivrpowers.com/post/updates/update-video-rec-2.11.0/</link>
+      <pubDate>Tue, 03 Dec 2024 09:00:00 +0200</pubDate>
+      
+      <guid>https://blog.ivrpowers.com/post/updates/update-video-rec-2.11.0/</guid>
+      <description>Photo source: Interactive Powers Video REC v2.11.0 We are pleased to announce that our new Video REC v2.11.0 has been released for suitable production services. This new version adds an IP allow-list for login and password-reset actions, plus full activity logging for blocked attempts. All users with previous maintained versions can upgrade today. Please contact our support!
+## [2.11.0] - 2024-12-03 ### Added - Added IP Allowed feature for some pre login actions: login, login-otp and reset-password - All user actions are now logged in the User Activity Logger when actions are blocked Interactive Powers - Streamline your business communications</description>
+    </item>
+    
     <item>
       <title>Video REC: Latest Updates</title>
       <link>https://blog.ivrpowers.com/post/marketing/video-rec-latest-updates/</link>

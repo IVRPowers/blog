@@ -6,7 +6,97 @@
     <description>Recent content in updates on Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 09 Oct 2024 12:00:00 +0200</lastBuildDate><atom:link href="https://blog.ivrpowers.com/categories/updates/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 10 Jul 2026 09:00:00 +0200</lastBuildDate><atom:link href="https://blog.ivrpowers.com/categories/updates/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Web ACD v1.26.0</title>
+      <link>https://blog.ivrpowers.com/post/updates/update-web-acd-1.26.0/</link>
+      <pubDate>Fri, 10 Jul 2026 09:00:00 +0200</pubDate>
+      
+      <guid>https://blog.ivrpowers.com/post/updates/update-web-acd-1.26.0/</guid>
+      <description>Photo source: Interactive Powers Web ACD v1.26.0 We are pleased to announce that our new Web ACD v1.26.0 has been released for suitable production services. This new version adds Two-Factor Authentication (2FA) via email OTP to strengthen account security. All users with previous maintained versions can upgrade today. Please contact our support!
+## [1.26.0] - 2026-07-10 ### Added - Added 2FA authentication via email OTP ### Fixed - Fixed error caused by spaces in trigger titles Interactive Powers - Streamline your business communications</description>
+    </item>
+    
+    <item>
+      <title>Web ACD v1.25.0</title>
+      <link>https://blog.ivrpowers.com/post/updates/update-web-acd-1.25.0/</link>
+      <pubDate>Wed, 27 May 2026 09:00:00 +0200</pubDate>
+      
+      <guid>https://blog.ivrpowers.com/post/updates/update-web-acd-1.25.0/</guid>
+      <description>Photo source: Interactive Powers Web ACD v1.25.0 We are pleased to announce that our new Web ACD v1.25.0 has been released for suitable production services. This new version adds Progressive Web App (PWA) support, so agents can install Web ACD directly on their desktop or mobile device. All users with previous maintained versions can upgrade today. Please contact our support!
+## [1.25.0] - 2026-05-27 ### Added - Added Progressive Web App (PWA) support Interactive Powers - Streamline your business communications</description>
+    </item>
+    
+    <item>
+      <title>Web ACD v1.24.0</title>
+      <link>https://blog.ivrpowers.com/post/updates/update-web-acd-1.24.0/</link>
+      <pubDate>Fri, 13 Feb 2026 09:00:00 +0200</pubDate>
+      
+      <guid>https://blog.ivrpowers.com/post/updates/update-web-acd-1.24.0/</guid>
+      <description>Photo source: Interactive Powers Web ACD v1.24.0 We are pleased to announce that our new Web ACD v1.24.0 has been released for suitable production services. This new version improves network transport configuration and voice user handling for realtime connections. All users with previous maintained versions can upgrade today. Please contact our support!
+## [1.24.0] - 2026-02-13 ### Added - Added localnet and external IP to transport-wss template - Added logic to update some of the voice users&amp;#39; properties ### Updated - Changed the default values of rtp_symmetric and rtp_keepalive of a realtime user Interactive Powers - Streamline your business communications</description>
+    </item>
+    
+    <item>
+      <title>Web ACD v1.23.0</title>
+      <link>https://blog.ivrpowers.com/post/updates/update-web-acd-1.23.0/</link>
+      <pubDate>Mon, 10 Nov 2025 09:00:00 +0200</pubDate>
+      
+      <guid>https://blog.ivrpowers.com/post/updates/update-web-acd-1.23.0/</guid>
+      <description>Photo source: Interactive Powers Web ACD v1.23.0 We are pleased to announce that our new Web ACD v1.23.0 has been released for suitable production services. This new version adds Hungarian language support and improves audio reliability on the very first call of a session. All users with previous maintained versions can upgrade today. Please contact our support!
+## [1.23.0] - 2025-11-10 ### Added - Added Hungarian language (hu_HU) to the platform ### Fixed - Fixed application iframe rendering if the target is not embed - Fixed potential audio issues on the first call by requesting microphone permissions on connection (WebRTC warm-up) Interactive Powers - Streamline your business communications</description>
+    </item>
+    
+    <item>
+      <title>Web ACD v1.22.0</title>
+      <link>https://blog.ivrpowers.com/post/updates/update-web-acd-1.22.0/</link>
+      <pubDate>Fri, 10 Oct 2025 09:00:00 +0200</pubDate>
+      
+      <guid>https://blog.ivrpowers.com/post/updates/update-web-acd-1.22.0/</guid>
+      <description>Photo source: Interactive Powers Web ACD v1.22.0 We are pleased to announce that our new Web ACD v1.22.0 has been released for suitable production services. This new version upgrades the platform to Node.js 18 LTS and fixes a database connection bottleneck that could block the application. All users with previous maintained versions can upgrade today. Please contact our support!
+## [1.22.0] - 2025-10-10 ### Updated - Updated NodeJS runtime to v18 LTS - Updated application libraries to latest versions ### Fixed - A database connection bottleneck that could block the application - Correctly loaded the image of the disconnected modal even when there is not internet connection - Fixed a build error caused by the linter - Adjusted Buefy events to @update:modelValue, and improved layout height and dark theme table styles - A database queries race condition under certain circumstances Interactive Powers - Streamline your business communications</description>
+    </item>
+    
+    <item>
+      <title>Video REC v2.14.0</title>
+      <link>https://blog.ivrpowers.com/post/updates/update-video-rec-2.14.0/</link>
+      <pubDate>Fri, 23 May 2025 09:00:00 +0200</pubDate>
+      
+      <guid>https://blog.ivrpowers.com/post/updates/update-video-rec-2.14.0/</guid>
+      <description>Photo source: Interactive Powers Video REC v2.14.0 We are pleased to announce that our new Video REC v2.14.0 has been released for suitable production services. This new version adds Single Sign-On (SSO) via SAML, including full login, callback, and per-user auth provider configuration. All users with previous maintained versions can upgrade today. Please contact our support!
+## [2.14.0] - 2025-05-23 ### Added - SSO integration via SAML, including login flow, callback handling, and user-level auth provider config ### Changed - Renamed `processingTimeout` server config variable to camelCase for consistency ### Fixed - Increased timeout on server and webapp for service deletion plus suppressed S3 CLI output to prevent buffer errors during bucket cleanup Interactive Powers - Streamline your business communications</description>
+    </item>
+    
+    <item>
+      <title>Video REC v2.13.0</title>
+      <link>https://blog.ivrpowers.com/post/updates/update-video-rec-2.13.0/</link>
+      <pubDate>Tue, 21 Jan 2025 09:00:00 +0200</pubDate>
+      
+      <guid>https://blog.ivrpowers.com/post/updates/update-video-rec-2.13.0/</guid>
+      <description>Photo source: Interactive Powers Video REC v2.13.0 We are pleased to announce that our new Video REC v2.13.0 has been released for suitable production services. This new version migrates Slack usage notifications to the Slack Web API and improves the recordings interface. All users with previous maintained versions can upgrade today. Please contact our support!
+## [2.13.0] - 2025-01-21 ### Changed - Updated Slack notification method to use Web API instead of Incoming Webhook - Improved styles for child rows ### Fixed - Fixed sidebar toggle icon when resizing screen Interactive Powers - Streamline your business communications</description>
+    </item>
+    
+    <item>
+      <title>Video REC v2.12.0</title>
+      <link>https://blog.ivrpowers.com/post/updates/update-video-rec-2.12.0/</link>
+      <pubDate>Fri, 20 Dec 2024 09:00:00 +0200</pubDate>
+      
+      <guid>https://blog.ivrpowers.com/post/updates/update-video-rec-2.12.0/</guid>
+      <description>Photo source: Interactive Powers Video REC v2.12.0 We are pleased to announce that our new Video REC v2.12.0 has been released for suitable production services. This new version improves the recordings list with sequence-number ordering and a clearer visual grouping of related recordings. All users with previous maintained versions can upgrade today. Please contact our support!
+## [2.12.0] - 2024-12-20 ### Added - Ordering recordings by Seq Nb plus added visual effect for child rows Interactive Powers - Streamline your business communications</description>
+    </item>
+    
+    <item>
+      <title>Video REC v2.11.0</title>
+      <link>https://blog.ivrpowers.com/post/updates/update-video-rec-2.11.0/</link>
+      <pubDate>Tue, 03 Dec 2024 09:00:00 +0200</pubDate>
+      
+      <guid>https://blog.ivrpowers.com/post/updates/update-video-rec-2.11.0/</guid>
+      <description>Photo source: Interactive Powers Video REC v2.11.0 We are pleased to announce that our new Video REC v2.11.0 has been released for suitable production services. This new version adds an IP allow-list for login and password-reset actions, plus full activity logging for blocked attempts. All users with previous maintained versions can upgrade today. Please contact our support!
+## [2.11.0] - 2024-12-03 ### Added - Added IP Allowed feature for some pre login actions: login, login-otp and reset-password - All user actions are now logged in the User Activity Logger when actions are blocked Interactive Powers - Streamline your business communications</description>
+    </item>
+    
     <item>
       <title>Web ACD v1.21.0</title>
       <link>https://blog.ivrpowers.com/post/updates/update-web-acd-1.21.0/</link>
