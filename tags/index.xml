@@ -6,31 +6,130 @@
     <description>Recent content in Tags on Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 26 Sep 2026 09:00:00 +0200</lastBuildDate><atom:link href="https://blog.ivrpowers.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 13 Oct 2026 16:30:00 +0200</lastBuildDate><atom:link href="https://blog.ivrpowers.com/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>automotive</title>
-      <link>https://blog.ivrpowers.com/tags/automotive/</link>
-      <pubDate>Sat, 26 Sep 2026 09:00:00 +0200</pubDate>
+      <title>AI</title>
+      <link>https://blog.ivrpowers.com/tags/ai/</link>
+      <pubDate>Tue, 13 Oct 2026 16:30:00 +0200</pubDate>
       
-      <guid>https://blog.ivrpowers.com/tags/automotive/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>banking</title>
-      <link>https://blog.ivrpowers.com/tags/banking/</link>
-      <pubDate>Sat, 26 Sep 2026 09:00:00 +0200</pubDate>
-      
-      <guid>https://blog.ivrpowers.com/tags/banking/</guid>
+      <guid>https://blog.ivrpowers.com/tags/ai/</guid>
       <description></description>
     </item>
     
     <item>
       <title>cx</title>
       <link>https://blog.ivrpowers.com/tags/cx/</link>
-      <pubDate>Sat, 26 Sep 2026 09:00:00 +0200</pubDate>
+      <pubDate>Tue, 13 Oct 2026 16:30:00 +0200</pubDate>
       
       <guid>https://blog.ivrpowers.com/tags/cx/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ivrpowers</title>
+      <link>https://blog.ivrpowers.com/tags/ivrpowers/</link>
+      <pubDate>Tue, 13 Oct 2026 16:30:00 +0200</pubDate>
+      
+      <guid>https://blog.ivrpowers.com/tags/ivrpowers/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>mobile</title>
+      <link>https://blog.ivrpowers.com/tags/mobile/</link>
+      <pubDate>Tue, 13 Oct 2026 16:30:00 +0200</pubDate>
+      
+      <guid>https://blog.ivrpowers.com/tags/mobile/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>pwa</title>
+      <link>https://blog.ivrpowers.com/tags/pwa/</link>
+      <pubDate>Tue, 13 Oct 2026 16:30:00 +0200</pubDate>
+      
+      <guid>https://blog.ivrpowers.com/tags/pwa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>webrtc</title>
+      <link>https://blog.ivrpowers.com/tags/webrtc/</link>
+      <pubDate>Tue, 13 Oct 2026 16:30:00 +0200</pubDate>
+      
+      <guid>https://blog.ivrpowers.com/tags/webrtc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ih</title>
+      <link>https://blog.ivrpowers.com/tags/ih/</link>
+      <pubDate>Tue, 13 Oct 2026 09:00:00 +0200</pubDate>
+      
+      <guid>https://blog.ivrpowers.com/tags/ih/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>retail</title>
+      <link>https://blog.ivrpowers.com/tags/retail/</link>
+      <pubDate>Tue, 13 Oct 2026 09:00:00 +0200</pubDate>
+      
+      <guid>https://blog.ivrpowers.com/tags/retail/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>telepresencia</title>
+      <link>https://blog.ivrpowers.com/tags/telepresencia/</link>
+      <pubDate>Tue, 13 Oct 2026 09:00:00 +0200</pubDate>
+      
+      <guid>https://blog.ivrpowers.com/tags/telepresencia/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>videortc</title>
+      <link>https://blog.ivrpowers.com/tags/videortc/</link>
+      <pubDate>Tue, 13 Oct 2026 09:00:00 +0200</pubDate>
+      
+      <guid>https://blog.ivrpowers.com/tags/videortc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>phygital</title>
+      <link>https://blog.ivrpowers.com/tags/phygital/</link>
+      <pubDate>Mon, 12 Oct 2026 16:30:00 +0200</pubDate>
+      
+      <guid>https://blog.ivrpowers.com/tags/phygital/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>vccaas</title>
+      <link>https://blog.ivrpowers.com/tags/vccaas/</link>
+      <pubDate>Mon, 12 Oct 2026 16:30:00 +0200</pubDate>
+      
+      <guid>https://blog.ivrpowers.com/tags/vccaas/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>banking</title>
+      <link>https://blog.ivrpowers.com/tags/banking/</link>
+      <pubDate>Mon, 12 Oct 2026 09:00:00 +0200</pubDate>
+      
+      <guid>https://blog.ivrpowers.com/tags/banking/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>automotive</title>
+      <link>https://blog.ivrpowers.com/tags/automotive/</link>
+      <pubDate>Sat, 26 Sep 2026 09:00:00 +0200</pubDate>
+      
+      <guid>https://blog.ivrpowers.com/tags/automotive/</guid>
       <description></description>
     </item>
     
@@ -53,74 +152,11 @@
     </item>
     
     <item>
-      <title>ivrpowers</title>
-      <link>https://blog.ivrpowers.com/tags/ivrpowers/</link>
-      <pubDate>Sat, 26 Sep 2026 09:00:00 +0200</pubDate>
-      
-      <guid>https://blog.ivrpowers.com/tags/ivrpowers/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>phygital</title>
-      <link>https://blog.ivrpowers.com/tags/phygital/</link>
-      <pubDate>Sat, 26 Sep 2026 09:00:00 +0200</pubDate>
-      
-      <guid>https://blog.ivrpowers.com/tags/phygital/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>retail</title>
-      <link>https://blog.ivrpowers.com/tags/retail/</link>
-      <pubDate>Sat, 26 Sep 2026 09:00:00 +0200</pubDate>
-      
-      <guid>https://blog.ivrpowers.com/tags/retail/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>telepresencia</title>
-      <link>https://blog.ivrpowers.com/tags/telepresencia/</link>
-      <pubDate>Sat, 26 Sep 2026 09:00:00 +0200</pubDate>
-      
-      <guid>https://blog.ivrpowers.com/tags/telepresencia/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>vccaas</title>
-      <link>https://blog.ivrpowers.com/tags/vccaas/</link>
-      <pubDate>Sat, 26 Sep 2026 09:00:00 +0200</pubDate>
-      
-      <guid>https://blog.ivrpowers.com/tags/vccaas/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>videortc</title>
-      <link>https://blog.ivrpowers.com/tags/videortc/</link>
-      <pubDate>Sat, 26 Sep 2026 09:00:00 +0200</pubDate>
-      
-      <guid>https://blog.ivrpowers.com/tags/videortc/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>webacd</title>
       <link>https://blog.ivrpowers.com/tags/webacd/</link>
       <pubDate>Sat, 26 Sep 2026 09:00:00 +0200</pubDate>
       
       <guid>https://blog.ivrpowers.com/tags/webacd/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>AI</title>
-      <link>https://blog.ivrpowers.com/tags/ai/</link>
-      <pubDate>Fri, 28 Aug 2026 09:00:00 +0200</pubDate>
-      
-      <guid>https://blog.ivrpowers.com/tags/ai/</guid>
       <description></description>
     </item>
     
@@ -400,15 +436,6 @@
       <pubDate>Wed, 12 Mar 2025 12:00:00 +0200</pubDate>
       
       <guid>https://blog.ivrpowers.com/tags/cctr/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>webrtc</title>
-      <link>https://blog.ivrpowers.com/tags/webrtc/</link>
-      <pubDate>Tue, 25 Feb 2025 12:00:00 +0200</pubDate>
-      
-      <guid>https://blog.ivrpowers.com/tags/webrtc/</guid>
       <description></description>
     </item>
     
@@ -1354,15 +1381,6 @@
       <pubDate>Thu, 23 Nov 2017 10:09:51 +0200</pubDate>
       
       <guid>https://blog.ivrpowers.com/tags/omnichannel/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>mobile</title>
-      <link>https://blog.ivrpowers.com/tags/mobile/</link>
-      <pubDate>Mon, 20 Nov 2017 18:01:23 +0100</pubDate>
-      
-      <guid>https://blog.ivrpowers.com/tags/mobile/</guid>
       <description></description>
     </item>
     
