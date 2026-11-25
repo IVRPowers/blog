@@ -6,31 +6,157 @@
     <description>Recent content in Tags on Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 06 Nov 2026 09:00:00 +0200</lastBuildDate><atom:link href="https://blog.ivrpowers.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 22 Nov 2026 16:30:00 +0200</lastBuildDate><atom:link href="https://blog.ivrpowers.com/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>AI</title>
-      <link>https://blog.ivrpowers.com/tags/ai/</link>
-      <pubDate>Fri, 06 Nov 2026 09:00:00 +0200</pubDate>
+      <title>ivrpowers</title>
+      <link>https://blog.ivrpowers.com/tags/ivrpowers/</link>
+      <pubDate>Sun, 22 Nov 2026 16:30:00 +0200</pubDate>
       
-      <guid>https://blog.ivrpowers.com/tags/ai/</guid>
+      <guid>https://blog.ivrpowers.com/tags/ivrpowers/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ott</title>
+      <link>https://blog.ivrpowers.com/tags/ott/</link>
+      <pubDate>Sun, 22 Nov 2026 16:30:00 +0200</pubDate>
+      
+      <guid>https://blog.ivrpowers.com/tags/ott/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>phygital</title>
+      <link>https://blog.ivrpowers.com/tags/phygital/</link>
+      <pubDate>Sun, 22 Nov 2026 16:30:00 +0200</pubDate>
+      
+      <guid>https://blog.ivrpowers.com/tags/phygital/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>satellite</title>
+      <link>https://blog.ivrpowers.com/tags/satellite/</link>
+      <pubDate>Sun, 22 Nov 2026 16:30:00 +0200</pubDate>
+      
+      <guid>https://blog.ivrpowers.com/tags/satellite/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>telecom</title>
+      <link>https://blog.ivrpowers.com/tags/telecom/</link>
+      <pubDate>Sun, 22 Nov 2026 16:30:00 +0200</pubDate>
+      
+      <guid>https://blog.ivrpowers.com/tags/telecom/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>telepresencia</title>
+      <link>https://blog.ivrpowers.com/tags/telepresencia/</link>
+      <pubDate>Sun, 22 Nov 2026 16:30:00 +0200</pubDate>
+      
+      <guid>https://blog.ivrpowers.com/tags/telepresencia/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>banking</title>
+      <link>https://blog.ivrpowers.com/tags/banking/</link>
+      <pubDate>Wed, 18 Nov 2026 16:30:00 +0200</pubDate>
+      
+      <guid>https://blog.ivrpowers.com/tags/banking/</guid>
       <description></description>
     </item>
     
     <item>
       <title>cx</title>
       <link>https://blog.ivrpowers.com/tags/cx/</link>
-      <pubDate>Fri, 06 Nov 2026 09:00:00 +0200</pubDate>
+      <pubDate>Wed, 18 Nov 2026 16:30:00 +0200</pubDate>
       
       <guid>https://blog.ivrpowers.com/tags/cx/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>ivrpowers</title>
-      <link>https://blog.ivrpowers.com/tags/ivrpowers/</link>
-      <pubDate>Fri, 06 Nov 2026 09:00:00 +0200</pubDate>
+      <title>fraud</title>
+      <link>https://blog.ivrpowers.com/tags/fraud/</link>
+      <pubDate>Wed, 18 Nov 2026 16:30:00 +0200</pubDate>
       
-      <guid>https://blog.ivrpowers.com/tags/ivrpowers/</guid>
+      <guid>https://blog.ivrpowers.com/tags/fraud/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>rtc</title>
+      <link>https://blog.ivrpowers.com/tags/rtc/</link>
+      <pubDate>Wed, 18 Nov 2026 16:30:00 +0200</pubDate>
+      
+      <guid>https://blog.ivrpowers.com/tags/rtc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>security</title>
+      <link>https://blog.ivrpowers.com/tags/security/</link>
+      <pubDate>Wed, 18 Nov 2026 16:30:00 +0200</pubDate>
+      
+      <guid>https://blog.ivrpowers.com/tags/security/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>webrtc</title>
+      <link>https://blog.ivrpowers.com/tags/webrtc/</link>
+      <pubDate>Wed, 18 Nov 2026 16:30:00 +0200</pubDate>
+      
+      <guid>https://blog.ivrpowers.com/tags/webrtc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>smartivr</title>
+      <link>https://blog.ivrpowers.com/tags/smartivr/</link>
+      <pubDate>Tue, 17 Nov 2026 16:30:00 +0200</pubDate>
+      
+      <guid>https://blog.ivrpowers.com/tags/smartivr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>AI</title>
+      <link>https://blog.ivrpowers.com/tags/ai/</link>
+      <pubDate>Mon, 09 Nov 2026 16:30:00 +0200</pubDate>
+      
+      <guid>https://blog.ivrpowers.com/tags/ai/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>automation</title>
+      <link>https://blog.ivrpowers.com/tags/automation/</link>
+      <pubDate>Mon, 09 Nov 2026 16:30:00 +0200</pubDate>
+      
+      <guid>https://blog.ivrpowers.com/tags/automation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>customerservice</title>
+      <link>https://blog.ivrpowers.com/tags/customerservice/</link>
+      <pubDate>Mon, 09 Nov 2026 16:30:00 +0200</pubDate>
+      
+      <guid>https://blog.ivrpowers.com/tags/customerservice/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>webacd</title>
+      <link>https://blog.ivrpowers.com/tags/webacd/</link>
+      <pubDate>Mon, 09 Nov 2026 16:30:00 +0200</pubDate>
+      
+      <guid>https://blog.ivrpowers.com/tags/webacd/</guid>
       <description></description>
     </item>
     
@@ -49,15 +175,6 @@
       <pubDate>Fri, 06 Nov 2026 09:00:00 +0200</pubDate>
       
       <guid>https://blog.ivrpowers.com/tags/videocall/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>webrtc</title>
-      <link>https://blog.ivrpowers.com/tags/webrtc/</link>
-      <pubDate>Fri, 06 Nov 2026 09:00:00 +0200</pubDate>
-      
-      <guid>https://blog.ivrpowers.com/tags/webrtc/</guid>
       <description></description>
     </item>
     
@@ -89,15 +206,6 @@
     </item>
     
     <item>
-      <title>smartivr</title>
-      <link>https://blog.ivrpowers.com/tags/smartivr/</link>
-      <pubDate>Wed, 04 Nov 2026 09:00:00 +0200</pubDate>
-      
-      <guid>https://blog.ivrpowers.com/tags/smartivr/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>voicebot</title>
       <link>https://blog.ivrpowers.com/tags/voicebot/</link>
       <pubDate>Wed, 04 Nov 2026 09:00:00 +0200</pubDate>
@@ -107,47 +215,11 @@
     </item>
     
     <item>
-      <title>banking</title>
-      <link>https://blog.ivrpowers.com/tags/banking/</link>
-      <pubDate>Tue, 03 Nov 2026 09:00:00 +0200</pubDate>
-      
-      <guid>https://blog.ivrpowers.com/tags/banking/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>phygital</title>
-      <link>https://blog.ivrpowers.com/tags/phygital/</link>
-      <pubDate>Tue, 03 Nov 2026 09:00:00 +0200</pubDate>
-      
-      <guid>https://blog.ivrpowers.com/tags/phygital/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>telepresencia</title>
-      <link>https://blog.ivrpowers.com/tags/telepresencia/</link>
-      <pubDate>Tue, 03 Nov 2026 09:00:00 +0200</pubDate>
-      
-      <guid>https://blog.ivrpowers.com/tags/telepresencia/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>videortc</title>
       <link>https://blog.ivrpowers.com/tags/videortc/</link>
       <pubDate>Tue, 03 Nov 2026 09:00:00 +0200</pubDate>
       
       <guid>https://blog.ivrpowers.com/tags/videortc/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>webacd</title>
-      <link>https://blog.ivrpowers.com/tags/webacd/</link>
-      <pubDate>Tue, 03 Nov 2026 09:00:00 +0200</pubDate>
-      
-      <guid>https://blog.ivrpowers.com/tags/webacd/</guid>
       <description></description>
     </item>
     
@@ -211,15 +283,6 @@
       <pubDate>Sat, 26 Sep 2026 09:00:00 +0200</pubDate>
       
       <guid>https://blog.ivrpowers.com/tags/hospitality/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>automation</title>
-      <link>https://blog.ivrpowers.com/tags/automation/</link>
-      <pubDate>Fri, 28 Aug 2026 09:00:00 +0200</pubDate>
-      
-      <guid>https://blog.ivrpowers.com/tags/automation/</guid>
       <description></description>
     </item>
     
@@ -368,15 +431,6 @@
     </item>
     
     <item>
-      <title>rtc</title>
-      <link>https://blog.ivrpowers.com/tags/rtc/</link>
-      <pubDate>Sat, 11 Apr 2026 08:00:00 +0200</pubDate>
-      
-      <guid>https://blog.ivrpowers.com/tags/rtc/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>marketing</title>
       <link>https://blog.ivrpowers.com/tags/marketing/</link>
       <pubDate>Wed, 31 Dec 2025 12:00:00 +0200</pubDate>
@@ -463,15 +517,6 @@
       <pubDate>Wed, 12 Mar 2025 12:00:00 +0200</pubDate>
       
       <guid>https://blog.ivrpowers.com/tags/cctr/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>security</title>
-      <link>https://blog.ivrpowers.com/tags/security/</link>
-      <pubDate>Fri, 14 Feb 2025 12:00:00 +0200</pubDate>
-      
-      <guid>https://blog.ivrpowers.com/tags/security/</guid>
       <description></description>
     </item>
     
